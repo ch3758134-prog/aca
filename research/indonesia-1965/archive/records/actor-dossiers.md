@@ -138,3 +138,22 @@ The early left had connections among ISDV/PKI, Sarekat Islam factions, youth org
 
 - Later publications reproduce Hatta's July 1956 letters as arguing that the elected DPR and Constituent Assembly had taken office, and that the vice-presidency was unnecessary within a parliamentary cabinet system. The Constitutional Court's historical volume separately cites Mavis Rose for political differences with Sukarno; the original letters and Cabinet/DPR record should be inspected before assigning relative weight to the constitutional and political reasons. [S107; S113]
 - The 26 December 1956 U.S. embassy telegram portrays Hatta as resting above Bogor and worried about his wife's illness, yet still consulting Simatupang and leaders from Masjumi, PNI, NU and several smaller parties during the Sumatra crisis. It records Hatta's preference for Sukarno to form a presidential cabinet. The cable is a paraphrased foreign diplomatic report; it offers a relationship map, not a verbatim or complete explanation of Hatta's actions. [S106]
+
+## Eighth-pass actor and relationship addendum
+
+### Sukarno, Pranoto and Suharto, October 1965–March 1966
+
+- Sukarno's published 1 October order and 14 October signed decree together establish a **formal** sequence: Sukarno claimed temporary direct Army leadership and entrusted daily Army affairs to Pranoto; he separately assigned Suharto to security restoration on 2 October; the 14 October decree withdrew the earlier arrangement, released Pranoto and appointed Suharto Army Minister/Commander. These documents do not by themselves show how each unit obeyed or what Sukarno knew about executions. [C083–C086; S115–S116]
+- ANRI inventories locate Sukarno's 3 October and 16 October speech records (815A and 816), plus KOTI October collections. Their contents should be requested before reconstructing private intentions or personal terms between Sukarno and Suharto. [C090–C091; S117–S118]
+- A 23 October U.S. memorandum of a talk with Adnan Buyung Nasution is described by the National Security Archive as saying the Army was keeping the extent of repression from Sukarno. This is a report of one person's statement transmitted by a foreign embassy; the available OCR is unusable. It cannot establish Sukarno's actual state of knowledge. [C099; S125]
+
+### Sukarno and Aidit; PNI, PKI and coalition leaders
+
+- ANRI catalogue item 798 identifies a public 13 September 1965 decoration ceremony for Aidit attended/addressed by Sukarno. Public honor is a documented political relationship datum, but no private coordination can be inferred without correspondence, decision records and exact speech. [C090; S117]
+- PKI and PNI issued separate denials of organizational participation or consent to names on the Revolution Council list. These public positions should be compared with party minutes and person-specific evidence rather than assumed true or false from their existence. [C087–C088; S115]
+- A 4 October coalition statement delivered to KOSTRAD demanded political and administrative suppression of PKI-linked groups. The individual named speaker Subhan and each participating organization require separate biographical and branch-level reconstruction; the statement alone does not prove a local command role in killings. [C089; S115]
+
+### Australian/Malaysian diplomatic intermediaries
+
+- Australia's 18 October cable relays Ghazali through a British intermediary. The putative Indonesian Army contact is a **network lead** with several reporting links, not an established direct personal tie. [C094; S119]
+- Shann's July assessment and Hasluck's October instruction show different Australian roles and dates; one diplomat's appraisal of Sukarno is not proof of cabinet-wide consensus or later operational effect. [C092; C095; S120–S121]

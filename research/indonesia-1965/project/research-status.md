@@ -137,3 +137,20 @@ Research remains active: the next searches should retrieve or inspect the ANRI s
 A line-level review of KPU's 2013 election-history PDF confirmed the leading four party totals in each 1955 ballot. These are now stored separately as C078–C079, preserving the national DPR and Constituent Assembly ballots as distinct tables. The local monograph's 3,000-vote discrepancy for the PKI DPR total remains unresolved pending original PPI and ANRI record inspection.
 
 Current cumulative counts: **114** sources, **79** claims, **35** search-log groups and **37** coverage rows. The new figures are high-confidence as transcriptions of KPU's published table, not as final verification of the original tally.
+
+## Eighth archived research pass — 2026-11-08 UTC
+
+The current cumulative register has **132 sources, 108 claim/observation rows, 46 search-log groups, and 47 coverage rows**. This pass adds C080–C108, S115–S132, Q036–Q046 and CV038–CV047; S046 is updated from abstract-level to full-article access. Counts are inventory counts, not a measure of completeness.
+
+New original-document findings:
+
+- BPK's full Keppres 302/1965 records Sukarno's formal 1 Oct, 2 Oct and 14 Oct Army arrangements. Cornell's Apr 1966 translation compilation offers public statements by the movement, Sukarno, PKI, PNI and an anti-PKI coalition. It is selective, translated and public-facing; original Indonesian text and private command decisions remain open.
+- ANRI finding aids identify Sukarno speech items 798/815A/816 and KOTI files 52/53/63. These are catalogue leads only.
+- Australian DFAT cable 339 directly records Hasluck's 28 Oct instruction to avoid intensified Borneo operations so Indonesian Army resources would not be weakened in the internal PKI struggle. Editorial note, not reproduced reply, reports Malaysian easing instructions on 31 Oct. DFAT cable 337 records a multi-step hearsay claim of Indonesian Army–Malaysian propaganda contact. Earlier DFAT documents 56 and 283 offer attributed Subandrio allegations and ambassador Shann's distinct July policy assessment.
+- National Security Archive's 39-item U.S. embassy selection was indexed; original OCR was partially readable for Medan Telegram 509 and Joint Weeka A-353, unusable for A-298 and the 29 Oct Indonesian Air Force report. Archive curatorial descriptions are therefore explicitly labelled as such. The large RG84 Entry P339 collection is not exhausted by this selection.
+- Jess Melvin's Aceh article was read for dates, military-record leads and the important distinction between a military map's 1,941 recorded public killings and a speculative ~10,000 total extrapolation.
+- ANRI-hosted source criticism reports three held Supersemar copies not original, while warning non-original does not mean forgery. The official MPRS XXV/1966 text was read, as was a contemporary U.S. embassy assessment of the March 1966 power change. The original Supersemar, forensic report, KOGAM/12 Mar order and MPRS proceedings still require examination.
+
+The earlier stage-8 HTML statement that no MPRS resolution or Supersemar source had been examined is superseded by this pass. The original 11 March document has **not** been authenticated by this work, and the specific 1967 MPRS removal text remains to be read. A separate Chinese staged HTML update and a source-chain note accompany this pass.
+
+**Next high-priority work:** item-level ANRI/NARA/Australian/UK/Malaysian records, original Indonesian unit orders and local victim/detention series, 1966–67 parliamentary/legal records, Dutch/Japanese/Chinese/Russian corpora, and archives on social/class and personal relationships. These gaps remain active and prevent any claim that the research is complete.
