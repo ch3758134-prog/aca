@@ -130,3 +130,10 @@ New evidence and distinctions:
 - ANRI's *Jejak Demokrasi Pemilu 1955* has been identified as a valuable original-record gateway, but its downloaded PDF text is not readable in the browser and screenshot extraction failed; BPS's direct page was also blocked. These are logged as access limits, not evidence that the material is absent.
 
 Research remains active: the next searches should retrieve or inspect the ANRI sourcebook and underlying 1955 records; find the original petition and Indonesian reporting on October 17; locate Hatta's original letters and Cabinet/DPR records; compare Nasution and Zulkifli Lubis memoirs and family/military files; retrieve UU74 and Keppres 40/225 scans; and expand Dutch, Japanese, British, Australian, PRC, Soviet and Indonesian provincial archives. Counts describe the current archive only and are not a claim of completion.
+
+
+## Election-table addendum — 2026-11-08 UTC
+
+A line-level review of KPU's 2013 election-history PDF confirmed the leading four party totals in each 1955 ballot. These are now stored separately as C078–C079, preserving the national DPR and Constituent Assembly ballots as distinct tables. The local monograph's 3,000-vote discrepancy for the PKI DPR total remains unresolved pending original PPI and ANRI record inspection.
+
+Current cumulative counts: **114** sources, **79** claims, **35** search-log groups and **37** coverage rows. The new figures are high-confidence as transcriptions of KPU's published table, not as final verification of the original tally.
