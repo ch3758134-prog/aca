@@ -1,6 +1,7 @@
 # Stage access and authorization record
 
 - **Logged:** 2026-11-08 UTC.
+- **Scope reinforcement (2026-11-08 UTC):** the user explicitly asks for continuing, comprehensive searches with no self-imposed year/topic cutoff; expand earlier than 1965 as relationships, biographies, archives or causal explanation require, archive each research pass and continue through the open gaps. Do not claim completion based only on the current tranche.
 - **Authorized stages:** source discovery and factual verification for this Indonesia/Sukarno project.
 - **Authorized source scope:** lawfully accessible public sources, any publication date and relevant language. The start period is not fixed at 1957 or any other year. Expand backward whenever needed to explain a fact, institution, relationship or causal claim; continue forward where later events clarify the evidence.
 - **People and relationships:** public biographical records and documented family, marriage, mentorship, organizational, political and professional relationships may be researched when relevant. Separate verified relationship from rumor, inference or allegation.

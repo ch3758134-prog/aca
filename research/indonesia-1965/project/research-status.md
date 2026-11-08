@@ -108,3 +108,25 @@ The archive now includes a focused set of official U.S. records from 1952–61 a
 The personal-history record now links ANRI's biographical account of Sukarno's parents, schooling and residence in H.O.S. Tjokroaminoto's home with existing marriage/archive leads. The underlying school, family, correspondence and oral-history records remain open for inspection.
 
 Updated cumulative counts: 98 source records (S001–S098); 68 claim entries; 31 search-log entries; 33 coverage rows. Research continues across earlier colonial history, Japanese occupation, 1949–57 institutions, foreign operations and local-level events. These counts describe the archive's current state and do not claim exhaustion.
+
+## Fifth research tranche — 2026-11-08 UTC
+
+This pass continued earlier-period research into the 1952 civil-military crisis, the 1955 elections, Hatta's 1956 resignation and the emergency-law framework. It also added public biographical and personal-network leads and recorded a source discrepancy rather than normalizing it.
+
+Cumulative archive state:
+
+- **114** source records (S001–S114).
+- **77** atomic claim entries (C001–C077).
+- **35** grouped search-log entries (Q001–Q035).
+- **37** coverage rows (CV001–CV037).
+
+New evidence and distinctions:
+
+- Two official KPU-published tables distinguish the 1955 DPR and Constituent Assembly elections; a 2018 regional-government book differs by 3,000 PKI DPR votes. Original PPI and ANRI records are still needed to resolve transmission.
+- October 17, 1952 is documented in contemporaneous U.S. reporting that names an Indonesian source chain and preserves Sukarno's distinct account. The 1954 OIR report is an interested analytic source; the petition itself and Indonesian Army/Cabinet records remain open.
+- Hatta's published resignation letters provide constitutional arguments; later sources also point to political differences with Sukarno. A U.S. embassy telegram reports Hatta's network and private circumstances, but is not verbatim.
+- March and December 1957 emergency declarations are separate legal actions. The 1959 Perpu records broad legal authorities; implementation and local practice remain unestablished.
+- U.S. reporting on Nasution's officer training, rapport with U.S. observers and family rivalry with Zulkifli Lubis is logged as a source perspective, with the kinship and motives assigned different confidence levels.
+- ANRI's *Jejak Demokrasi Pemilu 1955* has been identified as a valuable original-record gateway, but its downloaded PDF text is not readable in the browser and screenshot extraction failed; BPS's direct page was also blocked. These are logged as access limits, not evidence that the material is absent.
+
+Research remains active: the next searches should retrieve or inspect the ANRI sourcebook and underlying 1955 records; find the original petition and Indonesian reporting on October 17; locate Hatta's original letters and Cabinet/DPR records; compare Nasution and Zulkifli Lubis memoirs and family/military files; retrieve UU74 and Keppres 40/225 scans; and expand Dutch, Japanese, British, Australian, PRC, Soviet and Indonesian provincial archives. Counts describe the current archive only and are not a claim of completion.

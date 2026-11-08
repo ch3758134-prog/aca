@@ -120,3 +120,21 @@ The early left had connections among ISDV/PKI, Sarekat Islam factions, youth org
 - ANRI's curated Presidentpedia names Raden Soekemi Sosrodihardjo and Ida Ayu Nyoman Rai as Sukarno's parents and reports his Surabaya schooling and residence in H.O.S. Tjokroaminoto's household before HBS and THS. These details should be checked against school registers, family letters and household records; they do not by themselves establish the precise nature or direction of political influence. [S093; S001–S002]
 - ANRI's September 2024 report says its team located Inggit Garnasih family-archive materials, Sukarno's ITB student register and grade records and interviewed Inggit's grandson. The archival objects and oral-history transcript still require item-level review. [S060; S073]
 - The U.S. NSC's 1953 policy directive explicitly targeted personal influence on Indonesian leaders, especially Sukarno, while its 1961 staff retrospective framed U.S. policy as an attempt to influence Sukarno's political balancing. These are statements of U.S. intention/interpretation, not independent proof that Sukarno was controlled or that a policy succeeded. [S095; S097]
+
+
+## Research update — personal and civil-military networks before 1965
+
+### Sukarno, Nasution and Sultan Hamengkubuwono IX
+
+- In a 22 October 1952 meeting memorandum, Ambassador Cochran says Sukarno characterized the Palace crowd as a mixture of young Army officers/civilians associated with or influenced by PSI, Murba members and people favoring dictatorship under Sukarno. Sukarno reportedly said the Irian issue helped disperse the crowd and expressed respect and affection for Sultan Hamengkubuwono IX, while disputing press stories of a personal quarrel. Preserve this as Sukarno's reported account and political self-presentation; compare the Sultan's own files and Indonesian reporting. [S105]
+- An October 20 cable describes the chain through which President's Secretary Pringgo Digdo supplied the U.S. ambassador an inside account of the October 17 events, including the Army petition and the Sultan's reported reaction. The source explicitly asked for limited distribution to protect Pringgo; the record is both useful and interested/secondhand. [S104]
+
+### Nasution and Zulkifli Lubis; Army-U.S. contacts
+
+- A 1958 secret U.S. profile records Nasution's birth and training history, the October 17 affair, his 1953–55 inactive period, his role in IPKI and his return to the Army chief-of-staff position. It also says U.S. military officers had been on close friendly terms with him during his earlier tenure, and that Army training in U.S. schools began under him. These details identify personal and institutional channels to verify against Indonesian service records, correspondence and memoirs; the U.S. profile's political and psychological labels are not adopted as facts about motive. [S114; S096]
+- The same profile identifies Zulkifli Lubis as Nasution's first cousin and attributes part of their antagonism and subsequent decisions to a personal rivalry dating at least to October 17. The kinship can be checked; the motive is an uncorroborated U.S. analytic assertion. Seek family records, Army appointment/removal records, correspondence and both men's writings before drawing any causal inference. [S114]
+
+### Hatta and Sukarno
+
+- Later publications reproduce Hatta's July 1956 letters as arguing that the elected DPR and Constituent Assembly had taken office, and that the vice-presidency was unnecessary within a parliamentary cabinet system. The Constitutional Court's historical volume separately cites Mavis Rose for political differences with Sukarno; the original letters and Cabinet/DPR record should be inspected before assigning relative weight to the constitutional and political reasons. [S107; S113]
+- The 26 December 1956 U.S. embassy telegram portrays Hatta as resting above Bogor and worried about his wife's illness, yet still consulting Simatupang and leaders from Masjumi, PNI, NU and several smaller parties during the Sumatra crisis. It records Hatta's preference for Sukarno to form a presidential cabinet. The cable is a paraphrased foreign diplomatic report; it offers a relationship map, not a verbatim or complete explanation of Hatta's actions. [S106]
