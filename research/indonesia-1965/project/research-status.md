@@ -100,3 +100,11 @@ Next searches continue across all causally relevant earlier and later periods, l
 A register audit found that source IDs S059–S073 were referenced by existing claims and search logs but had no corresponding rows in `source-register.csv`; the register jumped from S058 to S074. This update restores S059–S073 without renumbering any existing record. Bibliographic details were checked against publisher, national-archive, library-catalog, CIA and contemporaneous-report pages where available. Several entries remain catalog/abstract/search leads rather than fully read works or inspected archival objects; their row-level access notes state those limits. Claim C034 was also updated to distinguish the law's verified formal provisions from unverified enterprise-level implementation.
 
 Current cumulative counts: 92 source-register records (S001–S092); 61 claim entries; 30 search-log entries; 31 coverage rows. This is a running archive, not a claim that all relevant material has been found or reviewed.
+
+## Fourth research tranche — 2026-11-08
+
+The archive now includes a focused set of official U.S. records from 1952–61 and an ANRI biographical entry. These identify specific influence channels: MSA aid terms and their Indonesian political controversy; personal diplomacy; rubber/tin market and economic/technical assistance; military schooling, equipment and internal-security aid; information and exchange programs; intelligence collection; support to dissident forces in 1957–58; and direct negotiation over West New Guinea. The documents have unequal evidential status: approved policy is not completed operation, and U.S. characterizations of Indonesian actors remain interested assessments.
+
+The personal-history record now links ANRI's biographical account of Sukarno's parents, schooling and residence in H.O.S. Tjokroaminoto's home with existing marriage/archive leads. The underlying school, family, correspondence and oral-history records remain open for inspection.
+
+Updated cumulative counts: 98 source records (S001–S098); 68 claim entries; 31 search-log entries; 33 coverage rows. Research continues across earlier colonial history, Japanese occupation, 1949–57 institutions, foreign operations and local-level events. These counts describe the archive's current state and do not claim exhaustion.

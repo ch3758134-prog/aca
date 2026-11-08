@@ -113,3 +113,10 @@ The early left had connections among ISDV/PKI, Sarekat Islam factions, youth org
 ## Masyumi and PSI
 
 - U.S. officials reported the two parties excluded from the Guided Democracy executive in 1959; decrees dated 17 August 1960 ordered their dissolution. The decrees establish formal action but do not establish the full range of prior opposition, alleged involvement in regional rebellion, legality, or local enforcement. [S078, S086–S087]
+
+
+## Sukarno: personal and political network leads
+
+- ANRI's curated Presidentpedia names Raden Soekemi Sosrodihardjo and Ida Ayu Nyoman Rai as Sukarno's parents and reports his Surabaya schooling and residence in H.O.S. Tjokroaminoto's household before HBS and THS. These details should be checked against school registers, family letters and household records; they do not by themselves establish the precise nature or direction of political influence. [S093; S001–S002]
+- ANRI's September 2024 report says its team located Inggit Garnasih family-archive materials, Sukarno's ITB student register and grade records and interviewed Inggit's grandson. The archival objects and oral-history transcript still require item-level review. [S060; S073]
+- The U.S. NSC's 1953 policy directive explicitly targeted personal influence on Indonesian leaders, especially Sukarno, while its 1961 staff retrospective framed U.S. policy as an attempt to influence Sukarno's political balancing. These are statements of U.S. intention/interpretation, not independent proof that Sukarno was controlled or that a policy succeeded. [S095; S097]
