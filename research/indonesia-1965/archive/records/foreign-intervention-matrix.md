@@ -37,3 +37,9 @@ This is an evidence map, not a political verdict. It distinguishes the state/ins
 5. **Causality:** Does evidence show that foreign action changed a decision or outcome, or only that it co-occurred?
 6. **Negative evidence:** A statement such as “no role” is bounded by its author's mandate and scope. It cannot automatically negate activity recorded in other files.
 7. **Political judgment:** This matrix supplies verifiable facts and uncertainty only. The author decides what causal and political meaning follows.
+## Research update — Japanese occupation and colonial economic foundations (2026-11-08)
+
+- Recent sources strengthen the Japan row: occupation administration used Indonesian nationalist leaders and local institutions for political mobilization while imposing rice quotas, food-movement restrictions, forced labor and military recruitment. Evidence must distinguish policy design, local implementation, Sukarno's participation, and the much wider occupation apparatus. [S001, S016, S062]
+- The famine evidence is Java-specific and method-sensitive. The 2024 published demographic study estimates 3.3 million net population loss, not 3.3 million deaths; it apportions roughly 1.8 million excess deaths and 1.4 million missing births. The prior working-paper abstract has different rounded values. [S062, S074]
+- Colonial land and labor regimes before 1942 shaped the economy and political field through compulsory crop delivery, land concessions, slavery, indenture and migration. These operated differently across Java, Sumatra and other islands; add region-level sources before drawing national conclusions. [S063–S066]
+- ANRI's current record gateways now include Inggit family materials, marriage/divorce files and a 2024 oral-history interview. These are primary/archival leads, not yet reviewed records. [S059, S060, S073]

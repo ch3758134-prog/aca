@@ -75,3 +75,25 @@
 - **Moderate:** one credible biography/archive narrative establishes it, but no original record or independent account is checked.
 - **Low/open:** hearsay, memoir-only, intelligence inference, prosecutorial confession or a single unverified secondary summary.
 - A relationship must be described precisely: family, marriage, mentorship, formal office, command chain, liaison, funding, ideological affiliation or alleged conspiracy.
+## Research update — personal records and early networks (2026-11-08)
+
+### Inggit Garnasih and Sukarno
+
+- ANRI reports that a 2024 Bandung archival survey located Inggit's family materials, Sukarno's ITB enrollment register and grades, and interviewed Inggit's grandson. An ANRI archival-management article identifies marriage and divorce documents as surviving personal records. [S059, S060]
+- The marriage year is currently best recorded as 1923, with exact day/month unresolved: ANRI's timeline says 24 April and cites certificate No. 1138; a 2010 report attributed to Inggit's heir gives 24 March; Cambridge's short biography says 1922. Do not treat an article paraphrase as equivalent to the original certificate. [S001, S002, S059, S061]
+- The archive lead is unusually concrete: request the certificate's item-level description and image, compare the archival original with family-held copies, review the divorce record, and trace Inggit/Garnasih family correspondence and oral-history metadata. [S059, S060]
+- The ANRI timeline also provides a lead that Inggit married Sukarno after previously being married; exact prior relationship, legal status and her own perspective need independent records rather than biographical shorthand.
+
+### Hatta and Sukarno
+
+- ANRI's timeline records Hatta's February 1929 letter urging Sukarno to consider restricting activity or leaving temporarily and offering to prepare travel costs and lodging in the Netherlands. This is an unusually specific lead for a private political relationship. The letter's original wording, survival, archival reference, Sukarno's response and later relationship still need verification. [S002]
+
+### Early Sukarno biography and schools
+
+- ANRI's chronology places Sukarno with his grandfather in Tulungagung around 1907; schooling in Mojokerto from 1908; ELS from 1911; and HBS/household at Tjokroaminoto's home in 1915. Cambridge supports the broad Surabaya schooling and nationalist-network context. [S001, S002]
+- The Pusdipres 2024 survey reports that the ITB student register and grade records are located; these are potential primary checks for education and class trajectory, not yet inspected documents. [S060]
+- Sukarno's autobiography, as told to Cindy Adams, is a potentially valuable first-person source for family, occupation and political relationships, but must be treated as a crafted and mediated political self-narrative. The copy has not yet been read. [S069]
+
+### Relationships remain differentiated
+
+The early left had connections among ISDV/PKI, Sarekat Islam factions, youth organizations, labor and nationalist study groups. ANRI's timeline records Sukarno defending Tjokroaminoto in a 1923 meeting involving PKI and SI Merah, and earlier links through Jong Java and Sarekat Islam. These are meeting/organizational facts; they do not establish ideological identity or durable alliance. [S002, S040, S070]

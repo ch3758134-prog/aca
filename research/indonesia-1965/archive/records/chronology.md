@@ -65,3 +65,26 @@ Confidence guide: **High** = directly recorded or independently corroborated bas
 3. Preserve competing dates, counts and names until primary documents or better research resolve them.
 4. Every claim should point to source-register IDs and be broken into atomic claims in `claim-ledger.csv`.
 5. The chronology is descriptive. Political judgments remain the author's decision after reviewing the record.
+## Research update — second pass (2026-11-08)
+
+### Colonial land and labor backstory added
+
+- **1830 onward:** Scholarship locates the Dutch Cultivation System primarily in Java, where colonial authorities extracted peasant land and labor for cash-crop delivery. It did not produce one uniform class structure across the archipelago; plantation labor, slavery, indenture, village land, tenancy and migration differed by region and period. [S063–S066]
+- **1870:** A recent agrarian synthesis describes the Agrarian Law's designation of uncultivated or shifting-cultivation lands without recognized private rights as colonial state land and its role in enabling long leases and plantations. This is a scholarly summary; statutory text and local concession records remain to be read. [S063]
+- **19th-century mortality:** A peer-reviewed study estimates adverse mortality effects of forced labor under the Java Cultivation System for 1834–1879. Its Java-specific model cannot be generalized to all Indonesia or directly mapped onto the 1940s. [S066]
+- **1914–1920:** Scholarly references trace the ISDV to 1914 and the PKI name to 1920; Indonesian left organizing also involved Sarekat Islam, labor and intellectual networks. A party-centered account is incomplete, and party constitutions/newspapers have not yet been examined. [S040, S070]
+- **1920–1921:** ANRI says Sukarno married Siti Oetari in April 1920 and notes another source gives 1921. Cambridge gives 1921. [S001, S002]
+- **1922–1923:** The Inggit marriage date has a source conflict. Cambridge gives 1922; ANRI's archival timeline gives 24 April 1923 and cites marriage certificate No. 1138; a report based on the family-held certificate says 24 March 1923. Best present assessment: **1923 is better supported; exact date unresolved pending inspection of the document.** [S001, S002, S059–S061]
+- **1929:** ANRI's timeline records a letter from Hatta advising Sukarno to restrain political activity or leave temporarily, and offering to arrange travel costs and lodging in the Netherlands. This provides a specific personal/political network lead; the letter itself remains to be read. [S002]
+- **1944–1945:** A new peer-reviewed demographic article estimates a **Java-only** net population loss of 3.3 million during 1942–45, separated into 1.8 million excess deaths and about 1.4 million missing births. Its earlier working-paper abstract gives rounded 3.4 million and 1.9 million excess deaths. An older 4-million figure includes speculative indirect losses in 1946. These are method-dependent demographic estimates, not a precise victim count. [S016, S062, S074]
+- **Food policy and famine:** The 2024 study links delayed harvest after drought to Japanese rice quotas, below-market compensation eroded by inflation, and restrictions on inter-district food shipment. It relies on incomplete birth and mortality records and notes under-registration of infant mortality. [S062]
+- **Romusha:** Estimates have different denominators. One study cites 2.6 million Java laborers and at least 200,000 deaths; another commonly quoted figure concerns about 300,000 transported overseas and about 77,000 survivors. These cannot be combined until the underlying source populations and transport routes are verified. [S062, S068]
+- **Sukarno's own retrospective:** A recent historiographical article reports a 1965 statement in which he took responsibility for romusha suffering while defending wartime cooperation as part of the path to independence. Exact speech, original wording and context remain unverified. [S016]
+
+### Relationship and archive leads
+
+ANRI's 2024 Bandung search report says it located Inggit Garnasih family-archive material, Sukarno's ITB student register and grade records, and interviewed Inggit's grandson. ANRI's archive-journal article separately describes the marriage/divorce documents as personal archival records. These create a concrete route for expanding Sukarno's education, household, marriage and exile biographies; no underlying family file or interview transcript is yet in the claim evidence. [S059, S060, S073]
+
+### Source-revision note
+
+This pass changed the working confidence for the Inggit marriage year from conflicting 1922/1923 summaries to “1923 better supported, exact date unresolved.” It also separated Java net population loss from excess deaths and missing births, and separated working-paper estimates from the published article. The prior commit retains the first-pass record for audit.

@@ -46,3 +46,23 @@ This is an initial indexed tranche, not a claim of comprehensive search completi
 7. Resolve Supersemar/MPRS documentary versions and trace post-1965 consequences without a preset end date.
 
 Every pass should update the register, claims, logs, coverage matrix and dated scope note.
+## Second research pass — 2026-11-08 UTC
+
+The backward search has now crossed the old working boundary into 19th-century colonial land/labor history, the 1914–1920 formation of the Indonesian left, Sukarno's 1907–1929 education and personal-political networks, and Java's 1944–45 famine and romusha records.
+
+Current archive totals:
+
+- **74** sources in the register (S001–S074).
+- **46** atomic fact/uncertainty entries (C001–C046).
+- **23** grouped search-log entries (Q001–Q023).
+- **25** coverage rows (CV001–CV025).
+- Working chronology, actor dossiers, foreign-intervention matrix and scope notes updated.
+
+Substantive corrections and additions:
+
+- Sukarno–Inggit marriage: 1923 is better supported, but ANRI's timeline gives 24 April and the family-reported document gives 24 March; Cambridge summary gives 1922. Original certificate must be examined.
+- ANRI's 2024 Bandung archive survey reports Inggit family material, Sukarno's ITB student/grade records and an interview with Inggit's grandson.
+- Java's famine estimate is now separated into net population loss, excess deaths and missing births. Peer-reviewed and working-paper versions differ, and a Java estimate is not an Indonesia-wide total.
+- The 19th-century evidence concerns colonial land/labor regimes with major regional differences; it is not a ready-made explanation of 1965.
+
+Still not complete: primary Dutch, Japanese, Indonesian party, military, family and regional sources; individual ANRI oral histories; all foreign state archives; local land/labor and massacre records; exact event chronology and responsibility; Supersemar/MPRS records. The next pass continues with item-level archives and the 1940–49/1950–65 sequence.
