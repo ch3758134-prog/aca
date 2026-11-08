@@ -97,3 +97,19 @@
 ### Relationships remain differentiated
 
 The early left had connections among ISDV/PKI, Sarekat Islam factions, youth organizations, labor and nationalist study groups. ANRI's timeline records Sukarno defending Tjokroaminoto in a 1923 meeting involving PKI and SI Merah, and earlier links through Jong Java and Sarekat Islam. These are meeting/organizational facts; they do not establish ideological identity or durable alliance. [S002, S040, S070]
+
+## Nasution, Sukarno and the Army in Guided Democracy (1957–1960)
+
+- U.S. papers show the Army Chief of Staff Nasution as a central interlocutor in the U.S. military-aid program. One January 1959 recommendation explicitly proposed strengthening Nasution and officers it characterized as pro-West; later program documents state that most U.S. equipment went to the Army for internal security and anti-Communist purposes. This is evidence of U.S. priorities, not proof that Nasution or the Army simply followed U.S. direction. [S075, S088–S090]
+- U.S. assessments describe the Army as expanding its government role after the July 1959 Cabinet formation and Sukarno as using it as a counterweight to the PKI. The latter is an embassy interpretation; compare Indonesian appointment decrees, military councils, Army doctrine and Sukarno's own speeches. [S078]
+- The December 1957–1958 Dutch-company takeover tied military authority to economic management: union occupation, military supervision, government boards, Indonesian managers and later legal nationalization are separate links. Company-level control and Army business networks remain untraced. [S079–S082; S051]
+
+## Peasant, plantation-labor and women's organizations
+
+- The BTI, SARBUPRI and Gerwani should be analyzed as related but distinct organizations. The current scholarly synthesis reports BTI's mostly Java-based rural following, SARBUPRI's plantation-worker base in and beyond Java, and Gerwani's combination of agrarian, wage, debt and women's political demands. Membership numbers are organization claims reported by scholarship, not independently verified counts. [S041]
+- PKI/BTI land-reform strategy in the 1950s and early 1960s was shaped by an effort to mobilize a heterogeneous peasantry around tenancy reform and redistribution, rather than a single undifferentiated collectivization program. The 1961 PKI peasant conference transcript is evidence of public party demands; its original printed source remains to be located. [S041, S092]
+- By 1963–64, dispute over unilateral action and law implementation also exposed limits and conflicts within Sukarno's balancing politics: this is a scholarly account, and the June 1964 directive, September speech and local episodes still need primary records. [S041]
+
+## Masyumi and PSI
+
+- U.S. officials reported the two parties excluded from the Guided Democracy executive in 1959; decrees dated 17 August 1960 ordered their dissolution. The decrees establish formal action but do not establish the full range of prior opposition, alleged involvement in regional rebellion, legality, or local enforcement. [S078, S086–S087]

@@ -66,3 +66,37 @@ Substantive corrections and additions:
 - The 19th-century evidence concerns colonial land/labor regimes with major regional differences; it is not a ready-made explanation of 1965.
 
 Still not complete: primary Dutch, Japanese, Indonesian party, military, family and regional sources; individual ANRI oral histories; all foreign state archives; local land/labor and massacre records; exact event chronology and responsibility; Supersemar/MPRS records. The next pass continues with item-level archives and the 1940–49/1950–65 sequence.
+
+## Third research pass — 2026-11-08 UTC
+
+This pass extended the 1950s–1960s institutional and foreign-action record through Indonesian-language legal texts and U.S. diplomatic/defense documents, and added contemporary party and later agrarian research.
+
+Cumulative archive state:
+
+- **92** source records, S001–S092.
+- **61** atomic claim entries, C001–C061.
+- **28** grouped search-log entries, Q001–Q028.
+- **31** coverage rows, CV001–CV031.
+- Chronology, actor dossiers and foreign-intervention matrix updated.
+
+Newly examined evidence includes FRUS documents on Guided Democracy and the U.S. military-assistance program; Indonesian rules governing control and nationalization of Dutch firms; the UUPA, sharecropping law and Perpu56/1960; decree records for Masyumi/PSI; and scholarly/party materials on land reform and agrarian movements.
+
+Key evidence distinctions recorded:
+
+- worker occupation, military/state supervision, government control and statutory nationalization are separate stages;
+- U.S. military aid proposals, Presidential Determinations, program ceilings, reported shipments and Indonesian receipt/use are separate stages;
+- agrarian law and land-ceiling instruments do not prove enforcement or redistribution;
+- official landlessness figures are policy justifications requiring independent validation;
+- PKI/BTI, Gerwani, SARBUPRI, PNI/NU-affiliated organizations, landlords, village officials and district administrations need locality-specific study;
+- U.S. descriptions of Sukarno's and the Army's intentions are recorded as U.S. assessments, not authorial conclusions.
+
+Still open: 1949–57 political and personal history; pre-1830 and region-specific colonial formations; Sukarno's private archive, family and correspondence; Japanese and Dutch primary records; Indonesian party/Army and regional land files; aid receipt and unit-level use; UK/Australian/Chinese/Soviet/Japanese operational records; local violence and victim testimony; complete legal decree scans; and post-1965 institutional and memory history.
+
+Next searches continue across all causally relevant earlier and later periods, languages, archives and personal/organizational networks. There is no fixed historical cutoff; this is an ongoing coverage report, not a claim of exhaustion.
+
+
+## Archive-integrity correction — 2026-11-08
+
+A register audit found that source IDs S059–S073 were referenced by existing claims and search logs but had no corresponding rows in `source-register.csv`; the register jumped from S058 to S074. This update restores S059–S073 without renumbering any existing record. Bibliographic details were checked against publisher, national-archive, library-catalog, CIA and contemporaneous-report pages where available. Several entries remain catalog/abstract/search leads rather than fully read works or inspected archival objects; their row-level access notes state those limits. Claim C034 was also updated to distinguish the law's verified formal provisions from unverified enterprise-level implementation.
+
+Current cumulative counts: 92 source-register records (S001–S092); 61 claim entries; 30 search-log entries; 31 coverage rows. This is a running archive, not a claim that all relevant material has been found or reviewed.
