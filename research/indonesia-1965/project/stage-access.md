@@ -1,34 +1,11 @@
-# 阶段材料访问与检索范围
+# Stage access and authorization record
 
-每次任务复制“单次执行记录”并填写。用户的明确范围优先于默认建议。读取和检索是两种权限：某文件可读不代表可扩大外部检索；可检索某档案库也不代表可读库外材料。
-
-> 重要：此清单是工作流程约束，不是技术访问控制。同一工作区里未列出的文件仍可能在技术上可访问。要硬隔离，请分目录/工作区，或只提供本阶段获准文件。
-
-## 默认阶段范围
-
-| 阶段 | 默认可读材料 | 默认不可读 | 允许检索范围 | 典型留档 |
-|---|---|---|---|---|
-| 0 任务与范围 | 用户当前指示、`AGENTS.md`、本清单、`project/brief.md` | 原始来源库、分析结论、草稿、`author-position.md` | 不外部检索 | 范围确认、开放问题、允许路径 |
-| 1 检索设计 | 已确认的 brief、空白覆盖矩阵、检索边界 | 作者立场、结论性分析、文章草稿 | 只设计查询；除用户要求外不执行检索 | 覆盖矩阵、来源/语言/档案计划 |
-| 2 来源发现 | brief、获准检索计划、`search-log.csv`、`source-register.csv`、本次指定资料 | 作者立场、未批准分析、文章草稿 | 只查明列数据库/档案馆/语言；扩展需留痕 | 搜索日志、来源登记、原件定位 |
-| 3 事实核验 | 指定原始材料、来源登记、搜索日志、claim ledger | 作者立场和文章草稿；无关分析 | 对具体主张定向找支持、反证、独立来源 | 事实主张表、引文、冲突记录 |
-| 4 时间线/事实底稿 | 已核验主张、获准来源、时间线 | 作者立场、政治结论和未批准草稿 | 仅补查明确缺口，新增资料返回阶段2/3 | 带来源 ID 的时间线、缺口表 |
-| 5 分层分析 | 用户指定的事实底稿、时间线、分析问题 | 作者立场默认关闭；未批准草稿 | 仅补查已记录的证据缺口 | 分层分析备忘录、替代解释 |
-| 6 作者判断 | 已确认事实、已批准分析、作者明确开放的立场文本 | 未经许可的个人材料或其他项目 | 原则上不搜新事实；发现缺口退回阶段2/3 | 作者判断与证据映射、确认状态 |
-| 7 提纲/草稿 | 批准的事实、分析、作者立场、提纲和必要来源定位 | 不在本次允许范围内的其他项目材料 | 新事实不能直接写入；先回退核验 | 提纲、草稿版本、引文清单 |
-| 8 终审/归档 | 用户明确开放的最终档案包 | 用户明确排除的个人或来源资料 | 只做覆盖审计；新增检索单列任务 | 最终审计、未解决项、变更日志 |
-
-## 单次执行记录（复制填写）
-
-- 日期/时区：
-- 当前阶段：
-- 本次目标：
-- 允许读取的精确路径或文件：
-- 允许检索的数据库/档案馆/网站：
-- 允许检索的日期、地区、人物/机构、语言、材料类型：
-- 明确排除的路径、来源、议题或阶段：
-- 作者立场文本是否开放：
-- 允许的操作（读取/摘录/核验/分析/改写）：
-- 预期输出和留档：
-- 如范围不足，采取的动作（暂停/只做不依赖部分/请求补充）：
-- 完成后新增或修改的记录：
+- **Logged:** 2026-11-08 UTC.
+- **Authorized stages:** source discovery and factual verification for this Indonesia/Sukarno project.
+- **Authorized source scope:** lawfully accessible public sources, any publication date and relevant language. The start period is not fixed at 1957 or any other year. Expand backward whenever needed to explain a fact, institution, relationship or causal claim; continue forward where later events clarify the evidence.
+- **People and relationships:** public biographical records and documented family, marriage, mentorship, organizational, political and professional relationships may be researched when relevant. Separate verified relationship from rumor, inference or allegation.
+- **Authorized outputs:** source register, atomic claim ledger, search log, coverage matrix, chronology, actor dossiers, foreign-intervention mechanism matrix, research-status notes and later article work after the author's review.
+- **Reserved to author:** the user's political position, final political judgments and final article framing. Keep `project/author-position.md` outside this research scope. Do not read it, infer it from other projects or fill it in. The user will review evidence and analysis before stating a political judgment.
+- **Permitted material:** public archival finding aids, published archival documents, laws, scholarly work, public oral-history records, public databases and public biographies. Record access status and provenance. Do not represent inaccessible, private or unreviewed files as evidence.
+- **Research handling:** preserve the distinction between contemporaneous record, later official narrative, scholarly interpretation and the author's judgment. Record contradictory testimony, uncertainty, failed queries and inaccessible files. Copyrighted source texts should be cited and summarized; do not republish whole works.
+- **Scope limits:** no preset earliest or latest year; no assertion that a search of public web indexes is equivalent to every archive being exhausted. Record each pass with a dated search scope and concrete coverage statement.
