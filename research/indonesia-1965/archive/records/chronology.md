@@ -206,3 +206,17 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 - **18 November:** Tunku told Critchley he would use Malaysian Navy against Indonesia ships if Singapore resumed barter, while Malaysian-controlled Tawau trade was exempt; he planned a Ghazali Bangkok message to Sukendro. Threat not known executed. [S168;C180-C181]
 - **26 November:** DFAT editor's later note reports Ghazali saying they were ready to route goods not cash via Bangkok and Hong Kong and ensure delivery to Jakarta; no actual consignee/receipt found. [S165;C177]
 - **1964 Dec–1965 Oct UK IRD:** Hall 2025 quotes/locates FO1110/2356 political-intent letters and reported Indonesian newsletter Kenjataan2 circulation; these remain historian-mediated UK source leads, not primary correspondence read independently here. [S170;C183-C184]
+
+## Fourteenth-pass US assistance chronology corrected (2026-11-08)
+- **July20 1965:** FRUS d127 S025 says the United States allowed a commercial export license for a fixed communications system worth about $3m; the license is not shipment or installation evidence.
+- **Oct13 1965:** US 303 Nov17 memo S031 reports redacted items from unnamed stocks already furnished for protection of Nasution's guards; type/amount/individual receipts hidden. [C193]
+- **Nov1–5:** Green's 1Nov cable S171 records Sukendro request and uncertain authority. Interagency meeting Nov3 S172 debated conditions. State Nov4 cable S029 and committee record show approval for covert medical plan by Nov5; direct Bangkok Nov5 S173 discussed the cover with Soemantri. [C186-C190]
+- **Nov5:** Sukendro discussed possible weapons for Muslim and nationalist youth in Central Java; not an approved or delivered arms package. [S173,C190]
+- **Nov10–11:** US Bangkok telegram S030 records secret medicines implementation contacts, separate commercial cover for Sukarno and Army contact with Suharto/Nasution; detailed request for voice radios in Jakarta and regional Kodam network. [C191-C192]
+- **Nov17–19:** 303 Committee S031 described further covert radio request, past undisclosed guard equipment, and priority to untraceable procurement. Later minutes report Dec17 CIA had purchased appropriate items but original plan was not all issued. [C193-C194]
+- **Nov19:** Green warns against major aid to Army before future stance toward Sukarno clarified. [S174,C196]
+- **Dec2:** Green supports 50m rupiahs to Adam Malik's Kap-Gestapu funding role, no proof of disbursement in printed cable. [S175,C197]
+- **Dec4:** Berger in State disputed the cover of medical operation; Colby and White House defend, request precise credit plan; project still pending. [S176,C198]
+- **Dec13:** US Defense memo urges emergency rice support more immediately than State's conditional route. [S177,C199]
+- **Jan19–Feb18 1966:** NSC records Helmi food/cotton request, Feb15 Green told Johnson 'all aid terminated' (scope unclear vs secret projects), Feb18 Catholic Relief plan in final approval to increase annual volumes from 10k to 50k, not proven shipping. [S180,S178,S179,C200-C202]
+- **Feb26–Jun24 1966:** Original 303 June17 memo S033 reports radio stock assembled in Jakarta, diversion for Nasution-linked intelligence channel, Suharto notified May12, Army radio officers met June2-3; additional 303 approval Jun24. Numbers and exact use remain redacted. [C195]

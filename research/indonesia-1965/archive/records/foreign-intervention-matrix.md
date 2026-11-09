@@ -126,3 +126,17 @@ This is an evidence map, not a political verdict. It distinguishes the state/ins
 | UK IRD and Kenjataan2 | Hall 2025 cites FO1110/2356 early letters and mailing/publishing, existing Easter article [S170;S046] | Full original UK files, list of actual recipients, Indonesian reading/response and effect |
 
 Regional actors' positions diverged even while they shared some stated anti-PKI aims. These documentary lines should not be combined into one foreign command or a self-proving explanation of local violence.
+
+## Fourteenth-pass US operational assistance proof levels, 1965–66
+
+**Medicine:** Nov1 request (S171) → Nov3 State/DOD/CIA/WH disagreement (S172) → Nov4–5 303/State approved covert medical program (S029/S031) → Nov5/10 Bangkok Soemantri commercial disguise discussions (S173/S030) → Dec4 financing-cover dispute and demand for better plan (S176). Not established: actual pallets, invoice, airport customs, Army hospital signed receipt. The older inference from CIA Nov9 S155 that *no equipment yet recommended* cannot negate the separate approved **medicine** operation.
+
+**Arms:** Nov5 Sukendro requested possible small arms for Muslim/nationalist youth in Central Java (S173); Nov9 CIA S155 did not recommend equipment transfer at that stage. Proposal ≠ authorization/physical receipt.
+
+**Communications:** Nov17 memo S031 records some Oct13 redacted guard-stock provision and new request; Nov19 discussion demanded non-attributable sources, Dec17 CIA procurement; 1966 June memo S033 identifies assembled stock in Jakarta, Feb26 diversion, May12 Suharto notification and June2-3 officer technical briefings, with June24 additional approval. **Partial actual stock/provision** exists in the record, but not the proposed complete 17-KODAM network and not all recipients verified.
+
+**Money:** Dec2 Green S175 concurred funding Malik 50m rupiah for Army-coordinated Kap-Gestapu civilian campaign, not independent fund transfer. Redacted CIA Dec3 d180 cannot be used for unobserved execution.
+
+**Rice and wider official aid:** Dec13 Defense/State debate S177; Jan19 request S180 and Feb18 PL480 CRS plan S179. State reticence ≠ no covert operation; Green's Feb15 "all aid terminated" to Johnson S178 needs precise comparison of categories and purpose, not forced harmonization.
+
+Carefully separate: requested; internally reviewed; 303/presidential approved; procured; exported; physically in country; recipient signed; used and outcomes. Confidence pertains to each stage separately.
