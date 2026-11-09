@@ -329,3 +329,6 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 - 18 Oct 1968 and 3 Mar 1969: government staff screening order KEP028 amended by KEP010 has published English translated clauses, incl mass organization and political sympathy categories. [S269]
 - 8 Sep 1969: DIY archival BAKIN Pri-01/LAK SUS/a/1969 letter locator to local security command; contents unread. [S268]
 - 1975 Indonesian Foreign Ministry legal defence of Buru reproduced in 1976 US congressional hearing; contrasted with detainee advocate testimony. [S267]
+
+## Continued DIY provincial original-record search 2026-11-08
+- DPAD Yogyakarta catalogue now yields original local item paths from army classification to family exiles, work certification and mobility: 1975 Buru departure telegram .702, family files .701; 1973 government decision 543 retirement file .700; 1974 surveillance .706; 1976-81 non-involvement and former prisoner transmigration .500-.504; 1979 Kodam Diponegoro domicile-permission telegram Bpad.Orba.T4.IV.1.263. Metadata-only for all, no individual file opened; central-to-local causal chain remains to establish.

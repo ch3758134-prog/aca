@@ -273,3 +273,10 @@ The 1969 Amnesty memorandum records attributed government category A/B/C figures
 
 ## Continued second archive verification, 2026-11-08
 Further original-document upgrade: 1977 Amnesty Appendix I (already registered S223) actually reproduces English text from Kopkamtib 1968 KEP-028 and 1969 KEP-010 amendment, not merely a bibliography. Article 1 concerns staff screening; Art4's criteria extend to political party and mass organization members and assumed sympathizers. Reproduced translated extracts do not authenticate a signed Indonesian original or any person's status. 1976 US House hearings preserve Indonesian MFA 1975 own justification and adversarial testimony. Yogyakarta provincial archive item .3935 dates a September 1969 LAKSUS regional contact but body unread. The 1975 governmental document may mention PELAK002/1969 while Roosa bibliography lists 1968; inspect original text before resolving numbering.
+
+## Local post-detention control file chronology
+- 1973: DIY decision No.543 regarding retirement with pension for workers designated involved in G30S, catalogue only. [S273]
+- 1974: DIY record .706 on continued monitoring of former political prisoners, catalogue only. [S273]
+- 1975: regional B-category detainee Buru shipment telegram .702 and family relocation .701, catalogue only. [S270]
+- 1976-81: transmigration official files .500-.504 indicate non-involvement certification and former detainee permit routes. [S271]
+- 1979: Kodam Diponegoro telegram concerned relocation permission for released former detainees, exact provisions unread. [S272]
