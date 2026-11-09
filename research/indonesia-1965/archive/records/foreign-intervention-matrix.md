@@ -197,3 +197,8 @@ International organizations' 1969 resolution and Indonesian government's UN-supp
 - Direct 1915-38 overseas Communist communication identified in IISH original microfilm collection but neither 1948 nor 1965 operational causation can be inferred from holdings. [S242]
 - ANRI Jan2025 letter collection S053 includes Sukarno private October1965 writings—originals not read, cannot infer knowledge or criminal responsibility from PR summary.
 
+## Pre-October1965 multi-party and village class conflict (2026-11-08)
+- Rocamora S245 reconstructs intra-PNI right/left factions; Central Java local PNI linked to landlord/police/army despite Ali–Surachman PNI center land/mass organizing. PNI cannot be represented as monolithic party or simple PKI ally.
+- Local UGM study in Cribb S246 and Achdian S247 distinguish landreform enforcement, direct BTI action, party youth anti-action and post-Oct violence; do not turn individual events into national responsibility statistics.
+- Land-reform table S248 includes 4 land categories, reported 294500ha and 592958 recipients, but published subtype subtotals yield 592952. Need original agrarian ministry returns, hectare and recipient definitions, geographic scope, year.
+

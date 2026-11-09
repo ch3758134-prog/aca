@@ -297,3 +297,11 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 - **March1966:** Navy no142 describes 14Mar mass organization exclusion No1/3/1966, while separate Mar12 PKI ban same number in S182. No equivalence assumed. [C357]
 - **1966-67:** ANRI defense guide S118 identifies economy ministry file1305 Sukarno restriction and 1262 Nawaksara debate. [C358]
 
+## Agrarian and non-PKI party organizational dynamics, 2026-11-08
+- **Sep1962:** PNI Petani secretary Surachman urged peasants to act in land-reform implementation per Suluh Indonesia citation, distinguishing political radicalism from PKI alone. [S245,C364]
+- **Oct–Nov1964:** PNI local Central Java party leadership and PNI national young leadership diverged: province anti-BTI 'aksi sepihak' and police/Army cooperation while central Nov1964 Deklarasi Marhaenis endorsed radical mass organization. [S245,C360–C362]
+- **Jan–Apr1965:** UGM/Cribb Bali section reports Jan3 BTI Jembrana forest action and Buleleng lease conflicts; PNI Central Java April Buku Putih against PKI was distributed by local faction. The 1982 UGM account has editorial reconstruction and '8 Jan 1865' apparent print typo. [S245,S246,C372]
+- **12–13 May1965:** National PNI attempted removal of Central Java Hadisubeno and blocking Buku Putih, failed to dissolve all network conflict; Aug factional purges cite original 138 names list not read. [S245,C363]
+- **1963/1964 claims:** Achdian records 35978ha official by end1963 against PKI 19000ha, then minister 450000ha by end1964, denominators must not be merged. Luthfi regional first-phase table 294500ha/592958 recipients, subtotals sum six fewer. [S247,S248,C365–C367]
+- **20 Nov–Dec1965 and later:** UGM/Cribb source reports Banyuwangi KODIM and local civilian anti-PKI violence, 1966/68 recurrence; edited and retrospective allegations require original unit/victim crosschecks. [S246,C370–C371]
+
