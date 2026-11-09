@@ -186,3 +186,8 @@ International organizations' 1969 resolution and Indonesian government's UN-supp
 - **Ethnic Chinese politics:** Woolgar S231 shows West Java's 1959/1963 anti-Chinese violence versus more qualified 1965/67 pattern; Davidson/Kammen S232 detailed West Kalimantan 1967 escalation, Dayak mixed choices, ethnic Chinese land displacement, diverse casualty figures.
 - **Named labor victims:** contemporary Amnesty S230 lists sector and jail/camp for some named unionists; no automatic equivalence of SOBSI-affiliated rank-and-file with PKI members.
 
+## Long-term labor, state coercion and postwar army institutional continuity (2026-11-08)
+- 1927–42 Dutch Boven Digoel exile apparatus S233 contains named prisoners, state-mandated work, ration and death records, but no primary contents read. Avoid translating later New Order camps into identical institution.
+- 1942–45 Japanese forced rōmusha S235 transport and district civil-service compliance S236 establish antecedent practices of labor mobilisation (not proof 1965 officials/personnel share exact command).
+- 1945–49 food price and blockade S237 shows differentiated economic pressures on Dutch/Republic-controlled urban workers, opposed to a purely military chronology; Hatta Re/Ra S234 and Djogdja original-document collections S238 can test army formation and militia power.
+

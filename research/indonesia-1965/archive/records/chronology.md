@@ -281,3 +281,11 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 - **16 Jul 1967:** Davidson/Kammen reconstruction of PGRS/Paraku with PKI remnants attacking Sanggau Ledo air base; 1967 West Kalimantan ethnic Chinese violence and forced movement follow a distinct regional armed timeline, cannot simply add to 1965–66 Java tally. [S232;C321–C325]
 - **Sep 1977:** Amnesty names political detainees from Unilever, post, textile, women's SOBSI, and railway/other sectors; occupational source cannot equate PKI and union memberships. [S230;C315–C318]
 
+## Colonial and Revolution long-chain search, 2026-11-08
+- **Jan 1927:** Boven Digoel internment at Tanah Merah in ANRI official narrative; original prisoner lists 1927-31, family and death registers, food and field-labor wages accessible by ANRI inventory numbers only. [S233,C327–C330]
+- **10 Jul 1942–Sep 1944:** Japanese Army/Navy requisition network used Java for forced rōmusha; Melber reconstructs 200–300k transferred abroad, and 29th Army 55,477 requested versus 22,100 sent to Malaya in one period; not the sum of Java's all forced labor. [S235,C334–C336]
+- **1942–45:** Sato reconstructs pangreh praja indigenous officials' forced grain delivery and rural administration under Japanese occupation. [S236,C337]
+- **1946–47:** New 2026 economic study uses 8,600 prices, 463 wage observations, 1946–47 rice inflation and 1947 post-Dutch Operation Product price fall within unequal market control; model and sample limitations explicit. [S237,C338–C341]
+- **2 Sep/28 Oct 1948:** 2021 veterans institutional history quotes Hatta's army 'one command' rationalization in BP-KNIP and mentions Defense Ministry MBKD/MBKS command decree; party/coup causation is retrospective institutional judgement. [S234,C331–C333]
+- **1948–49:** Republican Djogdja civil/party/Army documents seized by Dutch and held or later returned have different archival classification in Dutch and Indonesian repositories. [S238,C342]
+
