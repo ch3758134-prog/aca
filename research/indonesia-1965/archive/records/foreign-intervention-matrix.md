@@ -83,3 +83,16 @@ This is an evidence map, not a political verdict. It distinguishes the state/ins
 
 **Avoid false equivalence:** China's discussed 100,000 arms and McNamara's reported >100,000 U.S. arms concern different states, recipients, periods and evidence statuses. Neither is a proven weapon-by-weapon chain to 1965 killing events. The 1966 disinformation case is one specific published narrative, not global disproof of all other contacts.
 
+## Tenth-pass domestic command and victim-organizing documentary strands (2026-11-08)
+
+| Chain | Source access achieved | Material not yet verified |
+|---|---|---|
+| National security orders → district screening → individual targeting | Hammer full research article S139, cited Kopkamtib 1970 orders including Kep-069/10, 22/KOTI, Kep-70/11 and Kep-1/Kopkam/12 | Order originals, drafting/distribution, authority dates, individual processing registers |
+| Komnas HAM → command responsibility evidence | Komnas HAM executive investigation S140 printed pp.187–191 (p187 image checked), 349 interviews overall | KEP-1196/10 vs KOTI142/11 chronology; BAP underlying interview evidence and Court determination |
+| 1966–67 legal authorities / 1969 institutional design | MPRS IX/1966 and XXXIII/1967 official index/abstract S141–S142; Keppres19/1969 statutory text S144 | Signed MPRS clauses, Suharto actual local chain, older 179/KOTI/1965 and appointments |
+| Organized labor and other anti-PKI constituencies | Embassy telegram1168 curator account S146; Surabaya telegram183 OCR S145 | Union-side contracts, dismissed worker rosters, enterprise ownership/management transfers, Labor Ministry decisions |
+| Gendered propaganda, violence and survival | Komnas Perempuan 2007 official public synopsis S147 | Full volume and witness transcripts, contemporary forensic/autopsy/press first editions |
+| Regional variation | Klaten 2010 interviews S139; East Java 1965 consulate OCR S145; Roti/Sawu Fox field relay S143; additional curator summaries S151-S152 | Named perpetrators, victims, logistics, command recipient traces, independent local count method |
+
+**Cross-source chronology issue:** S140's executive report cites KEP-1196/10 dated Oct29 as a Pangkopkamtib act yet also cites Nov1 order KOTI142 as creating command. S139 cites a different October KOSTRAD number Kep-069/10. These might be distinct institutions, typographic discrepancies or later retrospective ordering; preserve all literal citations pending originals. The source audit does not establish equivalence.
+

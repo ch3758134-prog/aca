@@ -168,3 +168,15 @@ McNamara's March1967 memorandum records the U.S. side's own cumulative Army arms
 
 Highest-priority unclosed work: acquire original ANRI BTI nos.257–259, 262 and 266–272; Chinese MFA dossiers 105-01697-02 / 204-01123-02 and restricted CCP Aug5 material; Sept17 Zhou-Dani notes and cargo/recipient records; original Hong Kong 222 telegram and translated army press; U.S. MAP recipient manifests; local district land, militia and detention records. The new HTML is an incremental supplement, **not** a replacement for the eight-stage overview or a completed investigation.
 
+## Tenth research pass — 2026-11-08 UTC: domestic command, labor, women, law and district violence
+
+This pass adds **14 sources S139–S152, 20 atomic claims C125–C144, seven search-log rows Q052–Q058, eight coverage lines CV053–CV060**. Cumulative archive: **152 sources, 144 claims, 58 search groups, 60 coverage rows**. These are index counts rather than completeness.
+
+The main new point is a document-addressable institutional chain, rather than a general account of a 'campaign': S139 records KOSTRAD/KOTI 1965 order numbers, Klaten detention/screening and local denunciation processes based on 47 interviews plus ISSI material. S140 is the 2012 national human rights commission investigation executive report and identifies more orders, named places, 349 witnesses and a claim of command responsibility. Its order dates contain a possible inconsistency (Oct29 Pangkopkamtib order vs Nov1 KOTI formation) and must not be harmonized without original signed orders.
+
+Legal continuity was extended with MPRS IX (21 Jun 1966) and XXXIII (12 Mar 1967) official index entries, the latter's public abstract giving Feb22 retroactivity. Full MPRS articles were not readable (403). The 1969 presidential decree No19 on Kopkamtib was read as historical follow-through, not assumed to govern 1965 retroactively.
+
+Separate new lines concern eyewitness-mediated local violence: Fox's Roti/Sawu report (territorial boundary matters), the East Java consul's **explicit doubt** of 15,000 Tulungagung deaths, railway and ludruk theatre targeting, labor movement SOBSI and ministerial response, Komnas Perempuan's gendered victim findings, 1966 civil-service purges and propaganda/bystander data in U.S. diplomatic files. Many NSA sources remain **curator summaries** rather than transcribed documents.
+
+The next primary-record priorities: KOTI142/Kep1196/Kep069 and the Kopkamtib1970 corpus; 2012 investigative BAPs; signed MPRS IX/XXXIII and 1967 session; 1969 Keppres19 earlier counterpart 179/KOTI/1965; labor ministry/SOBSI files and East Java railway stations; Komnas Perempuan full witness volume; Roti/Sawu/Flores district and Army records; NSA A-386/A-808/A-673/212 original scans. Do not treat national or provincial counts as established without denomination and independent enumeration.
+
