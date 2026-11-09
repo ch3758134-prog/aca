@@ -121,3 +121,8 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 
 ## ONGOING / GOAL仍进行 — 2026-11-10 BP-KNIP议会调查链
 本次直接打开UIN Syarif Hidayatullah Jakarta馆藏2024年Syarif Cahyo Nugroho论文116页PDF（S348，https://repository.uinjkt.ac.id/dspace/bitstream/123456789/79105/1/SS23085.pdf），重点读PDF第85、88—89页。正式登记C581—C584、Q213、CV207。新增的关键可检验机制是BP-KNIP对德朗古罢工的调查委员会（Sartono主持）、1948-07-09—11和08-19—20的会议讨论、Sartono动议15:2和Asrarudin动议13:15的论文转述；尚未读议会会议原始记录，不能将后出论文叙述当成原始会议纪要。论文还指出《Merdeka》1948-06-28 No.767及07-02 No.771两期同期报刊的具体定位，但原报未读。论文摘要把工农参与简单归结为“宣传受害者”，属于作者解释，不当作已核实动机。下一步直接查：（1）BP-KNIP 1948-07-09—11和08-19—20议事录/《Risalah》与Sartono/Asrarudin动议全文；（2）《Merdeka》No.767/771原报并与SOBSI口径核对；（3）ANRI Kepolisian Negara No.1215/342/1211原页；（4）1948-07-16《Pandji Ra'jat》STII声明及1948-05-28 Antara/SOBSI报道；（5）复查C566—C568旧引用及Stoler原书页127/132。长期GOAL保持ACTIVE / OPEN-ENDED。此次未强行扩写可读正文：尚未取得议会原始会议记录。
+
+## ONGOING / GOAL仍进行 — 2026-11-09 BP-KNIP调查委员会人物链继续
+本次打开2019-12-10 Hukumonline Muhammad Yasin 的Sartono完整人物文章，正式登记S349、C585—C587、Q214、CV208；它独立回顾1948年7月Sartono任BP-KNIP德朗古调查委员会主席并调查BTN的任务，与S348论文相互支持，但**仍未取得1948年议会任命令、调查报告、原始会议记录**。文章还称Sartono1930年为苏加诺辩护并参与Partindo，属于人物生平线索，不可据此替他推断1948年政治动机。尤其文章一处称1960-03-05辞任议长，另一处称1958-10-15去世，**内部自相矛盾，死亡日期不得采用**。
+精准续查：①查BP-KNIP 1948-07 Sartono任命与调查委员会成员名册；②查1948-07-09—11及08-19—20议事录与两项动议原文，核15:2和13:15票数；③查1948-06-28/07-02《Merdeka》No.767/771；④查ANRI No.1215/342/1211原页；⑤查1985《Mr Sartono Karya dan Pengabdiannya》原书、官方DPR履历及1930年苏加诺辩护书，消除1958/1960矛盾。下一次务必先读最新main及正式CSV，防并发编号重用。GOAL ACTIVE / OPEN-ENDED。当前状态所述最新提交SHA以本次实际GitHub写入结果和随后main查询为准。
+
