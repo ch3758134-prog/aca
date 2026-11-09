@@ -116,3 +116,13 @@ This is an evidence map, not a political verdict. It distinguishes the state/ins
 
 **Research distinction:** food aid and raw cotton were not merely symbolic; they had commodity, fiscal and market pathways which require investigating producer/consumer prices, textile jobs, local food distribution and counterparty export benefits. Do not equate import-value pledges to development outcomes or government survival as a proven single cause.
 
+## Thirteenth-pass Malaysia intermediary, Singapore barter, UK IRD — 2026-11-08
+
+| Relationship | Verifiable source-level stage | What remains unproven |
+|---|---|---|
+| Indonesian Army–Malaysia, Bangkok 12 Nov | Australian cable Doc343 relays Tunku on Ghazali–Sukendro meeting; M$3m medicines primarily requested [S165] | Original Ghazali report and Malaysian authorization, actual medicines/cash transferred |
+| Western indirect aid via Malaysia | Tunku/Australian diplomat contemplated subsidy to Malaysia; official editorial note reports 26 Nov readiness for Bangkok/Hong Kong goods route [S165] | Donor money, customs departure/arrival, Indonesian recipient-signature, material use |
+| Singapore–Indonesia barter after Aug1965 independence | DFAT Doc341 Singapore complaint, Doc342 Canberra restraint advice, Doc344 Tunku navy threat and Tawau exception [S166–S168] | Final settlement, trade statistics and naval actions |
+| UK IRD and Kenjataan2 | Hall 2025 cites FO1110/2356 early letters and mailing/publishing, existing Easter article [S170;S046] | Full original UK files, list of actual recipients, Indonesian reading/response and effect |
+
+Regional actors' positions diverged even while they shared some stated anti-PKI aims. These documentary lines should not be combined into one foreign command or a self-proving explanation of local violence.

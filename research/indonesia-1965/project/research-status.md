@@ -196,3 +196,8 @@ Original U.S. government records now connect 1967 conditional aid requests, Suha
 
 Open: local investment licences/contracts, original 1966-67 MPRS economic rules, state-enterprise corporate ownership and worker data, PL480 commodity distribution and prices, Indonesian budget and debt accounts, IGGI donor side and IMF/World Bank original minutes and mission reports. Retain author political judgment boundary.
 
+## Thirteenth research tranche and HTML readability correction — 2026-11-08
+
+Six new sources S165–S170, twelve claims C174–C185, four search logs Q071–Q074 and four coverage entries CV073–CV076. Cumulative **170 sources, 185 atomic claims, 74 search groups, 76 coverage rows**. DFAT original official edited diplomatic cables document Nov1965 Sukendro's aid solicitation as retold via Tunku/Ghazali to an Australian diplomat, a planned November26 goods route via Bangkok/Hong Kong, and simultaneous Singapore–Malaysia conflict over Indonesia barter trade. No Malayan aid delivery or threatened Malaysian Navy engagement has been verified. UK's FO1110/2356 and IRD accounts via historian Hall (S170) are not yet UK original-letter scans.
+
+The author corrected HTML output standards: it must be a **self-standing, chronological and causally readable historical narrative** rather than search-batch data display. We will continue fact gathering, preserve old index-style HTML as research snapshots, and release narrative chapters only when enough source-backed facts support a coherent historical process. The sample episode in `briefs/readable-history/1965-11-regional-relations.html` demonstrates the form but does not imply wider historical completion. This output policy is written into AGENTS.md and project brief.

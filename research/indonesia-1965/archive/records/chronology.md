@@ -198,3 +198,11 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 - **18 June 1968:** Rostow sought US aid package $110m core (rice, cotton, AID loan) plus proposed $46m experimental wheat outside consortium formula; note records president checked requested action. Shipment unverified in this memo. [S163/C169-C170]
 - **1 April 1969 / 10 April approval:** Rogers retrospective says 1967 US contribution $65.2m, 1968 $110m with wheat extra part shipped, and recounts bilateral Western and Soviet creditor reschedulings, IMF missions and World Bank Jakarta office. New 1969 pledge conditional, Nixon later approved program per source note. [S164/C171-C173]
 
+## Thirteenth-pass 1965 Southeast Asian relations addendum — 2026-11-08
+
+- **3 March:** Hasluck assessed Army worry about PKI influence and Confrontation military risk, but no evidence Army leadership had settled on peace with Malaysia. [S169;C174]
+- **11 November:** Singapore-based Pritchett described barter losses >M$100m yearly as his assessment and strong Singapore pressure to resume trade with Indonesia; Canberra's direct same-day instruction urged Malaysia and Singapore to avoid a clash. [S166-S167;C178-C179]
+- **12–16 November:** Ghazali met Indonesian officer Sukendro in Bangkok on Nov12, per Australian document's notes. Critchley reported Tunku's story of Sukendro seeking M$3m mainly medicines and suggesting indirect Western support via Malaysia, not a delivery record. [S165;C175-C176]
+- **18 November:** Tunku told Critchley he would use Malaysian Navy against Indonesia ships if Singapore resumed barter, while Malaysian-controlled Tawau trade was exempt; he planned a Ghazali Bangkok message to Sukendro. Threat not known executed. [S168;C180-C181]
+- **26 November:** DFAT editor's later note reports Ghazali saying they were ready to route goods not cash via Bangkok and Hong Kong and ensure delivery to Jakarta; no actual consignee/receipt found. [S165;C177]
+- **1964 Dec–1965 Oct UK IRD:** Hall 2025 quotes/locates FO1110/2356 political-intent letters and reported Indonesian newsletter Kenjataan2 circulation; these remain historian-mediated UK source leads, not primary correspondence read independently here. [S170;C183-C184]
