@@ -346,3 +346,6 @@ ANRI NU 2015 original inventory item3012 East Java Feb1965 land occupation oppos
 
 ## October 1965 presidential radio and PNI local conflict originals (2026-11-08)
 Sukarno Oct3 1965 01:30 Indonesian speech as printed in Pranoto's later memoir was read. Formal distinction among personal President Army control, Pranoto daily Army affairs and Suharto restoration of security shows simultaneous authority claims, not effective command receipt. Full 1970 Cornell PNI study of 1963-65 internal party conflicts read; key 1964 land reform and factional meeting dates identified and original party sources named. Avoid conflating moderate/left PNI factions with Communist party membership.
+
+## First audiovisual original locator for October-November 1965
+ANRI 2016 President Sukarno archive guide film item SK71 (1965 PFN 10m19s) locates composite documentary segments of Oct6 cabinet, Oct16 Suharto Army Commander appointment, Nov20 Sukarno Bogor military and press briefing; exact timecodes and preserved Beta / DVD catalogue IDs allow follow-up audiovisual examination. Film guide synopsis only read; not original frames, audio, or full transcript. Distinguish dates and film runtime from event real clock times.

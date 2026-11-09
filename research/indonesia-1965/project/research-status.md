@@ -303,3 +303,8 @@ Official ANRI Jan2025 sources and Jan2023 provenance identified multi-country PK
 - 24-25 Oct1964: Central Java PNI emergency conference according to Rocamora urged local opposition to aksi sepihak with Army and police, original resolution cited but not read. [S283]
 - May1965: PNI central attempted to dismiss Hadisubeno and stop local anti-PKI Buku Putih; party tension persisted. [S283]
 - 20 Aug/22 Aug/13 Sep1965: anti Ali-Surachman PNI groups met, wrote to Sukarno and coordinated inter-regionally. [S283]
+
+## Primary audiovisual material availability
+- 6 Oct1965: Sukarno Dwikora cabinet filmed as one SK71 scene, footage catalogued but not watched. [S284]
+- 16 Oct1965: Army Commander Suharto inauguration preserved in SK71 segment time 03:10, not evidence film timestamp equals time of real event. [S284]
+- 20 Nov1965: Bogor meeting speech/press scenes in SK71 around film time 06:45 and 09:53. [S284]
