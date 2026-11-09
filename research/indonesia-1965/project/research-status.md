@@ -280,3 +280,6 @@ Further original-document upgrade: 1977 Amnesty Appendix I (already registered S
 - 1975: regional B-category detainee Buru shipment telegram .702 and family relocation .701, catalogue only. [S270]
 - 1976-81: transmigration official files .500-.504 indicate non-involvement certification and former detainee permit routes. [S271]
 - 1979: Kodam Diponegoro telegram concerned relocation permission for released former detainees, exact provisions unread. [S272]
+
+## Continued ANRI multi-country archive provenance search 2026-11-08
+Official ANRI Jan2025 sources and Jan2023 provenance identified multi-country PKI source book, KOTI RA62 1963-67, 73 oral history interviewees relating to 1926/1948/1965 including Hatta, SOBSI, Gerwani and detainees; and eleven English Sukarno letters to Ratna Sari Dewi (nine dated October 1965, two undated), digital copies at ANRI, original correspondence held in Japan. These are concrete archive holdings and custody statements only. Neither oral interviews nor letter contents have been read; 2025 press release PDF not visually inspected.

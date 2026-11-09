@@ -332,3 +332,8 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 
 ## Continued DIY provincial original-record search 2026-11-08
 - DPAD Yogyakarta catalogue now yields original local item paths from army classification to family exiles, work certification and mobility: 1975 Buru departure telegram .702, family files .701; 1973 government decision 543 retirement file .700; 1974 surveillance .706; 1976-81 non-involvement and former prisoner transmigration .500-.504; 1979 Kodam Diponegoro domicile-permission telegram Bpad.Orba.T4.IV.1.263. Metadata-only for all, no individual file opened; central-to-local causal chain remains to establish.
+
+## 2023-25 source custody to extend October1965 research
+- 22 July 2023: Dewi offered October 1965 Sukarno letters to ANRI according to institution report. [S276]
+- Jan2025: ANRI reports nine dated Oct1965 and two undated English personal letters in a digital copy collection, originals with Dewi in Japan. [S274]
+- 2025: ANRI identified interview corpus including Hatta, SOBSI, detainees and Gerwani voices, and RA62 KOTI central operational archives, texts not read. [S275;S277]
