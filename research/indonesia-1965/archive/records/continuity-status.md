@@ -74,3 +74,7 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 
 ## ONGOING / GOAL仍进行 — 2004年具名宪法诉讼证据链（2026-11-09）
 **实际新增**：正式来源S325—S326，主张C527—C532，检索Q201，覆盖CV196；已打开印尼宪法法院011-017/PUU-I/2003原判决39页并追踪2002年DPP-LPRKROB负责人、四份具名政治犯释放证明、Purworejo 2004年被取消候选资格的Dr Sutarko Hadiwacono、Kusnendar Kornelis ET身份证、Said Pradono身份证待遇，以及2004-02-24多数裁判与不同意见。新增中文连续叙事 briefs/readable-history/1966-2004-ex-detainees-and-election-rights.md；不是旧式索引HTML。原判决已读，**其附证公证书、释放证、ET身份证、候选人取消函原件未独立读**。下一步：①查2004 Purworejo KPU Sutarko Hadiwacono取消函与判后恢复结果；②追DPP-LPRKROB 2002成立公证书与地方支部/成员；③查2004 MK案件P-3—P-11附件图像及四名获释者关押地点；④对比2004法官Achmad Roestandi不同意见与政府立场，追2004 KPU执行通知；⑤继续回溯1965—79拘押分类和释放令，及1995—97 ET废止日期原始命令。正式文件与Git SHA以每次写入结果为准，最后一次更新此状态的提交为本次接力提交；长期GOAL OPEN。
+
+## GOAL持续接力 — 2026-11-09：Sutarko 1966—2004具名行动链加深
+本次直接重新打开印尼宪法法院原判决（官方PDF共44页，原件印刷第23—25页），不新增重复来源S325。正式新增C533—C537、Q202、CV197，更新chronology及已有中文连续正文 `briefs/readable-history/1966-2004-ex-detainees-and-election-rights.md`。证人Sutarko Hadi Wacono自述1966年日惹艺术学院求学时由三宝垄学生组成调查组审问，被指与Pemuda Rakyat有关；1967年后定期报到，曾有KTP标记后来删除，1971—97仍有投票权；2004年普沃雷佐第六选区民族主义公牛独立党名单原列第一，党县级负责人据称转达KPU主席劝退意见而划名。其称1967-03-13有法院清白文件，但地区军事指挥部Kodim秘密函及警员Iptu Jatmiko说法又指向禁党关联；他否认KPU的BB4虚假申报指控。**以上是判决记录的证人证言，不是已经核实的秘密军方函件、1967年法院文书或KPU行政决定原件**。
+下一次优先沿同一人追：（1）Purworejo KPU 2004 P-11取消函、BB4声明、KPU会议纪要及党DPC记录；（2）1967-03-13法院清白证明与Kodim密函、Iptu Jatmiko身份；（3）1966三宝垄学生调查组所属组织、日惹艺术学院学籍和当时青年组织；（4）2004-02-24判后候选名单是否恢复，官方KPU 2004最终名单；（5）结合1976年C类选举审查规定解释为何该B1分类证人自称1971—97可投票。并行继续Soge土地、SOBSI经费和Gerwani组织原件链。状态ACTIVE/OPEN-ENDED；本次未发现独立地方行政原件，不虚称已验证。
