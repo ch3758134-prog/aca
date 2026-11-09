@@ -31,4 +31,4 @@
 
 **面对读者的HTML须是连续的中文历史正文**，让用户直接阅读历史过程、人物行动、国家关系、群众组织与变化，而不是浏览来源登记表或任务列表。证据台账和调查缺口继续留在 `archive/records/`，不塞进正文。资料不足的时期先继续搜集，等可成段叙述再发布，不设“全部资料搜完”的不可验证门槛。
 
-旧 `briefs/phase-fact-overview.html` 和 `briefs/phase-fact-addendum-*.html` 保留作为**旧式资料快照（非最终阅读版）**。新的阅读版放在 `briefs/readable-history/`，按可叙述的历史场景逐渐形成完整的连续历史。
+依作者 2026-11-08 最新明确要求，旧 `briefs/phase-fact-overview.html` 和 `briefs/phase-fact-addendum-*.html` **已从 main 删除**。旧HTML的历史提交仍按 Git 常规保留；对应的来源、主张及检索记录保留在 `archive/records/`。今后只在 `briefs/readable-history/` 维护可直接连续阅读的历史正文，不再按检索批次生成旧式HTML。
