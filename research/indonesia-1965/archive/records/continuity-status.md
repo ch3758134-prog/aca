@@ -158,3 +158,5 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 ## ONGOING / GOAL仍进行 — 2026-11-10，1950港口工人行动与SOBSI财务链
 已打开康奈尔大学2016年Ingleson论文机构页摘要与西悉尼大学2025年SOBSI财务论文机构摘要。康奈尔链接PDF返回HTTP 429，未读2016正文；2025论文仅摘要。正式新增S358—S359、C601—C603、Q221、CV215；chronology加入有明确证据等级的1950—1951连续叙述。2016摘要描述雅加达、三宝垄、泗水、勿拉湾港口工会逐港谈判、日薪最低标准提高2.5—3倍以及1951年2月重要行业罢工限制；原始合同、法令和各港统计分母尚未核实。不得将摘要的数字解释为四港逐一相同。2025财务论文摘要不能支持任何会费数字。
 精确续接：①尝试Cornell bitstream c0ca72f5-62f9-481d-8d89-ac1e9dbf3458 或其他合法馆藏取得Ingleson 2016 pp31—56；②追1950年四港工会—雇主集体合同与日薪/米粮福利原始表；③查1951年2月关键行业禁罢工及仲裁法规的印尼官方公报和执行；④取得Ingleson 2025 Indonesia 120 pp97—119全文及SOBSI财务账册来源；⑤继续1948 Delanggu BP-KNIP/ANRI原件、Murba 1948党章与1965后地方工会成员就业变化。长期GOAL仍ACTIVE / OPEN-ENDED。写入后main SHA以GitHub最终核验为准。
+
+**2026-11-09 正式台账同步修正：** 并发写入期间另一研究链先占用S358—S359/C601—C603/Q221/CV215（Ingleson港口工会研究）；本研究没有覆盖这些已登记项，改用**S360—S362、C604—C606、Q222、CV216**。正式更新source-register、claim-ledger、search-log、coverage-matrix、archive/records/chronology.md。最后一笔已核实成功的时间线提交为 `1da00275f2aa3e4d757a1ed2bdfeed04036c0d5d`；此状态更新本身将产生更晚提交，下一次务必读取main最新HEAD。旧状态段落中S358/C601/Q221/CV215的候选说法均已作废，勿按旧候选编号续查。长期GOAL OPEN。
