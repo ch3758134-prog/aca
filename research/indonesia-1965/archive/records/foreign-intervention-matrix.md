@@ -68,3 +68,18 @@ This is an evidence map, not a political verdict. It distinguishes the state/ins
 | Britain, Oct 1965–Mar 1966 | Covert information/IRD-linked media work | Easter's now-read full article reconstructs operations using TNA FO371/181530, DEFE25/170, FO1101/5. [C097; S046] | Secondary scholarly reconstruction; originals, exact outputs and reception unreviewed. | Read TNA originals and trace publication, audiences and effects. |
 | Australia/Indonesia, Jul 1965 | Diplomatic assessment and long-term relationship | Ambassador Shann considered Sukarno broadly revered and government non-Communist despite leftist tendencies, advocating separate policy from Vietnam. [C095; S121] | High for Shann's view; does not determine Indonesian opinion or consensus Canberra policy. | Compare other Australian/Indonesian primary records and actual instructions. |
 | Subandrio/Australia, Mar 1963 | Alleged Malayan support and individual intermediary network | Australian savingram recorded Subandrio's allegations concerning the 1958 rebellion, Sumitro and Des Alwi. [C096; S122] | Attributed allegation; no independent corroboration of those operations. | Malaysian, PRRI and personal records, finance and press trails. |
+
+
+## Ninth-pass source-chain comparison (2026-11-08)
+
+| Channel and time | Directly read source's maximum proof | Source | Unclosed operational link |
+|---|---|---|---|
+| Chinese offer to Indonesian state / Air Force, Jan–Sep 1965 | Zhou's 2014 peer-reviewed reconstruction uses specifically numbered Chinese MFA records for offer, requests and discussion of 100,000 / 25,000 small arms; 17 Sep leadership meeting minutes unreleased | S134, C118–C119 | Signed authorization, airway bills, actual cargo, armory/receiver signature, serial numbers |
+| BTI / Halim training, 1964–65 | ANRI 2025 catalogue nos.257–259 locate described training and arming documents, including Lubang Buaya HANREV (25–28 Jul); the files themselves were not read | S133, C110–C112 | Named participants, weapons origin, quantities, course dates and G30S continuity |
+| Embassy assertion, 26 Oct 1965 | U.S. telegram 1184 specifically asserts several thousand Chinese guns smuggled into Indonesia; no independent transaction chain given | S135, C120 | U.S. source provenance; intercepted transport/Indonesian stock records; opposing evidence |
+| Recycled conspiracy article, Dec 1965–Apr 1966 | NSA synopsis of a 27 Apr Hong Kong U.S. telegram says one purported Mao-Aidit command story was adapted from a satire; the original telegram text remains untranscribed here | S136, C121 | Exact Chinese satire, newspaper issue and subsequent dissemination |
+| U.S. MAP, 1950–67 | McNamara reported >100,000 U.S. small arms and ~2,100 trainees while retrospectively evaluating Army orientation | S137, C123 | Shipment rosters and physical recipients, officer postings, command/use |
+| KOTI seizure of BTI records, post-Oct 1965 | ANRI's own custody account reports original confiscation, disorderly transfer, 2025 rebuilding of an earlier finding aid | S133, C109 | Original seizure selection, omitted/destroyed files, custody log and missing boxes |
+
+**Avoid false equivalence:** China's discussed 100,000 arms and McNamara's reported >100,000 U.S. arms concern different states, recipients, periods and evidence statuses. Neither is a proven weapon-by-weapon chain to 1965 killing events. The 1966 disinformation case is one specific published narrative, not global disproof of all other contacts.
+

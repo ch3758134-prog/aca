@@ -147,3 +147,19 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 - **30 Nov 1965:** U.S. Embassy weekly report described mass executions in multiple provinces and attributed some in Central Java *apparently* to Suharto's behest. Embassy intelligence/assessment, not a signed Indonesian order. [C100; S126]
 - **11–12 Mar 1966:** An ANRI-hosted archival study says the three Supersemar copies ANRI held were not the original dispatched paper; non-original does not mean forged. A U.S. Embassy cable characterized the power change as a military coup with Sukarno remaining visible and reported a PKI ban by Suharto; this is a U.S. assessment. [C104; C106; S128; S130]
 - **5 Jul 1966:** MPRS XXV affirmed the 12 March 1966 PKI dissolution decision and prohibited dissemination/development of Communist/Marxist-Leninist teaching. Its accusatory preamble is the assembly's statement. [C105; S129]
+
+
+## Ninth-pass additions — catalogue locators, fifth-force negotiations and post-1965 archival custody (2026-11-08)
+
+- **After 1 October 1965:** ANRI's 2025 BTI guide reports KOTI seizure of PKI/BTI office archives in Jakarta, Bekasi and Tangerang; the seizure collection later passed through state secretariat and arrived at ANRI in disorder. Reprocessing and a surviving 50 BTI boxes do not establish a complete survivor sample. [S133; C109]
+- **17–30 April 1964:** ANRI BTI no.262 lists resolutions demanding dissolution of KORAMIL and PEMBINA. This is a document locator, not proof that the demands were accepted. [S133; C113]
+- **17 May–30 July 1964:** ANRI BTI no.269 lists discussions of aksi sepihak; no.270 covers East Java actions including Nov–Dec results lists and a Kediri regent's PPN land report through Jan1965. [S133; C114]
+- **5 Nov 1964–26 Aug 1965:** ANRI BTI no.257 lists military-training material. No.258 contains March–July 1965 arming/training correspondence including DPP instruction 8/I/1965; no.259 separately records HANREV training at Lubang Buaya, 25–28 July. Bodies still unread; no immediate operational conclusion. [S133; C110–C112]
+- **Jan–Feb 1965:** Zhou's analysis of PRC diplomatic files describes Chinese small-arms offers and Indonesian interest; acceptance in principle must not be conflated with arrival. [S134; C118]
+- **June–13 Sep 1965:** Andoko asked about Chinese delivery to the Air Force in June; Dani on 13 Sep discussed 25,000 arms from an overall discussed 100,000. [S134; C118]
+- **5 Aug 1965:** Zhou reports an Aidit-Mao conversation on political contingencies and a proposed military committee, quoting a restricted CCP record shared with her; text of the entire original is not independently available here. [S134; C122]
+- **17 Sep 1965:** Zhou records a Zhou Enlai–Dani meeting in Beijing but says its minutes remained unavailable; a later recollection of a request to deliver weapons and limited Halim militia arms support a historian's no-large-shipment inference, not a conclusive customs inventory. [S134; C119]
+- **26 Oct 1965:** The U.S. Embassy's telegram 1184 nevertheless asserted that several thousand Chinese guns had been smuggled and given to Communist paramilitaries. Its allegation is *not* interchangeable with physical receipt evidence. [S135; C120]
+- **27 Apr 1966:** A U.S. Hong Kong consular telegram, in the NSA curator's synopsis, traced one highly specific Mao-directed-coup story in army press to a December 1965 Hong Kong satire. Distinguish exposure of that false narrative from broader foreign-relationship questions. [S136; C121]
+- **1 Mar 1967:** McNamara's memo reports 1950–65 U.S. MAP to Indonesia totalling $63.2m, with more than 100,000 small arms included in Army provision and about 2,100 personnel trained in the U.S.; assessment of political effects is McNamara's view, not an operational trace to particular 1965 killings. [S137; C123]
+

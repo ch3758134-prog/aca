@@ -154,3 +154,17 @@ New original-document findings:
 The earlier stage-8 HTML statement that no MPRS resolution or Supersemar source had been examined is superseded by this pass. The original 11 March document has **not** been authenticated by this work, and the specific 1967 MPRS removal text remains to be read. A separate Chinese staged HTML update and a source-chain note accompany this pass.
 
 **Next high-priority work:** item-level ANRI/NARA/Australian/UK/Malaysian records, original Indonesian unit orders and local victim/detention series, 1966–67 parliamentary/legal records, Dutch/Japanese/Chinese/Russian corpora, and archives on social/class and personal relationships. These gaps remain active and prevent any claim that the research is complete.
+
+
+## Ninth archived research pass — 2026-11-08 UTC: BTI, Fifth Force, PRC negotiation and records provenance
+
+This tranche adds S133–S138 (six sources); C109–C124 (16 atomic evidence/uncertainty entries); Q047–Q051 (five search groups); and CV048–CV052 (five coverage rows). **Cumulative: 138 sources, 124 claims, 51 search groups, 52 coverage rows.** These are registry counts, not evidence of historical completeness.
+
+Major documentary progress: the 2025 ANRI RA112 catalogue identifies directly requestable BTI dossiers no.257–259 (training and arming discussions, Lubang Buaya HANREV), no.262 (village territorial military opposition), and nos.266–272 (land conflict and provincial case files). ANRI also candidly describes their post-1965 seizure by KOTI and disrupted custody. Original folder contents have **not** yet been examined.
+
+Taomo Zhou's 2014 paper, based on named Chinese MFA file references, reconstructs a proposed Chinese arms package and Indonesian Air Force negotiations. It does not establish delivery; the historian argues the large shipment probably did not arrive before G30S, while admitting limits. An Oct26 1965 U.S. embassy cable alleged several thousand Chinese guns *had* arrived. Both claims remain in the record without fusion. A separate April1966 Hong Kong report flagged a specific Mao/Aidit press account as a reused satire, not as evidence against every PRC contact.
+
+McNamara's March1967 memorandum records the U.S. side's own cumulative Army arms/training provision and political interpretation. A 2023 scholarly agrarian synthesis adds attributed organizational membership figures, 1950s changes in PKI land policy, local material organizing work and longer institutional consequences. Original national/district figures and individual documentary chains still need retrieval.
+
+Highest-priority unclosed work: acquire original ANRI BTI nos.257–259, 262 and 266–272; Chinese MFA dossiers 105-01697-02 / 204-01123-02 and restricted CCP Aug5 material; Sept17 Zhou-Dani notes and cargo/recipient records; original Hong Kong 222 telegram and translated army press; U.S. MAP recipient manifests; local district land, militia and detention records. The new HTML is an incremental supplement, **not** a replacement for the eight-stage overview or a completed investigation.
+
