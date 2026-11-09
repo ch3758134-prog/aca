@@ -142,3 +142,9 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 ## ONGOING / GOAL仍进行 — 2026-11-10 1948 Murba与文本流传
 本次在正式CSV登记S353—S354、C595—C597、Q218、CV212；打开《Uraian Mendadak》印尼语网络转录全文与1951年《Fourth International》刊载《Gerpolek》英译节选。前者文本明确讨论支部鼓动、茉莉芬事件，但不是已取得的1948年原始大会记录；后者编者明确承认英译经过荷兰语和法语，且仅节录。不得将谭·马拉卡的政治评价视为独立核实的事件，也不得由题头推定三党合并手续已经完成。
 精确续查：①检索1948年11月3—12日《Merdeka》《Kedaulatan Rakjat》《Patriot》有关三党大会的原版报道及代表名单；②取得2006年《Uraian mendadak》实体书与1948年原印版核对段落和题头；③取得《Gerpolek》1948年印尼语版逐句对照1951年转译，核查1946年被捕日期及1948年写作地点；④核对1948年8月人民党拟议大会是否实际召开；⑤返回1948年德朗古BP-KNIP原始议事录、ANRI No.1215/342和1950—1965 SOBSI/BTI基层运作。GOAL仍为ACTIVE / OPEN-ENDED。
+
+
+## ONGOING / GOAL仍进行 — 2026-11-09 Murba文献名称歧义续接
+本次检索印尼语学术文章与2006年《Uraian mendadak》大学馆藏目录：新增S355—S356、C598—C599、Q219、CV213。2022年Santosa论文**仅打开搜索索引摘要**（期刊页面超时），摘要将讲话解释为要求有政治意识与纪律的干部；不冒充论文全文。UIII图书馆2006年版本目录**页面抽取为空，仅检索索引描述可见**，其中合并第三党写作Partai Rakyat Biasa，而Open Library S352写Partai Rakyat Jelata；暂不裁定何者为1948年原称。已与S352/S353去重，不重复登记原讲话。
+精确下一步：①获取Santosa 2022论文PDF与脚注，核所据《Uraian mendadak》版本；②获取2006 LPPM Tan Malaka版前言/影印页，解决Biasa/Jelata；③找1948年11月3—12日《Merdeka》《Kedaulatan Rakjat》关于大会代表、党章及正式三党名称的同期报道；④核1948年8月人民党大会是否实际召开及Akoma参与形式；⑤继续德朗古BP-KNIP议事录与ANRI No.1215/342/1211原页。长期GOAL ACTIVE / OPEN-ENDED。最新提交SHA应以GitHub main核验值为准；本段不得自填未来SHA。
+
