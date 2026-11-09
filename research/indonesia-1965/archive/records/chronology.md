@@ -320,3 +320,7 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 - **6 Dec1966–21 Jul1967:** Sudisman dates arrest Dec1966, says after 211 days confinement and extensive questioning he read his defense; 1975 printed English preface has erroneous 'Dec 1956'. [S260,C390,C401]
 - **1971:** purported underground PKI delegation compiled five documents, later program favors armed rural revolution, booklet preface inconsistently dates May23 message to 1965 and 1966. [S262,C399–C400]
 
+## 1969 prisoner and employment control source chain
+- October 1969: Amnesty reports government count of about 116000 people restricted, without complete independent counting. [S264]
+- August 1969: first Buru transport 2500 people reported; projected 10000 is not arrival count. [S264]
+- 1968-69: Kopkamtib detention decrees specifically identified bibliographically, original texts not read. [S265]
