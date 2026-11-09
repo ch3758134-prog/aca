@@ -283,3 +283,9 @@ Further original-document upgrade: 1977 Amnesty Appendix I (already registered S
 
 ## Continued ANRI multi-country archive provenance search 2026-11-08
 Official ANRI Jan2025 sources and Jan2023 provenance identified multi-country PKI source book, KOTI RA62 1963-67, 73 oral history interviewees relating to 1926/1948/1965 including Hatta, SOBSI, Gerwani and detainees; and eleven English Sukarno letters to Ratna Sari Dewi (nine dated October 1965, two undated), digital copies at ANRI, original correspondence held in Japan. These are concrete archive holdings and custody statements only. Neither oral interviews nor letter contents have been read; 2025 press release PDF not visually inspected.
+
+## Newly located personnel purge original-copy series
+- 15 Nov1965: 22/KOTI/1965, six-page copy item352 in ANRI transport Ministry, civilian staff purging. [S278]
+- 31 Mar1966: presidential 3/3/1966, one page, ex-PKI and affiliated membership screening. [S278]
+- 13 May1966: KOGAM INST09/5/66 implements above order, five pages. [S278]
+- 20 Jan1965: State Advisory Council letter on land reform without clashes, RA23 no332. [S279]

@@ -337,3 +337,6 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 - 22 July 2023: Dewi offered October 1965 Sukarno letters to ANRI according to institution report. [S276]
 - Jan2025: ANRI reports nine dated Oct1965 and two undated English personal letters in a digital copy collection, originals with Dewi in Japan. [S274]
 - 2025: ANRI identified interview corpus including Hatta, SOBSI, detainees and Gerwani voices, and RA62 KOTI central operational archives, texts not read. [S275;S277]
+
+## Further ANRI 1965-66 primary-order cross-institutional finding (2026-11-08)
+The ANRI 2021 Ministry of Transport finding aid explicitly locates a six-page copy of Nov15 1965 22/KOTI/1965 instruction about civilian employee purges, a March31 1966 presidential 3/3/1966 one-page instruction, and its May13 1966 KOGAM implementing order. These are official archive catalogue metadata, NOT inspected order bodies. New RA23 economic ministry locators offer Jan20 1965 land reform policy letter and Nov1965-1974 state-owned company housing purchase files, also not read.
