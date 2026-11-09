@@ -1,0 +1,4 @@
+
+## Erratum/record integrity — 2026-11-08
+
+In the source audit, the 2016 IPT historical investigation was accidentally cited as S185 in the most recent first-48h source note, even though **S185 refers to an Australian normalization cable**. Its proper registered ID is **S224**; the Anderson-derived excerpt under a distinct access URL is **S254**. New G30S claims/coverage/status and report are corrected to S224/S254, preserving this erratum. The complete 1987 Cornell Anderson article in **S255** has since been retrieved in original indexed PDF text: seven translated visum reports, with specific 5–11 October 1965 propaganda chronology. Screenshot returned 429, so exact facsimile images remain unexamined. Do not double-count S224, S254 and S255 as three independent autopsy witnesses; they depend on copies of the same seven medical reports.

@@ -205,6 +205,6 @@ International organizations' 1969 resolution and Indonesian government's UN-supp
 ## First 24h information and evidence-control mechanism (2026-11-08)
 - Contemporaneous CIA 07:20 US initial brief S250 documents a provisional inference about PKI/Sukarno; Dec1968 CIA study S251 revised objective to military command purge, explicitly admits dependence on coerced-vulnerable detainee interrogation. Distinguish institutional reports vs original Indonesian movement plans.
 - Military Jakarta media order 18:00 1Oct 1965 as reconstructed in Cornell S253 from Berita Yudha Oct2 and UI S257 from Luhulima2006; Army press protection plus selective PNI/PKI press overnight is direct mechanism of controlling access to later testimonies. Actual signed original absent.
-- Same agency that seized communications/press commissioned forensic reports on 4Oct; their copied contents (S185) contradict subsequent extreme newspaper mutilation accounts. Specific causal intent/knowledge of officials not proven by discrepancy alone.
+- Same agency that seized communications/press commissioned forensic reports on 4Oct; their copied contents (S224) contradict subsequent extreme newspaper mutilation accounts. Specific causal intent/knowledge of officials not proven by discrepancy alone.
 - Supardjo's internal 1966 postmortem S252 is rare military participant document not written for interrogators; still partly self-justifying, copied in trial records and limited to three days. Sjam later testimony comes out of security tribunal detention.
 
