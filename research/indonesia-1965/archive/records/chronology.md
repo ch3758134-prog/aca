@@ -373,3 +373,21 @@ World Bank/IDA 1967 field mission February1968 agriculture VolumeIII annex now d
 - **1965 and aftermath — Soge**: Witnesses interviewed in 2000 reported a local head (`kuwu`) and subdistrict chief (`camat`) used requests for priority land documents and PKI accusations against both party-affiliated and non-affiliated residents; this is oral-history testimony, **not** a verified full village imprisonment census. [S287;C475;C476]
 - **1970s–1995 — Soge**: Safitri's reconstruction using LBH Bandung and an Indramayu land-office 1991 investigation reports renewed seizures of papers, pressure to sell, loss of cultivation access from about 1978, and failed attempts to recover documents. Her quoted **1991 sample** traces at least 30 former recipients and about 15 further linked parcels into four owners holding 16ha; this is a traced subset, **not all 622 allotments**. Exact registry and deed files still needed. [S287;C486;C487]
 - **Source verification 2026-11-09**: Directly opened *Archipel* 95 full PDF https://revue-archipel.fr/pdfnumeros/ARCHIPEL95%282018%29.pdf ; inspected visible printed p100 screenshot and sections pp101-105 using searchable text. Original signed 1966 order, 1991 land-office investigation, LBH Bandung 1995 chronology and individual title transfers **not opened**.
+
+
+## 2026-11-09 continuous legal-institutional follow-up (ONGOING)
+Read 1965 Desapraja UU19 and 1979 Village Government UU5 OCR statutory articles alongside official BPK law metadata: 1965 art9/17 direct village-head and representative election, 10–25 assembly seats and head chairmanship; 1979 art4 explicitly disqualifies village-head candidates connected to G30S/PKI, art17 LMD composed of local officials/community leaders rather than direct election, and art10 places responsibility upwards via camat. This is a **normative state-power mechanism**, not proof of implementation in Soge/Wangunwati. 1969 UU6 art2 conditionally deferred repeal for Annex III statutes; 1979 law explanation links its replacement to this mechanism; Annex III original image still unread.
+Confirmed 1973 Unit Desa -> 1978 BUUD/KUD -> 1984 KUD -> 1998 cooperative instruction changes via official BPK status; actual local cooperative control, rice purchases, credit and members' rights unverified. 1965/1967/1992 cooperative laws and 2014 Constitutional Court invalidation of 2012 law also verified at official legal-status/operative-decision level.
+New present-day connection: 2025 Inpres9 targets 80000 Red White village cooperatives (target, NOT achieved count); 3 Nov 2026 MK preliminary hearing case399/PUU-XXIV/2026 recorded claimants' objections to central imposition and village finances, with judicial request to clarify/split claims, not a merits ruling. 1965 UU16 foreign investment repeal vs 1967 UU1 new law recorded separately from actual oil transactions.
+Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q191, 5 coverage rows CV183–CV187. This is not completeness. Next: local 1965-79 electoral/vetting files; 1969 Annex III original; BUUD/KUD membership and BULOG purchase accounts; Soge/Wangunwati original land decisions; 2026 petition update. No HTML created.
+
+- 1965-09-01: UU19 Desapraja arts9/17 set direct village-head and council election and council 10–25 members; head chaired council; local implementation not established. [S297]
+- 1969-07-05: UU6 conditional repeal mechanism art2; annex image not inspected. [S299]
+- 1973-05-05: Inpres4 Unit Desa framework. [S300]
+- 1978-02-06: Inpres2 BUUD/KUD, transitional catur sarana. [S301]
+- 1979-12-01: UU5 village government art4 G30S/PKI candidacy disqualification, art17 non-directly elected LMD; compared with 1965 Desapraja. [S298]
+- 1984-03-27: Inpres4 KUD supersedes 1978. [S302]
+- 1998-07-07: Inpres18 supersedes 1984. [S303]
+- 2014-05-28: MK invalidates UU17/2012, provisionally restores UU25/1992. [S304]
+- 2025-03-27: Inpres9 sets 80000 cooperative **target**. [S305]
+- 2026-11-03: MK case399 preliminary hearing; allegations of village consent/financing interference are petitioners' claims, not judicial finding. [S306]
