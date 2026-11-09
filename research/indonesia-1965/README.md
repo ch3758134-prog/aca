@@ -60,3 +60,10 @@
 - [SOBSI工会、BTI农民组织、Gerwis／Gerwani妇女组织的实际社会动员（1950—1965）](archive/records/continuations/2026-11-09-q190-sukarno-mass-organizations.md)
 
 本轮直接访问开放学术论文及大学论文库，核对既有S041、S217、S230并发现若干新来源候选。注意部分论文只有摘要、原始工会财务与基层名单尚待核读。Q190-*使用专案临时编号以防与已有CSV及未并库的S/C续号冲突。
+
+## 长期GOAL：不按轮次停止（2026-11-09）
+
+- [长期连续研究目标与执行原则](project/goal-continuity.md)
+- [当前证据链、冲突、精确接力位置](archive/records/continuity-status.md)
+
+**状态：ONGOING**。时间跨度扩大和史实细节深化同步进行；每次唤醒沿证据追下去，单次执行边界只触发记录续接位置，不能宣布研究完成。正式来源／主张ID以当前CSV实际记录为准，先前continuations中“预登记”序号可能与正式台账冲突，须去重重编号。
