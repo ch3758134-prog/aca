@@ -297,3 +297,9 @@ Official ANRI Jan2025 sources and Jan2023 provenance identified multi-country PK
 - 22 Nov1965: tourism/Marhaenis Hotel Indonesia union protest concerning attacks on union members item3019. [S280]
 - 12 Dec1965: GP Ansor Jombang Banser decree GA/PT/215/X/I/65 item1166. [S280]
 - 24 Oct1966–5 Jun1967: EKUIN no1305 letter file on treatment and restrictions of Sukarno and Nawaksara. [S281]
+
+## Newly verified public-command and nationalist party chronology
+- 2-3 Oct1965: in early Oct3 RRI address Sukarno insisted he commanded Army, named Pranoto for daily Army affairs and Suharto for order restoration, appealed to avoid armed clashes. [S282]
+- 24-25 Oct1964: Central Java PNI emergency conference according to Rocamora urged local opposition to aksi sepihak with Army and police, original resolution cited but not read. [S283]
+- May1965: PNI central attempted to dismiss Hadisubeno and stop local anti-PKI Buku Putih; party tension persisted. [S283]
+- 20 Aug/22 Aug/13 Sep1965: anti Ali-Surachman PNI groups met, wrote to Sukarno and coordinated inter-regionally. [S283]

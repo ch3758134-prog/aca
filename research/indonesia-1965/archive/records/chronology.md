@@ -343,3 +343,6 @@ The ANRI 2021 Ministry of Transport finding aid explicitly locates a six-page co
 
 ## Continuous research: NU/Ansor, land conflicts and Sukarno 1967 original locators (2026-11-08)
 ANRI NU 2015 original inventory item3012 East Java Feb1965 land occupation opposition; item3015 security/defense autonomous bodies, item3016 demand to dissolve PKI, Jombang Banser Dec12 decree no1166 and Nov22 Hotel Indonesia Marhaenis union protest no3019 all have exact original retrieval numbers; none body read. ANRI 2024 Sukarno Defense/Security guide maps EKUIN 1966-67 Sukarno restriction and Nawaksara file1305. This strengthens distinct archival perspectives, not proof of individual violence or uniform party policy.
+
+## October 1965 presidential radio and PNI local conflict originals (2026-11-08)
+Sukarno Oct3 1965 01:30 Indonesian speech as printed in Pranoto's later memoir was read. Formal distinction among personal President Army control, Pranoto daily Army affairs and Suharto restoration of security shows simultaneous authority claims, not effective command receipt. Full 1970 Cornell PNI study of 1963-65 internal party conflicts read; key 1964 land reform and factional meeting dates identified and original party sources named. Avoid conflating moderate/left PNI factions with Communist party membership.
