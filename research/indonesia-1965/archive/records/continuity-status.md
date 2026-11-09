@@ -160,3 +160,7 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 精确续接：①尝试Cornell bitstream c0ca72f5-62f9-481d-8d89-ac1e9dbf3458 或其他合法馆藏取得Ingleson 2016 pp31—56；②追1950年四港工会—雇主集体合同与日薪/米粮福利原始表；③查1951年2月关键行业禁罢工及仲裁法规的印尼官方公报和执行；④取得Ingleson 2025 Indonesia 120 pp97—119全文及SOBSI财务账册来源；⑤继续1948 Delanggu BP-KNIP/ANRI原件、Murba 1948党章与1965后地方工会成员就业变化。长期GOAL仍ACTIVE / OPEN-ENDED。写入后main SHA以GitHub最终核验为准。
 
 **2026-11-09 正式台账同步修正：** 并发写入期间另一研究链先占用S358—S359/C601—C603/Q221/CV215（Ingleson港口工会研究）；本研究没有覆盖这些已登记项，改用**S360—S362、C604—C606、Q222、CV216**。正式更新source-register、claim-ledger、search-log、coverage-matrix、archive/records/chronology.md。最后一笔已核实成功的时间线提交为 `1da00275f2aa3e4d757a1ed2bdfeed04036c0d5d`；此状态更新本身将产生更晚提交，下一次务必读取main最新HEAD。旧状态段落中S358/C601/Q221/CV215的候选说法均已作废，勿按旧候选编号续查。长期GOAL OPEN。
+
+## ONGOING / GOAL仍进行 — 2026-11-10，1951劳动争议法原件核验
+已直接阅读BPK官方1951年第16号紧急法全文及说明（S363），另打开1957年第22号法第三方OCR全文（S364，非官方原始影印）。正式新增C607—C610、Q223、CV217并扩充chronology。1951年9月紧急法明确废止1951年2月军方第1号劳资争议规定，规定罢工/停业须书面通知且至少等三周，地区调解委员会由部委代表组成；1957年法的OCR显示后来的委员会引入劳资各五名代表。不得将法律规定当成港口执行实况，也不得误写为1951年9月完全取消罢工限制。
+**精准续查**：①找Peraturan Kekuasaan Militer (Pusat) No.1/1951的1951年2月签署全文、军事公告和实际禁令范围；②找1951—57年P4D/P4P在雅加达、三宝垄、泗水、勿拉湾的案件、罢工通知、执行与工会抗议；③核1957年UU22官方影印及地区委员会任命、SOBSI实际代表；④取得Ingleson 2016四港合同正文及2025 SOBSI财政论文；⑤继续1948德朗古BP-KNIP原始记录及1965后工会基层人员链。最后一笔本次正式研究台账提交SHA为 `975b17a6389535d79ca2e3c7b5c01c1573733aff`，本状态文件的提交SHA须通过GitHub main实时读取。长期GOAL **ACTIVE / OPEN-ENDED**，未完成。
