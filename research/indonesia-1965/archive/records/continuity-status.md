@@ -138,3 +138,7 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 已打开Open Library《Uraian mendadak》2006年版本书目OL16326955M（xxiv+102页），书目关联1948-11-07三党合并：Partai Rakyat、Partai Buruh Merdeka、Partai Rakyat Jelata→Partai Murba。仅书目，未读书体及1948年大会记录。Wikisource与已登记S351是同一转录传统，不重复来源。7月31日信中8月10—12日仅为预定大会日期；Akoma不在书目三党名单，不能推定合并成员。正式新增S352/C594/Q217/CV211，更新chronology；本次研究数据提交a15d093d9c15fc22f11f0c7cc09d6da23a88bd7d。
 
 **精准续接**：①取得2006《Uraian mendadak》正文与1948原稿；②核1948年8月10—12日人民党大会同期报道与决议；③核11月7日Murba大会三党代表及Akoma关系；④与德朗古SARBUPRI/SOBSI/FDR干部网络分开核对；⑤继续查ANRI No.1215/342/1211和BP-KNIP原始议事录。GOAL持续OPEN，最新HEAD以本状态提交后的GitHub核验为准。
+
+## ONGOING / GOAL仍进行 — 2026-11-10 1948 Murba与文本流传
+本次在正式CSV登记S353—S354、C595—C597、Q218、CV212；打开《Uraian Mendadak》印尼语网络转录全文与1951年《Fourth International》刊载《Gerpolek》英译节选。前者文本明确讨论支部鼓动、茉莉芬事件，但不是已取得的1948年原始大会记录；后者编者明确承认英译经过荷兰语和法语，且仅节录。不得将谭·马拉卡的政治评价视为独立核实的事件，也不得由题头推定三党合并手续已经完成。
+精确续查：①检索1948年11月3—12日《Merdeka》《Kedaulatan Rakjat》《Patriot》有关三党大会的原版报道及代表名单；②取得2006年《Uraian mendadak》实体书与1948年原印版核对段落和题头；③取得《Gerpolek》1948年印尼语版逐句对照1951年转译，核查1946年被捕日期及1948年写作地点；④核对1948年8月人民党拟议大会是否实际召开；⑤返回1948年德朗古BP-KNIP原始议事录、ANRI No.1215/342和1950—1965 SOBSI/BTI基层运作。GOAL仍为ACTIVE / OPEN-ENDED。
