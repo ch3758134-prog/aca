@@ -132,3 +132,9 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 ## ONGOING / GOAL仍进行 — 2026-11-10：1948年谭·马拉卡原时代纲领与德朗古对照
 已实际打开后期15页数字转录《Pandangan dan Langkah Partai Rakyat》（署名1948-07-31），正式新增S351、C591—C593、Q216、CV210并更新chronology。原始1948年印刷版未见；作者在信中自称写23页，不能将15页转录当作原始页数。人民党/Akoma的农村—产业组织分工、庄园国有化、无地雇农分类与工农生产链协调均为**当事人提出的方案**，不等于落实；Jatiroto数字未经独立验证。该网络与FDR/PKI、SARBUPRI不得混同。
 **精准续接**：（1）检索1948年8月10—12日Partai Rakyat第一次大会原始决议/报刊及与Tan Malaka信件的收讫；（2）查Akoma、Partai Buruh Merdeka与SARBUPRI在中爪哇的具体支部、会员及人员重叠证据；（3）查Jatiroto战前糖厂工人/季节工统计验证文中约40000口径；（4）继续ANRI No.1215/342/1211原页及BP-KNIP 1948年7—8月议事录，核Sartono动议；（5）取得Tan Malaka 1948原版23页文本与后期转录比对缺页和编辑改动。后续把可证实的组织关系与行动编入连续中文历史正文，不把纲领自动视为实施。长期GOAL OPEN。正式台账本次最新写入前的提交：dbb2e9f6b5e8ad5efc807f941ab73e4e4ea006e1；本状态文件自身提交SHA须从GitHub写入结果核验。
+
+## ONGOING / GOAL仍进行 — 2026-11-09，1948年Murba合并书目接力
+
+已打开Open Library《Uraian mendadak》2006年版本书目OL16326955M（xxiv+102页），书目关联1948-11-07三党合并：Partai Rakyat、Partai Buruh Merdeka、Partai Rakyat Jelata→Partai Murba。仅书目，未读书体及1948年大会记录。Wikisource与已登记S351是同一转录传统，不重复来源。7月31日信中8月10—12日仅为预定大会日期；Akoma不在书目三党名单，不能推定合并成员。正式新增S352/C594/Q217/CV211，更新chronology；本次研究数据提交a15d093d9c15fc22f11f0c7cc09d6da23a88bd7d。
+
+**精准续接**：①取得2006《Uraian mendadak》正文与1948原稿；②核1948年8月10—12日人民党大会同期报道与决议；③核11月7日Murba大会三党代表及Akoma关系；④与德朗古SARBUPRI/SOBSI/FDR干部网络分开核对；⑤继续查ANRI No.1215/342/1211和BP-KNIP原始议事录。GOAL持续OPEN，最新HEAD以本状态提交后的GitHub核验为准。
