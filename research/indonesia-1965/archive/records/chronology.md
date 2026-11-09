@@ -356,3 +356,14 @@ ANRI 2016 President Sukarno archive guide film item SK71 (1965 PFN 10m19s) locat
 
 ## Continued field-evidence land redistribution investigation, 2026-11-08
 World Bank/IDA 1967 field mission February1968 agriculture VolumeIII annex now directly read. Uses adjusted official land redistribution 344000ha / 563000 tenant beneficiaries, then rejects 168000ha of low-quality state land and suggests upper 176000ha productive Java area and 164000 owners; numbers scope specific and mission field evaluation, not independent land registry. Need reconcile later Indonesian 681832ha/1965 aggregate without collapsing regions, categories or years. ANRI KOTI archive now locates Nov1964 presidential land occupation instruction022 and committee revision Keppres263, but original texts unread.
+
+## 2026-11-09 local agrarian and press archival follow-up
+- 1946–1952: Wangunwati ex-plantation workers occupied former rubber estate, established estate board and cooperative; 24May1951 ministry E.1309/PKB and 2May1952 cooperative dates cited by Shohibuddin, original instruments unread. [S288;C478]
+- 4Jun1965: West Java agrarian decree LR.249/D/VIII/60/1965 reported for Wangunwati, 468.15ha / 240 households, 280.2ha rubber estate retained cooperatively. [S288;C478]
+- 1962–1966: Soge priority letters and SK KINAG LR.323/D/VIII/65/1966 (13Sep1966) covering 283.37ha/622 proposed recipients; Safitri note30 confusingly says 1966 decree copy received in 1964. [S287;C474;C477]
+- 27Sep1965: Harian Rakjat No4233 catalogue mentions Sarbupri, BTI, SOBSI, Pemuda Rakjat and Gerwani mobilization. Headlines only. [S290;C481]
+- 29Sep1965: Harian Rakjat No4235 lists demands by 28 organizations to dissolve HMI; original article unread. [S291;C481]
+- 30Sep1965: Harian Rakjat No4236 pIII claims 17000ha Lampung land surplus not redistributed; headline only. [S289;C480]
+- After Oct1965: Soge kuwu/camat reportedly forced land papers' return through anti-PKI accusation, including non-PKI residents; later 2000 sample 11/26 beneficiaries reported detention. Not a village census. [S287;C475;C476]
+- 1965–68: Leksana locates Kodam Brawijaya records for four Korem; original daily logs and radiograms not read. [S295;C483]
+

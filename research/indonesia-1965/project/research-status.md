@@ -316,3 +316,13 @@ Official ILO indexed English and French/Spanish reports establish specific two-s
 - Nov5 1964 Presidential Instruction022 against illegal occupation of state land catalogued KOTI item162 (damaged two-sheet copy); no proof compliance. [S286]
 - Nov23 1964 Keppres263 revised land reform committee, catalogue item163. [S286]
 - Feb1968 IBRD/IDA agriculture mission recounts official adjusted 344000ha gross reported redistributed, subtracts poor 168000ha state land to calculate max176000ha Java productive, with 164000 recipient owner estimate; definitions contested. [S285]
+
+## 2026-11-09: linked village land-reform, newspaper and military archive investigation
+New source IDs S287–S296; claims C474–C484; searches Q180–Q185; coverage CV179–CV182. New totals 296 sources, 484 claims, 185 searches, 182 coverage rows. These are inventory counts, not historical completeness.
+
+Substantive source work: read Hilma Safitri's full 2018 Soge village agrarian study (original 1966 West Java land decree locator LR.323/D/VIII/65/1966; 283.37ha, 622 recipients, 15-year payment and village coerced priority-letter return), Shohibuddin's full 2014 comparative Ngandagan/Wangunwati field study (4Jun1965 Wangunwati LR.249 decree, 468.15ha to 240 families and 280.2ha cooperative rubber enterprise), and TanahKita dependent case entry. Also located original Sept27/29/30 1965 Harian Rakjat issues via page-level vendor contents, CRL Angkatan Bersendjata 9Dec1965 catalogue, and Brawijaya military archives through Leksana's excerpt. **No paid newspaper PDF or military radiogram was opened.**
+
+Corrections and discrepancies: Safitri's note says a Sep1966 SK copy was received in 1964, likely conflating earlier priority papers, but not resolved. TanahKita lists 28337.00ha while original scholar says 283.37ha; do not copy the 100x figure. The village official's claim that 130 were PKI is a threatening accusation in witnesses' recollections, not a verified party census. 11 jailed out of 26 sampled respondents is not a national or whole-village total. Lampung 17000ha remains a partisan press headline. Wangunwati's survival through cross-party and military relationships is distinct from Soge's land seizures and Ngandagan's party switch, not a nationwide template.
+
+Next obtain original West Java land decrees, 1991 BPN investigation and 2000 CLARA recordings; full Harian Rakjat September issues and military paper counterpart; Kodam V four-Korem radiograms; independent Lampung agrarian registers. HTML unchanged as requested; no final authorial judgment.
+
