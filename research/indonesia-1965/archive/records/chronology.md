@@ -258,3 +258,15 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 - 16 Sep 1963 and 23 Jan 1964: UGM historian reports oil-worker control actions at Balikpapan refinery with local authority support, while previous company divisions by ethnicity, amenities and worker wage status underpinned conflicts. Original action/union/company records not opened. [S218,C273–C274]
 - 22 Jun vs 31 Dec 1965: UGM describes local Shell-to-Permina Balikpapan asset transfer in June; WB documents Shell overall asset purchase in December. Different scope/stage or error unresolved. [C275,S197,S198]
 
+## New deep-search: West Irian 1962-69 and post-1965 detentions (2026-11-08)
+- **15 Aug/21 Sep 1962:** UNTS treaty records transfer from Dutch administration through UNTEA, Apr–May1963 control change, Article XVIII adult franchise/choice and XXII freedom guarantees. [S220; C277-C279]
+- **1963/Jan 1965:** UN SG says repeated efforts to deploy UN experts were unsuccessful; Indonesia suspended UN co-operation Jan7 1965. [S221; C286]
+- **Aug–Nov 1968:** Ortiz-Sanz arrives Jayapura, forwards guarantees of political rights and urges individual ballot in urban centers where practical. [S221; C280-C281]
+- **Dec 1968–Jul 1969:** envoy receives govt releases correspondence reporting 346 political detainees released before consultation, including 115 from estates in West Java, individual lists still unread. [S221; C285]
+- **14 Jul–2 Aug 1969:** official UN Secretary General reports 1,026 delegates at 8 regional consultations unanimously declared to remain with Indonesia. It does not report a general adult secret ballot. [S221; C282]
+- **19 Nov 1969:** UNGA 1813 Gabon delegate raises objections on public voting/selection under government control; 2504 (XXIV) passes 84 for/0 against/30 abstain, 'takes note' of UN Secretary General record. [S222; C287-C288]
+- **12 Mar 1966:** English translation of Suharto-signed presidential PKI dissolution/ban decision 1/3/1966 reproduced via 2016 tribunal and Dinuth; official signed original outstanding. [S224; C294]
+- **1968–69:** ABC category screening state regulations KEP-028/10/68 amended by KEP-010/03/69, later than first killings and applying to civil/military public service. [S223;S224;C296]
+- **1969–1977:** Amnesty documents Buru forced-labor detention, 1975 official regional category B table (29,470 nationally), Central Java local site countercounts and 1976 release-plus-transmigration announcement. Not a verified national census. [S223; C289-C293]
+- **1970–72:** US original intelligence memo claims secret procurement of formerly Soviet Indonesian arms/radar, about $2m and return-aircraft logistics; prospective MiG sale not established. [S225; C298-C299]
+

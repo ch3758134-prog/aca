@@ -169,3 +169,14 @@ An acknowledged provision of names is a factual action by a foreign mission, but
 
 State ownership, technical management, workforces, trade union representation, foreign-market access and fiscal debt form six materially distinct relations. Do not reduce all to 'nationalized' vs 'privatized' or infer policy motives from coincident dates.
 
+## New deep-search: cross-border state obligations and realized covert materiel (2026-11-08)
+
+| Relationship | Verified source level | Unclosed fields |
+|---|---|---|
+| Dutch/Indonesian/UN West Irian sovereignty 1962-69 | Authenticated treaty S220; UN SG/Ortiz-Sanz report S221; UNGA actual vote S222 | Implementing freedoms, original local council selection, petitions, 346 detainee lists, participation as adults |
+| Foreign coercion and local executive/army apparatus in West Irian | UN report confirms representative rights concerns and govt-communicated release of political detainees from West Java plantation labor S221 | Individual arrests/units, wage/labor arrangements, returnee witnesses |
+| British diplomacy and covert influence | Interested Tonkin defense S227 set against previously catalogued S046 Easter and S170 Hall on IRD FO1110 | FO1110 actual editions, mailing list, budget, actual circulation, impact |
+| U.S.-Indonesia-Soviet 1970-72 armaments | Secret official INR memo S225 claims equipment already purchased and evacuated (~$2m) vs MiG 1972 negotiations not completed in text | Item-specific date, shipper/signature, Soviet ownership, diplomatic repercussions |
+
+International organizations' 1969 resolution and Indonesian government's UN-supplied numbers are **different levels of public legitimacy and empirical verification**. Do not equate 'noted by UN General Assembly' with a secret-ballot national referendum or treat a foreign diplomatic document as local legal validity.
+
