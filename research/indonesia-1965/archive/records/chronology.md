@@ -314,3 +314,9 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 - **1967:** Roosa's Appendix2 prints Sjam July1967 testimony taken during extraordinary military tribunal after months of detention. Cannot assign evidential weight of independent contemporaneous account. [S252,C382]
 - **Dec 1968:** CIA own internal study explicitly calls operation aimed at military leadership purge/cabinet change and NOT overthrow Sukarno government; points out secret conspiracy data entirely stems from subsequent interrogation. Interested CIA historical judgment, not definitive verdict. [S251,C376–C377]
 
+## Surviving PKI leaders: 1966 self-criticism, 1967 Sudisman — 2026-11-08
+- **1965 Aug–Sep as recalled July1967:** Sudisman says Aidit told Politburo members officers planned preemptive action and dispatched few party cadres to regions with RRI-support brief; he says national Party Central Committee did NOT adopt operative military plan. His own acceptance of political responsibility doesn't establish institutional command. [S260,C391–C393]
+- **Sep1966:** surviving Politburo faction self-criticism in 1968 English Beijing edition criticized old strategy's reliance on Sukarno and supposed progressive 'aspect' of bourgeois state, 'combination of three struggle forms' implemented as legal mass action without independent armed capacity. This is later polemical attribution, not proven 1965 objective fact. [S261,C395–C398]
+- **6 Dec1966–21 Jul1967:** Sudisman dates arrest Dec1966, says after 211 days confinement and extensive questioning he read his defense; 1975 printed English preface has erroneous 'Dec 1956'. [S260,C390,C401]
+- **1971:** purported underground PKI delegation compiled five documents, later program favors armed rural revolution, booklet preface inconsistently dates May23 message to 1965 and 1966. [S262,C399–C400]
+

@@ -208,3 +208,8 @@ International organizations' 1969 resolution and Indonesian government's UN-supp
 - Same agency that seized communications/press commissioned forensic reports on 4Oct; their copied contents (S224) contradict subsequent extreme newspaper mutilation accounts. Specific causal intent/knowledge of officials not proven by discrepancy alone.
 - Supardjo's internal 1966 postmortem S252 is rare military participant document not written for interrogators; still partly self-justifying, copied in trial records and limited to three days. Sjam later testimony comes out of security tribunal detention.
 
+## Contemporaneous PKI center vs individual agent separation (2026-11-08)
+- Sudisman S260 own 1967 testimony/defense distinguishes Aidit's accounts to Politburo of officers' intentions from Central Committee's formal collective decision. He argues no unified direct party command, but acknowledges some provincial cadres were sent to support a RRI announcement. Under custody and partisan defense, this is not proof of innocence or complete causal explanation.
+- 1966 Politburo self-criticism S261 and 1971 compilation S262 reflect ideological reorientation under defeat, criticizing Nasakom and state two-aspect strategy, endorsing armed peasant struggle. This should not retroactively rewrite the 1959–65 practical organization.
+- Sudisman's SOKSI vs BTI/SOBSI observations connect rural and workplace anti-left organization to army and state institutions but require enterprise and district actual order/asset/worker histories.
+
