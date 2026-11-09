@@ -349,3 +349,7 @@ Sukarno Oct3 1965 01:30 Indonesian speech as printed in Pranoto's later memoir w
 
 ## First audiovisual original locator for October-November 1965
 ANRI 2016 President Sukarno archive guide film item SK71 (1965 PFN 10m19s) locates composite documentary segments of Oct6 cabinet, Oct16 Suharto Army Commander appointment, Nov20 Sukarno Bogor military and press briefing; exact timecodes and preserved Beta / DVD catalogue IDs allow follow-up audiovisual examination. Film guide synopsis only read; not original frames, audio, or full transcript. Distinguish dates and film runtime from event real clock times.
+
+## Labour rights original institutional claims and process
+- 21Sep1967 WFTU case537 over SOBSI, Indonesian government observations Apr1968 and Jan1969, ILO subsequent reports through 1971, including Njono/Sudarno Heru. [S206]
+- 23Apr/12Jun1971 SARBUMUSI memorandum/complaint to president, court and ILO, government Nov5 reply and 1972 case report130. [S200]

@@ -308,3 +308,6 @@ Official ANRI Jan2025 sources and Jan2023 provenance identified multi-country PK
 - 6 Oct1965: Sukarno Dwikora cabinet filmed as one SK71 scene, footage catalogued but not watched. [S284]
 - 16 Oct1965: Army Commander Suharto inauguration preserved in SK71 segment time 03:10, not evidence film timestamp equals time of real event. [S284]
 - 20 Nov1965: Bogor meeting speech/press scenes in SK71 around film time 06:45 and 09:53. [S284]
+
+## Continued two different unions' ILO original proceedings, 2026-11-08
+Official ILO indexed English and French/Spanish reports establish specific two-sided 1967 WFTU/SOBSI Case537 and 1971 Muslim SARBUMUSI Case674 controversy, distinct state explanations and ILO findings. Indonesian government's 1969 defence SOBSI dissolved because allegedly implicated in G30S and 1971 denial of SARBUMUSI infringement citing Article28/1969 Labor14 are interested claims, not neutral confirmation. ILO staff criticised delayed/missing information on Njono and Sudarno Heru; petition for abeyance in 1972 did not adjudicate allegations. Direct ILO case full-page access loop/cache failures; read indexed official excerpts only.
