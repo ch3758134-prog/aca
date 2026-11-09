@@ -112,3 +112,8 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 精准下一动作：（1）申请ANRI警察档案No.1215和No.342的原始扫描/目录完整馆藏号，核Mrisen事件与巡逻日期；（2）找1948-05-28 Warta Berita Antara原页及1948-07-16 Pandji Ra'jat原页，复原SOBSI与STII相反叙述；（3）核1948-06-17两部长谈判、06-23再罢工与07-16日惹广播原件；（4）查Sarjana Sigit Wahyudi 2001第149—150页及Kedaulatan Rakyat No.235所载政府对工人活动的限制；（5）对比BTN、LBT、KKA、STII、Hizbullah各自人员与组织关系，不预设任何单方指控属实。GOAL永久OPEN。
 
 最新提交SHA以GitHub main实时查询为准。
+
+
+## ONGOING / GOAL仍进行 — 2026-11-10 ANRI原始馆藏目录交叉核验
+本次实际打开ANRI官方1995年《Inventaris Arsip Kepolisian Negara RI 1947–1949》完整PDF，正式登记S347、C578—C580、Q212、CV206。**关键校正**：No.1215正式著录为1948-07-01 Delanggu新闻局一页复制报道，而不是馆藏目录定义的1948-06-27警察调查原件；2013论文提到的6月27日Mrisen事可能被7月1日新闻报道追述，原页未读，不能确定。No.342是1948-07-22苏拉卡尔塔机动旅关于Delanggu警戒的一页原件；No.1211是1948-05-22 Patriot与05-25 Buruh文章摘录三页。已将重复的Stoler/Bourgois三条C566—C568安全改为C575—C577并校正其来源S340/S341；旧C566—C568现在仅指Delanggu线，**其他专题、时间线中旧号引用仍须逐一复核，不可自动认定已经全库修复**。
+下一执行直接行动：（1）从ANRI Larissa/档案阅览申请Kepolisian Negara No.1215（1948-07-01，1 lembar turunan）、No.342（1948-07-22，1 lembar asli）、No.1211（1948-05-22/25，3 lembar kutipan）原页；（2）逐句核对S344论文印刷页6—7对上述两份档案的转述，尤其Mrisen三名具名人员和KKA通告是否实际见于No.1215；（3）寻找1948-07-16 Pandji Ra’jat与05-28 Antara原报，并分别核STII/SOBSI指控；（4）核实1948-06-17部长会谈与07-16日惹广播原始文件；（5）继续Stoler 1985 p127/132原书统计表。此次只读档案目录，尚不足以新写完整叙事章节。长期GOAL仍ACTIVE / OPEN-ENDED。**最新GitHub main HEAD须在本次所有提交后重新查询，不能把写入前SHA误作最终SHA。**
