@@ -270,3 +270,14 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 - **1969–1977:** Amnesty documents Buru forced-labor detention, 1975 official regional category B table (29,470 nationally), Central Java local site countercounts and 1976 release-plus-transmigration announcement. Not a verified national census. [S223; C289-C293]
 - **1970–72:** US original intelligence memo claims secret procurement of formerly Soviet Indonesian arms/radar, about $2m and return-aircraft logistics; prospective MiG sale not established. [S225; C298-C299]
 
+## New Indonesian originals: KOTI, NU, prisoners and West Kalimantan, 2026-11-08
+- **25 Dec 1958:** NU no2911 describes proposal for Sarbumusi local branches to join labor–military cooperation body; underlying letter not read. [S229;C313]
+- **8 Jun 1964 / 13 Jun report:** KOTI no29 original five-sheet copy of decisions by PN Pertamin–PT Shell Indonesianisation joint assistance teams. This precedes Shell 1965 national deal; no meeting minutes examined yet. [S228;C304]
+- **Sep1964–Sep1965:** Gerwani 743–760 listed internal organizing, local Cipinang Pulo 14/16 May 1965, Banten regional conference 1 Sep; original documents missing. [S228;C308–C309]
+- **19 Jul 1965:** NU no1157 lists Ansor in Shell Prabumulih; no proven relation to Shell management or KOTI 29. [S229;C326]
+- **25 Sep 1965:** NU no1158 indexes letter on Ansor and Fatayat dual leadership in Ogan Komering Ilir. [S229;C311]
+- **22 Oct / 26 Oct / 29 Oct 1965:** KOTI no35 protection of production units, no16 Army commander G30S measures, no37 Marhaenist transport/transmigration union's declaration of loyalty to Sukarno. All archive titles, not opened bodies. [S228;C303,C306–C307]
+- **Nov–Dec 1965:** KOTI no31 employment dismissals and impact on production; NU no1164 central Ansor support for Simokerto and no1166 Dec12 Jombang Banser formation document. [S228;S229;C305,C310,C312]
+- **16 Jul 1967:** Davidson/Kammen reconstruction of PGRS/Paraku with PKI remnants attacking Sanggau Ledo air base; 1967 West Kalimantan ethnic Chinese violence and forced movement follow a distinct regional armed timeline, cannot simply add to 1965–66 Java tally. [S232;C321–C325]
+- **Sep 1977:** Amnesty names political detainees from Unilever, post, textile, women's SOBSI, and railway/other sectors; occupational source cannot equate PKI and union memberships. [S230;C315–C318]
+

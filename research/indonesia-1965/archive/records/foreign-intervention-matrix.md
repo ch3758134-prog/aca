@@ -180,3 +180,9 @@ State ownership, technical management, workforces, trade union representation, f
 
 International organizations' 1969 resolution and Indonesian government's UN-supplied numbers are **different levels of public legitimacy and empirical verification**. Do not equate 'noted by UN General Assembly' with a secret-ballot national referendum or treat a foreign diplomatic document as local legal validity.
 
+## New independent Indonesian source corpora, 2026-11-08
+- **KOTI original papers:** catalogue S228 nos16/29/31/35/37 place October1965 military production protection and dismissals next to prior state-enterprise industrialisation, and differentiable non-PKI union responses. Operational act/order/letter bodies still outstanding.
+- **NU/Ansor/Sarbumusi and Banser:** ANRI S229 no1166 Dec1965 Jombang official Banser and no2911 Dec1958 Sarbumusi cooperation with military; no evidence from finding aid alone of unit-level killings.
+- **Ethnic Chinese politics:** Woolgar S231 shows West Java's 1959/1963 anti-Chinese violence versus more qualified 1965/67 pattern; Davidson/Kammen S232 detailed West Kalimantan 1967 escalation, Dayak mixed choices, ethnic Chinese land displacement, diverse casualty figures.
+- **Named labor victims:** contemporary Amnesty S230 lists sector and jail/camp for some named unionists; no automatic equivalence of SOBSI-affiliated rank-and-file with PKI members.
+
