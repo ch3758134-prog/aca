@@ -147,4 +147,5 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 ## ONGOING / GOAL仍进行 — 2026-11-09 Murba文献名称歧义续接
 本次检索印尼语学术文章与2006年《Uraian mendadak》大学馆藏目录：新增S355—S356、C598—C599、Q219、CV213。2022年Santosa论文**仅打开搜索索引摘要**（期刊页面超时），摘要将讲话解释为要求有政治意识与纪律的干部；不冒充论文全文。UIII图书馆2006年版本目录**页面抽取为空，仅检索索引描述可见**，其中合并第三党写作Partai Rakyat Biasa，而Open Library S352写Partai Rakyat Jelata；暂不裁定何者为1948年原称。已与S352/S353去重，不重复登记原讲话。
 精确下一步：①获取Santosa 2022论文PDF与脚注，核所据《Uraian mendadak》版本；②获取2006 LPPM Tan Malaka版前言/影印页，解决Biasa/Jelata；③找1948年11月3—12日《Merdeka》《Kedaulatan Rakjat》关于大会代表、党章及正式三党名称的同期报道；④核1948年8月人民党大会是否实际召开及Akoma参与形式；⑤继续德朗古BP-KNIP议事录与ANRI No.1215/342/1211原页。长期GOAL ACTIVE / OPEN-ENDED。最新提交SHA应以GitHub main核验值为准；本段不得自填未来SHA。
-
+## ONGOING / GOAL仍进行 — 2026-11-10 Murba与1949地方军事链
+本次实际打开Bawaslu馆藏Poeze第五卷（2020，475页）**图书目录简介**，正式S357/C600/Q220/CV214；第五卷简介涵盖1948–1949，疑似套用丛书说明，书正文未读。Bawaslu第四卷网址打开502。同期另一写入者已登记UIII书目S356及第三合并党名称“Rakyat Biasa/Jelata”的目录冲突C599，已避让其编号与文件版本。精确续接：①取得Poeze第四卷正文及脚注并核1948年9月获释、Kediri/Sabarudin、1949年2月21日Selopanggung事件；②检索1948年10月3日合并声明、11月7日大会、11月12日章程原件及三党名单；③核1948年8月人民党预定大会是否实际召开、Akoma人员关系；④查ANRI No.1215/342/1211及BP-KNIP Delanggu议事录；⑤追踪1950–1965 SOBSI/BTI组织到1965后地权和就业变化。**ACTIVE / OPEN-ENDED；提交SHA以GitHub核验为准。**
