@@ -424,3 +424,16 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 同一法律第43条第1款f项，却继续禁止原PKI及其群众组织成员、被认定直接或间接涉及“G30S/PKI”者成为国会和地方议会候选人；第2款明确其子女和后代原则上可以参选。正式解释还要求政府向选举委员会（KPU）提交有关人员名单；第73条第6款规定故意违反第43条第1款f项者最高五年监禁。是否真正提交名单、据此排除哪些具体候选人，仍须查选举档案。[S323;C524;C525]
 
 1999年5月19日，第27号法律在《刑法典》新增107a—107f条：107a针对特定违法公开传播共产主义／马克思列宁主义思想行为，107c和107d分别附加骚乱损害或改变国家基础的条件，107e涉及特定组织及联系，107f是破坏活动。不得把这些不同构成要件合并为“一切马克思主义研究均属犯罪”，也不能在缺少判决时推断已有具体定罪。[S324;C526]
+
+### 1966—2004：具名获释政治犯、权利恢复组织和宪法诉讼（S325—S326）
+2004年宪法法院011-017/PUU-I/2003号判决证据目录记载：Makmuri bin Zahzuri获释证明日期1966-07-19，Said Pradono bin Djaja为1972-05-09，Ngadiso Yahya bin Somoredjo为1978-07-26，Casman/Tjasman bin Setyo Prawiro为1979-12-05；证明原件未独立取得。[S325;C529]
+
+2002-10-21：法院所列证据中有DPP-LPRKROB组织成立公证书；2003—04诉讼时Sumaun Utomo任主席，Achmad Soebarto任秘书长，Mulyono任法律倡议负责人。[S325;C528]
+
+2003-03-11：UU12/2003颁布，其第60(g)条排除前PKI、相关群众组织和G30S关联者参选立法机构。[S326;S325]
+
+2004年选举前：法院证据P-11记载Dr Sutarko Hadiwacono在Purworejo代表Partai Nasionalis Banteng Kemerdekaan参选地方议会，因被认定为前G30S/PKI B1类拘押者而被取消候选资格；原函和判决后结果未核。[S325;C530]
+
+2004-02-24：宪法法院多数意见裁定UU12/2003第60(g)条违宪且无约束力；Achmad Roestandi持不同意见。法院证据还包括Kusnendar Kornelis带ET标记身份证、Said Pradono未获终身身份证的主张。[S325;C527;C531;C532]
+
+连续阅读正文见 briefs/readable-history/1966-2004-ex-detainees-and-election-rights.md。
