@@ -253,3 +253,8 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 
 **Important unresolved source divergence:** UN A/8058 describes the US$12.9m marketing-asset transfer in 1965 while WB 1971 petroleum annex says 1964; detailed actual sale/registrations must determine asset-specific transfer dates. NSA curator narrative of refinery deals 'scuttled later in 1965' cannot be used as a blanket claim: Shell sold on Dec31 1965; Stanvac refinery remained private until Jan1970. [S196;S197;S202;C223;C241]
 
+## Regional worker movement / Shell property follow-up — 2026-11-08
+- 21 Sep 1953: UGM HISTMA 2026 lists ANRI Sekretariat Negara Kabinet Perdana Menteri 1950-59 II no1769, DPT PERBUM letter to NV BPM Balikpapan. Locator only; content unexamined. [S219,C276]
+- 16 Sep 1963 and 23 Jan 1964: UGM historian reports oil-worker control actions at Balikpapan refinery with local authority support, while previous company divisions by ethnicity, amenities and worker wage status underpinned conflicts. Original action/union/company records not opened. [S218,C273–C274]
+- 22 Jun vs 31 Dec 1965: UGM describes local Shell-to-Permina Balikpapan asset transfer in June; WB documents Shell overall asset purchase in December. Different scope/stage or error unresolved. [C275,S197,S198]
+

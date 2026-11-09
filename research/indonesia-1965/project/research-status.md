@@ -243,3 +243,6 @@ Next priority: actual 1963 foreign oil contracts, Shell purchase and payment ins
 
 Current material does not establish nationwide employment, worker dismissals, causal attribution of specific violence, complete oil revenue use, nor a comprehensive post-1965 economic settlement. No author's final political verdict is entered.
 
+## Additional 2026-11-08 direct regional oil-worker investigation
+New UGM 2026 oil-workers history locates S218 and bibliography reference to 1953 ANRI original S219. Four new claims C273–C276, two searches and two coverage rows. Its reported refinery occupations (1963, 1964), class-stratified company facilities and 22 June 1965 Balikpapan assets' handover require original district and company files. **Major discrepancy retained**: 22 June local 'handover' vs World Bank late December 1965 $110m Shell sale; these may refer to different facilities, legal/administrative stages or mistaken dates. This has **not** been resolved and should not be narratively fused. No HTML published: the user's current rule is mature continuous history prose only.
+
