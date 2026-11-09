@@ -103,3 +103,12 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 补充正式S340—S341、C566—C568、Q209与chronology；直接打开Bourgois 1987年书评全文和密歇根大学出版社1995年书目，**未打开Stoler原书**。书评提出二战后种植园边缘土地占居→1950年代农民组织动员→部分劳动者以非工会临时工身份重返种植园的矛盾机制。书评25%—60%数字的年份及分母不清，禁止用作1952/1956年SARBUPRI会员率。同期另一写入者已将Delanggu罢工线推进至7月并使用S338—S339、C562—C565、CV204；本次发现并修复S/C编号并发冲突（本线改S340—S341/C566—C568），不要重新覆盖对方来源。Q209当前已改指S340—S341。**未写入新的CV编号**，因CV204已被同期Delanggu调查占用；下一执行须从正式coverage-matrix.csv最大编号分配新CV。精确续查：①Stoler 1985 p127/p132全文、表格与原始访谈，辨明工会会员率、住园劳动力和临时工统计口径；②将Delanggu 1948年6月3日与7月18日两种罢工终点按阶段区分，找7月16日广播/政府原件；③追SARBUPRI/BTI在东苏门答腊的具体支部、土地占居、经营者及军方的行动与1965年后果。GOAL永久OPEN；此段最新写入SHA以本次GitHub提交及后续main为准，不把中途SHA误记为最终HEAD。
 
 本次提交前已核验main HEAD `f8aa7cc10f714041b7d8ea4dd72006b103b12253`；该SHA为写入本句之前的已确认提交，不是未来提交SHA。为避免自指，最终main HEAD应以GitHub实时查询为准。
+
+## ONGOING / GOAL仍进行 — 2026-11-09 Delanggu原版论文与警察档案定位
+本次真正打开并阅读Ikaningtyas 2013年UNY SOCIA九页原版PDF，纠正S343“仅摘要可读”的旧状态：保留S343作为旧摘要记录，另登记S344全文。论文明确引ANRI Koleksi Kepolisian Negara No.1215（1948-06-27 Mrisen三名具名村民、KKA要求及威胁说法）和No.342（7月18日后警察机动旅巡逻）。论文区分1948-05-19—25准备、05-26—06-03首波、06-23—07-18再起罢工，解释早前两种结束日期分属不同阶段。2024 Tirto全文引1948-05-28 Antara的SOBSI声明；2024 Historia可见节选引1948-07-16 Pandji Ra'jat的STII指控（500名袭击者、Hizbullah保护）；两份1948原报都未打开，不得把对立声明当既定事实。正式新增S344—S346、C569—C574、Q211、CV205，chronology已续写。
+
+重要数据质量遗留：正式claim-ledger.csv里旧C566/C567/C568各有两条不同主张（Stoler书评线与Delanggu线），chronology对S342/S343的早期书评归属也有交叉引用不一致。本次没有擅删历史行；下一次优先保留旧行文本并对两组冲突ID安全重编号、同步全部引用，或建立明确废弃映射。不可直接引用未消歧的C566—C568。正式source-register.csv里S342/S343对应Delanggu，而Stoler书评正式为S340/S341；需同步修订引用。
+
+精准下一动作：（1）申请ANRI警察档案No.1215和No.342的原始扫描/目录完整馆藏号，核Mrisen事件与巡逻日期；（2）找1948-05-28 Warta Berita Antara原页及1948-07-16 Pandji Ra'jat原页，复原SOBSI与STII相反叙述；（3）核1948-06-17两部长谈判、06-23再罢工与07-16日惹广播原件；（4）查Sarjana Sigit Wahyudi 2001第149—150页及Kedaulatan Rakyat No.235所载政府对工人活动的限制；（5）对比BTN、LBT、KKA、STII、Hizbullah各自人员与组织关系，不预设任何单方指控属实。GOAL永久OPEN。
+
+最新提交SHA以GitHub main实时查询为准。
