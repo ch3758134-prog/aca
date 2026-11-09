@@ -226,3 +226,20 @@ Official Australian foreign records and Indonesia's law No5/1966 now extend regi
 
 Next investigation: obtain original A-564/A-74 and delivered lists, local Makassar/Bone/Chinese businesses archives, Malaysian Thai-mediated medicine aid records, 1965 barter vessel records, 1966 signed side letters and actual military withdrawal. Narrative HTML must be continuous sourced history, not a new search-batch summary.
 
+
+## Sixteenth research pass — 2026-11-08: ownership of production vs labor and technical control
+
+User's latest request to delete old index-style HTML has been carried out; **no HTML is generated in this pass**. Research backend receives a sourced Markdown inquiry, chronology and updated source/claim/search/coverage files. Readable narrative HTML is written only when a coherent historical chapter is supportable.
+
+Added **12 sources S195–S206, 28 atomic claims C221–C248, nine searches Q089–Q097, ten coverage rows CV090–CV099**. Cumulative **206 sources; 248 claims; 97 searches; 99 coverage rows**. Previously only curatorial S152 (Surabaya cable 212) was upgraded to full OCR read. Counts indicate research indexing not completeness.
+
+Documentary breakthrough: UN 1970 natural resources report, WB 1968 field sector review, WB 1971 oil annex and an actual Pertamina Shell debt-schedule embedded in WB Group Archives establish an unusually concrete oil contract chain: Law44/1960 formal state authority, 1963 foreign contracts of work, Shell sale on Dec31 1965 for $110m with identified downpayment/annual payment schedule, Stanvac continuing operations and selling refinery/terminal Jan1970, and state-company consolidation 1968. Shell still supplied technical/marketing assistance. Importantly the 1965 asset transaction did not start from Suharto's 1967 FDI law and did not represent complete disappearance of foreign production relations. Source discrepancies remain over 1964/65 marketing asset sale dates, exact Stanvac deal scope and actual cash instalments. Prior NSA curator shorthand that refinery transfers had been 'scuttled' is overbroad given Shell's actual 1965 sale.
+
+Worker institutions now have contemporaneous micro-evidence: Nov1965 oil refinery union detentions, December Army-reported intervention in Chinese-associated rice mills and textile firms and Surabaya state-enterprise recruitment's alleged substitution of SARBUMUSI membership/Army veterans for SOBSI. The ICJ 1987 report offers a social-organizational comparison of 1960s state-enterprise councils, Army-linked SOKSI, abolition of councils, and 1973 FBSI/HKTI restructuring. Original 1964 council statistics, laws, company HR records, 1971 allegations and rights commission rulings remain open. ILO original complaint records 537 (WFTU/SOBSI in 1967) and 674 (SARBUMUSI in 1971) are located.
+
+A full-text, peer-reviewed corporate archival paper traces Shell, Unilever and Heineken using international company shareholding adjustments in 1958, 1964 labor control of Unilever without formal nationalization, and divergent restoration of foreign owners after 1967. This helps separate corporate legal title from production supervision, local skill and external network control.
+
+Next priority: actual 1963 foreign oil contracts, Shell purchase and payment instrument, Stanvac 1970 agreements and WB loan scope; union/plant-level detentions and dismissals, factory property transfers and hiring notices; enterprise council legal basis/dissolution, full Panglaykim paper and ILO cases; external oil export/technical-services accounts, Japanese Permina credits and actual local food distribution.
+
+Current material does not establish nationwide employment, worker dismissals, causal attribution of specific violence, complete oil revenue use, nor a comprehensive post-1965 economic settlement. No author's final political verdict is entered.
+

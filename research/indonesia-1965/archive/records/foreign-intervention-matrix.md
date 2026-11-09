@@ -153,3 +153,19 @@ Carefully separate: requested; internally reviewed; 303/presidential approved; p
 
 An acknowledged provision of names is a factual action by a foreign mission, but the exact people harmed through such lists and local mechanisms require separate proof. Likewise the public Article 2 and secret deferral conditions of the peace agreement should not be merged.
 
+
+## Sixteenth-pass oil production, foreign business and real organizational power (2026-11-08)
+
+| Documentary segment | Proven status | Separate check |
+|---|---|---|
+| Indonesian 1960 law and 1963 contracts with Shell, Caltex, Stanvac | UN and WB read: formal state title, foreign actual operating responsibilities under contracts [S197,S198] | Law/regulations, company signed contracts, financial returns and physical operating instructions |
+| Shell's 1965 buyout | UN records asset sale 31 Dec 1965 US$110m; WB archival 30 Dec effective debt and US$11m down / instalments until 1971 [S197,S205] | Whether installments paid, debt source, national treasury vs company cashflow, asset list |
+| Stanvac's 1970 transfer | UN reports Jan1970 refinery/terminal US$4.75m and no-interest loan; 1968 WB reports Stanvac continued private refinery operation [S197,S198] | Original Stanvac separate asset purchase vs WB archived larger US$13.6m liability; define contract scope |
+| Corporate jurisdiction strategies | Sluyterman reveals Shell/Unilever/Heineken used international subsidiary ownership shifts after 1957 Dutch takeover to preserve properties; Unilever workers governed a plant without corporate title transfer [S204] | Beneficial owners, directors, factory orders, shareholder records, actual gains and personnel change |
+| Foreign capital technical/organizational capacity | WB 1968 observes Permina running purchased Shell assets with Shell still supplying technical and foreign marketing services [S198] | Staff technical transfer, plant maintenance, export purchasers and independent operating assets |
+| Labor coercion intersecting oil and food production | Embassy Nov1965 PERBUM/SOBSI arrests [S196]; A-373 Baperki rice-mill and textile control announcements [S195]; Dec consular hiring filter [S152] | Individual names, national firms and local unit arrest and ownership registers |
+| International labor complaint channels | WFTU September1967 ILO Case537 focused on SOBSI and imprisonment; SARBUMUSI June1971 Case674 protested union coercion [S206,S200] | Original cases and rulings, independent union branch worker membership |
+| Food imports vs local market | NSC April1966 US PL480 Title IV signed contract, distinct from Catholic Relief planning, while December1965 Surabaya price crisis already disrupted rice availability [S201,S179,S152] | Physical aid transfers and consumer prices, state bank and merchant account chain |
+
+State ownership, technical management, workforces, trade union representation, foreign-market access and fiscal debt form six materially distinct relations. Do not reduce all to 'nationalized' vs 'privatized' or infer policy motives from coincident dates.
+
