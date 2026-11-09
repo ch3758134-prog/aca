@@ -153,3 +153,8 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 ## ONGOING / GOAL仍进行 — 2026-11-09 Selopanggung原始证据追索
 本次实际打开并阅读三份全文：2007-07-28《Kompas》采访Poeze的邮件完整转载（https://www.mail-archive.com/forum-pembaca-kompas@yahoogroups.com/msg18006.html；原报纸未打开）；2013-02-18 Imam Mubarok在Merdeka.com刊出的Selopanggung当地采访（https://www.merdeka.com/peristiwa/read/6471717/tan-malaka-ditawan-sebelum-meninggal-di-tangan-bangsa-sendiri）；2014-02-10 ANTARA对Poeze的采访（https://jatim.antaranews.com/berita/126761/harry-poeze-makam-tan-malaka-seharusnya-di-kalibata）。2007报道归引Poeze：1949-02-21谭·马拉卡在Selopanggung被杀、Soekotjo少尉下令，研究者依据游击队员、Sikatan营人员及村民证词；2013当地受访者Tolu回忆童年祖父Yasir房屋驻军、点名Soekotjo等人，但对死亡及埋葬地点表示不确定，且采访使用照片辅助回忆；2014 Poeze坚持墓址判断，同时承认当时DNA测试尚无结论。三份报道有共同Poeze研究来源，不可当作三份相互独立的原始佐证。未读1949军令、Poeze第四卷正文/脚注、法医原报告，不能确定完整指挥链或遗骸身份。
 精准下一步：①Poeze第四卷219—221页及脚注、所引1949军令；②Soengkono、Soerahmat、Soekotjo各级命令与Sikatan营驻地记录；③Tolu采访原音及其他独立村民证词；④Selopanggung挖掘及DNA原报告；⑤返回1948年Murba三党合并同期报刊、SOBSI/BTI基层原件。当前新增证据尚未进入正式CSV台账；后续应查重并从S358/C601/Q221/CV215候选编号开始，以实际正式台账最大ID重新分配。**GOAL ACTIVE / OPEN-ENDED，未完成。**
+
+
+## ONGOING / GOAL仍进行 — 2026-11-10，1950港口工人行动与SOBSI财务链
+已打开康奈尔大学2016年Ingleson论文机构页摘要与西悉尼大学2025年SOBSI财务论文机构摘要。康奈尔链接PDF返回HTTP 429，未读2016正文；2025论文仅摘要。正式新增S358—S359、C601—C603、Q221、CV215；chronology加入有明确证据等级的1950—1951连续叙述。2016摘要描述雅加达、三宝垄、泗水、勿拉湾港口工会逐港谈判、日薪最低标准提高2.5—3倍以及1951年2月重要行业罢工限制；原始合同、法令和各港统计分母尚未核实。不得将摘要的数字解释为四港逐一相同。2025财务论文摘要不能支持任何会费数字。
+精确续接：①尝试Cornell bitstream c0ca72f5-62f9-481d-8d89-ac1e9dbf3458 或其他合法馆藏取得Ingleson 2016 pp31—56；②追1950年四港工会—雇主集体合同与日薪/米粮福利原始表；③查1951年2月关键行业禁罢工及仲裁法规的印尼官方公报和执行；④取得Ingleson 2025 Indonesia 120 pp97—119全文及SOBSI财务账册来源；⑤继续1948 Delanggu BP-KNIP/ANRI原件、Murba 1948党章与1965后地方工会成员就业变化。长期GOAL仍ACTIVE / OPEN-ENDED。写入后main SHA以GitHub最终核验为准。
