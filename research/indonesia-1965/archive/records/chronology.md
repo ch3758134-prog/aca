@@ -340,3 +340,6 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 
 ## Further ANRI 1965-66 primary-order cross-institutional finding (2026-11-08)
 The ANRI 2021 Ministry of Transport finding aid explicitly locates a six-page copy of Nov15 1965 22/KOTI/1965 instruction about civilian employee purges, a March31 1966 presidential 3/3/1966 one-page instruction, and its May13 1966 KOGAM implementing order. These are official archive catalogue metadata, NOT inspected order bodies. New RA23 economic ministry locators offer Jan20 1965 land reform policy letter and Nov1965-1974 state-owned company housing purchase files, also not read.
+
+## Continuous research: NU/Ansor, land conflicts and Sukarno 1967 original locators (2026-11-08)
+ANRI NU 2015 original inventory item3012 East Java Feb1965 land occupation opposition; item3015 security/defense autonomous bodies, item3016 demand to dissolve PKI, Jombang Banser Dec12 decree no1166 and Nov22 Hotel Indonesia Marhaenis union protest no3019 all have exact original retrieval numbers; none body read. ANRI 2024 Sukarno Defense/Security guide maps EKUIN 1966-67 Sukarno restriction and Nawaksara file1305. This strengthens distinct archival perspectives, not proof of individual violence or uniform party policy.

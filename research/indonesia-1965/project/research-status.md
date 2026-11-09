@@ -289,3 +289,11 @@ Official ANRI Jan2025 sources and Jan2023 provenance identified multi-country PK
 - 31 Mar1966: presidential 3/3/1966, one page, ex-PKI and affiliated membership screening. [S278]
 - 13 May1966: KOGAM INST09/5/66 implements above order, five pages. [S278]
 - 20 Jan1965: State Advisory Council letter on land reform without clashes, RA23 no332. [S279]
+
+## NU and central economic archive item-level chronology
+- 18 Feb1965: East Java NU provincial office demanded action against unilateral land occupation, ANRI NU item3012, title-level only. [S280]
+- 3 Oct1965–1971: NU autonomous security/defense body files item3015. [S280]
+- 14 Oct–12 Dec1965: GP Ansor Sukorejo anti-PKI prohibition demands item3016. [S280]
+- 22 Nov1965: tourism/Marhaenis Hotel Indonesia union protest concerning attacks on union members item3019. [S280]
+- 12 Dec1965: GP Ansor Jombang Banser decree GA/PT/215/X/I/65 item1166. [S280]
+- 24 Oct1966–5 Jun1967: EKUIN no1305 letter file on treatment and restrictions of Sukarno and Nawaksara. [S281]
