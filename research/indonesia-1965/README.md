@@ -32,3 +32,10 @@
 **面对读者的HTML须是连续的中文历史正文**，让用户直接阅读历史过程、人物行动、国家关系、群众组织与变化，而不是浏览来源登记表或任务列表。证据台账和调查缺口继续留在 `archive/records/`，不塞进正文。资料不足的时期先继续搜集，等可成段叙述再发布，不设“全部资料搜完”的不可验证门槛。
 
 依作者 2026-11-08 最新明确要求，旧 `briefs/phase-fact-overview.html` 和 `briefs/phase-fact-addendum-*.html` **已从 main 删除**。旧HTML的历史提交仍按 Git 常规保留；对应的来源、主张及检索记录保留在 `archive/records/`。今后只在 `briefs/readable-history/` 维护可直接连续阅读的历史正文，不再按检索批次生成旧式HTML。
+
+## 1965年以后：最新事实续查档案（2026-11-09）
+
+- [1965—2026：镇压、地下抵抗、海外流亡、囚禁、重组与当代追责](archive/records/continuations/2026-11-09-post-1965-left-history.md)
+- [1966—1973：政治局文件、南勿里达Trisula、工会和妇女组织变化](archive/records/continuations/2026-11-09-1966-1973-organizations.md)
+
+这两份为后台调查和来源预登记，S287—S305、C474—C488尚待正式CSV并库、校勘及核读原始文献；它们不是已经审定的连续阅读HTML，更不代表1965年以后的历史已经调查完毕。
