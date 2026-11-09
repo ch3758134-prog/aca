@@ -505,3 +505,7 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 ### 1948年5月与11月：谭·马拉卡文本的传播层次（S353—S354/C595—C597）
 现已实际阅读《Uraian Mendadak》印尼语网络全文转录，题头标为1948年11月7日三党合并大会演说。开头讲话者要求代表返回各地支部后统一鼓动和宣传；在讨论国际形势时，又把近期茉莉芬事件用作组织力量与政治行动必须结合的反面例子。这首先是署名谭·马拉卡的政治讲话所表达的立场，不能直接当成茉莉芬事件的独立事实裁判；而后期转录的存在本身也不足以证明大会代表、决议和合并程序。[S353/C595—C596]
 另实际阅读1951年《Fourth International》刊出的《Gerpolek》英文节译。编者说明1948年原文为马来语，英译经过荷兰语和法语中介，并明确只刊登部分章节。故英文文本可以追踪1951年国际左翼对谭·马拉卡的传播及诠释，却不能未经原文对勘便用于确定1948年原句。[S354/C597]
+
+
+- **1948-11-07 (textual attribution; original congress record pending):** The later transcription of Tan Malaka’s *Uraian Mendadak* [S353; C595-C596] and 2006 catalog [S352; C594] connect the speech to Murba party consolidation. A 2022 journal abstract interprets the speech as favoring politically educated disciplined cadres [S355; C598], but the article body was not accessible. Two library catalog descriptions disagree on the name of the third constituent party (*Partai Rakyat Jelata* in S352 versus *Partai Rakyat Biasa* in S356) [C599]. Do not silently harmonize these labels or infer actual merger delegates from catalogs.
+
