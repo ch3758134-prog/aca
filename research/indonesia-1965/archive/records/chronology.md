@@ -289,3 +289,11 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 - **2 Sep/28 Oct 1948:** 2021 veterans institutional history quotes Hatta's army 'one command' rationalization in BP-KNIP and mentions Defense Ministry MBKD/MBKS command decree; party/coup causation is retrospective institutional judgement. [S234,C331–C333]
 - **1948–49:** Republican Djogdja civil/party/Army documents seized by Dutch and held or later returned have different archival classification in Dutch and Indonesian repositories. [S238,C342]
 
+## Newly located original archives: 1948 finances and 1965 personal/administrative evidence (2026-11-08)
+- **1915–1938:** IISH Dolf Baars/Sneevliet 155 letters; Comintern/CPH 45 reels Indonesia 1920-38; Crawford 2020 open paper documents 1923 Malay Marxism translations. Catalogue vs full scholar distinguished. [S242,S244,C352–C355,C359]
+- **1948:** Djogdja no64 Siliwangi opium/arms; no291 Defense opium receipts/expenditure, no292 Finance Minister instruction to carry state opium abroad for sale, no294 monopoly; no25/68 army structure and demobilized soldiers, no225/227 Madiun detainees/prosecutions. These are **catalogue locators**, not proven transaction/trials. [S240,S241,C344–C349]
+- **Oct1965:** ANRI Jan2025 announced 9 October English Sukarno-to-Dewi letters and 2 undated; the physical originals in Japan, archive digitized copies not read. [S053,C350,C351]
+- **Oct-Nov1965:** Navy no147 Education Minister purge, no148 senior military officer removals. [S243,C356]
+- **March1966:** Navy no142 describes 14Mar mass organization exclusion No1/3/1966, while separate Mar12 PKI ban same number in S182. No equivalence assumed. [C357]
+- **1966-67:** ANRI defense guide S118 identifies economy ministry file1305 Sukarno restriction and 1262 Nawaksara debate. [C358]
+

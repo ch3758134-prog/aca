@@ -191,3 +191,9 @@ International organizations' 1969 resolution and Indonesian government's UN-supp
 - 1942–45 Japanese forced rōmusha S235 transport and district civil-service compliance S236 establish antecedent practices of labor mobilisation (not proof 1965 officials/personnel share exact command).
 - 1945–49 food price and blockade S237 shows differentiated economic pressures on Dutch/Republic-controlled urban workers, opposed to a purely military chronology; Hatta Re/Ra S234 and Djogdja original-document collections S238 can test army formation and militia power.
 
+## 1948 Republican state-finance potential mechanism and administrative control (2026-11-08)
+- ANRI Djogdja 291 original Defence opium inflows/outflows; 292 finance minister orders overseas state-owned opium sales and 294 opium monopoly (physical items only), along with 13 New York trade contract and 298 Siliwangi money vouchers. Could test wartime military finance using original amounts and shipment receipts, not proof of real-world sales. [S240]
+- Prior S154 describes Hatta sugar sales letter. Cross-account crop/export and opium streams separately; do not merge without bank and treasury ledgers.
+- Direct 1915-38 overseas Communist communication identified in IISH original microfilm collection but neither 1948 nor 1965 operational causation can be inferred from holdings. [S242]
+- ANRI Jan2025 letter collection S053 includes Sukarno private October1965 writings—originals not read, cannot infer knowledge or criminal responsibility from PR summary.
+
