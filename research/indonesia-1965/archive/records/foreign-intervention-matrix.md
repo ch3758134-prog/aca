@@ -103,3 +103,16 @@ This is an evidence map, not a political verdict. It distinguishes the state/ins
 - 1948 Madiun: Republic statement, U.S. ambassador relay and Australian cable share possible information ancestry. Critchley called reports unconfirmed [S007/S008/S153]. Dutch NEFIS catalogue S154 is only item-level retrieval, not read reports.
 - New longitudinal lead: 1948 Republican Army sugar financing and SARBUPRI wartime plantation archives, crosscheck with 2025 land and labor synthesis S063; do not infer a unit's 1965 role from 1948 organization name.
 
+## Twelfth-pass material support and governing-capacity chain, 1966–69 (2026-11-08)
+
+| Stage | Directly read documentation | Evidentiary limitation |
+|---|---|---|
+| Statutory property and foreign-capital entitlement, Jan1967 | UU1/1967 Art14 land rights, Art21-22 expropriation/legal compensation, Arts9-12 directors, local workers and training [S158] | Statute is not company- or worker-level enforcement, and not all previous nationalisations reversed automatically |
+| 1967 donor promise, February | Rostow 20Feb request US up-to-$85m, $36m already committed, donor 1/3 matching; editorial note on President's contingent okay [S159] | Requested ceiling and political approval differ from cash/commodity delivered |
+| Indonesian executive's bargaining over assistance, July | US ambassador cable on Suharto seeking rice and dollar loans and rejecting some finished textiles out of domestic industry concern [S160] | Report of diplomatic conversation, no recipient statistical trail |
+| External strategy and elite policy, August | US State NSC paper favors IMF/multilateral, private investment, Western-educated economists, low US political profile [S161] | U.S. advocacy vs independent truth/effect; Indonesian economic ministries archives needed |
+| 1968 multi-donor approval and food aid, Nov1967-June1968 | Presidential checked notes for $110m US share of $325m projected target, later wheat $46m additional and core commodities [S162-S163] | Proposed or approved not all delivered; distinctions calendar year/fiscal year/multi-year projects |
+| 1969 retrospective and creditors' institutional embedding | Rogers memo reports US $65.2m 1967, $110m 1968, about $30m wheat shipped; IMF mission, WB office, IGGI and debt restructuring [S164] | U.S. self-account, requires IMF/WB, lenders and Indonesian customs reconciliation |
+
+**Research distinction:** food aid and raw cotton were not merely symbolic; they had commodity, fiscal and market pathways which require investigating producer/consumer prices, textile jobs, local food distribution and counterparty export benefits. Do not equate import-value pledges to development outcomes or government survival as a proven single cause.
+

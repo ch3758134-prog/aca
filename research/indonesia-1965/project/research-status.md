@@ -186,3 +186,13 @@ Read Australian Sep20 1948 diplomatic cable, full US secret interagency Jan1958 
 Crucial corrective: CIA Nov9 memo does not authorize actual distribution, explicitly advises against furnishing at that stage; JCS Dec30 discourages overt military aid then. These cannot cancel each other, nor prove a delivery or its absence. Dates, official decision chains and recipient stock ledgers remain high-priority.
 Need original 1948 radio, labor, Republican army and Dutch captured-file copies; 1958 CIA/CAT funding and air support logs; 1965-66 financial authorizations, intermediaries, Indonesian receipt/dispatch and victim/unit records. Political judgment remains author-reserved.
 
+## Twelfth research tranche — 2026-11-08 UTC: economic legalization and donor implementation
+
+Added **seven source rows S158–S164, 15 claims C159–C173, six search logs Q065–Q070 and six coverage lines CV067–CV072**. Cumulative **164 sources, 173 atomic claims, 70 search groups, 72 coverage rows**, not a claim of comprehensive completeness.
+
+Original Indonesian UU No1/1967 text was read from Finance Ministry official JDIH, with BPK index verifying issue date. It made an operational legal framework for foreign investors, including corporate structure, land and labour rules, tax relief, remittance, compensation and joint ventures. It is improper to claim all policy terms were executed or every formerly nationalised concern handed back on this basis alone.
+
+Original U.S. government records now connect 1967 conditional aid requests, Suharto's own July1967 bargaining (as relayed by ambassador), Aug1967 policy strategy supporting IMF, foreign investment and Western-trained economists, 1968 donor pledge with President checked approval, and retrospective 1969 categories identifying amounts of 1967/68 US aid and only part of extra wheat actually shipped. The crucial categories are **requirements estimate vs pledge vs approval vs obligation vs shipment vs Indonesian receipt and use**. Inflation and political stabilisation comments from US officials are interested self-evaluations, not direct proof foreign aid caused a particular political outcome.
+
+Open: local investment licences/contracts, original 1966-67 MPRS economic rules, state-enterprise corporate ownership and worker data, PL480 commodity distribution and prices, Indonesian budget and debt accounts, IGGI donor side and IMF/World Bank original minutes and mission reports. Retain author political judgment boundary.
+

@@ -189,3 +189,12 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 - 9 Nov 1965: CIA memo discusses covert credit, small arms and possible civilian auxiliaries, but says equipment should not yet be furnished. [S155,C153-C155]
 - 30 Dec 1965: JCSM-909-65 recommends no overt military aid at the time while discussing food/medicine and future Malaysia policy conditions. [S156,C156-C157]
 
+## Twelfth research pass — 1967-69 economic law and external aid material chain (2026-11-08)
+- **10 January 1967:** UU1/1967 formally establishes FDI entry, Indonesian company form and licensing, conditions on managers and Indonesian workers, estate/building land rights, permitted dividend remittances, nationalisation compensation and mixed capital. Text describes law, not licence implementation. [S158/C159-C162]
+- **20–23 February 1967:** Rostow requested conditional US aid approval up to $85m for 1967, $36m previously committed and one-third donor formula. Presidential note later approves if Japan/European two-thirds obtained, not delivery. [S159/C163]
+- **6–7 July 1967:** US embassy recounts Suharto warning reduced dollar import loans or inappropriate PL480 commodities threatened his budget; asked for rice and opposed finished textiles harming Indonesian spinners/weavers. Embassy account not Indonesian verbatim. [S160/C164-C165]
+- **4 August 1967:** US State NSC paper credits Suharto economists with import/liberalization, state-enterprise subsidy and utility charge changes, and urges more private FDI, international agency and donor aid with lower-profile US involvement. This is interested U.S. policy advocacy. [S161/C166-C167]
+- **17–21 November 1967:** Rostow asked Johnson to approve US 1968 one-third share of anticipated $325m consortium requirement up to $110m; editorial note records Johnson's approval. [S162/C168]
+- **18 June 1968:** Rostow sought US aid package $110m core (rice, cotton, AID loan) plus proposed $46m experimental wheat outside consortium formula; note records president checked requested action. Shipment unverified in this memo. [S163/C169-C170]
+- **1 April 1969 / 10 April approval:** Rogers retrospective says 1967 US contribution $65.2m, 1968 $110m with wheat extra part shipped, and recounts bilateral Western and Soviet creditor reschedulings, IMF missions and World Bank Jakarta office. New 1969 pledge conditional, Nixon later approved program per source note. [S164/C171-C173]
+
