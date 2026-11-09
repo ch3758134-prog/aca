@@ -51,3 +51,12 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 新核验官方1976年第20号总统决定全文与空白OT1/1977表，确定村长/区军方/省与中央Kopkamtib/内政部长的逐级筛选及可撤销选举权；1975年第28号决定仅官方元数据和第三方全文转录，原始PDF尚未读。新开1996 Amnesty ASA21/43/96完整报告：14名相信仍在押、5名死刑囚犯、泗水Kalisosok两名具名病患；NGO口径不等于国家统计。正式新增S312–S314, C508–C514, Q195–Q197, CV191–CV192。
 **下一次直接动作**：①取得1975 Keppres28官方5页PDF原始文本与Kopkamtib KEP03/1975；②追1977地方Model OT1/1977、P3、Kodim及村长登记表，明确实际人数与地区；③复核1996 Amnesty appendix扫描的14人逐人监狱分布，并取得1995两版原始PDF对照；④获取1976听证原表p117图像排除1000人OCR矛盾；⑤追泗水Kalisosok病历/家属证言及1975东爪哇匿名信是否同一监狱。无新HTML。GOAL OPEN。
 
+
+
+## ONGOING / GOAL仍进行 — 1994—2001 前政治犯身份与政治权利续接（2026-11-09）
+本次新增公开原始同期报告的**待正式去重登记线索**，尚未分配S/C编号，不得冒称已入正式CSV：
+- 美国国务院1994人权报告（https://www.refworld.org/reference/annualreport/usdos/1995/en/25654）记载印尼政府1990年底声称被监控的前PKI成员及相关人群达1,410,333；该数是政府声称的监控对象范围，**不是政治犯人数**，不能与拘押统计相加。
+- 国际特赦组织1995年1月《Indonesia and East Timor: Power and Impunity》（ASA 21/01/95）全文公开PDF：https://www.indonesia1965.org/content/uploads/2023/08/asa210011995en.pdf ，第3.5节讨论ET身份证标记、就业和旅行限制；须核页码并同正式台账查重。
+- 美国国务院1996年度报告 https://1997-2001.state.gov/global/human_rights/1996_hrp_report/indonesi.html 称ET标记正在逐步取消，但仍有大量持证者保留标记；1998年度报告 https://1997-2001.state.gov/global/human_rights/1998_hrp_report/indonesi.html 称官方1995年已终止ET要求、实际仍沿用，部分人获移除，且工作与迁居限制继续。两者是外交机构同期观察，不等于逐县实测。
+- 2001年度报告 https://www.refworld.org/reference/annualreport/usdos/2002/91576 转述KAP T/N称前PKI人员与家属不再受某些定期报到、旅行和迁居审批限制；与同报告仍有ET标记的记载须并列，避免误写为制度一次性完全解除。
+**下一步精确动作**：先在正式source-register和claim-ledger全文查重上述标题/URL，再登记尚未存在的报告及原文段落；检索1995年取消ET标记的印尼内政部命令原文及各省执行细则；查1990年底1,410,333分类定义及来源；查KAP T/N原始声明与地方前政治犯身份证样本；对比1996、1998、2001报告措辞，建立1995—2001逐年变化链。此段只作为续查线索，未修改正式CSV或历史正文。GOAL保持OPEN。
