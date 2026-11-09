@@ -220,3 +220,15 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 - **Dec13:** US Defense memo urges emergency rice support more immediately than State's conditional route. [S177,C199]
 - **Jan19–Feb18 1966:** NSC records Helmi food/cotton request, Feb15 Green told Johnson 'all aid terminated' (scope unclear vs secret projects), Feb18 Catholic Relief plan in final approval to increase annual volumes from 10k to 50k, not proven shipping. [S180,S178,S179,C200-C202]
 - **Feb26–Jun24 1966:** Original 303 June17 memo S033 reports radio stock assembled in Jakarta, diversion for Nasution-linked intelligence channel, Suharto notified May12, Army radio officers met June2-3; additional 303 approval Jun24. Numbers and exact use remain redacted. [C195]
+
+## Fifteenth-pass chronological addendum: Nov1965–Oct1966
+- **10–12 Nov 1965:** US Embassy 1425 notes Sukarno's renewed public political pressure and reported transfer of radio supervision back to civilian appointee; its second-hand Makassar and Bone claims cannot be counted as independently verified deaths/property proportions. [S190; C207–C209]
+- **15–19 Dec 1965:** Singapore/Malaysia agreed on two 200-ton offshore barter vessels, but first Dec17 trade not verified by shipping records. Tunku told Hasluck the approx three-million medicine request from Indonesian Army remained undecided; he was unsure of currency, despite Nov reference to Malaysian dollars. [S181–S182; S165; C210–C213]
+- **17 Dec 1965:** A-398 assembled PKI senior leadership list (95 positions, 67 people) and fragmentary whereabouts, expressly noting false confessions. An Aug1966 US message retrospectively acknowledged supplying a sanitized version to Indonesian government in Dec, with apparent security use. [S189; S032; C203–C205]
+- **19 Apr 1966:** Singapore's Rajaratnam told Australian interlocutors Malik sought to end confrontation for economic rehabilitation; attributed Singapore-channel account. [S183; C214]
+- **31 May–1 Jun 1966:** Bangkok negotiation produced preliminary Indonesia/Malaysia normalization framework subject to confirmation. [S184; C215]
+- **8–9 Jun 1966:** Lee publicly indicated Singapore would coordinate recognition of Indonesia with Malaysia. [S193; C219]
+- **5–6 Aug 1966:** Australian diplomatic reporting followed proposed secret letters about Borneo electoral reaffirmation as a condition of diplomatic recognition. [S185–S186; C216]
+- **11 Aug 1966:** Adam Malik and Razak signed treaty in JAKARTA: Sabah/Sarawak electoral reaffirmation, restoring diplomatic relations, and cessation of hostility. [S187; C217–C218]
+- **27 Oct 1966:** Sukarno signed Indonesian UU No5 ratifying Aug11 accord. Formal presidency continued despite altered actual military/political power. [S187; C217]
+

@@ -213,3 +213,16 @@ This tranche adds **10 sources S171-S180, 17 claims C186-C202, seven search grou
 **Money and food:** Dec2 S175 shows Green's concurrence for proposed fifty million rupiah Malik Kap-Gestapu funding, not a signed payment; Dec13 rice aid disagreements, Jan19 rice/cotton estimates, Feb18 Catholic Relief planned food increase distinguish future relief from aid shipped. Feb15 Green told Johnson all aid had terminated, seemingly at odds with these secret channels; avoid assuming it meant every type of aid and query original internal accounting.
 
 The historical reader chapter in `briefs/readable-history/1965-11-regional-relations.html` has been **updated in continuous prose** to include the US–Sukendro Bangkok medical route and 1965-66 implementation disputes; it does not turn into a source-register page. Critical remaining evidence: medicine consignment, Malik pay order, Kodam radio asset lists, 303 final approval minutes and CRS food actual allocations. The authorial verdict remains reserved.
+
+## Fifteenth research pass — 2026-11-08: political lists, local violence, actual normalization
+
+As instructed, **five obsolete phase-fact HTML files were deleted from main** in commit 49366394; existing narrative reader HTML was preserved. No new list-style HTML is to be generated. New evidence is archived as source/claim/search/coverage entries and Markdown.
+
+Added **14 sources S181–S194, 18 claims C203–C220, 7 searches Q082–Q088 and 6 coverage entries CV084–CV089**. Cumulative: **194 sources, 220 claims, 88 searches, 89 coverage entries** (not a completeness claim).
+
+Significant addition: contemporaneous U.S. Embassy A-398 leadership list and the FRUS d185 editorial quotation of Aug1966 A-74 establish actual December1965 sanitized list-sharing with Indonesian authorities and reported apparent use, while the number of individuals passed and downstream consequences remain disputed in the 1990 interviews. Nov1965 US cable also documents dynamic radio control struggle under Sukarno and attributed Makassar/Bone violence—never treat one witness's 90%/200 numbers as totals.
+
+Official Australian foreign records and Indonesia's law No5/1966 now extend regional diplomatic history from Malaysia's undecided medicine request and Singapore offshore barter in Dec1965 through April/June peace talks, proposed August secret letters, formal **Jakarta 11 Aug** signature by Adam Malik/Razak, and **27 Oct** statutory approval by Sukarno. The law PDF text layer was read but screenshot returned cache miss; BPK official metadata and multiple Australian/US government transcripts crosscheck public timeline. The unknown actual first barter voyage, medicine handover, secret letters, actual ceasefire, diplomatic accreditation and Borneo electoral implementation remain unresolved.
+
+Next investigation: obtain original A-564/A-74 and delivered lists, local Makassar/Bone/Chinese businesses archives, Malaysian Thai-mediated medicine aid records, 1965 barter vessel records, 1966 signed side letters and actual military withdrawal. Narrative HTML must be continuous sourced history, not a new search-batch summary.
+

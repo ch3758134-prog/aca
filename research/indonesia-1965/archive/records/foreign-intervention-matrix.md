@@ -140,3 +140,16 @@ Regional actors' positions diverged even while they shared some stated anti-PKI 
 **Rice and wider official aid:** Dec13 Defense/State debate S177; Jan19 request S180 and Feb18 PL480 CRS plan S179. State reticence ≠ no covert operation; Green's Feb15 "all aid terminated" to Johnson S178 needs precise comparison of categories and purpose, not forced harmonization.
 
 Carefully separate: requested; internally reviewed; 303/presidential approved; procured; exported; physically in country; recipient signed; used and outcomes. Confidence pertains to each stage separately.
+
+## Fifteenth-pass audit: actual intelligence-list transfer and diplomatic normalization
+| Channel | Current highest substantiated stage | Open physical/operational requirement |
+|---|---|---|
+| US leadership lists | A-398 in Dec1965 plus Aug1966 US A-74 self-report **confirmed the transfer of sanitized names to Indonesian government**; reported apparent security use [S189;S032] | Real handed-over list; 5000 claim vs Martens dispute [S192]; recipient chain and named-victim effects |
+| Makassar and Bone | US Nov12 telegram relays a Protestant source's reports; 2024 local historian abstract identifies Nov10 commercial attacks [S190;S191] | Local official death/property registers, actual armed group orders; no numerical extrapolation |
+| Malaysian aid | Malaysia's Tunku quoted Sukendro request in Nov [S165] but Dec19 said medical aid undecided and currency unclear [S181] | Malaysian allocation/invoices and Indonesian receipt |
+| Singapore regional barter | Two offshore vessels agreed Dec15 [S182] | Port/ship logs and cargo volumes |
+| Indonesia-Malaysia peace | Preliminary Bangkok June agreement [S184], confidential letter bargaining [S185–S186], **actual Jakarta signature 11 Aug** [S187], US interpretation of secret deferral [S188] | Confidential signed letters, ceasefire, ambassador arrival, Sabah/Sarawak elections |
+| Australian SIGINT context | ASD published retrospective deployment in Labuan June1964 and withdrawal planning mid1966 [S194] | Signal intelligence original and documented operational effect |
+
+An acknowledged provision of names is a factual action by a foreign mission, but the exact people harmed through such lists and local mechanisms require separate proof. Likewise the public Article 2 and secret deferral conditions of the peace agreement should not be merged.
+
