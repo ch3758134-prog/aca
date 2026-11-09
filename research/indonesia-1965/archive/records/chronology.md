@@ -324,3 +324,8 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 - October 1969: Amnesty reports government count of about 116000 people restricted, without complete independent counting. [S264]
 - August 1969: first Buru transport 2500 people reported; projected 10000 is not arrival count. [S264]
 - 1968-69: Kopkamtib detention decrees specifically identified bibliographically, original texts not read. [S265]
+
+## Security screening documentary escalation
+- 18 Oct 1968 and 3 Mar 1969: government staff screening order KEP028 amended by KEP010 has published English translated clauses, incl mass organization and political sympathy categories. [S269]
+- 8 Sep 1969: DIY archival BAKIN Pri-01/LAK SUS/a/1969 letter locator to local security command; contents unread. [S268]
+- 1975 Indonesian Foreign Ministry legal defence of Buru reproduced in 1976 US congressional hearing; contrasted with detainee advocate testimony. [S267]
