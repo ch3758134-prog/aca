@@ -510,3 +510,8 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 - **1948-11-07 (textual attribution; original congress record pending):** The later transcription of Tan Malaka’s *Uraian Mendadak* [S353; C595-C596] and 2006 catalog [S352; C594] connect the speech to Murba party consolidation. A 2022 journal abstract interprets the speech as favoring politically educated disciplined cadres [S355; C598], but the article body was not accessible. Two library catalog descriptions disagree on the name of the third constituent party (*Partai Rakyat Jelata* in S352 versus *Partai Rakyat Biasa* in S356) [C599]. Do not silently harmonize these labels or infer actual merger delegates from catalogs.
 ### 1948年9月至1949年2月：Murba与地方军事行动之间仍待复原的联系（S357/C600）
 Bawaslu图书馆所收Harry A. Poeze第五卷的书目简介，回顾谭·马拉卡1948年9月获释、11月参与Murba组建、12月荷军第二次进攻后在Kediri与Sabarudin部队的关系，并将其1949年2月21日Selopanggung死亡归于当地TNI部队。这里**直接读到的仅是2020年图书馆目录介绍**，不是Poeze书正文或1948—1949年档案；而且第五卷题名涉及1950—2007，介绍却大量复述1948—1949年，可能为全套通用简介。现阶段不能据此断言具体部队指挥链，也不能把Murba政党与所有武装人员视为同一机构。[S357/C600]
+
+
+### 1950—1951｜港口工人的集体谈判与国家仲裁制度（证据待深入）
+John Ingleson 2016年论文的康奈尔大学馆藏摘要将1950年雅加达、三宝垄、泗水与勿拉湾港口工人的行动连接起来：工会依次争取集体合同，使工资及实物福利条款逐港趋同。摘要报告日薪最低标准提高约2.5—3倍，并记述大米、医疗、膳食、加班及解雇限制方面的改善。这些数字属于学者摘要转述，尚未打开论文正文、工资表或各港原始合同，不能将四港视为同一比例。该摘要又将政府对关键行业罢工的限制及正式仲裁安排定于1951年2月；法令原件及地方执行尚待核查。[S358; C601–C602]
+2025年Ingleson另有专文讨论1950—1965年SOBSI及所属工会的资金问题，但本次仅阅读大学机构书目摘要，尚无会费、财务账册或会员分母的具体数字可据以复原。[S359; C603]
