@@ -42,3 +42,9 @@ New present-day connection: 2025 Inpres9 targets 80000 Red White village coopera
 Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q191, 5 coverage rows CV183–CV187. This is not completeness. Next: local 1965-79 electoral/vetting files; 1969 Annex III original; BUUD/KUD membership and BULOG purchase accounts; Soge/Wangunwati original land decisions; 2026 petition update. No HTML created.
 
 **NEXT ACTION**: prioritize obtaining signed 1965/1979 village law scans and 1969 Annex III, then specific West Java/Indramayu village electoral and land office files for Soge; find Wangunwati cooperative and KUD transformation evidence. Continue original Soge 1966 LR.323, 1991 BPN, 1995 LBH; do not let long legal chronology substitute for field history. Keep GOAL OPEN.
+
+## ONGOING / GOAL仍进行 — 2026-11-09, 1975–1995拘押行政与幸存者链
+本次进入原始1975/76美国国会听证逐页OCR，获取印尼政府Kopkamtib拘押分类法令的转载、1975年C类释放指令、东爪哇匿名囚犯信、Yap Thiam Hien的1975年辩护信，以及美国国务院承认缺少拘押设施分布名单的原始答复。1976年官方表格存在**1000人算术/识别矛盾**：类别加总32918，显示总计33918；Kalimantan Sel/Teng分项1664而行总计664，必须检查原始影像。1995年Amnesty七月估算27名仍在押，十一月主动更正名单；完整PDF尚未阅读。
+已正式入库 S309–S311、C500–C507、Q192–Q194、CV188–CV190。新来源为政府听证原始出版物与NGO当时报告页面；证词、国家声称和实际执行严格分离。
+**下次精确续接动作**：①govinfo听证 Appendix5 p117 原始页图或独立小体积扫描，逐行核算分类；②1975-09-04 Kompas 原版及Keppres28/1975、KEP/08/KOPKAM/VIII/1975、KEP-028/KOPKAM/10/1968全文；③1975东爪哇匿名信中的Sulaiman所在监狱及军方任命记录；④Asep Suryaman 1975 Jakarta Pusat案卷与Yap 1975-08-28原信；⑤Amnesty ASA21/036/1995与ASA21/055/1995 PDF逐人比对，后续重新返回Soge/Wangunwati地方执行文件。长期GOAL保持OPEN，未完成。
+

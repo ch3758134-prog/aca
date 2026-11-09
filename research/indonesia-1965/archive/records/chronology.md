@@ -391,3 +391,12 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 - 2014-05-28: MK invalidates UU17/2012, provisionally restores UU25/1992. [S304]
 - 2025-03-27: Inpres9 sets 80000 cooperative **target**. [S305]
 - 2026-11-03: MK case399 preliminary hearing; allegations of village consent/financing interference are petitioners' claims, not judicial finding. [S306]
+
+## 1975–1995｜长期拘押的行政分类、地方执行与获释（持续核查）
+1975-12-18：Carmel Budiardjo 在美国众议院听证中陈述本人1968-09-03至1971-11-09未经审判的拘押经历，并指出其丈夫Suwondo反复被捕、截至1975年仍被关押；这是第一人称证言，非司法档案。[S309;C503]
+1968-10、1969-03-03、1969/1971：印尼外交部提交联合国的布鲁岛拘押政策说明（1975年国会听证转录）提到Kopkamtib律师小组、总统决定19/1969与后续A/B/C分级处理，须与原始法令和实际执行核对。[S309;C500]
+1975-09-04：《Kompas》所载1975年第28号总统决定及KEP/08/KOPKAM/VIII/1975摘要要求对C类人员分为C1-C3、释放仍拘押者；法律指令不等于已释放。[S309;C501]
+1975-08-28：律师Yap Thiam Hien致国际法学家委员会信记述Asep Suryaman被判死刑、上诉及审判前辩方仅三日准备的程序争议。[S309;C507]
+1976-09-30：印尼政府在美国国会记录中的拘押统计表列布鲁岛B类9811人、中爪哇7343人；印刷/OCR的全国总数33918与分类加总32918矛盾，Kalimantan Selatan/Tengah一行也差1000，待原始图像核验。[S309;C502]
+1995-07-30：国际特赦组织报告估计27名1965事件相关男子仍被关押，另称5人长期处死刑状态；1995-11-01该组织发布更正，承认原名单中数人此前已获释，不能把27人写成11月核实人数。[S310;S311;C506]
+
