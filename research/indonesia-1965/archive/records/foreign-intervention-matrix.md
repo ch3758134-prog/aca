@@ -96,3 +96,10 @@ This is an evidence map, not a political verdict. It distinguishes the state/ins
 
 **Cross-source chronology issue:** S140's executive report cites KEP-1196/10 dated Oct29 as a Pangkopkamtib act yet also cites Nov1 order KOTI142 as creating command. S139 cites a different October KOSTRAD number Kep-069/10. These might be distinct institutions, typographic discrepancies or later retrospective ordering; preserve all literal citations pending originals. The source audit does not establish equivalence.
 
+## Eleventh-pass U.S. operational aid stage distinctions and 1948 source dependency (2026-11-08)
+- 2 Jan 1958, State/CIA/Defense: confidential policy to favour future non-Communist government and prepare outer-island strength [S157]; compare later admission [S020]; not a direct transfer manifest.
+- 9 Nov 1965, CIA: proposed secret credits and purchases, light weapons/medicine and Army handoff to civilian auxiliaries [S155]. Paragraph 8 expressly recommends NOT furnishing such equipment at that time. Requested, considered, approved, paid, delivered, received and used are SEPARATE archival stages.
+- 30 Dec 1965, JCS: no OVERT military assistance now, prospective emergency food/medicine and conditional future aid [S156]. No overt aid recommendation does not preclude covert channels; neither memo proves subsequent supplies.
+- 1948 Madiun: Republic statement, U.S. ambassador relay and Australian cable share possible information ancestry. Critchley called reports unconfirmed [S007/S008/S153]. Dutch NEFIS catalogue S154 is only item-level retrieval, not read reports.
+- New longitudinal lead: 1948 Republican Army sugar financing and SARBUPRI wartime plantation archives, crosscheck with 2025 land and labor synthesis S063; do not infer a unit's 1965 role from 1948 organization name.
+

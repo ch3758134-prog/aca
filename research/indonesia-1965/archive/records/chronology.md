@@ -179,3 +179,13 @@ The ANRI sourcebook *Jejak Demokrasi Pemilu 1955* was found and its official rel
 - **22 Feb–12 Mar 1967:** MPRS XXXIII/1967 was dated 12 Mar and, according to official abstract, retroactive to Feb22, withdrawing Sukarno's governing powers and installing acting president Suharto. Political accusations in the legislative materials are allegations. [S142; C133]
 - **3 Mar 1969:** Keppres 19/1969 promulgated a reorganized Kopkamtib structure including LAKSUS, budgeting and use of state apparatus, revoking an earlier 179/KOTI/1965 decree. It cannot be projected unchanged backward into 1965. [S144; C134]
 
+## Eleventh-pass archive chronology (2026-11-08)
+- 4 June 1948: Dutch NEFIS 2.10.62 catalogue identifies PAM report on FDR after Hatta's Cabinet; original unread. [S154,C149]
+- 4 July 1948: Catalogue identifies Hatta letter plus financial annex proposing financing the Republican Army through sugar sales. Amount/implementation unverified. [S154,C150]
+- 28 July–Dec 1948: Dutch catalogue lists SARBUPRI instructions and wartime plantation files including Wingfoot/South Sumatra; originals unread. [S154,C151]
+- 18–20 Sep 1948: US cable d268 reports broadcasts via listeners and press; d269 reprints Republic's armed-takeover account and minister's Moscow-plan claim; Australian Critchley K160 labels 2000-Pesindo/Soviet-Republic reports unconfirmed and reports emergency powers. [S007,S008,S153,C145-C148]
+- 15–18 Oct 1948: NEFIS index lists PAM report and arrest cable about Dutch deserter Piet van Staveren and Madiun; do not infer participation from file title. [S154,C149]
+- 2 Jan 1958: US State/CIA/Defense meeting plans confidential future-government signals and outer-island strength, not actual transfers. [S157,C152]
+- 9 Nov 1965: CIA memo discusses covert credit, small arms and possible civilian auxiliaries, but says equipment should not yet be furnished. [S155,C153-C155]
+- 30 Dec 1965: JCSM-909-65 recommends no overt military aid at the time while discussing food/medicine and future Malaysia policy conditions. [S156,C156-C157]
+

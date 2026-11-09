@@ -180,3 +180,9 @@ Separate new lines concern eyewitness-mediated local violence: Fox's Roti/Sawu r
 
 The next primary-record priorities: KOTI142/Kep1196/Kep069 and the Kopkamtib1970 corpus; 2012 investigative BAPs; signed MPRS IX/XXXIII and 1967 session; 1969 Keppres19 earlier counterpart 179/KOTI/1965; labor ministry/SOBSI files and East Java railway stations; Komnas Perempuan full witness volume; Roti/Sawu/Flores district and Army records; NSA A-386/A-808/A-673/212 original scans. Do not treat national or provincial counts as established without denomination and independent enumeration.
 
+## Eleventh research tranche — 2026-11-08 UTC
+Five new source rows S153-S157, 14 atomic claims C145-C158, six search groups Q059-Q064, six coverage rows CV061-CV066. Cumulative **157 sources, 158 claims, 64 search groups, 66 coverage rows** (inventory, not completion).
+Read Australian Sep20 1948 diplomatic cable, full US secret interagency Jan1958 meeting, CIA Nov1965 aid options memorandum and JCS Dec1965 planning memo; added 1948 sources' information-source audit. Dutch National Archives 2.10.62 physically catalogues FDR, Hatta sugar/Army finance, SARBUPRI plantation orders and Madiun inquiry, but **none of the item bodies was read**; record-making and intelligence seizure create limits.
+Crucial corrective: CIA Nov9 memo does not authorize actual distribution, explicitly advises against furnishing at that stage; JCS Dec30 discourages overt military aid then. These cannot cancel each other, nor prove a delivery or its absence. Dates, official decision chains and recipient stock ledgers remain high-priority.
+Need original 1948 radio, labor, Republican army and Dutch captured-file copies; 1958 CIA/CAT funding and air support logs; 1965-66 financial authorizations, intermediaries, Indonesian receipt/dispatch and victim/unit records. Political judgment remains author-reserved.
+
