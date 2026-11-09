@@ -311,3 +311,8 @@ Official ANRI Jan2025 sources and Jan2023 provenance identified multi-country PK
 
 ## Continued two different unions' ILO original proceedings, 2026-11-08
 Official ILO indexed English and French/Spanish reports establish specific two-sided 1967 WFTU/SOBSI Case537 and 1971 Muslim SARBUMUSI Case674 controversy, distinct state explanations and ILO findings. Indonesian government's 1969 defence SOBSI dissolved because allegedly implicated in G30S and 1971 denial of SARBUMUSI infringement citing Article28/1969 Labor14 are interested claims, not neutral confirmation. ILO staff criticised delayed/missing information on Njono and Sudarno Heru; petition for abeyance in 1972 did not adjudicate allegations. Direct ILO case full-page access loop/cache failures; read indexed official excerpts only.
+
+## Land law administration and ground-area checks, 1964-1968
+- Nov5 1964 Presidential Instruction022 against illegal occupation of state land catalogued KOTI item162 (damaged two-sheet copy); no proof compliance. [S286]
+- Nov23 1964 Keppres263 revised land reform committee, catalogue item163. [S286]
+- Feb1968 IBRD/IDA agriculture mission recounts official adjusted 344000ha gross reported redistributed, subtracts poor 168000ha state land to calculate max176000ha Java productive, with 164000 recipient owner estimate; definitions contested. [S285]

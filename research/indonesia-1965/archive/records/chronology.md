@@ -353,3 +353,6 @@ ANRI 2016 President Sukarno archive guide film item SK71 (1965 PFN 10m19s) locat
 ## Labour rights original institutional claims and process
 - 21Sep1967 WFTU case537 over SOBSI, Indonesian government observations Apr1968 and Jan1969, ILO subsequent reports through 1971, including Njono/Sudarno Heru. [S206]
 - 23Apr/12Jun1971 SARBUMUSI memorandum/complaint to president, court and ILO, government Nov5 reply and 1972 case report130. [S200]
+
+## Continued field-evidence land redistribution investigation, 2026-11-08
+World Bank/IDA 1967 field mission February1968 agriculture VolumeIII annex now directly read. Uses adjusted official land redistribution 344000ha / 563000 tenant beneficiaries, then rejects 168000ha of low-quality state land and suggests upper 176000ha productive Java area and 164000 owners; numbers scope specific and mission field evaluation, not independent land registry. Need reconcile later Indonesian 681832ha/1965 aggregate without collapsing regions, categories or years. ANRI KOTI archive now locates Nov1964 presidential land occupation instruction022 and committee revision Keppres263, but original texts unread.
