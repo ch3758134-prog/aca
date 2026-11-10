@@ -387,3 +387,10 @@ Continue with original U.S. committee, export, procurement and recipient records
 已读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式四CSV、chronology和缺口总账；research-status.md预期路径404。正式编号当前至少S448/C785/Q250/CV290。S377棉兰183A原电报OCR重读，区分已经报告的县级军方行政控制与尚属条件句的Hansip村级扩展；1971 ILO S200官方全文入口本次无法打开，不能假称已读。此处记录核验进度而不伪造新增来源或正式CSV登记。
 
 精准续接：①1965-12北苏门答腊Pantja Tunggal省令与县会议簿；②Pramuka年龄8—15义务学校通知、PWI任命和报纸许可证；③Hansip具体村庄编组与武装记录；④ILO Case674报告130原版及SARBUMUSI申诉原信、政府答辩；⑤G1 1927 Boven Digoel原始遣送名册与G4 Aceh/Bali地方军报并行。G1—G10均OPEN；本段之后的实际main SHA须以GitHub最新提交核验。
+
+
+## 2026-11-10｜ONGOING｜地区数字冲突与日惹地方机制
+
+读取了AGENTS、stage-access、goal-continuity、G1—G10完整性审计、正式source/claim/search/coverage四CSV、chronology、G总账及本状态。正式编号最新至少S448/C785/Q250/CV290；research-status.md在archive/records预期路径404。复核FRUS XXVI d162全文（编辑说明，非其所引各原电报），对照1966-02 A-527巴厘约80,000与1970年Howland引用军官巴厘6,000的不同估计：来源不同、不能相加或择一确认。另打开Cornell的Winward 2018日惹论文馆藏摘要，PDF跳转失败，标C级而非全文；重查S143确认1966年Roti/Sawu A-65已登记，不重复编号。ILO案例原报告仍未取得。此次没有新增足以注册的原件主张，故四CSV与chronology不作虚假新增；实质查证与失败入口已存G总账。
+
+精确续接：①取得A-527、Howland 1970原文及巴厘地区死亡名册，按口径核对80,000/6,000；②取Winward全文与日惹县级军警/民兵名单，检验“平民自主”与军方资源依赖；③继续Aceh地方军令、Flores 1967审查原件；④ILO Case 674报告130与SARBUMUSI申诉/政府答辩及1968—71工会章程；⑤恢复G1殖民遣送名册和G7 2023—26救济原始执行统计。G1—G10均OPEN。上一成功写入main的提交：fcbeab0f17d8d8d6f298f6f4f90166734d5a810f；本状态提交SHA应以提交后main实时核验为准。
