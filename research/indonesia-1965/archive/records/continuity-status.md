@@ -381,3 +381,9 @@ Starting main head for this pass: 180302b70675db4404b008b85069693c38868c86. New 
 Newly documented: the U.S. fixed-site Philco system's rejection by the Indonesian Army; the British/U.S. disagreement over the licence stage; a tentative Pakistan C-130-spares report; the named Ethel/Nasution-liaison request for portable radios; the detailed 1966 HF communications process; and a peer-reviewed reconstruction of Kawashima's relationship with Sukarno and a disputed mediation message. The d175/d211 initial 303 approval date conflict is now explicit and open.
 
 Continue with original U.S. committee, export, procurement and recipient records; Pakistani end-use and aircraft records; Japanese MOFA, British FO and personal papers; and Indonesian-side army communications records. The HTML and research-status records reflect this pass. No final political judgment is entered.
+
+
+## 2026-11-10 ONGOING / GOAL仍进行（续接）
+已读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式四CSV、chronology和缺口总账；research-status.md预期路径404。正式编号当前至少S448/C785/Q250/CV290。S377棉兰183A原电报OCR重读，区分已经报告的县级军方行政控制与尚属条件句的Hansip村级扩展；1971 ILO S200官方全文入口本次无法打开，不能假称已读。此处记录核验进度而不伪造新增来源或正式CSV登记。
+
+精准续接：①1965-12北苏门答腊Pantja Tunggal省令与县会议簿；②Pramuka年龄8—15义务学校通知、PWI任命和报纸许可证；③Hansip具体村庄编组与武装记录；④ILO Case674报告130原版及SARBUMUSI申诉原信、政府答辩；⑤G1 1927 Boven Digoel原始遣送名册与G4 Aceh/Bali地方军报并行。G1—G10均OPEN；本段之后的实际main SHA须以GitHub最新提交核验。
