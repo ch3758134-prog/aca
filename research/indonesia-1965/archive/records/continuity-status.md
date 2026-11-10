@@ -454,3 +454,12 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 **已成功写入缺口总账的研究提交SHA：b22671249d83afc1bb3ed41e4f31fe5e1fa3b74b**；本状态自身的提交SHA无法在同一提交内容中预知，须以本次GitHub返回和main核验为准。
 
 下一次精准行动：①索取《Tandjungpura Berdjuang》(Semdam XII/Tanjungpura,1970) p270及1967-09-21 RRI Pontianak节目单/录音/播出稿；②取得R. Masri Sareb Putra《101 Tokoh Dayak yang Mengukir Sejarah 2》(2017) p114、松村智雄2015日文全文45—63页并检查双方引用原件；③获取1967-10-11村长会议原始通知及Peperalda/Kodam XII军令、Sanggau Ledo/Anjungan/Mandor/Menjalin迁移名单；④跨G1用荷文“Boven-Digoel geïnterneerden transport 1927 namenlijst gouvernementsbesluit”检索荷兰国家档案馆具体卷宗和扫描；⑤跨G2/G6恢复SOBSI与1971 SARBUMUSI厂级原件，跨G7取得中苏拉威西2023—26救济签收和拨款记录。G1—G10全部OPEN，GOAL ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-10｜ONGOING / GOAL仍进行｜具名广播回忆与1927遣送原册
+
+已读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit G1—G10、正式四CSV、chronology、research-status、global-gap-tracker及本接力状态。仓库正式CSV/chronology位于research/indonesia-1965/archive/records/，不是项目根目录。核实新来源S454（Aju 2016文章**搜索索引较长节选**；原站打开403），新增C796/Q257/CV297，扩写chronology、research-status与缺口总账。具名Kadir所述1967-09-21 21:00广播及9月22日Oeray会面尚为多层回忆转述；没有原始RRI广播、军方承认文件或Oeray署名文本。与2017 Aju著作、2018二手文章的同源关系未消除。跨G1荷文/英文检索仍未取得1927 Boven Digoel逐名遣送原册，未将百科/传记当作原件。
+
+**本次已成功提交正式研究文件，最近研究提交SHA：475808614834d13a2a2370047eb16bf82fb8be9b**。本接力状态自身提交SHA需以GitHub返回值和main独立核验为准，不能在提交内容中预知。
+
+下一次直接执行：①取得2016 Aju预发表原文和Kadir原访谈录音/记录，明确转述层级；②检索1967-09-21 21:00 RRI Pontianak播出稿/节目单与Kodam XII/Peperalda宣传文书；③读取Semdam XII/Tanjungpura 1970《Tandjungpura Berdjuang》p270及松村2015日文全文pp45—63，区分9月广播与10月声明；④转G1 Nationaal Archief 1927 transportlijsten/Delpher航运公告/ANRI殖民档案具体inventaris，记录原始遣送人名、命令号和运输日期；⑤转G2/G6 SOBSI及SARBUMUSI厂级文件、G7中苏拉威西救济签收与G4 Aceh/Flores/Bali地方原件，推进独立证据链。**G1—G10全部OPEN，长期GOAL ACTIVE / OPEN-ENDED。**
