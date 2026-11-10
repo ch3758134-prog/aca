@@ -537,3 +537,10 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 本次已读取main的AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10 completeness-audit、正式四CSV、chronology、global-gap-tracker和本续接状态；research-status.md预期路径不存在。已打开1959 Sulami KOWANI历史回顾、1961 Gerwani第四次大会纲领、《Api Kartini》Djenab具名报道及Hurustiati Subandrio的1961年1月农妇会议报道；四篇为完整数字转录，均未检查原刊扫描。正式新增S459—S462、C801—C804、Q261、CV301，补充chronology连续中文段落。两篇1961文章共用《Api Kartini》编辑体系，1948回顾未获会议原件佐证，纲领不能证明执行。此前最后核验研究基线为6e34df5d0943d3af1cda872f00c0cbb92ad9cc95；本次实际写入后的最新main HEAD应以GitHub返回及复核为准，**不能预写自身未来SHA**。
 
 精准未完：①取得1961 Gerwani纲领印刷原版并核第68号法年份及1960农业法第9条；②取得1961-01-17/20 Gedung Wanita农妇研讨会签到、议程和结论，确认Djenab及村级动员；③确定西爪哇Pabuaran所属县并查1960—65地籍与托儿设施实施；④取得1948-07 KOWANI梭罗会议记录及Muslimat/GPII/Aisyiyah独立叙述；⑤轮换G4 Aceh、Bali、Flores、Sulawesi地方军令与死亡/拘押簿，G6劳工政治犯、G7 2023—26补偿实付、G8援助交付原件。GOAL ACTIVE / OPEN-ENDED；G1—G10全部OPEN。
+
+
+### 2026-11-11｜原件复核接力（G1—G10 OPEN）
+
+已读取AGENTS、stage-access、goal-continuity、G1—G10完整性审计及正式四CSV与chronology。正式台账现有S462/C804/Q261/CV301为末号；A-408已登记为S401，禁止重复编号。直接打开印尼1958年第68号法律五页政府PDF（https://peraturan.bpk.go.id/Download/42211/UU%20Nomor%2068%20Tahun%201958.pdf），确认1958-07-17签署、08-28公布、批准1952年妇女政治权利公约并保留部分条款；第3条把公约生效与联合国批准书交存后90天相联系，未核交存日期。1961年Gerwani纲领转录中1958/1959年份不一，以法律原文确定1958，印刷纲领尚缺。
+
+另一地区G4/G8链：直接逐页查看1965-12-21美国使馆A-408（https://nsarchive.gwu.edu/sites/default/files/documents/4107034/Document-24-Airgram-A-408-Joint-Weeka-No-48-from.pdf）扫描前3页。封面注明周报观察期1965-12-13至18；原扫描第3页写全国约100000死亡，巴厘一位使馆认为可靠的消息人估计岛上约10000死亡，杀戮仍在继续。这只能证明使馆当时的估算，不是已核实死者总数；应追巴厘县级军令、拘押簿、教区/村庄埋葬簿、消息来源及统计定义。下次读A-408其余扫描页、查UN批准书交存、Gerwani纲领印刷本，并轮换Aceh/Flores、SOBSI基层、1970—98拘押/工会和2023—26补偿实付。以上两条新事实**尚未写入正式CSV**，必须去重后登记，不得自称S463/C805等已经正式生效。GOAL永久OPEN。
