@@ -551,3 +551,10 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 已读取main AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10 completeness-audit、正式四CSV、chronology及缺口总账；research-status.md预期路径不存在。已登记S463、C805—C806、Q262、CV302。直接打开印尼第68号法律五页官方PDF；对既有S401的A-408原始扫描继续检查PDF第4—6页，新增1965-12-13情报机构BPI/KIN/KOTI及1000:1货币改革同期外交记载。此前PDF第3页巴厘死亡数仍只是使馆转述估计。研究与台账已逐文件按最新blob SHA更新；**本状态写入前已成功的最近提交为ae4c2f2f48414caae8dc3629690865562d54da1a**，最终main HEAD须以本次写入返回及重新读取确认，不能预写自身SHA。
 
 精准未完：①取得联合国1952妇女政治权利公约印尼批准书交存登记，核实际生效日期；②取得1965-12-13 BPI→KIN/KOTI印尼命令与货币兑换法令，对照A-408；③取得巴厘县级1965-12军令/医院或埋葬登记与同期独立证人，检验A-408死亡估算；④切换G6政治犯Buru与SOBSI→FBSI/SPSI组织原件、G7 2023—26中苏拉威西救济签收；⑤恢复G1 1927流放船单、G4 Aceh军区年报与Flores教区登记，更新G9人物组织关系。**GOAL ACTIVE / OPEN-ENDED；G1—G10全部OPEN。**
+
+
+## ONGOING / GOAL仍进行｜2026-11-11 东爪哇与妇女条约跨域续接
+
+已读AGENTS、stage-access、goal-continuity、G1—G10 completeness-audit、正式四CSV、chronology、缺口总账。联合国秘书长1968年条约登记原件与荷兰政府条约数据库相互核对：1958-12-16印尼交存妇女政治权利公约批准书，1959-03-16对印尼生效；这是国家条约效力而非村级实施。已目视核1965-11-04泗水领事馆电报前两张扫描，**原件Surabaya No.164，NSA目录标题误标194**；10月30—31日Basuki Rachmat东爪哇军方巡查、Blitar庄园搜查、Banyuwangi/Surabaya/Pamekasan/Malang国民阵线排除PKI关联者为外交机关转述；纵火归责未独立核实。已成功写入正式S464-S466、C807-C808、Q263、CV303、chronology和global-gap-tracker。**本续接文件提交前，研究文件已经写入main；最终最新提交SHA以本次GitHub返回与再次读取main为准，无法预知自身提交SHA。**
+
+精准未完：①Kodam VIII/Brawijaya 1965-10-30/31 Basuki Rachmat巡查原始记录；②Banyuwangi、Surabaya、Pamekasan、Malang国民阵线会议原件和被排除人员名单；③Blitar庄园BTI组织、军警搜查与受害者名册，核纵火指控独立证据；④印尼1959—65地方妇女任职、Gerwani县村活动及公约实际执行；⑤转换G1 1927 Boven-Digoel遣送原册、G4 Aceh/Bali/Flores军令、G6政治犯/劳工组织、G7幸存者救济实付。G1—G10全部OPEN，长期GOAL ACTIVE / OPEN-ENDED。
