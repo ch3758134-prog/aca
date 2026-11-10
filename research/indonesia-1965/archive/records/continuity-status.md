@@ -424,3 +424,12 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 读取了AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、四正式CSV、chronology及长期缺口总账。research-status.md在archive/records下404，未宣称更新。**已直接打开**2024-09-05中苏拉威西Kemenkumham官方报道（新S450），2025-07-18中央协调部门官方报道（新S451），以及既有S424的2025-10-09人权部报告。正式追加C791-C792/Q254/CV294，chronology补入连续中文叙述。2023-12-14地方首批450人/145直接受害家庭，2024-09仍欠79户住房和4人教育；同篇另称未来经济项目450家庭，口径待核。2025-07全国跨机关19→27，2025-10全国约7000/600涵盖多类事件，不得误算为1965受害人群。地方实际签收、预算、独立受助者访谈均未获得。另复核S449已登记的Pasuruan/Assembagus与巴厘相互冲突的外交报告证据状态，仍缺第3页目视及地方原件，不重复编号。
 
 **精确下一动作**：①中苏拉威西2023-12-14 450人/145家庭匿名化发放册与项目支付凭证；②79户住房与4人教育的2024-2026结案状态，SKP-HAM独立访谈；③核清450人/450家庭与全国7000/600的统计分母；④S449电报PDF第3页、Pasuruan/Assembagus 1965-12拘押移交簿、Bali Sutedja省府助手名单、NU/GMNI原报；⑤转换G1 1927 Boven Digoel遣送册、G2 BTI/Gerwani/SOBSI基层刊物、G6 1971 ILO签署申诉及G8物资接收凭证。G1—G10全部OPEN，GOAL ACTIVE / OPEN-ENDED。此状态提交前最新成功研究提交SHA：fe79d88be86c192f3c50d5cc7531f72413f047c6；状态自身SHA须以GitHub提交返回与main核验为准。
+
+
+## ONGOING / GOAL仍进行 — 2026-11-10 续接（G8与G4交叉）
+
+已读取AGENTS、stage-access、goal-continuity、G1—G10 completeness-audit、四正式CSV、chronology、global-gap-tracker。正式登记新增S452、C793-C794、Q255、CV295；更新chronology和缺口总账。已打开FRUS 1964-68 XXVI d229 1967-02-17会谈全文（A：当时美国会议记录），与FRUS d162及NSA 183/203档案入口交叉核对；后一组地方暴力原始印尼记录仍缺。G8重要区别：格林声称1966紧急援助已经抵达，但1967-02-17拟议军民合作物资尚未交付，五角大楼评估未出；不把两个项目混同。格林关于1965政变、妇女组织、经济顾问、军训影响均属当事外交官主张，不能直接当作事实。
+
+**本次最后一个已成功写入研究内容的提交：da10d143760e7f129654b9955fc1e546865d3b9d**。本续接状态文件的提交SHA须以GitHub update返回值为准（提交无法在自身内容中预先包含自己的SHA）。
+
+精准未完动作：①核1966紧急援助实际运输与印尼签收，及1967五角大楼军民合作评估和后续交付；②找1967年苏哈托五名经济顾问的任命与政策会议原件，不以美国大学履历推断控制关系；③查1965年Pasuruan/Assembagus/Tulungagung军区拘押、移交和村级死亡记录，区别NSA电报消息人士与执行档案；④转G1查1927 Boven Digoel原始遣送名册和1943澳洲羁押卷宗；⑤转G7查2023-2025中苏拉威西受害者救助S450/S451所载450人/145户与“450户”口径冲突，获取匿名签收及拨款核验。G1—G10均OPEN，禁止将此视为阶段结束。
