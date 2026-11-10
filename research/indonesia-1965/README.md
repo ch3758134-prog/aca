@@ -85,3 +85,10 @@
 - [读者版历史章节目录](briefs/readable-history/README.md)。当前只有局部成熟章节，尚非完整历史。
 
 新的实质查漏包括NSA将1965-10-29印尼空军原件中爪哇标题误标东爪哇的纠正，1965-12 Kudus Baperki名册（实际名单仍未取得），东爪哇官员停职与军方拟控制碾米厂/纺织厂所涉及的**组织和经济权力**。查漏继续根据 [全域缺口总账](archive/records/global-gap-tracker.md) 与 [长期接力状态](archive/records/continuity-status.md)推进，绝不把研究者概述当作全部地方原件已经取得。
+
+### 1967—1991 西加里曼丹土地与橡胶园长期后果
+
+- [西加里曼丹1961—1971：党派、边境战争、反华驱逐与难民](briefs/readable-history/1961-1971-west-kalimantan-border-and-politics.html)
+- [西加里曼丹1967—1991：驱逐者留下的土地如何进入农村开发项目](briefs/readable-history/1967-1991-west-kalimantan-rubber-land.html)
+
+本次已把S387—S393及C683—C693一部分纳入正式台账。Peluso多篇研究共享田野，不能按三个独立核实来源处理。1970年华人难民土地报告新增期刊索引：*Penyuluh Land Reform* 10(6):13—14，**刊物原文尚未取得**；1967年第5号《林业法》经官方原件确认在5月24日生效，纠正2024学术文献称2月的未核日期。
