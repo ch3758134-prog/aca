@@ -417,3 +417,10 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 ## 2026-11-10｜持续接力：第203号电报由摘要升级为原件
 
 已读取AGENTS、stage-access、goal-continuity、G1—G10 completeness-audit、正式四CSV、chronology和缺口总账；research-status.md在archive/records下不存在。原S449的NSA馆方摘要现已通过直接打开原始OCR及目视核验PDF第1—2页升级；更新S449并新增C789—C790/Q253/CV293，补入中文连续时间线。电报发出日为12月21日、雅加达收到日12月22日。具体拘押转交、巴厘华商焚店、40名省长助手遇害均仍是外交报告转述，尚无印尼地方执行原件。**下一步准确位置**：PDF第3页复核；Pasuruan/Assembagus 1965年12月拘押和转交簿；Bali省府Sutedja助手名册、华商财产案；1965-12-16 GMNI与12-17 Jombang NU原报纸。跨G项优先G1 Boven Digoel遣送原件和G6 1971 ILO Case674签署申诉书、政府回函；再转G7 2023—26实际救济。G1—G10全部OPEN，GOAL ACTIVE。前次已知SHA 88decf7d3bd6653041980bb13bd1f065d5f5e2d1；本次最终SHA以提交响应为准。
+
+
+## 2026-11-10｜持续OPEN：中苏拉威西救济原始执行记录与东爪哇拘押链
+
+读取了AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、四正式CSV、chronology及长期缺口总账。research-status.md在archive/records下404，未宣称更新。**已直接打开**2024-09-05中苏拉威西Kemenkumham官方报道（新S450），2025-07-18中央协调部门官方报道（新S451），以及既有S424的2025-10-09人权部报告。正式追加C791-C792/Q254/CV294，chronology补入连续中文叙述。2023-12-14地方首批450人/145直接受害家庭，2024-09仍欠79户住房和4人教育；同篇另称未来经济项目450家庭，口径待核。2025-07全国跨机关19→27，2025-10全国约7000/600涵盖多类事件，不得误算为1965受害人群。地方实际签收、预算、独立受助者访谈均未获得。另复核S449已登记的Pasuruan/Assembagus与巴厘相互冲突的外交报告证据状态，仍缺第3页目视及地方原件，不重复编号。
+
+**精确下一动作**：①中苏拉威西2023-12-14 450人/145家庭匿名化发放册与项目支付凭证；②79户住房与4人教育的2024-2026结案状态，SKP-HAM独立访谈；③核清450人/450家庭与全国7000/600的统计分母；④S449电报PDF第3页、Pasuruan/Assembagus 1965-12拘押移交簿、Bali Sutedja省府助手名单、NU/GMNI原报；⑤转换G1 1927 Boven Digoel遣送册、G2 BTI/Gerwani/SOBSI基层刊物、G6 1971 ILO签署申诉及G8物资接收凭证。G1—G10全部OPEN，GOAL ACTIVE / OPEN-ENDED。此状态提交前最新成功研究提交SHA：fe79d88be86c192f3c50d5cc7531f72413f047c6；状态自身SHA须以GitHub提交返回与main核验为准。
