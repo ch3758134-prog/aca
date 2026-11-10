@@ -353,3 +353,12 @@ S449从馆方摘要升级为**原始电报OCR全文打开、四页扫描中前�
 G8：直接重读FRUS第184号 https://history.state.gov/historicaldocuments/frus1964-68v26/d184 的第2段和编者脚注2。脚注说明1965-12-15 Jakarta telegram 1780**已经报告**美国使馆与日本、西德大使讨论印尼外交部Helmi代表陆军提出的援助请求。1965-12-16 telegram 777提议的是后续三方协调策略会议；其实施及援助实际交付仍未证实。**1780原文未读，只有FRUS编者摘要**。已原位修订C797与chronology；需取RG59 POL23-9 INDON 1780原件、日德会谈纪要及印尼接收凭证。
 
 G4/G3：直接阅读美国国家安全档案馆2017年公开文献汇编 https://nsarchive.gwu.edu/briefing-book/indonesia/2017-10-17/indonesia-mass-murder-1965-us-embassy-files 的第10件编辑说明，指向1965-10-29印尼空军情报第51/ch/Pr/i/65号东爪哇报告（RG84 Entry P339 Box14 Folder4），提到RPKAD从对马来西亚行动调至Surakarta/Solo。**仅汇编说明可读，本次未打开印尼语原扫描**，不得当成已核实的部队命令；下一步取得原页及军区调动记录并与当地口述、泗水电报比对。G1—G10全部OPEN。
+
+
+### 2026-11-11｜G3/G4 中爪哇印尼空军情报原扫描逐页核验（GOAL OPEN）
+
+**A级：直接查看三页PDF中前两张印尼语原始扫描（文件编号51/ch/Pr/i/65，1965-10-29；原扫描第1张标为第4页，说明可能是更大报告的节页）**：https://nsarchive.gwu.edu/sites/default/files/documents/4107020/Document-10-Report-from-the-Director-of.pdf 。美国国家安全档案馆页面标题将其标为“East Java”，但原件大标题明确为 **IKHTISAR SITUASI DJAWA TENGAH（中爪哇形势摘要）**，正文集中Surakarta/Solo、Kartasura、Benteng、Panasan、Boyolali。**必须更正地区索引：不可将Solo/Surakarta归为东爪哇；东爪哇应另查泗水、Kediri等档案。**原件不等于档案馆编辑说明所称RPKAD从Konfrontasi调回的完整命令，当前可读节页没有独立给出调防令号。
+
+**原件第1张（原页码4）逐条观察**：第2项称10月23日组成联合安全参谋组，包含AD/RPKAD、AURI、AKRI，领导为Let.Kol.Inf. Sarwo Edhie，任务为尽快恢复Surakarta秩序；第6项报告10月22日示威爆发时6人死亡、35人受伤，10月23日Sem[u]有14名受害者（原文“korban pen[t]julikkan dan pembunuhan”，需核字形），10月24日Kartasura有21名受害者，Benteng发现6具尸体。**不同日期、类别、地点可能重叠，绝不可相加为地区死亡总数，也不能把报告内所有被害者的政治身份一律归为PKI。**第7项称10月22日AURI支持RPKAD的Show of Force，提供一排人员及B-13/Pipercub两架飞机用于侦察/散发传单；第12项提及10月27日开始的“OPERASI WASPADA PENDAHULUAN”。第2张（原页码5）记载航空侦察、Panasan调机及10月29日空军情报部门印章/分发级别。第3张未逐页核对；尚缺前3页、完整附件、联合参谋组正式任命令、空军行动日志、地方医院/拘押/死亡名册。
+
+**来源等级与反证**：以上为军事机构自身报告其组织、行动与伤亡的同期文书，可直接证明该机关在1965-10-29如此记载，不能据此独立确认每一数字或实施者。美国国家安全档案馆OCR https://nsarchive.gwu.edu/media/15706/ocr 严重乱码，不能用于数字识别。下一步逐页校验第3张并与1965-11-04泗水194号电报、1965-12-10中爪哇A-386电报、Solo地方医院和军区档案对读。G1—G10继续OPEN。
