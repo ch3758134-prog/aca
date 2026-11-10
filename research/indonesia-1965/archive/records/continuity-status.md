@@ -524,3 +524,10 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 **已核实**：首次直接打开并目视检查1965-10-29印尼空军情报报告51/ch/Pr/i/65扫描前两张（原页码4—5），https://nsarchive.gwu.edu/sites/default/files/documents/4107020/Document-10-Report-from-the-Director-of.pdf 。标题为DJAWA TENGAH，中爪哇而非档案馆网页误称East Java。第2项10月23日陆军/RPKAD/空军/警察联合参谋组由Sarwo Edhie指挥；第6项10月22日6死35伤、10月23日Sem[u]14名受害者、10月24日Kartasura21名受害者和Benteng6具尸体，数字类别不同不可相加。第7项空军10月22日支援RPKAD展示/侦察/传单；第12项10月27日开始Operasi Waspada Pendahuluan。军事机关原始同期报告≠各事件已被独立核实，亦不等于调防令。OCR乱码，按扫描页读。已经更新global-gap-tracker和chronology；**本次未写四CSV，不能虚称新增S/C/Q/CV编号**；下次先查S457以后是否已有同一文书，按正式最大编号去重登记。
 
 **精确未完及下一次执行动作**：①目视核PDF第3张及寻找原报告第1—3页，确认报告是否只是节录；②检索S/C/Q/CV正式台账中51/ch/Pr/i/65与Surakarta 10月23日联合参谋组是否已有登记，补充来源访问等级及原文页码；③索取1965-10-23 Sarwo Edhie联合参谋组任命令、10月27日Operasi Waspada Pendahuluan行动命令和AURI Panasan飞行日志，核死伤数字与地方医院、警方簿册；④转不同G项：1965-10-21 SOBSI反共工会声明及劳工部冻结命令、Gerwani基层原刊；⑤继续Aceh 1965军区年报、Flores教区死亡登记、Boven-Digoel 1927船单、2023—26幸存者救济实际签收及日德援助会议原件。**G1—G10全部OPEN；长期GOAL ACTIVE / OPEN-ENDED。**
+
+
+## 2026-11-10｜持续GOAL接力：1958妇女反核网络、1965中爪哇文件封面校正、亚齐原档（全部OPEN）
+
+已读取AGENTS、stage-access、goal-continuity、2026-11-09完整性审计G1—G10、正式四CSV、chronology、global-gap-tracker和本状态。**正式新登记S458/C800/Q260/CV300**；原有AURI文书已经是S131，不能重登。实际目视核对AURI PDF第3页为NSA封面，不是第三张印尼语原始文件；真正原件仅PDF前两张（原页码4—5），原页1—3仍缺。Gerwani数字档案1958年Ratu Aminah Hidajat原刊文字转录已打开，但未核原版影像，不能将其自述组织联系当作独立执行事实。Jess Melvin 2018著作全文已打开，书引原始Aceh档案尚未独立取得。
+
+**精准续接**：①取1958 *Women of the Whole World* 第52—53页印本，核Hidajat职务与活动日期，逐期检查《Api Kartini》1959—64原刊文章而非只看目录；②追AURI 051/ch/Pr/i/65原页1—3、Sarwo Edhie 10月23日联合参谋组任命、10月27日行动令和Solo医院记录；③从Melvin 2018书中精确定位1965 Aceh军区年度报告、1965-10-11 Meulaboh会议和1966-06-15北亚齐报告，取得档案原页；④轮换G1 Boven-Digoel船单、G6 1970—98劳工/拘押、G7 2023—26救济交付、G8日德援助执行、G9人物组织空间关系。当前写入时的已确认前序Git提交为509574e24cfc00ccce919407c177bb6bd29faee7；**本状态自身提交SHA应以GitHub返回及main HEAD独立核对为准，不可预填未来SHA**。GOAL ACTIVE / OPEN-ENDED，G1—G10 OPEN。
