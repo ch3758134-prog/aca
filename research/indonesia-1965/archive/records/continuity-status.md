@@ -499,3 +499,14 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 精确续查：①检索FRUS d184的雅加达答复与1965-12-15 Jakarta 1780，核日本西德会谈是否实际发生；②查日本外务省和德国政治档案1965-12印尼援助会议及签收；③取得Prior Exchange 40(2)117—143页、Maumere教区死亡簿、军区命令，核估计口径；④恢复Aceh 1965军区年报及Flores Ende 1967审查队；⑤转换G2 SOBSI/BTI/Gerwani原刊与G7救济签收。正式CSV去重核实后方可分配新编号。G1—G10全部OPEN。最近提交SHA以本次GitHub返回值和随后main HEAD为准，状态文件无法预知自身SHA。
 
 **本次正式台账与chronology最后研究提交SHA：9d88abad541a63fe95a9f5abd94e953d5f9210fd**。新增S455—S456、C797—C798、Q258、CV298；均按已打开全文/摘要的不同等级登记。最终main HEAD以GitHub核验为准。
+
+
+## 2026-11-10 最新接力｜ONGOING / GOAL仍进行
+
+本次正式登记S457、C799、Q259、CV299；核验美国1965-12-30参谋长联席会议JCSM-909-65全文（FRUS d187）与12月13日米援讨论d183、12月16日协调提议d184。关键结论仅限美国机构**建议不公开军援、可准备条件性粮药援助**，并有使馆对苏加诺暂不被立即罢黜的不同预测；不证明实际交付。G4 Flores/Maumere的Prior 2011仍仅摘要，原始军令、教区簿与死者名册缺失。已更新正式四CSV、chronology和长期缺口总账。最新成功研究提交见本次GitHub main HEAD；下面继续动作不表示GOAL关闭。
+
+1. 精确打开FRUS d187注2所引Jakarta telegram 1797 (1965-12-15) 与1924 (1965-12-30)，核实使馆观察和印尼行动者来源。
+2. 追d187未刊JCS附录、1966美国粮药及军民合作货物运输/印尼签收，区分建议/批准/交付。
+3. 追1965-12-15 Jakarta 1780、12-16 777电报的使馆答复及日德外交记录，检验是否实际召开协调会议。
+4. 获取Prior 2011 *Exchange* 40(2) 117—143全文及Maumere 1966年教区埋葬簿、县军令和证人完整访谈；不得把800—2000估计作为独立逐名数字。
+5. 转G1 Boven-Digoel 1927遣送名册、G2 SOBSI/BTI/Gerwani原刊、G4 Aceh军区年报、G6政治犯及G7幸存者救济实付，按completeness-audit G1—G10继续交替推进。
