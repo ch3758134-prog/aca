@@ -558,3 +558,14 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 已读AGENTS、stage-access、goal-continuity、G1—G10 completeness-audit、正式四CSV、chronology、缺口总账。联合国秘书长1968年条约登记原件与荷兰政府条约数据库相互核对：1958-12-16印尼交存妇女政治权利公约批准书，1959-03-16对印尼生效；这是国家条约效力而非村级实施。已目视核1965-11-04泗水领事馆电报前两张扫描，**原件Surabaya No.164，NSA目录标题误标194**；10月30—31日Basuki Rachmat东爪哇军方巡查、Blitar庄园搜查、Banyuwangi/Surabaya/Pamekasan/Malang国民阵线排除PKI关联者为外交机关转述；纵火归责未独立核实。已成功写入正式S464-S466、C807-C808、Q263、CV303、chronology和global-gap-tracker。**本续接文件提交前，研究文件已经写入main；最终最新提交SHA以本次GitHub返回与再次读取main为准，无法预知自身提交SHA。**
 
 精准未完：①Kodam VIII/Brawijaya 1965-10-30/31 Basuki Rachmat巡查原始记录；②Banyuwangi、Surabaya、Pamekasan、Malang国民阵线会议原件和被排除人员名单；③Blitar庄园BTI组织、军警搜查与受害者名册，核纵火指控独立证据；④印尼1959—65地方妇女任职、Gerwani县村活动及公约实际执行；⑤转换G1 1927 Boven-Digoel遣送原册、G4 Aceh/Bali/Flores军令、G6政治犯/劳工组织、G7幸存者救济实付。G1—G10全部OPEN，长期GOAL ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-10｜ONGOING / GOAL仍进行｜跨G项原电报核验与并库
+
+本次已重新读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09、global-gap-tracker、正式四CSV和chronology。**正式CSV实际路径在archive/records/**，不能再按研究目录根路径404误认缺失。已核对既有S146/S196，原位更新其访问等级，不重复登记来源；新增C809—C810、Q264、CV304，已写chronology和global-gap-tracker。写入这些文件后的最新已知提交为 **2fa4c8cecc2063a18a1e608af1055e92c0334957**（本续接文件提交前的基线；最终HEAD须重新读取）。
+
+**当前证据链A：**1965-10-21反共工会向Sutomo要求解散SOBSI、10-23雅加达1168电报，原件OCR全文https://nsarchive.gwu.edu/media/15702/ocr。原文承认铁路/种植园/邮电/港口等工会暂时停止活动的执行范围未知；不能将工会停令等同实际每厂停工或解雇。待取：原PDF扫描逐页、10-21印尼语报纸、SARBUMUSI/SOKSI等组织声明、劳动部命令、SOBSI行业工会原件。
+
+**跨G项证据链B：**1965-11-01雅加达1290电报OCR全文https://nsarchive.gwu.edu/media/15705/ocr，明确Palembang/S Sumatra，纠正NSA编辑网页误写North Sumatra。劳工专员10-28/29访问后报告拘押约600人、Stanvac约30、Shell约24、PUSRI约15，数字来源不同且可能重叠；Shell否认军方所称火灾破坏，企业仍讨论炼厂转让。待取：原PDF扫描、Palembang警察/军方拘押簿、PERBUM和SOBSI名册、Shell火灾调查、炼厂合同；不能将地方报告推及全省。
+
+**下一次直接动作：**①核两电报原始扫描与OCR逐页差异；②找10-21工会联合声明及劳动部冻结令；③找Palembang/Pladju/Sungaigerong/Prabumulih的企业和军方档案；④换G4地域查巴厘县级军令、Flores教区死亡登记或Aceh 1965军区年报；⑤恢复G1殖民组织、G6政治犯/流亡、G7当代幸存者和G9索引，并在成熟时更新readable-history中文连续正文。**G1—G10全部OPEN，永久持续。**
