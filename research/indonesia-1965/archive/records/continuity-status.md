@@ -372,3 +372,12 @@ Previous continuity entries remain historical snapshots, not current completion 
 
 
 Research update commit recorded after verification: 533db4cf133541b7d7f05ba02a36a9cb190cb829 (based on 06412322c48f7658a64eeef190558b83785200c1). This continuity note is a follow-on bookkeeping commit.
+
+
+## CONTINUITY — GOAL remains open — 2026-11-10 follow-up
+
+Starting main head for this pass: 180302b70675db4404b008b85069693c38868c86. New sources S444–S448 and claims C773–C785 were added; C021, C024, C194, C195 and C753 were revised. Search log Q250 and coverage CV287–CV290 were added. Current cleaned ledgers contain 446 sources, 782 claims, 250 search records and 290 coverage records.
+
+Newly documented: the U.S. fixed-site Philco system's rejection by the Indonesian Army; the British/U.S. disagreement over the licence stage; a tentative Pakistan C-130-spares report; the named Ethel/Nasution-liaison request for portable radios; the detailed 1966 HF communications process; and a peer-reviewed reconstruction of Kawashima's relationship with Sukarno and a disputed mediation message. The d175/d211 initial 303 approval date conflict is now explicit and open.
+
+Continue with original U.S. committee, export, procurement and recipient records; Pakistani end-use and aircraft records; Japanese MOFA, British FO and personal papers; and Indonesian-side army communications records. The HTML and research-status records reflect this pass. No final political judgment is entered.

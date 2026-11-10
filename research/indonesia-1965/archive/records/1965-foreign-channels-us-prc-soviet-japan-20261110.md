@@ -60,3 +60,32 @@ ANRI's 17 January 2025 announcement identifies 11 English letters from Sukarno t
 ## Search record and next actions
 
 This pass is recorded in Q249 and coverage rows CV282–CV286. Follow up by obtaining (1) U.S. radio inventories/receipts and d155/d175 logistics; (2) MOFA telegrams 238 and 354 cited by Llewelyn and ANRI items 274–276; (3) the cited Soviet AVP and GDR SAPMO originals; (4) PRC cargo and Indonesian receipt records; (5) individual Sukarno–Ratna letters; and (6) original JACAR images. Log failed access attempts and do not treat catalogue text as the underlying record.
+
+
+## Follow-up pass — U.S. communications channels and Japanese mediation
+
+### Commercial communications proposal, July–September 1965
+
+- FRUS d127 records Rusk telling the British Ambassador on 20 July that the U.S. had decided to permit an approximately $3m commercial sale to the Indonesian Army after rejecting a $13m request. The equipment was described as fixed communications for Java, with the related note naming Jakarta, Bandung and Palembang.
+- FRUS d128 (28 July) records British unhappiness with U.S. permission and Rusk's explanation that the system was for internal Army communications. Rusk also reported, tentatively, that Pakistan might be sending Indonesia C-130 parts from U.S.-supplied stocks; the transfer is not independently verified.
+- UK Hansard (29 July) says the British Government understood the export licence was still under consideration and that three prepared stations lacked radio equipment. This is a different government account and date from Rusk's 20 July internal statement.
+- U.S. Admiral Blouin's 3 August memo recommends reconsideration and attributes Indonesian delay to a political calculation; treat this as his assessment.
+- An NSC memorandum of 14 September says the Army rejected Philco's offer for the three fixed sites and asks that the news be soft-pedaled. It also states a U.S. objective of playing for post-Sukarno stakes. The record supports the U.S. account of a rejected offer, not a completed sale or installed system.
+
+Sources S025, S444–S447; revised C021; new C773–C776.
+
+### October portable radios and 1965–66 covert network
+
+FRUS d155 records Nasution's liaison officer approaching through U.S. Colonel William G. Ethel on 13 October for portable voice communications for guards protecting Nasution, senior Army figures and families. The embassy reports approval for three Motorola P-31 radios and a covert handover on 14 October; no recipient receipt is included. The October radios are not the July Philco system. Source S431; revised C753.
+
+FRUS d175 (17 November 1965) is a proposal for secure communications equipment. Its footnote reports a 19 November 303 Committee discussion: members considered assistance desirable, but Bundy prioritized low attribution and requested a search for Japanese or U.S. surplus equipment; a 17 December note reports that CIA had located and purchased similar equipment. FRUS d211's later account says the original proposal was approved on 17 November. This date and procedural-stage discrepancy is unresolved; original minutes are needed. Sources S031 and S033; revised C024/C194; new C785.
+
+The June 1966 d211 memo reports a February 26 HF-link request from an intelligence organization responsible to Nasution; some stock in Jakarta was diverted. Suharto was told on 12 May that equipment was available and asked to designate officers for receipt. Technical briefings with Army logistics/communications officials took place on 2–3 June, and a further increment was approved on 24 June with covert delivery arranged. Details are redacted. This does not prove delivery of the whole network or operation across all 17 KODAM. Sources S033; revised C195; new C777–C779.
+
+### Japan's envoy channel and disputed message
+
+Garbagni's peer-reviewed multi-archive study (accepted manuscript read in full) says Sukarno requested Kawashima's mediation in late 1964 through Chow Chi Mo, and traces their rapport to the 1962 Asian Games. In April 1965 Kawashima conveyed an impression to Abdul Rahman that Sukarno would stop guerrilla activity; Rahman interpreted it as an assurance. Japanese diplomatic clarification found no formal undertaking. Garbagni leaves unresolved whether Kawashima deliberately exaggerated, misunderstood Sukarno, or was misrepresented by the Malaysian side. Her article challenges a confident “deliberate bluff” reading while itself offering an interpretation that the episode damaged Kawashima's credibility.
+
+The article's cited original files include MOFA telegrams 372 (19 April) and 1033 (24 April), a Malaysian record of Kawashima–Rahman conversation, British FO telegram 716 (22 April) and Saitō clarification records. The originals remain to be retrieved. Garbagni also interprets envoy diplomacy as a bid for a more active Japanese regional role linked to domestic diplomacy debates and economic/security interests; retain this as attributed analysis. Source S448; claims C780–C784.
+
+Search and coverage: Q250; CV287–CV290. Open tasks are itemized in global-gap-tracker.md.

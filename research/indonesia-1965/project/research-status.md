@@ -345,3 +345,12 @@ Original full 11-page Keppres20/1976 was read, documenting village-head 1977 vot
 Added contemporaneous FRUS d147 and d151–157 to trace U.S. policy recommendations, Army contacts, internal uncertainty and a three-radio transfer plan. Reconciled d155 with d175 without assuming the separately dated reports concern the same equipment. Added Japanese Diplomatic Bluebooks and ANRI archive locators, read Llewelyn's secondary reconstruction, and indexed Boden's study of Soviet/GDR records. The China arms claim remains disputed between S047 and S134; authorization, shipment and recipient receipt are not established by current evidence. The continuous HTML chapter was expanded, and the matrix, chronology, actor notes and gap log were updated.
 
 Archive after CSV cleanup: 441 sources; 769 claims; 249 search records; 286 coverage entries. GOAL remains open. Immediate next records: U.S. equipment receipts and serials; Japanese telegrams and ANRI items 274–276; cited Soviet/GDR originals; Chinese shipment/recipient records; individual Sukarno–Ratna letters.
+
+
+## Communications and envoy-diplomacy update — 2026-11-10
+
+Read FRUS d128, d129 and d141 in full, re-read d127, d155 and d175, and examined d211's redacted but detailed follow-up. The U.S. record now distinguishes the July commercial Philco proposal (the Army's rejection was reported by September) from the October hand-held radios and the 303 Committee's later covert communications process. The 303 approval date is inconsistent between d175's contemporaneous footnote and d211's later summary; it remains open. d155 names the request route through Colonel William G. Ethel and Nasution's liaison officer. A C-130 spare-parts transfer through Pakistan remains only an unverified U.S. report.
+
+Read Giulia Garbagni's peer-reviewed accepted manuscript on Japan's 1965 envoy diplomacy. It adds a Sukarno–Kawashima–Chow Chi Mo contact chain and disputes any confident claim that Kawashima deliberately bluffed Abdul Rahman: Garbagni finds a Japanese clarification but leaves intent unresolved. Her arguments about Japan's regional ambitions and economic interests remain attributed analysis.
+
+Archive totals after this pass: 446 sources; 782 claims; 250 search records; 290 coverage entries. GOAL remains open. Immediate follow-up: 303 Committee original minutes; Philco licence/contract and Army rejection; Pakistan C-130 part records; Japanese MOFA telegrams 372/1033 and associated British records; Indonesian receipts and operational logs for the 1966 HF network.
