@@ -312,3 +312,12 @@ S449从馆方摘要升级为**原始电报OCR全文打开、四页扫描中前�
 **G4/G5/G9 / 西加里曼丹声明归属仍未解决（B/C级）**：重开松村智雄2015年J-STAGE出版摘要 https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/en ，作者把10月动员归于Oevaang Oeray；现有9月21日广播冒名争议来自不同后出转述，不能合并成同一原始声明，也不能将两篇依赖相同口述的报道视作独立证据。仍缺RRI Pontianak节目单、播出稿、Oeray签署文本、Peperalda/Kodam XII命令、Kadir原访谈及《Tandjungpura Berdjuang》(1970) p270。此次未取得新的军令/广播原件，**未升级归责置信度**。
 
 **G2/G3/G5/G6/G7/G8/G10持续OPEN**：此项记录不构成各领域核实完成；按全局审计分别保留基层组织原刊、跨机关逐日命令、妇女幸存者口述、政治犯/流亡和工会重组、当代救济执行、外援交付及正式CSV去重/读者正文治理。由于正式CSV与chronology实际路径尚未定位，本次不冒险创建重名台账或虚构S/C/Q/CV编号。
+
+
+### 2026-11-10｜G4亚齐军区文件定位精化；G1澳洲拘押档案范围复核（持续OPEN）
+
+**G4 / Aceh（B级学者原件研究与C级图书节选，尚非本次独立打开军区原件）**：复核Jess Melvin于2015年发表的公开全文 https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide ，以及2018年著作出版者目录 https://www.routledge.com/The-Army-and-the-Indonesian-Genocide/Melvin/p/book/9781138347977 。前者直接展示作者拍摄的亚齐军方死亡地图，并解释1—5日部署、6日起公开杀戮、14日起军方控制地点的系统性杀戮、12月至1966年巩固四段；这些日期是作者对其收集军区档案的解释，不能当作本次已独立阅读地图全部图例和命令。公开可检书籍节选另给出具体原件名：**《Complete Yearly Report for Kodam-I/Kohanda Atjeh for the Year 1965》**（约250页打字稿，含89页Djuarsa报告）；**1965-10-11 West Aceh DPRD-GR特别会议纪要**（Meulaboh）；**1966-06-15 North Aceh县长T. Ramli Angkasah报告**（注意后出注释把会议年份误印为1965，须核原封面）。还提到1965-10-08 West Aceh Front Nasional宣言，目前研究者称尚未找回。以上书籍节选通过搜索索引读取，非可独立核实原始扫描；与S127、Melvin研究同一档案群，**不能作为独立佐证计数**。下一步优先向Banda Aceh原情报档案/地方档案与作者公开附录索取1965军区年报及10月11日会议逐页扫描，查签署者、发送对象、区县执行及地图数字的单位/定义；同时检索北苏门答腊军区的独立记录，防止Aceh代表全苏门答腊。
+
+**G1 / 1943荷兰—澳洲拘押（C级馆藏目录）**：再次核对悉尼大学OMAA https://omaa-arts.sydney.edu.au/texts/2271/ 的原目录元数据，Nationaal Archief 2.10.45/292题名明确为1943年Boven-Digoel政治犯拘押撤销决定及电报，标明**两件文书、限制访问**。同一网页较宽泛的馆藏摘要描述Casino/Lytton拘押、遣返、约560名已定罪荷属东印度军人的清单及一名Casino死者调查；这些描述**不等于卷宗292两件文书的逐件内容**。不得把约560名军人转化为政治流放者总数。澳大利亚国家档案馆二战拘押者研究指南 https://www.naa.gov.au/help-your-research/fact-sheets/world-war-ii-internee-alien-and-pow-records-held-sydney 已直接阅读，提供NSW拘押者检索卡片系列**C125/C126**，但没有直接证据表明这两套索引覆盖上述荷属东印度政治犯；只能作为新查找入口。须按人名/国籍/营地核对卡片是否收录，继而取得对应个人档案，不能据指南虚构名册。1927年第一批遣送原始船单仍缺。
+
+**G2/G3/G5/G6/G7/G8/G9/G10均保持OPEN**；正式CSV已确认在 `archive/records/` 而非项目根目录。此处记录的是来源定位、范围纠错与可执行原件入口，未新增可独立核实的历史行动事实，故不虚构S/C编号或修改正文。下一交叉区域为Flores/Ende 1967审查队任命和中苏拉威西2023—25救济签收，按全局审计持续纠偏。
