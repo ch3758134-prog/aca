@@ -576,3 +576,6 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 已读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09、global-gap-tracker、四份正式CSV及chronology。此前正式基线S466/C810/Q264/CV304；本次新登记S467-S468、C811-C812、Q265、CV305，已更新chronology及global-gap-tracker。直接打开ILO原始监督记录GB.270/7第425—442段、GB.276/7/1第226—230段；不同于未核实的政府原始卷宗，ILO文件确认的是国际委员会记载的政府陈述及委员会独立评价。1994年Medan28名工人刑罚、1999年Dita Sari释放、Komnas HAM启动Marsinah调查均需印尼原件独立复核。此次已重读NSA第1168及1290电报OCR，未取得扫描；1965 Palembang地点纠错继续保留。
 
 **精准续接**：①ILO第305次报告附录28名Medan被拘押者名单与印尼法院卷宗；②印尼总统Keppres 68/1999官方文本及Dita Sari释放记录；③Komnas HAM 1999 Marsinah调查原始结论及不同证词；④1965-10-21 SARBUMUSI/SOKSI联合声明、SOBSI冻结劳动部命令及NSA1168/1290扫描；⑤G4 Aceh、Bali、Flores、West Kalimantan、Sulawesi军令/县级名册与G1 Digoel船单。G1—G10仍OPEN，不以本次材料关闭。**本续接文件写入前最新成功提交SHA：5911e1f176327525f876409945388d15ae1a58de；本文件提交产生的最新SHA必须以GitHub写入返回及后续main核验为准。**
+## 2026-11-10｜接力：南苏拉威西与1999年特赦（GOAL OPEN）
+
+已核AGENTS、stage-access、goal-continuity、G1—G10审计、正式CSV、chronology和缺口总账。此次对既有S190的1965-11-12第1425号电报OCR重新核读，并直接打开印尼政府1999-07-02第68号总统决定，新增S469/C813-C814/Q266/CV306。精准未完：Bone/Watampone监狱原始拘押和死亡簿、Klaarwater/Kalwater身份及Arasoe糖厂名册、Makassar商铺损失、1425号原扫描；1998司法部长M.PW.07.03-483、检察总长K.268/A/E/12/1998、最高法院KMA/391/XII/1998原函及1999-07-05出狱簿。下次跨G1查1927 Boven-Digoel船单、跨G4查Aceh/Bali/Flores地方原件。G1—G10均OPEN；最新SHA以GitHub写入返回及main复核为准。
