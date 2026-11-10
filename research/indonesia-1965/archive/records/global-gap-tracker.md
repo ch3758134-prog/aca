@@ -328,3 +328,12 @@ S449从馆方摘要升级为**原始电报OCR全文打开、四页扫描中前�
 已直接打开美国驻棉兰领馆1965-12-06第183A号电报的馆藏OCR及原始扫描第2页（S377，https://nsarchive.gwu.edu/document/15715-document-19-telegram-183-american）。**关键文本纠错**：OCR把军方控制的Pramuka强制参加年龄读成8—15岁，原扫描清楚写的是**8 AND 13（8—13岁）**；正式C662已更正。电报还记录军方省级命令使县级军事指挥官主持Pantja Tunggal，称北苏门答腊国民阵线和记者协会被军方改组、报刊需Mokoginta批准、选定Hansip获武装。此为当时美领馆的观察/转述，不能推出全苏门答腊所有县和学校均已执行；尤其“将来延伸到每个村庄”是领事预测。下一步须北苏门答腊省军令、县Pantja Tunggal会议簿、1965年PWI改组名单、Pramuka学校通告与Hansip领枪签收记录；不可用棉兰代表Aceh或全岛。
 
 跨G项核对：Yosef Djakababa 2013《The Initial Purging Policies after the 1965 Incident at Lubang Buaya》出版社页已打开，https://journals.sagepub.com/doi/abs/10.1177/186810341303200302 ，其摘要明确区分初期清洗指令与直接杀人命令，并指出军方与亲苏加诺内阁指令并存；目前本次直接阅读的是摘要和参考书目，尚非逐页全文。该文引出KOTI Instruction No.22、T-0265/G-5/1965以及Flores/Ende 1967调查队地方执行差异；须查命令原文、发送日期、收件机关、实际拘押卷宗，不可把论文摘要当原始命令。**G1—G10全部仍OPEN。**
+
+
+### 2026-11-10｜G8外交协调原电报与G4/G5 Flores异地缺口
+
+**G8/A级美国原件**：直接阅读FRUS XXVI d184（1965-12-16国务院777号电报）全文及注释：https://history.state.gov/historicaldocuments/frus1964-68v26/d184 。国务院提出由美国驻雅加达大使评估与日本、西德大使非正式协调援助策略，英国、澳大利亚、新西兰保持知情。此为建议，尚无实际会议、拨款、交付证据；缺雅加达答复、东京/波恩外交原件和印尼签收。
+
+**G4/G5/C级仅摘要Flores/Maumere**：直接打开John Mansford Prior 2011 *The Silent Scream of a Silenced History: Part One*（Exchange 40(2):117–143）公开摘要：https://www.researchgate.net/publication/274531247_The_Silent_Scream_of_a_Silenced_History_Part_One_The_Maumere_Massacre_of_1966 。作者把Maumere杀戮定位1966年2—4月，估800—2000人，称军方推动、地方天主教徒既有加害者亦有受害者。全文不可读，估计数不是逐名统计；缺教区埋葬簿、军方原令、证人完整访谈。须区分Maumere 1966与Ende 1967，不可将数字推广Flores全岛。
+
+**G1—G10全部仍OPEN**：G1流放船单；G2群众组织基层档案；G3跨机关军令；G4各地军政/死亡记录；G5妇女宗教族群；G6政治犯与工会；G7幸存者救济；G8外国实际介入；G9人物地点关系；G10正式CSV去重与中文连续叙述。新增两项来源须先核正式台账再分配S/C编号。
