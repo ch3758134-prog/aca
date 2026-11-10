@@ -485,3 +485,8 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 **下一次直接执行**：①索取1965 Kodam-I/Kohanda Atjeh Complete Yearly Report及Djuarsa签署页，核军事行动地图每县死亡数字的定义；②索取1965-10-11 West Aceh DPRD-GR会议逐页纪要，辨认参与机关和1965-10-08 Front Nasional声明是否作为附件；③核1966-06-15 North Aceh T. Ramli Angkasah县长报告封面，排除后出脚注年份误植；④检索Nationaal Archief 2.10.45/292复制条件与澳大利亚NAA C125/C126中荷属东印度政治犯个人索引，逐名追踪Casino/Lytton；⑤转不同地区G4 Flores/Ende 1967审查队任命与G7中苏拉威西救济发放凭证，兼顾G2 SOBSI/BTI/Gerwani基层原件。
 
 **GOAL ACTIVE / OPEN-ENDED；G1—G10全部OPEN。** 仅单次执行边界暂停，未声称任何地域或历史时期已穷尽。
+
+
+## ONGOING / GOAL仍进行｜2026-11-10 北苏门答腊电报原件纠错
+
+正式来源S377和主张C662原位修订：1965-12-06棉兰第183A号电报原扫描第2页写**8—13岁**，此前OCR误识8—15岁。原件 https://nsarchive.gwu.edu/document/15715-document-19-telegram-183-american ，PDF第2页已目视核查；县级军政组织、PWI、国民阵线、Hansip内容是美国领馆所记录的报告与判断，尚缺印尼执行原件。跨G项已打开Djakababa 2013清洗政策论文的出版社摘要与引文目录，未把摘要升级成全文/军令。**下一动作**：①找北苏门答腊1965县Pantja Tunggal军方任命令；②找1965 Pramuka 8—13岁学校通知和PWI改组名单；③取Hansip枪械领用记录并按县定位；④取KOTI No.22、T-0265/G-5/1965原文，核Flores 1967执行；⑤轮换至Aceh 1965年报、Gerwani地方原刊、G7救济签收原件。此次更新的研究提交SHA以本次GitHub写入结果及随后main核验为准，状态文件不能预写自身提交SHA。长期GOAL未完成，G1—G10全部OPEN。
