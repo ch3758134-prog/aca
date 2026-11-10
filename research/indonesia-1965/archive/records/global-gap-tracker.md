@@ -132,3 +132,15 @@ David T. Hill 2020, https://doi.org/10.1163/22134379-bja10005 ，已在早期续
 - G4/G7：实际打开 Human Rights Watch 1997-12-01《Communal Violence in West Kalimantan》完整HTML：https://www.refworld.org/reference/countryrep/hrw/1997/23874 。报告基于1997年1月和7月地方访谈，1996-97年达雅克—马都拉冲突为直接调查对象；1967年达雅克针对华人的驱逐是回顾性背景。报告转述军方所称1967年约300死、逾55000人迁移，同时指出军方策动的说法尚须原始命令证实。1997年约500死、20000人流离失所为另一次冲突，不得与1967年合并。**访问等级：1997年机构完整报告已读；1967年军方原件、难民登记未读。**下一步：1967年Sanggau Ledo、Sambas、Singkawang、Pontianak原始命令与营地登记；对照1968年Antara报道及地方口述，审查共源引用。
 - G1：实际打开悉尼大学OMAA荷兰殖民档案目录：https://omaa-arts.sydney.edu.au/texts/2271/ 。荷兰国家档案馆Nationaal Archief馆藏2.10.45第292号、1943年，涉及Boven-Digoel政治拘押者及其家属在澳大利亚Casino、Lytton营地的羁押与遣返。**仅目录已读，原卷标注Restricted access，未读原件。**目录另提约560名受定罪荷属东印度军人的名单，不能误认为政治流放者人数。下一步请求荷兰馆藏2.10.45/292全文、澳大利亚营地人员名册与1943年委员会决定原件。
 - 两条来源与既有台账的编号需在提交正式CSV前按最新HEAD去重；本记录不是正式S/C注册。G1—G10全部OPEN。
+
+## G2/G9/G10｜从1954议会来文与两套国家档案馆目录，直追基层BTI/SARBUPRI原始会员和财政
+
+2026-11-10 已正式更新原有S133与新增S396—S398/C699—C703/CV255—CV258/Q240，正式chronology新增长期段落。与旧的SOBSI会员总数估算不同，此处已定位**可能含逐人会员名册、会费和账目的具体一手卷宗**，但本轮**未取得其原始文件页**。
+
+- **ANRI RA112（2025公开的BTI 1947—1965官方目录）**：原始PDF第33/34/37/38/143页（零基）截图直接核对，相关**印刷pp26–31和136**。第19号(中央1955/57财务报表)，21号(西爪哇1957会费)，37号(1958—65五个区/分支名册，含Benda Timur/Mampang Prapatan/Duren Tiga/Pasar Minggu/Bekasi)，38号(1962—65派往爪哇外和西伊里安干部)，33号(SARBUPRI 1963全爪哇/苏门答腊第三季度工作计划数字)，453号(1964-07-31 Eretan/Indramayu派学生研究者一页信函)。附件目录还列第17、18号经费/入会费及借贷。必须查卷宗正文才能称对真实会费、会员规模和干部工作有了解。目录原站 https://anri.go.id/download/ra-112.-inventaris-arsip-barisan-tani-indonesia-19471965-1770710472 。
+- **ANRI AVROS橡胶庄园业主协会官方目录（2009）**：政府PDF第一页原版截图读，第22号1953—54 SARBUPRI工会大会、内部备忘录及领导名单，14号1948—52庄园工会数量，4号1957雇主—P4D/P4P—工会争议及劳动条件函。可用雇主档案与工会运动叙述交叉，而不是将原始工会主张和实际工资合同混同。https://www.anri.go.id/download/ra-1.-avros-algemene-vereniging-van-rubberplanters-ter-oostkust-van-sumatra-1892-1985-1720074585 。
+- **DPR 1954-04-28原议会收信登记**：官方PDF文字可读取，但截图服务器403且OCR嘈杂。目录记Sumberwuluh和Nguter/Djarit的BTI土地/警察与庄园管理抗议，Kediri农民释放申诉，以及East Java SARBUPRI围绕1951紧急劳动法16/1951的反对决议、工会登记法争议。**这里只能确认议会曾登记来文，不等于证明地主/警方违法事实，也不等于议会已处理或通过诉求**。案卷no3215、3216、3231、3224、3226及3222—3223应查。https://berkas.dpr.go.id/arsip/file/Lampiran/leg_1-20210324-033649-8532.pdf 。
+- **Woolgar官方OUP2025书稿概述**提BTI/SOBSI/Lekra/Gerwani与党派关系中的层级、合作和自主性并存；只看书和第三章官方摘要（full ch3 paywall），索引脚注提供ANRI AVROS22 1954-04-29 SARBUPRI中央通知和ANRI Kabinet Perdana Menteri 1950–59 Jilid2第505号1954-08-28 Indramayu警方报告线索，后二者的档案正文均未取得。CIA同年SOBSI West Java PDF链接实际重定向至FOIA首页，**没有读取内容**。
+- **编号完整性更正**：项目曾在S338—S339/C562—C564并发冲突后留空，不能仅据编号空洞声称事实资料丢失。通过实际Git提交 `aaae0955f63fe552e2771a63aa7e492f45a2bdb5`（来源替换）与 `bccdad1b232beb524c387083bf3027209d2b7668`（主张替换），确认Stoler/Bourgois来源被重新登记为S340/S341；Delanggu官方史参考及UNY论文被重新登记S342/S343；事实内容转移到C575–C577和C565–C567。**旧空缺ID作历史保留，不可重用，也不应当作尚未回收的数据丢失。**
+
+精确下步①向ANRI RA112索第19、21、33、37、38、453号原件，记录全部带成员姓名材料的保管与获取限制；②向ANRI AVROS索第4、14、22号原件及确切1954-04-29中央通知；③向DPR索1954年4月BTI/SARBUPRI申诉原函及处理委员会会议记录，比较1951—57劳动法的实际改造；④获取Oxford官方开放2021硕士/博士研究全文或2025章节授权稿，检验其“群众组织非纯附属”的原始证据；⑤沿Soge/Indramayu、1954土地申诉与1964 BTI现场研究是否存在具名干部交叉，不能仅凭同一县名推定直接关系。G1—G10仍OPEN。
