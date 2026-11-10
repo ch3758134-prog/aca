@@ -593,3 +593,11 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 **精确续接**：1. 查1965年10—12月KOSTRAD、Diponegoro、Brawijaya及加里曼丹边境部队调令和旅番号，与CIA d176第6段交叉；2. 以东爪哇Blitar、Madiun等县拘押/部队进驻原件检验调动与行动关系，不能只依外交摘要；3. G4另查Aceh军区年报、Bali A-527原扫描、Flores教区登记、West Kalimantan军警与地方档案；4. G1 1927 Boven-Digoel运输名册；5. G2 SOBSI/BTI基层材料，G6/G7 1999 Dita Sari释放簿和Komnas HAM Marsinah案；6. G8英澳及马来西亚边境军情档案；7. G9人物地点组织索引与G10成熟连续正文。不得以本次编号或提交结束GOAL。
 
 本段记录的上一成功提交SHA为`cda3f3e3ee45961ee1f53875a8c760513409d11f`（缺口总账）；本状态文件自身提交后的最新SHA以GitHub返回及复核为准。
+
+## ONGOING / GOAL仍进行｜2026-11-11 亚齐军区与苏联军援跨G项续接
+
+已读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit、global-gap-tracker、正式四CSV及archive/records/chronology.md。核实正式CSV旧末号S470/C816/Q268/CV308，先去重：FRUS d177已存在S174，Aceh 2015 Melvin文章已存在S127。本次直接打开FRUS d178全文、d177全文，阅读Melvin 2018著作关于Aceh军区年报、10月14日Instr-1/10/1965和Ruang Yudha的部分章节。登记S471-S472、C817-C818、Q269、CV309；更新chronology和global-gap-tracker。S472与S127依赖同一批地方档案，不作为独立交叉核实；美国情报关于苏联武器供应与纳苏蒂安协议的说法尚无苏印原件。
+
+**精确接力动作**：①从KITLV/Leiden及Aceh档案取得Laporan Tahunan Lengkap Kodam-I/Kohanda Atjeh Tahun 1965原扫描及1965-10-14 Instr-1/10/1965；②取得1965-10-11 West Aceh DPRD-GR会议纪要和战时指挥室通信/值班记录，核县级被拘押者；③核对1965-11苏联驻印尼使馆报告、武器运输清单与印尼军方接收簿，不能把CIA推测当协议；④切换G4其他地区Bali A-527、Flores教区、West Kalimantan军警档案，G1 Boven-Digoel船单；⑤G6/G7工会/政治犯、G9人物关系、G10连续中文正文继续推进。
+
+本次已成功写入六份正式文件；**本状态文件写入前最新成功GitHub SHA：ee0421348b8d8b68cdc75dd8f296dd704c3b75a4**。本状态提交后的最终main SHA以GitHub返回并重新查询为准，不预写自身SHA。GOAL ACTIVE / OPEN-ENDED，G1—G10全部OPEN。
