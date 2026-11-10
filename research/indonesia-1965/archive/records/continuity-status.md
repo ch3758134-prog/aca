@@ -248,3 +248,11 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 已按AGENTS、goal-continuity、stage-access和completeness-audit G1—G10核对，正式CSV实际位于 **archive/records/**，纠正此前误报的404路径。已在正式台账去重后登记S376–S378、C661–C663、Q234、CV241，并扩充chronology和global-gap-tracker。原始研究来源：FRUS XXVI doc174（完整官方编辑转录）；NSA Medan telegram183A、509（OCR全文；未对照扫描）。历史内容：1965-06-06 Darjatmo以PEPELRADA/DWIKORA权力介入Tjahaja报；1965-11-14左右Pemuda Pancasila威胁及领事馆所获暴力报告；1965-12-06军方控制北苏门答腊县级行政、记者组织、青年组织与Hansip的报告。注意报道/威胁不等于已核实死者数量，拟议措施不等于所有地区执行。
 
 当前最新完成的正文/台账提交（本状态提交之前）：`8b227fc3e406741c28f51fe0d2a4eed54e8d5519`。下次从本状态提交SHA读取GitHub main HEAD并核对并发写入。直接续接：①Medan telegram509、183A逐页核对原扫描；②查1965-06-06 Darjatmo PEPELRADA行政令、Tjahaja报与省长禁令；③查1965-11-10 Medan报纸及Pemuda Pancasila受害人名单；④查1965-12北苏门答腊省/县Pantja Tunggal、Hansip、PWI和Pramuka实际命令；⑤转换地区至Sulawesi/Bone 1965-11-12美国电报原件及Watampone监狱档案，同时沿SOBSI 1965-10冻结→1968 MPBI持续追查。G1—G10均OPEN，不代表研究完成。
+
+## 2026-11-10｜连续续接：南苏拉威西—1995囚犯—1999幸存者组织
+
+长期GOAL ACTIVE / OPEN-ENDED；G1—G10全部OPEN。本次读取completeness-audit、stage-access、AGENTS、goal-continuity、正式四CSV、chronology及缺口总账。原main核验截至归档状态写入前提交：`0fbe8505d5afe0a09453b5159e706de47b1918a2`（此SHA是写入本段之前的main，写入本段会产生更新的提交）。
+
+本次正式S379、C664-C665、Q235、CV242；S311访问等级由摘要提升为官方3页原始PDF全文。原S190/C208复核Bone与Makassar但不重复编号。中文chronology增加1995政治犯分布和1999-2000幸存者组织连续段；global-gap-tracker登记独立性与缺口。
+
+**精准未完事项**：①G4 Bone/Watampone 1965-11拘押营、军警名册、墓地/地方新闻；Makassar 1965-11-10华商损失登记，对照1425电报原扫描第7页（当前仅OCR）；②G6 按S311官方1995名单逐人核Padang、Tanjung Gusta、Gunung Sari、Kalisosok等监狱收押/释放/判决，核1996 Amnesty后续报告；③G7 取YPKP 1965 1999-04-19成立登记、1999-11《Soera Kita》首刊、2000-11 Ndempes挖掘原始现场材料；④G2 1965-10-21反共工会声明与1968-69 MPBI原始名单；⑤G1 1926-27荷印审判与流放；G3 1965军区命令逐时交叉；G5 妇女幸存者个案；G8英澳中苏原件；G9具名关系表；G10正式CSV预登记冲突与主时间线整理。下一执行必须跨G项，不能只追熟悉劳动法。所有日期与数字保持原文来源级别，不推断已证实死亡总数。
