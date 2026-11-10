@@ -247,3 +247,12 @@ G6/G2长期线：1971 ILO Case 674 / SARBUMUSI相关材料仍未取得报告130�
 The original two-page U.S. Embassy airgram A-386 was visually checked. It records a local source's description of RPKAD coordination with Catholic, IP-KI and NU organizations in Kudus; Ansor attacks on PKI-designated persons and alleged non-PKI personal-feud victims; and a list of over 200 Baperki members said to have been furnished to the Army by Suhandjo. A separate 20-name Baperki leadership list and disappearance claims remain unverified. The source does **not** show that the United States furnished the Kudus list; distinguish it from the separate A-398/FRUS list transfer. Formal claims C143, C648–C649; revised coverage CV235; source S151; search Q251. The Bali estimate comparison was logged as C708/C786 and coverage CV261.
 
 Next evidence requests: (1) locate the Kudus list and its Army recipient/receipt; (2) identify the separate 20 Baperki leaders; (3) check Pati/Kudus Catholic Party, NU/Ansor, IP-KI and military records; (4) seek family, detention and property records for named individuals; (5) compare the local account with Indonesian press and court records. Until then, this is one informant-mediated report, not a regional census or command order.
+
+
+## 2026-11-10｜跨G项实核：ILO Case 674与东爪哇/巴厘档案入口
+
+**G2/G6：S200官方ILO Case674/1972 Report130**：通过ILO网站被搜索系统索引的英文第27—35段全文及西班牙、法语同文交叉核对，确定1971年6月12日穆斯林工会联合会申诉、4月23日致总统/最高法院备忘录、所列Tegal、Semarang、Cilacap、Pasuruan、Pekalongan、Madiun厂级工会指控、11月政府否认和委员会暂缓而非实体裁决。**访问等级：官方全文在搜索索引中可见，直接页面访问DisabledError；原备忘录/政府签章件/厂级记录均未打开**。下一步追ICFTU四周调查记录、工厂名册和1969劳动法执行。C787/CV291。
+
+**G4/G5：S449，1965-12-22泗水电报203**：NSA馆方说明已读，提到东爪哇夜间拘押者移交及巴厘华人商铺焚烧；**等级C：馆方摘要，原电报全文/扫描未读**。未将馆方所述10—15人每夜转为事实人数。下一步读原扫描并查泗水军警拘押、巴厘华商/地方报纸。C788/CV292。
+
+**跨G1—G10缺口不关闭**：G1 Boven Digoel遣送册、G3跨机关原命令、G4 Aceh/Sulawesi/Flores县级暴力、G5女性/华人经历、G6工会组织与监禁、G7 2023—26实际救济、G8外国物资接收、G9人物/组织/地点索引、G10真正连续历史与证据去重仍OPEN。
