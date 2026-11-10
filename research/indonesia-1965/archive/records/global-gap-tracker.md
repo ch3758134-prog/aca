@@ -321,3 +321,10 @@ S449从馆方摘要升级为**原始电报OCR全文打开、四页扫描中前�
 **G1 / 1943荷兰—澳洲拘押（C级馆藏目录）**：再次核对悉尼大学OMAA https://omaa-arts.sydney.edu.au/texts/2271/ 的原目录元数据，Nationaal Archief 2.10.45/292题名明确为1943年Boven-Digoel政治犯拘押撤销决定及电报，标明**两件文书、限制访问**。同一网页较宽泛的馆藏摘要描述Casino/Lytton拘押、遣返、约560名已定罪荷属东印度军人的清单及一名Casino死者调查；这些描述**不等于卷宗292两件文书的逐件内容**。不得把约560名军人转化为政治流放者总数。澳大利亚国家档案馆二战拘押者研究指南 https://www.naa.gov.au/help-your-research/fact-sheets/world-war-ii-internee-alien-and-pow-records-held-sydney 已直接阅读，提供NSW拘押者检索卡片系列**C125/C126**，但没有直接证据表明这两套索引覆盖上述荷属东印度政治犯；只能作为新查找入口。须按人名/国籍/营地核对卡片是否收录，继而取得对应个人档案，不能据指南虚构名册。1927年第一批遣送原始船单仍缺。
 
 **G2/G3/G5/G6/G7/G8/G9/G10均保持OPEN**；正式CSV已确认在 `archive/records/` 而非项目根目录。此处记录的是来源定位、范围纠错与可执行原件入口，未新增可独立核实的历史行动事实，故不虚构S/C编号或修改正文。下一交叉区域为Flores/Ende 1967审查队任命和中苏拉威西2023—25救济签收，按全局审计持续纠偏。
+
+
+### 2026-11-10｜G4/G6 北苏门答腊原始电报OCR校正；G3/Flores异地对照
+
+已直接打开美国驻棉兰领馆1965-12-06第183A号电报的馆藏OCR及原始扫描第2页（S377，https://nsarchive.gwu.edu/document/15715-document-19-telegram-183-american）。**关键文本纠错**：OCR把军方控制的Pramuka强制参加年龄读成8—15岁，原扫描清楚写的是**8 AND 13（8—13岁）**；正式C662已更正。电报还记录军方省级命令使县级军事指挥官主持Pantja Tunggal，称北苏门答腊国民阵线和记者协会被军方改组、报刊需Mokoginta批准、选定Hansip获武装。此为当时美领馆的观察/转述，不能推出全苏门答腊所有县和学校均已执行；尤其“将来延伸到每个村庄”是领事预测。下一步须北苏门答腊省军令、县Pantja Tunggal会议簿、1965年PWI改组名单、Pramuka学校通告与Hansip领枪签收记录；不可用棉兰代表Aceh或全岛。
+
+跨G项核对：Yosef Djakababa 2013《The Initial Purging Policies after the 1965 Incident at Lubang Buaya》出版社页已打开，https://journals.sagepub.com/doi/abs/10.1177/186810341303200302 ，其摘要明确区分初期清洗指令与直接杀人命令，并指出军方与亲苏加诺内阁指令并存；目前本次直接阅读的是摘要和参考书目，尚非逐页全文。该文引出KOTI Instruction No.22、T-0265/G-5/1965以及Flores/Ende 1967调查队地方执行差异；须查命令原文、发送日期、收件机关、实际拘押卷宗，不可把论文摘要当原始命令。**G1—G10全部仍OPEN。**
