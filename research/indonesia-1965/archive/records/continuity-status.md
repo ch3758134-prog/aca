@@ -350,3 +350,11 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式四CSV、chronology及缺口总账。研究状态research-status.md在预期路径404，未伪称已读。直接打开National Security Archive第1485号电报页面、OCR、三页PDF并目视核对扫描第2页：1965-11-18格林报告雅加达反G30S委员会中穆斯林、基督教政党与PNI右翼同军方松散合作，且据Mokoginta意见推测军方不会支持自由政党/工会。原电报第1页是撤回通知，关键棉兰289号电报未得；不把使馆预测等同已执行的军方命令。新登记S425/C747/Q247/CV280，chronology和G总账补充。另一高价值G1/G4缺口仍未获得1927 Boven Digoel原遣送册与1967西加里曼丹军令，不能凭目录填充。
 
 **精准续查**：①美国驻棉兰1965-11电报289、control642A原扫描，核对Mokoginta引述；②雅加达反G30S行动委员会1965年10—11月成立文书及宗教党/PNI右翼名单；③SOBSI各产业工会停职/资产移交地方命令与1968工会联合原章程；④ANRI/荷兰国家档案Boven Digoel 1927遣送册、2.10.45/292；⑤West Kalimantan 1967迁徙命令和收容营名册，与2023—26 LPSK地区救助统计分别推进。G1—G10全部OPEN，GOAL ACTIVE / OPEN-ENDED。最终main HEAD必须以GitHub实际提交后核验为准。
+
+## 2026-11-10｜ONGOING / GOAL仍进行｜棉兰184A与G1跨年代缺口
+
+已读取G1—G10审计、项目授权、长期GOAL、正式四CSV、chronology和缺口总账；research-status.md预期路径不存在，未虚称已读。沿S425电报的北苏门答腊政治社会链继续核查：直接打开NSA的1965-12-06棉兰184A电报OCR并目视核对原始扫描第1页。**S426/C748/Q248/CV281正式登记成功**，chronology及G总账已更新。电报的Muhammadiyah关联匿名线人转述与领事关于NU和当地舆论的推断明确分离；尚无当地讲稿、宗教组织正式指令或被害者名单，不能宣称全国宗教组织统一下令杀戮。
+
+不同G项G1已尝试Boven Digoel 1927遣送名单检索，未取得原册；既有1943荷兰馆藏目录不能替代。下步直接执行：①寻找棉兰1965年Muhammadiyah/NU分会通告与清真寺布道原始印尼语记录；②核1965年12月地方军方/警察与实际拘押、杀戮名册；③继续索取棉兰289号电报和Mokoginta讲话原文；④在ANRI与荷兰Nationaal Archief定位1926—28 Boven Digoel运输、殖民警察、判决原册；⑤转换G2的Gerwani/BTI地方原始刊物与G7 2023—26救济执行原账。所有G1—G10仍OPEN。
+
+写入此状态前最新已成功提交的缺口总账 SHA：**7221f741200832bc52a330229aacaeea5fbc5c55**。此状态文件本身提交SHA须以后续实时GitHub main核验为准，不能在自身提交前虚填未来SHA。
