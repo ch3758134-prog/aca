@@ -446,3 +446,11 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 已读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、global-gap-tracker和本状态。前次正式登记至少S453/C795/Q256/CV296。已重读S453期刊摘要并尝试PDF（Timeout）；印尼语UPI论文馆藏与Aju 2017地方图书目录仅见摘要/目录，未获得原始广播、军令或论文全文。新发现Aju馆藏说明声称1967年RRI Pontianak播报冒用Oevaang Oeray名义，可能与松村摘要所述其发表声明有冲突；尚未取得双方引用的原始文件，不能裁定。新线索已写入统一缺口总账，**未将目录当作原件、未增加正式S/C编号**。本次尝试读取正式CSV和chronology的仓库根目录相对路径返回404，需首先定位实际目录后再执行去重登记和正文更新，不得声称已更新。研究内容成功提交SHA：`7cad9b473ab3e6fe72d9ce8c3a17fdd71b6e56e3`。
 
 **精确下一动作**：①定位四CSV和chronology实际路径，读取最新ID及来源重复项；②获取J-STAGE 2015论文PDF第45—63页与UPI论文开放章节、参考书目；③查Aju 2017书中RRI Pontianak广播的日期/引文/档案出处，核Oeray本人声明、军方借名与后世转述三种可能；④索取Kodam XII/Peperalda 1967命令、迁移名册与难民营记录；⑤跨G1追1927 Boven Digoel原册，跨G2追SOBSI/BTI/Gerwani原刊，跨G6追SARBUMUSI工厂记录，跨G7追Sulteng援助签收；⑥完成台账后扩写中文连续历史正文。**GOAL ACTIVE / OPEN-ENDED；G1—G10全部OPEN。** 本状态自身最终SHA以提交返回与main核验为准。
+
+
+## 2026-11-10｜ONGOING / GOAL仍进行｜广播归属与殖民流放跨G续接
+已重读AGENTS、stage-access、goal-continuity、G1—G10 completeness-audit、四正式CSV（仓库实际路径为research/indonesia-1965/archive/records/）、chronology与缺口总账；先前404是路径定位错误。直接阅读2018 Fachrurazi/Atmaja作者上传书第51—53页、2018 Tirto文章、J-STAGE 2015松村摘要；后两篇相关报道与前者共享2017 R. Masri Sareb Putra线索，不能当三份独立原始证据。2018书第52页承认1967-09-21广播是否Oeray本人所发未知；第53页提供Semdam XII/Tanjungpura 1970《Tandjungpura Berdjuang》p270入口。J-STAGE日文PDF直接访问仍失败。另打开荷兰国家档案馆首页，但未取得1927年Boven Digoel原始遣送名单。均已登记在长期缺口总账，**没有虚构S/C或修改正式CSV/chronology**；新材料不足以确定广播责任，暂不进入确定性历史正文。
+
+**已成功写入缺口总账的研究提交SHA：b22671249d83afc1bb3ed41e4f31fe5e1fa3b74b**；本状态自身的提交SHA无法在同一提交内容中预知，须以本次GitHub返回和main核验为准。
+
+下一次精准行动：①索取《Tandjungpura Berdjuang》(Semdam XII/Tanjungpura,1970) p270及1967-09-21 RRI Pontianak节目单/录音/播出稿；②取得R. Masri Sareb Putra《101 Tokoh Dayak yang Mengukir Sejarah 2》(2017) p114、松村智雄2015日文全文45—63页并检查双方引用原件；③获取1967-10-11村长会议原始通知及Peperalda/Kodam XII军令、Sanggau Ledo/Anjungan/Mandor/Menjalin迁移名单；④跨G1用荷文“Boven-Digoel geïnterneerden transport 1927 namenlijst gouvernementsbesluit”检索荷兰国家档案馆具体卷宗和扫描；⑤跨G2/G6恢复SOBSI与1971 SARBUMUSI厂级原件，跨G7取得中苏拉威西2023—26救济签收和拨款记录。G1—G10全部OPEN，GOAL ACTIVE / OPEN-ENDED。
