@@ -439,3 +439,10 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 已读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、四正式CSV、chronology、global-gap-tracker。正式追加S453/C795/Q256/CV296；S453是J-STAGE出版社摘要级，**未读日文PDF全文**。新核对既有S385 HRW 1997全文及S159 FRUS d230原始备忘录，均不重复登记。1967西加里曼丹Oevaang Oeray及红碗动员的解释尚缺地方原件；1967援助审批与实际交付必须拆开。正文仅增加带限定的连续叙述，不建立列表HTML。
 
 **精确未完动作**：①下载并逐页读Matsumura 2015日文PDF pp45—63，追Oeray 1967-10原始声明、Kodam XII军令和达雅克反对动员的地方材料；②西加里曼丹1967年华人迁移及死者/难民名册，区分S232与S385同源；③FRUS d230中1967年援助审批、承诺、实际拨付与印尼签收凭证，追2月23—24日阿姆斯特丹会议；④转G1 Boven Digoel 1927遣送原册、G2 SOBSI/BTI/Gerwani原刊、G3跨机关命令、G6政治犯及工会、G7救济签收、G9人物地区索引、G10历史正文排序。**GOAL ACTIVE / OPEN-ENDED，G1—G10全部OPEN。** 本段写入前最新已成功提交研究台账SHA：332779d24eb688f468ec8417491236aa04143c21；本状态提交自身SHA以GitHub返回值为准。
+
+
+## 2026-11-10｜长期GOAL继续OPEN：西加里曼丹广播归属冲突与跨G续查
+
+已读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、global-gap-tracker和本状态。前次正式登记至少S453/C795/Q256/CV296。已重读S453期刊摘要并尝试PDF（Timeout）；印尼语UPI论文馆藏与Aju 2017地方图书目录仅见摘要/目录，未获得原始广播、军令或论文全文。新发现Aju馆藏说明声称1967年RRI Pontianak播报冒用Oevaang Oeray名义，可能与松村摘要所述其发表声明有冲突；尚未取得双方引用的原始文件，不能裁定。新线索已写入统一缺口总账，**未将目录当作原件、未增加正式S/C编号**。本次尝试读取正式CSV和chronology的仓库根目录相对路径返回404，需首先定位实际目录后再执行去重登记和正文更新，不得声称已更新。研究内容成功提交SHA：`7cad9b473ab3e6fe72d9ce8c3a17fdd71b6e56e3`。
+
+**精确下一动作**：①定位四CSV和chronology实际路径，读取最新ID及来源重复项；②获取J-STAGE 2015论文PDF第45—63页与UPI论文开放章节、参考书目；③查Aju 2017书中RRI Pontianak广播的日期/引文/档案出处，核Oeray本人声明、军方借名与后世转述三种可能；④索取Kodam XII/Peperalda 1967命令、迁移名册与难民营记录；⑤跨G1追1927 Boven Digoel原册，跨G2追SOBSI/BTI/Gerwani原刊，跨G6追SARBUMUSI工厂记录，跨G7追Sulteng援助签收；⑥完成台账后扩写中文连续历史正文。**GOAL ACTIVE / OPEN-ENDED；G1—G10全部OPEN。** 本状态自身最终SHA以提交返回与main核验为准。
