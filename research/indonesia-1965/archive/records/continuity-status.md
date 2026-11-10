@@ -497,3 +497,5 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 已重读AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit G1—G10、四份正式CSV、chronology和缺口总账。当前正式最大编号S454/C796/Q257/CV297。本次直接打开美国国务院1965-12-16 FRUS d184原始电报，确认只是美方提出同日本、西德大使协调援助的建议；没有实施证明。跨G4/G5打开Prior 2011 Maumere论文摘要，作者报告1966年2—4月800—2000死亡估计和宗教共同体内部暴力，全文未读、原始死亡名单缺失。两条均已写入缺口总账，不能当作完整证据链。
 
 精确续查：①检索FRUS d184的雅加达答复与1965-12-15 Jakarta 1780，核日本西德会谈是否实际发生；②查日本外务省和德国政治档案1965-12印尼援助会议及签收；③取得Prior Exchange 40(2)117—143页、Maumere教区死亡簿、军区命令，核估计口径；④恢复Aceh 1965军区年报及Flores Ende 1967审查队；⑤转换G2 SOBSI/BTI/Gerwani原刊与G7救济签收。正式CSV去重核实后方可分配新编号。G1—G10全部OPEN。最近提交SHA以本次GitHub返回值和随后main HEAD为准，状态文件无法预知自身SHA。
+
+**本次正式台账与chronology最后研究提交SHA：9d88abad541a63fe95a9f5abd94e953d5f9210fd**。新增S455—S456、C797—C798、Q258、CV298；均按已打开全文/摘要的不同等级登记。最终main HEAD以GitHub核验为准。
