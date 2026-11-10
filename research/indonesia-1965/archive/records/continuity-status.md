@@ -433,3 +433,9 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 **本次最后一个已成功写入研究内容的提交：da10d143760e7f129654b9955fc1e546865d3b9d**。本续接状态文件的提交SHA须以GitHub update返回值为准（提交无法在自身内容中预先包含自己的SHA）。
 
 精准未完动作：①核1966紧急援助实际运输与印尼签收，及1967五角大楼军民合作评估和后续交付；②找1967年苏哈托五名经济顾问的任命与政策会议原件，不以美国大学履历推断控制关系；③查1965年Pasuruan/Assembagus/Tulungagung军区拘押、移交和村级死亡记录，区别NSA电报消息人士与执行档案；④转G1查1927 Boven Digoel原始遣送名册和1943澳洲羁押卷宗；⑤转G7查2023-2025中苏拉威西受害者救助S450/S451所载450人/145户与“450户”口径冲突，获取匿名签收及拨款核验。G1—G10均OPEN，禁止将此视为阶段结束。
+
+## 2026-11-10 连续接力｜G4/G5西加里曼丹与G8援助
+
+已读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、四正式CSV、chronology、global-gap-tracker。正式追加S453/C795/Q256/CV296；S453是J-STAGE出版社摘要级，**未读日文PDF全文**。新核对既有S385 HRW 1997全文及S159 FRUS d230原始备忘录，均不重复登记。1967西加里曼丹Oevaang Oeray及红碗动员的解释尚缺地方原件；1967援助审批与实际交付必须拆开。正文仅增加带限定的连续叙述，不建立列表HTML。
+
+**精确未完动作**：①下载并逐页读Matsumura 2015日文PDF pp45—63，追Oeray 1967-10原始声明、Kodam XII军令和达雅克反对动员的地方材料；②西加里曼丹1967年华人迁移及死者/难民名册，区分S232与S385同源；③FRUS d230中1967年援助审批、承诺、实际拨付与印尼签收凭证，追2月23—24日阿姆斯特丹会议；④转G1 Boven Digoel 1927遣送原册、G2 SOBSI/BTI/Gerwani原刊、G3跨机关命令、G6政治犯及工会、G7救济签收、G9人物地区索引、G10历史正文排序。**GOAL ACTIVE / OPEN-ENDED，G1—G10全部OPEN。** 本段写入前最新已成功提交研究台账SHA：332779d24eb688f468ec8417491236aa04143c21；本状态提交自身SHA以GitHub返回值为准。
