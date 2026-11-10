@@ -369,3 +369,6 @@ New material covers U.S. Embassy/State contact proposals and a specific radio tr
 Open work: establish recipient and serial numbers for October U.S. radios; obtain original Japanese, Russian, GDR and Chinese archival records; read ANRI items 274–276; inspect the Sukarno–Ratna letters; resolve the China arms shipment/receipt dispute; continue broader Indonesian, regional and foreign records beyond 1965. See global-gap-tracker.md and 1965-foreign-channels-us-prc-soviet-japan-20261110.md.
 
 Previous continuity entries remain historical snapshots, not current completion claims. Record the final commit SHA after the main-branch update succeeds.
+
+
+Research update commit recorded after verification: 533db4cf133541b7d7f05ba02a36a9cb190cb829 (based on 06412322c48f7658a64eeef190558b83785200c1). This continuity note is a follow-on bookkeeping commit.
