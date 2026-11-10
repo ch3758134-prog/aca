@@ -230,3 +230,7 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 - 接续旧有跨G项缺口：Boven Digoel殖民流放名单，1948劳资与村级政治，1966后军区拘押劳动及1998—2026工会、政党和历史追责，不能固定只追这三份美方电文。
 
 **本次最新正式搜索提交**：ef513c4af911e3fc29fd6f2b6bc24308cd0045b6。下次读取实时HEAD替换，不以本SHA作为永恒终点。任务**ACTIVE / OPEN-ENDED**。
+
+## GOAL持续接力｜2026-11-10，Maumere—Kemarau证词与工会链交叉核验
+
+读取G1—G10审计及长期缺口总账后，本次并行推进1968—73 MPBI组织链与G4/G5/G6 Maumere、Bangka/Kemarau地方镇压拘押。新S375/C658—C660/Q233/CV240；实际打开Komnas HAM 2012调查声明**非官方英译PDF全文**，并复核既存S368 UNDIP 2018论文开放部分。机构声明访问349名证人/受害者；2012-05-09报刊报道3500，统计分母或阶段未明。Maumere Wairita至少15、Flores Timor Kampung押来84、Gelinting约500为不同性质的证人描述，不能直接加总。Bangka 1965-10-27传唤—CPM—Belinyu运煤船—Kemarau是证人回忆，尚无军警/船舶原件。英文译文Denpasar/South Sumatra地理错误须核原印尼语。GSBI组织自述网页直接打开被拦截，不能当已读全文。继续执行：①印尼语Komnas HAM声明及Maumere原BAP、KOMOP名册；②Bangka CPM与Belinyu航运、Kemarau囚犯记录；③Hidajat Seabad Gerakan p138、1968-06-20九工会会议签到、1968-10-25二十一组织声明、1969-11-03 Suara Merdeka；④转G1 Boven Digoel人名册和G7 1998—2026工会原件；⑤整理日期排序主时间线及成熟HTML。正式写入文件后最近已知提交SHA见本次GitHub提交返回，最终main HEAD须实时核验；**GOAL ACTIVE / OPEN-ENDED，未完成。**
