@@ -584,3 +584,12 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 ## 2026-11-10｜续接：G4东努沙登加拉与G1 Digoel（持续OPEN）
 
 已读取AGENTS、stage-access、goal-continuity、2026-11-09完整性审计、正式四CSV、chronology和缺口总账。再次直接打开既有S143 A-65（1966-08-03）美国外交原始OCR（https://nsarchive.gwu.edu/media/15729/ocr）：James Fox转述1966年1/2月Roti处决两名干部，3月Roti约40—50人及Sawu约30人；800—1000估计不包括Flores，Timor 30000传闻被其质疑。未核对原扫描，未取得地方死亡簿。交叉打开既有S400 FRUS编者注（https://history.state.gov/historicaldocuments/frus1964-68v26/d162），其中A-527 Bali 80000与A-641全国不确定性仅为编者引用，不冒充原电报。G1荷文Boven-Digoel 1927运输名册未取得。正式新增C815/Q267/CV307；既有S143/S400不重复建源。已写入claim-ledger/search-log/coverage-matrix/chronology/global-gap-tracker。精准后续：A-65扫描逐页核读、Roti/Sawu军警及教区登记、Fox原田野笔记；Flores单独查教区；查Bali A-527原件；查Digoel 1927船名和殖民运输簿；并继续其他G1—G10缺口。此前五文件提交后HEAD为1a68141b2535158873fcb14e3fa570bf5afa50ac；本状态文件自身提交的SHA须以GitHub返回值及main复核为准。长期GOAL ACTIVE/OPEN-ENDED，G1—G10全部OPEN。
+
+
+### 2026-11-11｜持续GOAL接力：跨G4/G8部队调动证据，未完成
+
+已读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit、四份正式CSV、chronology、global-gap-tracker；research-status.md不存在。正式新增S470/C816/Q268/CV308；已在chronology与缺口总账追加连续中文段落。美国CIA OCI 2942/65（1965-11-18，FRUS XXVI d176）全文核实：声称一个旅已从马来西亚对抗战区调往中/东爪哇，但未列部队番号、印尼军令或地方行动；属美国同期情报判断，不能证明该旅参与具体镇压。FRUS d174原有S371/S376重复，d175已有S031，未重复建源。G1—G10全部OPEN。
+
+**精确续接**：1. 查1965年10—12月KOSTRAD、Diponegoro、Brawijaya及加里曼丹边境部队调令和旅番号，与CIA d176第6段交叉；2. 以东爪哇Blitar、Madiun等县拘押/部队进驻原件检验调动与行动关系，不能只依外交摘要；3. G4另查Aceh军区年报、Bali A-527原扫描、Flores教区登记、West Kalimantan军警与地方档案；4. G1 1927 Boven-Digoel运输名册；5. G2 SOBSI/BTI基层材料，G6/G7 1999 Dita Sari释放簿和Komnas HAM Marsinah案；6. G8英澳及马来西亚边境军情档案；7. G9人物地点组织索引与G10成熟连续正文。不得以本次编号或提交结束GOAL。
+
+本段记录的上一成功提交SHA为`cda3f3e3ee45961ee1f53875a8c760513409d11f`（缺口总账）；本状态文件自身提交后的最新SHA以GitHub返回及复核为准。
