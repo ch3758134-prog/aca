@@ -474,3 +474,14 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 **精确续接位置**：G1已直接打开悉尼大学OMAA馆藏目录 https://omaa-arts.sydney.edu.au/texts/2271/ ，确认Nationaal Archief 2.10.45 item 292 (1943)，restricted，尚未读取档案两件原文；1927年第一批运输的出发/抵达须核荷文航运原始记录。G4已复核松村2015 J-STAGE摘要；1967年9月21日广播和10月声明是否同件、Oeray是否授权均未解决。
 
 **立即执行的动作**：① 在GitHub通过仓库树/目录检索定位四份正式CSV、chronology及readable-history真实路径，读取末尾编号、检查重复；② 以Nationaal Archief 2.10.45/292检索馆藏原页/请求复制，区分1943解除拘押决定与约560名军事人员名单；③ 荷文搜 `1927 Boven Digoel eerste transport Reteh passagierslijst februari maart` 和殖民政府决定；④ 印尼语搜 `RRI Pontianak 21 September 1967 naskah siaran Oevaang Oeray`，取得原播出稿/签署文件；⑤ 转至不同G项的Aceh/Flores原始军令或Gerwani基层原刊及2023—2026救济实际发放记录，避免G1/G4独占调查。
+
+
+## ONGOING / GOAL仍进行｜2026-11-10 亚齐原件定位与澳洲流放档案范围校正
+
+已重读AGENTS、stage-access、goal-continuity、G1—G10完整性审计、缺口总账、正式四CSV末尾与chronology开头；**确认正式文件均位于research/indonesia-1965/archive/records/**，不再沿错误的项目根目录路径查找。正式最新编号仍为S454/C796/Q257/CV297，本次没有取得足以正式追加的新原始事实。新调查内容已成功写入global-gap-tracker，提交SHA **8dac267f65f2a75f05360d469c9497f2ea900d32**；本状态文件自身提交SHA以GitHub返回和main独立核验为准，不能预先写入自身SHA。
+
+**当前实质证据链**：G4 Aceh军方档案的可索取文件已细化为1965 Kodam-I/Kohanda Atjeh完整年报（约250页，Djuarsa报告约89页）、1965-10-11 Meulaboh西亚齐议会特别会议纪要、1966-06-15北亚齐县长报告。现阶段仅Melvin的研究全文与书籍搜索节选，尚未独立取得军方原件；书籍注释中的北亚齐会议日期可能印错为1965，先核原页再用。G1 Nationaal Archief 2.10.45/292是1943年两件撤销拘押决定/电报，不可把OMAA页面约560名军人目录描述并入这两件政治犯文件。澳大利亚国家档案馆NSW拘押索引C125/C126仅是检索入口，是否收录荷属东印度政治犯尚未证明。
+
+**下一次直接执行**：①索取1965 Kodam-I/Kohanda Atjeh Complete Yearly Report及Djuarsa签署页，核军事行动地图每县死亡数字的定义；②索取1965-10-11 West Aceh DPRD-GR会议逐页纪要，辨认参与机关和1965-10-08 Front Nasional声明是否作为附件；③核1966-06-15 North Aceh T. Ramli Angkasah县长报告封面，排除后出脚注年份误植；④检索Nationaal Archief 2.10.45/292复制条件与澳大利亚NAA C125/C126中荷属东印度政治犯个人索引，逐名追踪Casino/Lytton；⑤转不同地区G4 Flores/Ende 1967审查队任命与G7中苏拉威西救济发放凭证，兼顾G2 SOBSI/BTI/Gerwani基层原件。
+
+**GOAL ACTIVE / OPEN-ENDED；G1—G10全部OPEN。** 仅单次执行边界暂停，未声称任何地域或历史时期已穷尽。
