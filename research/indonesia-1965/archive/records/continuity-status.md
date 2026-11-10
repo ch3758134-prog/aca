@@ -280,3 +280,9 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 此前私人手稿1970年超过52,857公顷数据进一步定位到《Penyuluh Land Reform》**1970年10(6):13—14**书目(S392)，STPN2022研究确定多个可能老刊馆藏机构(S393)，尚未取得期刊本页，不能确认私人手稿与刊本完全一致。1970年原件的精确请求优先项仍OPEN。
 
 **下次按可直接执行原件清单追：** ①向STPN/ATR-BPN/ANRI/Trisakti借1970 Penyuluh Land Reform 10(6) pp13-14影印，核“Penertiban tanah-tanah pengungsi Tjina di Kalimantan Barat”与面积定义；②查1964—70土地改革特别法庭任命名单、农民群众组织身份、开庭/转案卷宗及1967最高法院信6/KM/845/M/A/III/67；③ Bagak PPKR 1981—1991 BRI贷款与农户地籍、1989邻村800公顷移民许可证、1967原华人土地名册；④ 查西加里曼丹1967 Witono停令及1968政府难民表原卷；⑤每次再选一个不同地区或G项追，防止连续多次仅集中土地法。所有书目/摘要不得冒充已读原件；GOAL继续ACTIVE，依最新HEAD接力。
+
+## ONGOING / GOAL仍进行｜2026-11-10续接
+
+已核验两条不同G项：G4/G7西加里曼丹1967暴力与1997年HRW实地调查的回溯关系；G1 Boven-Digoel 1943年荷兰档案2.10.45/292（仅馆藏目录，原卷受限）。完整来源和未决问题见global-gap-tracker.md最新节。当前已成功提交缺口总账：bbfe82c9a0d4afb3b72ae772fd917c04af232e90。**正式CSV、chronology和中文历史正文在此次执行尚未更新；不可宣称已登记新S/C编号。**
+
+精确下一步：(1)重新读取正式source-register、claim-ledger、search-log、coverage-matrix的最新尾行，检查HRW 1997及OMAA 1943是否已存在并去重；(2)正式登记来源、主张、检索和覆盖，更新chronology中的1967与1943背景；(3)获取1967年Sambas/Singkawang/Pontianak救济统计与军区命令，对照1997年HRW追述和1968年Antara报道；(4)请求Nationaal Archief 2.10.45/292和Casino/Lytton营地名单；(5)继续SARBUPRI 1954年议会请愿与AVROS原始卷宗的现行长期链。所有G1—G10保持OPEN。
