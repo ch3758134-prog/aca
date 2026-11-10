@@ -531,3 +531,9 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 已读取AGENTS、stage-access、goal-continuity、2026-11-09完整性审计G1—G10、正式四CSV、chronology、global-gap-tracker和本状态。**正式新登记S458/C800/Q260/CV300**；原有AURI文书已经是S131，不能重登。实际目视核对AURI PDF第3页为NSA封面，不是第三张印尼语原始文件；真正原件仅PDF前两张（原页码4—5），原页1—3仍缺。Gerwani数字档案1958年Ratu Aminah Hidajat原刊文字转录已打开，但未核原版影像，不能将其自述组织联系当作独立执行事实。Jess Melvin 2018著作全文已打开，书引原始Aceh档案尚未独立取得。
 
 **精准续接**：①取1958 *Women of the Whole World* 第52—53页印本，核Hidajat职务与活动日期，逐期检查《Api Kartini》1959—64原刊文章而非只看目录；②追AURI 051/ch/Pr/i/65原页1—3、Sarwo Edhie 10月23日联合参谋组任命、10月27日行动令和Solo医院记录；③从Melvin 2018书中精确定位1965 Aceh军区年度报告、1965-10-11 Meulaboh会议和1966-06-15北亚齐报告，取得档案原页；④轮换G1 Boven-Digoel船单、G6 1970—98劳工/拘押、G7 2023—26救济交付、G8日德援助执行、G9人物组织空间关系。当前写入时的已确认前序Git提交为509574e24cfc00ccce919407c177bb6bd29faee7；**本状态自身提交SHA应以GitHub返回及main HEAD独立核对为准，不可预填未来SHA**。GOAL ACTIVE / OPEN-ENDED，G1—G10 OPEN。
+
+## ONGOING / GOAL仍进行｜2026-11-11 Gerwani纲领与Pabuaran农村组织链
+
+本次已读取main的AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10 completeness-audit、正式四CSV、chronology、global-gap-tracker和本续接状态；research-status.md预期路径不存在。已打开1959 Sulami KOWANI历史回顾、1961 Gerwani第四次大会纲领、《Api Kartini》Djenab具名报道及Hurustiati Subandrio的1961年1月农妇会议报道；四篇为完整数字转录，均未检查原刊扫描。正式新增S459—S462、C801—C804、Q261、CV301，补充chronology连续中文段落。两篇1961文章共用《Api Kartini》编辑体系，1948回顾未获会议原件佐证，纲领不能证明执行。此前最后核验研究基线为6e34df5d0943d3af1cda872f00c0cbb92ad9cc95；本次实际写入后的最新main HEAD应以GitHub返回及复核为准，**不能预写自身未来SHA**。
+
+精准未完：①取得1961 Gerwani纲领印刷原版并核第68号法年份及1960农业法第9条；②取得1961-01-17/20 Gedung Wanita农妇研讨会签到、议程和结论，确认Djenab及村级动员；③确定西爪哇Pabuaran所属县并查1960—65地籍与托儿设施实施；④取得1948-07 KOWANI梭罗会议记录及Muslimat/GPII/Aisyiyah独立叙述；⑤轮换G4 Aceh、Bali、Flores、Sulawesi地方军令与死亡/拘押簿，G6劳工政治犯、G7 2023—26补偿实付、G8援助交付原件。GOAL ACTIVE / OPEN-ENDED；G1—G10全部OPEN。
