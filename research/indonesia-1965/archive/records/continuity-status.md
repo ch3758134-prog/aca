@@ -317,3 +317,8 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 实核来源：FRUS XXVI d162全文官方编辑说明；1965-12-21 A-408档案页及严重失真的OCR（原扫描未核）；悉尼大学OMAA荷兰2.10.45/292馆藏目录全文（原卷Restricted）。巴厘1965-12至少10000与1966-02约80000均属不同时点的使馆估算，不能相加或作死亡总数。1943年卷宗目录中的约560名被判刑KNIL军人不是Boven Digoel政治流放者数量。
 
 **精确下一步**：①A-408原扫描逐页与OCR核对，特别是巴厘来源和1965-12-10/14军方改组；②索取1966-02-25 A-527、1966-04-15 A-641，厘清巴厘80000与全国区间的来源；③检索巴厘1965-12至1966-03地方军区/PNI组织命令、Singaraja/Denpasar拘押登记、村级受害者名册，避免单凭美国使馆重建地方暴力；④荷兰国家档案2.10.45/292影印和1927—43 Boven Digoel遣送/家属名册；⑤转换到不同G项，核ANRI Gerwani/BTI地方原件及1998—2026工会与幸存者组织行动。所有G1—G10仍OPEN，GOAL ACTIVE / OPEN-ENDED；未写旧式列表HTML，未替作者作政治判断。
+## ONGOING / GOAL仍进行｜2026-11-10 Aceh/Kediri与Sukendro物资链续接
+
+本次已读项目规则、阶段授权、G1—G10审计、四正式CSV、chronology、global-gap-tracker；research-status.md预期路径未取得。实核官方FRUS d162全文与d170美国国务院1965-11-04原始指示全文，去重使用既有S400、S029，新增C709—C710、Q243、CV263—CV264，更新chronology及缺口总账。外交报道/美国行政授权与地方执行/物资交付分开，不替作者做政治判断。
+
+精确续查：①FRUS d162所引1965-10-29 Telegram1269、11-08 Telegram1374、11-13 Telegram1438与Surabaya171原件，逐句比对Aceh、Kediri/Pare报告；②Aceh北苏门答腊地方军政命令、Kediri/Pare村级受害者登记，分离数字来源；③FRUS d170脚注RG59 POL23-9 INDON及303委员会1965-11-04审批/11-16会议原件；④Sukendro物资采购、运单、签收及印尼军方收货记录；⑤切换G1荷兰2.10.45/292流放者名册、G2 BTI/Gerwani基层档案和G6 1990年代劳工判决。所有G1—G10 OPEN，GOAL ACTIVE / OPEN-ENDED。**本段记录的提交SHA须以后续GitHub实际最终HEAD回执为准，不能预填未来SHA。**
