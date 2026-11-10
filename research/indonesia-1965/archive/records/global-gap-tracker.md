@@ -86,3 +86,7 @@ David T. Hill 2020, https://doi.org/10.1163/22134379-bja10005 ，已在早期续
 - **G4/G5地域校核**：已重读2012 Komnas HAM非官方英文译本https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20TAPOL%20translation.pdf 的p2—4；它把Denpasar的Pekambingan监狱作为独立的巴厘段落，前文目录的“Denpasar ... in South Sumatera”是明显地理串接错误；南苏门答腊Kemarau为另一节。应核印尼语官方原文与原始BAP；1977/1979拘押时间及约30000失踪估算只作为证人说法。
 - **归档阻碍**：按要求已读取AGENTS、stage-access、goal-continuity、completeness-audit、global-gap-tracker及continuity-status；尝试定位正式source-register.csv、claim-ledger.csv、search-log.csv、coverage-matrix.csv、chronology.md、research-status.md，但预期路径均404，GitHub代码搜索未返回路径，故**本次不擅自分配正式S/C/Q/CV编号，不虚称已并入正式CSV或chronology**。后续先定位准确路径并对以上两份原电报与已有来源去重。G1—G10均OPEN。
 - **直接续接**：①定位正式CSV及chronology实际路径和当前最大ID，核查1168/1290是否已有来源；②打开1168、1290 PDF页图逐段修正OCR，核实地理及数字；③搜1965-10-21反共工会声明与劳工部冻结命令；④追Palembang/Pladju/Sungaigerong/Prabumulih工会人事和拘押名册；⑤核Komnas HAM印尼语原文Pekambingan/Kemarau段落并转向Medan、Sulawesi地方案卷。长期GOAL保持OPEN。
+
+## 2026-11-10｜北苏门答腊G3/G4/G5/G8跨域证据链（正式S376–S378）
+
+**核验层级**：S376为美国国务院FRUS第XXVI卷第174件电报完整编辑转录（当时原始外交文件的正式出版文本；原始扫描未看），S377、S378为NSA原电报OCR全文（尚未对照扫描，S378有明显OCR损坏）。均不能代替印尼地方命令或受害者名册。北苏门答腊Medan，1965年6—12月：S378/C663记录6月6日Darjatmo援引PEPELRADA/DWIKORA权限推翻省长对Tjahaja报纸的限制；S376/C661记录11月14日前后Pemuda Pancasila干部对被捕PKI人员的杀害威胁，领事馆也承认暴力传闻可能夸大；S377/C662记录12月6日军方控制县级Pantja Tunggal、国民阵线、记者组织和学校青年组织及部分Hansip武装。应追June6印尼命令与Tjahaja原版、November10棉兰报纸、地方Pemuda Pancasila名单、受害者名单、December省级指令和Hansip/PWI组织档案；同时与1965年10月21日全国SOBSI清洗及1968年MPBI替代组织链比较。**不得将苏门答腊领事馆观察泛化为所有地区；G1—G10仍OPEN。**
