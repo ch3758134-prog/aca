@@ -601,3 +601,9 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 **精确接力动作**：①从KITLV/Leiden及Aceh档案取得Laporan Tahunan Lengkap Kodam-I/Kohanda Atjeh Tahun 1965原扫描及1965-10-14 Instr-1/10/1965；②取得1965-10-11 West Aceh DPRD-GR会议纪要和战时指挥室通信/值班记录，核县级被拘押者；③核对1965-11苏联驻印尼使馆报告、武器运输清单与印尼军方接收簿，不能把CIA推测当协议；④切换G4其他地区Bali A-527、Flores教区、West Kalimantan军警档案，G1 Boven-Digoel船单；⑤G6/G7工会/政治犯、G9人物关系、G10连续中文正文继续推进。
 
 本次已成功写入六份正式文件；**本状态文件写入前最新成功GitHub SHA：ee0421348b8d8b68cdc75dd8f296dd704c3b75a4**。本状态提交后的最终main SHA以GitHub返回并重新查询为准，不预写自身SHA。GOAL ACTIVE / OPEN-ENDED，G1—G10全部OPEN。
+
+## ONGOING / GOAL仍进行｜2026-11-10跨G项续接
+
+本次已读AGENTS、stage-access、goal-continuity、G1—G10审计、缺口总账、四正式CSV及archive/records/chronology.md；research-status.md不存在。此前基线S472/C818/Q269/CV309，最新先前确认main SHA 4bfa616de0a9a23942763d42ab9e088cd5aeccca。FRUS d179/d181已有S175/S176；d180/d182全篇未解密。新增S473-S474、C819-C820、Q270、CV310。美国使馆d186原文与2023-05-02印尼总统府公告均已打开，但印尼KOTI原令、地方杀戮簿和实际救济收据仍缺。
+
+下一步：1. 查1965年12月KOTI副司令任命与BPI/KIN转隶原令；2. 取得Bali A-527、Flores教区簿、West Kalimantan 1967军警与驱逐者登记；3. 查1927 Boven-Digoel船单及ISDV/PKI早期组织原件；4. 取得Inpres2/2023半年执行报告、1965受害者匿名服务和支付记录；5. SOBSI/BTI/Gerwani地方组织资料和G9关系索引。G1—G10全部OPEN。最新提交SHA以GitHub返回并复核为准，无法在本文件提交前预写自身SHA。
