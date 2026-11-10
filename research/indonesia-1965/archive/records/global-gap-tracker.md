@@ -200,3 +200,19 @@ G8外国行动：FRUS d170原始1965-11-04美国国务院指示全文已打开�
 
 **不同G项G1**：检索Boven Digoel 1927 deportees roster仍未取得殖民遣送人员原册；既有荷兰档案2.10.45/292仅为1943年澳大利亚拘押目录，不可冒充1927年名单。下次从Nationaal Archief与ANRI按1926—1928运输/殖民警察档案系列追索，保持C级目录与未见原件界限。G1—G10均OPEN。
 
+
+
+## External channels follow-up — 2026-11-10
+
+This pass added records and archive locators; it did not close the foreign-intervention research line.
+
+1. U.S. October 1965 radio transfers: obtain the Army attaché's diary/dispatch, item serial numbers, State/CIA logistics papers and Army-side receipt. Reconcile FRUS d155's planned 14 October transfer of three P-31 radios with d175's report of unspecified items handed over 13 October. Do not collapse these into one event without matching records.
+2. U.S. contact and messaging: identify, where declassification permits, the unnamed Army contacts in d151 and d157; compare embassy reporting with Indonesian records and other embassies' cables. Separate a proposed anti-PKI narrative campaign from evidence of actual placement, audience reach or effect.
+3. Japanese diplomacy and finance: retrieve MOFA telegrams cited by Llewelyn (including telegrams 238 of 21 April and 354 of 23 April 1965), Sato–Rahman records, credit agreements, and Indonesian payment/receipt records. Read ANRI inventory items 274–276 rather than relying on their catalogue descriptions.
+4. Personal relationship records: locate the individual Sukarno–Ratna Sari Dewi letters announced by ANRI and any accompanying correspondence; establish date, provenance and completeness before using them for political interpretation. Do not infer policy influence from the marriage alone.
+5. Soviet/GDR originals: request the cited AVP file (f.091/op.21/pap.33/d.3) and relevant SAPMO-BArch files, including DY30/IV A2/20/1051. Compare translated scholarly excerpts with full documents, neighboring cables and Indonesian records; map known gaps in Soviet MFA files.
+6. China arms chain: resolve the disagreement between S047 and S134 with Chinese MFA records (including cited file IDs 105-01697-02 and 204-01123-02), shipment records, Indonesian Air Force/BTI source folders and recipient testimony. Treat domestic BTI training/arming catalogue entries as separate from proof of Chinese shipment.
+7. JACAR leads: obtain original images for B21010049000 and the 88-image “Coup d'etat (September 30, 1965) Vol.4” file. The current index excerpt is metadata/OCR only and detail access returned 403.
+8. Recipient-side confirmation: seek inventories, transport papers, district orders, minutes and witness accounts for all foreign assistance. Keep requested, offered, approved, purchased, shipped, delivered, received and operational states distinct.
+
+Each access failure, missing image or catalogue-only hit stays in the search log as a search result and is not evidence that the underlying event did or did not occur.

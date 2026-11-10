@@ -358,3 +358,14 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 不同G项G1已尝试Boven Digoel 1927遣送名单检索，未取得原册；既有1943荷兰馆藏目录不能替代。下步直接执行：①寻找棉兰1965年Muhammadiyah/NU分会通告与清真寺布道原始印尼语记录；②核1965年12月地方军方/警察与实际拘押、杀戮名册；③继续索取棉兰289号电报和Mokoginta讲话原文；④在ANRI与荷兰Nationaal Archief定位1926—28 Boven Digoel运输、殖民警察、判决原册；⑤转换G2的Gerwani/BTI地方原始刊物与G7 2023—26救济执行原账。所有G1—G10仍OPEN。
 
 写入此状态前最新已成功提交的缺口总账 SHA：**7221f741200832bc52a330229aacaeea5fbc5c55**。此状态文件本身提交SHA须以后续实时GitHub main核验为准，不能在自身提交前虚填未来SHA。
+
+
+## CONTINUITY — GOAL remains open — 2026-11-10
+
+The main branch at the start of this update was 06412322c48f7658a64eeef190558b83785200c1. This pass adds S427–S443, C749–C772, Q249, and CV282–CV286. The cleaned ledgers contain 441 source records, 769 claim records, 249 search-log records, and 286 coverage records; existing gaps in ID sequences are retained. Blank lines and split-column CSV rows were repaired without changing their substantive claims.
+
+New material covers U.S. Embassy/State contact proposals and a specific radio transfer plan in October 1965; Japanese official visits, assistance and archive locators; Soviet/GDR archival scholarship; and disagreement on possible Chinese arms shipments. It is incorporated into the continuous HTML chapter and foreign-intervention matrix. Plans, approvals, handovers, reported deliveries and effects remain separately labeled. No final political judgment is entered.
+
+Open work: establish recipient and serial numbers for October U.S. radios; obtain original Japanese, Russian, GDR and Chinese archival records; read ANRI items 274–276; inspect the Sukarno–Ratna letters; resolve the China arms shipment/receipt dispute; continue broader Indonesian, regional and foreign records beyond 1965. See global-gap-tracker.md and 1965-foreign-channels-us-prc-soviet-japan-20261110.md.
+
+Previous continuity entries remain historical snapshots, not current completion claims. Record the final commit SHA after the main-branch update succeeds.

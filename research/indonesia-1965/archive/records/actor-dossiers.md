@@ -157,3 +157,15 @@ The early left had connections among ISDV/PKI, Sarekat Islam factions, youth org
 
 - Australia's 18 October cable relays Ghazali through a British intermediary. The putative Indonesian Army contact is a **network lead** with several reporting links, not an established direct personal tie. [C094; S119]
 - Shann's July assessment and Hasluck's October instruction show different Australian roles and dates; one diplomat's appraisal of Sukarno is not proof of cabinet-wide consensus or later operational effect. [C092; C095; S120–S121]
+
+
+## Japanese intermediaries and personal-access evidence
+
+- Kawashima Masajiro: Japan's Ministry of Foreign Affairs Bluebooks document his April and August 1965 visits and meetings with Sukarno. James Llewelyn reconstructs mediation, financing and political/business connections from diplomatic records and interviews. The Bluebooks support itinerary and official contact; the secondary account supports a research lead about intermediary networks, not a proven causal chain. [S434; S437; C756–C757]
+- Ratna Sari Dewi / Naoko Nemoto: ANRI's 2025 announcement identifies a collection of 11 English-language Sukarno letters to Ratna, nine dated October 1965 and two undated. The individual letters have not been read here. The announcement establishes a source lead and personal correspondence link; it does not establish political instructions, foreign-government access or influence over a particular decision. [S053]
+- Subandrio and Yani: Japan's 1965 Bluebook records their February Tokyo visit and meetings with senior Japanese officials. Treat this as formal diplomacy unless minutes or other records establish a different channel. [S433; C754]
+
+## U.S. Army intermediaries in October 1965
+
+- FRUS d151 attributes a view about Britain and the Malaysia confrontation to an unnamed Army contact; d153 says Washington could not confirm that a Nasution aide spoke for Nasution. d157 records a separate set of statements relayed by an unnamed Nasution aide. Keep the intermediaries distinct unless the original cables identify them. [S428–S430; S432; C750–C752; C755]
+- FRUS d147 records Green's proposals for private signals, Army contacts and unattributed anti-PKI messaging. FRUS d155 records an approved plan for three radios and covert handover. These documents do not by themselves establish recipient identity, use or effect. [S427; S431; C749; C753]

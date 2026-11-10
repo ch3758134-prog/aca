@@ -338,3 +338,10 @@ Formal new records S309-S311, C500-C507, Q192-Q194, CV188-CV190. No HTML: legal/
 ## 2026-11-09 ongoing — 1975-77 class C screening and 1996 prisoner roster
 Original full 11-page Keppres20/1976 was read, documenting village-head 1977 voter re-registration, district military suggestions, provincial/central Home Affairs/Kopkamtib approval and revocable class-C voting permission. Keppres28/1975 official BPK metadata and independent law transcription read; original scan still pending. Full 1996 Amnesty ASA21/43/96 PDF read: NGO believed 14 remain held, named five death-row and two Kalisosok prison medical cases; appendix OCR rows merged. New formal S312–S314, C508–C514, Q195–Q197, CV191–CV192. Outstanding: 1977 signed OT lists and army reviews, 1975 primary PDF and Kopkamtib orders, 1995 revised roster PDF, 1976 detainee table page image. GOAL OPEN.
 
+
+
+## Foreign channels update — 2026-11-10
+
+Added contemporaneous FRUS d147 and d151–157 to trace U.S. policy recommendations, Army contacts, internal uncertainty and a three-radio transfer plan. Reconciled d155 with d175 without assuming the separately dated reports concern the same equipment. Added Japanese Diplomatic Bluebooks and ANRI archive locators, read Llewelyn's secondary reconstruction, and indexed Boden's study of Soviet/GDR records. The China arms claim remains disputed between S047 and S134; authorization, shipment and recipient receipt are not established by current evidence. The continuous HTML chapter was expanded, and the matrix, chronology, actor notes and gap log were updated.
+
+Archive after CSV cleanup: 441 sources; 769 claims; 249 search records; 286 coverage entries. GOAL remains open. Immediate next records: U.S. equipment receipts and serials; Japanese telegrams and ANRI items 274–276; cited Soviet/GDR originals; Chinese shipment/recipient records; individual Sukarno–Ratna letters.

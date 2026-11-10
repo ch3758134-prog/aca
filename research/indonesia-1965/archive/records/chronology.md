@@ -769,3 +769,25 @@ Peluso2017的同行评审论文注15/17引用私人持有的1970年12月《Pener
 
 在北苏门答腊，军方对地方行政和政治组织的控制，与社会团体中的反共动员并行出现。12月6日，美国驻棉兰领事馆第184A号电报记录，一位被称为与穆罕默迪亚（Muhammadiyah）有关的消息人士称，当地一些清真寺的布道者把有意识加入印尼共产党的人列为必须杀害的对象。电报第二段由领事人员作出判断，认为这样的布道可能给杀戮提供广泛许可，并把它与伊斯兰教士联合会（NU）的某项解释相比较。两段文字不能混作同一份宗教组织的正式命令：第一段是匿名消息人士转述，第二段是美国领事馆评论。我们尚不知道涉及哪些清真寺、谁在何日发表言论，也没有取得穆罕默迪亚或NU地方支部的原始指示、具体受害者名册及执行链。此证据能够定位1965年末地方社会中煽动暴力的报告，却不能单凭一份电报确认宗教组织成员普遍参与杀戮。[S426;C748;原件第1页 https://nsarchive.gwu.edu/document/15714-document-18-telegram-184a-american]
 
+
+
+## Foreign diplomacy and assistance channels — evidence added 2026-11-10
+
+These dated entries describe what the records report; they do not assert a single coordinated foreign plan.
+
+- 1965-01-08 — Soviet–PKI contact: Ragna Boden's study reports that Aidit and Soviet official Mikhailov discussed succession after Sukarno. The underlying Soviet archive pages have not been independently opened. [S436; C759]
+- 1965-02-11 to 14 — Japan visit: Japan's 1965 Diplomatic Bluebook records Subandrio and Army Chief Yani visiting Tokyo and meeting Prime Minister Sato, Foreign Minister Shiina and LDP Vice-President Kawashima. [S433; C754]
+- 1965-04-13 to 20 and May — Japanese mediation contacts: the 1966 Bluebook records a Kawashima-led delegation meeting Sukarno and Zhou Enlai; it also records Subandrio's May visit. Llewelyn reconstructs additional mediation and financial discussions, but aid figures require original agreements and transfer records. [S434; S437; C756–C757]
+- 1965-06-30 — East German consular contact: Boden reports a conversation between Consul Hertzfeld and Zain Nasution, a PKI international-relations official, about domestic political forces. He is not Army General A.H. Nasution. [S436; C758]
+- 1965-08-16 to 24 — Japanese special envoy: the 1966 Bluebook records Kawashima meeting Sukarno and attending the Tanjung Priok power-plant ground-breaking. Formal contact does not establish covert access or policy effect. [S434; C756]
+- 1965-10-05 — U.S. embassy policy recommendation: Green proposed private signals of willingness to assist Army leaders, continued Army contact and unattributed anti-PKI messaging, while avoiding overt U.S. involvement. This is a proposal in a contemporaneous cable, not proof that every item was implemented. [S427; C749]
+- 1965-10-10 to 13 — U.S. and British diplomacy: FRUS records an unnamed Army contact's view, U.S. discussion about whether Britain should avoid escalation, and uncertainty in Washington about Army authority and intentions. [S428–S430; C750–C752]
+- 1965-10-14 — U.S. radio arrangement: embassy/Department correspondence records approval for three Motorola P-31 radios and a planned covert handover by the attaché. A separate 17 November memo reports unspecified equipment handed out on 13 October; no record establishes whether the two accounts concern the same transfer. [S431; S031; C753]
+- 1965-10-18 — U.S. embassy political report: Green relayed an unnamed Nasution aide's account of conversations and possible government changes. This is attributed hearsay, not a verified Sukarno directive. [S432; C755]
+- 1965-10-30 — GDR assessment: Boden reports that Consul Kehr considered several possible actors and recorded uncertainty about PKI leadership knowledge of Untung's action. This was a contemporary diplomatic assessment, not direct evidence of the event's command chain. [S436; C760]
+- 1965-12-04 to 14 — Japanese archival lead: JACAR index metadata describes Ambassador Saito's reporting on Subandrio's meetings with the British Ambassador and U.S. Chargé. The original images remain unread, so this is a locator only. [S438; C761]
+- 1966-03 to 1967-07 — Japanese assistance: Japan's 1967 Bluebook records rice and cotton-thread donations and a yen-credit agreement. Actual shipment, Indonesian recipients and use remain to be checked against transaction records. [S435; C763]
+- 1966-04-30 to 05-04 — ANRI aid records: inventory entries identify records concerning British emergency aid, Japanese aid handover and an Indonesian embassy report on Japanese assistance. The archive catalogue has been checked; underlying documents have not. [S440–S442; C764–C766]
+- 1970 — Japanese policy statement: Japan's Bluebook described assistance to the Suharto government as support for political/economic stability and regional stability. This records Japan's rationale, not an independent causal evaluation. [S443; C767]
+
+The China arms question remains disputed: one working paper states small arms were provided, while a later peer-reviewed article says hard evidence of approval or large shipment is lacking and does not rule out a limited delivery. [S047; S134; S133; C772]
