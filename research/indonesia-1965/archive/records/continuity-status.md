@@ -579,3 +579,8 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 ## 2026-11-10｜接力：南苏拉威西与1999年特赦（GOAL OPEN）
 
 已核AGENTS、stage-access、goal-continuity、G1—G10审计、正式CSV、chronology和缺口总账。此次对既有S190的1965-11-12第1425号电报OCR重新核读，并直接打开印尼政府1999-07-02第68号总统决定，新增S469/C813-C814/Q266/CV306。精准未完：Bone/Watampone监狱原始拘押和死亡簿、Klaarwater/Kalwater身份及Arasoe糖厂名册、Makassar商铺损失、1425号原扫描；1998司法部长M.PW.07.03-483、检察总长K.268/A/E/12/1998、最高法院KMA/391/XII/1998原函及1999-07-05出狱簿。下次跨G1查1927 Boven-Digoel船单、跨G4查Aceh/Bali/Flores地方原件。G1—G10均OPEN；最新SHA以GitHub写入返回及main复核为准。
+
+
+## 2026-11-10｜续接：G4东努沙登加拉与G1 Digoel（持续OPEN）
+
+已读取AGENTS、stage-access、goal-continuity、2026-11-09完整性审计、正式四CSV、chronology和缺口总账。再次直接打开既有S143 A-65（1966-08-03）美国外交原始OCR（https://nsarchive.gwu.edu/media/15729/ocr）：James Fox转述1966年1/2月Roti处决两名干部，3月Roti约40—50人及Sawu约30人；800—1000估计不包括Flores，Timor 30000传闻被其质疑。未核对原扫描，未取得地方死亡簿。交叉打开既有S400 FRUS编者注（https://history.state.gov/historicaldocuments/frus1964-68v26/d162），其中A-527 Bali 80000与A-641全国不确定性仅为编者引用，不冒充原电报。G1荷文Boven-Digoel 1927运输名册未取得。正式新增C815/Q267/CV307；既有S143/S400不重复建源。已写入claim-ledger/search-log/coverage-matrix/chronology/global-gap-tracker。精准后续：A-65扫描逐页核读、Roti/Sawu军警及教区登记、Fox原田野笔记；Flores单独查教区；查Bali A-527原件；查Digoel 1927船名和殖民运输簿；并继续其他G1—G10缺口。此前五文件提交后HEAD为1a68141b2535158873fcb14e3fa570bf5afa50ac；本状态文件自身提交的SHA须以GitHub返回值及main复核为准。长期GOAL ACTIVE/OPEN-ENDED，G1—G10全部OPEN。
