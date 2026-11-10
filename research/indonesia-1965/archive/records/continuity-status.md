@@ -309,3 +309,11 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 当前链：1965东爪哇国营企业SOBSI→SARBUMUSI/军人雇工资格报告；1993泗水PT Ria Star Indonesia工人代表被传唤、解雇；1994棉兰SBSI财务负责人Hayati审判；匿名Gerwani前干部1969起长期拘押及出狱后监视。Amnesty1995为公开完整报告与当事人访谈转述，不是企业会议、司法判决或原始拘押簿；不公开推测匿名受访者身份。不可把1965—1995不同组织与个人强行接成一条干部继承线。
 
 精确下一动作：①取1993泗水PT Ria Star Indonesia劳动部门争议案及KODIM传唤、工会代表声明；②查1994棉兰SBSI Hayati七个月刑期的法院案号、裁判和警方拘押簿；③寻找Amnesty1995原报告p20匿名Gerwani受访者的公开去标识访谈与其他独立地方证词；④恢复西加里曼丹1970《Penyuluh Land Reform》10(6)13—14原刊、地方土地处分文件；⑤另查1927 Boven Digoel遣送名单或1965巴厘/中爪哇地方军令，保持跨G项、跨地区平衡。G1—G10全部OPEN，长期GOAL ACTIVE / OPEN-ENDED，未完成。
+
+## ONGOING / GOAL仍进行｜2026-11-10 G4巴厘与G1流放跨链续接
+
+已读取AGENTS、stage-access、goal-continuity、G1—G10完整性审计、缺口总账、正式四CSV及chronology；research-status.md预期路径404。此次正式登记S400—S401、C707—C708、Q242、CV261—CV262；chronology与global-gap-tracker已更新。**归档前已核实最近提交** `ce81e734e8ee6a332c4f1ae224bd0c8a402623c3`；本状态提交将形成新的main HEAD，后续须以GitHub返回的实际SHA为准，禁止将此父提交误作最终HEAD。
+
+实核来源：FRUS XXVI d162全文官方编辑说明；1965-12-21 A-408档案页及严重失真的OCR（原扫描未核）；悉尼大学OMAA荷兰2.10.45/292馆藏目录全文（原卷Restricted）。巴厘1965-12至少10000与1966-02约80000均属不同时点的使馆估算，不能相加或作死亡总数。1943年卷宗目录中的约560名被判刑KNIL军人不是Boven Digoel政治流放者数量。
+
+**精确下一步**：①A-408原扫描逐页与OCR核对，特别是巴厘来源和1965-12-10/14军方改组；②索取1966-02-25 A-527、1966-04-15 A-641，厘清巴厘80000与全国区间的来源；③检索巴厘1965-12至1966-03地方军区/PNI组织命令、Singaraja/Denpasar拘押登记、村级受害者名册，避免单凭美国使馆重建地方暴力；④荷兰国家档案2.10.45/292影印和1927—43 Boven Digoel遣送/家属名册；⑤转换到不同G项，核ANRI Gerwani/BTI地方原件及1998—2026工会与幸存者组织行动。所有G1—G10仍OPEN，GOAL ACTIVE / OPEN-ENDED；未写旧式列表HTML，未替作者作政治判断。
