@@ -262,3 +262,5 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 正式核验：S380（1996-08-12 Amnesty原始2页PDF全文）与S381（1998-06 HRW/Amnesty联合报告第一部分HTML全文）；C666-C667、Q236、CV243。1996年8月PRD相关被捕者“至少34”是机构估计，最新十人尚未被其独立确认；1997年具名判刑来自1998 NGO报告，法院判决原件未取得。chronology已并入中文连续叙述，缺口总账同时记G1殖民流放与G4西加里曼丹原件未获。禁止从国家“新PKI”指控推出PRD与旧PKI组织继承。
 
 **下次直接动作**：①查1996-08-12 Antara原始报道与Budiman/Petrus等人军方拘押登记；②查1997 PRD/SMID/PPBI/STN一审与上诉裁判、1998-03-09 SBSI现场记录；③回G4西加里曼丹1967年军区命令、撤离和难民营名册，地区区别于Bone/Aceh；④回G1 Boven Digoel 1927遣送登记及荷文原报；⑤G2 MPBI 1968-69工会原始会议签名，G5 Gerwani地方妇女证词。当前GOAL OPEN，未完。
+
+归档校验：本次七文件更新后的核验HEAD为 `8de476360f6699cf5694cd6a9362b578a3d07962`（与当时main identical，ahead/behind 0）；本状态追加提交将使main产生新的HEAD，最终以提交回执和再次compare为准。长期GOAL保持OPEN。
