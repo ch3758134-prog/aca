@@ -510,3 +510,8 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 3. 追1965-12-15 Jakarta 1780、12-16 777电报的使馆答复及日德外交记录，检验是否实际召开协调会议。
 4. 获取Prior 2011 *Exchange* 40(2) 117—143全文及Maumere 1966年教区埋葬簿、县军令和证人完整访谈；不得把800—2000估计作为独立逐名数字。
 5. 转G1 Boven-Digoel 1927遣送名册、G2 SOBSI/BTI/Gerwani原刊、G4 Aceh军区年报、G6政治犯及G7幸存者救济实付，按completeness-audit G1—G10继续交替推进。
+
+
+## ONGOING / GOAL仍进行｜2026-11-10 G8/G4交叉核验
+
+已重读G1—G10完整性审计、项目规则、正式CSV、chronology与缺口总账。FRUS d184第2脚注确认：1965-12-15 Jakarta 1780已报告美国使馆与日德大使讨论印尼陆军经Helmi提出的援助请求；1965-12-16第777号电报提议的进一步三方策略会及实际援助交付未获证明。已修订正式C797及chronology，未重编号。跨G4检查国家安全档案馆2017汇编第10件1965-10-29印尼空军51/ch/Pr/i/65东爪哇报告的编辑说明，尚未打开报告原页。下一步：取1780原件、日德使馆会议记录及拨付签收；取51/ch/Pr/i/65原扫描及RPKAD调动令；轮换G2 Gerwani/BTI地方原刊、G4 Aceh/Flores原件、G7中苏拉威西救济签收。G1—G10仍OPEN。已成功研究提交SHA 906d58e267d4e7aab85a7f82cd6b440ef5fc6054；本状态文件提交SHA以后续实际返回为准。
