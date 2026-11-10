@@ -201,3 +201,11 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 接下来必须同步推进：①ANRI及论文脚注的**八件1965年10—11月初始清洗指令签署原件及各省实际送达**；②亚齐1965军区年度报告、10月11日西亚齐政府会议和东亚齐民兵成立文件，延伸到Medan/Bali/Flores/West Kalimantan对比；③Ende1965-08-16土地纠纷案和1967审查队任命/拘留文件与教会证言；④ Boven Digoel ANRI nos100/108/116/269原始人名与劳动册；⑤ LEKRA地方/成员/文化组织和Gerwani/BTI/SOBSI现场记录；⑥前次1994—2026专题候选文献核查去重并库，继续跨年代的人员、地点、组织关系结构。**仍未建立完整按日期排序的主时间线或成熟连续HTML，必须后续持续推进。**
 
 当前GOAL状态：**ACTIVE / OPEN-ENDED，不是研究已完成。** 成功写入本段前最新检索日志提交SHA `f63bc7fdb7ea85811707a94e3e74934d305eccf2`，后续以实时main HEAD为准。
+
+## ONGOING / GOAL仍进行 — 2026-11-10，1968年九工会组织名录核对（非完成节点）
+
+重新实际打开UNDIP的S368可访问71页PDF，核对其印刷页8—9及脚注20—23。**新增C657、Q231、CV238**：论文所列Sekber Buruh九个组织为KBM、SARBUMUSI、GOBSI-Indonesia、GASBIINDO、SOB PANCASILA、KESPEKRI、KUBU PANCASILA、KONGKARBU-SOKSI、KBIM；作者引用Hidajat《Seabad Gerakan》p138。此名单是后出学者叙述的联合秘书处组成，**不能当作1968-06-20会议原始签到册**，也不能与1968-10-25的21组织签署者直接画等号。原报1969-11-03《Suara Merdeka》仅见论文脚注，未打开报纸原件。并实际打开Jess Melvin 2013年亚齐华人暴力论文全文HTML，已有S044，不重复登记；其具体1965-10-20 Baperki命令和1966-08-17驱逐令应回到签署件及当事人证词，不能仅凭学者引文升级为原件已读。
+
+**精确下一动作：** (1) 查Hidajat《Seabad Gerakan》p138原文及其九组织出处；(2) 取得1968-06-20劳动部邀请函、九工会代表签到/会议纪要；(3) 取得1968-10-25二十一个组织共同声明的签名页并与九组织交叉；(4) 查1969-11-03《Suara Merdeka》原版和MPBI章程；(5) 并行查1965-10-20亚齐军方指向Baperki的签署命令、1966-08-17驱逐令和受影响者名册，连接1965镇压与组织替代。
+
+本次三份正式CSV及chronology已成功写入；写本状态前最近已知main提交SHA：`b4f5efee18908137345384a45fc096585535d0a2`。本状态自身提交将产生新SHA，以提交返回值为准。**GOAL ACTIVE / OPEN-ENDED，未完成。**
