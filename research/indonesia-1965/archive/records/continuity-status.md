@@ -613,3 +613,6 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 已读取AGENTS、stage-access、goal-continuity、G1—G10 completeness-audit、global-gap-tracker、正式四CSV与archive/records/chronology.md；research-status.md路径不存在。基线main `7ce16698d35c51b0ae78eea058893d54a6da6340`；正式基线S474/C820/Q270/CV310。打开FRUS d187美国参谋长联席会议1965-12-30政策备忘录全文、ILO 1998-06-10结社公约批准公告全文。新增S156(existing);S476(new)、C821-C822、Q271、CV311，更新中文时间线及缺口总账。证据局限：美方政策建议非交付，ILO批准公告非工厂实际执行。
 
 **精确续接**：①FRUS d187脚注所引1965-12-30雅加达电报1924、JCS未刊附录、1966年国务院/国防部后续决策与运单；②印尼Keppres 83/1998原文、ILO NORMLEX交存生效日期、1998—2001地方工会登记与争议；③G4 Bali A-527原扫描、Flores教区簿、Aceh Instr-1/10/1965原令、West Kalimantan军警档案，优先县级拘押死亡簿；④G1 1927 Digoel船单与ISDV原件、G2 SOBSI/BTI/Gerwani组织档案、G5女性幸存者证词；⑤G9索引与G10连续中文历史章节。全部G1—G10仍OPEN，不因本次归档或提交关闭。最终提交SHA以GitHub写入返回及独立main核验为准；本状态文件无法预写其自身提交的SHA。
+
+
+**提交核验补记（2026-11-11）**：完成去重修正后，上一提交HEAD为 `b2b677ada5ec9e286a0b0dff008f8a989954d796`；FRUS d187早已正式登记为S156，故撤销本次重复S475，C821引用S156；本次唯一新来源S476。最终状态文件提交SHA须以GitHub返回和再次查询main为准。GOAL OPEN。
