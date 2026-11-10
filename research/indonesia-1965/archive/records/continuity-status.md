@@ -242,3 +242,9 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 - **G4/G5地域校核**：已重读2012 Komnas HAM非官方英文译本https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20TAPOL%20translation.pdf 的p2—4；它把Denpasar的Pekambingan监狱作为独立的巴厘段落，前文目录的“Denpasar ... in South Sumatera”是明显地理串接错误；南苏门答腊Kemarau为另一节。应核印尼语官方原文与原始BAP；1977/1979拘押时间及约30000失踪估算只作为证人说法。
 - **归档阻碍**：按要求已读取AGENTS、stage-access、goal-continuity、completeness-audit、global-gap-tracker及continuity-status；尝试定位正式source-register.csv、claim-ledger.csv、search-log.csv、coverage-matrix.csv、chronology.md、research-status.md，但预期路径均404，GitHub代码搜索未返回路径，故**本次不擅自分配正式S/C/Q/CV编号，不虚称已并入正式CSV或chronology**。后续先定位准确路径并对以上两份原电报与已有来源去重。G1—G10均OPEN。
 - **直接续接**：①定位正式CSV及chronology实际路径和当前最大ID，核查1168/1290是否已有来源；②打开1168、1290 PDF页图逐段修正OCR，核实地理及数字；③搜1965-10-21反共工会声明与劳工部冻结命令；④追Palembang/Pladju/Sungaigerong/Prabumulih工会人事和拘押名册；⑤核Komnas HAM印尼语原文Pekambingan/Kemarau段落并转向Medan、Sulawesi地方案卷。长期GOAL保持OPEN。
+
+## ONGOING / GOAL仍进行｜2026-11-10 北苏门答腊跨G项接力
+
+已按AGENTS、goal-continuity、stage-access和completeness-audit G1—G10核对，正式CSV实际位于 **archive/records/**，纠正此前误报的404路径。已在正式台账去重后登记S376–S378、C661–C663、Q234、CV241，并扩充chronology和global-gap-tracker。原始研究来源：FRUS XXVI doc174（完整官方编辑转录）；NSA Medan telegram183A、509（OCR全文；未对照扫描）。历史内容：1965-06-06 Darjatmo以PEPELRADA/DWIKORA权力介入Tjahaja报；1965-11-14左右Pemuda Pancasila威胁及领事馆所获暴力报告；1965-12-06军方控制北苏门答腊县级行政、记者组织、青年组织与Hansip的报告。注意报道/威胁不等于已核实死者数量，拟议措施不等于所有地区执行。
+
+当前最新完成的正文/台账提交（本状态提交之前）：`8b227fc3e406741c28f51fe0d2a4eed54e8d5519`。下次从本状态提交SHA读取GitHub main HEAD并核对并发写入。直接续接：①Medan telegram509、183A逐页核对原扫描；②查1965-06-06 Darjatmo PEPELRADA行政令、Tjahaja报与省长禁令；③查1965-11-10 Medan报纸及Pemuda Pancasila受害人名单；④查1965-12北苏门答腊省/县Pantja Tunggal、Hansip、PWI和Pramuka实际命令；⑤转换地区至Sulawesi/Bone 1965-11-12美国电报原件及Watampone监狱档案，同时沿SOBSI 1965-10冻结→1968 MPBI持续追查。G1—G10均OPEN，不代表研究完成。
