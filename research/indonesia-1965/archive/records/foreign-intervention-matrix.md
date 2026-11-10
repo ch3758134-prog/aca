@@ -246,3 +246,8 @@ Source reconciliation: S427–S443; claims C749–C772; Q249; coverage CV282–C
 | Japan, late 1964–May 1965 | Special-envoy mediation and personal contacts | Garbagni's multi-archive study reports Sukarno requested Kawashima through Chow Chi Mo, and reconstructs the disputed April message to Abdul Rahman about stopping guerrilla activity. A Japanese clarification found no undertaking; whether Kawashima bluffed or misunderstood remains open. | Moderate as a secondary archival reconstruction; no causal conclusion from friendship or access. | MOFA telegrams 372/1033, the Malaysian record, British tel. 716, Chow memoir and Satō diary. |
 
 Updated source/claim trail: S444–S448; C773–C785; revised C021, C024, C194, C195 and C753; Q250; CV287–CV290.
+
+
+## 2026-11-10 clarification: Kudus local list versus U.S. list transfer
+
+The original 10 December 1965 U.S. Embassy A-386 reports that Catholic Party coordinator Suhandjo said he had furnished the Indonesian Army a list of over 200 local Baperki members in the Kudus business community; the cable says a separate list of 20 Baperki leaders was slated for intensive questioning and that many had disappeared. This was a local list reported by its alleged compiler. It is **not** the same as the separate PKI and affiliated-organization list compiled by U.S. Embassy staff and acknowledged in FRUS d185 as having been shared with Indonesian officials in December. The two chains have different compilers, recipients and proof: A-386 provides no copy or Army receipt for Suhandjo's list; d185 documents U.S. transfer but does not trace each named person to a specific arrest or killing. Do not merge the lists or infer individual outcomes from either. [S151; S032; S189; C143; C648; C649]

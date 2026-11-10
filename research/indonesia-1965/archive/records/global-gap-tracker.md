@@ -240,3 +240,10 @@ Each access failure, missing image or catalogue-only hit stays in the search log
 G4中爪哇/日惹跨项新入口：Mark Winward, “Capture from Below: Civil–Military Relations during Indonesia’s Anticommunist Violence, 1965–66,” *Indonesia* 106 (2018), 111–136，Cornell馆藏页 https://ecommons.cornell.edu/entities/publication/3ee19a9b-310e-4cf9-97bd-96f42fd111b3 已打开**摘要及元数据（C级）**，论文PDF链接跳转失败，**未读全文**。摘要提出日惹军方依赖平民提供情报、人手、合法性并出现地方自主杀戮；仅作为待检假说，不把摘要结论冒充地方命令。下一步取得PDF、逐条追其注释中的军方/地方访谈原件，并对照Aceh的军方动员与Flores延迟审查机制。
 
 G6/G2长期线：1971 ILO Case 674 / SARBUMUSI相关材料仍未取得报告130原文，官方2018年决议汇编说明 https://www.ilo.org/resource/news/compilation-decisions-committee-freedom-association-now-available-line 已打开，仅确认ILO有案例决议检索体系，**不能证明该案具体主张**。下一步在ILO NORMLEX/ILOLEX逐案寻找申诉、政府答辩、委员会原报告及1968—71工会重组章程。既有S143的1966-08-03 A-65 Roti/Sawu材料已在正式来源表，未重复编号。所有G1—G10仍OPEN。
+
+
+## 2026-11-10: Central Java A-386 direct-source follow-up
+
+The original two-page U.S. Embassy airgram A-386 was visually checked. It records a local source's description of RPKAD coordination with Catholic, IP-KI and NU organizations in Kudus; Ansor attacks on PKI-designated persons and alleged non-PKI personal-feud victims; and a list of over 200 Baperki members said to have been furnished to the Army by Suhandjo. A separate 20-name Baperki leadership list and disappearance claims remain unverified. The source does **not** show that the United States furnished the Kudus list; distinguish it from the separate A-398/FRUS list transfer. Formal claims C143, C648–C649; revised coverage CV235; source S151; search Q251. The Bali estimate comparison was logged as C708/C786 and coverage CV261.
+
+Next evidence requests: (1) locate the Kudus list and its Army recipient/receipt; (2) identify the separate 20 Baperki leaders; (3) check Pati/Kudus Catholic Party, NU/Ansor, IP-KI and military records; (4) seek family, detention and property records for named individuals; (5) compare the local account with Indonesian press and court records. Until then, this is one informant-mediated report, not a regional census or command order.

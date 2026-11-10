@@ -89,3 +89,8 @@ Garbagni's peer-reviewed multi-archive study (accepted manuscript read in full) 
 The article's cited original files include MOFA telegrams 372 (19 April) and 1033 (24 April), a Malaysian record of Kawashima–Rahman conversation, British FO telegram 716 (22 April) and Saitō clarification records. The originals remain to be retrieved. Garbagni also interprets envoy diplomacy as a bid for a more active Japanese regional role linked to domestic diplomacy debates and economic/security interests; retain this as attributed analysis. Source S448; claims C780–C784.
 
 Search and coverage: Q250; CV287–CV290. Open tasks are itemized in global-gap-tracker.md.
+
+
+### Evidence boundary: the Kudus list is not the U.S. Embassy list
+
+The 10 Dec 1965 A-386 original says Suhandjo, Catholic Party coordinator for the Pati residency, had furnished the Army a local list of more than 200 Baperki members associated with the Kudus business community. The cable does not say U.S. officials supplied it. A different chain appears in FRUS d185: U.S. Embassy staff compiled a leadership list and later acknowledged providing a sanitized version to Indonesian government/security authorities. Keep local list transmission separate from U.S. government list transfer; both lack complete individual-outcome tracing. [S151; S032; S189; C143; C648; C649]

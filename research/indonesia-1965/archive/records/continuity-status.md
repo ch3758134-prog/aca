@@ -394,3 +394,12 @@ Continue with original U.S. committee, export, procurement and recipient records
 读取了AGENTS、stage-access、goal-continuity、G1—G10完整性审计、正式source/claim/search/coverage四CSV、chronology、G总账及本状态。正式编号最新至少S448/C785/Q250/CV290；research-status.md在archive/records预期路径404。复核FRUS XXVI d162全文（编辑说明，非其所引各原电报），对照1966-02 A-527巴厘约80,000与1970年Howland引用军官巴厘6,000的不同估计：来源不同、不能相加或择一确认。另打开Cornell的Winward 2018日惹论文馆藏摘要，PDF跳转失败，标C级而非全文；重查S143确认1966年Roti/Sawu A-65已登记，不重复编号。ILO案例原报告仍未取得。此次没有新增足以注册的原件主张，故四CSV与chronology不作虚假新增；实质查证与失败入口已存G总账。
 
 精确续接：①取得A-527、Howland 1970原文及巴厘地区死亡名册，按口径核对80,000/6,000；②取Winward全文与日惹县级军警/民兵名单，检验“平民自主”与军方资源依赖；③继续Aceh地方军令、Flores 1967审查原件；④ILO Case 674报告130与SARBUMUSI申诉/政府答辩及1968—71工会章程；⑤恢复G1殖民遣送名册和G7 2023—26救济原始执行统计。G1—G10均OPEN。上一成功写入main的提交：fcbeab0f17d8d8d6f298f6f4f90166734d5a810f；本状态提交SHA应以提交后main实时核验为准。
+
+
+## CONTINUITY — GOAL remains open — 2026-11-10 integrated reader, A-386 and Bali estimates
+
+Starting main head: `9cc0672c5a182c9bbf3a0aa4058d72c0b301d0f8`. This pass re-read S151, revised C143/C648/C649 and coverage CV235; compared A-408's archive synopsis with FRUS d162's A-527 and Howland summary; revised C708/CV261 and added C786 plus Q251. No new source ID or coverage row was warranted. Current formal ledgers contain 446 source records, 783 claims, 251 search entries and 290 coverage rows.
+
+The continuous reader is `briefs/readable-history/indonesia-left-history-continuous-1901-2026.html`. It contains chronological prose, person and event indexes, source notes, confidence labels and links to regional deep dives. Bali's at-least-10,000 (A-408 synopsis), 80,000 (A-527 via FRUS note), and 6,000/105,000 (Howland via the same note) are shown as incompatible estimates, not verified totals. Howland's original article, A-408 page images, regional victim records, local A-386 lists and individual fates remain open.
+
+This is a current reading edition, not proof of exhaustive public-source or archive search and not a political conclusion. Political judgment remains with the author. GOAL remains ACTIVE / OPEN.

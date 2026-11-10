@@ -354,3 +354,19 @@ Read FRUS d128, d129 and d141 in full, re-read d127, d155 and d175, and examined
 Read Giulia Garbagni's peer-reviewed accepted manuscript on Japan's 1965 envoy diplomacy. It adds a Sukarno–Kawashima–Chow Chi Mo contact chain and disputes any confident claim that Kawashima deliberately bluffed Abdul Rahman: Garbagni finds a Japanese clarification but leaves intent unresolved. Her arguments about Japan's regional ambitions and economic interests remain attributed analysis.
 
 Archive totals after this pass: 446 sources; 782 claims; 250 search records; 290 coverage entries. GOAL remains open. Immediate follow-up: 303 Committee original minutes; Philco licence/contract and Army rejection; Pakistan C-130 part records; Japanese MOFA telegrams 372/1033 and associated British records; Indonesian receipts and operational logs for the 1966 HF network.
+
+
+## Integrated continuous reader — 2026-11-10
+
+A new continuous Chinese reader, `briefs/readable-history/indonesia-left-history-continuous-1901-2026.html`, consolidates the currently documented chronology from the colonial land/labor background through Sukarno's political formation, the independence revolution, 1948 Madiun, the 1950s state, mass organizations, 1965 violence and power transfer, New Order detention/labor/land changes, and post-1998 recognition through 2026. It contains person and event anchor indexes and unobtrusive notes that distinguish official text, contemporaneous reporting, later investigation, scholarship and unresolved estimates. It is descriptive and does not supply the author's political judgment.
+
+This reader improves continuity, not archival completeness. The pre-1965 political sequence and 1965–68 provincial evidence remain uneven. Particular open points include the original 303 Committee minutes and Indonesian receipts for U.S. communications, the Kudus Baperki lists and named fates in A-386, the Supersemar document chain, accessible MPRS originals, Aceh and eastern-island local orders, and the actual financial/member records of labor and agrarian organizations. Do not treat the six existing local chapters as national coverage.
+
+Current formal records after the latest update: 446 sources, 783 claims, 251 search entries, 290 coverage rows. S151 was re-read, not duplicated; C143/C648/C649 and CV235 were refined, C708/CV261 were expanded, and C786 records only the Howland estimate as relayed by FRUS d162. GOAL remains open.
+
+
+## Latest integrated reader update — 2026-11-10
+
+The continuous HTML now gives the A-386 Kudus/Pati account its own event-index entry and separates the local list Suhandjo said he gave the Army from the U.S. Embassy's separate list transfer. It also explains the Bali estimate conflict: A-408's archive synopsis (at least 10,000), A-527 as summarized by FRUS d162 (80,000), and Howland's 1970 estimate (6,000 in Bali; 105,000 national) are distinct, mediated estimates, not additive or verified counts. The original Howland article and the A-408 scan pages were not independently read.
+
+Current ledger totals: 446 sources, 783 claims, 251 search records, 290 coverage rows. C786 is the only new claim; Q251 is the new search record; CV235 and CV261 were revised without adding coverage rows. GOAL remains ACTIVE / OPEN; no author political judgment has been entered.
