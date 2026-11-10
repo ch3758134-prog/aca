@@ -370,3 +370,8 @@ Current formal records after the latest update: 446 sources, 783 claims, 251 sea
 The continuous HTML now gives the A-386 Kudus/Pati account its own event-index entry and separates the local list Suhandjo said he gave the Army from the U.S. Embassy's separate list transfer. It also explains the Bali estimate conflict: A-408's archive synopsis (at least 10,000), A-527 as summarized by FRUS d162 (80,000), and Howland's 1970 estimate (6,000 in Bali; 105,000 national) are distinct, mediated estimates, not additive or verified counts. The original Howland article and the A-408 scan pages were not independently read.
 
 Current ledger totals: 446 sources, 783 claims, 251 search records, 290 coverage rows. C786 is the only new claim; Q251 is the new search record; CV235 and CV261 were revised without adding coverage rows. GOAL remains ACTIVE / OPEN; no author political judgment has been entered.
+
+
+## 2026-11-10 continuing verification — West Kalimantan and colonial exile
+
+Formal ledger now includes S454/C796/Q257/CV297 (1967 Pontianak radio broadcast attributed retrospective witness account). The 2016 Aju prepublication text was visible only as a substantial search-index excerpt; opening the publication itself returned HTTP 403. It attributes the alleged 21 September 1967 21:00 broadcast and 22 September encounter to Laurentius Herman Kadir; his report of Oeray's conversation with Kodam XII officers is nested hearsay, not an authenticated military confession. Cross-check against S453 Matsumura abstract and Aju 2017 catalog without treating dependent accounts as independent witnesses. G1 1927 Boven Digoel manifest remains unlocated after Dutch/English queries. All G1-G10 remain open; no authorial political conclusion entered.
