@@ -346,3 +346,10 @@ S449从馆方摘要升级为**原始电报OCR全文打开、四页扫描中前�
 **G4/G5 Flores对照**：再次核对Prior 2011 *Exchange* 40(2) 117—143的开放摘要，全文仍需请求；1966年2—4月Maumere的800—2000为作者估计而非独立死者名册。优先教区死亡/埋葬簿、当地军令、幸存者证言；不能用美国外交政策原件替代地方暴力实施证据。
 
 **其他G项维持OPEN**：G1殖民流放原始船单；G2 SOBSI/BTI/Gerwani基层账簿和原刊；G3跨机关逐时命令；G4 Aceh、各爪哇省、Bali、Flores、Kalimantan、Sulawesi地方原件；G5妇女/宗教/族群及幸存者；G6政治犯与工会重组；G7当代实际执行；G9人地组织关系；G10正式台账去重及中文连续正文。新增S457/C799/Q259/CV299，仍无任何全量完成声明。
+
+
+## 2026-11-10｜G8/G4交叉核验与证据层级校正
+
+G8：直接重读FRUS第184号 https://history.state.gov/historicaldocuments/frus1964-68v26/d184 的第2段和编者脚注2。脚注说明1965-12-15 Jakarta telegram 1780**已经报告**美国使馆与日本、西德大使讨论印尼外交部Helmi代表陆军提出的援助请求。1965-12-16 telegram 777提议的是后续三方协调策略会议；其实施及援助实际交付仍未证实。**1780原文未读，只有FRUS编者摘要**。已原位修订C797与chronology；需取RG59 POL23-9 INDON 1780原件、日德会谈纪要及印尼接收凭证。
+
+G4/G3：直接阅读美国国家安全档案馆2017年公开文献汇编 https://nsarchive.gwu.edu/briefing-book/indonesia/2017-10-17/indonesia-mass-murder-1965-us-embassy-files 的第10件编辑说明，指向1965-10-29印尼空军情报第51/ch/Pr/i/65号东爪哇报告（RG84 Entry P339 Box14 Folder4），提到RPKAD从对马来西亚行动调至Surakarta/Solo。**仅汇编说明可读，本次未打开印尼语原扫描**，不得当成已核实的部队命令；下一步取得原页及军区调动记录并与当地口述、泗水电报比对。G1—G10全部OPEN。
