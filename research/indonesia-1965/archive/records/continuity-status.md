@@ -412,3 +412,8 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 **精准下一动作**：①获取ILO Case674原始1971-04-23申诉附件、1971-11-05政府函与ICFTU赴印四周调查记录；②追Tegal Texin、Semarang/Cilacap Djantra、Pasuruan Kamadjaja、Pekalongan Sragi、Madiun Pagotan的厂级工会会议与解散命令；③直接打开泗水203电报扫描并对照东爪哇军警拘押名册、巴厘华商损失记录；④继续Aceh/Flores/West Kalimantan军方地方原令和G1 Boven Digoel原遣送册；⑤恢复G7 2023—26救助执行文件和G9人物—组织—地点关系证据索引。所有G1—G10 OPEN；GOAL ACTIVE / OPEN-ENDED。
 
 本段写入前已成功提交的最新研究提交SHA：`88decf7d3bd6653041980bb13bd1f065d5f5e2d1`。本状态自身的最终提交SHA以GitHub提交返回及随后main实时核验为准。
+
+
+## 2026-11-10｜持续接力：第203号电报由摘要升级为原件
+
+已读取AGENTS、stage-access、goal-continuity、G1—G10 completeness-audit、正式四CSV、chronology和缺口总账；research-status.md在archive/records下不存在。原S449的NSA馆方摘要现已通过直接打开原始OCR及目视核验PDF第1—2页升级；更新S449并新增C789—C790/Q253/CV293，补入中文连续时间线。电报发出日为12月21日、雅加达收到日12月22日。具体拘押转交、巴厘华商焚店、40名省长助手遇害均仍是外交报告转述，尚无印尼地方执行原件。**下一步准确位置**：PDF第3页复核；Pasuruan/Assembagus 1965年12月拘押和转交簿；Bali省府Sutedja助手名册、华商财产案；1965-12-16 GMNI与12-17 Jombang NU原报纸。跨G项优先G1 Boven Digoel遣送原件和G6 1971 ILO Case674签署申诉书、政府回函；再转G7 2023—26实际救济。G1—G10全部OPEN，GOAL ACTIVE。前次已知SHA 88decf7d3bd6653041980bb13bd1f065d5f5e2d1；本次最终SHA以提交响应为准。
