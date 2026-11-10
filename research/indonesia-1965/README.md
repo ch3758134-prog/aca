@@ -78,3 +78,10 @@
 - [全局完整性审计](archive/records/completeness-audit-2026-11-09.md)
 
 每小时长期GOAL已纳入全部遗漏：研究轮次和年代跨度不是停止条件。新总账含1965年军政文件文号、Aceh与Flores地方调查、Boven Digoel殖民流放和LEKRA基层文化史；来源预登记须与正式CSV去重，原始文件未获得时不得声称原件核验。
+
+## 可读历史正文的新进展（2026-11-09）
+
+- [1965—1978：被清洗的社会如何变成拘押与劳动的对象](briefs/readable-history/1965-1978-local-purge-and-labor.html)：以连续中文叙述串联中爪哇/古突士、东爪哇、南苏拉威西、弗洛勒斯、棉兰的政治名单、行政停职与长期拘押劳动；脚注逐一对应原始军事报告、使馆电文和Komnas HAM官方调查报告。已实核AURI 1965-10-29、美国使馆A-373与A-386（全部现存正文页）及泗水187号密电（首扫描页截图失败，官方OCR复核）。
+- [读者版历史章节目录](briefs/readable-history/README.md)。当前只有局部成熟章节，尚非完整历史。
+
+新的实质查漏包括NSA将1965-10-29印尼空军原件中爪哇标题误标东爪哇的纠正，1965-12 Kudus Baperki名册（实际名单仍未取得），东爪哇官员停职与军方拟控制碾米厂/纺织厂所涉及的**组织和经济权力**。查漏继续根据 [全域缺口总账](archive/records/global-gap-tracker.md) 与 [长期接力状态](archive/records/continuity-status.md)推进，绝不把研究者概述当作全部地方原件已经取得。
