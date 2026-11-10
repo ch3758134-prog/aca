@@ -282,3 +282,10 @@ S449从馆方摘要升级为**原始电报OCR全文打开、四页扫描中前�
 **G4/G5：C级新线索S453/C795/Q256/CV296。** 直接打开松村智雄2015年J-STAGE期刊出版社摘要，确认其提出Oevaang Oeray、Partindo、1967年10月红碗动员、军方与达雅克地方政治力量之间并非天然一致的解释；**日文PDF全文尚未读**，Oeray原声明、Kodam XII军令、受害华人社群记录均缺。已交叉打开既有S385人权观察1997年全文，其中1967年的约300死、55000余人迁移是回溯背景数字，不是独立核实的1967年逐名统计。不能把S232、S385、S453当作三个独立原始档案。下一步先读松村日文全文pp45-63并追脚注，再按Sanggau Ledo—内陆乡镇—Pontianak迁移路径找1967年军政、教会、社群原件；另保持Flores、Aceh、爪哇、巴厘、Sulawesi等地区OPEN。
 
 **G8：已打开FRUS d230 1967-02-20 Rostow原始备忘录；正式已有S159，不重复编号。** 备忘录列出1967年总援助需求估算、美国拟提供上限、此前已承诺款项及总统有条件批准；不可把承诺或审批写成实际拨款或运输。与S452 1967-02-17格林关于不同援助项目交付状态的报告分别核验。缺1967年各援助项目拨付、港口交付、印尼签收和IMF/政府实施记录。G1—G10全部OPEN。
+
+
+### 2026-11-10｜G4/G5西加里曼丹来源层级与新印尼语馆藏线索（仍OPEN）
+
+已再次打开S453松村智雄2015年J-STAGE正式期刊页（https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/en），确认出版社标记`JOURNAL FREE ACCESS`、页45—63和PDF下载入口；尝试实际打开PDF（https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_pdf/-char/en）发生Timeout，**不能将摘要升级为已读全文**。另直接打开印尼语高校馆藏 https://repository.upi.edu/22118/ ：Arief Sepya Maulana 2015年学位论文《Peristiwa Mangkok Merah》，馆藏提供题名、摘要、第一/三/五章和书目等PDF入口，但第二章及附录标Restricted；本次仅馆藏摘要可读，尚未逐页核验论文和所引原始地方材料。该来源的“数千人死亡”属于未经原始名册核验的摘要表述，**不能作为新统计**。第三条印尼语地区图书馆目录 https://pustaka-bpkxii.org/pustaka/negara-di-balik-pembantaian-etnis-tionghoa-di-kalimantan-barat-tahun-1967%C2%A0-bagian-dari 确认Aju 2017年222页《Negara di Balik Pembantaian Etnis Tionghoa di Kalimantan Barat Tahun 1967》馆藏信息；目录声称RRI Pontianak播报冒用Oevaang Oeray名义，**与S453摘要的“Oeray发表宣战声明”存在需要原广播、文书和全文核对的潜在冲突**，不得据目录直接认定冒名或本人发表。优先追查1967年RRI Pontianak录音/节目单、Kodam XII/Tanjungpura Peperalda命令、Oeray署名声明与同时期报刊，再追论文全文和脚注。上述新增两处均为C级目录/摘要线索，未正式注册S/C编号，必须先在正式台账去重后登记。
+
+**跨G项G1/G2/G6/G7仍未闭合**：1927 Boven Digoel原始遣送名册、SOBSI/BTI/Gerwani基层原刊、1971 SARBUMUSI厂级解散命令及2023—2026中苏拉威西救济签收仍须分别核实；不能以本次西加里曼丹馆藏发现替代。G1—G10全部OPEN。
