@@ -403,3 +403,12 @@ Starting main head: `9cc0672c5a182c9bbf3a0aa4058d72c0b301d0f8`. This pass re-rea
 The continuous reader is `briefs/readable-history/indonesia-left-history-continuous-1901-2026.html`. It contains chronological prose, person and event indexes, source notes, confidence labels and links to regional deep dives. Bali's at-least-10,000 (A-408 synopsis), 80,000 (A-527 via FRUS note), and 6,000/105,000 (Howland via the same note) are shown as incompatible estimates, not verified totals. Howland's original article, A-408 page images, regional victim records, local A-386 lists and individual fates remain open.
 
 This is a current reading edition, not proof of exhaustive public-source or archive search and not a political conclusion. Political judgment remains with the author. GOAL remains ACTIVE / OPEN.
+
+
+## 2026-11-10｜ONGOING / GOAL仍进行｜1971工会申诉及1965地方暴力跨域接力
+
+已读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式四CSV、chronology和缺口总账。research-status.md在archive/records路径不存在（404）。本次正式追加S449、C787—C788、Q252、CV291—CV292，修订S200，更新chronology与G总账。ILO Case674/Report130第27—35段由官方搜索索引完整呈现且有西法文交叉核对，**官方页面直接打开失败，不能称已直接打开全文**。1971年工会指控的厂名、政府否认及1972暂缓审查的程序结果已分开记录；原工会申诉书、政府签章回复及工厂记录未得。另发现1965-12-22泗水203电报馆方摘要（S449），原电报全文未读，不能以摘要的10—15人推算杀戮规模。
+
+**精准下一动作**：①获取ILO Case674原始1971-04-23申诉附件、1971-11-05政府函与ICFTU赴印四周调查记录；②追Tegal Texin、Semarang/Cilacap Djantra、Pasuruan Kamadjaja、Pekalongan Sragi、Madiun Pagotan的厂级工会会议与解散命令；③直接打开泗水203电报扫描并对照东爪哇军警拘押名册、巴厘华商损失记录；④继续Aceh/Flores/West Kalimantan军方地方原令和G1 Boven Digoel原遣送册；⑤恢复G7 2023—26救助执行文件和G9人物—组织—地点关系证据索引。所有G1—G10 OPEN；GOAL ACTIVE / OPEN-ENDED。
+
+本段写入前已成功提交的最新研究提交SHA：`88decf7d3bd6653041980bb13bd1f065d5f5e2d1`。本状态自身的最终提交SHA以GitHub提交返回及随后main实时核验为准。
