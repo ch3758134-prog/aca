@@ -227,3 +227,7 @@ Each access failure, missing image or catalogue-only hit stays in the search log
 5. **1966 HF system:** d211 reports the 26 February request, Jakarta stock diversion, 12 May availability notice to Suharto, June 2–3 briefings and June 24 approval. Seek equipment lists, delivery dates, network plans, recipient receipts, training records and operating logs for each KODAM; preserve redactions and distinguish the original proposal from the later increment.
 6. **Japanese mediation originals:** obtain MOFA telegram 372 (19 April 1965), Shiina telegram 1033 (24 April), the record of Kawashima's meeting with Rahman, FO telegram 716, Saitō's clarification reports, Chow Chi Mo's memoir and Satō's diary entry. Garbagni's article leaves open whether Kawashima deliberately exaggerated Sukarno's position, misunderstood it or was misrepresented by the Malaysian side.
 7. **Japanese economic/state interests:** compare MOFA planning memoranda, reparations and investment files, oil/shipping data, and U.S./UK cables against the article's analysis of Japan's regional-role ambitions. Treat motive claims as interpretations until supported by a wider primary record.
+
+
+### 2026-11-10 G4/G5与G6跨项核验（ONGOING）
+已直接重新打开S377棉兰领事馆1965-12-06第183A号电报完整OCR：https://nsarchive.gwu.edu/media/15715/ocr 。报告区分已经描述为实施/宣布的县级Pantja Tunggal军官主持、学校Pramuka义务、PWI清洗、报纸许可要求，与尚待实施的Hansip武装延伸到村庄；不能把后一条件句写为全省既成事实。A级仅针对美国外交文件及其记载；印尼省军令、学校通告、县级会议簿、新闻许可和Hansip实际名册未取得，原扫描未目视校对。不同G项的S200（ILO 1971 SARBUMUSI投诉）官方入口本次访问失败，未据此新增实体主张。需取得ILO报告130原版、申诉信与政府答辩；不得把1971申诉等同1965地方军方实际工会命令。G1—G10仍OPEN。
