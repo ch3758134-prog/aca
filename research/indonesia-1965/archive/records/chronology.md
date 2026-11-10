@@ -805,3 +805,12 @@ The China arms question remains disputed: one working paper states small arms we
 - **1966-02-26 to 06-24 — HF link and added equipment:** d211 reports a Nasution-linked intelligence organization's HF request, some equipment diverted from Jakarta stocks, notice to Suharto on 12 May that equipment was available, technical briefings on 2–3 June, and approval of a further increment on 24 June with covert delivery arranged. Equipment details are redacted; a complete operational network is not proven. [S033; C777–C779]
 - **1964-12 to 1965-05 — Japanese envoy channel:** Garbagni reports Sukarno's request for Kawashima as mediator through Chow Chi Mo and reconstructs the disputed April “assurance” message to Abdul Rahman. Her study says Japanese clarification found no formal undertaking but leaves Kawashima's intent unresolved. [S448; C780–C782]
 - **1965 — Japanese regional-role and access analysis:** Garbagni characterizes Saitō's access to Sukarno and interprets envoy diplomacy as a bid for a stronger regional role tied to Japanese domestic debate and economic/security interests. These are attributed scholarly interpretations, not official proof of a single motive. [S448; C783–C784]
+
+
+### 1971—1972：工会申诉中仍然可见的地方劳动关系
+
+1965年以后，印尼左翼工会遭到镇压，但新秩序初期的劳动争议并未因此消失。1971年4月23日，印度尼西亚穆斯林工会联合会向总统与最高法院院长递交备忘录；同年6月12日，申诉进入国际劳工组织结社自由委员会。委员会1972年第130号报告第29段保留了申诉者的具体指控：中爪哇Tegal的Texin纺织工会、Semarang与Cilacap的Djantra织造厂、东爪哇Pasuruan一带的Kamadjaja纺织厂，以及Pekalongan的Sragi、Madiun的Pagotan糖厂工会，据称受到行政权力介入而被迫解散。这些是工会提出的主张，不能据此断言各厂实际解散经过已获独立证明。政府在1971年11月答复中否认侵犯结社权，并援引宪法及1969年劳动法。申诉组织后来请求暂缓审查，理由是交由国际自由工会联合会处理；委员会同意暂缓，并没有裁决双方实体争议。这一事件显示，工会组织权利的争夺必须落实到各工厂的人员、会议、行政干预和集体协议，而不是把法律上存在结社权当成实际获得保障。[S200; C787]（本次通过ILO官方搜索索引取得完整第27—35段，直接页面访问受阻，原始备忘录未读。）
+
+### 1965年12月22日：东爪哇拘押与巴厘华人商铺的另一条档案线索
+
+美国国家安全档案馆对驻泗水领事馆第203号电报的说明称，领事馆获知东爪哇有被拘押者夜间移交给穆斯林团体处决的报告，并提及巴厘华人商铺遭焚烧。这一条目前只能确认为馆方对电报的摘要；电报扫描及当地拘押记录尚未直接核验，不能把所述每夜十至十五人的数字作为独立死亡统计。[S449; C788]
