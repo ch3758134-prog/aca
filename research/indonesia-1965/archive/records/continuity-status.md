@@ -301,3 +301,11 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 **明确修正此前误警**：正式CSV历史中S338/339、C562—564缺号，**不是已确定丢失来源或主张**。从Git历史确认冲突修复前记录与修复后内容完全对应：原S338/339(Stoler书评及出版社书目)现为S340/341，原Delanggu S338/339现为S342/343；原C562/563/564内容分别在C575–577及C565–567保存。Git修复提交`aaae0955f63fe552e2771a63aa7e492f45a2bdb5`、`bccdad1b232beb524c387083bf3027209d2b7668`。空洞ID为治理历史保留，不得重用，绝不因此补重复数据。
 
 **精确下一动作**：1 ANRI RA112 索卷19/21/33/37/38/453，特别会员与财务、Eretan研究来信；2 AVROS卷4/14/22，和DPR议会来信案号3215、3216、3231、3224、3226，真正核工人土地争议及政府裁定；3 完整追1954-08-28 Indramayu警察报告和SARBUPRI中央会费登记通知；4 继续1970年《Penyuluh Land Reform》10(6):13—14原文、1967西加里曼丹省委土地/军令和Bagak农户贷款；5 下一个独立G项尽量选Gerwani妇女/监禁原始口述或1954–65地方反对党档案，平衡G1–G10；6 建立可读历史人物-组织-地区检索，但不要把未经证实的关系填入图。GOAL仍ACTIVE / OPEN-ENDED。**本轮提交后重新以main的当前HEAD接续，不用本段内SHA推断最终提交号。**
+
+## ONGOING / GOAL仍进行｜2026-11-10跨期工会与女性拘押证据接力
+
+已按规定重读AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、global-gap-tracker及正式四CSV和chronology；research-status.md在预期路径404，未声称存在。新核验完整Amnesty 1995官方报告S399，另核旧S152（1965年12月27日Surabaya Telegram212完整OCR）并去重。正式登记C704—C706、Q241、CV259—CV260，chronology与缺口总账已更新。**上一已核实写入提交SHA c2f223f9d448027e80a8cb88d080d1b9c7f41e35**；本状态文件提交后main将有新SHA，须以实际回执及重新读取main确认，不得把前一个SHA当最终HEAD。
+
+当前链：1965东爪哇国营企业SOBSI→SARBUMUSI/军人雇工资格报告；1993泗水PT Ria Star Indonesia工人代表被传唤、解雇；1994棉兰SBSI财务负责人Hayati审判；匿名Gerwani前干部1969起长期拘押及出狱后监视。Amnesty1995为公开完整报告与当事人访谈转述，不是企业会议、司法判决或原始拘押簿；不公开推测匿名受访者身份。不可把1965—1995不同组织与个人强行接成一条干部继承线。
+
+精确下一动作：①取1993泗水PT Ria Star Indonesia劳动部门争议案及KODIM传唤、工会代表声明；②查1994棉兰SBSI Hayati七个月刑期的法院案号、裁判和警方拘押簿；③寻找Amnesty1995原报告p20匿名Gerwani受访者的公开去标识访谈与其他独立地方证词；④恢复西加里曼丹1970《Penyuluh Land Reform》10(6)13—14原刊、地方土地处分文件；⑤另查1927 Boven Digoel遣送名单或1965巴厘/中爪哇地方军令，保持跨G项、跨地区平衡。G1—G10全部OPEN，长期GOAL ACTIVE / OPEN-ENDED，未完成。
