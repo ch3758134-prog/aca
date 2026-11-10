@@ -231,3 +231,12 @@ Each access failure, missing image or catalogue-only hit stays in the search log
 
 ### 2026-11-10 G4/G5与G6跨项核验（ONGOING）
 已直接重新打开S377棉兰领事馆1965-12-06第183A号电报完整OCR：https://nsarchive.gwu.edu/media/15715/ocr 。报告区分已经描述为实施/宣布的县级Pantja Tunggal军官主持、学校Pramuka义务、PWI清洗、报纸许可要求，与尚待实施的Hansip武装延伸到村庄；不能把后一条件句写为全省既成事实。A级仅针对美国外交文件及其记载；印尼省军令、学校通告、县级会议簿、新闻许可和Hansip实际名册未取得，原扫描未目视校对。不同G项的S200（ILO 1971 SARBUMUSI投诉）官方入口本次访问失败，未据此新增实体主张。需取得ILO报告130原版、申诉信与政府答辩；不得把1971申诉等同1965地方军方实际工会命令。G1—G10仍OPEN。
+
+
+### 2026-11-10｜G4地区对照与G6劳工组织资料入口（未闭合）
+
+本次重新打开FRUS XXVI第162号编辑说明全文（https://history.state.gov/historicaldocuments/frus1964-68v26/d162），确认其为**美国国务院后编编辑说明**而非所引各电报全文。编辑说明引用1965-10-27第1215号电报承认当时尚不能区分中爪哇暴力的不同起因；1965-10-29第1269号亚齐、11-08第1374号北苏门答腊、11-13第1438号及泗水171号均是使馆收报，不是地方死亡登记。1966-02-25 A-527称巴厘约80,000死亡，而1970年Howland引军方军官数字却称巴厘6,000，属于**来源、年代和统计口径冲突**，不得择一当确定值；需要获取A-527、Howland原文和各地死亡名册。此为既有FRUS来源复核，不新增S。
+
+G4中爪哇/日惹跨项新入口：Mark Winward, “Capture from Below: Civil–Military Relations during Indonesia’s Anticommunist Violence, 1965–66,” *Indonesia* 106 (2018), 111–136，Cornell馆藏页 https://ecommons.cornell.edu/entities/publication/3ee19a9b-310e-4cf9-97bd-96f42fd111b3 已打开**摘要及元数据（C级）**，论文PDF链接跳转失败，**未读全文**。摘要提出日惹军方依赖平民提供情报、人手、合法性并出现地方自主杀戮；仅作为待检假说，不把摘要结论冒充地方命令。下一步取得PDF、逐条追其注释中的军方/地方访谈原件，并对照Aceh的军方动员与Flores延迟审查机制。
+
+G6/G2长期线：1971 ILO Case 674 / SARBUMUSI相关材料仍未取得报告130原文，官方2018年决议汇编说明 https://www.ilo.org/resource/news/compilation-decisions-committee-freedom-association-now-available-line 已打开，仅确认ILO有案例决议检索体系，**不能证明该案具体主张**。下一步在ILO NORMLEX/ILOLEX逐案寻找申诉、政府答辩、委员会原报告及1968—71工会重组章程。既有S143的1966-08-03 A-65 Roti/Sawu材料已在正式来源表，未重复编号。所有G1—G10仍OPEN。
