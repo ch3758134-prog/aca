@@ -616,3 +616,7 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 
 
 **提交核验补记（2026-11-11）**：完成去重修正后，上一提交HEAD为 `b2b677ada5ec9e286a0b0dff008f8a989954d796`；FRUS d187早已正式登记为S156，故撤销本次重复S475，C821引用S156；本次唯一新来源S476。最终状态文件提交SHA须以GitHub返回和再次查询main为准。GOAL OPEN。
+
+
+### 2026-11-10｜ONGOING / GOAL仍进行｜精确续接
+本次直接核读G1—G10完整性审计、AGENTS/goal-continuity规则、正式四CSV、缺口总账与接力状态；正式登记S477—S479、C823—C825、Q272、CV312。G4/G5 Sikka 1966-02-27 Komop拘押名单会议来自Gerry van Klinken 2014开放专著对1974年匿名手稿的翻译（原件未得）；G6/G7 Keppres 83/1998国内1998-06-05生效来自BPK官方元数据，ILO NORMLEX搜索表列1998-06-09批准登记，动态页面打开失败。不要将学者转录当原始军令，不要把批准视为厂级自由。下一步精确动作：(1)查Sikka 1974 anonymous manuscript pp75-76及Komop 1966-02-27会议记录；(2)查Karel Elkel、Jos U. Tokoh职位和Sikka拘押名册/教区登记；(3)打开BPK Keppres83链接PDF核对三条法令正文；(4)查ILO C087批准交存及生效日期；(5)转向Aceh/West Kalimantan原始军令与G1 Digoel船单。G1—G10仍OPEN，长期GOAL未完成。本次提交SHA以GitHub提交返回值及随后main核验为准；本段不可预填未来SHA。
