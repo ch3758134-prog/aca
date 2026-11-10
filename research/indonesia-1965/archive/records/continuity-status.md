@@ -463,3 +463,14 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 **本次已成功提交正式研究文件，最近研究提交SHA：475808614834d13a2a2370047eb16bf82fb8be9b**。本接力状态自身提交SHA需以GitHub返回值和main独立核验为准，不能在提交内容中预知。
 
 下一次直接执行：①取得2016 Aju预发表原文和Kadir原访谈录音/记录，明确转述层级；②检索1967-09-21 21:00 RRI Pontianak播出稿/节目单与Kodam XII/Peperalda宣传文书；③读取Semdam XII/Tanjungpura 1970《Tandjungpura Berdjuang》p270及松村2015日文全文pp45—63，区分9月广播与10月声明；④转G1 Nationaal Archief 1927 transportlijsten/Delpher航运公告/ANRI殖民档案具体inventaris，记录原始遣送人名、命令号和运输日期；⑤转G2/G6 SOBSI及SARBUMUSI厂级文件、G7中苏拉威西救济签收与G4 Aceh/Flores/Bali地方原件，推进独立证据链。**G1—G10全部OPEN，长期GOAL ACTIVE / OPEN-ENDED。**
+
+
+## ONGOING / GOAL仍进行｜2026-11-10 跨G1/G4证据接力
+
+**本次已读取** AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09、global-gap-tracker和本续接状态。直接以预期位置读取正式CSV及chronology得到404；未据此推断文件不存在，须先定位实际路径。未读到正式台账，故本次没有编造新增S/C/Q/CV，也没有修改连续中文历史正文。
+
+**本次研究内容提交SHA**：`6161f85f4f6b2971cbca4625472324fc0f5a8f98`（global-gap-tracker新增G1/G4核验记录）；**本状态文件的提交SHA以GitHub main的最新HEAD为准**，不能在自身提交内预知自身SHA。长期GOAL保持OPEN，G1—G10均不关闭。
+
+**精确续接位置**：G1已直接打开悉尼大学OMAA馆藏目录 https://omaa-arts.sydney.edu.au/texts/2271/ ，确认Nationaal Archief 2.10.45 item 292 (1943)，restricted，尚未读取档案两件原文；1927年第一批运输的出发/抵达须核荷文航运原始记录。G4已复核松村2015 J-STAGE摘要；1967年9月21日广播和10月声明是否同件、Oeray是否授权均未解决。
+
+**立即执行的动作**：① 在GitHub通过仓库树/目录检索定位四份正式CSV、chronology及readable-history真实路径，读取末尾编号、检查重复；② 以Nationaal Archief 2.10.45/292检索馆藏原页/请求复制，区分1943解除拘押决定与约560名军事人员名单；③ 荷文搜 `1927 Boven Digoel eerste transport Reteh passagierslijst februari maart` 和殖民政府决定；④ 印尼语搜 `RRI Pontianak 21 September 1967 naskah siaran Oevaang Oeray`，取得原播出稿/签署文件；⑤ 转至不同G项的Aceh/Flores原始军令或Gerwani基层原刊及2023—2026救济实际发放记录，避免G1/G4独占调查。
