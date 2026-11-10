@@ -264,3 +264,11 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 **下次直接动作**：①查1996-08-12 Antara原始报道与Budiman/Petrus等人军方拘押登记；②查1997 PRD/SMID/PPBI/STN一审与上诉裁判、1998-03-09 SBSI现场记录；③回G4西加里曼丹1967年军区命令、撤离和难民营名册，地区区别于Bone/Aceh；④回G1 Boven Digoel 1927遣送登记及荷文原报；⑤G2 MPBI 1968-69工会原始会议签名，G5 Gerwani地方妇女证词。当前GOAL OPEN，未完。
 
 归档校验：本次七文件更新后的核验HEAD为 `8de476360f6699cf5694cd6a9362b578a3d07962`（与当时main identical，ahead/behind 0）；本状态追加提交将使main产生新的HEAD，最终以提交回执和再次compare为准。长期GOAL保持OPEN。
+
+## 2026-11-10 GOAL续接：1967—1991西加里曼丹暴力后土地权利（ONGOING）
+
+**新正式档案：** S387—S393（7来源，注意S392为1970原件书目索引、S393为潜在馆藏线索，非1970原文）；C683—C693（11原子主张）、CV249—CV252、Q238，扩写正式chronology和读者中文章节 `briefs/readable-history/1967-1991-west-kalimantan-rubber-land.html`。来源包括直接打开的FAO Peluso原田野HTML、Peluso2009/2024学术PDF可提取文本以及印尼1967年UU5官方全文与BPK生效日。PDF截图技术失败如实登记；Peluso多篇同一田野不能算独立三方证实。实质事实：Bagak村社和军人约150ha原华人土地再分配；PPKR 1981-86年42+87+80=209ha；约1990年FAO总PPKR约296ha口径不明；1989邻村800ha/400计划户后来约350户；UU5 1967-05-24，不是Peluso2024写的2月；森林法对adat权利的限制与被驱逐者耕地临管两种制度要分开。
+
+**最重要的未闭合证据链**：Peluso2017经私人藏本引出1970年12月《Penertiban tanah-tanah pengungsi tjina di Kalimantan Barat》约52,857ha；这次**发现1970年《Penyuluh Land Reform》10(6):13—14同名文章书目（S392）**。2002—22院校土地研究（S393）指出旧刊可追ATR/BPN、ANRI和Trisakti Boedi Harsono，但没有确认这一具体期号现存。**必须取到1970年这两页，检查是否同一文稿、52,857公顷分母和每县/土地类型/权利归属；不能宣称原始报告已经打开。**
+
+与 G1—G10 全域研究交叉：1970原件可能将难民去向、土地处分、1967军事行动和1980年代国家发展连成实际生产史；保留其他各省军令、工农妇组织历史、海外流亡和1998—2026的并行线索。下一次不只搜索PPKR，应转回至少一个不同G项（如1965—1968女性拘押原始BAP或1927 Boven Digoel遣送人名）。最近正式chronology提交 `de8d48e552060da929d04b02af59be58d371433a`；**每次依据最新main HEAD刷新**，此非最终完成提交。GOAL **ACTIVE / OPEN-ENDED**。
