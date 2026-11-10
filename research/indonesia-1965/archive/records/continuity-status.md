@@ -343,3 +343,10 @@ Added 12 source records S297–S308, 12 claims C488–C499, 6 searches Q186–Q1
 - **研究尚未闭合的重要文件**：PPHAM原始报告及半年度2023—26执行报告、2025 LPSK受益者独立去重与拒绝案例、行政救助对应的赔偿/医疗/国籍和土地文件、2026检察长新的司法程序、2026刑法188/189实际执行及研究豁免法院解释。继续轮换G1 Boven Digoel原遣送册、G2 BTI会员财政、G4地方军队原令、G5妇女性暴力证言及各地社会组织；不要把救济统计取代1950—65实际历史。
 
 最后一次已核实覆盖缺口总账提交 `b37ae57d1e8e9174f4c3a98ef54baed7c502796c`。本状态提交后应重新查询实时main HEAD，不以本SHA作为以后全部接力终点。GOAL **ACTIVE / OPEN-ENDED**。
+
+
+## 2026-11-10｜ONGOING / GOAL仍进行｜1485原件及跨G项接力
+
+读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式四CSV、chronology及缺口总账。研究状态research-status.md在预期路径404，未伪称已读。直接打开National Security Archive第1485号电报页面、OCR、三页PDF并目视核对扫描第2页：1965-11-18格林报告雅加达反G30S委员会中穆斯林、基督教政党与PNI右翼同军方松散合作，且据Mokoginta意见推测军方不会支持自由政党/工会。原电报第1页是撤回通知，关键棉兰289号电报未得；不把使馆预测等同已执行的军方命令。新登记S425/C747/Q247/CV280，chronology和G总账补充。另一高价值G1/G4缺口仍未获得1927 Boven Digoel原遣送册与1967西加里曼丹军令，不能凭目录填充。
+
+**精准续查**：①美国驻棉兰1965-11电报289、control642A原扫描，核对Mokoginta引述；②雅加达反G30S行动委员会1965年10—11月成立文书及宗教党/PNI右翼名单；③SOBSI各产业工会停职/资产移交地方命令与1968工会联合原章程；④ANRI/荷兰国家档案Boven Digoel 1927遣送册、2.10.45/292；⑤West Kalimantan 1967迁徙命令和收容营名册，与2023—26 LPSK地区救助统计分别推进。G1—G10全部OPEN，GOAL ACTIVE / OPEN-ENDED。最终main HEAD必须以GitHub实际提交后核验为准。
