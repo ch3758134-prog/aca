@@ -569,3 +569,10 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 **跨G项证据链B：**1965-11-01雅加达1290电报OCR全文https://nsarchive.gwu.edu/media/15705/ocr，明确Palembang/S Sumatra，纠正NSA编辑网页误写North Sumatra。劳工专员10-28/29访问后报告拘押约600人、Stanvac约30、Shell约24、PUSRI约15，数字来源不同且可能重叠；Shell否认军方所称火灾破坏，企业仍讨论炼厂转让。待取：原PDF扫描、Palembang警察/军方拘押簿、PERBUM和SOBSI名册、Shell火灾调查、炼厂合同；不能将地方报告推及全省。
 
 **下一次直接动作：**①核两电报原始扫描与OCR逐页差异；②找10-21工会联合声明及劳动部冻结令；③找Palembang/Pladju/Sungaigerong/Prabumulih的企业和军方档案；④换G4地域查巴厘县级军令、Flores教区死亡登记或Aceh 1965军区年报；⑤恢复G1殖民组织、G6政治犯/流亡、G7当代幸存者和G9索引，并在成熟时更新readable-history中文连续正文。**G1—G10全部OPEN，永久持续。**
+
+
+## ONGOING / GOAL仍进行｜2026-11-11 ILO劳动组织跨时期证据链
+
+已读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09、global-gap-tracker、四份正式CSV及chronology。此前正式基线S466/C810/Q264/CV304；本次新登记S467-S468、C811-C812、Q265、CV305，已更新chronology及global-gap-tracker。直接打开ILO原始监督记录GB.270/7第425—442段、GB.276/7/1第226—230段；不同于未核实的政府原始卷宗，ILO文件确认的是国际委员会记载的政府陈述及委员会独立评价。1994年Medan28名工人刑罚、1999年Dita Sari释放、Komnas HAM启动Marsinah调查均需印尼原件独立复核。此次已重读NSA第1168及1290电报OCR，未取得扫描；1965 Palembang地点纠错继续保留。
+
+**精准续接**：①ILO第305次报告附录28名Medan被拘押者名单与印尼法院卷宗；②印尼总统Keppres 68/1999官方文本及Dita Sari释放记录；③Komnas HAM 1999 Marsinah调查原始结论及不同证词；④1965-10-21 SARBUMUSI/SOKSI联合声明、SOBSI冻结劳动部命令及NSA1168/1290扫描；⑤G4 Aceh、Bali、Flores、West Kalimantan、Sulawesi军令/县级名册与G1 Digoel船单。G1—G10仍OPEN，不以本次材料关闭。**本续接文件写入前最新成功提交SHA：5911e1f176327525f876409945388d15ae1a58de；本文件提交产生的最新SHA必须以GitHub写入返回及后续main核验为准。**
