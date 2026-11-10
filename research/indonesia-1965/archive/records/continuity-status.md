@@ -515,3 +515,12 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 ## ONGOING / GOAL仍进行｜2026-11-10 G8/G4交叉核验
 
 已重读G1—G10完整性审计、项目规则、正式CSV、chronology与缺口总账。FRUS d184第2脚注确认：1965-12-15 Jakarta 1780已报告美国使馆与日德大使讨论印尼陆军经Helmi提出的援助请求；1965-12-16第777号电报提议的进一步三方策略会及实际援助交付未获证明。已修订正式C797及chronology，未重编号。跨G4检查国家安全档案馆2017汇编第10件1965-10-29印尼空军51/ch/Pr/i/65东爪哇报告的编辑说明，尚未打开报告原页。下一步：取1780原件、日德使馆会议记录及拨付签收；取51/ch/Pr/i/65原扫描及RPKAD调动令；轮换G2 Gerwani/BTI地方原刊、G4 Aceh/Flores原件、G7中苏拉威西救济签收。G1—G10仍OPEN。已成功研究提交SHA 906d58e267d4e7aab85a7f82cd6b440ef5fc6054；本状态文件提交SHA以后续实际返回为准。
+
+
+## ONGOING / GOAL仍进行｜2026-11-11 中爪哇原始军方扫描接力
+
+本次已读取AGENTS、stage-access、goal-continuity、2026-11-09完整性审计、正式四份CSV、chronology、缺口总账和本接力状态；research-status.md在预期路径404。**研究正文与缺口总账最新已成功提交的研究SHA：bb8193062edd5cc7773fad22783b5ba018ed3f62**；本状态文件自身提交SHA只能以GitHub写入返回值及main HEAD再次核验，不可在文件中预知。
+
+**已核实**：首次直接打开并目视检查1965-10-29印尼空军情报报告51/ch/Pr/i/65扫描前两张（原页码4—5），https://nsarchive.gwu.edu/sites/default/files/documents/4107020/Document-10-Report-from-the-Director-of.pdf 。标题为DJAWA TENGAH，中爪哇而非档案馆网页误称East Java。第2项10月23日陆军/RPKAD/空军/警察联合参谋组由Sarwo Edhie指挥；第6项10月22日6死35伤、10月23日Sem[u]14名受害者、10月24日Kartasura21名受害者和Benteng6具尸体，数字类别不同不可相加。第7项空军10月22日支援RPKAD展示/侦察/传单；第12项10月27日开始Operasi Waspada Pendahuluan。军事机关原始同期报告≠各事件已被独立核实，亦不等于调防令。OCR乱码，按扫描页读。已经更新global-gap-tracker和chronology；**本次未写四CSV，不能虚称新增S/C/Q/CV编号**；下次先查S457以后是否已有同一文书，按正式最大编号去重登记。
+
+**精确未完及下一次执行动作**：①目视核PDF第3张及寻找原报告第1—3页，确认报告是否只是节录；②检索S/C/Q/CV正式台账中51/ch/Pr/i/65与Surakarta 10月23日联合参谋组是否已有登记，补充来源访问等级及原文页码；③索取1965-10-23 Sarwo Edhie联合参谋组任命令、10月27日Operasi Waspada Pendahuluan行动命令和AURI Panasan飞行日志，核死伤数字与地方医院、警方簿册；④转不同G项：1965-10-21 SOBSI反共工会声明及劳工部冻结命令、Gerwani基层原刊；⑤继续Aceh 1965军区年报、Flores教区死亡登记、Boven-Digoel 1927船单、2023—26幸存者救济实际签收及日德援助会议原件。**G1—G10全部OPEN；长期GOAL ACTIVE / OPEN-ENDED。**
