@@ -544,3 +544,10 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 已读取AGENTS、stage-access、goal-continuity、G1—G10完整性审计及正式四CSV与chronology。正式台账现有S462/C804/Q261/CV301为末号；A-408已登记为S401，禁止重复编号。直接打开印尼1958年第68号法律五页政府PDF（https://peraturan.bpk.go.id/Download/42211/UU%20Nomor%2068%20Tahun%201958.pdf），确认1958-07-17签署、08-28公布、批准1952年妇女政治权利公约并保留部分条款；第3条把公约生效与联合国批准书交存后90天相联系，未核交存日期。1961年Gerwani纲领转录中1958/1959年份不一，以法律原文确定1958，印刷纲领尚缺。
 
 另一地区G4/G8链：直接逐页查看1965-12-21美国使馆A-408（https://nsarchive.gwu.edu/sites/default/files/documents/4107034/Document-24-Airgram-A-408-Joint-Weeka-No-48-from.pdf）扫描前3页。封面注明周报观察期1965-12-13至18；原扫描第3页写全国约100000死亡，巴厘一位使馆认为可靠的消息人估计岛上约10000死亡，杀戮仍在继续。这只能证明使馆当时的估算，不是已核实死者总数；应追巴厘县级军令、拘押簿、教区/村庄埋葬簿、消息来源及统计定义。下次读A-408其余扫描页、查UN批准书交存、Gerwani纲领印刷本，并轮换Aceh/Flores、SOBSI基层、1970—98拘押/工会和2023—26补偿实付。以上两条新事实**尚未写入正式CSV**，必须去重后登记，不得自称S463/C805等已经正式生效。GOAL永久OPEN。
+
+
+## ONGOING / GOAL仍进行｜2026-11-10 法律与A-408原件后续
+
+已读取main AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10 completeness-audit、正式四CSV、chronology及缺口总账；research-status.md预期路径不存在。已登记S463、C805—C806、Q262、CV302。直接打开印尼第68号法律五页官方PDF；对既有S401的A-408原始扫描继续检查PDF第4—6页，新增1965-12-13情报机构BPI/KIN/KOTI及1000:1货币改革同期外交记载。此前PDF第3页巴厘死亡数仍只是使馆转述估计。研究与台账已逐文件按最新blob SHA更新；**本状态写入前已成功的最近提交为ae4c2f2f48414caae8dc3629690865562d54da1a**，最终main HEAD须以本次写入返回及重新读取确认，不能预写自身SHA。
+
+精准未完：①取得联合国1952妇女政治权利公约印尼批准书交存登记，核实际生效日期；②取得1965-12-13 BPI→KIN/KOTI印尼命令与货币兑换法令，对照A-408；③取得巴厘县级1965-12军令/医院或埋葬登记与同期独立证人，检验A-408死亡估算；④切换G6政治犯Buru与SOBSI→FBSI/SPSI组织原件、G7 2023—26中苏拉威西救济签收；⑤恢复G1 1927流放船单、G4 Aceh军区年报与Flores教区登记，更新G9人物组织关系。**GOAL ACTIVE / OPEN-ENDED；G1—G10全部OPEN。**
