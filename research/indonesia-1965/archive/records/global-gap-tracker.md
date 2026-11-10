@@ -301,3 +301,14 @@ S449从馆方摘要升级为**原始电报OCR全文打开、四页扫描中前�
 **S454/C796/Q257/CV297正式登记**。发现Aju署名、2016-10-01刊出的著作预发表节选 https://bergelora.com/pembantaian-etnis-tionghoa-kalimantan-barat-1967/ 。网页直接打开403，仅检索索引提供较长连续段落，访问级别**C（索引节选）**，不能写成已读网页全文或1967年原始记录。其具体新信息是将1967-09-21 21:00 RRI Pontianak播报、1967-09-22与Oeray会面以及“军方冒名”的解释归于具名讲述者Laurentius Herman Kadir。后者所称军官承认，又经Oeray转述，至少两层口述转接。与Aju 2017馆藏摘要、Fachrurazi/Atmaja 2018著作及Tirto 2018报道很可能存在**同源引用链**，不得当作多重独立佐证。必须核对2016文章原版、Kadir访谈录音/原始记录、Oeray本人文书、RRI节目单/播出稿、Kodam XII/Peperalda宣传命令、Semdam XII 1970《Tandjungpura Berdjuang》p270。九月与十月广播/声明分开登记，不预设同一件。
 
 **G1交叉核查**：荷文检索“Boven Digoel 1927 transport list deportees Dutch colonial archive”及“Boven-Digoel geïnterneerden transport 1927 namenlijst gouvernementsbesluit”未取得1927年逐名遣送原册；结果出现传记与二手材料，不能替代运输清单。下次转向Nationaal Archief具体inventaris、Delpher当年航运报纸和ANRI殖民警察档案；记录原始文号、页码、名单范围。G2 SOBSI/BTI/Gerwani，G3跨机关时序，G6拘押与劳工，G7救济，G8外部介入，G10正文治理继续OPEN。
+
+
+### 2026-11-10｜跨G项原件入口核验：G1殖民流放与G4西加里曼丹（ONGOING）
+
+**G1 / 1943澳洲转运与殖民拘押的可定位档案（C级目录，不是已读原件）**：悉尼大学 Opening the Multilingual Archive of Australia（OMAA）公开目录 https://omaa-arts.sydney.edu.au/texts/2271/ 已直接打开。所列荷兰国家档案馆 Nationaal Archief **2.10.45，卷宗292**，题名 *Besluit van de Nederlands-Indische Commissie voor Australië en Nieuw-Zeeland inzake de intrekking van de internering van politieke gevangenen te Boven-Digoel*，1943年，涉及Boven-Digoel被拘押者在澳大利亚的解除拘押决定及电报；**Restricted access**。目录摘要还描述Casino (NSW)、Lytton (Qld)等拘押与遣返材料，以及约560名荷属东印度军事人员的名单；**不能把560人当作Boven-Digoel政治犯人数**，也不能断言名单属于卷宗292的两件决定书。下一步按2.10.45/292向荷兰国家档案馆申请目录对应原件及复制条件，并单独追踪1943年澳洲转运与释放的实际执行。
+
+**G1 / 1927年初遣送时间差（B级后出荷文研究全文，不是航运原件）**：已直接打开Robbert van Leeuwen，2026-09-02，https://historiek.net/boven-digoel-tanah-merah-nederlandse-interneringskamp/170302/ ，文中称1927-02-01第一批运输开始（脚注3转引Peeperkorn-Van Donselaar、Shiraishi），与其他概述的3月抵达并不必然冲突，需分开记录出发、抵达与首批名单。该文引述殖民总督行政流放权及1935 Hatta/Sjahrir抵达；其注释给出Peeperkorn-Van Donselaar 1986 pp35,37-38、Shiraishi 1996 pp94-95，尚未核原页及船舶登记。优先搜1927年KPM航运公告、乘船名单、总督流放决定及各船抵达日。
+
+**G4/G5/G9 / 西加里曼丹声明归属仍未解决（B/C级）**：重开松村智雄2015年J-STAGE出版摘要 https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/en ，作者把10月动员归于Oevaang Oeray；现有9月21日广播冒名争议来自不同后出转述，不能合并成同一原始声明，也不能将两篇依赖相同口述的报道视作独立证据。仍缺RRI Pontianak节目单、播出稿、Oeray签署文本、Peperalda/Kodam XII命令、Kadir原访谈及《Tandjungpura Berdjuang》(1970) p270。此次未取得新的军令/广播原件，**未升级归责置信度**。
+
+**G2/G3/G5/G6/G7/G8/G10持续OPEN**：此项记录不构成各领域核实完成；按全局审计分别保留基层组织原刊、跨机关逐日命令、妇女幸存者口述、政治犯/流亡和工会重组、当代救济执行、外援交付及正式CSV去重/读者正文治理。由于正式CSV与chronology实际路径尚未定位，本次不冒险创建重名台账或虚构S/C/Q/CV编号。
