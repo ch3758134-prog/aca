@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-11：北苏门答腊同期电报去重与机制分离
+
+本次读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09（G1—G10）、global-gap-tracker、四份正式CSV及chronology；research-status.md在指定路径不存在。正式台账最新可见编号S813/C1435/Q344/CV365。本次查证G4/G5北苏门答腊与G10同源治理：打开FRUS d174全文及NSA第183A/184A号馆藏页面，核实S371/S376重复登记同一电报，S377/S426是两份不同内容的12月6日电报；历史陈述区分11月14日民兵干部威胁、11月10日报纸转述、11月2日PP/PNI冲突、12月地方行政控制与匿名宗教消息。上述原始材料均已有正式登记，因此未新增S/C/Q/CV，避免同源重复；新增内容已并入chronology与global-gap-tracker。馆藏网页的摘要不升级为原件全文：FRUS d174是直接读过的官方编辑全文，NSA两份在本次只重新核对档案页，原OCR的既有阅读状态以S377/S426记录为准。
+
+**精确未完链**：①找1965-11-10棉兰地方报纸原版与议员姓名；②1965-11-02 PP/PNI冲突警方/医院/组织记录；③Kodam Bukit Barisan指挥更替与县议会/Hansip命令原件；④BAPERKI Gandhi街原校舍地籍和拘押档案；⑤转换G2 Gerwis工作手册原版及G6/G7工会/政治犯原件，继续优先Flores、Aceh、Sulawesi、Bali等地，不得因棉兰本次有新文字而停止。G1—G10全部OPEN。Git HEAD以提交后独立核验为准；提交记录不可在自身正文预知SHA。
+
 ## ONGOING / GOAL仍进行｜2026-11-11：Murba法权与1998年SBSI实质核验
 
 已读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、global-gap-tracker、四份正式CSV（全量内容以检查编号及同源）和chronology开头；research-status.md此路径不存在。正式CSV当前末尾S813/C1435/Q344/CV365；本次不新建正式编号，避免将部分同源ILO材料重复登记。chronology与中文正文未改，因为Murba原签署PDF、SBSI登记原件尚未读。
