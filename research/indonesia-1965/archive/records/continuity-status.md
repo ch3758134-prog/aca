@@ -1,3 +1,11 @@
+## 最新接力｜2026-11-11：荷兰流亡者刊物与Antara原报纸馆藏（GOAL OPEN）
+
+已读AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、global-gap-tracker、正式四CSV和chronology（本次部分大文件按头尾与正式编号读取，尚未完成逐行全量去重）。本次实质跨项核验：G6/G9打开GerakIngatan馆藏KOL4_27（1982年Komitee Indonesië刊物，只有目录及封面，不是文章全文）；G3/G4打开日本国会图书馆Antara《Warta berita》纸本馆藏号Y735-SN-2（1965-07-01至1994-12-29馆藏区间，非每日逐期已读）；另G2找到Gerwis工作手册的网页题录但无法读取正文。原链接、证据等级、限制及下一步详见global-gap-tracker最新节。
+
+**本次可执行的下一动作**：①打开GerakIngatan Koleksi Komitee Indonesië具体刊物期号，按作者、日期、流亡者与印尼事件交叉核查；②以NDL馆藏Y735-SN-2申请1965-10-01至10-31、1967-07与10—11月Antara原报纸，优先核印尼军方发布、地方迁徙与报道日期，记录缺号；③定位Gerwis *Pedoman Bekerdja*完整合法扫描，比较1950年代Gerwis/Gerwani章程；④继续Flores Gabriel Manek 1966-04-28主教信与Wolokoli拘押、SOBSI 70/204、YPKP创刊号；⑤正式CSV按URL/档案号全量去重后才登记新编号，并将可核验的原文事实并入chronology和连续中文正文。当前新增仅为馆藏可达性，不编造史实、不重复来源编号。
+
+本次已核实的**缺口总账提交SHA**：9c2f7e097df1fd2a7781200ccc1beee577c95618。当前续接状态提交自身SHA无法在提交正文中预知，提交后须独立查询main确认；下一次以该最新HEAD为基线。GOAL ACTIVE / OPEN-ENDED，G1—G10全部OPEN。
+
 # 印尼左翼历史 GOAL｜连续接力状态
 
 ## 最新接力｜2026-11-11：Flores地方军政、工会法效力、幸存者组织（ONGOING / GOAL仍进行）
