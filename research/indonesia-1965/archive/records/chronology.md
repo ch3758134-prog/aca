@@ -1138,3 +1138,9 @@ FRUS目录显示，9月20日有一份提交303委员会的备忘录，来源标�
 1968年6—8月，约翰逊批准了包括常规援助份额、粮食、棉花和发展贷款在内的方案，并授权对可能追加的大米和棉花进行沟通；8月另批准10万吨PL-480大米作为1969年援助的预付款，附有美国国内供应和越南需求条件。这些是更强的总统级授权证据，但仍不等于拨款、合同、装船、到港或地方分配。1968年10月，Rostow提出1969年对印尼5亿美元总需求提供1.30亿美元非粮援助并承担大部分粮援；约翰逊手写意见偏好较不具约束力的“公平份额”说法，公开记录没有勾选正式批准选项。（S567-S570；C966-C970）
 
 12月31日的NIE 55-68把苏哈托时期描述为陆军有效控制、对西方援助依赖加深、外交上仍不结盟但向西方靠拢；它也把1965年10月事件叙述为PKI试图消灭主要对手陆军的行动。这是美国情报评估，不是该卷独立验证的事实。NIE中的文化论断、PKI/东爪哇活动和援助数字需要分别与印尼原件、地方资料及捐助国账册交叉核验。（S571；C971-C975）
+
+## Foreign-archive addition — Australia, British information action and IGGI (2026-11-11)
+
+- **17 February 1965:** Australian ambassador K. C. O. Shann's published secret cable records Sukarno saying he did not want war, wanted talks, and asked whether Australia could help arrange them. The cable is a summary with omissions; Shann's account of Sukarno's view of China and his interpretation are attributed to the ambassador. [S579; C983-C984]
+- **6–13 October 1965:** FCO 168/1667–1668 records Britain's instruction for an unattributed propaganda campaign, desired objectives and channels, a special issue's planned posting through Manila and Tokyo, Hewitt's statement that officials saw the crisis as an opportunity despite uncertain facts, and Wynne's transmission of an English/Indonesian copy to IRD. The scans establish British intent, production and reported routing plans; they do not prove Indonesian delivery, audience, or effects. [S572-S578; C976-C982]
+- **February–November 1967:** A World Bank briefing reports Amsterdam and Scheveningen IGG meetings, a $200 million 1967 balance-of-payments assistance pledge and a planned November meeting on 1968 aid. Dutch National Archives inventory 2.05.313 lists physical IGGI meeting papers/minutes from 1967 onward; those files remain unread. [S581-S582; C985-C986]
