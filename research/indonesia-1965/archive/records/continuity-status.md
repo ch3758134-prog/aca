@@ -1,5 +1,14 @@
 # 印尼左翼历史 GOAL｜连续接力状态
 
+## 最新接力补充｜2026-11-11：G4/G5亚齐社群与G7法律目录冲突（ONGOING / GOAL仍进行）
+
+开始时核实main HEAD为49b85f7e2d0742fa29ad84a9d494eaf606b6518e；读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09、正式四CSV、chronology、research-status、global-gap-tracker及本文件。当前正式最高ID S800/C1405/Q338/CV360；本次无新独立原始史料足以新增编号，未重复登记已有S611/C1029、S473或Melvin既存研究来源。已写入缺口总账的提交：2f6c885ba62e3f370f91fccb184d40c00fc8ec32。
+
+核验链1（G4/G5）：全文打开Jess Melvin 2013年亚齐华人暴力论文 https://journals.sagepub.com/doi/full/10.1177/186810341303200304 。其对Ho Fui Yen、Xie Jie Fang、Wak Tin Chaw和Asan的访谈转引揭示亲北京/亲国民党、Asosiasi、Baperki、PKI等不同网络；学校关停和1966年驱逐仍缺原始学校/军方/迁移文书。核验链2（G7/G10）：官方劳动部JDIH https://jdih.kemnaker.go.id/peraturan/detail/32/undang-undang-nomor-21-tahun-2000 标UU21/2000有效，BKN JDIH https://jdih.bkn.go.id/Detail_peraturan/breaking/1812 标无效；仅确认目录字段冲突，不据此推定法律废止。另重开FRUS d186 https://history.state.gov/historicaldocuments/frus1964-68v26/d186 ，已登记S473，故不重复编号。
+
+精准续接：①查1966年Ishak Djuarsa对亚齐外国籍华人驱逐令签署扫描及Banda Aceh/Meulaboh/Sigli迁出记录；②索取Ho/Xie/Wak/Asan 2011原访谈逐字稿及学校关闭令；③核BPK/JDIHN对UU21/2000的2026有效性、具体修订/废止依据，并索地方劳工局工会登记及争议裁决；④继续ANRI SOBSI 70/204与BAPEKAN回函；⑤轮换至西加里曼丹1967军令、其他爪哇县及1970—98组织原件，避免单地区锁死。未取得上述原件，未修改chronology或中文正文；下一次取得可证实的具体实施时间/机构后再并入。GOAL长期OPEN，G1—G10全部OPEN。**本状态更新前已核实上一提交2f6c885ba62e3f370f91fccb184d40c00fc8ec32；本状态提交自身SHA须在提交后独立查询main确认，无法在同一提交正文预知自身SHA。**
+
+
 更新：2026-11-11。**ONGOING / 未完成**。
 
 ## 最新接力补充｜2026-11-11：PKI领导名单原件与转交渠道争议
