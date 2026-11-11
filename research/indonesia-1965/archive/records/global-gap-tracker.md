@@ -1066,3 +1066,12 @@ d168显示State、Defense、CIA和白宫工作人员讨论援助时，对是否�
 **G4/G5／Flores-Maumere 1966：**打开John Mansford Prior 2011《The Silent Scream of a Silenced History: Part Two》论文出版/摘要页面（https://www.researchgate.net/publication/274532064_The_Silent_Scream_of_a_Silenced_HistoryPart_Two_Church_Responses），**仅摘要、全文不可得**。作者概述Maumere 1966年2—4月约800—2000人被杀、军方发起、当地天主教徒参与杀害同为天主教徒的受害者，并提及三位荷兰传教士约40年后的回忆。数字与责任结构均是作者摘要的概述，不是军方原始名册或独立统计；不能把教会视作单一政治主体。**需要**Prior Part One全文、Maumere当地KOMOP军令、教区1966年日志、传教士原稿、Jan Djong拘押死亡证明及地方村级名单。不得把二手引用当独立反证。
 
 **G1—G10横向保留：**G1 Semaun原文与1920年代殖民工会文件；G2 SOBSI/BTI/Gerwani基层财务和章程执行；G3 1965跨机关时间戳；G4 Aceh/北苏门答腊/东西中爪哇/巴厘/Flores/西加里曼丹/Sulawesi县级军令；G5 性别族群与幸存者；G6 布鲁岛外监禁、流亡、学生与工人再组织；G7 工厂执行与2024—26法律诉讼；G8 英美澳中苏审批—交付；G9 地名/人名/机构索引；G10 正式CSV去重和按事件时间主线。以上均未闭合。本次大型CSV的连接器返回包含截断警告，不可安全整文件覆盖，故未擅自登记S/C/Q/CV或改写chronology；需要改用分页完整读取/本地校验后正式并库。GOAL OPEN。
+
+
+## 2026-11-11｜G7工会成员核验原始法规 × G4 Flores口述证据链（ONGOING）
+
+**G7 / A级直接打开签署法规PDF**：印尼劳动和移民部长Fahmi Idris于2005-04-08签署PER.06/MEN/IV/2005（官方PDF https://jdih.kemnaker.go.id/asset/data_puu/peraturan_file_133.pdf ，第1—6页及附件）。第3—5条将登记工会的会员资料收集交给县市劳工机关，要求工会干部与雇主签署核对表；一方拒签时启动核验。第6条规定45工作日内查验会员卡或书面声明、张贴临时名单、受理书面异议并形成签署的正式名单；第7—9条规定县市—省—中央逐级汇总。**可证实的是2005年国家设计了怎样的会员核验制度，不是任何一家工厂实际执行、人数或干预结果**。与1998 PER-05/MEN/1998注册制不能混为同一法令。须取得具体县市原始核验表、工会签名与拒签记录，比较FSPMI/SBSI/独立工会的实际登记。
+
+**G4 Flores / B级研究全文+ C级原论文摘要**：直接打开John Roosa (2013) *Who Knows? Oral History Methods in the Study of the Massacres of 1965-66 in Indonesia* 全文 https://www.oralhistoryforum.ca/index.php/ohf/article/download/528/606/528-Article%20Text-2157-1-10-20130822.pdf 。其对Flores的讨论引用John Mansford Prior (2011) 两篇 *Exchange* 论文；Prior Part One摘要 https://www.researchgate.net/publication/274531247_The_Silent_Scream_of_a_Silenced_History_Part_One_The_Maumere_Massacre_of_1966 可见1966年2—4月Maumere、800—2000的作者估计以及军方和当地天主教徒的复杂关系，但Prior论文全文和原访谈、教区日志、军令尚未取得。Roosa全文不能视作对Prior同一事件的独立一手佐证；两者共同依赖的口述必须查来源链。不能据摘要将死亡估计或宗教群体责任升级为核实数字。
+
+**精准续查**：①索取PER.06/MEN/IV/2005第6条在Garut/Bekasi/Surakarta的县级核验公告、会员异议及签署表；②定位1998 PER-05/MEN/1998与2001 KEP-16/MEN/2001签署原件并对比审批权限；③取得Prior 2011 *Exchange* 40(2):117–143、40(4):311–321全文与引注所列Maumere教区日志、荷兰传教士回忆录；④查询1966-02—04 Maumere军区/KODIM指令、拘押/死亡登记、教区原始记录；⑤切换G1早期工会及G8国外行动交付原件，持续填G1—G10。未将此次研究摘要当成地方原件。正式CSV去重/并库仍待执行，禁止提前分配S/C编号。GOAL OPEN。
