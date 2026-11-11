@@ -805,11 +805,21 @@ UN Treaty Series vol.792 No.11258的1971年美印债务重排协定附表确认�
 
 **精确续接**：先向NARA索引并调阅RG286印尼东亚国别文件、Training Division/International Police Academy/Office of International Training授权卷；索取Fort Bragg、AID IPA、USC与Syracuse学员和课程名单，以及AID合同、资金分配、出运和印尼警察/陆军收货台账；核查Johnson Library电话记录；取得1964-08-13 Tower amendment点名表和会议报告，验证62–28和conference disposition。随后转查其他外国渠道和地方接收/执行证据。研究继续OPEN，作者政治判断仍由作者提出。
 
+
 ## 2026-11-11｜G1与G4交叉续接：Q312（GOAL OPEN）
 
 本次重新读取AGENTS、stage-access、goal-continuity、G1—G10 completeness-audit、四正式CSV、chronology、research-status、global-gap-tracker。当前正式登记末尾为S638/C1055/Q311/CV340；此次仅追加检索日志Q312，没有把未打开的1927运输单或1966 Flores会议原件写作已读来源/历史事实，也未新增S/C/CV。荷兰KB Delpher馆藏说明已打开，1927年具体报纸原页未取得；Flores/Maumere 1966-02-27 Komop会议原始记录未取得。原有1974年地方记述经研究者转述不能升级为同期军令。
 
 **精确接力**：①在Delpher定位1927年《De Indische Courant》《Bataviaasch Nieuwsblad》报道，记录具体日期/页码/扫描链接，再追殖民总督流放决定、运输名册及Tanah Merah到达簿；②从Sikka地方行政/教会档案查1966-02-27 Komop会议纪要、参加者和拘押清单，回查1974年Maumere匿名记述的馆藏号；③转G2查SOBSI/SARBUPRI基层会费与企业委员会原件；④回G4不同省份Aceh、Bali、West Kalimantan地方军令与受害者记录；⑤修复G10 CV314重复编号并整合chronology日期排序；⑥继续G6/G7政治犯、劳工和幸存者组织。**GOAL ACTIVE/OPEN-ENDED，G1—G10全部OPEN**。本状态写入前已成功的GitHub提交为ec80994dee0a1e84b05240d95a46b4b75feae88d；本状态提交产生的最终SHA须以后续回查为准。
+
+### 2026-11-11 continuation｜澳英婆罗洲军事行动与SIGINT（OPEN）
+
+新增S640–S654、C1059–C1088、Q314–Q317及CV342–CV343。直接读到澳大利亚DFAT 1964年4月、5月和1965年1月内阁/国防文本，以及ASD发布的28 April GCHQ请求分钟与13 May SIGINT操作要求。文件呈现一条可核的机制：英方请求战术信号情报人员，澳方先保护新加坡现有资源并以英方补员为条件，DSD负责计划/分发，澳英在Labuan/Kuching分担人员与成本，并预设掩护说法和保密规则。ASD官方回顾称5月部署、6月首批人员在Labuan；相应人员名册和情报产品仍缺。
+
+DFAT记录英国请求澳军、澳方询问美国意见、澳大利亚JIC与英国对渗透威胁的不同评估、澳内阁暂缓地面部队请求，以及1965年因马来西亚正式要求改变部署。澳大利亚战争纪念馆的3RAR单元记录给出22 March接防、32次Claret与27 May交战等回顾信息；DVA总结强调保密/否认和Walker规则，但不能代替命令或逐次战斗日志。Tuck 2016与2023对Claret名称起始时点不同，TNA原文件需要核对。AWM95 May diary已下载并全卷OCR；现已对全部186页生成OCR，视觉核对p.14、p.93和pp.99–101（13 May INTREP No.6）；OCR误读风险较高，其余页面仍须抽样和人工核对。
+
+**未闭合：**完整行动命令/名称/距离，澳英审批层级与执行记录，201/121 Squadron的实际编制和产品分发，部队逐日行动/伤亡原始记录，印尼方面对情报与跨境攻击的认知与反应，外交公开否认与内部行动的对应。现有材料不能证明Konfrontasi SIGINT或Claret对九三〇事件和后续国内杀戮有因果作用。GOAL保持开放，作者政治判断未填。
+
 
 ## 2026-11-11 13:55 CST｜Flores Sikka原文转录核验与G2跨项检索，GOAL继续OPEN
 

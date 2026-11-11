@@ -478,6 +478,16 @@ This pass added S622–S638, C1040–C1055, Q310–Q311, and CV340; updated C103
 Next: obtain NARA RG 286 East Asia/Indonesia country and Office of Public Safety files, Training Division and Academy records, Office of International Training authorizations, rosters from Fort Bragg/IPA/USC/Syracuse, AID allotment/procurement/shipping/receipt records, Indonesian police and Army files, Johnson Library Ball telephone records, and the original 1964-08-13 Senate roll-call and conference report. Continue non-U.S. foreign channels and province-level implementation; do not convert this U.S. institutional record into the author's final political judgment.
 
 
+## 2026-11-11 continuation｜澳大利亚—英国婆罗洲行动与SIGINT机制（GOAL OPEN）
+
+新增S640–S654、C1059–C1088、Q314–Q317、CV342–CV343；更新连续阅读HTML和统一时间线。新增同期澳大利亚内阁记录、澳方记录的英国跨境行动决定、GCHQ对201 Squadron战术SIGINT人员请求、DSD对指挥/站点/掩护/产品分发的操作要求、美国参与的地区停火谈判，以及1965年澳大利亚部署政策。澳大利亚的SIGINT与地面部队是不同审批/执行链；“英方消息被澳文件转述”“计划和条件”“ASD事后部署回顾”“部队日记收到的警报”分别标注。
+
+关键新增原件：ASD 1964-04-28 Defence Committee minute、1964-05-13 DSD signal和7月3日Army General Staff Instruction 11/64及DMI cover memorandum；DFAT Vol.25 docs 181、183、184、241全文；AWM95 7/3/48 186页May 1965日记下载并全卷OCR。人工复核PDF pp.14、93、99–101：包括5月1日部队警报、26—27日战情摘要、13 May INTREP No.6关于未发生的5月5日Serikin攻击、当地供给估计及10 May边境贸易/施压消息。它们直接证明澳军当时如何记录和评估，不独立证明对方意图、兵力、装备、交易者陈述或其因果关系；其余扫描页仍待人工核读。
+
+**下一轮先做：**继续逐页识读May diary，并取3RAR June/July、4RAR、SAS、炮兵和higher formation记录；再读ASD 19 May deployment、26 May MOD approval、30 May Labuan recce、2 June report、8 June execution instructions以及人员编制信号；继续查NAA原卷。英国方面索取TNA DEFE 5/150、DEFE 5/156、DEFE 4/169和CAB 148/1行动授权及Chromatic/Claret报告，厘清命令日期、行动名称、地面距离和保密规则。对各国情报合作与1965年国内政治暴力分开建链；没有直接证据不作因果结论。研究OPEN，不代写作者最终政治判断。
+
+
+
 ## 2026-11-11 continuation — Sikka primary-manuscript trail and conflicting death date
 
 Directly opened the complete 2011 Prior article previously registered as S456 at abstract-only level; updated access status to full PDF (printed pp.125–130 read). Registered a full-text regional church history chapter S639. The publications quote or refer to an unpublished SVD Ende participant manuscript, Boumans memoir and an uninspected bishop's letter. C1056–C1058 separate quoted witness testimony, disputed death date (9 February vs later 1 March for Jan Djong), and the secondhand 28 April 1966 bishop letter. Q313 and CV341 record scope and evidence level. No original 1966 military order, detainee list, death register or original church letter was acquired. The G2 SOBSI finances query was attempted but produced no relevant original ledger. All G1–G10 remain OPEN.
