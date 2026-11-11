@@ -1018,3 +1018,11 @@ d168显示State、Defense、CIA和白宫工作人员讨论援助时，对是否�
 **G4东爪哇：同期美国领事电报194的OCR技术不可读。** 直接打开美国国家安全档案馆馆藏页 https://nsarchive.gwu.edu/document/15707-document-11-telegram-194-american-consul 和OCR https://nsarchive.gwu.edu/media/15707/ocr 。馆藏元数据确认1965-11-04、驻泗水领事馆、RG84 Entry P339 Box14 Folder7；OCR仅28行且正文严重错乱，不能据此核对具体镇压事件、指挥人、死亡数字。该馆藏页的编辑摘要称东爪哇多地PKI受镇压、军方称局势受控，**仅C级目录描述，非本次已读清晰电报全文**。须打开原始PDF图像逐页校读、核发报人及收件人、时间、地点和信息人，再找东爪哇地方军令、警察/医院/铁路/种植园记录与报纸独立核验。不得把NSA编辑摘要当作新的独立原始事实；正式台账可能已有该电报，先按文号/URL去重。
 
 **G1—G10继续OPEN。** 本次未取得新的可独立核验事件，正式CSV、chronology及中文正文不应据此虚增事实。下次轮换G1殖民劳工原件、G6监禁/流亡组织、G7工会登记与G8外部交付证据，优先同时修复G4地区失衡。
+
+
+## 2026-11-12｜G6/G7工会组织裂变与G4亚齐军政链复核（GOAL OPEN）
+
+**G6/G7新同期工会材料：**直接打开ICFTU 1998-08-28全文转刊 https://www.asia-pacific-solidarity.net/index.php/news/1998-08-28/trade-union-freedom-remains-pious-wish.html （S829）。当时ICFTU报告原FSPSI下13个行业联合会宣布退出并拟另组联合会，不能据此证明大会已召开或新组织已登记；另报告Surakarta纺织厂250工人赴雅加达争取15%涨薪执行、遭警察殴打，部分情节转引AFP。**日期冲突：**8月28日署期文内却写“yesterday (25 August)”，事件日暂不确证。关于Dita Sari被拒释放的军方否决说法系匿名活动人士转述，不是军方签署决定。覆盖：1998年8月、雅加达/Surakarta、FSPSI行业联合会、PPBI/PRD、ILO、LBH；原件级别为当时工会联盟公开报道全文转刊，基层事件和幕后决定未独立核。缺失：13联合会联署决议、实际大会记录、AFP原稿、LBH/ILO任务记录、工厂工资文件及司法部释放名单。
+
+**G4 Aceh独立地区复核：**再次打开Jess Melvin 2015全文 https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide ，已有S127/C102–103。文章说明军方所绘地图记录1941起公开杀戮，而约1万总量是学者基于假设的推算，不是名册统计。它还报告10月14日Djuarsa设战情室、军方控制的处决场所及公务员清洗。此为研究者对所获军方档案的叙述，并非本次新取得的军令原页；不得因另读其论文或著作将同一档案算独立交叉证据。待取Banda Aceh原军事地图、10月命令和县级拘押转移簿。G1—G10全部OPEN。
+
