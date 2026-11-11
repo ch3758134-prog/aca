@@ -1,3 +1,14 @@
+
+
+## ONGOING / GOAL仍进行｜2026-11-12｜巨港原电报重核与跨区对照（自动续接）
+
+本次读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09、global-gap-tracker、research-status与本状态；正式CSV/chronology尚未确定真实仓库路径，尝试根目录及archive/records路径均返回404，**未完成正式CSV逐行去重，不分配新S/C/Q/CV编号**。G1—G10全部OPEN。
+
+**G2/G4/G8｜1965-11-01雅加达使馆1290号电报：OCR全文实际打开** https://nsarchive.gwu.edu/media/15705/ocr （馆藏 https://nsarchive.gwu.edu/document/15705-document-9-telegram-1290-american-embassy ）。首段明确：使馆劳工专员于10月28—29日访问Palembang, S Sumatra；据报已有600人被拘。Stanvac Sungaigerong约30名印尼雇员被军方带走（包括PERBUM领导）；Shell Pladju及Prabumulih约24名PERBUM成员被捕；PUSRI 1300名印尼工人中15名SOBSI领导被捕。600是当地据报总数，不应与企业分项相加；30/24/15为使馆报告，未获当地拘押名册独立验证。使馆亦记载Ibnu Sutowo于10月27—28日巡视炼厂，Stanvac拟议将至少1000/3500名员工转往厂外临时工作项目：**只是考虑方案，不能称已经执行**。Shell管理层否认军方关于炼厂火灾蓄意破坏的说法；两方冲突必须保留。档案馆编辑摘要误写North Sumatra；原电报地理定位应为South Sumatra。新核读细节未正式并库。
+
+**G4东爪哇对照**：核对国家安全档案馆1965-11-04泗水194号电报目录 https://nsarchive.gwu.edu/document/15707-document-11-telegram-194-american-consul ；本次只打开目录，未可靠读取损坏OCR或扫描。另印尼文二手叙述 https://www.historia.id/article/penumpasan-pki-di-surabaya-6joym 提及11月20日507营抵泗水、11月22日米价管制；**不能以此替代11月26日183号电报或印尼军令原件**。地区证据等级保持不等。
+
+**精准续接**：①定位正式source-register/claim-ledger/search-log/coverage-matrix及chronology真实路径、读取完整内容后检查S832—S834/C1468—C1470是否已经正式存在；②对照1290号电报扫描页与档案馆摘要，追RG84 Box14 Folder4及1965-10-27—29巨港当地军区命令；③追Stanvac/Shell/PUSRI员工与拘押名册，尤其PERBUM/SOBSI地方干部姓名及组织结构；④读取泗水183/194号电报原扫描并追507营和铁路五站关闭原始记录；⑤切换G1殖民工会与G6布鲁岛政治犯、G8外部援助实际交付原件。GOAL永久OPEN；未生成旧式列表HTML，未代作者判断。
 ## ONGOING / GOAL仍进行｜2026-11-12｜原件地理校正与正式台账阻碍
 
 本次按2026-11-09 G1—G10 completeness-audit复核长期缺口，核对AGENTS、stage-access、goal-continuity、四正式CSV及现有续接。重点G4/G2/G8交叉：直接打开美国驻雅加达1965-11-01第1290号电报的原始OCR https://nsarchive.gwu.edu/media/15705/ocr ，电报首段明确“Palembang S Sumatra Oct 28-29”，记录Stanvac约30名印尼员工、Shell Pladju及Prabumulih 24名PERBUM成员、PUSRI 15名SOBSI干部被军方逮捕（企业/使馆报告，不是拘押名册）；Stanvac报告可能转移1000/3500名炼厂员工至厂外工作，属于讨论中的计划，不是已经执行。Shell管理人员明确否认军方将炼厂火灾定为破坏活动的解释。档案馆编辑摘要错误标成North Sumatra，正式地理归属应为South Sumatra/Palembang；此前相关记录需审计，不得沿用编辑摘要。另一条不同地区G4链：直接打开1965-11-04泗水第194号电报OCR https://nsarchive.gwu.edu/media/15707/ocr ，OCR严重损坏，仅可确认电报馆藏及存在，不据此推断村县行动。馆藏 https://nsarchive.gwu.edu/document/15707-document-11-telegram-194-american-consul 仅作编目。跨文献比较发现部分印尼语转载重复档案馆的编辑摘要，不能视为独立证据。
