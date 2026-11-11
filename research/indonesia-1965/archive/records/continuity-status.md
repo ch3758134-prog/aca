@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-12｜原件地理校正与正式台账阻碍
+
+本次按2026-11-09 G1—G10 completeness-audit复核长期缺口，核对AGENTS、stage-access、goal-continuity、四正式CSV及现有续接。重点G4/G2/G8交叉：直接打开美国驻雅加达1965-11-01第1290号电报的原始OCR https://nsarchive.gwu.edu/media/15705/ocr ，电报首段明确“Palembang S Sumatra Oct 28-29”，记录Stanvac约30名印尼员工、Shell Pladju及Prabumulih 24名PERBUM成员、PUSRI 15名SOBSI干部被军方逮捕（企业/使馆报告，不是拘押名册）；Stanvac报告可能转移1000/3500名炼厂员工至厂外工作，属于讨论中的计划，不是已经执行。Shell管理人员明确否认军方将炼厂火灾定为破坏活动的解释。档案馆编辑摘要错误标成North Sumatra，正式地理归属应为South Sumatra/Palembang；此前相关记录需审计，不得沿用编辑摘要。另一条不同地区G4链：直接打开1965-11-04泗水第194号电报OCR https://nsarchive.gwu.edu/media/15707/ocr ，OCR严重损坏，仅可确认电报馆藏及存在，不据此推断村县行动。馆藏 https://nsarchive.gwu.edu/document/15707-document-11-telegram-194-american-consul 仅作编目。跨文献比较发现部分印尼语转载重复档案馆的编辑摘要，不能视为独立证据。
+
+**正式登记状态**：正式CSV读取返回超长内容截断；本次没有安全完成S/C全量去重、正式编号与chronology整合，未假称修改。此前S832—S834/C1468—C1470候选编号仍须先核正式台账；已有Q351/CV373—375引用关系须校验。G1—G10全部OPEN，中文正文仅待证据闭合后连续改写。
+
+**下一精确动作**：①分页读取source-register及claim-ledger末尾，确认S/C最大实际编号并查第1290号电报URL去重；②核对第1290号原始扫描影像与企业档案、拘押名单，尤其Stanvac/Shell/PUSRI员工和PERBUM/SOBSI；③取泗水194号电报扫描页，追东爪哇铁路与Tulungagung地方原件；④切换G1 Semaun/殖民工会原刊、G6布鲁岛释放与流亡者组织档案、G8美国对炼厂移交的实际干预文件；⑤在可安全去重后同步正式CSV、chronology、research-status、可读中文正文。GOAL永久OPEN，未完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-11 Medan原始电报与工会法权交叉核验
 
 已读取G1—G10完整性审计、AGENTS、stage-access、goal-continuity、正式四CSV、chronology及缺口总账。G4新直接阅读美国驻Medan 1965-06-07第509号电报OCR（https://nsarchive.gwu.edu/media/15697/ocr）：Darjatmo据PEPELRADA/DWIKORA权限推翻省长《Tjahaja》出版许可决定；须核6月6日地方命令及军方后续权力链。另直接读1965-12-06第184A号电报OCR（https://nsarchive.gwu.edu/media/15714/ocr）：领馆线人报告Muhammadiah清真寺反PKI杀戮布道，作者对NU及“普遍意见”的判断不是组织命令，须找地方布道与被害档案。G7直接开劳动部2000年工会法官方登记全文网页（https://jdih.kemnaker.go.id/peraturan/detail/32），确认法定10人组会与通知登记机制，原始签署PDF尚未核。以上均不自动证明实际地方执行；没有将两份电报构造为单一因果链。
