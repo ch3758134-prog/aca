@@ -1224,3 +1224,10 @@ Cornell Kahin档案目录另列Box 81 Folder 7“Kadane interviews”和Box 95 F
 本次读取项目规则、阶段授权、G1—G10完整性审计、四份正式CSV、chronology及缺口总账。正式新增S828/C1459–C1462/Q348/CV369；已读取1954年Gerwis大会纪念册72页OCR全文，找到3月30日改名、会员章程、会费与90/10地方中央分配规则、婚姻法决议；尚未视觉校对PDF原页，组织自报不能证明地方实际执行。另一G项复核FRUS d162的巴厘A-527/Howland死亡估计分歧，未取得A-527签署原件。已更新chronology和缺口总账。
 
 **精准续接：**①视觉核https://pustaka.taratsa.id/read/618/pdf 1954章程第62–63条及3月30日决议；②追Gerwani地区账簿、支部代表名单、Klaten/Sidaredja地方记录；③核PERWIN与铁路工人妻子组织合并原件及Gerwani/PKI实际关系；④取得1966-02-25 A-527原件、巴厘各县军令及受害者登记；⑤轮换Aceh、Flores、West Kalimantan、SOBSI/BTI、1970—98政治犯与1998—2026工会等G1—G10未结链。GOAL ACTIVE / OPEN-ENDED；作者政治判断保留。最新SHA以提交后main独立核实为准，不能在同一提交预知自身SHA。
+
+
+## 2026-11-12｜G2/G4访问限制续接（长期GOAL仍OPEN）
+
+本次读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit（G1—G10）、缺口总账、四正式CSV与chronology的内容/首尾；不宣称全量逐行去重。已直接打开1954 Gerwis大会PDF阅读器，但仅返回0%/控件，无法视觉核验S828的章程第62—63条与改名决议；继续维持「OCR全文已读、原页未校」。另打开1965-11-04泗水领事馆Telegram 194的NSA馆藏及OCR，OCR严重错乱，编辑摘要仅是目录级证据，不据此登记新死亡/军令主张。缺口总账已更新，已确认其提交SHA **b6362d96b1da844717d1434c608a5eaeda71ebe5**。
+
+**精确下一步**：①获取https://pustaka.taratsa.id/read/618/pdf 的实际PDF/扫描页并核1954-03-30决议、第62—63条会费与财务；②获取https://nsarchive.gwu.edu/document/15707-document-11-telegram-194-american-consul 的PDF图像，核1965-11-04电报逐页内容及地方证据源；③分别追东爪哇军警、铁路、工厂与村级名册，及Gerwani地方账簿、PERWIN和铁路工人妻组织档案；④随后转向G1早期组织、G6监禁/流亡、G7后改革工会与G8外国交付原件，按G1—G10缺口轮换；⑤获得新独立事实后先以正式四CSV按URL/档案号去重，再更新chronology、research-status（若存在）、专题及成熟中文历史正文。本状态提交自身的最终SHA不能预先写入同一提交，应以GitHub main独立查询为准。GOAL ACTIVE / OPEN-ENDED，未完成，作者最终政治判断保留。
