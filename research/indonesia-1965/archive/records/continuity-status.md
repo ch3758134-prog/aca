@@ -1091,3 +1091,10 @@ d67的总统签批此前已登记为S621/C1035：约翰逊批准推迟岛际军�
 当前G6/G8证据链：KOL15_11/De Waarheid 1985-06-07 p1，URN `ddd:010378558:mpeg21:p001`，两种Delpher/KB入口均无法通过网页工具打开；馆藏目录明确载报纸标题、Hotel Soneta地点描述与Suparna、Ernst人物识别，但这些均待原版图注核对（S804/C1409）。跨G4 Flores链：按1966-04-28 Gabriel Manek信、KOMOP地方军令检索未取得签署件；Jan Djong/Kewapante/Sikka线索仅检索发现Gerry van Klinken 2019书目，正文未读。跨G7重新打开BPK UU21/2000官方页，仍标有效，但法规关联栏未给修订清单；需与BKN相反字段核对。具体链接、等级及失败入口已追加缺口总账，提交 `58531bf840102a9e10e9f6216fe9d8617493eb6a`。
 
 **下一步精准动作**：①向KB/Delpher按URN索取1985-06-07 *De Waarheid* p1并核对报纸全文、原始图注、示威日期及Hotel Soneta位置；②查IISH COLL00284的1982-06-05反军售会议原始议程及Komitee Indonesië刊物；③取得van Klinken 2019书中Jan Djong/Sikka相关页与脚注后逐件追地方原件，同时向Maumere教区查Manek 1966-04-28信及KOMOP命令；④转换G1殖民流放/ISDV原件、G2 Gerwis手册及SOBSI 70/204、G3 Antara 1965-10纸本、G5 Aceh华人迁离令、G7地方工会登记、G8外援实际交付；⑤完成CSV全量URL/档案号去重，只有新增核实事实才更新正式登记、chronology及成熟中文正文。最终状态提交SHA须提交后独立查询main确认，不能在本文件中预知。长期GOAL ACTIVE/OPEN-ENDED，G1—G10全部OPEN。
+
+
+## 2026-11-11｜跨G项原件检索续接（GOAL OPEN）
+
+本次已读取AGENTS、stage-access、goal-continuity、G1—G10完整性审计、正式四CSV的开头及chronology开头、长期缺口总账；**正式CSV与chronology本次未逐行完整读取，不能声称全量去重**。执行G4/G5 Flores与G2 Gerwis两条不同G项检索：Flores所见为既有学术著作的转录与Jan Djong二手条目，未取得Manek 1966-04-28签署信、KOMOP命令、拘押名册；Gerwis《Pedoman Bekerdja Gerwis》未找到可读扫描，检索结果有大量无关同词。没有新的独立历史事实可正式登记，不新增S/C/Q/CV，不改chronology和中文正文。详细检索限度已记入global-gap-tracker，提交9f640151b241a8dcd5dbf3359d0c13949286582d。
+
+**精确下一动作**：①G4向Maumere/Ende教区和Sikka县档案追Manek信、KOMOP签署军令及Wolokoli/Jan Djong拘押记录；②G2以旧拼写和机构馆藏号查Gerwis工作手册原件并核印行年月；③切换G1殖民流放档案与G7基层工会登记做独立原件核验；④继续G3 Antara原报、G6 IISH流亡期刊、G8军援交付及G9索引去重；⑤取得新事实先查四正式CSV末尾与同源URL，再并库、更新chronology和成熟中文正文。**本段写入时最终提交SHA尚未知；须随后独立查询main核实。GOAL ACTIVE / OPEN-ENDED，G1—G10全部OPEN。**
