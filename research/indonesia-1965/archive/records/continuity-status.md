@@ -1,3 +1,12 @@
+
+## ONGOING / GOAL仍进行｜2026-11-11 Gerwis与Bone接力
+
+本次经直接打开的1954年Darmini原刊全文转录 https://gerwani.logosid.app/teks/2 ，核得组织代表自报1954年3月前55049会员/163支部、1952年铁路工人妻子联盟10支部4000人、1953年8月Sulawesi PERWIN并入、Jambi同工同酬/保险委员会及苏门答腊与Celebes产假宣传；未取得原刊扫描、支部名册，数字仅为当事人主张。1954年3月25—31日Gerwis大会纪念册目录 https://19651966perpustakaanonline.wordpress.com/2026/09/18/dari-gerwis-menjadi-gerwani-kenang-kenangan-kongres-gerwis-ke-2-25-31-maret-1954/ 已打开；数字正文入口 https://perempuan.logosid.app/baca/buku/5 未返回可读内容。G4 Sulawesi沿既有1965-11-12电报1425再核，印尼地方报道仍转引同电报，不能算独立证据。G1—G10继续OPEN。
+
+**精确续接**：1. 获取1954年1月 *Women of the Whole World* Supplement XIV第34页扫描，核Darmini署名/数字；2. 获取Gerwis第二次大会纪念册原版，逐页核SOBSI贺词、章程、决议、支部和财务；3. 追1952年铁路工人妻子联盟、1953年Sulawesi PERWIN、Jambi委员会原始名册/企业记录；4. 追Bone拘押名册、1965年11月10日Makassar报纸及军警记录，区分一人消息与独立证据；5. 去重正式四CSV并将可核主张按访问等级登记，补入chronology及成熟中文正文。
+
+本次缺口总账提交已确认：d2f3eed13b055544d77d3a544e7e9b2641e5f7a7；本状态文件后续提交产生新HEAD，以GitHub main实时HEAD为准。未声称正式CSV或中文正文已修改。
+
 ## ONGOING / GOAL仍进行｜2026-11-11：Klaten—Kudus交叉核验
 
 已读取G1—G10完整性审计、项目规则、正式四CSV与chronology，复核既存S139/S151/C127等，未新增编号；本次取得Hammer研究全文、NSA A-386馆藏描述，不是新军令原件。原件缺口和5项精确续接见global-gap-tracker最新节。正式CSV和chronology未改；所有G项OPEN。提交SHA以本次GitHub提交响应及main查询为准；此状态文件自身不能预知写入它的提交SHA。
