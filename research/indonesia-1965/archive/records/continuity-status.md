@@ -1076,3 +1076,9 @@ d67的总统签批此前已登记为S621/C1035：约翰逊批准推迟岛际军�
 已读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式四CSV、chronology、长期缺口总账；`archive/records/research-status.md`路径不存在。由1982年刊物线索继续检索1978年Komitee Indonesië大会（GerakIngatan KOL4_26/IISH COLL00284）与1987年Ernst Utrecht讣告（KOL22_17），打开馆藏原页面；原图内文未读。正式新登记S801—S802/C1406—C1407/Q339/CV361。FRUS d129已存在于正式来源，未重复登记。两条证据尚不足以增加事实性历史正文，不能把馆藏目录当作活动细节。下一执行立即：(1)从IISH COLL00284调1978年大会原始议程/参与名单/IGGI文件；(2)合法打开KOL22_17影像核对署名与具体人物关系；(3)并行追G4 Flores KOMOP与1966-04-28 Manek信、Aceh驱逐军令和West Kalimantan No.12-33/1967原件；(4)轮换G1早期党史和G2 Gerwis手册原件；(5)取得能独立核对的事实后再写入chronology和连续中文历史正文。所有G项OPEN。**本节不得预填未知最终提交SHA；本次最后提交后须独立读取main核实。**
 
 **本次正式台账、缺口总账和续接状态六文件提交后的已核实 main HEAD：** `869213586fae3e1ed38cce82e72bc4e7188eeb74`（通过独立GitHub commit查询核实）。本行本身另产生续接状态提交；其最终HEAD须再次独立核实。GOAL保持OPEN。
+
+## ONGOING / GOAL仍进行｜2026-11-11 后续核验：荷兰流亡文化与Flores原件缺口
+
+已读取AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10 completeness-audit、长期缺口总账、四正式CSV及chronology；`research-status.md`在`archive/records/`所查路径不存在，未伪称已读。正式来源去重：GerakIngatan Steijlen展览及KOL15_11未见现有URL重复，新增S803–S804/C1408–C1409/Q340/CV362。Steijlen全文为后来参与者证词（B）；1985 De Waarheid照片仅馆藏目录（C），原Delpher链接访问失败。已将1978–1988文化、反军售与援助争论连续并入chronology；不同G项对Flores 1966主教信/KOMOP命令进行了检索，尚未取得原件。缺口总账已更新。所有G1—G10仍OPEN，未完成。
+
+**精准续接**：①取得1982-06-05 Amsterdam反军售会议原始议程/海报及参加组织；②读取1985-06-07 De Waarheid p1（Delpher URN ddd:010378558），核Suparna/Ernst身份及抗议地点；③查IISH COLL00284中1978大会和Komitee Indonesië杂志原件，核Basuki署名与发行；④向Maumere/Sikka教区档案追1966-04-28 Gabriel Manek签署信和KOMOP地方命令；⑤切换Aceh/北苏门答腊地方军区命令与Gerwis原始手册，保持G1—G10交替。当前提交SHA须以最终独立GitHub main读取为准，不能在本次提交正文预知自身SHA。
