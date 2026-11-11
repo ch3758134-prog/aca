@@ -804,3 +804,10 @@ UN Treaty Series vol.792 No.11258的1971年美印债务重排协定附表确认�
 本轮新增S622–S638、C1040–C1055、Q310–Q311、CV340；更新C1035、chronology、缺口总账与连续阅读HTML。1962年政策备忘录明确将警务援助纳入美国反叛乱/内部防卫体系；1963年AID报告记载印尼陆军公民行动设备与军官大学培训计划；1964年Dutton来信报告在美印尼军警培训约数及课程；《公法88-205》第620(j)条、NSAM 278及FRUS的备忘录/电报记录援助法定门槛、行政暂缓、对Tower修正案的游说和选择性保留警务支持。严格分开政策框架、美国机构报告、国会人物评价、总统批准和设备/课程实际执行。全批未得个人花名册、分项账或印尼接收记录；S637 USAID报告因403只作为检索线索。
 
 **精确续接**：先向NARA索引并调阅RG286印尼东亚国别文件、Training Division/International Police Academy/Office of International Training授权卷；索取Fort Bragg、AID IPA、USC与Syracuse学员和课程名单，以及AID合同、资金分配、出运和印尼警察/陆军收货台账；核查Johnson Library电话记录；取得1964-08-13 Tower amendment点名表和会议报告，验证62–28和conference disposition。随后转查其他外国渠道和地方接收/执行证据。研究继续OPEN，作者政治判断仍由作者提出。
+
+## 2026-11-11｜G1与G4交叉续接：Q312（GOAL OPEN）
+
+本次重新读取AGENTS、stage-access、goal-continuity、G1—G10 completeness-audit、四正式CSV、chronology、research-status、global-gap-tracker。当前正式登记末尾为S638/C1055/Q311/CV340；此次仅追加检索日志Q312，没有把未打开的1927运输单或1966 Flores会议原件写作已读来源/历史事实，也未新增S/C/CV。荷兰KB Delpher馆藏说明已打开，1927年具体报纸原页未取得；Flores/Maumere 1966-02-27 Komop会议原始记录未取得。原有1974年地方记述经研究者转述不能升级为同期军令。
+
+**精确接力**：①在Delpher定位1927年《De Indische Courant》《Bataviaasch Nieuwsblad》报道，记录具体日期/页码/扫描链接，再追殖民总督流放决定、运输名册及Tanah Merah到达簿；②从Sikka地方行政/教会档案查1966-02-27 Komop会议纪要、参加者和拘押清单，回查1974年Maumere匿名记述的馆藏号；③转G2查SOBSI/SARBUPRI基层会费与企业委员会原件；④回G4不同省份Aceh、Bali、West Kalimantan地方军令与受害者记录；⑤修复G10 CV314重复编号并整合chronology日期排序；⑥继续G6/G7政治犯、劳工和幸存者组织。**GOAL ACTIVE/OPEN-ENDED，G1—G10全部OPEN**。本状态写入前已成功的GitHub提交为ec80994dee0a1e84b05240d95a46b4b75feae88d；本状态提交产生的最终SHA须以后续回查为准。
+
