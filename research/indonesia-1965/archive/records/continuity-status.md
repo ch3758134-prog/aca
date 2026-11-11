@@ -1251,3 +1251,12 @@ Cornell Kahin档案目录另列Box 81 Folder 7“Kadane interviews”和Box 95 F
 本次复读项目AGENTS、stage-access、goal-continuity、G1—G10 completeness-audit、缺口总账及正式四CSV与chronology（大文件工具返回截断，未完成全库逐行去重）；research-status.md指定路径404。当前正式编号上限S831/C1467/Q350/CV372，未新增正式编号。打开2018年Fachrurazi/Dwi Surya Atmaja作者公开研究全文（https://www.researchgate.net/publication/354655060_MALAY_AND_CHINESE_INDONESIAN_a_Fragile_Relation_in_Northern_Coast_of_West_Kalimantan_indonesia_by_Fachrurazi_Dwi_S_Atmaja），其1967年广播归属叙述明确承认Oevaang Oeray是否本人发出宣示未知，转引Putra主张姓名被军政机构冒用；与S831 Matsumura出版社摘要的Oeray主动宣战解释形成重要冲突。J-STAGE论文PDF下载超时，未读全文；两者均非1967广播原件。已写入global-gap-tracker，提交103970551aa2ea69bb208d679a6392a3491bbca3。未取得独立原件，因此不把归属写成已确证历史事件、不修改chronology和读者正文。
 
 **下次精准续接**：先追1967-09-21 RRI Pontianak广播录音/文字和Peperalda/Kodam XII命令；1967-10-11村长会议原通知；Oeray当事文书；Matsumura论文45—63页脚注与Putra 2017第114页；Anjungan/Mandor/Menjalin迁移死亡及财产登记。随后切换G6/G7的1998-08-21 FSPSI十三行业联署和8月31日大会记录、G1 Cornell Semaun原文；继续轮换G2/G3/G8/G9/G10，逐项查正式CSV去重后再登记新来源。**本状态提交自身SHA须提交后独立核验，无法在文件内预知自己的提交哈希。GOAL ACTIVE/OPEN-ENDED，G1—G10全部OPEN。**
+
+
+## 2026-11-12 续接｜1998年工会冲突前史与后续；西加里曼丹、Semaun访问状态（OPEN）
+
+本次已读main的AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09、缺口总账、正式四CSV和chronology（大型CSV经连接器返回时截断，未逐行独立去重）。继承正式最大编号S831/C1467/Q350/CV372，不把待登记资料伪称正式注册。
+
+**实质核验：**1998-05-05《Jakarta Post》全文转刊 https://jawawa.id/newsitem/workers-want-union-leaders-to-step-down-1447893297 ：200余名来自FSPSI旗下13个工会的工人要求20%加薪和Datuk Bagindo/Andi Hisbuldin辞职，Aleksander Sinaga、Ali Samioen、Hartono、Djufni Ashari分别具名；与已登记1998-08-21退出声明构成五月至八月的前后时间链，但是否同一13组织尚未核对原件。FSPMI官方组织史 https://fspmi.or.id/sejarah-fspmi/ 追述1999-02 Garut大会和2001 Lembang转型；此为后来自述，需大会原件、注册和成员名单。G4/G5西加里曼丹仍无1967-09-21广播/10-11通知/军令原件，1996年Oeray传记只见馆藏目录；不同作者的Oeray命令归属争议不闭合。G1 Semaun 1966 Cornell论文仅目录可见，PDF CDN下载失败，未读正文。
+
+**精确未完动作：**①按正式CSV完整URL/标题去重后登记1998-05-05报纸与FSPMI自述，追1998年3月劳工部长第49号决定、1998年5—8月FSPSI会议、8月21日联署、8月31日大会；②取1999-02-04—07 Garut及2001-08-28—09-01 Lembang大会签署决议、劳工部注册/产业分会会员与会费；③取得1967-09-21 RRI Pontianak节目原始载体、10-11村长通知、Peperalda/Kodam XII军令和Oeray签署材料；④Cornell Semaun PDF改用镜像或合法馆藏途径读取全文；⑤轮换G2 SOBSI/BTI、G3跨机关命令、G4 Flores/Aceh/巴厘与G8外国实际交付，推进正式CSV、时间线和中文连续正文。无已证实新军令/死亡名单，不升格史料。**GOAL ACTIVE / OPEN-ENDED，G1—G10全部OPEN。** 本次Git提交SHA以提交响应和后续HEAD复查为准，状态文本不预填未知SHA。
