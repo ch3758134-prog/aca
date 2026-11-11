@@ -611,3 +611,10 @@ FRUS d52与d67补出正式美国警务援助机制：美国文件直接提出以
 已登记S622–S638、C1040–C1055、Q310–Q311、CV340。美国国务院与AID同期文件显示：警务援助的整体制度设计以反叛乱/内部安全为目标；AID负责常规项目，文件把秘密部分列为例外或归国防部门；印尼陆军公民行动项目的设备与高层赴美培训计划、美国在训印尼军警估算、1964年国会援助限制和总统行政选择均已有同期记录。Dutton信中的人数/课程是国务院答复，不是学员名册；参议员Keating与Tower的判断及数字表述须按发言归属。一般政策文书中的“秘密部分”不能作为印尼专属秘密行动的证据。
 
 下一步调取：NARA RG 286 Office of Public Safety的东亚印尼国别卷、Training Division与International Police Academy档案、Office of International Training 1964–67 authorizations；1963–64 AID项目合同/分配/出运/收货；Fort Bragg、USC、Syracuse、AID IPA学员与课程名单；印尼国家警察及陆军人事和设备台账；Johnson Library Ball电话记录；Tower修正案1964-08-13点名表与会议委员会报告。USAID PN-ABY-304仅有标题和检索片段，直连403，未用于事实主张。G1–G10继续开放，不据此关闭外国介入、政治暴力、家属关系或地方执行问题。
+
+### 2026-11-11｜G1殖民流放与G4 Flores异区核验（Q312；未闭合）
+
+**G1｜D级**：荷文 `Boven Digoel 1927 transportlijst geïnterneerden` 与英文船运名册检索，未打开任何具体1927年遣送船单、殖民政府流放决定或逐名到达记录。荷兰皇家图书馆KB的Delpher官方说明 https://www.kb.nl/en/research-find/datasets/delpher-newspapers 已直接打开，证实可查殖民地报纸扫描、OCR和逐页元数据；**这是馆藏检索工具说明，不是1927年运输事件原件**。百科人物页未纳入事实主张。下一步按1927年《De Indische Courant》《Bataviaasch Nieuwsblad》日期及殖民总督决议检索扫描页，并核对运输船、人数与姓名；馆藏不等于已核实。
+
+**G4｜Flores/Sikka，D级原件缺口**：英文检索1966年2月27日Maumere/Komop会议原始记录，未找到可直接打开的军政会议原件。此前研究者转引1974年Maumere记述仍为B级，不能提高为A；需定位Sikka县政府/教会档案、1974年匿名地方历史原稿与1966年Komop会议名册、拘押清单。该区域与Aceh不同，不能以Aceh军方材料替代。G1—G10仍OPEN，Q312不新增历史事实C或来源S。
+
