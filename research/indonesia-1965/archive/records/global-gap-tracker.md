@@ -1026,3 +1026,10 @@ d168显示State、Defense、CIA和白宫工作人员讨论援助时，对是否�
 
 **G4 Aceh独立地区复核：**再次打开Jess Melvin 2015全文 https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide ，已有S127/C102–103。文章说明军方所绘地图记录1941起公开杀戮，而约1万总量是学者基于假设的推算，不是名册统计。它还报告10月14日Djuarsa设战情室、军方控制的处决场所及公务员清洗。此为研究者对所获军方档案的叙述，并非本次新取得的军令原页；不得因另读其论文或著作将同一档案算独立交叉证据。待取Banda Aceh原军事地图、10月命令和县级拘押转移簿。G1—G10全部OPEN。
 
+## 2026-11-11｜G6/G7工会组织与G4/G5西加里曼丹跨项核验（持续OPEN）
+
+**G6/G7（1998，雅加达/全国FSPSI，A级同期报纸全文转刊；非签署组织原件）**：直接打开1998-08-22《Jakarta Post》报道 https://jawawa.id/newsitem/sectoral-trade-unions-attempt-to-topple-executive-board-1447893297 （S830/C1466）。报道称十三行业工会在8月21日联合宣布退出FSPSI，建立十三人临时主席团；旅游工会主席Ali Samioen宣读声明，劳工部长Fahmi Idris收件，旧主席Datuk Bagindo反对并指向8月31日大会。与S829 ICFTU八月末报道对读：早期同期报纸具体列出了具名行动者和时间，但不能把报道当作原始联署书，也不能将拟召开大会等同已经召开。缺件：8月21日联署声明、十三行业组织名单、劳动部收件登记、8月31日大会记录及其后注册证；还须核报纸转载忠实性。
+
+**G4/G5（1967，西加里曼丹；C级学术摘要，不是地方原件）**：直接打开Matsumura Toshio (2015) J-STAGE出版社摘要 https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/en （S831/C1467）。摘要认为军方与Dayak领导人动员关系、Oevaang Oeray在1967年10月的宣示及mangkok merah传播是理解驱逐华裔居民的线索，同时讨论边境游击队与1965年前后的政治变化。尚未打开论文PDF，更未获得1967军区命令、Oeray声明原件、地方难民登记或独立死亡记录；不得把摘要作者解释当作一手证实，亦不得将Dayak群体视作统一行动主体。另打开Cornell的Semaun《An Early Account of the Independence Movement》馆藏元数据 https://ecommons.cornell.edu/entities/publication/24349664-130a-45ff-9f50-51cc51e04594 ，仅目录级G1线索，未读PDF。
+
+**G1—G10覆盖审查**：G1早期组织原件未读；G2基层会费与支部账簿未取得；G3跨机关逐小时链仍断；G4非爪哇军令/名册不足；G5性别族群幸存者地方记录不足；G6拘押—再组织链断；G7工会分裂的法定结果待证；G8外国审批—交付—接收未闭；G9人物—地区—组织关系结构未完成；G10正式台账已新增S830—S831、C1466—C1467、Q350、CV371—CV372，但全库依赖/去重尚未逐条复核。下一步优先读取Matsumura全文与其引用的1967地方原件，同时追8月21日FSPSI声明及8月31日会议，轮换G1 Semaun原文与G2妇女基层档案。
