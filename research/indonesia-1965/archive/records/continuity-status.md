@@ -1082,3 +1082,12 @@ d67的总统签批此前已登记为S621/C1035：约翰逊批准推迟岛际军�
 已读取AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10 completeness-audit、长期缺口总账、四正式CSV及chronology；`research-status.md`在`archive/records/`所查路径不存在，未伪称已读。正式来源去重：GerakIngatan Steijlen展览及KOL15_11未见现有URL重复，新增S803–S804/C1408–C1409/Q340/CV362。Steijlen全文为后来参与者证词（B）；1985 De Waarheid照片仅馆藏目录（C），原Delpher链接访问失败。已将1978–1988文化、反军售与援助争论连续并入chronology；不同G项对Flores 1966主教信/KOMOP命令进行了检索，尚未取得原件。缺口总账已更新。所有G1—G10仍OPEN，未完成。
 
 **精准续接**：①取得1982-06-05 Amsterdam反军售会议原始议程/海报及参加组织；②读取1985-06-07 De Waarheid p1（Delpher URN ddd:010378558），核Suparna/Ernst身份及抗议地点；③查IISH COLL00284中1978大会和Komitee Indonesië杂志原件，核Basuki署名与发行；④向Maumere/Sikka教区档案追1966-04-28 Gabriel Manek签署信和KOMOP地方命令；⑤切换Aceh/北苏门答腊地方军区命令与Gerwis原始手册，保持G1—G10交替。当前提交SHA须以最终独立GitHub main读取为准，不能在本次提交正文预知自身SHA。
+
+
+## 2026-11-11｜1985荷兰原报纸访问复核、Flores人物原件路径（GOAL OPEN）
+
+已读取 `AGENTS.md`、`project/stage-access.md`、`project/goal-continuity.md`、`completeness-audit-2026-11-09.md` 全部G1—G10、`global-gap-tracker.md`、`continuity-status.md`，并读取正式 `source-register.csv`、`claim-ledger.csv`、`search-log.csv`、`coverage-matrix.csv` 与 `chronology.md`（大文件在工具输出中按头尾核查，未完成逐行全量去重）。正式末尾S804/C1409/Q340/CV362。本次**没有取得新的原始史料或足以独立确认的新事件**，故不新增正式编号、不把目录升级为原件、不擅改时间线/正文。
+
+当前G6/G8证据链：KOL15_11/De Waarheid 1985-06-07 p1，URN `ddd:010378558:mpeg21:p001`，两种Delpher/KB入口均无法通过网页工具打开；馆藏目录明确载报纸标题、Hotel Soneta地点描述与Suparna、Ernst人物识别，但这些均待原版图注核对（S804/C1409）。跨G4 Flores链：按1966-04-28 Gabriel Manek信、KOMOP地方军令检索未取得签署件；Jan Djong/Kewapante/Sikka线索仅检索发现Gerry van Klinken 2019书目，正文未读。跨G7重新打开BPK UU21/2000官方页，仍标有效，但法规关联栏未给修订清单；需与BKN相反字段核对。具体链接、等级及失败入口已追加缺口总账，提交 `58531bf840102a9e10e9f6216fe9d8617493eb6a`。
+
+**下一步精准动作**：①向KB/Delpher按URN索取1985-06-07 *De Waarheid* p1并核对报纸全文、原始图注、示威日期及Hotel Soneta位置；②查IISH COLL00284的1982-06-05反军售会议原始议程及Komitee Indonesië刊物；③取得van Klinken 2019书中Jan Djong/Sikka相关页与脚注后逐件追地方原件，同时向Maumere教区查Manek 1966-04-28信及KOMOP命令；④转换G1殖民流放/ISDV原件、G2 Gerwis手册及SOBSI 70/204、G3 Antara 1965-10纸本、G5 Aceh华人迁离令、G7地方工会登记、G8外援实际交付；⑤完成CSV全量URL/档案号去重，只有新增核实事实才更新正式登记、chronology及成熟中文正文。最终状态提交SHA须提交后独立查询main确认，不能在本文件中预知。长期GOAL ACTIVE/OPEN-ENDED，G1—G10全部OPEN。
