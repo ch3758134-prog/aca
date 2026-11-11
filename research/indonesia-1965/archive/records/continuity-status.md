@@ -1069,3 +1069,8 @@ d67的总统签批此前已登记为S621/C1035：约翰逊批准推迟岛际军�
 本次先读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09（G1—G10）、continuity-status、global-gap-tracker、正式四CSV和chronology；project/research-status.md在该路径404（不可视为存在）。直接打开并核读FRUS XXVI d172、d177、d232全文及档案脚注，检查正式source-register与claim-ledger后确认均已有注册来源：d172=S155/S724，d177=S174，d232=S034/S137/S541，d232已在C123/C928/C929叙述。**没有新增独立原件，不虚增S/C/Q/CV，也不在缺少地区原件时改写中文历史正文。**本次实质工作为核验“隐蔽援助方案≠装备交付”“全国MAP统计≠地方执行证明”，并发现d232三重同源登记应在G10去重标记。具体证据及后续行动已追加global-gap-tracker。上一已核实HEAD为1ced69691f89c0b22e64871fac97496b329ad1eb（更早历史记录）；本次写入缺口总账产生提交73f74bfd4205e2e6cd3b3e25fc5226853827b697；本状态文件提交后HEAD须再独立核实。
 
 **精确接力**：①从FRUS d172追Sukendro/Nasution接触、批准/否决和武器采购、发货、收件；②从d232追1959—65 MAP军械批次/培训人员/地方部队部署、1967财年新增200万美元的拨款与实际交付；③切换G4独立地区线查1967年西加里曼丹Pangkolaga No.12-33/1967签署原件与县级迁移簿，避免把全国美国援助数字替代地方证据；④切换G2 ANRI SOBSI 70/204与BAPEKAN收发登记；⑤G1、G3、G5、G6、G7、G9、G10其他缺口继续按总账滚动调查。GOAL ACTIVE / OPEN-ENDED，G1—G10全部OPEN，未宣告完成。
+
+
+## 2026-11-11｜连续接力：荷兰流亡团体1978/1987原始馆藏定位（GOAL OPEN）
+
+已读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式四CSV、chronology、长期缺口总账；`archive/records/research-status.md`路径不存在。由1982年刊物线索继续检索1978年Komitee Indonesië大会（GerakIngatan KOL4_26/IISH COLL00284）与1987年Ernst Utrecht讣告（KOL22_17），打开馆藏原页面；原图内文未读。正式新登记S801—S802/C1406—C1407/Q339/CV361。FRUS d129已存在于正式来源，未重复登记。两条证据尚不足以增加事实性历史正文，不能把馆藏目录当作活动细节。下一执行立即：(1)从IISH COLL00284调1978年大会原始议程/参与名单/IGGI文件；(2)合法打开KOL22_17影像核对署名与具体人物关系；(3)并行追G4 Flores KOMOP与1966-04-28 Manek信、Aceh驱逐军令和West Kalimantan No.12-33/1967原件；(4)轮换G1早期党史和G2 Gerwis手册原件；(5)取得能独立核对的事实后再写入chronology和连续中文历史正文。所有G项OPEN。**本节不得预填未知最终提交SHA；本次最后提交后须独立读取main核实。**
