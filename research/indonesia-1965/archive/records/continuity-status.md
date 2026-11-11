@@ -1238,3 +1238,9 @@ Cornell Kahin档案目录另列Box 81 Folder 7“Kadane interviews”和Box 95 F
 正式新增S829、C1463—C1465、Q349、CV370。ICFTU 1998-08-28全文转刊已直接打开，报道十三行业联合会拟脱离FSPSI、Surakarta纺织工人赴雅加达抗议工资执行，以及Dita Sari仍被拘押。其原始ICFTU稿、AFP、工厂和司法原件未读；报道内事件日期有冲突，军方否决释放为匿名转述。G4复读S127 Melvin 2015 Aceh全文，未新增独立来源；1941为军方地图所记公开杀戮数，约10000是学者推算，军令/地图原页仍未读。四正式CSV、chronology和缺口总账已分别提交，最近一次提交chronology的SHA为2569680b0523f4169af17234b08f44ceab889e2a；本状态文件提交自身的SHA须提交后独立核验。
 
 **精确续接**：①检索1998-08 FSPSI十三行业联合会签署的退出声明、特别大会记录和登记；②调1998-08-25/27 AFP原电、LBH Jakarta及ILO Direct Contacts任务日志，确认Surakarta工厂、15%加薪令与确切日期；③核Dita Sari 1998-08赦免名单、FNV往来及1999释放决定；④调Aceh 1965-10-01至14军区电报、Djuarsa战情室命令及军方死亡地图影像，逐县核人数；⑤转至G1殖民时期组织/流放、G2 SOBSI/BTI基层、G5妇女幸存者、G8外援交付、G9关系索引和G10按事件时间排序，保持跨G轮换。G1—G10全部OPEN；作者政治判断保留。
+
+## ONGOING / GOAL仍进行｜2026-11-11 G6/G7 FSPSI与G4/G5西加里曼丹
+
+已读取AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10完整性审计、缺口总账、四正式CSV及chronology（大型内容经工具返回有截断，未宣称逐行全库去重）。本次新证据S830《Jakarta Post》1998-08-22全文转刊，核13行业工会8月21日宣布退出FSPSI并组成临时主席团、Ali Samioen宣读、Fahmi Idris收件、Datuk Bagindo反对；这是报纸对当时公开行动的记录，不是已取得签署声明或后续大会记录。G4/G5打开S831 Matsumura 2015出版社摘要，指出1967西加里曼丹Oevaang Oeray与Dayak动员及军方角色的研究解释，**PDF与地方原件未读**，只登记摘要层次。G1 Cornell Semaun 1966馆藏目录已打开，PDF未读。新增S830—831/C1466—1467/Q350/CV371—372；已更新chronology及global-gap-tracker。正式CSV和chronology最新提交SHA分别为7698216211394311b4b177f275b672b499fab0b1、6ac993252e65ce14e9ea2b10a1a3a59a41d56edc、371a19d6d8ce53e9c86c159ca71814cb11f879be、87f7c24973c2d0ca5bf4a8f111a8ba420b8091fc、ddd8a327c09801d091fba6f6247a21b7fea8ae24；缺口总账提交74466d55cca30f668e410507da453be65fe4fa69。状态文件提交自身SHA须独立查main。
+
+**精确续接**：①读取1998-08-21 FSPSI十三行业联署退出原件、Fahmi Idris劳动部收件登记；②取1998-08-31 FSPSI代表大会会议记录及后续组织注册，核成立与领导权结果；③下载并逐页读Matsumura 2015 J-STAGE PDF pp45—63，核1967-10 Oevaang Oeray/mangkok merah的注释与来源；④查1967西加里曼丹军区命令、地方报纸、华裔迁移/难民与死亡登记，与学术摘要分层核对；⑤读Cornell Semaun 1966原文并与殖民时期原报/警察档案比对，轮换G1/G2/G3/G8/G9未闭项。G1—G10全部OPEN，长期GOAL未完成；作者政治判断保留。
