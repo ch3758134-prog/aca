@@ -1033,3 +1033,14 @@ d168显示State、Defense、CIA和白宫工作人员讨论援助时，对是否�
 **G4/G5（1967，西加里曼丹；C级学术摘要，不是地方原件）**：直接打开Matsumura Toshio (2015) J-STAGE出版社摘要 https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/en （S831/C1467）。摘要认为军方与Dayak领导人动员关系、Oevaang Oeray在1967年10月的宣示及mangkok merah传播是理解驱逐华裔居民的线索，同时讨论边境游击队与1965年前后的政治变化。尚未打开论文PDF，更未获得1967军区命令、Oeray声明原件、地方难民登记或独立死亡记录；不得把摘要作者解释当作一手证实，亦不得将Dayak群体视作统一行动主体。另打开Cornell的Semaun《An Early Account of the Independence Movement》馆藏元数据 https://ecommons.cornell.edu/entities/publication/24349664-130a-45ff-9f50-51cc51e04594 ，仅目录级G1线索，未读PDF。
 
 **G1—G10覆盖审查**：G1早期组织原件未读；G2基层会费与支部账簿未取得；G3跨机关逐小时链仍断；G4非爪哇军令/名册不足；G5性别族群幸存者地方记录不足；G6拘押—再组织链断；G7工会分裂的法定结果待证；G8外国审批—交付—接收未闭；G9人物—地区—组织关系结构未完成；G10正式台账已新增S830—S831、C1466—C1467、Q350、CV371—CV372，但全库依赖/去重尚未逐条复核。下一步优先读取Matsumura全文与其引用的1967地方原件，同时追8月21日FSPSI声明及8月31日会议，轮换G1 Semaun原文与G2妇女基层档案。
+
+
+## 2026-11-11｜G4/G5 西加里曼丹1967年Oeray声明归属出现实质反证（OPEN）
+
+已复读G1—G10完整性审计与四正式CSV的表头/末尾（本次工具对大文件返回截断，不能声称全库逐行核对），正式最大编号仍为S831/C1467/Q350/CV372。延续S831 Matsumura (2015) J-STAGE出版社摘要（C级，https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/en），其将1967年10月反华动员与Oevaang Oeray的“宣战”联系。尝试下载同页论文PDF（2052KB）发生超时，**论文全文未读**。
+
+新打开Fachrurazi与Dwi Surya Atmaja, *Malay and Chinese Indonesian: A Fragile Relation in Northern Coast of West Kalimantan*，IAIN Pontianak Press，书内版权页标2018（ResearchGate上传2021），作者公开全文 https://www.researchgate.net/publication/354655060_MALAY_AND_CHINESE_INDONESIAN_a_Fragile_Relation_in_Northern_Coast_of_West_Kalimantan_indonesia_by_Fachrurazi_Dwi_S_Atmaja 。这是B级后期田野/文献研究全文，不是1967年广播录音或军令。该书有关1967年叙述称1967-09-21 RRI Pontianak广播据称以Oeray名义要求华人迁移，1967-10-11召集村长准备示威；但作者**明确指出不能确定声明是否真正由Oeray发出**，并转述R. Masri Sareb Putra认为其姓名被军政当局借用。与Matsumura摘要将Oeray作为实际发起人的解释存在直接归属争议。两种学术表述不得合并成已证实的Oeray本人命令；军方是否假借姓名同样未被签署原件证实。书中引注和广播原始载体尚待逐页核对。
+
+**精确缺件**：①1967-09-21 RRI Pontianak节目单、录音/逐字稿与军方审查记录；②1967-10-11村长会议通知、签名及会议地点；③Kodam XII/Tanjungpura和Peperalda对广播/动员的命令与收发登记；④Oeray本人当时签署声明、私人信函或可溯源访谈；⑤Matsumura PDF第45—63页与脚注、Atmaja/Fachrurazi相关书页和所引Putra 2017第114页；⑥按Anjungan/Mandor/Menjalin、Pontianak/Singkawang分别追迁移、拘押、死亡、粮食与土地变更名册。不得用群体概括代替县村行动者。
+
+**跨G项接续**：G6/G7继续追1998-08-21 FSPSI联署和08-31大会原件；G1 Cornell Semaun原文仍未读；G2组织财务、G3机关时序、G8外国交付、G9关系索引、G10正式台账和按日期主时间线均未闭合。因未完成全库去重，此次新书只作待登记候选，不擅分配正式S/C编号。GOAL持续OPEN。
