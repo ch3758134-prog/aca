@@ -1212,3 +1212,9 @@ Cornell Kahin档案目录另列Box 81 Folder 7“Kadane interviews”和Box 95 F
 已按要求重读AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit（G1–G10）、缺口总账、正式四份CSV与chronology（后者为长文件，检查首尾及当前相关条目）；research-status.md指定路径未找到。正式台账末尾可见S827、C1458、Q347、CV368。当前持续研究链为G4/G5南苏拉威西：NSA Telegram 1425八页OCR原文已打开，既有S190/C207–C208，不重复编号；Makassar 90%华人商店、Bone 200名拘押者数字均系同一转述人报告，不是两条独立证据。不同地区补查G4巴厘：打开1965-12-21 A-408同期原件OCR，所引约一万名巴厘死者为当时报告估计，不能与后来的约八万人估算视为同一时点数字。两份OCR部分文字识别不良，未核原件扫描影像；对应缺口及原文入口见global-gap-tracker最新段。未获得当地军令、拘押名册、商店财产登记，故未新增正式S/C/Q/CV或改写连续正文。
 
 **精确接力：**①打开Telegram 1425扫描核页6–7，获取Makassar 1965-11-10至12日报纸/警察/中国领馆材料与Bone拘押营死亡名册，追单一新教消息人的身份和信息来源；②打开A-408清晰扫描、A-527原件并核对巴厘各县军方调动/拘押与PNI/PKI地方资料，严格区分1965-12同期估计与后出统计；③轮换G1殖民时期PKI/ISDV组织、G2 Gerwis/BTI原件、G6 1970–98流亡与劳工、G7基层工会登记、G8日本援助执行链和G9关系索引，不以两地材料替代全国。上一笔已确认GitHub提交为4aaa03ceb9ca407c0b3b620518e0949fe28a2584；本状态提交自身SHA需在提交后由main HEAD读取（文件不可能预写自身SHA）。GOAL仍OPEN，作者政治判断保留。
+
+## ONGOING / GOAL仍进行｜2026-11-12：1954年Gerwis大会同期组织文书
+
+本次读取项目规则、阶段授权、G1—G10完整性审计、四份正式CSV、chronology及缺口总账。正式新增S828/C1459–C1462/Q348/CV369；已读取1954年Gerwis大会纪念册72页OCR全文，找到3月30日改名、会员章程、会费与90/10地方中央分配规则、婚姻法决议；尚未视觉校对PDF原页，组织自报不能证明地方实际执行。另一G项复核FRUS d162的巴厘A-527/Howland死亡估计分歧，未取得A-527签署原件。已更新chronology和缺口总账。
+
+**精准续接：**①视觉核https://pustaka.taratsa.id/read/618/pdf 1954章程第62–63条及3月30日决议；②追Gerwani地区账簿、支部代表名单、Klaten/Sidaredja地方记录；③核PERWIN与铁路工人妻子组织合并原件及Gerwani/PKI实际关系；④取得1966-02-25 A-527原件、巴厘各县军令及受害者登记；⑤轮换Aceh、Flores、West Kalimantan、SOBSI/BTI、1970—98政治犯与1998—2026工会等G1—G10未结链。GOAL ACTIVE / OPEN-ENDED；作者政治判断保留。最新SHA以提交后main独立核实为准，不能在同一提交预知自身SHA。
