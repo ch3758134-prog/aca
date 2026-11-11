@@ -997,3 +997,9 @@ d168显示State、Defense、CIA和白宫工作人员讨论援助时，对是否�
 **G4/G5（持续链，未新增独立证明）**：重新定位1965-11-12美国使馆电报1425 https://nsarchive.gwu.edu/document/15708-document-12-telegram-1425-american-embassy ，其关于Makassar华人商店与Bone拘押者的报道依赖一位苏拉威西新教消息人；本轮印尼语报道 https://sulsel.idntimes.com/news/sulawesi-selatan/merah-darah-di-geladak-phinisi-cia-tahu-peristiwa-di-bone-3-habis-00-g3swn-0m59yr 仍引用同份电报，**不构成独立证实**。继续寻Bone拘押场所名册、地方军警/宗教组织原件及Makassar1965-11-10报纸。
 
 **G1—G10全部OPEN**。本条尚未在正式CSV注册新S/C；需与全部来源去重后登记，并据原刊访问等级逐项入账。历史正文须等原刊和至少一条独立基层材料后再深化。
+
+## 2026-11-12｜G2同期原件突破：1954年Gerwis大会纪念册；G4巴厘反证继续
+
+正式登记S828/C1459–C1462/Q348/CV369。直接打开72页《Kenang-kenangan Kongres Gerwis ke-2, 25-31 Maret 1954》OCR全文：https://pustaka.taratsa.id/read/618/ocr/pdf/ 。这是1954年组织自身文书，非后出目录。原PDF阅读入口https://pustaka.taratsa.id/read/618/pdf 已定位但未逐页视觉核对。OCR第286–306、819–840、1057–1145、1494–1535行记载3月30日改名、143/201支部与约350出席者、章程会员制度、入会费Rp1、会费Rp0.25、收入90%地方/10%中央及婚姻法决议。A级证据仅限组织刊行内容；实际地方缴费、支部参与、PKI关系未证实。地区索引Klaten、Sidaredja、Menado、Sumatra、Java、Madura、Kalimantan、Sulawesi。下一步核扫描原页、财务账簿、代表名单和地方活动记录。
+
+跨G项G4/G5：打开FRUS d162官方编辑说明全文https://history.state.gov/historicaldocuments/frus1964-68v26/d162 ，确认它转引1966-02-25 A-527约80000巴厘死者估计和Howland 1970年约6000巴厘死者估计；与1965-12 A-408约10000的同期估计不可混同。此次只读编辑说明，A-527及Howland原件未读，未新增地方死亡事实。G1—G10均OPEN。
