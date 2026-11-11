@@ -878,3 +878,13 @@ DFAT记录英国请求澳军、澳方询问美国意见、澳大利亚JIC与英�
 精确续接：①检查NSA第1290、1425号原扫描页与OCR逐页对应；②查Palembang 1965-10—11 PERBUM/SOBSI、PUSRI、Stanvac、Shell拘押与职工名册和火灾调查；③查Makassar 1965-11-10商会/警局财产清册及Bone/Watampone拘押死亡登记；④取得Sulselra Pepelrada KEP.024/10/1965/PDD/1965签署原件，追其县级送达和执行；⑤转换G1的1927年船运原件、G6的Moncongloe拘押转移名单或G7工会实际登记，不停留于美国使馆转述。G1—G10全部OPEN，长期GOAL未完成。
 
 本次首笔归档提交：`86b4df9a271c6ee461a7cc2cac847289fd9ec08a`。**最终main HEAD以本状态提交后独立分支核验结果为准**；状态提交不能预知自身SHA，不得把前一提交冒充最终SHA。
+
+
+## ONGOING / GOAL仍进行 — 2026-11-11，Moncongloe军令档案定位与巴厘外交报告原扫描
+
+本次按AGENTS、stage-access、goal-continuity和G1—G10完整性审计读取正式台账及chronology，正式登记**S679、C1167—C1168、Q324、CV345**。哈桑丁大学Wijaya 2024论文开放57页第I—II章，印刷p9脚注17指向1969年Kopkamtib **KEP-007/KOPKAM/2/1969**及**Arsip Kotamadya Ujung Pandang Reg 937**，脚注18首批11名Moncongloe拘押者为转引Ahmad 2009 p152，非独立名单。G4另直接目视核对既有S401美国使馆A-408原扫描PDF第3—4页：1965-12-21使馆记录巴厘死亡约10000是来源人士的估计，不能代替死亡登记或与后期估算相加。正式更新source-register、claim-ledger、search-log、coverage-matrix、chronology、global-gap-tracker及project/research-status。
+
+**精确续接**：①调取乌戎潘当市档案**Reg 937**的KEP-007/KOPKAM/2/1969签章原件，逐条核签发者、受文单位及Teperda职责；②核Taufik Ahmad 2009《Kamp Pengasingan Moncongloe》p152所据的首批11人名单，追1969-03 Makassar→Moncongloe移送/营地接收簿；③继续阅读Wijaya 2024论文的其他依法开放章节或馆藏可访问本，不将受限全文标为已读；④取得巴厘1965-12省/县军令、拘押/死亡/安葬登记，对照A-408第3页消息源和Sutedja家属记录；⑤转换G1 Boven-Digoel 1927原运输清册、G2 SOBSI企业会员与会费、G7 2000年后工会登记实务，保持全国横向均衡。
+
+**已核实的本次前一提交**：fad5d7706b2075f8dca26a5b828e1d93ffcfebec；**本状态文件的提交SHA必须在提交后另行核对，不能在提交正文预知自身SHA**。G1—G10全部OPEN，长期GOAL不设终点。
+
