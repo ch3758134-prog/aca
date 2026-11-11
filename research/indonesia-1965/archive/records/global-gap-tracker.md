@@ -872,3 +872,12 @@ G6/G7/G9｜B级参与者后期记述：Andreas Iswinarto 2025-09-23公开文章�
 **G6/G9 B级全文参与者证词**：已直接打开Fridus Steijlen回忆Basuki Resobowo的GerakIngatan展览全文（S803/C1408）。1978年Komitee Indonesië志愿者关系、1982-06-05反军售会议、1984年文化排演与杂志插画均为参与者后来记忆，不是当年会议记录。补查IISH COLL00284会议日程、海报、刊物封面/署名、1982荷兰工会及和平团体记录。**G8/G6 C级报刊目录**：GerakIngatan KOL15_11将反IGGI援助抗议照片指向1985-06-07《De Waarheid》p1；原Delpher链接本次无法打开，不能视为报纸全文已核（S804/C1409）。从荷兰国家图书馆Delpher备用入口获取原报纸、核图注与地点。
 
 **不同地区G4/G5实质检索**：检索Flores Gabriel Manek 1966-04-28 bishop letter及Sanata Dharma馆藏，所见为宗教史或当代神学论文摘要、部分全文限注册用户，未找到1966年信件扫描或KOMOP命令。维持B级研究转引，不升级为原始档案；下一步按Maumere教区档案/Brill原书脚注、地方天主教档案询问签署信及Wolokoli拘押名册。全国Aceh/北苏门答腊/爪哇/巴厘/West Kalimantan/Sulawesi等G4缺口继续OPEN，不能因荷兰流亡材料丰富而替代地方镇压原件。
+
+
+### 2026-11-11｜G6/G8荷兰1985报刊原件再核与G4 Flores人物线（OPEN）
+
+**G6/G8/G9，C级再核（已有S804/C1409，不新增同源编号）**：再次打开 GerakIngatan KOL15_11 https://gerakingatan.omeka.net/items/show/177 ，核对其明确标注的报纸题名 *De Waarheid*、1985-06-07第1版、Delpher URN `ddd:010378558:mpeg21:p001`。原文标题由目录转录为 *IGGI zwijgt over mensenrechten Geldschieters bijeen in schaduw protest*；馆藏说明指认Suparna Sastra Diredja与Ernst Utrecht，并称示威地点在IGGI会议所在地Hotel Soneta。**这些均是馆藏描述而非独立阅读原报的事实**。分别尝试 `https://resolver.kb.nl/resolve?urn=ddd:010378558:mpeg21:p001` 和 `https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010378558:mpeg21:p001`，网页读取均失败；不能据此确认报纸图注、示威确切日期及照片人物。目录的宽泛Date字段1978–1996不得误写为1985年事件的独立日期。下次以URN向KB/Delpher合法调阅图像、核原报版面、同期会议议程及地点。
+
+**G4 Flores/Sikka，D级新增检索线索而非原件**：印尼语/英文检索1966年Gabriel Manek主教信、KOMOP命令及Flores地方杀戮，未找到可读签署原件；检索出现地方政治人物Johanes（Jan）Djong及Gerry van Klinken 2019年 *Postcolonial Citizenship in Provincial Indonesia* 的页码线索，但本次没有打开该书相关页或独立档案，**不把网页转述的逮捕日期、死亡原因、人数作为已核事实**。下一步沿书中Sikka县政治、Jan Djong、Kewapante、Maumere线索索取可读页与所引地方档案；与1966-04-28 Manek信、Wolokoli拘押、KOMOP指令分开验证。继续Aceh/北苏门答腊/东中西爪哇/巴厘/West Kalimantan/Sulawesi跨地区调查，不以Flores替代全国。
+
+**G7/G10另一核对**：BPK 2000年第21号工会法官方目录 https://peraturan.bpk.go.id/Details/44988/uu-no-21-tahun-2000 本次重开仍标 `Berlaku`，列2000-08-04公布/生效；其网页“STATUS PERATURAN”细节栏却为 `Belum Tersedia`，不能把细节栏空白理解为已废止或不存在修法。此前BKN目录相反字段仍待主管机关确认。法律地位不等于地方工会实际登记。**GOAL仍ACTIVE，G1—G10均OPEN**。
