@@ -1231,3 +1231,10 @@ Cornell Kahin档案目录另列Box 81 Folder 7“Kadane interviews”和Box 95 F
 本次读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit（G1—G10）、缺口总账、四正式CSV与chronology的内容/首尾；不宣称全量逐行去重。已直接打开1954 Gerwis大会PDF阅读器，但仅返回0%/控件，无法视觉核验S828的章程第62—63条与改名决议；继续维持「OCR全文已读、原页未校」。另打开1965-11-04泗水领事馆Telegram 194的NSA馆藏及OCR，OCR严重错乱，编辑摘要仅是目录级证据，不据此登记新死亡/军令主张。缺口总账已更新，已确认其提交SHA **b6362d96b1da844717d1434c608a5eaeda71ebe5**。
 
 **精确下一步**：①获取https://pustaka.taratsa.id/read/618/pdf 的实际PDF/扫描页并核1954-03-30决议、第62—63条会费与财务；②获取https://nsarchive.gwu.edu/document/15707-document-11-telegram-194-american-consul 的PDF图像，核1965-11-04电报逐页内容及地方证据源；③分别追东爪哇军警、铁路、工厂与村级名册，及Gerwani地方账簿、PERWIN和铁路工人妻组织档案；④随后转向G1早期组织、G6监禁/流亡、G7后改革工会与G8外国交付原件，按G1—G10缺口轮换；⑤获得新独立事实后先以正式四CSV按URL/档案号去重，再更新chronology、research-status（若存在）、专题及成熟中文历史正文。本状态提交自身的最终SHA不能预先写入同一提交，应以GitHub main独立查询为准。GOAL ACTIVE / OPEN-ENDED，未完成，作者最终政治判断保留。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12 G6/G7工会与G4 Aceh交叉调查
+
+正式新增S829、C1463—C1465、Q349、CV370。ICFTU 1998-08-28全文转刊已直接打开，报道十三行业联合会拟脱离FSPSI、Surakarta纺织工人赴雅加达抗议工资执行，以及Dita Sari仍被拘押。其原始ICFTU稿、AFP、工厂和司法原件未读；报道内事件日期有冲突，军方否决释放为匿名转述。G4复读S127 Melvin 2015 Aceh全文，未新增独立来源；1941为军方地图所记公开杀戮数，约10000是学者推算，军令/地图原页仍未读。四正式CSV、chronology和缺口总账已分别提交，最近一次提交chronology的SHA为2569680b0523f4169af17234b08f44ceab889e2a；本状态文件提交自身的SHA须提交后独立核验。
+
+**精确续接**：①检索1998-08 FSPSI十三行业联合会签署的退出声明、特别大会记录和登记；②调1998-08-25/27 AFP原电、LBH Jakarta及ILO Direct Contacts任务日志，确认Surakarta工厂、15%加薪令与确切日期；③核Dita Sari 1998-08赦免名单、FNV往来及1999释放决定；④调Aceh 1965-10-01至14军区电报、Djuarsa战情室命令及军方死亡地图影像，逐县核人数；⑤转至G1殖民时期组织/流放、G2 SOBSI/BTI基层、G5妇女幸存者、G8外援交付、G9关系索引和G10按事件时间排序，保持跨G轮换。G1—G10全部OPEN；作者政治判断保留。
