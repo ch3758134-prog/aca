@@ -1035,3 +1035,10 @@ d67的总统签批此前已登记为S621/C1035：约翰逊批准推迟岛际军�
 
 精确续接：①索取ANRI SOBSI 70影印所对应原件、卷内文件日期与BAPEKAN收文簿，解决1960-05-28/10-13冲突；②索取SOBSI 204、PP SBKA No.3/65原声明和政府铁路部长任免记录；③读取Sanata Dharma 2009 PGRS/Paraku论文全文并查其1967军令脚注，随后索取Kodam XII/Tanjungpura签发件；④找RRI Pontianak 1967年广播稿及Sanggau Ledo迁移、死亡名册；⑤转换G1 1927 Boven-Digoel运输原件或G7 2000—2003地方工会登记簿。提交前主分支SHA须另查；本次各文件顺序提交，最后提交SHA在本次结束后独立核实。GOAL ACTIVE / OPEN-ENDED，G1—G10全OPEN。
 
+
+
+## 2026-11-11｜G8援助决策—执行链与G4地方证据缺口接力（GOAL OPEN）
+
+本次先读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09（G1—G10）、continuity-status、global-gap-tracker、正式四CSV和chronology；project/research-status.md在该路径404（不可视为存在）。直接打开并核读FRUS XXVI d172、d177、d232全文及档案脚注，检查正式source-register与claim-ledger后确认均已有注册来源：d172=S155/S724，d177=S174，d232=S034/S137/S541，d232已在C123/C928/C929叙述。**没有新增独立原件，不虚增S/C/Q/CV，也不在缺少地区原件时改写中文历史正文。**本次实质工作为核验“隐蔽援助方案≠装备交付”“全国MAP统计≠地方执行证明”，并发现d232三重同源登记应在G10去重标记。具体证据及后续行动已追加global-gap-tracker。上一已核实HEAD为1ced69691f89c0b22e64871fac97496b329ad1eb（更早历史记录）；本次写入缺口总账产生提交73f74bfd4205e2e6cd3b3e25fc5226853827b697；本状态文件提交后HEAD须再独立核实。
+
+**精确接力**：①从FRUS d172追Sukendro/Nasution接触、批准/否决和武器采购、发货、收件；②从d232追1959—65 MAP军械批次/培训人员/地方部队部署、1967财年新增200万美元的拨款与实际交付；③切换G4独立地区线查1967年西加里曼丹Pangkolaga No.12-33/1967签署原件与县级迁移簿，避免把全国美国援助数字替代地方证据；④切换G2 ANRI SOBSI 70/204与BAPEKAN收发登记；⑤G1、G3、G5、G6、G7、G9、G10其他缺口继续按总账滚动调查。GOAL ACTIVE / OPEN-ENDED，G1—G10全部OPEN，未宣告完成。
