@@ -1,4 +1,10 @@
 
+## ONGOING / GOAL仍进行｜2026-11-11 跨G2/G4原件等级复核
+
+已读取AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10完整性审计、四正式CSV及chronology；正式CSV与chronology全文返回过大，未逐行完成去重，不虚称全量审计。G2直接打开Alexander Street 1954年Gerwis大会72页馆藏目录，确认出版元数据；其“PKI压力导致改名”为编目解释，须与此前已登记S828大会OCR原文及会议表决、PKI往来分离。G4直接打开FRUS 26卷162号编辑说明，确认其转引1966-02-25 A-527巴厘约8万估计及1966-04-15 A-641对全国死亡统计的重大不确定性；两件签署原件仍未读，不视为独立核验。已写入global-gap-tracker，提交SHA 40f8122fbce4d4073a2a6bc1c8bf7e308b0796b5；本状态文件提交会产生后续main HEAD，须实时读取核对。
+
+**精准续接**：①核S828大会OCR第1—7页及1954-03-30更名会议决议，对照Alexander Street目录中的因果解释；②追DPP Gerwani—PKI1953—54往来及大会表决/代表名册；③调取RG59 POL 23-9 INDON 1966-02-25 A-527和1966-04-15 A-641签署影像，逐页核OCR；④在巴厘各县调查军区命令、村级拘押与死亡登记，追踪1965-12至1966-04估计的共同消息源；⑤从G1/G6/G7各择一条原始组织档案链，继续正式CSV去重、时间线排序和成熟中文正文。G1—G10全部OPEN，长期GOAL不停止。
+
 ## ONGOING / GOAL仍进行｜2026-11-11 Gerwis与Bone接力
 
 本次经直接打开的1954年Darmini原刊全文转录 https://gerwani.logosid.app/teks/2 ，核得组织代表自报1954年3月前55049会员/163支部、1952年铁路工人妻子联盟10支部4000人、1953年8月Sulawesi PERWIN并入、Jambi同工同酬/保险委员会及苏门答腊与Celebes产假宣传；未取得原刊扫描、支部名册，数字仅为当事人主张。1954年3月25—31日Gerwis大会纪念册目录 https://19651966perpustakaanonline.wordpress.com/2026/09/18/dari-gerwis-menjadi-gerwani-kenang-kenangan-kongres-gerwis-ke-2-25-31-maret-1954/ 已打开；数字正文入口 https://perempuan.logosid.app/baca/buku/5 未返回可读内容。G4 Sulawesi沿既有1965-11-12电报1425再核，印尼地方报道仍转引同电报，不能算独立证据。G1—G10继续OPEN。
