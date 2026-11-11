@@ -1090,3 +1090,12 @@ d168显示State、Defense、CIA和白宫工作人员讨论援助时，对是否�
 ## 2026-11-11｜G2/G4跨地区实证与档案元数据纠错
 
 **南苏门答腊Palembang**：1965-11-01第1290号电报OCR https://nsarchive.gwu.edu/media/15705/ocr 已读。正文明确南苏门答腊，档案馆说明误标北苏门答腊；Stanvac约30员工、Shell 24 PERBUM成员、PUSRI 15 SOBSI领导被捕均是报告，尚缺企业与军警名册；Shell否认军方所称炼厂破坏火灾。**东爪哇**：1965-11-24第183号电报OCR https://nsarchive.gwu.edu/media/15711/ocr 已读；铁路五站关闭为负责人报告，Tulungagung 15000死亡是领事本人质疑的转述，不能升级为统计。**棉兰**：1965-12-06第183A号电报OCR https://nsarchive.gwu.edu/media/15715/ocr 已读；军方接管地方Pantja Tunggal、媒体、Hansip为领事报告，长期统治属于预测。G1—G10全部OPEN；仍缺签署军令、企业与铁路原始账簿、地方被拘名册、扫描页对照。
+
+
+## 2026-11-11｜G4南苏门答腊工厂拘押与G7工会法权：跨G项证据更新（ONGOING）
+
+**G4/G2/G8｜Palembang 1965-10-27—11-01**：直接打开美国驻雅加达第1290号电报OCR https://nsarchive.gwu.edu/media/15705/ocr ，与正式来源S196去重，**不新建S编号**。已正式登记C1468/C1469、Q352、CV376并更新chronology。电报明指South Sumatra，编辑摘要误写North Sumatra；约600人当地拘押为报告数字，Stanvac约30、Shell 24、PUSRI 15为企业分项，不能与600相加。Shell管理方否认军方所称炼厂火灾蓄意破坏；1000/3500名员工转厂外项目仅为讨论计划，未核执行。缺RG84原扫描、巨港军区拘押令、企业工会名册、火灾调查与实际调岗记录。来源等级：同期外交OCR全文可读，地方一手命令未取得。下一步逐一找RG84 P339 Box14 Folder4、Pladju火灾日志、PERBUM/SOBSI地方领导身份及PUSRI员工记录。
+
+**G4东爪哇反证路径**：打开印尼空军情报主管East Java报告No.51/ch/Pr/i/65的NSA OCR https://nsarchive.gwu.edu/media/15706/ocr ，文本严重损坏，**只能确认馆藏和OCR不可用，不能用作行动细节证据**。下一步取原扫描影像和印尼文原稿，与泗水183/194号电报、铁路五站关闭及地方军令对照。来源等级：仅目录/损坏OCR。
+
+**G7｜2000年第21号工会法**：直接打开印尼劳动部官方法律登记 https://jdih.kemnaker.go.id/peraturan/detail/32 ，确认2000-08-04、签署者Abdurrahman Wahid、最少10人组会及第18条登记通知机制。**这是官方法规登记页及条文概述，不是本次已核对签署PDF全文**。不得从法条推出工厂实施；须取得签署扫描、第18/25条原文、县市登记卷宗和工会申请被拒材料。G1/G3/G5/G6/G9/G10保持原审计OPEN，跨区覆盖不因本次两项进展自动关闭。
