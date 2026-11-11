@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-11：Murba法权与1998年SBSI实质核验
+
+已读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、global-gap-tracker、四份正式CSV（全量内容以检查编号及同源）和chronology开头；research-status.md此路径不存在。正式CSV当前末尾S813/C1435/Q344/CV365；本次不新建正式编号，避免将部分同源ILO材料重复登记。chronology与中文正文未改，因为Murba原签署PDF、SBSI登记原件尚未读。
+
+**两条不同G项的实际核验**：G1/G3官方BPK目录 https://peraturan.bpk.go.id/Details/152227/keppres-no-223-tahun-1966 已打开，1966-10-17第223号总统决定撤销1965年第291号Murba禁令并恢复其政党资格；仅为法规目录，签署PDF未读。G6/G7 ILO 1998-11-24官方新闻专题全文 https://www.ilo.org/resource/news/freedom-association-remains-elusive-much-east-and-south-east-asia 已读，载SBSI在1998年获工会联合会法律人格、代表参与6月ILO大会、Pakpahan获释及政府声称8月仅Dita Sari尚被关押；分清ILO机构记载与政府声明，后者未逐人验证。另ILO NORMLEX动态页面当次打开显示maintenance，不能当作当前可读全文。
+
+**已核实Git提交**：缺口总账提交 e146499ae07ddce5e98d05e33e1c8aeef0937052；本状态文件提交后的最终main HEAD需再次独立查询，不能在提交正文内预知自身SHA。
+
+**下一步精确执行**：①下载BPK 223/1966签署PDF并找291/1965原件，核Murba党在地方的恢复记录；②从ILO 1998年大会代表名单、SBSI登记证和PER-05/MEN/1998原文核实际组织权利；③追Dita Sari和Pakpahan司法、释放与工厂/工会记录，避免只复述官方报告；④从Aceh Kodam 1965报告与Flores 1966-04-28主教信获取地方原件；⑤轮换G2 Gerwis/Pemuda Rakyat及G8外国介入原始记录并正式去重并库。所有G1—G10 OPEN，GOAL ACTIVE / OPEN-ENDED。
+
 ## 最新接力｜2026-11-11：荷兰流亡者刊物与Antara原报纸馆藏（GOAL OPEN）
 
 已读AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、global-gap-tracker、正式四CSV和chronology（本次部分大文件按头尾与正式编号读取，尚未完成逐行全量去重）。本次实质跨项核验：G6/G9打开GerakIngatan馆藏KOL4_27（1982年Komitee Indonesië刊物，只有目录及封面，不是文章全文）；G3/G4打开日本国会图书馆Antara《Warta berita》纸本馆藏号Y735-SN-2（1965-07-01至1994-12-29馆藏区间，非每日逐期已读）；另G2找到Gerwis工作手册的网页题录但无法读取正文。原链接、证据等级、限制及下一步详见global-gap-tracker最新节。
