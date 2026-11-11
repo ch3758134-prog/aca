@@ -662,3 +662,10 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 **精确续接动作：**（1）获取日惹Korem、KOSTRAD/RPKAD 1966年10月调令及Gamping村级军事/民政人员和十一人宣传队名单；（2）核对梭罗王宫拘押点、日惹监狱的入出簿，逐一确认报告的1200/400、6000/90%和全省2000数字之定义；（3）转G1 ANRI Boven Digoel目录S233所列100/108/116/269号卷宗原始名册和1927运输船单；（4）转G4西加里曼丹1970土地手稿与《Penyuluh Land Reform》10(6):13—14，及Aceh/Flores/Bali县级军政、教区登记；（5）G2 SOBSI/BTI/Gerwani支部原档，G6/G7企业工会登记与幸存者救济执行，G8苏印军援交付；（6）修复CV314重复并持续建立G9索引及G10按事件时间排序的阅读正文。所有G1—G10继续OPEN。
 
 **Git续接**：本状态文件提交前，最新已成功写入main的提交SHA为 `11b3138ce77ab30c276682ea0c4ff6e3684a80da`（global-gap-tracker更新）。本状态文件自身提交的最终SHA无法预填，应以GitHub返回并再次核验main为准。
+
+
+## ONGOING｜2026-11-11｜1966年美国政策文书及跨G项地方证据缺口（G1—G10 OPEN）
+
+已读取AGENTS、stage-access、goal-continuity、completeness-audit、正式四CSV、chronology、global-gap-tracker。直接核读FRUS d210/d215全文并核对S156/S490及正式来源URL，登记S491—S492、C845—C847、Q277、CV316；中文chronology已加入1966年6—8月政策/国家重组的连续段落，缺口总账已更新。来源级别A仅指美国政策文书原文已读；实际援助交付、地方镇压实施及死亡统计仍未核实。G4地方原件仍缺，本次未找到新的地方一手登记。CV314重复需审计，不盲删。
+
+**精确续接：** ①按FRUS d210第10—12段与d215第10—13段追PL480 1966年大米5万吨、棉花7.5万包的合同、美国出口/运输单、印尼港口/中央银行接收账，区分签约、发运、到港；②追d215所述少量物资的授权、发票、收货人与实物用途，比较S031/S156；③G4优先亚齐1965军区Instr-1/10/1965、Flores/Sikka 1966-02-27 Komop会议纪要、巴厘A-527原件及县级死者/拘押登记、西加里曼丹1970土地原件；④G1 ANRI Digoel 1927船单；G2 SOBSI/BTI/Gerwani支部会费与土地登记；G6/G7劳工登记及幸存者执行；G9人物地名关系；G10按事件时间整理阅读正文。所有来源继续按全文/目录/摘要严格分级。提交前已写入四份正式CSV，最新确认的该批CSV提交为 e6445683bc55dc02b37db4c28d81d354c1338133；本状态文件的最终提交SHA应以GitHub写入返回及复查main为准。GOAL ACTIVE / OPEN-ENDED。
