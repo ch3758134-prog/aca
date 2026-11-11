@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-11 Medan原始电报与工会法权交叉核验
+
+已读取G1—G10完整性审计、AGENTS、stage-access、goal-continuity、正式四CSV、chronology及缺口总账。G4新直接阅读美国驻Medan 1965-06-07第509号电报OCR（https://nsarchive.gwu.edu/media/15697/ocr）：Darjatmo据PEPELRADA/DWIKORA权限推翻省长《Tjahaja》出版许可决定；须核6月6日地方命令及军方后续权力链。另直接读1965-12-06第184A号电报OCR（https://nsarchive.gwu.edu/media/15714/ocr）：领馆线人报告Muhammadiah清真寺反PKI杀戮布道，作者对NU及“普遍意见”的判断不是组织命令，须找地方布道与被害档案。G7直接开劳动部2000年工会法官方登记全文网页（https://jdih.kemnaker.go.id/peraturan/detail/32），确认法定10人组会与通知登记机制，原始签署PDF尚未核。以上均不自动证明实际地方执行；没有将两份电报构造为单一因果链。
+
+**已提交缺口总账**：97681174bf7f83302f48ee79d12347b9b2ab34e5。正式CSV读取含截断，未安全去重，故未新增S/C/Q/CV或改chronology/中文正文。**精准续接**：①对照两电报扫描原页；②追Darjatmo 1965-06-06报纸许可令及省长文件；③查Medan 1965-12 Muhammadiyah/NU地方原始讲稿、军警拘押名册；④直接核1965-11-01第1290号电报原件并追Shell/Stanvac/PERBUM/SOBSI人员档案；⑤打开2000第21号工会法PDF及县级工会登记卷宗，另轮换G1/G6/G8。G1—G10全部OPEN。**本状态文件自身提交会产生新的HEAD，下一次须读取main核对，不得把前一提交当最终HEAD。**
+
 
 ## ONGOING / GOAL仍进行｜2026-11-11 跨G2/G4原件等级复核
 
