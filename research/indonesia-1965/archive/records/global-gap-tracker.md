@@ -986,3 +986,14 @@ d168显示State、Defense、CIA和白宫工作人员讨论援助时，对是否�
 **G4巴厘：另一份A级美国同期电报原文已读，但统计仍非当地死者名册。** NSA保存的1965-12-21 Airgram A-408（Joint Weeka 48）原始OCR：https://nsarchive.gwu.edu/media/15720/ocr ，第2–3页报告当时全国约10万人死亡的估算，并援引一名巴厘消息人称当地约1万人死亡、包括省长Sutedja亲属；原OCR识别较差，具体人名和措辞应对照扫描页。NSA馆藏编辑说明的“后来约8万人”不是该12月21日电报中的同期统计，不能混同。**覆盖：巴厘，1965-12；来源层级A（使馆报告内容），当地事件B/C、精确数字D。** 下一步：获取A-408清晰扫描与1966-02-25 A-527原件、1965年12月巴厘军区/警察拘押登记及县级墓葬与人口资料；按县分解PNI、PKI、军队和宗教团体，避免全岛数字直接套到每个村。
 
 **G10同源核验：**已在正式CSV发现S190和C207–C208覆盖Telegram 1425，本次不另造来源与主张编号；正式CSV是否已有A-408须进一步按标题/档案号/URL全量核对。此次新增的是对两份公开原件的阅读与证据等级核对，不代表完成南苏拉威西或巴厘地区历史复原。G1—G10均OPEN。
+
+
+## 2026-11-11｜G2/G4跨项实核：Gerwis基层组织原始当事人报告与南苏拉威西档案交叉
+
+**G2（新实质来源，原刊转录全文）**：直接打开 Gerwani 数字文献库 https://gerwani.logosid.app/teks/2 ，其所载Darmini《Miss DARMINI of the G.E.R.W.I.S.》标明原刊 *Women of the Whole World*, Supplement Executive Committee XIV (January 1954), p.34。已读该页全部转录，但未取得1954纸刊扫描，因此访问等级为「当时组织代表陈述的现代全文转录」，非原版影像。Darmini称：1951年首次大会会员6000；1953年世界妇女大会时37000；1954年3月第二次大会前55049、163个支部；1952年铁路工人妻子联盟10支部/4000人加入；1953年8月Sulawesi地方PERWIN加入；Jambi油区成立争取同工同酬与社会保险的委员会；Sumatra与Celebes有产假权利宣传和孕期解雇调查。这些数字、加入关系和基层工作是**组织代表公开主张**，不能据此确认逐个支部、会员名册、工资/解雇事件；需要原刊扫描、Gerwis 1954大会决议、PERWIN/铁路工人妻子联盟文件、Jambi委员会与当地企业记录。跨组织、跨地区机制明显优于只重复党派总人数。
+
+**G2另一条原件入口**：https://19651966perpustakaanonline.wordpress.com/2026/09/18/dari-gerwis-menjadi-gerwani-kenang-kenangan-kongres-gerwis-ke-2-25-31-maret-1954/ 明列1954年3月25—31日Gerwis第二次大会纪念册、SOBSI中央局贺词、组织报告、章程与决议；已打开目录介绍，点入 https://perempuan.logosid.app/baca/buku/5 返回零行可读文本，**纪念册正文未核**。不能将目录章节等同决议内容。
+
+**G4/G5（持续链，未新增独立证明）**：重新定位1965-11-12美国使馆电报1425 https://nsarchive.gwu.edu/document/15708-document-12-telegram-1425-american-embassy ，其关于Makassar华人商店与Bone拘押者的报道依赖一位苏拉威西新教消息人；本轮印尼语报道 https://sulsel.idntimes.com/news/sulawesi-selatan/merah-darah-di-geladak-phinisi-cia-tahu-peristiwa-di-bone-3-habis-00-g3swn-0m59yr 仍引用同份电报，**不构成独立证实**。继续寻Bone拘押场所名册、地方军警/宗教组织原件及Makassar1965-11-10报纸。
+
+**G1—G10全部OPEN**。本条尚未在正式CSV注册新S/C；需与全部来源去重后登记，并据原刊访问等级逐项入账。历史正文须等原刊和至少一条独立基层材料后再深化。
