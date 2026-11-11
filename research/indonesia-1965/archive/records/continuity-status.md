@@ -961,3 +961,10 @@ d67的总统签批此前已登记为S621/C1035：约翰逊批准推迟岛际军�
 本次已重读AGENTS、stage-access、goal-continuity、2026-11-09完整性审计G1—G10、缺口总账、正式四CSV及archive/records/chronology.md。正式编号末尾S738/C1260/Q331/CV351；本次无新增已核实原件，因此不虚增S/C。G2沿ANRI RA.48 No.70继续，但原卷仍未取得；G4跨地区复读既有S385 HRW 1997全文，复核1967西加里曼丹华人驱逐与1996-97达雅克—马都拉暴力应严格分开；S453 Matsumura日文论文J-STAGE全文尝试失败，只见出版方摘要。新增发现Bintangpusnas Aju 2021年233页电子书馆藏入口及BPK XII Aju 2017书目，均未读正文，不能充作新的1967原件。G1—G10全部OPEN。
 
 **直接续接：**①通过ANRI LARISSA/馆员索取RA.48 No.70原始页及SBKA/PBKA各自决议；②尝试J-STAGE日文论文合法替代全文入口并对照S232；③找Kodam XII/Tanjungpura 1967-10 Peperalda命令与RRI Pontianak播报原稿；④查Sanggau Ledo、Sambas、Pontianak 1967迁移/死亡登记及教会医疗救济记录，逐县与1996-97分离；⑤下一证据链转换G1 Boven-Digoel运输原件或G7 2000年后工会登记与企业执行。已写入缺口总账；**前一笔已核实GitHub main HEAD**：`9a68bb51b3d881a707a8b3b90d34d3948d1dab3b`；本状态提交的最终SHA须另行读取分支确认，不预填未知值。研究不完成、不关闭。
+
+## ONGOING / GOAL仍进行｜2026-11-11｜SBKA原件影印与日期冲突；G4地区对照
+
+已读AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10审计、四正式CSV、chronology、长期缺口总账。新登记S739/C1261-C1262/Q332/CV352。ANRI官方2015铁路档案汇编PDF第78页可见SBKA致BAPEKAN原始信件影印，署名Singgih、信内1960-10-13，但印刷说明写1960-05-28；原卷SOBSI 70未打开。PDF第91页目录另见1965-07-12 SBKA声明No.3/65、SOBSI 204，原件未打开。跨G4西加里曼丹核对Sanata Dharma 2009研究的全文下载入口（本次只读目录），以及FRUS d162编者注；没有取得1967地方军令或人口迁移原簿，不能新增暴力统计。
+
+精确续接：①索取ANRI SOBSI 70影印所对应原件、卷内文件日期与BAPEKAN收文簿，解决1960-05-28/10-13冲突；②索取SOBSI 204、PP SBKA No.3/65原声明和政府铁路部长任免记录；③读取Sanata Dharma 2009 PGRS/Paraku论文全文并查其1967军令脚注，随后索取Kodam XII/Tanjungpura签发件；④找RRI Pontianak 1967年广播稿及Sanggau Ledo迁移、死亡名册；⑤转换G1 1927 Boven-Digoel运输原件或G7 2000—2003地方工会登记簿。提交前主分支SHA须另查；本次各文件顺序提交，最后提交SHA在本次结束后独立核实。GOAL ACTIVE / OPEN-ENDED，G1—G10全OPEN。
+
