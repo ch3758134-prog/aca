@@ -705,3 +705,11 @@ Kaulingfreks 2019硕士论文提供1926年官僚决策链及1930 Hillen调查的
 
 已读AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式CSV、chronology和缺口总账。新证据：直接打开FRUS d216，1966-08-03麦克诺顿致麦克纳马拉备忘录反对非训练性MAP而支持军官教育；该建议不是批准或实际援助。跨G项核对NSA 1965-11-04泗水原扫描，沿用S466/C808，不重复来源。因同期其他提交占用S509-S522/C885-C902/Q284-Q286/CV319，本次重新读取最新CSV并登记S523/C903/Q287/CV320，避免编号冲突。**未完事项**：JCSM-473-66、NSC 8月4日纪要、总统620(j)决定、AID/MAP支出及培训名册；Blitar种植园、Madiun/Pacitan/Ponorogo/Banyuwangi军令与国民阵线/BTI基层记录；Aceh、巴厘、Flores、西加里曼丹、Sulawesi各地地方原件；G1运输船单、G2产业工会、G6/G7政治犯与幸存者组织。CV314重复编号仍未修。GOAL ACTIVE，G1—G10 OPEN。最后提交SHA须以GitHub实际返回并复核为准。
 
+
+## ONGOING / GOAL仍进行 — 2026-11-11跨域续查
+
+已读取2026-11-09完整性审计、项目规则和正式台账。A级：直接阅读FRUS XXVI d217（1966-08-04 NSC会议，S524/C904），与前已登记d216 S523相互校验：会议讨论多边债务、PL-480粮棉及军事援助成本，不能证明实物交付。另重读原始A-218扫描（既有S490）核对中爪哇Gamping军政示范村、梭罗/日惹拘押口径冲突；不重复登记来源。正式新增S524/C904/Q288/CV321；G1—G10仍OPEN。未取得地方原始军令、受害者名单、运输提单。
+
+下一步精确动作：①FRUS d217脚注和Johnson Library NSC会议最终决议，查620(j)总统决定及1966 MAP/AID账；②美国PL-480粮棉船运提单与印尼港口/Bulog接收；③Gamping 1966 Korem驻村任命与BIMAS农业项目原始记录；④梭罗与日惹监狱1966年入押、转移、释放登记以解A-218数字矛盾；⑤转向G1 Boven-Digoel 1927运输名单或G5 Flores/Sikka 1966 Komop会议原件，避免只研究美国政策。
+
+**提交核验：**本段记录所对应的正式CSV提交SHA见GitHub main提交历史；由于状态文件提交自身会生成新的SHA，不能预先把其自身最终SHA写入同一提交。下一次读取main HEAD核验，不以此段中的任何SHA作为固定HEAD。GOAL保持OPEN。
