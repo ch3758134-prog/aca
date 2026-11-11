@@ -1293,3 +1293,6 @@ Cornell Kahin档案目录另列Box 81 Folder 7“Kadane interviews”和Box 95 F
 **精确续接**：①从ILO 1998-11-24原文脚注追结社自由委员会对应案件号、1998年8月政府释放通知及11月跟踪报告，查SBSI法定注册文书；②向印尼劳动部JDIH定位1998 PER-05/MEN、1999 KEP-201与当年SBSI/FSPSI登记簿，比较1998年6月、8月、11月的权利变化；③调Komnas HAM 2014摘要第1章并索取2012调查BAP目录及Maumere/Ende原始证言，核Prior估计的来源独立性；④交叉转G1 Boven Digoel殖民拘禁名单及G4 West Kalimantan 1967地方广播/军令、G8外部援助交付原件；⑤核正式CSV已有ILO 1998与Komnas 2014是否同源登记，之后才并入chronology和中文连续正文。
 
 **当前GitHub读取基线main ae24ccbf967a45f3a4d02d599ed034e0d5838514；本状态文件更新产生的提交SHA须以后续GitHub提交响应/HEAD复查为准，不能预知写入自身。长期GOAL ACTIVE / OPEN-ENDED，G1—G10全部OPEN。**
+## ONGOING / GOAL仍进行｜2026-11-11 Palembang地理纠错与跨地区调查
+
+新增S832-S834、C1468-C1470、Q351、CV373-CV375；详见global-gap-tracker和chronology。**最重要纠错**：1965-11-01第1290号电报正文写Palembang SOUTH Sumatra，档案馆说明误称North Sumatra。下一执行：①逐页核三电报扫描；②取得Palembang Stanvac/Shell/PUSRI及PERBUM/SOBSI拘押和解雇名册；③追东爪哇铁路五站关闭与Tulungagung地方死亡登记；④核Mokoginta/Pantja Tunggal/Hansip地方命令；⑤轮换G1 Semaun殖民工会、G6流亡拘押和G8外国介入。GOAL永久OPEN；最新Git SHA以提交后main读取为准。
