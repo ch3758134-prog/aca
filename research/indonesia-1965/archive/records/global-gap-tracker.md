@@ -823,6 +823,35 @@ Martens在1990年信件与1991年口述史中承认传递过姓名，并描述�
 **下一步原件路径：**①向NARA按RG 59, Central Files 1964–66, POL 12 INDON调取1966-08-10 A-74及附件，追1965年12月 sanitized A-398 和Partindo/Baperki名册的函件、收件单位与交接；②在GWU National Security Archive查询Kathy Kadane的录音、访谈文字稿与工作笔记，完整核对Green、Edward Masters、Jack Lydman、Robert Martens、Joseph Lazarsky等受访者逐问逐答；③读取Martens完整ADST口述史；④查Adam Malik、其助手和陆军总部/安全机关原始收件簿；⑤仅在取得可核对的印尼姓名、地区、时间线后，才与拘押/案件/死亡材料逐人比对。来源登记与主张见S189、S798–S800、C1401–C1405、Q338、CV360。GOAL继续OPEN。
 
 
+## G8｜美国陆军通信器材与Kadane所述NSA监听：分开核查（2026-11-11，仍OPEN）
+
+**可直接确认的美方记录：**FRUS d155报告10月14日计划秘密向Nasution护卫交付三部Motorola P-31手持机，现无印尼收货单；d175提出为指定陆军领导人与美方人员建立保密语音/CW通信，包含网路规划、频段与训练需求；d211报告后来器材集结、部分转给Nasution相关情报链、Suharto被通知器材可用并安排技术人员会谈，同时明说原提案设备未按原建议交付。303委员会日期在d175、其脚注与d211叙述之间有阶段/日期差异，仍须对原会议纪要。
+
+**只见事后访谈转述：**Kadane 1997年在NYRB称美国提供车辆与数十部野战电台，并据未具名前官员说CIA的Collins KWM-2设备从Clark Field空运至Kostrad、NSA获得频率并截听印尼陆军通信，甚至获知具体杀人命令。S805是同一记者访谈材料的公开版本；Easter 2005脚注82又以303提案和Kadane信为无线电论述来源，不可计为第三份独立证实。尚未找到原访谈带、NSA转译/监听记录、军方网路日志、设备序号、飞行记录或收货凭证。
+
+**具体续查：**①GWU National Security Archive访问/查找Kadane录音、笔记及附件目录；②NARA/NSA/CIA请求相关频率清单、SIGINT报告和交叉分发记录；③查美国空军、Clark Field与C-130运输日志，CIA/DOD电台型号、采购与序号；④追Kostrad和印尼陆军通信部门接收、调频、训练、分配与运行登记；⑤把具体电台计划与NSA涉嫌截获的目标性指令分开；仅在获得被点名地点/人员后，才对照印尼地方军令、案卷、拘押与死亡资料。该链不证明美国策划印尼政变或某个个人因名单/通信项目而遇害。参见S031、S033、S431、S046、S805；C753、C1240、C1410–C1416；Q341、CV363。
+
+
+## 2026-11-11｜G8更新：通信器材和曼谷秘密供给的执行链仍未闭合
+
+本轮将四组无线电证据分开：①FRUS d155的三部Motorola P-31在1965年10月14日是有同期电报记录的提议与预定秘密交接，签收未见；②d170的“从雅加达传出”通信设备问题被隔离在华盛顿—雅加达渠道，后续删节，不能据此确定接收人或型号；③11月Sukendro提出约十二套便携语音电台、区域语音网和中爪哇战术通信，实际采购和交接未证；④Green在1987年回忆后来将使馆14部应急手台交给Suharto，确切日期和设备序号未见。Bunnell根据其1981—82年访谈称Sukendro确认药品、无线电和小武器曾经由CIA曼谷站秘密提供；录音和物资凭证未定位。Brad Simpson后出文章也称小武器似曾送达，但相关网页无注释，不算独立复证。Kadane关于Collins KWM-2/Clark Field/NSA的更具体说法仍是另一条未验证链。
+
+下一步：查NARA RG59 POL 23-9 INDON的telegram 952、1427及原电749/1333，DEF US-INDON中的telegram 373；取LBJ档案中的303委员会11月/12月会议纪要、采购和交付文件；找Green汇报14部设备的电报及使馆库存、印尼军方收货册；追索Bunnell的Sukendro采访记录和CIA曼谷站武器/通信器材流水账。公开材料目前不含全套序号、收货人或运行日志，不能以后来叙述补足执行阶段。G1—G10继续OPEN。
+
+
+## G9｜1965 U.S. political funding allegation and embassy PKI list feedback chain — OPEN (2026-11-11)
+
+**New evidence:** FRUS d177’s footnote says Sukarno told the Cabinet on Nov. 6 that former Ambassador Howard Jones gave an unnamed Indonesian Rp150 million to spread “Free World” ideology; Green cites it on Nov. 19 while discussing the Army’s political direction and what U.S. aid might signal. This is evidence that the accusation and U.S. response were recorded, not proof a payment occurred. The underlying Airgram 331, speech transcript, named recipient and accounting remain missing.
+
+A print scan of CovertAction Information Bulletin no. 35 (1990), pp. 58–59, reproduces selected Kadane interview excerpts. Masters assents to an interagency Embassy index-card operation and CIA cross-indexing; Lydman acknowledges top-level review and says names reportedly returned from Suharto’s headquarters, while explicitly qualifying that he could not remember the exact sequence/contact; Green’s Dec. 18 answer is uncertain about whether information was furnished, while a Dec. 20 excerpt prints “Yeah” following a question naming the alleged senior group decision to disseminate names. These are retrospective, selected responses; complete recordings and the full Q/A context have not been examined. The neighboring article’s polemical claims are not treated as established by the interview excerpts.
+
+Cornell’s George McTurnan Kahin papers guide lists Box 81 Folder 7 “Kadane interviews” (1995) and Box 95 Folder 40 “Kadane. Embassy list: 1965 articles” (1990). This is a separate access lead only: box/folder contents are not known, and no relationship to Kadane’s reported deposit at the GWU National Security Archive is established.
+
+**Exact next actions:** (1) Request/inspect full Kadane tapes, transcripts, notes and document exhibits from GWU National Security Archive, recording accession and restrictions; (2) ask Cornell RMC for full metadata, access and contents of Kahin Box 81 Folder 7 and Box 95 Folders 39–40; (3) obtain NARA RG 59 Airgram 331, Green’s A-74 and enclosure, 1965 Embassy list/circulation/feedback records; (4) seek Indonesian Army/Suharto/Murtopo list receipts and returned arrest/death-name logs; (5) trace Sukarno’s alleged Rp150m recipient through Indonesian speech/public records and U.S. Embassy/Jones financial or covert-action accounts. Keep C1428 allegation distinct from a proved payment; keep C1429–C1432 testimony distinct from an independently verified transfer or personal consequence. See S174, S810–S811; C1428–C1433; Q343; CV365.
+
+
+**G9 added evidence path (2026-11-11):** A later Indonesian transcript citing *Revolusi Belum Selesai* I:82 renders Sukarno’s Nov. 6 allegation as referring to a handover/receipt document for Rp150m; the document itself is absent. The same page quotes his Dec. 18 HMI appeal as reporting killings and burial threats in East/Central Java based on the governor, military commander and his own information. Current access is the 2011 blog transcript plus an ITB catalog record for the 2003 collection, not the speech original. Request volume I pp.82/302 and any recording/minutes; search the alleged payment and receipt, Airgram 331, East Java gubernatorial and Kodam Brawijaya reports, local arrest/death/burial records and HMI event documentation. These sources document what Sukarno reportedly said and knew, not proof of the underlying payment or specific incidents. [S812–S813; C1434–C1435; Q344]
+
 ## 2026-11-11｜G8/G4跨项再核：1965年援助决策与1967年军事援助回顾（原文复核；不重复立项）
 
 **G8：直接重读FRUS XXVI d172（1965-11-09，CIA备忘录）及d177（1965-11-19，Green电报），全文与脚注均公开打开。** d172第7段探讨隐蔽信贷、第三方采购及武器/药品转交的可行机制，但第8段明确写“目前不建议”提供所述装备，须先询问Sukendro、Nasution下属有关用途、发放、登记和民兵接收控制；d177又建议除针对PKI行动的审慎援助外，不应在军方政治方向未明时提供重大经济援助。二者表明美方内部存在政策条件、风险评估与执行间隔；**不能据此推断1965年11月物资已交付**。已登记原件S155/S724（d172）、S174（d177），不得再新增同源S编号。原文：https://history.state.gov/historicaldocuments/frus1964-68v26/d172 ; https://history.state.gov/historicaldocuments/frus1964-68v26/d177 。

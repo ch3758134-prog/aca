@@ -790,3 +790,28 @@ FRUS XXVI d58、d61、d63–d68已逐份打开；d67已在既有S621/C1035登记
 FRUS官方编辑注引Green 1966年A-74称，删节A-398已于1965年12月送达印尼政府、似被安全机关使用，且Partindo/Baperki名册也按需提供。没有打开A-74原件和附件。Martens 1990信承认把高级干部姓名交给非共产党力量，称源于公开报刊、本人决定且未获授权；其1991口述史又回忆资料由Malik助手带给Malik，Malik“似乎”交给陆军，并说自己不知道效果。此回忆与A-74所述删节文件是否完全一致仍未知。Kadane 1990报道的最高约5,000名、多人获授权的叙述，与Martens说法和Wines同年对访谈稿歧义的报道形成需要逐字核查的争议。
 
 正式台账当前794 source records（最高编号S800）、1,402 claims、338 searches、360 coverage rows；源编号空缺保留而不重用。下一步：调取NARA RG59 POL12 INDON中A-74及附件；读取GWU NSA中Kadane的访谈录音/逐字稿；取Martens完整ADST记录及印尼方面名单副本、交接/收件簿；如名单仍可恢复，再与独立拘押和死亡档案逐人比对。GOAL OPEN。
+
+
+## 2026-11-11｜美国通信援助和事后NSA监听指控（GOAL OPEN）
+
+新增S805、C1410–C1416、Q341、CV363；正式台账目前有795条来源（最高S805）、1,409条主张（最高C1416）、339条检索和361条覆盖项。主要发现与限制写入`continuity-status.md`、`global-gap-tracker.md`、`foreign-intervention-matrix.md`及连续阅读HTML。1997年Kadane公开信提出设备经Clark Field送Kostrad、NSA监听印尼陆军信号并收到特定杀人命令等说法；暂时只属于记者对事后访谈的转述。FRUS记录的三部P-31手台和后续303通信方案属于不同渠道，不能作其具体型号、空运或截听行动的佐证。下一步仍需获取Kadane材料目录与原带、CIA/NSA/USAF和Kostrad/陆军器材及通信记录；G1–G10均未关闭，作者政治判断未填写。
+
+
+## 2026-11-11｜通信援助证据层级续查
+
+新增S806–S809、C1417–C1427、Q342、CV364。已核读Bunnell 1990年研究相关段落、LOC/ADST Green 1987口述史、Simpson 2010公开文章，以及d155/d170/d171/d173；区分三部P-31计划交接、11月Sukendro的设备申请、Bunnell所报曼谷CIA供给、小使馆14部应急台回忆，以及Kadane 1997 KWM-2/NSA指控。实际签收、采购、武器清册、Bunnell采访原带和Green汇报电报仍未取得。精确续查及置信度已写入continuity-status、global-gap-tracker、CV364、C1417–C1427和连续阅读HTML；GOAL保持OPEN。
+
+
+## 2026-11-11｜G8名单与通信链、G9 Sukarno资金指控续查
+
+已新增S810–S811、C1428–C1433、Q343、CV365，并将新证词和来源限制纳入chronology、连续阅读HTML、foreign-intervention-matrix及global-gap-tracker。d177记载Sukarno关于Howard Jones向匿名印尼人交付Rp150m传播“自由世界”理念的指控及Green的援助政策反应，但不证实支付。1990年《CovertAction》刊出Kadane访谈节选，呈现Masters对跨部门名单编制/CIA交叉索引的回应、Lydman对高层复核及回流路径的有限确认、Green的两段不同回答。原录音、完整逐字稿、名单、传递和印尼收件记录仍缺。Cornell finding aid列出相关卷夹，仅作待查路径。GOAL OPEN，作者最终政治判断未填。
+
+
+## 2026-11-11｜Sukarno讲话记录、美国拨款指控与地方杀害报告
+
+新增S812–S813、C1434–C1435、Q344并更新CV365和连续HTML。FRUS d177确认美国大使在1965-11-19记录Sukarno对前大使Howard Jones和Rp150m的指控；后出印尼语讲话转录声称Sukarno提及交付/收据文件，但未见凭证本身。12月18日HMI讲话的后出转录显示Sukarno称他收到东爪哇省长、军区司令及本人掌握的信息报告，涉及东/中爪哇杀害与威胁收尸者；对应底层报告和个案未核实。下一步调阅演讲集原页/音档、Airgram 331、美国财务线索和东爪哇行政/军事/地方案卷。GOAL OPEN。
+
+
+## 2026-11-11｜合并后正式台账状态与下一步（GOAL OPEN）
+
+合并并复核后，正式台账现有807条来源记录（最高S813，编号缺口保留）、1,432条主张（最高C1435）、344条检索日志（最高Q344）和365条覆盖项（最高CV365）。新增通信援助、名单证词及Sukarno讲话材料均与原有荷兰流亡档案/地方研究条目分开编号；引用编号已统一。CSV标识无重复，HTML索引与内部锚点待最终提交前复核。GOAL保持ACTIVE/OPEN-ENDED，G1—G10全部OPEN；作者立场与最终政治判断仍由作者后续整理后决定。下一步优先查Kadane录音/笔记实际馆藏与Cornell卷夹、NARA Airgram 331及d173所引 telegram 373/1427、美国通信器材采购和签收记录，并继续追东爪哇军政同期报告与地方个案。
