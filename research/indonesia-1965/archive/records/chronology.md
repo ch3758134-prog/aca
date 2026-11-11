@@ -1188,3 +1188,12 @@ FRUS目录显示，9月20日有一份提交303委员会的备忘录，来源标�
 - **FY1958–FY1973:** The 1974 U.S. Statistical Abstract separately reports US$12m in predecessor-agency development-loan authorizations for 1958–61, US$300m in AID authorizations for 1962–72, and US$112m in AID authorizations in 1973. The note defines authorizations as loans established subject to borrower acceptance, with funds set aside then, and reports gross amounts before later deobligations. The decade figure cannot be assigned to the 1963 loan. [S608; C1026-C1027]
 - **Source status:** USAID says its annual historical figures are grant obligations and loan authorizations for 1955–2000, may be revised between editions, and that FY1963 ran 1 July 1962–30 June 1963. The official catalogue confirms a contemporaneous 158-page FY1963 report exists, and HathiTrust lists a public-domain full-view 1945–73 volume; neither item's FY1963 Indonesia page was read here. [S606; S609-S610; C1025, C1028]
 - **Open crosswalk:** These series do not establish how much was disbursed, what was purchased or shipped, or what Indonesia received. The original AID Loan 497-K-013 agreement, annual obligation/disbursement records and import documents remain necessary; do not equate it to the full FY1963 total or the FY1962–72 $300m authorization aggregate.
+
+
+### 2000年8月4日｜工人结社权从国际批准进入国内登记制度
+
+1998年苏哈托下台之后，印尼新政府批准国际劳工组织第87号公约，但国际承诺本身没有回答工厂工人如何在本地建立工会。2000年8月4日，瓦希德总统签署第21号《工会法》，为组织成立、加入联合会、向地方劳动机关登记以及代表工人参与集体谈判规定了国内法律程序。法律第五条规定十名工人即可成立工会，第九条明确禁止雇主、政府、政党或其他方面干预自愿组建；第十八条要求已经成立的组织将创办成员名单、章程与管理人员名单提交当地劳动机关登记。第二十条要求合规申报在二十一个工作日内取得登记号码，材料不符合条件时须在十四个工作日内书面说明暂缓理由。这样的程序使结社权不再仅是外交层面的国际公约，而具有可以具体追查的地方行政步骤。然而法律并没有自动消除企业管理者的阻挠，也没有证明每一个申请者都取得登记。要知道制度在泗水、雅加达或种植园工厂里如何运行，还须找到申请册、被暂缓申请、企业集体协议和劳动争议的原始档案。该法第二条仍规定工会组织原则与建国五项原则及1945年宪法的关系，不能把工会合法化等同于被禁共产党的政治合法化。[S611; C1029; 原件 https://peraturan.bpk.go.id/Download/33380/UU%20Nomor%2021%20Tahun%202000.pdf]
+
+### 1965年10月｜亚齐公开杀戮与军方地图统计口径（证据等级复核）
+
+亚齐军方在1965年10月初的行动，不能仅用全国性“自发反共骚乱”概括。研究者Jess Melvin在2015年公开叙述其在班达亚齐查阅军方和政府档案的经历，并转述10月1日后军方命令、10月6日起公开杀戮和10月14日前后军方控制地点的大规模杀戮。她刊出的军方死亡地图照片据称记录八个地区共1941起公开死亡；约一万人的省级死亡规模则是她结合非公开处决所作推算，不能与1941当作两个独立统计相加。当前研究直接读到了研究者文章及所刊图片说明，**没有直接核对原始军方地图完整档案、逐县数字和西亚齐10月11日会议原件**；因而仍需按研究者转述等级保留，尤其不能把推算当作逐名名册。[既有S127; https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide]
