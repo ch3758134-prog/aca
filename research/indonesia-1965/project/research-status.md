@@ -501,3 +501,10 @@ Next: inspect the Johnson Library originals and relevant NARA RG 59 telegrams; o
 ## 2026-11-11 continuation — precise UK operational-record locators (originals not yet inspected)
 
 Added the full-text KCL MA dissertation as S662 solely as a locator for CAB/DEFE files; C1104–C1105 record its references and the unresolved 3,000-yard versus DVA 2,000/10,000-yard summaries. Q320 documents the exact-record searches and access limits; CV343 now identifies CAB 148/1 DOPC meetings 17/19/29, DEFE 4/169 COS meeting 36, and DEFE 5/150 COS Memos 121/64 and 124/64 as priority requests. These are not yet primary evidence. Read the originals, appendices, distribution and opening records before asserting who authorized which action, at what depth, under which label, or with what restrictions. GOAL remains open-ended.
+
+
+## 2026-11-11｜1964年1—2月美国多国斡旋、援助杠杆与谈判条件（ONGOING）
+
+新增S663–S666、C1106–C1118、Q321，扩展CV344；更新FRUS中1—3月外交时间线及连续阅读HTML。四份新读文件分别补上马尼拉的三方会谈安排、Rusk关于援助与苏加诺停火承诺的内部判断、美国驻外大使统一谈判口径的要求，以及2月18日敦促马来西亚继续谈判并向雅加达提出安静撤军的双向外交策略。d28把美国自身最低条件写明：马来西亚领土地位、马菲与西方阵营取向及英军继续驻留；d30中的150—200印尼人员是美国估算，不是核实名单。
+
+下一步直接调NARA RG59原电和Johnson Library原件，并取得印尼、马来西亚、菲律宾、泰国、英国对停火和曼谷会谈的各自记录；另外追澳大利亚£3m援助的任务团、拨款、采购及收货。单方报告、政策指示、外交影响和地面执行继续分开。GOAL OPEN；不替作者下政治结论。
