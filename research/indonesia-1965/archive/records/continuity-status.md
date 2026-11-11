@@ -652,3 +652,13 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 - Dita Sari释放日期核实为1999-07-05；Keppres 68日期为7月2日；1999年6月的ILO报告仍要求释放，11月报告记录政府称她已获释，Amnesty当日发布欢迎声明。法令扫描、原判、实际放人登记尚未读。
 - Marsinah案：ILO 318次报告记载政府于1999-06-25联系Komnas HAM启动调查，并批评从1993年死亡至启动调查超过六年；调查最终报告与司法后续未获。
 - 状态：ONGOING / GOAL仍进行，G1-G10仍OPEN。接续优先：①取得PER-05原件及后续1999登记法规；②索取SBSI全国/省/厂级登记簿和五家争议企业记录；③找Dita原判与Keppres执行/监狱出狱簿，补Marsinah调查卷；④追1970西加里曼丹土地手稿、Digoel 1927船单及Aceh/Flores/Bali地方原件。当前基线提交SHA：3bdc80903c409b9ca2f7bee9dd9bfddbb2cb6332；本轮研究内容、台账与HTML的Git提交为9afde6cffe9084bf107a617af94272deec9b09b2（父提交3bdc80903c409b9ca2f7bee9dd9bfddbb2cb6332）；本状态文本随其后续main提交写入。
+
+## ONGOING｜2026-11-11｜中爪哇1966年军队村级治理与跨G项续查（G1—G10 OPEN）
+
+本次先读AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09、四份正式CSV、chronology、global-gap-tracker及本续接状态。基线登记S489/C841/Q275/CV314；发现CV314在coverage-matrix有两行，需审计差异，禁止盲删。研究状态仍非历史穷尽。
+
+新增S490（A-218五页外交原件全文，1966-11-05）、C842—C844、Q276、CV315，写入chronology连续中文叙述与global-gap-tracker。原件记录1966-10-20日惹检查站、KOSTRAD/RPKAD到达的军官解释、Korem陪同下Gamping村军事/民政平行治理及政治教育队；报告中Solo/Yogyakarta与全省拘押数字互不相容，不能作为独立总量。A-808已登记S149，重新打开OCR但文本损坏，不重复来源。G1 Digoel 1927原始船单及G4西加里曼丹1967地方军政/土地原件仍未取得，不以目录或摘要代替。
+
+**精确续接动作：**（1）获取日惹Korem、KOSTRAD/RPKAD 1966年10月调令及Gamping村级军事/民政人员和十一人宣传队名单；（2）核对梭罗王宫拘押点、日惹监狱的入出簿，逐一确认报告的1200/400、6000/90%和全省2000数字之定义；（3）转G1 ANRI Boven Digoel目录S233所列100/108/116/269号卷宗原始名册和1927运输船单；（4）转G4西加里曼丹1970土地手稿与《Penyuluh Land Reform》10(6):13—14，及Aceh/Flores/Bali县级军政、教区登记；（5）G2 SOBSI/BTI/Gerwani支部原档，G6/G7企业工会登记与幸存者救济执行，G8苏印军援交付；（6）修复CV314重复并持续建立G9索引及G10按事件时间排序的阅读正文。所有G1—G10继续OPEN。
+
+**Git续接**：本状态文件提交前，最新已成功写入main的提交SHA为 `11b3138ce77ab30c276682ea0c4ff6e3684a80da`（global-gap-tracker更新）。本状态文件自身提交的最终SHA无法预填，应以GitHub返回并再次核验main为准。
