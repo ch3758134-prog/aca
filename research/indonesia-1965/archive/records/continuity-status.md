@@ -728,3 +728,11 @@ Kaulingfreks 2019硕士论文提供1926年官僚决策链及1930 Hillen调查的
 已完成：回读并摘录FCO 168/1667—1668五件相关扫描材料，抽查英文/印尼文特刊页面；读到澳大利亚DFAT官方刊出的Shann—苏加诺会谈电报；读到世界银行1967年援助简报，并在荷兰国家档案馆目录定位IGGI会议材料。已将文书目标、内容、拟议转运路径与实际传递/影响拆开记录；没有把宣传内容的虚假或真实、传播范围、对暴力的因果影响当作已证事实。
 
 **下一步直接执行：**①搜集英国TNA中IRD/SEAMU的行动图、生产数量、其他期刊和邮寄回执，确认黑色广播及接收者；②访问或逐件定位澳大利亚NAA 1965年10月政变卷与Radio Australia内部文件，核实大使馆、广播局与澳政府意见之间的关系；③继续追读荷兰IGGI实物档案与日本、澳大利亚、德国、印尼的贷款和援助材料，核对承诺、付款与实物到货；④扩展中国、苏联及东欧外交和军贸档案，判断1958—1965年的联系、武器交付和九三〇事件之间是否有可证联系。GOAL继续OPEN。
+
+## ONGOING / GOAL仍进行｜2026-11-11 PRD司法镇压与Kudus地方名单交叉核验
+
+已读AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、四份正式CSV、chronology、global-gap-tracker；research-status.md未找到。对既有来源去重后，新增S583（Amnesty International 1997年10月《The PRD Prisoners》机构完整PDF）、C987、Q298、CV328，已写入正式四CSV、chronology中文历史段落及长期缺口总账。另一G项复核既有S151/C648-C649（1965-12 Kudus Baperki名单及军队、宗教/政治组织协调的美方外交原电报），不重复登记。国际特赦报告属于同期机构原报告，**不是印尼法院原判**；A-386为当事人Suhandjo向使馆的转述，**不是Kudus军方接收名单或被拘押者命运原始登记**。
+
+**已成功写入的最后一个研究文件提交：095ea12efdfc268d6ac8fe5eb65de99ce3b35484**（global-gap-tracker）；本状态文件提交后的最终main SHA须以写入返回及回查为准，不可能预填自身SHA。全部G1—G10继续OPEN。
+
+**下一步直接执行：**①查Surabaya Pengadilan Negeri 1996-12 Dita Sari/Coen Pontoh/Mochamad Sholeh起诉书、1997判决与律师辩护材料；②取得PRD 1996-04日惹代表大会纲领及PPBI/SMID/STN基层名册，分别核对组织自主性；③追Kudus/Pati Suhandjo向军方交付的Baperki 200+名名单、RPKAD收件与被捕者个人去向；④恢复Aceh Instr-1/10/1965、Flores 1966 Komop会议、Bali县级登记和West Kalimantan土地原件；⑤继续G1 Digoel运输名单、G7 1998后工会实际登记、G8非美方档案与G10按日期主时间线/连续中文阅读正文。不要把不同日期的拘押数字合并，不宣称全量完成。
