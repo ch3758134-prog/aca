@@ -1,5 +1,15 @@
 # 印尼左翼历史 GOAL｜连续接力状态
 
+## 最新接力｜2026-11-11：Flores地方军政、工会法效力、幸存者组织（ONGOING / GOAL仍进行）
+
+本次已读G1—G10完整性审计、AGENTS、stage-access、goal-continuity、正式四CSV的表头与首批记录、chronology开头及滚动缺口总账；正式编号最高值沿上次核验为S800/C1405/Q338/CV360，本次未对CSV全量去重故不新增编号。已提交缺口总账：8bfac6d6c4d0113a4d0ec3bb39a243189879f8fa。此处不预写本次状态提交SHA，提交后须独立查询main。
+
+跨G核验：G4/G5直接打开2008年Brill《A History of Christianity in Indonesia》第七章253–255页全文，发现1966年2–5月Maumere/Sikka与Bajawa不同地方教会行动、1966-04-28主教信、Wolokoli 45人线索，均为B级研究转引而非1966年原件；G7/G10打开BPK官方UU21/2000法规页与法条PDF，BPK和劳动部标有效、BKN标无效，尚无废止证据；G6/G7/G9打开Andreas Iswinarto 2025-09-23全文，定位YPKP 1965于1999-04-19成立、1999-11《Soera Kita》创刊、2000-11 Wonosobo发掘，仍缺组织/发掘原始记录。精确链接、证据等级、反证限制见global-gap-tracker末节。
+
+直接续接：①调取Gabriel Manek 1966-04-28致Maumere总铎信与Wolokoli拘押/Keut-Wairklau埋葬记录，核KOMOP命令；②查1974年匿名Sikka回忆稿及Da Cunha 1999指定页，区别当地天主教青年不同立场；③从BPK/JDIHN/BKN查UU21/2000现行效力字段冲突，并索地方工会登记和劳动裁决；④调YPKP 1999成立章程、Soera Kita创刊号、2000 Ndempes发掘记录；⑤轮换回G1 1926–27殖民流放、G2 SOBSI/BTI/Gerwani原卷、G3跨机关时间线和G8外援交付链，避免被本次专题锁死。下次先全量去重四CSV，登记确证来源与事实，再更新chronology及成熟中文连续正文；不得把目录/后期回顾写成原件。
+
+GOAL永久OPEN，G1—G10均OPEN。本次尚未完成正式CSV/chronology/中文正文增补，不得声称已完成。状态文件本次提交SHA在提交后核验。
+
 ## 最新接力补充｜2026-11-11：G4/G5亚齐社群与G7法律目录冲突（ONGOING / GOAL仍进行）
 
 开始时核实main HEAD为49b85f7e2d0742fa29ad84a9d494eaf606b6518e；读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09、正式四CSV、chronology、research-status、global-gap-tracker及本文件。当前正式最高ID S800/C1405/Q338/CV360；本次无新独立原始史料足以新增编号，未重复登记已有S611/C1029、S473或Melvin既存研究来源。已写入缺口总账的提交：2f6c885ba62e3f370f91fccb184d40c00fc8ec32。
