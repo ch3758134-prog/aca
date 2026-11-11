@@ -1057,3 +1057,12 @@ d168显示State、Defense、CIA和白宫工作人员讨论援助时，对是否�
 **G1早期组织跨项检查：**Cornell《An Early Account of the Independence Movement, by Semaun》馆藏 https://ecommons.cornell.edu/entities/publication/24349664-130a-45ff-9f50-51cc51e04594 提供1966年《Indonesia》1卷46—75页PDF，但本次打开PDF下载链接发生CDN不可访问错误；仍为C级目录，**没有阅读Semaun正文**。可尝试机构代理、镜像或馆际访问，不得以1966年出版日期误作1920年代原稿日期。
 
 **G1—G10均OPEN；正式CSV和chronology仍须在完成全量去重及核验后并库。**
+
+
+## 2026-11-12｜跨G7/G4：1998结社法权与企业实践；Flores 1966地方镇压（OPEN）
+
+**G7／1998—1999工会法权：**直接打开印尼审计署JDIH的Keppres 83/1998官方法规登记全文网页（https://peraturan.bpk.go.id/Details/59198/keppres-no-83-tahun-1998）：1998-06-05签署、公布、生效，批准ILO第87号公约。点击官方PDF阅读器（https://peraturan.bpk.go.id/Read/48739/Keputusan_Presiden_no_83%20TH%201998.pdf）只返回加载界面，**法令扫描正文未读**；官方元数据可确认批准行为，不能证明工厂工会结社已获有效保护。直接打开Michele Ford 2000年ANU刊行的研究全文PDF（https://openresearch-repository.anu.edu.au/bitstreams/1138d0c5-5943-42b5-8876-873482e967e7/download），第3—5页：作者1999年2—4月实地访谈及同期报刊核查指出PER-05/MEN/1998第3条要求注册成员名单、第4—5条保留行政审查，访谈者报告已有独立工会申请被拒、组织者遭解雇，以及已有FSPSI单位的工厂被拒第二工会；这属于研究者的访谈记录和法规转述，不是已核原始拒绝通知或劳动监察案卷。Ford脚注还明确PER-05/MEN/1998于1999-09-30被第201号部长决定取代。**需要**PER-05签署文本、Kepmen 201/1999原文、1998—99具体企业注册申请/驳回件、1998-08 FSPSI十三行业联署与1999 Garut大会签署决议；与S829/S830报道交叉而非将法权当实践。
+
+**G4/G5／Flores-Maumere 1966：**打开John Mansford Prior 2011《The Silent Scream of a Silenced History: Part Two》论文出版/摘要页面（https://www.researchgate.net/publication/274532064_The_Silent_Scream_of_a_Silenced_HistoryPart_Two_Church_Responses），**仅摘要、全文不可得**。作者概述Maumere 1966年2—4月约800—2000人被杀、军方发起、当地天主教徒参与杀害同为天主教徒的受害者，并提及三位荷兰传教士约40年后的回忆。数字与责任结构均是作者摘要的概述，不是军方原始名册或独立统计；不能把教会视作单一政治主体。**需要**Prior Part One全文、Maumere当地KOMOP军令、教区1966年日志、传教士原稿、Jan Djong拘押死亡证明及地方村级名单。不得把二手引用当独立反证。
+
+**G1—G10横向保留：**G1 Semaun原文与1920年代殖民工会文件；G2 SOBSI/BTI/Gerwani基层财务和章程执行；G3 1965跨机关时间戳；G4 Aceh/北苏门答腊/东西中爪哇/巴厘/Flores/西加里曼丹/Sulawesi县级军令；G5 性别族群与幸存者；G6 布鲁岛外监禁、流亡、学生与工人再组织；G7 工厂执行与2024—26法律诉讼；G8 英美澳中苏审批—交付；G9 地名/人名/机构索引；G10 正式CSV去重和按事件时间主线。以上均未闭合。本次大型CSV的连接器返回包含截断警告，不可安全整文件覆盖，故未擅自登记S/C/Q/CV或改写chronology；需要改用分页完整读取/本地校验后正式并库。GOAL OPEN。
