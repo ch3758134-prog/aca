@@ -1144,3 +1144,9 @@ FRUS目录显示，9月20日有一份提交303委员会的备忘录，来源标�
 - **17 February 1965:** Australian ambassador K. C. O. Shann's published secret cable records Sukarno saying he did not want war, wanted talks, and asked whether Australia could help arrange them. The cable is a summary with omissions; Shann's account of Sukarno's view of China and his interpretation are attributed to the ambassador. [S579; C983-C984]
 - **6–13 October 1965:** FCO 168/1667–1668 records Britain's instruction for an unattributed propaganda campaign, desired objectives and channels, a special issue's planned posting through Manila and Tokyo, Hewitt's statement that officials saw the crisis as an opportunity despite uncertain facts, and Wynne's transmission of an English/Indonesian copy to IRD. The scans establish British intent, production and reported routing plans; they do not prove Indonesian delivery, audience, or effects. [S572-S578; C976-C982]
 - **February–November 1967:** A World Bank briefing reports Amsterdam and Scheveningen IGG meetings, a $200 million 1967 balance-of-payments assistance pledge and a planned November meeting on 1968 aid. Dutch National Archives inventory 2.05.313 lists physical IGGI meeting papers/minutes from 1967 onward; those files remain unread. [S581-S582; C985-C986]
+
+
+### 1996年7月至1997年10月｜新工农学生组织与国家司法镇压
+
+1996年7月8日，东爪哇泗水的工人集会成为新一轮政治案件的起点。Dita Indah Sari与Coen Husein Pontoh、Mochamad Sholeh等活动者同工厂工人一起提出工资、结社及东帝汶政治权利要求。Dita参与的PPBI（印尼工人斗争中心）与学生组织SMID、农民组织STN同新成立的人民民主党PRD存在组织联系。这些团体的政治诉求不仅涉及议会改革，还要求改变军队对民政和工会的干预。7月27日雅加达印尼民主党PDI总部遭袭后，军警扩大逮捕反对派；但不能由这场袭击反推泗水7月8日的劳动抗议属于雅加达骚乱。1997年国际特赦组织根据其获得的起诉与审判材料指出，14名PRD及相关组织活动者被判刑；其中泗水三人的起诉重心是组织、集会与提出政治要求，而非经证明的暴力行为。该组织还记录部分被告在军事拘押期间被剥夺律师接触及遭殴打的指控。这里能够确定的是1997年同期人权报告所记录的具名案件与指控；具体司法文书、讯问笔录和伤情证据尚待从印尼法院、律师与当事人档案取得，不能把报告对公正性的评价直接当作法院已认定事实。[S583; C987]
+
