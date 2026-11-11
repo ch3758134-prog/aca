@@ -985,3 +985,8 @@ d67的总统签批此前已登记为S621/C1035：约翰逊批准推迟岛际军�
 
 精确续接：①索取ANRI SOBSI 70影印所对应原件、卷内文件日期与BAPEKAN收文簿，解决1960-05-28/10-13冲突；②索取SOBSI 204、PP SBKA No.3/65原声明和政府铁路部长任免记录；③读取Sanata Dharma 2009 PGRS/Paraku论文全文并查其1967军令脚注，随后索取Kodam XII/Tanjungpura签发件；④找RRI Pontianak 1967年广播稿及Sanggau Ledo迁移、死亡名册；⑤转换G1 1927 Boven-Digoel运输原件或G7 2000—2003地方工会登记簿。提交前主分支SHA须另查；本次各文件顺序提交，最后提交SHA在本次结束后独立核实。GOAL ACTIVE / OPEN-ENDED，G1—G10全OPEN。
 
+## ONGOING / GOAL仍进行｜2026-11-11｜G8通信许可与G4西加里曼丹
+
+本次重读AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09、正式四CSV、chronology与global-gap-tracker。沿G8继续核读FRUS d126-d130公开原文和脚注，新增S769-S773、C1323-C1329、Q334、CV355-CV356，chronology新增1965年7—8月中文连续叙述。G8确认美国7月20日准许约300万美元陆军通信设备出口及7月28日英方反对；7月20日正文“仅爪哇”与脚注雅加达、万隆、巨港三站冲突；8月2日美方怀疑采购能否完成、8月3日出现撤销许可建议。**绝不能将许可写成已交货/已安装**。G4跨地区核验Sanata Dharma 2009年西加里曼丹论文仓储目录和Purmintasari 2015年期刊摘要/节选；未取得1967年原始军令或论文全文，未新增地方事件主张。
+
+精确续接：①FRUS d131-d141继续阅读并去重；②调取telegram 46、Philco合同/出口/运输/安装/印尼陆军验收及英国FO反对记录；③打开Sanata Dharma 2009年22MB全文PDF核对其脚注和1967年地方行动日期，再追Kodam XII/Tanjungpura命令、RRI Pontianak原广播及Sanggau Ledo/Sambas逐县登记；④ANRI SOBSI 70与204原卷及BAPEKAN回函；⑤转换G1 Boven-Digoel 1927运输名单、G6 Moncongloe Reg 937或G7工会登记执行。G1—G10全部OPEN。此状态写入前已核实上一提交 `5f1152f85526e46227fe9aa12ee496f4691b23f3`；状态提交后的最终HEAD需再读取核实，不预填未来SHA。
