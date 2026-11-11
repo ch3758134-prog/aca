@@ -457,3 +457,8 @@ UN Treaty Series 1971年第792卷No.11258附表列出AID Loan No.497-K-013，注
 新增来源S606-S610、主张C1024-C1028和检索Q306；CV332更新。1973年《国会记录》重印USAID年度国别表，报告印尼FY1963总额US$55.9m；2014 Greenbook说明1955—2000年度数据包含赠款义务额与贷款授权，不能视为实际拨付。1974 Census Statistical Abstract报告FY1962—72 AID发展贷款授权合计US$300m，并定义其为须借款方接受条款、授权时预留资金、尚未扣除后续deobligation的gross数。两种统计不能归到Loan 497-K-013一笔。已找到FY1963原报告的目录记录和HathiTrust 1945—73全本元数据/封面，但未读取印尼表页。
 
 继续追FY1963原报告、AID逐年授权和提款明细、Loan 497-K-013原合同、采购与收货资料。研究继续OPEN；事实、分析与作者政治判断仍分开.
+
+
+## 2026-11-11｜亚齐基层组织被袭时间次序（ONGOING）
+
+S612/C1030/Q308/CV337已登记：直接阅读Melvin 2013年完整学术HTML，核查其转录1965年10月8日班达亚齐、9日锡格利针对Baperki、PKI、LEKRA、Pemuda Rakjat、Gerwani及商铺的袭击，以及10月18日Baperki声明对11日Kodim-0104会面的记载。原始地方文书、签署件及军令尚未亲自取得，等级B；S127同一档案链不可作独立佐证。G1 Boven-Digoel 1927运输原件仍未取得。后续优先查Chronologis 1966、Pernjataan 1965、Kodim-0104、荷兰殖民流放登记。G1—G10均OPEN。
