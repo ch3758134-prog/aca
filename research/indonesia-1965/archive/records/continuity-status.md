@@ -1317,3 +1317,12 @@ Cornell Kahin档案目录另列Box 81 Folder 7“Kadane interviews”和Box 95 F
 新增S832-S834、C1468-C1470、Q351、CV373-CV375；详见global-gap-tracker和chronology。**最重要纠错**：1965-11-01第1290号电报正文写Palembang SOUTH Sumatra，档案馆说明误称North Sumatra。下一执行：①逐页核三电报扫描；②取得Palembang Stanvac/Shell/PUSRI及PERBUM/SOBSI拘押和解雇名册；③追东爪哇铁路五站关闭与Tulungagung地方死亡登记；④核Mokoginta/Pantja Tunggal/Hansip地方命令；⑤轮换G1 Semaun殖民工会、G6流亡拘押和G8外国介入。GOAL永久OPEN；最新Git SHA以提交后main读取为准。
 
 **写入完整性告警**：本次source-register.csv、claim-ledger.csv、chronology.md读取被连接器截断，未安全更新；因此S832-S834及C1468-C1470目前只是本续接档所列的**待正式登记候选编号**，不能当作正式已注册。Q351、CV373-CV375已提交，但引用这些待登记候选编号；下一次首先修复台账并库或改写引用，不得重复编号。已成功写入search-log、coverage-matrix、research-status、global-gap-tracker和continuity-status。此状态提交前HEAD请以实时查询为准。
+
+
+## ONGOING / GOAL仍进行｜2026-11-11｜正式CSV路径恢复、Palembang正式登记及跨G项核验
+
+本次已读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09 G1—G10、continuity-status、正式四CSV和chronology。**正式台账真实路径为research/indonesia-1965/archive/records/**；此前误以为不存在的结论已纠正。对source-register全文去重确认1965-11-01第1290号电报已有正式S196，不新增重复S832。已向claim-ledger正式登记C1468—C1469、search-log Q352、coverage-matrix CV376，并将Palembang中文连续历史段落加入chronology；写入均得到GitHub提交响应。
+
+G4/G2/G8：直接阅读 https://nsarchive.gwu.edu/media/15705/ocr ，确认Palembang South Sumatra、据报约600人被拘、Stanvac约30/Shell 24/PUSRI 15工会相关人员被捕；各数字不可混加。Shell否认军方火灾破坏说，1000名工人厂外调动仅讨论未证实实施。G4另一地区：东爪哇印尼空军情报报告 https://nsarchive.gwu.edu/media/15706/ocr OCR严重损坏，不能作具体行动证据。G7：直接打开 https://jdih.kemnaker.go.id/peraturan/detail/32 官方法规登记，核2000-08-04第21号法、10人最低组会和第18条登记，但本次未读签署PDF或地方执行卷宗。
+
+**精确未完事项**：①逐项核正式S196/C1468—1469/Q352/CV376是否保留，并检查既有Q351/CV373—375悬空S832—S834引用；②索RG84 P339 Box14 Folder4原始扫描、Palembang军区拘押令、Stanvac/Shell/PUSRI及PERBUM/SOBSI人员登记、Pladju火灾记录；③获取东爪哇空军No.51/ch/Pr/i/65扫描及泗水183/194号电报原扫描、铁路记录；④获取2000年第21号法签署PDF与地方登记拒绝档案；⑤切换G1 Semaun/殖民工会、G6布鲁岛及G8对外援助交付的不同原件链。G1—G10全部OPEN，作者政治判断未代写。**本状态文件自身提交生成新HEAD，最终SHA以提交响应及GitHub main实时核验为准。**
