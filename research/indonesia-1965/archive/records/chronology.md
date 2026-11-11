@@ -1288,3 +1288,16 @@ FRUS目录显示，9月20日有一份提交303委员会的备忘录，来源标�
 - **FRUS document 63 (printed 24 August 1967; likely 24 August 1964, unresolved):** A top-secret Embassy dispatch signed “Galbraith” recommends covert and overt dissemination of U.S. accounts, maintaining contacts with NU and others, readiness to respond to emergency requests with nearby supplies, and rapid support for the Army if a revolt against Sukarno emerged. The current official page and an older PDF mirror share the same printed date; the archival source series and surrounding documents point toward 1964, but the original has not been checked. Record this as recommendation, not evidence of approval or execution. [S696; S701–S702; C1199–C1204]
 - **30–31 August 1964:** Rusk's aid recommendations, concurred in by McNamara, were approved by Johnson: defer the major Army communications equipment delivery, suspend military-type equipment for the National Police, explore a quiet reduction in training, and continue selected economic, civic-action, and nonmilitary police programs. This is already registered as S621/C1035. Presidential approval confirms policy direction, not item-level delivery or receipt. [S621; C1035]
 - **2–3 September 1964:** Rusk directed U.S. support for a substantiated Malaysian Security Council case but warned London that Washington would not provide a blank check or accept military escalation involving U.S. forces without explicit heads-of-government agreement. The editor reports that Sandys said Britain did not expect a blank check; the cited London telegram and British records remain unread. [S700; C1205–C1207]
+
+### 1964年9—11月：对抗降级、同盟边界与秘密政治行动筹划
+- **3–4 September 1964：**Johnson接见Jones与Komer约7分钟，Komer希望让Sukarno知道总统会见了大使；同期英国向马来西亚作出有条件的境内反击承诺，美国则提醒澳大利亚不要预期美国必然参战。Komer关于英国可能有意激化局势的说法是推测，不是英国意图的证明。[S703–S705; C1208–C1210]
+- **9–18 September：**NSC听取印尼情报简报；Rusk要求大使警告Sukarno停止军事行动，并为有条件的谈判保留渠道。9月16日SNIE对渗透与海军行动作出估算。9月18日刊出的CIA备忘录提出反PKI秘密政治行动选项，但要求进一步审议，且大量计划段落缺失。[S706–S710; C1211–C1215]
+- **28 September—27 October：**美国与英国磋商报复预案；华盛顿的目标包括保持沟通、避免公开决裂、限制军事升级并拒绝承担盟友行动的“剩余军事责任”。10月25日几处使馆建议在日本秘密安排Sukarno—Tunku会面，但只是提案。Rusk所引印尼油收与外汇数字需要印尼账目核对。[S711–S715; C1216–C1219]
+- **5–25 November：**美国内部讨论Jones离任对Sukarno关系的影响，以及马来西亚谈判会否改变Subandrio/PKI与Malik/Saleh等人的力量关系。驻雅加达大使报告Malik、Chaerul Saleh、Nasution、Sukendro等人求助并主张给Sukarno体面退场；讲话与阵营动机均为美方转述和判断。11月19日CIA政治行动文件列出反PKI宣传、政治支持和培养接班人等目标，但“Means”部分被省略。[S716–S722; C1220–C1224]
+
+### 1965年2—3月：秘密政治行动文件获得303委员会批准
+- **23 February 1965：**提交303委员会的进度报告称该计划自1964年夏已由CIA/国务院共同酝酿并与远东事务助理国务卿及驻印尼大使协调，列出秘密联络/支持、政治行动、黑白/灰色媒体等方案。文件还说早期“发展阶段”已通过秘密渠道向未具名人物提供部分资金，同时表示综合方案将在批准后实施；金额、收款人和若干渠道被删节。[S723; C1225–C1227]
+- **4 March 1965：**FRUS编者注称303委员会批准该方案；次日会议记录显示有人主张更大的总体计划，而McGeorge Bundy说不应在303委员会场合解决。批准该文件不证明其中每项活动均已执行或产生影响。[S723; C1228]
+
+### 1965年11月：美国评估印尼陆军秘密援助请求
+- **9 November 1965：**CIA备忘录称陆军领导人请求秘密援助，同时提醒其尚非拥有合法权力且可靠性已验证的政府，建议先核实实际控制并审查武器用途、接收团体和管控方式。备忘录提出秘密信用、采购代理和谨慎转交等可能路径，却明言当时不主张提供所请求装备。它对经济压力、群众支持及中爪哇和西苏门答腊潜在抵抗的表述是CIA评估，不是当地人的直接记录。[S724; C1229–C1231]

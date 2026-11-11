@@ -882,7 +882,7 @@ DFAT记录英国请求澳军、澳方询问美国意见、澳大利亚JIC与英�
 
 ## ONGOING / GOAL仍进行 — 2026-11-11，Moncongloe军令档案定位与巴厘外交报告原扫描
 
-本次按AGENTS、stage-access、goal-continuity和G1—G10完整性审计读取正式台账及chronology，正式登记**S679、C1167—C1168、Q324、CV345**。哈桑丁大学Wijaya 2024论文开放57页第I—II章，印刷p9脚注17指向1969年Kopkamtib **KEP-007/KOPKAM/2/1969**及**Arsip Kotamadya Ujung Pandang Reg 937**，脚注18首批11名Moncongloe拘押者为转引Ahmad 2009 p152，非独立名单。G4另直接目视核对既有S401美国使馆A-408原扫描PDF第3—4页：1965-12-21使馆记录巴厘死亡约10000是来源人士的估计，不能代替死亡登记或与后期估算相加。正式更新source-register、claim-ledger、search-log、coverage-matrix、chronology、global-gap-tracker及project/research-status。
+本次按AGENTS、stage-access、goal-continuity和G1—G10完整性审计读取正式台账及chronology，正式登记**S679、C1167—C1168、Q324、CV346**。哈桑丁大学Wijaya 2024论文开放57页第I—II章，印刷p9脚注17指向1969年Kopkamtib **KEP-007/KOPKAM/2/1969**及**Arsip Kotamadya Ujung Pandang Reg 937**，脚注18首批11名Moncongloe拘押者为转引Ahmad 2009 p152，非独立名单。G4另直接目视核对既有S401美国使馆A-408原扫描PDF第3—4页：1965-12-21使馆记录巴厘死亡约10000是来源人士的估计，不能代替死亡登记或与后期估算相加。正式更新source-register、claim-ledger、search-log、coverage-matrix、chronology、global-gap-tracker及project/research-status。
 
 **精确续接**：①调取乌戎潘当市档案**Reg 937**的KEP-007/KOPKAM/2/1969签章原件，逐条核签发者、受文单位及Teperda职责；②核Taufik Ahmad 2009《Kamp Pengasingan Moncongloe》p152所据的首批11人名单，追1969-03 Makassar→Moncongloe移送/营地接收簿；③继续阅读Wijaya 2024论文的其他依法开放章节或馆藏可访问本，不将受限全文标为已读；④取得巴厘1965-12省/县军令、拘押/死亡/安葬登记，对照A-408第3页消息源和Sutedja家属记录；⑤转换G1 Boven-Digoel 1927原运输清册、G2 SOBSI企业会员与会费、G7 2000年后工会登记实务，保持全国横向均衡。
 
@@ -903,3 +903,11 @@ DFAT记录英国请求澳军、澳方询问美国意见、澳大利亚JIC与英�
 d67的总统签批此前已登记为S621/C1035：约翰逊批准推迟岛际军事通信装备、停发警察军用设备、悄然处理军事训练，并保留若干经济、公民行动及非军事警务项目。总统批准只确认方案方向，不能证明逐项发运或政治效果。d63在官方网页和数字版均写1967-08-24；其引用的1964-08-21电报、档案分类和相邻文件均指向1964，暂列出版日期异常，不静默改正。公开FRUS没有解决的原始电报、删节内容和跨国反证仍待调取。
 
 **具体续接**：取得d63原档与telegram 188、8月27日会议纪要、JCS附件、State/DOD/CIA原始协调记录、训练和货物到收账、USIS/USIA预算、菲律宾/澳大利亚预置物资记录、9月3日英国回报及各国对印尼行动的原始记录；随后继续检查FRUS d69–d88与印尼—马来西亚对抗及美国干预机制。GOAL OPEN；作者立场材料继续关闭，最终政治判断由作者作出。
+
+## 2026-11-11 UTC｜1964年9月至1965年11月秘密行动与升级边界
+
+新增FRUS XXVI d69–d88、d110、d172（S703–S724）；补入d76对既有d63 Telegram 359的1964年交叉引用，增强但未解决d63日期异常。新增C1208–C1231、检索日志Q327、覆盖CV347，并更新时间线、缺口总账与连续阅读HTML。
+
+关键区分：①美国官员对英方可能意图的猜测不等于英方真实计划；②CIA于1964年9月的秘密政治行动提案、11月修订目标、1965年2月报称的早期发展阶段资金、3月4日303委员会批准属于不同证据阶段；③11月1965年对陆军援助请求的CIA评估另成一条军事援助线，列举信用/采购/交付机制却明确表示当时不建议提供装备。任何授权、机制或预算不自动证明具体交付或地方影响。
+
+当前累计台账：**721 source records (IDs S001–S724; S338, S339, S475 absent), 1,228 claim records (IDs C001–C1231; C562–C564 absent), 327 search-log entries (Q001–Q327), and 347 coverage rows (CV001–CV347).** 此前覆盖矩阵有CV345重复：将1969年Moncongloe条目改为CV346，保留1964年8—9月条目为CV345，本轮新覆盖为CV347。源表还存在S338、S339、S475空缺，主张表存在C562–C564空缺；当前未见相关引用，待历史版本与登记日志审计。数量不等于档案穷尽。仍缺CIA/303档案、支付和印尼接收材料、印尼政治阵营的本地记录、英马印军事档案及d63原件；继续扩展国家、机构、组织与私人关系资料。作者政治判断未代填。
