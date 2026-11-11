@@ -1296,3 +1296,5 @@ Cornell Kahin档案目录另列Box 81 Folder 7“Kadane interviews”和Box 95 F
 ## ONGOING / GOAL仍进行｜2026-11-11 Palembang地理纠错与跨地区调查
 
 新增S832-S834、C1468-C1470、Q351、CV373-CV375；详见global-gap-tracker和chronology。**最重要纠错**：1965-11-01第1290号电报正文写Palembang SOUTH Sumatra，档案馆说明误称North Sumatra。下一执行：①逐页核三电报扫描；②取得Palembang Stanvac/Shell/PUSRI及PERBUM/SOBSI拘押和解雇名册；③追东爪哇铁路五站关闭与Tulungagung地方死亡登记；④核Mokoginta/Pantja Tunggal/Hansip地方命令；⑤轮换G1 Semaun殖民工会、G6流亡拘押和G8外国介入。GOAL永久OPEN；最新Git SHA以提交后main读取为准。
+
+**写入完整性告警**：本次source-register.csv、claim-ledger.csv、chronology.md读取被连接器截断，未安全更新；因此S832-S834及C1468-C1470目前只是本续接档所列的**待正式登记候选编号**，不能当作正式已注册。Q351、CV373-CV375已提交，但引用这些待登记候选编号；下一次首先修复台账并库或改写引用，不得重复编号。已成功写入search-log、coverage-matrix、research-status、global-gap-tracker和continuity-status。此状态提交前HEAD请以实时查询为准。
