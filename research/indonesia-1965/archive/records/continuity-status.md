@@ -640,3 +640,15 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 - 跨地区G4/G5：复查西加里曼丹土地研究公开脚注，1970年《Penertiban tanah-tanah pengungsi tjina di Kalimantan Barat》手稿和《Penyuluh Land Reform》10(6):13—14均未取得；52,857公顷仍是研究转述而非已核原始统计。来源S391/S392，不新增同源S号。
 - 本次已写入source-register.csv、claim-ledger.csv、search-log.csv、coverage-matrix.csv、chronology.md、global-gap-tracker.md；写入完成后main最后已知提交：6654041d1ab437ef4c087ca143f9d526abfdb302（此状态文件自身提交SHA应以GitHub返回值为准）。
 - 立即续接：①取得ILO C087印尼1998-06-09正式登记及1999-06-09生效原页；②查1998—2001年SBSI/PPBI工厂登记、雇主解雇和劳动部门执法；③追1970年西加里曼丹上述手稿与期刊原页及县级地籍；④转换G1 1927 Boven-Digoel船单/荷兰警务清册；⑤G4优先Aceh军区Instr-1/10/1965原页、Flores Sikka Komop会议纪要及Bali县级名册。各项未结，不以本次写入结束长期GOAL。
+
+## 2026-11-11｜工会改革、基层执行与Dita Sari释放：本轮续接
+
+本轮从3bdc80903c409b9ca2f7bee9dd9bfddbb2cb6332接续。新增正式来源S481-S489、主张C827-C841、检索Q274-Q275和覆盖CV314；追加chronology.md并扩写连续阅读版的工会制度及人物/事件索引。
+
+- 1998年C087日期链已经闭合：印尼国内Keppres 83/1998为6月5日，ILO登记为6月9日，依公约第15(3)条于1999年6月9日生效，UN Treaty Series另记联合国秘书处登记为1998年8月27日。不得混为同一日期。
+- 1993年PER-03/MEN/1993登记门槛、SPSI推荐以及SBSI等待五年以上，已从ILO 272次会议报告正式文本查到；1998年政府代表称PER-05/MEN/1998取消旧规则，SBSI获承认。PER-05原文仍未找到，政府报告不能替代法令原件。
+- ILO 275次会议报告区分申诉组织、政府与委员会：两个工厂军事介入说法互相冲突，委员会未裁定；三个地方工会登记争议被官方报告，委员会重申手续不得阻止工会形成。
+- 1999美国国务院报告提供另外一组数值和雇主报复记录，但“20个全国组织”“数千厂级单位”“SBSI的30宗投诉”口径不同，全部按报告来源和陈述者归属，不能相加或当成普查。
+- Dita Sari释放日期核实为1999-07-05；Keppres 68日期为7月2日；1999年6月的ILO报告仍要求释放，11月报告记录政府称她已获释，Amnesty当日发布欢迎声明。法令扫描、原判、实际放人登记尚未读。
+- Marsinah案：ILO 318次报告记载政府于1999-06-25联系Komnas HAM启动调查，并批评从1993年死亡至启动调查超过六年；调查最终报告与司法后续未获。
+- 状态：ONGOING / GOAL仍进行，G1-G10仍OPEN。接续优先：①取得PER-05原件及后续1999登记法规；②索取SBSI全国/省/厂级登记簿和五家争议企业记录；③找Dita原判与Keppres执行/监狱出狱簿，补Marsinah调查卷；④追1970西加里曼丹土地手稿、Digoel 1927船单及Aceh/Flores/Bali地方原件。当前基线提交SHA：3bdc80903c409b9ca2f7bee9dd9bfddbb2cb6332；本次写入后的最终SHA待GitHub提交返回后补记。
