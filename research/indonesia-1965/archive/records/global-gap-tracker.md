@@ -767,3 +767,10 @@ FRUS XXVI d58、d61、d63–d68已逐份打开；d67已在既有S621/C1035登记
 **原件缺口和反证：**1967年Kodam XII/Tanjungpura和Peperalda命令、RRI Pontianak广播录音/逐字稿、Sanggau Ledo警/军日志、Oevaang Oeray声明原文、县级流离失所登记、华人社区/教会/地方医疗与粮食记录、死亡和安葬名册；另需调查未参与袭击的达雅克村社及华人居民不同政治身份，不能将民族类别当作政治组织。具体地区链从Sanggau Ledo、Sambas、Pontianak逐县复原，核对1967与1996-97的制度和土地关系连续/断裂。来源分级：HRW原报告A（对其1997年自身采访和表述），但其1967回顾内容B；Matsumura摘要C；馆藏条目C；缺失地方命令D。**本次没有新增已核实的1967原始行政事实。**
 
 **跨G1—G10缺口仍全部OPEN：**G1殖民流放船单；G2铁路工会原件及BTI/Gerwani基层；G3军政广播原件；G4各省军令；G5性别/族群受害人记录；G6拘押/流亡；G7后1998组织执行；G8英美澳中苏接收/交付；G9人物—地名—组织关联；G10去重和按事件时间排序的统一主时间线。下一动作：ANRI RA.48 No.70扫描、J-STAGE日文论文全文的合法替代入口、Kodam XII 1967年10月命令与广播档、地方迁移名册、Bintangpusnas电子书可合法访问页。
+
+## 2026-11-11｜G2铁路工会原件突破与G4西加里曼丹对照
+
+**G2（A：公开影印原件，范围严格限定）**：直接打开ANRI 2015年《Naskah Sumber Arsip Perkeretaapian di Indonesia》官方PDF并目视检查PDF第78页（印刷72页）SBKA原始信件影印，收件人为BAPEKAN Jakarta、秘书长Singgih署名、信内日期1960-10-13；但官方图片说明写1960-05-28，形成必须回原卷解决的日期冲突。信中关于DKA的行政指控不是调查结论。PDF第91页（印刷85页）还列出1965-07-12 PP SBKA声明No.3/65，馆藏ANRI SOBSI 204，**只见目录，未见声明原件**。来源S739，主张C1261/C1262。原件缺失：SOBSI 70完整页、SOBSI 204、BAPEKAN收文/回复、DKA反驳与人员任职记录；下一行动逐页索取并比对1960-05-28与1960-10-13。
+
+**G4/G5（跨地区，未取得地方原件）**：直接检查Sanata Dharma大学2009年《Kebijakan pemerintah Republik Indonesia terhadap PGRS/Paraku di Kalimantan Barat 1963-1967》仓储页，确认有22MB全文PDF下载入口，但此次只核实目录，未读全文；检索另见2015、2017印尼语学术摘要，均不能代替Kodam XII/Tanjungpura军令、RRI Pontianak播报、Sanggau Ledo/内陆村社的迁移名册。另读美国国务院FRUS XXVI d162完整编者注，显示1965年各省死亡估算来自不同时间、不同消息网络，不能互相相加或作为地方死亡登记。G1—G10仍OPEN。
+
