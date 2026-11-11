@@ -1044,3 +1044,16 @@ d168显示State、Defense、CIA和白宫工作人员讨论援助时，对是否�
 **精确缺件**：①1967-09-21 RRI Pontianak节目单、录音/逐字稿与军方审查记录；②1967-10-11村长会议通知、签名及会议地点；③Kodam XII/Tanjungpura和Peperalda对广播/动员的命令与收发登记；④Oeray本人当时签署声明、私人信函或可溯源访谈；⑤Matsumura PDF第45—63页与脚注、Atmaja/Fachrurazi相关书页和所引Putra 2017第114页；⑥按Anjungan/Mandor/Menjalin、Pontianak/Singkawang分别追迁移、拘押、死亡、粮食与土地变更名册。不得用群体概括代替县村行动者。
 
 **跨G项接续**：G6/G7继续追1998-08-21 FSPSI联署和08-31大会原件；G1 Cornell Semaun原文仍未读；G2组织财务、G3机关时序、G8外国交付、G9关系索引、G10正式台账和按日期主时间线均未闭合。因未完成全库去重，此次新书只作待登记候选，不擅分配正式S/C编号。GOAL持续OPEN。
+
+
+## 2026-11-12｜G6/G7 1998年工会分裂的五月前史与1999—2001组织后续；G4/G5西加里曼丹广播原件仍缺（OPEN）
+
+**已实际打开的同期报纸全文转刊（A：同期报道文本，不等于签署原件）：**《Jakarta Post》1998-05-05《Workers want union leaders to step down》，https://jawawa.id/newsitem/workers-want-union-leaders-to-step-down-1447893297 。报道第9—36行记载：超过200名工人/活动者在FSPSI总部要求最低工资提高20%、主席Datuk Bagindo和秘书长Andi Hisbuldin辞职；来自13个下属工会。雅加达分会Aleksander Sinaga公开要求辞职；旅游业工会Ali Samioen、种植园农业工会Hartono、医药卫生工会Djufni Ashari分别就工资、ILO与学生运动表态。报道第35—37行记劳动部长Theo L. Sambuaga于3月颁第49号决定维持1998/99最低工资。**这把既有S830/C1466的1998-08-21十三行业退出声明向前连接到五月的公开组织争议；但五月与八月是否同一13个组织、人员是否全同、其间决议如何形成，均未得到组织会议原件证实。** 同一文章在APSN的再刊 https://www.asia-pacific-solidarity.net/index.php/news/1998-05-05/workers-want-union-leaders-step-down.html 不算第二独立证人。来源需正式全库去重后登记，当前不冒用S编号。
+
+**已实际打开的当代组织自述全文（B：工会后来自述，不是1999签署大会记录）：**FSPMI官方网站《Sejarah FSPMI》https://fspmi.or.id/sejarah-fspmi/ ，第4—12行追述1998工会改革、1999-02-04至07在Garut的SP-LEM SPSI Reformasi特别大会、1999-02-06宣布SPMI、Thamrin Mosii和Endang Thamrin担任领导、2001-08-28至09-01 Lembang第二次大会转为FSPMI，并列出若干行业支部及Said Iqbal的后来角色。**这是组织自述的具体追查路径，不能把它当作1998年13行业退出后必然形成同一组织的证据。** 缺原始大会决议、注册文件、行业会员/会费、分会名单与独立报道。应核Keppres 83/1998、Kepmenaker 05/1998及其实际登记执行；原法令本次未读。
+
+**跨地区G4/G5 West Kalimantan：**再次检索1967-09-21 RRI Pontianak Oeray广播、1967-10-11村长动员与Peperalda/Kodam XII；检出2021年专题转载 https://19651966perpustakaanonline.wordpress.com/2021/09/13/kisah-gubernur-kalimantan-barat-j-c-oevaang-oeray-pejuang-dayak-sukarnois-yang-disingkirkan-pasca-g30s/ ，其仍转述既有同一2017年Putra主张（Oeray姓名可能被借用），不是新独立原件。另找到1996年Juniar Purba《J.C. Oevaang Oeray Riwayat Hidup dan Pengabdiannya》地方文化馆藏目录 https://www.pustaka-bpkxii.org/pustaka/jc-oevaang-oeray-riwayat-hidup-dan-pengabdiannya ，**C级目录，仅发现书目，正文未读**。需取得广播日志/音频、1967年军令、Oeray签署件及地方人口迁徙名册。Oeray本人发令与军方借名两种说法仍为争议，不作裁决。
+
+**G1早期组织跨项检查：**Cornell《An Early Account of the Independence Movement, by Semaun》馆藏 https://ecommons.cornell.edu/entities/publication/24349664-130a-45ff-9f50-51cc51e04594 提供1966年《Indonesia》1卷46—75页PDF，但本次打开PDF下载链接发生CDN不可访问错误；仍为C级目录，**没有阅读Semaun正文**。可尝试机构代理、镜像或馆际访问，不得以1966年出版日期误作1920年代原稿日期。
+
+**G1—G10均OPEN；正式CSV和chronology仍须在完成全量去重及核验后并库。**
