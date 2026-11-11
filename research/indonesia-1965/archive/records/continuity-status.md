@@ -651,4 +651,4 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 - 1999美国国务院报告提供另外一组数值和雇主报复记录，但“20个全国组织”“数千厂级单位”“SBSI的30宗投诉”口径不同，全部按报告来源和陈述者归属，不能相加或当成普查。
 - Dita Sari释放日期核实为1999-07-05；Keppres 68日期为7月2日；1999年6月的ILO报告仍要求释放，11月报告记录政府称她已获释，Amnesty当日发布欢迎声明。法令扫描、原判、实际放人登记尚未读。
 - Marsinah案：ILO 318次报告记载政府于1999-06-25联系Komnas HAM启动调查，并批评从1993年死亡至启动调查超过六年；调查最终报告与司法后续未获。
-- 状态：ONGOING / GOAL仍进行，G1-G10仍OPEN。接续优先：①取得PER-05原件及后续1999登记法规；②索取SBSI全国/省/厂级登记簿和五家争议企业记录；③找Dita原判与Keppres执行/监狱出狱簿，补Marsinah调查卷；④追1970西加里曼丹土地手稿、Digoel 1927船单及Aceh/Flores/Bali地方原件。当前基线提交SHA：3bdc80903c409b9ca2f7bee9dd9bfddbb2cb6332；本次写入后的最终SHA待GitHub提交返回后补记。
+- 状态：ONGOING / GOAL仍进行，G1-G10仍OPEN。接续优先：①取得PER-05原件及后续1999登记法规；②索取SBSI全国/省/厂级登记簿和五家争议企业记录；③找Dita原判与Keppres执行/监狱出狱簿，补Marsinah调查卷；④追1970西加里曼丹土地手稿、Digoel 1927船单及Aceh/Flores/Bali地方原件。当前基线提交SHA：3bdc80903c409b9ca2f7bee9dd9bfddbb2cb6332；本轮研究内容、台账与HTML的Git提交为9afde6cffe9084bf107a617af94272deec9b09b2（父提交3bdc80903c409b9ca2f7bee9dd9bfddbb2cb6332）；本状态文本随其后续main提交写入。
