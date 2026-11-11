@@ -700,3 +700,8 @@ Kaulingfreks 2019硕士论文提供1926年官僚决策链及1930 Hillen调查的
 
 下一步：找到印尼央行和海关的货物/支付记录、CRS账册及仓储分配表；FAS/ASCS原始PA和提单；Keppres 107 mission report；Tokyo/Paris minutes和所有 bilateral agreements；日本、英国、澳大利亚和苏东债务文件。G1-G10和地区档案仍然开放，尚未达到事实搜索完成标准。
 
+
+## ONGOING｜2026-11-11｜G8/G4：FRUS d216与东爪哇164号电报（S523/C903/Q287/CV320）
+
+已读AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式CSV、chronology和缺口总账。新证据：直接打开FRUS d216，1966-08-03麦克诺顿致麦克纳马拉备忘录反对非训练性MAP而支持军官教育；该建议不是批准或实际援助。跨G项核对NSA 1965-11-04泗水原扫描，沿用S466/C808，不重复来源。因同期其他提交占用S509-S522/C885-C902/Q284-Q286/CV319，本次重新读取最新CSV并登记S523/C903/Q287/CV320，避免编号冲突。**未完事项**：JCSM-473-66、NSC 8月4日纪要、总统620(j)决定、AID/MAP支出及培训名册；Blitar种植园、Madiun/Pacitan/Ponorogo/Banyuwangi军令与国民阵线/BTI基层记录；Aceh、巴厘、Flores、西加里曼丹、Sulawesi各地地方原件；G1运输船单、G2产业工会、G6/G7政治犯与幸存者组织。CV314重复编号仍未修。GOAL ACTIVE，G1—G10 OPEN。最后提交SHA须以GitHub实际返回并复核为准。
+
