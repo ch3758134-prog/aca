@@ -866,3 +866,9 @@ G6/G7/G9｜B级参与者后期记述：Andreas Iswinarto 2025-09-23公开文章�
 本次从已登记1982年Komitee Indonesië刊物线索转入同一组织其他年代。直接打开GerakIngatan `KOL4_26`（1978年 *Het Andere Indonesia* 大会/发展援助讨论，馆藏指向IISH `COLL00284`）与 `KOL22_17`（1987年Ernst Utrecht讣告，目录描述称Suparna Sastra Diredja撰文，Creator字段却列Utrecht家人）。这两项均为**C级馆藏页面**，不是已经读到会议记录、原始图像内文或讣告正文。登记S801—S802/C1406—C1407/Q339/CV361；避免将同一馆藏说明与后续研究转述算独立证据。网址：https://gerakingatan.omeka.net/items/show/286 与 https://gerakingatan.omeka.net/items/show/444 。
 
 下一步沿IISH COLL00284调1978会议日程、参加者、对IGGI及荷兰援助的原始议案；依法阅览1987讣告扫描核署名、刊头和Ernst Utrecht具体组织关系；同GerakIngatan 1982刊物KOL4_27互引，追踪1970—1998流亡政治组织与经济批判如何连接。**不同G项的G4地方暴力仍优先**：Flores 1966 KOMOP军令、Gabriel Manek 1966-04-28主教信、Aceh 1966华人迁离军令、West Kalimantan 1967 No.12-33/1967；这些地方签发原件均未取得。G1—G10全部OPEN。
+
+### 2026-11-11｜G6/G8/G9荷兰流亡网络；G4 Flores原件交叉追查（持续OPEN）
+
+**G6/G9 B级全文参与者证词**：已直接打开Fridus Steijlen回忆Basuki Resobowo的GerakIngatan展览全文（S803/C1408）。1978年Komitee Indonesië志愿者关系、1982-06-05反军售会议、1984年文化排演与杂志插画均为参与者后来记忆，不是当年会议记录。补查IISH COLL00284会议日程、海报、刊物封面/署名、1982荷兰工会及和平团体记录。**G8/G6 C级报刊目录**：GerakIngatan KOL15_11将反IGGI援助抗议照片指向1985-06-07《De Waarheid》p1；原Delpher链接本次无法打开，不能视为报纸全文已核（S804/C1409）。从荷兰国家图书馆Delpher备用入口获取原报纸、核图注与地点。
+
+**不同地区G4/G5实质检索**：检索Flores Gabriel Manek 1966-04-28 bishop letter及Sanata Dharma馆藏，所见为宗教史或当代神学论文摘要、部分全文限注册用户，未找到1966年信件扫描或KOMOP命令。维持B级研究转引，不升级为原始档案；下一步按Maumere教区档案/Brill原书脚注、地方天主教档案询问签署信及Wolokoli拘押名册。全国Aceh/北苏门答腊/爪哇/巴厘/West Kalimantan/Sulawesi等G4缺口继续OPEN，不能因荷兰流亡材料丰富而替代地方镇压原件。
