@@ -837,3 +837,14 @@ Martens在1990年信件与1991年口述史中承认传递过姓名，并描述�
 **G4/G5，B级，研究论文全文已打开**：Jess Melvin, “Why Not Genocide? Anti-Chinese Violence in Aceh, 1965–1966” (2013), https://journals.sagepub.com/doi/full/10.1177/186810341303200304 。论文正文（“Importance of Political Identity within the Ethnic Chinese Community in Aceh”及其后续）引用2011年对Ho Fui Yen、Xie Jie Fang、Wak Tin Chaw、Asan的访谈，记录亚齐华人内部亲国民党、亲北京、Asosiasi Huakiao、Baperki和PKI的政治组织差异。Ho与Xie在棉兰受训后回亚齐的华人学校任教，学校在1965年10月后关闭、家庭出走；Asan回忆1957年在Sigli加入PKI，之前参加Asosiasi/Baperki。论文还引Coppel称1966年军区司令Ishak Djuarsa下令外国籍华人在8月17日前离开亚齐、至少万人逃离。**这些是论文转引采访与前人研究，未取得学校学籍/关停令、原始驱逐令、边境迁出名册；不能把华人居民等同于PKI，也不能把“至少万人”当作死亡数字。** 现有S项含该作者/主题，未新增重复编号。下一步：定位Ho/Xie/Wak/Asan 2011访谈逐字稿、1966年Ishak Djuarsa命令、Banda Aceh/Meulaboh/Sigli学校档案和户籍迁移表，并与Aceh军区年度报告互证。
 
 **G7/G10，A级（官方法律数据库页面已打开，原法文本此前登记S611）**：2000年8月4日《工会法》UU 21/2000已在S611/C1029核对。此次打开印尼劳动部JDIH https://jdih.kemnaker.go.id/peraturan/detail/32/undang-undang-nomor-21-tahun-2000 ，状态标为“Berlaku”（有效）；同时打开国家公务员局BKN JDIH https://jdih.bkn.go.id/Detail_peraturan/breaking/1812 ，同一法律状态却标为“Tidak Berlaku”（无效）。**只能直接证明两个官方目录的状态字段相互冲突，不能据此断言该法律已被废止或仍全部有效；也不证明任何工会实际获得登记。** 精确行动：核对BPK/JDIHN现行法令关联图、最新修正与废止条款、2026年主管部门书面解释；追地方劳工局2000—2026工会登记台账和实际劳动争议案件。保留两官方目录原始链接与访问日期2026-11-11。G1—G10均OPEN。
+
+
+## 2026-11-11 跨G实核｜Flores/Sikka、工会法与幸存者组织（ONGOING）
+
+G4/G5｜B级研究全文：直接打开 Aritonang/Steenbrink 编《A History of Christianity in Indonesia》(2008) 第七章印刷页253–255，https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/19/66/73/60/2019667360/2019667360.pdf 。章节记述Sikka地方天主教党与PNI/PKI的地理政治竞争；1963年Hendrik Djawa神父建立约25个青年支部；1966年2–5月KOMOP军方行动和部分天主教青年参与Maumere杀戮，提及Keut、Wairklau；Yosef Frederikus Pede da Lopez抗议Wolokoli 45人遭拘押及面临杀害，主教Gabriel Manek于1966-04-28致函总铎支持神父；Bajawa的Isaak Dura禁止当地青年参与。均为研究者叙述，非军令、主教信或受害者名册。脚注39定位1974年匿名回忆稿，脚注40定位Da Cunha 1999年著作34–38、90–92、94–98、206–216页。下一步查KOMOP军令、1966-04-28信件、Wolokoli名单、Wairklau埋葬档案；Ende/Bajawa/Maumere分开统计，不把天主教社群视为统一行动者。
+
+G7/G10｜A级官方目录与法条：BPK法规库 https://peraturan.bpk.go.id/Details/44988/uu-no-21-tahun-2000 标UU21/2000有效，签署/公布/生效均为2000-08-04；官方PDF https://peraturan.bpk.go.id/Download/33380/UU%20Nomor%2021%20Tahun%202000.pdf 已打开。BPK与劳动部均标有效，与BKN的无效标注冲突；不得以BKN单字段认定法律废止。原法已登记S611/C1029，不重复编号。继续核JDIHN/BKN字段来源、修法关系及地方工会登记和裁决。
+
+G6/G7/G9｜B级参与者后期记述：Andreas Iswinarto 2025-09-23公开文章全文 https://www.insideindonesia.org/editions/edition-161-jul-sep-2025/the-1965-1966-online-genocide-library 自述YPKP 1965于1999-04-19由Sulami Dodjoprawiro、Hasan Raid、Pramoedya Ananta Toer等建立，1999-11发行Soera Kita创刊号，2000-11在中爪哇Wonosobo县Kaliwiro的Situkup村Ndempes森林发掘墓地。这是参与者回顾，不是章程、刊物原版或发掘记录。查YPKP成立登记、Soera Kita 1999-11原件、2000发掘许可/遗骸记录；建立人物—组织—地名关系。
+
+本次新资料尚未比对完整正式CSV完成注册，不虚增S/C/Q/CV；先将精确来源与访问层级保存，后续去重后并入正式台账、chronology及成熟中文历史正文。G1—G10全部OPEN。
