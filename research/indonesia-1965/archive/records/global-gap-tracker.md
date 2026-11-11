@@ -859,3 +859,10 @@ G6/G7/G9｜B级参与者后期记述：Andreas Iswinarto 2025-09-23公开文章�
 **G2新候选，C级网页书目而非已读组织手册**：https://langka.logosid.app/ 首页搜索索引列出 *Pedoman Bekerdja Gerwis*（Gerwis工作手册）及 *Hak-hak Politik Wanita*（CC PKI）；打开首页未返回可读正文，尚不知年份、完整性、出版者、扫描页或版权授权。应在馆藏界面逐本定位、获取可读书目与合法正文后，核查Gerwis/Gerwani的组织章程、劳动/政治权利论述与地方实践，不能从标题直接推定内容。
 
 **G1—G10仍全部OPEN**。本节属于跨领域原件可达性发现；未经正式CSV逐条URL/同源去重，不分配新S/C/Q/CV号，也不将C级目录写入chronology的事实事件。
+
+
+## 2026-11-11｜G6/G8/G9 跨期新定位（目录级；与 G4 地方链并行）
+
+本次从已登记1982年Komitee Indonesië刊物线索转入同一组织其他年代。直接打开GerakIngatan `KOL4_26`（1978年 *Het Andere Indonesia* 大会/发展援助讨论，馆藏指向IISH `COLL00284`）与 `KOL22_17`（1987年Ernst Utrecht讣告，目录描述称Suparna Sastra Diredja撰文，Creator字段却列Utrecht家人）。这两项均为**C级馆藏页面**，不是已经读到会议记录、原始图像内文或讣告正文。登记S801—S802/C1406—C1407/Q339/CV361；避免将同一馆藏说明与后续研究转述算独立证据。网址：https://gerakingatan.omeka.net/items/show/286 与 https://gerakingatan.omeka.net/items/show/444 。
+
+下一步沿IISH COLL00284调1978会议日程、参加者、对IGGI及荷兰援助的原始议案；依法阅览1987讣告扫描核署名、刊头和Ernst Utrecht具体组织关系；同GerakIngatan 1982刊物KOL4_27互引，追踪1970—1998流亡政治组织与经济批判如何连接。**不同G项的G4地方暴力仍优先**：Flores 1966 KOMOP军令、Gabriel Manek 1966-04-28主教信、Aceh 1966华人迁离军令、West Kalimantan 1967 No.12-33/1967；这些地方签发原件均未取得。G1—G10全部OPEN。
