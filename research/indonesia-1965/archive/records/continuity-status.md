@@ -684,3 +684,8 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 **直接可执行的下一步：**（1）向ANRI追no.200四页名单、no.217运输指令、98-105个人/家属名单、267/269出生死亡登记、271-296劳动登记及no.254原信；（2）获取Hillen no.1308与Volksraadstukken 1930-31 onderwerp 1 stuk 4A / onderwerp 88 stuk 4，复算219/186/412列表；（3）找《Sin Jit Po》1927-05-14与06-13原页、Pewarta Deli相关期次和航运名册；（4）检索1925年Staatsblad 327/Indisch Staatsblad 447原文并与1854年旧条文比较；（5）再核苏加诺1933警务/监狱/流放命令与夏赫里尔同期Digoel档案；（6）继续其他G1-G10和逐地区线索，不将本次专题视为GOAL边界。
 
 本状态内容的正式Git提交SHA应以本轮提交后main回读为准；GOAL维持OPEN。
+
+## ONGOING｜2026-11-11｜Boven-Digoel劳动制度、内部复审与请愿争议（G1 OPEN）
+新增S505-S508、C865-C884、Q281-Q283、CV318。整本阅读了殖民政府医生L.J.A. Schoonheyt的1936年《Boven-Digoel》，并核对纸面页：作者称当局起初同意强制劳动，后于1927年中取消；扫描页为1927，OCR误识为1937。该作者为营地医生且为当地司令辩护，须把其所见与其评价分开。另读1938年官方议事记录，45名被拘者请愿、被拘者的法律/劳动主张、Thamrin的指控、政府的相反表述和委员会程序均分别记入。
+Kaulingfreks 2019硕士论文提供1926年官僚决策链及1930 Hillen调查的档案转引，但原信、no.1308报告和后续委员会报告未读取。论文正文称Hillen报告为3月，脚注却列7月22日；年度报告称调查在4—6月，保持时间点分开。GOAL仍开放；不作作者最终政治判断。
+**下一步：**向ANRI/荷兰国家档案馆追Duyfjes信件、De Graeff/De Graaff往来、Raad会议记录、Hillen no.1308及1937委员会报告；取回1934请愿no.17、1935/1937回复、营地规则、出勤/工资/口粮/医疗/邮件检查与拘禁名册，逐一核对强制劳动、付酬劳动、公共卫生义务及邮件管制。
