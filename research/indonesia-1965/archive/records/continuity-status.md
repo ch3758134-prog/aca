@@ -1267,3 +1267,10 @@ Cornell Kahin档案目录另列Box 81 Folder 7“Kadane interviews”和Box 95 F
 本次读取AGENTS、stage-access、goal-continuity、G1—G10完整性审计、global-gap-tracker、四正式CSV及chronology（后五者连接器输出有截断警告，**未完成全库逐行去重，禁止直接用截断文本覆盖**）。正式编号仍以最后完整登记S831/C1467/Q350/CV372为暂定上限，必须下次重新校验。研究G7：已打开Keppres 83/1998官方登记网页，核1998-06-05批准ILO 87；官方PDF阅读器正文未加载。已阅读Michele Ford 2000 ANU开放全文，记录PER-05/MEN/1998成员名单、行政拒绝及1999-09-30被Kepmen 201取代等法规/访谈线索，**原始部令和具体工厂驳回书未读**。跨G4/G5：已打开Prior 2011 Flores-Maumere论文摘要，800—2000死亡估计及当地天主教徒参与仍属作者摘要，**论文全文、军令、教区档案与逐人名册未读**。具体来源和限制已记global-gap-tracker；本次无正式CSV/chronology更新，需避免假报。
 
 **下次精确续接：**①印尼JDIH取PER-05/MEN/1998与Kepmen 201/1999签署文本并逐条核对Ford引文；②找1998—99企业工会注册驳回、解雇案和劳动部注册台账；③1998-08-21 FSPSI联署、08-31大会与1999 Garut会议原件；④Prior 2011 Part One全文、1966 Maumere KOMOP命令及教区日志；⑤切换G1 Semaun与G4 Aceh/北苏门答腊、西加里曼丹军令，校验正式CSV和时间线后再登记。**GitHub提交SHA以本次写入响应和提交后HEAD独立复查为准，文件无法预先记录自身提交SHA。GOAL ACTIVE / OPEN-ENDED；G1—G10全部OPEN。**
+
+
+## ONGOING / GOAL仍进行｜2026-11-11 G7会员核验制度与G4 Flores证据依赖
+
+已读取AGENTS、stage-access、goal-continuity、G1—G10 completeness-audit、正式四CSV和chronology（正式文件因大型响应截断，未完成全库去重）。直接打开2005-04-08劳动部长PER.06/MEN/IV/2005官方PDF，确认第3—9条县市会员核验、签字、异议、45工作日和逐级汇总的**制度要求**；未取得具体企业执行档案。直接阅读Roosa 2013开放全文，并打开Prior 2011 Maumere研究摘要；二者对Flores的事实来源相互依赖，Prior全文、原访谈及1966军令未读，800—2000仍为研究估计。原文链接、访问等级、反证和续查已写入global-gap-tracker，提交cc22fcb1867247ec2ad95203210517692cc7725d。正式S/C/Q/CV尚未安全去重并库，chronology与中文正文未修改，不声称已经更新。
+
+**下一动作**：①核Garut/Bekasi/Surakarta 2005会员核验签名/异议表；②获取1998 PER-05及2001 KEP-16原件对照2005程序；③取得Prior 2011两篇全文与Maumere教区/荷兰传教士原始资料；④追1966-02—04 Maumere军令及死亡/拘押名册；⑤继续G1早期SOBSI前身与G8外部介入交付文件。G1—G10全部OPEN。**本状态文件自身提交SHA以GitHub提交响应和main实时HEAD为准，不预写未知SHA。**
