@@ -470,3 +470,9 @@ S612/C1030/Q308/CV337已登记：直接阅读Melvin 2013年完整学术HTML，�
 新增的FRUS d52与d67为1964年美国警务援助提供了政策层一手记录：State文件把训练视作影响未来警察及军方人员的途径，d67记载总统批准保留非军事警务训练和非敏感设备、暂停军用警务装备的方案。BPK履历和Wantimpres简介记Sidarto 1964–65年美国训练及1967–68年副官任期；他的2024访谈自述被任命的“平衡”逻辑，年份与官方简介不完全一致。现有证据支持正式培训和援助意图，不支持推断他是秘密行动人员或该培训改变了苏加诺决策。
 
 下一轮查ANRI录音/录像、USAID及警务课程名册、Sidarto人事与任命文件、Jakarta/Siliwangi移动许可和Wisma Yaso访客/警卫记录、Inggit与Sukarno婚姻/离婚/和解文件，以及各受访家庭成员独立保存的信件和日记。
+
+## 2026-11-11 continuation — U.S. police aid, legal controls, and congressional pressure
+
+This pass added S622–S638, C1040–C1055, Q310–Q311, and CV340; updated C1035, the unified chronology, gap tracker, continuity record, and continuous-reading HTML. Official U.S. records now document the 1962 counterinsurgency/public-safety framework, 1963 AID-reported Indonesian Army civic-action equipment and senior-officer training plan, 1964 State-reported U.S. trainees, section 620(j), NSAM 278, and the Johnson/State handling of the Tower amendment. The records separate policy proposal, U.S. institutional report, presidential approval, congressional rhetoric, and local execution. No trainee roster, itemized receipt, Indonesian police/Army ledger, or proof of training effect has been obtained. The 1994 USAID police-training report remains a locator only because direct access returned HTTP 403. GOAL remains OPEN.
+
+Next: obtain NARA RG 286 East Asia/Indonesia country and Office of Public Safety files, Training Division and Academy records, Office of International Training authorizations, rosters from Fort Bragg/IPA/USC/Syracuse, AID allotment/procurement/shipping/receipt records, Indonesian police and Army files, Johnson Library Ball telephone records, and the original 1964-08-13 Senate roll-call and conference report. Continue non-U.S. foreign channels and province-level implementation; do not convert this U.S. institutional record into the author's final political judgment.
