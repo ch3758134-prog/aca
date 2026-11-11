@@ -785,3 +785,10 @@ UN Treaty Series vol.792 No.11258的1971年美印债务重排协定附表确认�
 **已成功提交**：四CSV最后提交d6b18cd118b8e6afeff731a4a54fd8f2c9403e5d；chronology提交9cc1cb710784869f2f36554c8d8a844ecd35e218；global-gap-tracker提交ea8430ebdadf77d70dd7c0a6d42ff435b8ed49d4。此处的最新提交SHA是**本状态文件写入之前**的已确认研究提交，状态文件自身提交SHA必须以后续GitHub返回和main核验为准，不可能预填到自身内容。
 
 **精确续接**：①取得2000—2003地方劳动机关登记簿/暂缓通知、PPBI及其他工会章程与集体协议，检验法定权利的执行；②查UU21/2000当前有效性及修改/宪法法院裁决；③索取Aceh Kodam-I 1965年度报告、1941人死亡地图原件、1965-10-11 West Aceh DPRD-GR会议原件，逐县分清公开杀戮、军方拘押、秘密处决；④另转G1 Digoel 1927船运名册和G2 SOBSI基层会费/工厂委员会，继续平衡G1—G10；⑤G10校验CSV重复CV314与按事件日期主时间线。没有新地方军令或受害者名册。长期GOAL ACTIVE / OPEN-ENDED，全部G1—G10 OPEN。
+
+
+## 2026-11-11｜ONGOING / GOAL仍进行｜亚齐Baperki—朗萨军区链与G1流放名册
+
+本次完整打开Jess Melvin 2013年学术文章 https://journals.sagepub.com/doi/10.1177/186810341303200304 ，正式登记S612/C1030/Q308/CV337；更新chronology、global-gap-tracker、research-status。文中1965年10月8日班达亚齐、9日锡格利袭击与11日Kodim-0104会面来自学者转录的《Chronologis 1966》和《Pernjataan 1965》，**未取得地方原件**，与S127共享研究者档案链，不能算独立证实。G1另检索1927年Boven-Digoel流放运输名单，未取得原始名册；G1—G10全部OPEN。
+
+精准续接：①取得《Chronologis》1966 pp3–4与《Pernjataan》1965 p1图像；②查Langsa Kodim-0104 1965-10-11会议与Iljas Mahmud签令、Baperki地方名单；③取得1965-10-20 Aceh军方针对Baperki的Surat Keputusan原页；④荷文检索Boven-Digoel 1927 internering/transportlijst并打开殖民签发原件；⑤换地区核验北苏门答腊或Flores县级军政记录，不停留于亚齐。此次写状态前main HEAD为 `2fc5c478873c671b37307df3cbdb9f0cbde51ad1`；状态文件提交产生的新HEAD须提交后再次核实，不能将预提交SHA称作最终SHA。
