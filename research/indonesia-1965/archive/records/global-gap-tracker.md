@@ -1003,3 +1003,9 @@ d168显示State、Defense、CIA和白宫工作人员讨论援助时，对是否�
 正式登记S828/C1459–C1462/Q348/CV369。直接打开72页《Kenang-kenangan Kongres Gerwis ke-2, 25-31 Maret 1954》OCR全文：https://pustaka.taratsa.id/read/618/ocr/pdf/ 。这是1954年组织自身文书，非后出目录。原PDF阅读入口https://pustaka.taratsa.id/read/618/pdf 已定位但未逐页视觉核对。OCR第286–306、819–840、1057–1145、1494–1535行记载3月30日改名、143/201支部与约350出席者、章程会员制度、入会费Rp1、会费Rp0.25、收入90%地方/10%中央及婚姻法决议。A级证据仅限组织刊行内容；实际地方缴费、支部参与、PKI关系未证实。地区索引Klaten、Sidaredja、Menado、Sumatra、Java、Madura、Kalimantan、Sulawesi。下一步核扫描原页、财务账簿、代表名单和地方活动记录。
 
 跨G项G4/G5：打开FRUS d162官方编辑说明全文https://history.state.gov/historicaldocuments/frus1964-68v26/d162 ，确认它转引1966-02-25 A-527约80000巴厘死者估计和Howland 1970年约6000巴厘死者估计；与1965-12 A-408约10000的同期估计不可混同。此次只读编辑说明，A-527及Howland原件未读，未新增地方死亡事实。G1—G10均OPEN。
+
+## 2026-11-11 跨G项复核｜G2妇女组织原件的目录解释与G4巴厘死亡估计
+
+- **G2（1954 Gerwis大会）**：再次打开 Alexander Street 的1954年《Kenang-kenangan Kongres Gerwis ke-2》馆藏目录（https://search.alexanderstreet.com/preview/work/bibliographic_entity%7Cbibliographic_details%7C3227547）。目录确认出版机构DPP Gerwani、出版年1954、72页，且标示劳动部长1954年3月15日文字及1954年5月1日DPP评述。目录摘要声称改名受到PKI领导层压力，但这是馆藏编目者的解释，**不是大会原文已经证实的因果关系**。须将原始会议纪要与PKI往来、代表发言、表决记录分开核对；不以目录替代会议文件。此前S828已记大会OCR，必须先查正式来源是否已有此目录再决定是否新增。
+- **G4（巴厘1965—66）**：直接打开美国国务院FRUS卷26第162号编辑说明（https://history.state.gov/historicaldocuments/frus1964-68v26/d162），确认其中**转引**1966-02-25雅加达使馆A-527约80,000死亡估计及1966-04-15 A-641对全国数字极大不确定性的自述。FRUS为编辑说明，A-527/A-641签署原件尚未打开；不得把FRUS转引当作两份独立原件，也不得与1965-12 A-408约10,000估计相加。A-527档案定位RG59 Central Files 1964–66 POL 23-9 INDON。下一步核A-527/A-641扫描、巴厘各县名册及军方命令，并追查死亡数口径及同一消息链。
+- **跨G项未闭合**：G1早期殖民劳动、G3跨机关逐时、G5幸存者、G6流亡监禁、G7后改革组织、G8外部实际交付、G9人物地点关系、G10主时间线排序与正式CSV去重仍OPEN。本次只增补核验限制和具体原件定位，不虚增S/C/Q/CV；中文正文待原件及事件链成熟再并入。
