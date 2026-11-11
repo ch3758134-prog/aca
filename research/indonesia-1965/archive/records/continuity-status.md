@@ -811,3 +811,10 @@ UN Treaty Series vol.792 No.11258的1971年美印债务重排协定附表确认�
 
 **精确接力**：①在Delpher定位1927年《De Indische Courant》《Bataviaasch Nieuwsblad》报道，记录具体日期/页码/扫描链接，再追殖民总督流放决定、运输名册及Tanah Merah到达簿；②从Sikka地方行政/教会档案查1966-02-27 Komop会议纪要、参加者和拘押清单，回查1974年Maumere匿名记述的馆藏号；③转G2查SOBSI/SARBUPRI基层会费与企业委员会原件；④回G4不同省份Aceh、Bali、West Kalimantan地方军令与受害者记录；⑤修复G10 CV314重复编号并整合chronology日期排序；⑥继续G6/G7政治犯、劳工和幸存者组织。**GOAL ACTIVE/OPEN-ENDED，G1—G10全部OPEN**。本状态写入前已成功的GitHub提交为ec80994dee0a1e84b05240d95a46b4b75feae88d；本状态提交产生的最终SHA须以后续回查为准。
 
+## 2026-11-11 13:55 CST｜Flores Sikka原文转录核验与G2跨项检索，GOAL继续OPEN
+
+本次直接打开John Mansford Prior 2011完整27页论文，纠正正式S456原有“仅摘要”访问状态；新增2008年Brill地区教会史S639，印刷p253—256已读。正式C1056—C1058、Q313、CV341、chronology及global-gap-tracker均已提交。证据仍为B级：1970年代匿名《Menjaring Angin》手稿、Boumans回忆录、1966-02-27锡卡DPRD-GR会议记录、KOMOP命令和1966-04-28主教原信均未直接取得。**重要矛盾：**Boumans经Prior转录称Jan Djong死于1966-02-09；后来传记线索给1966-03-01，不能擅自合并。两篇研究共用地方回忆材料，不是独立证实。G2英文SOBSI财务检索没有取得原账，保留失败结果。
+
+**精准续接**：①SVD Ende省档案匿名约130页《Menjaring Angin》、Boumans pp81—82及1974手稿原页；②Sikka DPRD-GR 1966-02-27会议签到、Soemarno军区/KOMOP文件、拘押名册；③Jan Djong死亡/葬礼记录与van Klinken 2019引证，核2月9日/3月1日冲突；④Gabriel Manek 1966-04-28信原件及收信人；⑤跨G项用印尼语查SOBSI/SARBUPRI/SBKA会费、工会章程与企业委员会，并切换到G1荷印流放名册、G4巴厘/北苏门答腊等失衡地区。G1—G10全部OPEN，继续中文连续历史叙述，不建旧列表HTML。
+
+**提交核验**：本状态写入前最后成功研究提交SHA为 `25cc4275f6d064dc8904430e17e3f3f3ddbdc9fa`；本状态提交自身SHA需以GitHub返回值及main独立比较为准（文件无法预知包含自身的提交SHA）。
