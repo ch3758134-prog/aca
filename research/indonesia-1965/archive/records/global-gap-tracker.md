@@ -1,3 +1,15 @@
+## 2026-11-11｜G4北苏门答腊地方机关与宗教动员：两份同期美领馆电报OCR直接核读；G7工会法权对照（ONGOING）
+
+**G4/G3/G5/G9｜Medan（原始同期外交记录OCR已读，A-限定）**：美国驻棉兰领事Blackburn于1965-06-07发第509号电报（1965-06-08收件；RG84 Entry P339 Box12 Folder8），原文OCR https://nsarchive.gwu.edu/media/15697/ocr ，原件馆藏 https://nsarchive.gwu.edu/document/15697-document-01-u-s-consulate-medan-telegram-509 。报告Darjatmo以PEPELRADA/DWIKORA军方权限推翻省长针对《Tjahaja》报出版许可的决定；其判断军方赢得与省长及PKI的首轮冲突，属于**Blackburn对地方权力竞争的当时解释**，不证明军方当时已下达10月杀戮命令。报纸许可、1965-06-06签署决定、Pantja Tunggal及National Front/Youth Front/PWI回应的地方原件仍缺。OCR相对可读，尚未逐页核影像。
+
+**G4/G5｜Medan宗教暴力语言的形成（原始同期外交记录OCR已读，A-限定）**：1965-12-06棉兰领馆第184A号电报（RG84 Entry P339 Box14 Folder7），OCR https://nsarchive.gwu.edu/media/15714/ocr ，馆藏 https://nsarchive.gwu.edu/document/15714-document-18-telegram-184a-american 。正文明确标为“SOURCE REPORTS”：线人称当地Muhammadiah清真寺布道者要求杀害自觉加入PKI者。后段“wide license for killing”及NU政策相似、穆斯林意见几乎一致，属于电报作者HEAVNER的评论/概括，不是Muhammadiyah/NU中央签署命令，更不能代表所有当地信徒；没有核到具体清真寺、布道者、讲稿、被害者名册或实际杀人事件。应对照组织地方支部档案、1965年12月讲道/会议原稿及军警拘押资料，区分宗教言说、军事组织与实际暴力。**两份电报的相隔六个月与不同主体不能机械拼成连续同一指挥链。**
+
+**G7｜2000工会法（官方法律登记全文网页已读，原签署PDF未核）**：印尼劳动部JDIH https://jdih.kemnaker.go.id/peraturan/detail/32 明列2000-08-04第21号工会法、Abdurrahman Wahid签署；官方摘要称10人可组工会、第18条书面通知登记、第25条登记工会代表权。与1998 PER-05登记审查及2005 PER.06会员核验**不属于同一法律程序**。须直接核2000年签署文本第5、18、25条及过渡条款，找Bekasi/Garut/Surakarta县级登记通知和实际拒绝件。此法律的出台不证明基层工会自主权已落实。
+
+**证据治理**：已读取2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity、正式CSV和chronology；大型CSV连接器响应含截断警告，无法保证逐行去重，故本次不分配新S/C/Q/CV编号、不伪称正式并库，也不把未经原件对照的跨年因果写进历史正文。G1早期Semaun与殖民工会、G2 Gerwani/BTI/SOBSI基层、G3跨机关命令、G4各省县军令、G5幸存者、G6监禁流亡与新组织、G7当代工厂、G8外交实际交付、G9地点人物组织、G10索引与CSV均继续OPEN。
+
+**下一执行点**：①打开509和184A扫描逐页核OCR并核文号/署名；②追1965-06-06 Darjatmo《Tjahaja》许可命令及省长批示；③查1965-12 Medan Muhammadiyah/NU地方讲稿与军警拘押记录，不能用领事评论替代；④从北苏门答腊Shell/Stanvac/PERBUM/SOBSI的1965-11第1290号电报进入工厂组织与镇压，取OCR及厂工会名册；⑤直接打开2000第21号法律PDF，追地方工会登记执行；并轮换G1/G6/G8。GOAL持续OPEN。
+
 ## 2026-11-11｜跨G项复核：中爪哇Klaten—Kudus的地方筛选机制（G3/G4/G5/G9/G10）
 
 本次重读 Mathias Hammer (2013) 开放全文（既存S139，B：研究论文全文，所引1970年Kopkamtib汇编、1971年Diponegoro军史及匿名访谈原件本次未取），并重新打开美国国家安全档案馆1965-12-10 A-386的馆藏说明（既存S151；本次只开目录说明，早先台账记录已看原始两页影像）。没有把两者计作相互独立证明同一地方事件。
