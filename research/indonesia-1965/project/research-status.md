@@ -462,3 +462,11 @@ UN Treaty Series 1971年第792卷No.11258附表列出AID Loan No.497-K-013，注
 ## 2026-11-11｜亚齐基层组织被袭时间次序（ONGOING）
 
 S612/C1030/Q308/CV337已登记：直接阅读Melvin 2013年完整学术HTML，核查其转录1965年10月8日班达亚齐、9日锡格利针对Baperki、PKI、LEKRA、Pemuda Rakjat、Gerwani及商铺的袭击，以及10月18日Baperki声明对11日Kodim-0104会面的记载。原始地方文书、签署件及军令尚未亲自取得，等级B；S127同一档案链不可作独立佐证。G1 Boven-Digoel 1927运输原件仍未取得。后续优先查Chronologis 1966、Pernjataan 1965、Kodim-0104、荷兰殖民流放登记。G1—G10均OPEN。
+
+## 2026-11-11｜苏加诺的家庭/助手回忆与美国警务援助机制（ONGOING）
+
+新增S611-S619、C1029-C1037、Q307和CV336-CV337。连续阅读版新增2024年ANRI口述史段落及人物、事件链接，覆盖Sukarno家内政治教育、Ruslan Abdulgani等师友联系、Tito Asmarahadi对Inggit关系的回忆、Guruh的家属探视记忆与其转述的Sukarno对九三〇事件解释。全部内容按讲述者归属；目前只读选定转录段落，未核听音视频。Tito叙述的关系链、婚姻和协议仍无原件，Sukmawati transcript在年龄/年级处存在内部不一致。
+
+新增的FRUS d52与d67为1964年美国警务援助提供了政策层一手记录：State文件把训练视作影响未来警察及军方人员的途径，d67记载总统批准保留非军事警务训练和非敏感设备、暂停军用警务装备的方案。BPK履历和Wantimpres简介记Sidarto 1964–65年美国训练及1967–68年副官任期；他的2024访谈自述被任命的“平衡”逻辑，年份与官方简介不完全一致。现有证据支持正式培训和援助意图，不支持推断他是秘密行动人员或该培训改变了苏加诺决策。
+
+下一轮查ANRI录音/录像、USAID及警务课程名册、Sidarto人事与任命文件、Jakarta/Siliwangi移动许可和Wisma Yaso访客/警卫记录、Inggit与Sukarno婚姻/离婚/和解文件，以及各受访家庭成员独立保存的信件和日记。

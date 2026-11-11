@@ -792,3 +792,9 @@ UN Treaty Series vol.792 No.11258的1971年美印债务重排协定附表确认�
 本次完整打开Jess Melvin 2013年学术文章 https://journals.sagepub.com/doi/10.1177/186810341303200304 ，正式登记S612/C1030/Q308/CV337；更新chronology、global-gap-tracker、research-status。文中1965年10月8日班达亚齐、9日锡格利袭击与11日Kodim-0104会面来自学者转录的《Chronologis 1966》和《Pernjataan 1965》，**未取得地方原件**，与S127共享研究者档案链，不能算独立证实。G1另检索1927年Boven-Digoel流放运输名单，未取得原始名册；G1—G10全部OPEN。
 
 精准续接：①取得《Chronologis》1966 pp3–4与《Pernjataan》1965 p1图像；②查Langsa Kodim-0104 1965-10-11会议与Iljas Mahmud签令、Baperki地方名单；③取得1965-10-20 Aceh军方针对Baperki的Surat Keputusan原页；④荷文检索Boven-Digoel 1927 internering/transportlijst并打开殖民签发原件；⑤换地区核验北苏门答腊或Flores县级军政记录，不停留于亚齐。此次写状态前main HEAD为 `2fc5c478873c671b37307df3cbdb9f0cbde51ad1`；状态文件提交产生的新HEAD须提交后再次核实，不能将预提交SHA称作最终SHA。
+
+### 2026-11-11 接力｜家庭口述史、苏加诺警务训练与美国援助目的
+
+新增S611-S619、C1029-C1037、Q307、CV336-CV337。读取并对照ANRI发布的五份2024年口述史、BPK和Wantimpres两篇Sidarto履历，以及FRUS 1964年d52/d67。FRUS记录美国对训练和警务支持的政策目标、项目分类与总统批准的保留/暂停安排；两份印尼官方履历记录Sidarto受训及1967–68年任副官，2024年口述对时间与任命缘由的说法存在差异。家属口述增加了家庭教育、关系网络、探视和苏加诺观点的线索，但没有同期证据闭合，未形成政治结论。
+
+下一步查警察课程名册/USAID项目账、Sidarto人事与任命原件、受限住所访问许可、家庭往来文书、Inggit婚姻和离婚文件；为五份口述史逐份标注访问范围、提问和音视频核听状态。GOAL仍OPEN。
