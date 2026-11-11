@@ -579,3 +579,8 @@ G6/G9（1996—97，东爪哇泗水与雅加达，PRD/PPBI/SMID/STN）：已直�
 G6/G9：直接打开 APSN 转存的《Surabaya Post》1997-02-25 英译删节稿（https://www.asia-pacific-solidarity.net/news/1997-02-25/subversion-case-continues-budiman-refuses-testify-surabaya-court.html）。同期报纸报道 Budiman Sudjatmiko 在泗水 Dita Indah Sari/Coen Husein Pontoh 案中拒绝作证，报道给出审判长 Amrin D. Boer、律师 Trimoelja D. Soerjadi 和 Wijono Subagjo 等姓名；**原印尼语报纸版面及法院庭审笔录未读，英文译文有删节**。另直接打开 AFP 1997-04-22 同期电讯的 TAPOL/APSN 删节转录（https://www.asia-pacific-solidarity.net/news/1997-04-22/prd-activists-get-six-and-four-years.html）：援引辩护律师称 Dita 一审六年、Coen 四年，并明确称 Sholeh 另案尚待宣判；与既有 Amnesty S583 同期机构报告可交叉核日期，但AFP所引律师并非独立法院原判。不得把三人的判决日期或刑期合并；需取得 Surabaya PN 1997-04-22 裁判、上诉及1997年报纸原版。
 
 G4 Aceh：复核既有 S127 Jess Melvin 2015 研究者直接接触军方档案后的公开全文（https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide），其所述 1941 是军方死亡地图中**公开杀戮**数字，约10000是作者按非公开处决推算的省级估计，**不是同口径独立统计**。仍未直接打开 Kodam-I 1965 年度报告、1965-10-11 West Aceh DPRD-GR 会议原件或 Sialang Buah 移交名单；故保持 B 级，不能升级原件。下一步以原文题名 `Risalah Singkat Sidang Istimewa DPRD-GR Daerah Tingkat II Atjeh Barat 11 October 1965`、`KODAM I Complete Yearly Report 1965` 定位 ANRI/Aceh 馆藏及图像；核查地图八县口径和被移交者姓名。G1/G2/G3/G5/G7/G8/G9/G10 仍 OPEN，不以这两条局部核验结案。
+### 2026-11-11｜美国援助统计与单笔贷款对账仍开放
+
+新增来源S606-S610、主张C1024-C1028和检索Q306；CV332更新。1973年《国会记录》重印USAID年度国别表，报告印尼FY1963总额US$55.9m；2014 Greenbook说明1955—2000年度数据包含赠款义务额与贷款授权，不能视为实际拨付。1974 Census Statistical Abstract报告FY1962—72 AID发展贷款授权合计US$300m，并定义其为须借款方接受条款、授权时预留资金、尚未扣除后续deobligation的gross数。两种统计不能归到Loan 497-K-013一笔。已找到FY1963原报告的目录记录和HathiTrust 1945—73全本元数据/封面，但未读取印尼表页。
+
+继续追FY1963原报告、AID逐年授权和提款明细、Loan 497-K-013原合同、采购与收货资料。研究继续OPEN；事实、分析与作者政治判断仍分开。
