@@ -881,3 +881,12 @@ G6/G7/G9｜B级参与者后期记述：Andreas Iswinarto 2025-09-23公开文章�
 **G4 Flores/Sikka，D级新增检索线索而非原件**：印尼语/英文检索1966年Gabriel Manek主教信、KOMOP命令及Flores地方杀戮，未找到可读签署原件；检索出现地方政治人物Johanes（Jan）Djong及Gerry van Klinken 2019年 *Postcolonial Citizenship in Provincial Indonesia* 的页码线索，但本次没有打开该书相关页或独立档案，**不把网页转述的逮捕日期、死亡原因、人数作为已核事实**。下一步沿书中Sikka县政治、Jan Djong、Kewapante、Maumere线索索取可读页与所引地方档案；与1966-04-28 Manek信、Wolokoli拘押、KOMOP指令分开验证。继续Aceh/北苏门答腊/东中西爪哇/巴厘/West Kalimantan/Sulawesi跨地区调查，不以Flores替代全国。
 
 **G7/G10另一核对**：BPK 2000年第21号工会法官方目录 https://peraturan.bpk.go.id/Details/44988/uu-no-21-tahun-2000 本次重开仍标 `Berlaku`，列2000-08-04公布/生效；其网页“STATUS PERATURAN”细节栏却为 `Belum Tersedia`，不能把细节栏空白理解为已废止或不存在修法。此前BKN目录相反字段仍待主管机关确认。法律地位不等于地方工会实际登记。**GOAL仍ACTIVE，G1—G10均OPEN**。
+
+
+## 2026-11-11｜跨G项续查：Flores地方执行与Gerwis组织原件（未闭合）
+
+**G4/G5，Flores/Sikka，1966年：**继续检索Gabriel Manek于1966-04-28致Maumere总铎的信、KOMOP地方军事命令及Jan Djong个案。网页检索出现《A History of Christianity in Indonesia》相关段落的转录页（https://id.scribd.com/document/915092869/Jan-Sihar-Aritonang-Karel-Steenbrink-A-History-of-Christianity-in-Indonesia-Studies-in-Christian-M），其中涉及Wolokoli 45名被拘押者、Pede da Lopez神父抗议及Manek来信；这是此前已登记学术著作的再传播文本，**不算独立原件或第二份交叉证据**，原始信件、签收记录、KOMOP命令与拘押名册仍未取得。另一检索出现Jan Djong百科词条及其所列van Klinken 2019书页，但未直接读取该书相关页，词条中的死亡日期与人数不能据此升级为核实事实。行动：取得van Klinken 2019 pp. 97–119和脚注所指地方档案，向Maumere教区/Ende主教档案查询1966-04-28信及军方来函，并从Sikka县级行政档案查拘押与埋葬记录。**来源等级：B（既有学术著作），本次新检索页C；地区：Flores/Sikka；年代：1963–1966；组织：KOMOP、地方军队、教区、PNI/PKI；阻碍：签署原件未开放。**
+
+**G2，Gerwis/Gerwani，1950–1965：**以印尼语题名 `Pedoman Bekerdja Gerwis` 搜索可合法访问的数字化正文，结果混入与Gerwis无关的爪哇语文献，未找到可核出版信息、页码和条款的工作手册扫描。此前Pustaka Langka仅为目录线索，仍为C级，不能推断地方支部实际遵行某条组织规则。行动：核Pustaka Langka具体书目/数字对象ID，继续以旧拼写 `Bekerdja`、`Gerwis`、`Gerwani` 检索ANRI、Leiden KITLV及IISH馆藏，取得影印件后逐条核对地方支部活动与同期报刊。**来源等级：C/D；地区：全国组织与待定地方支部；年代：1950–1965；阻碍：原件未取得。**
+
+**G1/G3/G6/G7/G8/G9/G10仍OPEN。** 此次网页检索未提供独立可新增的历史事实；未重复生成S/C/Q/CV或更改chronology。下次优先在G4取得地方原始文书，同时转换G1殖民流放名册或G7基层工会登记的实质核验，避免长期围绕相同目录循环。GOAL ACTIVE / OPEN-ENDED。
