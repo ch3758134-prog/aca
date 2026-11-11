@@ -848,3 +848,14 @@ G7/G10｜A级官方目录与法条：BPK法规库 https://peraturan.bpk.go.id/De
 G6/G7/G9｜B级参与者后期记述：Andreas Iswinarto 2025-09-23公开文章全文 https://www.insideindonesia.org/editions/edition-161-jul-sep-2025/the-1965-1966-online-genocide-library 自述YPKP 1965于1999-04-19由Sulami Dodjoprawiro、Hasan Raid、Pramoedya Ananta Toer等建立，1999-11发行Soera Kita创刊号，2000-11在中爪哇Wonosobo县Kaliwiro的Situkup村Ndempes森林发掘墓地。这是参与者回顾，不是章程、刊物原版或发掘记录。查YPKP成立登记、Soera Kita 1999-11原件、2000发掘许可/遗骸记录；建立人物—组织—地名关系。
 
 本次新资料尚未比对完整正式CSV完成注册，不虚增S/C/Q/CV；先将精确来源与访问层级保存，后续去重后并入正式台账、chronology及成熟中文历史正文。G1—G10全部OPEN。
+
+
+## 2026-11-11｜跨G新馆藏核验：荷兰流亡者刊物与1965年Antara逐日报纸（G6/G8/G9 ↔ G3/G4）
+
+**G6/G9，C级馆藏描述（已打开目录，不是刊物内文）**：GerakIngatan / Watch65藏品 KOL4_27，1982年 *Majalah Komite Indonesia, Indonesia Feiten en Meningen*，https://gerakingatan.omeka.net/items/show/287 ，目录标示出版者Komitee Indonesië、馆藏Watch65、JPG，说明该刊持续出版至2000年，并称1965年流亡者协助收集新秩序时期镇压消息。**可确认的是馆藏对刊物的编目及其自述性背景，不能据此认定某篇具体报道、流亡者身份或实际发行连续性；本次未打开刊物页内文。** 该站明确限制数字图像再分发，研究仅记录永久定位，不复制再发布。下一步进入Koleksi Komitee Indonesië逐件检索1970—1998年份与具体期号，合法打开刊物页、核对刊头/作者/日期，再以印尼国内事件记录交叉验证；将参与者—组织—荷兰地点关联入G9。
+
+**G3/G4，C级纸本馆藏目录（已打开日文目录，未读1965年报纸）**：日本国立国会图书馆（NDL） *Warta berita*，出版者Antara，馆藏号 **Y735-SN-2**、书目ID **000000145131**，纸本馆藏区间标示 **1965-07-01—1994-12-29**，https://ndlsearch.ndl.go.jp/books/R100000002-I000000145131 。馆藏注明前身 *Antara warta berita*；所列起止并不保证每天无缺号。这个可执行原件路径可核对1965年10月1—31日不同日期的官方新闻措辞、逮捕报道与1967年西加里曼丹消息；**未取得具体报纸页，绝不将其报道内容或缺失内容臆造为证据**。下一步按具体日期申请阅览/复制，记录期号、版面、印尼语原文并与ANRI/地方报纸/美国外交电报逐项核对。
+
+**G2新候选，C级网页书目而非已读组织手册**：https://langka.logosid.app/ 首页搜索索引列出 *Pedoman Bekerdja Gerwis*（Gerwis工作手册）及 *Hak-hak Politik Wanita*（CC PKI）；打开首页未返回可读正文，尚不知年份、完整性、出版者、扫描页或版权授权。应在馆藏界面逐本定位、获取可读书目与合法正文后，核查Gerwis/Gerwani的组织章程、劳动/政治权利论述与地方实践，不能从标题直接推定内容。
+
+**G1—G10仍全部OPEN**。本节属于跨领域原件可达性发现；未经正式CSV逐条URL/同源去重，不分配新S/C/Q/CV号，也不将C级目录写入chronology的事实事件。
