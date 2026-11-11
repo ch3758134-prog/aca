@@ -927,3 +927,9 @@ d67的总统签批此前已登记为S621/C1035：约翰逊批准推迟岛际军�
 
 **续接优先级：**取得303委员会11月和12月完整会议记录及CIA/State后续执行卷；追12月2日资金授权、交付和账目；寻找印尼陆军、Malik/Kap-Gestapu与青年组织接收记录；逐地核实RPKAD训练、武器分发、拘押和死亡；继续检查FRUS d89–d141与d185–d205、英国/澳大利亚/马来西亚/印尼原始档案。研究继续OPEN。
 
+
+## ONGOING / GOAL仍进行｜2026-11-11 Moncongloe具名访谈与北苏门答腊交叉核查
+
+本次依次核读AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit G1—G10、现有长期缺口总账及正式CSV；主时间线在 `archive/records/chronology.md`（不是项目根目录）。新增S729、C1245—C1246、Q329、CV349；Taufik Ahmad 2010开放全文已读，属于研究者本人报道和具名当事人采访（B级），不是军令或入营簿原件。Moncongloe数字与劳动制度已补入连续中文时间线。棉兰183A/184A目录复查，原来源S377/S426未重复登记。提交前已逐文件获取main最新blob SHA。
+
+**本次关键未完事项：**①调阅`Arsip Kotamadya Ujung Pandang Reg 937`与`KEP-007/KOPKAM/2/1969`原始签署件，查Moncongloe设立/权限；②寻找1969年3月首批11人、随后44人及1969年底911人分期接收簿，分清在营846人与军人家庭劳动人员；③寻找1972年前后土地分配/移交文件、军方道路和住房工程记录、强制劳动人员名单；④取得Anwar Abbas访谈原始记录与1978—79 Nanga-Nanga 42人转移/释放登记；⑤北苏门答腊独立核查1965年12月军区/Hansip和地方宗教组织命令及实际暴力记录，不将美领馆评估直接当作当地行政事实。其他G1—G10缺口均OPEN，特别1927 Boven-Digoel、SOBSI/BTI/Gerwani基层、West Kalimantan与1998—2026工会/幸存者组织。**本节提交前main HEAD须由最终提交后独立读取核实；不以本节预填值冒充提交SHA。**
