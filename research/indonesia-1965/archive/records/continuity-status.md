@@ -631,3 +631,12 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 **下一次直接执行：**（1）获取第203号电报扫描第3—4页并核对OCR损坏的军队调动段落；（2）追查Pasuruan/Assembagus地方拘押转移及巴厘商会损失清册，反证12月电报消息；（3）查Sikka 1966-02-27 Komop会议原始记录及1974匿名手稿第75—76页；（4）读取Keppres 83/1998附带14页PDF及ILO C087登记/生效原始页面，再查1998—2001企业工会登记；（5）转换至G1 Boven-Digoel运输名册及G8苏印军援交付记录，避免地方调查集中于已熟悉地区。所有G1—G10保持OPEN，缺口总账不能视为已穷尽。
 
 **Git续接记录**：上述HEAD为本状态写入前经API核实的main；本状态提交自身SHA只能在写入返回后获得，不能预先写入本文件而声称自包含最终SHA。以本段提交的GitHub commit SHA及随后main HEAD查询作为最终精确接力版本。
+
+
+## ONGOING / GOAL仍进行｜2026-11-11 跨G项原件续接
+
+- 本次已读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09、正式四CSV、chronology、global-gap-tracker和本续接文件；research-status.md不存在。G1—G10全OPEN。
+- 本次原件核验：S480为印尼BPK官方Keppres 83/1998完整14页PDF，法令1—3条、附C087第2—4及15(3)条直接读到；C826/Q273/CV313登记。此前S477是同一法令的元数据，不能重复算独立证据。原文：https://peraturan.bpk.go.id/Download/48739/Keputusan_Presiden_no_83%20TH%201998.pdf 。
+- 跨地区G4/G5：复查西加里曼丹土地研究公开脚注，1970年《Penertiban tanah-tanah pengungsi tjina di Kalimantan Barat》手稿和《Penyuluh Land Reform》10(6):13—14均未取得；52,857公顷仍是研究转述而非已核原始统计。来源S391/S392，不新增同源S号。
+- 本次已写入source-register.csv、claim-ledger.csv、search-log.csv、coverage-matrix.csv、chronology.md、global-gap-tracker.md；写入完成后main最后已知提交：6654041d1ab437ef4c087ca143f9d526abfdb302（此状态文件自身提交SHA应以GitHub返回值为准）。
+- 立即续接：①取得ILO C087印尼1998-06-09正式登记及1999-06-09生效原页；②查1998—2001年SBSI/PPBI工厂登记、雇主解雇和劳动部门执法；③追1970年西加里曼丹上述手稿与期刊原页及县级地籍；④转换G1 1927 Boven-Digoel船单/荷兰警务清册；⑤G4优先Aceh军区Instr-1/10/1965原页、Flores Sikka Komop会议纪要及Bali县级名册。各项未结，不以本次写入结束长期GOAL。
