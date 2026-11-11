@@ -306,3 +306,10 @@ Source/claim trail: S787–S791; reused S250/S427; C1363–C1371 and C749; Q336;
 | U.S. Embassy / White House, Oct. 20–22 | Reporting and policy endorsement of Army campaign | Green relayed an unverified estimate of Jakarta PKI arrests and executions; Bundy called the Army’s gains a vindication of U.S. policy while recording major unknowns. | High for the officials’ written assessments; counts, Indonesian public support and causal claims remain unverified. | Local victim registers, prison/court records, independent public-opinion evidence, Indonesian orders and White House policy files. [S795-S796; C1387-C1389] |
 
 Source/claim trail: S792–S797; reused S428, S725; C1372–C1400 and C750/C1232; Q337; CV359.
+
+
+## U.S. Embassy PKI-list channel, Dec. 1965–Aug. 1966
+
+| Actor / period | Channel | Evidence now recorded | Status and confidence | Missing link |
+|---|---|---|---|---|
+| U.S. Embassy / Indonesian Government and security authorities / PKI-affiliate officials, Dec. 1965–Aug. 1966 | Party-structure compilation, sanitized list handover report, and possible security use | A-398’s original scan records a May 1965 leadership-body roster and a separate fragmentary whereabouts list. Green’s A-74, as quoted by FRUS, says an Embassy-attribution-removed version was made available to the Indonesian Government in December 1965 and was apparently being used by security authorities; he also reports Partindo/Baperki lists supplied on request. Martens later described a public-press information route through an Adam Malik aide, but it is not proven to be the identical A-398 copy. | High for A-398 contents and for the fact that Green’s later Embassy cable made this report; moderate/low for exact handover route, recipient chain and use. No individual arrest or killing is causally linked here. | Original A-74 and enclosure; sanitized copies and handover/receipt record; Kadane tapes/transcripts; Malik/aide/Army records; named-person arrest, detention and death evidence. [S032; S189; S192; S798-S800; C203-C206; C1401-C1405; Q338; CV360] |
