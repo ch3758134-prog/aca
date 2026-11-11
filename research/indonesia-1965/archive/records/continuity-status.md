@@ -620,3 +620,14 @@ This is a current reading edition, not proof of exhaustive public-source or arch
 
 ### 2026-11-10｜ONGOING / GOAL仍进行｜精确续接
 本次直接核读G1—G10完整性审计、AGENTS/goal-continuity规则、正式四CSV、缺口总账与接力状态；正式登记S477—S479、C823—C825、Q272、CV312。G4/G5 Sikka 1966-02-27 Komop拘押名单会议来自Gerry van Klinken 2014开放专著对1974年匿名手稿的翻译（原件未得）；G6/G7 Keppres 83/1998国内1998-06-05生效来自BPK官方元数据，ILO NORMLEX搜索表列1998-06-09批准登记，动态页面打开失败。不要将学者转录当原始军令，不要把批准视为厂级自由。下一步精确动作：(1)查Sikka 1974 anonymous manuscript pp75-76及Komop 1966-02-27会议记录；(2)查Karel Elkel、Jos U. Tokoh职位和Sikka拘押名册/教区登记；(3)打开BPK Keppres83链接PDF核对三条法令正文；(4)查ILO C087批准交存及生效日期；(5)转向Aceh/West Kalimantan原始军令与G1 Digoel船单。G1—G10仍OPEN，长期GOAL未完成。本次提交SHA以GitHub提交返回值及随后main核验为准；本段不可预填未来SHA。
+
+
+## ONGOING / GOAL仍进行｜2026-11-10 本次精准续接
+
+**提交前核实 main HEAD：b7a9f0a8f8100521ab00b5a5be11016101169165。** 本次已读取 AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09、四份正式CSV、chronology、global-gap-tracker及本状态；research-status.md 不存在。正式S449、S477—S479与C790、C824—C825已经登记，本次不重复编号。
+
+已直接打开美国国家安全档案馆1965-12-21泗水领事馆203号电报OCR（档案馆页面标注12-22，为收报日），对照档案馆说明；东爪哇10—15名在押者移交处决与巴厘商铺纵火均是同期消息人转述，不是地方原始拘押簿或死亡统计。核对印尼BPK第83/1998号法令官方登记（1998-06-05），ILO NORMLEX官方检索索引显示1998-06-09；动态全文打开仍重定向失败。复核S478/C824学者全文对1966-02-27 Sikka Komop会议的事后转录，原始会议记录未获得。以上两条不同G项均已并入chronology中文段落及global-gap-tracker，不制造旧式HTML。此次未取得新原件，故没有虚增S/C/Q/CV。
+
+**下一次直接执行：**（1）获取第203号电报扫描第3—4页并核对OCR损坏的军队调动段落；（2）追查Pasuruan/Assembagus地方拘押转移及巴厘商会损失清册，反证12月电报消息；（3）查Sikka 1966-02-27 Komop会议原始记录及1974匿名手稿第75—76页；（4）读取Keppres 83/1998附带14页PDF及ILO C087登记/生效原始页面，再查1998—2001企业工会登记；（5）转换至G1 Boven-Digoel运输名册及G8苏印军援交付记录，避免地方调查集中于已熟悉地区。所有G1—G10保持OPEN，缺口总账不能视为已穷尽。
+
+**Git续接记录**：上述HEAD为本状态写入前经API核实的main；本状态提交自身SHA只能在写入返回后获得，不能预先写入本文件而声称自包含最终SHA。以本段提交的GitHub commit SHA及随后main HEAD查询作为最终精确接力版本。
