@@ -1274,3 +1274,16 @@ Cornell Kahin档案目录另列Box 81 Folder 7“Kadane interviews”和Box 95 F
 已读取AGENTS、stage-access、goal-continuity、G1—G10 completeness-audit、正式四CSV和chronology（正式文件因大型响应截断，未完成全库去重）。直接打开2005-04-08劳动部长PER.06/MEN/IV/2005官方PDF，确认第3—9条县市会员核验、签字、异议、45工作日和逐级汇总的**制度要求**；未取得具体企业执行档案。直接阅读Roosa 2013开放全文，并打开Prior 2011 Maumere研究摘要；二者对Flores的事实来源相互依赖，Prior全文、原访谈及1966军令未读，800—2000仍为研究估计。原文链接、访问等级、反证和续查已写入global-gap-tracker，提交cc22fcb1867247ec2ad95203210517692cc7725d。正式S/C/Q/CV尚未安全去重并库，chronology与中文正文未修改，不声称已经更新。
 
 **下一动作**：①核Garut/Bekasi/Surakarta 2005会员核验签名/异议表；②获取1998 PER-05及2001 KEP-16原件对照2005程序；③取得Prior 2011两篇全文与Maumere教区/荷兰传教士原始资料；④追1966-02—04 Maumere军令及死亡/拘押名册；⑤继续G1早期SOBSI前身与G8外部介入交付文件。G1—G10全部OPEN。**本状态文件自身提交SHA以GitHub提交响应和main实时HEAD为准，不预写未知SHA。**
+
+
+## ONGOING / GOAL仍进行｜2026-11-12 G7同期ILO记录与G4/G5地方原件定位
+
+本次重新读取AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10完整性审计、global-gap-tracker及正式四CSV/chronology的GitHub文件和blob SHA；确认正式文件实际位于archive/records/而非项目根目录。大型CSV与chronology返回截断，未完成逐行去重；故不擅自分配S/C/Q/CV，也不虚称正式表和历史正文已更新。
+
+**G7/G6：1998-11-24 ILO同期机构通报全文已直接打开** https://www.ilo.org/resource/news/freedom-association-remains-elusive-much-east-and-south-east-asia （Indonesia小节）。ILO明确记录1998-06-05批准第87号公约、1998年6月印尼参加国际劳工大会的三方代表团包含SBSI代表、SBSI获得工会联合会法律身份、SBSI主席Muchtar Pakpahan获释；又记录印尼政府1998年8月宣称工会被拘押者除Dita Sari外均获释。**最后一项是政府声称，不是ILO逐人核验的释放名单**。ILO同时称结社、反工会歧视及集体谈判法律仍有缺陷；它是当时监督机构评价，不等于具体工厂的行政执行档案。此来源可能与已有1998 ILO/工会来源重复，正式入库前先按URL/机构/日期查重。另一ILO NORMLEX结社自由委员会案件页面检索摘要含1993注册门槛，实际打开遇重定向循环，**不得标为全文已读**：https://normlex.ilo.org/dyn/nrmlx_en/f?p=1000:50002:0::NO:50002:P50002_COMPLAINT_TEXT_ID:2903018 。应追当年原始委员会报告及1998 PER-05/MEN部令原版，并对照1998-08/11两次释放口径。
+
+**跨G4/G5 Flores等地：Komnas HAM馆藏检索找到2014年印尼语《Ringkasan Eksekutif Laporan Penyelidikan Pelanggaran HAM yang Berat》官方机构编目** https://perpustakaan.komnasham.go.id/opackomnas/index.php?id=10549&p=show_detail 。编目显示2014年印刷出版、450页，第一章1965—1966事件；仅**目录/馆藏元数据已见，未读该书第一章，也没有取得Maumere地方BAP或军令**。其与2012年Komnas HAM调查声明可能有共同调查资料，不可按独立地方原件双计。需要请求该书第1章与所引Maumere/Ende/Bali/Aceh原始BAP，分离机构结论、证人说法、实际拘押及死亡登记。
+
+**精确续接**：①从ILO 1998-11-24原文脚注追结社自由委员会对应案件号、1998年8月政府释放通知及11月跟踪报告，查SBSI法定注册文书；②向印尼劳动部JDIH定位1998 PER-05/MEN、1999 KEP-201与当年SBSI/FSPSI登记簿，比较1998年6月、8月、11月的权利变化；③调Komnas HAM 2014摘要第1章并索取2012调查BAP目录及Maumere/Ende原始证言，核Prior估计的来源独立性；④交叉转G1 Boven Digoel殖民拘禁名单及G4 West Kalimantan 1967地方广播/军令、G8外部援助交付原件；⑤核正式CSV已有ILO 1998与Komnas 2014是否同源登记，之后才并入chronology和中文连续正文。
+
+**当前GitHub读取基线main ae24ccbf967a45f3a4d02d599ed034e0d5838514；本状态文件更新产生的提交SHA须以后续GitHub提交响应/HEAD复查为准，不能预知写入自身。长期GOAL ACTIVE / OPEN-ENDED，G1—G10全部OPEN。**
