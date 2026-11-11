@@ -990,3 +990,12 @@ d67的总统签批此前已登记为S621/C1035：约翰逊批准推迟岛际军�
 本次重读AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09、正式四CSV、chronology与global-gap-tracker。沿G8继续核读FRUS d126-d130公开原文和脚注，新增S769-S773、C1323-C1329、Q334、CV355-CV356，chronology新增1965年7—8月中文连续叙述。G8确认美国7月20日准许约300万美元陆军通信设备出口及7月28日英方反对；7月20日正文“仅爪哇”与脚注雅加达、万隆、巨港三站冲突；8月2日美方怀疑采购能否完成、8月3日出现撤销许可建议。**绝不能将许可写成已交货/已安装**。G4跨地区核验Sanata Dharma 2009年西加里曼丹论文仓储目录和Purmintasari 2015年期刊摘要/节选；未取得1967年原始军令或论文全文，未新增地方事件主张。
 
 精确续接：①FRUS d131-d141继续阅读并去重；②调取telegram 46、Philco合同/出口/运输/安装/印尼陆军验收及英国FO反对记录；③打开Sanata Dharma 2009年22MB全文PDF核对其脚注和1967年地方行动日期，再追Kodam XII/Tanjungpura命令、RRI Pontianak原广播及Sanggau Ledo/Sambas逐县登记；④ANRI SOBSI 70与204原卷及BAPEKAN回函；⑤转换G1 Boven-Digoel 1927运输名单、G6 Moncongloe Reg 937或G7工会登记执行。G1—G10全部OPEN。此状态写入前已核实上一提交 `5f1152f85526e46227fe9aa12ee496f4691b23f3`；状态提交后的最终HEAD需再读取核实，不预填未来SHA。
+
+
+## 2026-11-11｜当前滚动续接：G4西加里曼丹 + G8美英军用通信（持续OPEN）
+
+本次遵守G1—G10完整性审计，读取项目规则、正式CSV、chronology及缺口总账。正式CSV在读取时末尾S768/C1322/Q333/CV354；未将旧续查预编号作为正式编号。直接阅读Vinco 2009年完整论文及附录（https://repository.usd.ac.id/25201/2/041314018_Full%5B1%5D.pdf），FRUS d126/d127/d128完整公开部分（https://history.state.gov/historicaldocuments/frus1964-68v26/d126 等）。具体来源级别、档案追索点和相互矛盾详见global-gap-tracker最新增补。**本次未写正式CSV或chronology：在原始签署命令和独立事件确认之前先保存可核查的档号及冲突，不能将论文转引直接提升为原始行动事实。**
+
+精确下一动作：①西加里曼丹取Pangkolaga 1967-02-17 No.12-33/1967签署原件，核发文机关、收件、权限与落实；取SEMDAM XII《Tandjungpura Berdjuang》(1970)第183、256—270页及1967作战日志，逐项核Vinco印刷90—106页转引；取1967年Sanggau Ledo基地报告及10—11月Samalantan、Bengkayang、Pontianak迁移/死亡记录，校核1967-10-14与访谈约11-14日期差。②FRUS d129—d141继续顺序核读；查1965-07-20许可证、Philco采购/交付、雅加达/万隆/巨港站点验收、英国FO/CAB、马来西亚外交记录，严格区分许可/订购/交付/使用。③下一条独立缺口转G1殖民运输原始名册或G7工会登记执行，避免连续研究被G4/G8垄断。④取得新的原件或经核实的独立事件后，对照正式S/C/Q/CV最新编号去重登记并补chronology与成熟中文正文。G1—G10全OPEN；无完成声明。
+
+本次已成功写入缺口总账的提交SHA：b997aaee076f9f5075d2c247b562ef475c56dddb。当前续接文件的最终提交SHA应以写入后重新查询main的HEAD为准（Git提交不能在同一提交内容中预先包含自己的SHA）。
