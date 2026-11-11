@@ -383,3 +383,11 @@ Added S481-S489/C827-C841/Q274-Q275/CV314. Opened ILO GB.272/5 and GB.273/14, th
 The 1993 registration threshold and SPSI-recommendation rule, SBSI's five-year wait, May 1998 reform as described by the Government at the ILO, the differing registration counts, local registration disputes and competing military-intervention accounts are recorded with source attribution. The ILO's 1999 report records the complaint organizations' allegations, the Government's answer and the Committee's conclusions as separate layers. The original PER-05/MEN/1998 text and underlying company or ministry registers were not retrieved. U.S. report totals and SBSI's 30 cases are attributed reports, not audited rates.
 
 Dita Indah Sari's sentence, 2 July amnesty decree and 5 July release are now recorded from the ILO reports, BPK legal metadata and Amnesty's contemporaneous statement. The decree scan's viewer did not yield its page text, and her trial judgment and prison register are still missing. Marsinah inquiry timing is confirmed at the level of the ILO Committee's account; the inquiry file and final findings remain missing. All G1-G10 remain open; no authorial political conclusion added.
+
+## 2026-11-11｜Boven-Digoel 1926-1935事实链扩展（ONGOING）
+
+正式新增S493-S504、C848-C864、Q278-Q280、CV317；本批包含12项不同来源类型，均按全文/目录/转述标注。ANRI目录、两本ANRI档案史料书、荷属东印度1928政府报告、1931年度报告、荷兰众议院1928/1930年记录、Yamamoto 2025全文、Sjahrir 1935年信件已读；法条原始公报、ANRI卷宗和报纸原页仍缺。
+
+连续阅读版补入Boven-Digoel行政权力与殖民政府的自我解释、分批运输路线、女性/儿童家属随迁、职业多样的具名组织者、统计表算术错误、议会批评与政府答复、1930 Hillen调查后释放，以及1935夏赫里尔个人记述；新增事件和人物索引。正文明确区分政府报告、后来的学术转述、档案目录和个人信件，不产生作者政治判断。
+
+未解决的高优先问题：ANRI no.200与no.217对应船次及登船名单；1927-11人口表正确数字；823/1308/1678口径；Hillen原报告412名单与1931年219+186的7人差异；1933年苏加诺原信；夏赫里尔工资、食品和释放管理的营地行政记录。GOAL仍开放，未宣称档案穷尽。
