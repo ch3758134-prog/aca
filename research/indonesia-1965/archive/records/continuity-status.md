@@ -945,3 +945,7 @@ d67的总统签批此前已登记为S621/C1035：约翰逊批准推迟岛际军�
 **最新累计台账：**734 source records (IDs S001–S737; S338/S339/S475 absent), 1,256 claim records (IDs C001–C1259; C562–C564 absent), 330 search-log entries (Q001–Q330), 350 coverage rows (CV001–CV350)。作者基本立场、分析判断和结论仍保持未填写，未读取立场文件。
 
 **接续：**取得d1182原电及总统府档案；找到Jones停火方案的审批与英马反应；对照NU、Murba、PNI、工会和地方资料；继续读FRUS d97–d109及d111–d141，尤其苏加诺与美国关系中的军事、宣传、外交和援助链条。GOAL OPEN。
+
+## ONGOING / GOAL仍进行｜2026-11-11 SBKA档案原件定位与Moncongloe来源独立性
+
+本次按要求读取完整性审计G1—G10、AGENTS、阶段权限、长期GOAL、四份正式CSV和chronology，核对S729/C1246/Q329/CV349之后编号；已打开2026年Asmara/Dewiki完整13页PDF，锁定ANRI RA.48/SOBSI第70号SBKA档案，时间1960-05-23—1965-09-04，档案原件未读；文章转述的罢工方案/PBKA争议不得直接写成历史事实。另一链G6南苏拉威西Moncongloe检索印尼语媒体，发现其反复转引Taufik Ahmad而非新独立证据。下一步精确动作：(1) 通过ANRI LARISSA查询RA.48 No.70并索取扫描，核实SBKA原始会议纪要与文书签署；(2) 对照2015 ANRI铁路档案出版物检索SBKA所展示原件页；(3) 寻找PBKA与SBKA在1960—65年各自工会机关报/决议；(4) 向Ujung Pandang地方档案索取Reg 937和KEP-007/KOPKAM/2/1969；(5) 转查West Kalimantan及北苏门答腊地方军令与拘押簿。新文献不代表已读档案原件；其他G项未关闭。提交前基线以本次查询main为准；最终SHA须在提交后独立核实。GOAL ACTIVE / OPEN-ENDED。
