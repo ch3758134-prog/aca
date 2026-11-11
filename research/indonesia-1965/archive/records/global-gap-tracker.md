@@ -572,3 +572,10 @@ G6/G9（1996—97，东爪哇泗水与雅加达，PRD/PPBI/SMID/STN）：已直�
 - **英国1966援助：**Hansard的1967年政府答复给出需求清单和部分发运数据，ANRI item 274是尚未调阅的印尼原件目录。继续查British Overseas Development/FCO拨款与出口、提单、印尼港口和部门仓库、灾区分配凭证；记录“已发运/在途/到港/入库/分配”各阶段。
 - **英方外交并行议题：**7月4日记录把援助使用进度、英国财产赔偿与没收资产议题、结束Konfrontasi及飞机发动机出口许可分开谈及。继续读完整会谈记录和往来电报，确认捐赠款是否有任何正式条件；不要把飞机出口许可的明确条件移植到已被公开称为无条件的人道赠款。
 - **粮食援助的他国报告：**4月29日英国外交大臣称美国计划约600万美元粮援、澳大利亚提供约8万英镑洪灾粮援。需转查美国与澳大利亚政府记录及印尼海关/救灾机构，确认数量、合同、运输、到港及受益地。
+
+
+### 2026-11-11 G6/G9 与 G4 原始新闻交叉核验（ONGOING）
+
+G6/G9：直接打开 APSN 转存的《Surabaya Post》1997-02-25 英译删节稿（https://www.asia-pacific-solidarity.net/news/1997-02-25/subversion-case-continues-budiman-refuses-testify-surabaya-court.html）。同期报纸报道 Budiman Sudjatmiko 在泗水 Dita Indah Sari/Coen Husein Pontoh 案中拒绝作证，报道给出审判长 Amrin D. Boer、律师 Trimoelja D. Soerjadi 和 Wijono Subagjo 等姓名；**原印尼语报纸版面及法院庭审笔录未读，英文译文有删节**。另直接打开 AFP 1997-04-22 同期电讯的 TAPOL/APSN 删节转录（https://www.asia-pacific-solidarity.net/news/1997-04-22/prd-activists-get-six-and-four-years.html）：援引辩护律师称 Dita 一审六年、Coen 四年，并明确称 Sholeh 另案尚待宣判；与既有 Amnesty S583 同期机构报告可交叉核日期，但AFP所引律师并非独立法院原判。不得把三人的判决日期或刑期合并；需取得 Surabaya PN 1997-04-22 裁判、上诉及1997年报纸原版。
+
+G4 Aceh：复核既有 S127 Jess Melvin 2015 研究者直接接触军方档案后的公开全文（https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide），其所述 1941 是军方死亡地图中**公开杀戮**数字，约10000是作者按非公开处决推算的省级估计，**不是同口径独立统计**。仍未直接打开 Kodam-I 1965 年度报告、1965-10-11 West Aceh DPRD-GR 会议原件或 Sialang Buah 移交名单；故保持 B 级，不能升级原件。下一步以原文题名 `Risalah Singkat Sidang Istimewa DPRD-GR Daerah Tingkat II Atjeh Barat 11 October 1965`、`KODAM I Complete Yearly Report 1965` 定位 ANRI/Aceh 馆藏及图像；核查地图八县口径和被移交者姓名。G1/G2/G3/G5/G7/G8/G9/G10 仍 OPEN，不以这两条局部核验结案。
