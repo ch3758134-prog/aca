@@ -1,3 +1,14 @@
+
+## 2026-11-12｜G4/G5 东爪哇与巴厘；G6 1995政治犯名单纠错（ONGOING）
+
+直接打开美国驻泗水领事馆1965-12-21第203号电报OCR（次日收件）https://nsarchive.gwu.edu/media/15721/ocr ：匿名消息人声称军方每晚将10—15名被拘押者交给穆斯林团体处决。该数值是未经独立证实的线人陈述，不是已核死亡统计；电报作者的隐蔽暴力解释另属推论。相同电报第3—6段分别记载日本领事对巴厘华人商铺被烧的报告、华人社区人士的不同说法、12月17日媒体所载Jombang NU决议和12月16日泗水GMNI声明；不把多来源多主体写成统一行动。OCR末段损坏，未逐页核扫描。正式S832、C1470—1471、Q353、CV377。
+
+不同G项G6：直接打开国际特赦组织1995年11月修正名单三页PDF https://www.amnesty.org/en/wp-content/uploads/2024/05/ASA210551995ENGLISH.pdf 。组织明确承认7月名单包含此前已获释者，11月修订为14名“相信仍被关押”人员，地点含Cipinang、Padang、Kedong Pane、Tanjung Gusta、Kalisosok、Pamekasan、Gunung Sari。该名单不是政府监狱普查；逐人判决与释放需原件。正式S833、C1472、CV378。与既有S311的1995年11月14人名单须核是否同一PDF的不同镜像/编号；本次未发现正式登记中含ASA21/055/1995，但不能排除内容级重复，需审计。
+
+G1—G10仍OPEN：G1殖民工会与1948革命；G2基层SOBSI/BTI/Gerwani；G3跨机关逐时指令；G4省县镇压；G5性别族群幸存者；G6长期监禁与新组织；G7改革后劳工与追责；G8国际实际交付；G9人物地点组织关系；G10正式台账一致性与阅读正文。继续优先纠正地域不均衡。
+
+精准续接：①核第203号电报原始扫描及Surabaya/东爪哇拘押释放簿；②取1965-12-16/17印尼地方报纸、Jombang NU会议决议、GMNI声明原件；③查巴厘商户受损和华人社群记录；④逐人比较1995年7月与11月AI名单、S311及释放/赦免原件；⑤轮换Aceh军区附件、1920—49工会组织和1967—68南勿里达原件。未生成列表式HTML，成熟叙述尚需地方独立证据。
+
 ## 2026-11-11｜G4北苏门答腊地方机关与宗教动员：两份同期美领馆电报OCR直接核读；G7工会法权对照（ONGOING）
 
 **G4/G3/G5/G9｜Medan（原始同期外交记录OCR已读，A-限定）**：美国驻棉兰领事Blackburn于1965-06-07发第509号电报（1965-06-08收件；RG84 Entry P339 Box12 Folder8），原文OCR https://nsarchive.gwu.edu/media/15697/ocr ，原件馆藏 https://nsarchive.gwu.edu/document/15697-document-01-u-s-consulate-medan-telegram-509 。报告Darjatmo以PEPELRADA/DWIKORA军方权限推翻省长针对《Tjahaja》报出版许可的决定；其判断军方赢得与省长及PKI的首轮冲突，属于**Blackburn对地方权力竞争的当时解释**，不证明军方当时已下达10月杀戮命令。报纸许可、1965-06-06签署决定、Pantja Tunggal及National Front/Youth Front/PWI回应的地方原件仍缺。OCR相对可读，尚未逐页核影像。
