@@ -1444,3 +1444,12 @@ G6跨年代：直接打开1995-07-29《Jakarta Post》同期报道存档 https:/
 G8/G6交叉发现1967-12-01 Elliott Haynes投资接触日记馆藏及OCR入口 https://nsarchive.gwu.edu/document/15735-document-39-elliott-haynes-indonesian-diary 与 https://nsarchive.gwu.edu/media/15735/ocr 。馆藏说明称Haynes与印尼官员和跨国公司人士举行40余次会谈，涉及军方基层控制、外资投资条件及企业兴趣。**本次仅可靠读取馆藏目录/编者摘要，OCR未能可靠逐段提取**；不据此确认具体投资、税收优惠批准或实际交付。需逐页读扫描，核Haynes原话及会谈人、企业名、日期，再对照1967外资法、企业合同和地方实施；未分配正式S/C编号。
 
 G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06省长/军方两份相反行政决定；②核A-65扫描与Fox原笔记、Roti/Sawu死亡及教会名册，Flores单列；③逐页读Haynes 1967日记及1967外资法/企业合同；④轮换Aceh KODAM-I 1965附件与West Kalimantan 1967军区迁徙卷宗；⑤G1/G2追Semaun原刊、SOBSI/BTI/Gerwani基层记录并回到正式CSV/chronology补充非重复的新证据。此次仅更新续接状态，正式CSV、chronology、readable-history未改，不虚称已完成。此文件写入前HEAD须以GitHub实时值为准；最终提交SHA以写入返回及随后分支核验为准。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12｜西加里曼丹1967军政法权与地方驱逐（G4/G5/G8/G10）
+
+本次重新读取AGENTS、stage-access、goal-continuity、G1—G10完整性审计、正式四CSV、chronology、缺口总账与research-status。直接打开HRW 1997年全文 https://www.refworld.org/reference/countryrep/hrw/1997/en/23874 ，复用S385；打开松村智雄2015年J-STAGE摘要 https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/en ，复用S453（论文PDF未读）。前者对1967年约300死亡、55000以上华人流离失所为1997年回溯，后者关于Oevaang Oeray、军方和红碗动员是研究者摘要，均不是1967地方军令。
+
+不同机关原始法权链：打开BPK官方Keppres 107/1967登记 https://peraturan.bpk.go.id/Details/151284/keppres-no-107-tahun-1967 ，确认1967-07-26制定、07-31生效及解散KOTI和各地区执行当局的标题；PDF预览打开但未核逐条签署全文。正式新登记S836、C1475、Q355、CV381，并更新chronology、research-status及global-gap-tracker。**法令标题不能证明Kodam XII实际停止紧急权力，也不能证明军方命令了特定驱逐。**
+
+精准续接：①下载并逐页核Keppres 107/1967签署PDF及配套通令；②检索Kodam XII/Tanjungpura 1967-07—11 PGRS/PARAKU、PEPELRADA执行命令；③取RRI Pontianak当时广播、Oeray 1967-10宣言和难民/村镇名单；④逐页阅读松村智雄2015论文PDF及注释追地方原件；⑤切换G1 1920—49工会原刊、G2 Gerwani/BTI地方档案、G6 1970—98拘押与G7 1998后工会执行记录。G1—G10均OPEN，GOAL未完成。本条写入前main提交以GitHub实时HEAD为准，最终提交SHA须提交后独立核验；不可将基线SHA当最终SHA。
