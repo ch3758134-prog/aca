@@ -1338,3 +1338,16 @@ Cornell Kahin档案目录另列Box 81 Folder 7“Kadane interviews”和Box 95 F
 G4/G2/G8：直接阅读 https://nsarchive.gwu.edu/media/15705/ocr ，确认Palembang South Sumatra、据报约600人被拘、Stanvac约30/Shell 24/PUSRI 15工会相关人员被捕；各数字不可混加。Shell否认军方火灾破坏说，1000名工人厂外调动仅讨论未证实实施。G4另一地区：东爪哇印尼空军情报报告 https://nsarchive.gwu.edu/media/15706/ocr OCR严重损坏，不能作具体行动证据。G7：直接打开 https://jdih.kemnaker.go.id/peraturan/detail/32 官方法规登记，核2000-08-04第21号法、10人最低组会和第18条登记，但本次未读签署PDF或地方执行卷宗。
 
 **精确未完事项**：①逐项核正式S196/C1468—1469/Q352/CV376是否保留，并检查既有Q351/CV373—375悬空S832—S834引用；②索RG84 P339 Box14 Folder4原始扫描、Palembang军区拘押令、Stanvac/Shell/PUSRI及PERBUM/SOBSI人员登记、Pladju火灾记录；③获取东爪哇空军No.51/ch/Pr/i/65扫描及泗水183/194号电报原扫描、铁路记录；④获取2000年第21号法签署PDF与地方登记拒绝档案；⑤切换G1 Semaun/殖民工会、G6布鲁岛及G8对外援助交付的不同原件链。G1—G10全部OPEN，作者政治判断未代写。**本状态文件自身提交生成新HEAD，最终SHA以提交响应及GitHub main实时核验为准。**
+
+
+## ONGOING / GOAL仍进行｜2026-11-12｜南苏拉威西第1425号电报原文复核及跨G项原件依赖
+
+本次读取项目AGENTS、stage-access、goal-continuity、G1—G10完整性审计及正式四CSV和chronology的当前GitHub文件响应。大型CSV/chronology在返回中有截断告警，未对完整台账执行可靠去重；因此**没有新增S/C/Q/CV编号，没有修改正式时间线或阅读正文**。当前正式来源登记截至可见末尾S831；claim-ledger末尾C1469；search-log末尾Q352；coverage-matrix末尾CV376。前次Q351、CV373—375引用S832—834而正式source-register未显示对应记录，必须修复悬空引用，不得视为正式来源。
+
+**G4/G5/G8/G10 南苏拉威西：直接打开1965-11-12美国驻雅加达第1425号电报的公开OCR全文（同期外交原始记录的转写，A类记录文本但未核原始扫描）**：https://nsarchive.gwu.edu/media/15708/ocr ；馆藏目录 https://nsarchive.gwu.edu/document/15708-document-12-telegram-1425-american-embassy ，定位RG84 Entry P339 Jakarta Embassy Files Box14 Folder5。电报第7段记录一名抵达雅加达的苏拉威西新教领袖向使馆报告：11月10日望加锡华人商铺约90%遭袭、财物毁坏；军方据报阻止人群进入中华人民共和国领馆；同一消息人又声称Bone一处拘押营约200名PKI囚犯被杀。**这些是外交官记录的单一消息人说法，不是独立核实的商铺损失统计、死亡名册或军方行动命令**。尤其电报说骚乱“apparently carefully managed to exclude looting”，同时说商铺内容物被毁；不得把“抢劫/洗劫”直接作为已证实的行为类型。需核对印尼语地方报刊、华商组织损失表、领事保护文件、Bone拘押营名称/看守单位/死亡登记。另电报第4—6段涉及11月10日苏加诺讲话后军方与信息部围绕广播及新闻审查的权限争执，说明地方镇压与中央权力争夺同一时间发生，但不能直接据此推导望加锡行动指挥关系。
+
+**G4 Aceh独立链交叉复核**：直接打开Jess Melvin 2015年全文 https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide 。研究者展示Aceh军事死亡地图并称其档案记录10月1—5日部署、10月6日起公开杀戮、10月14日起集中地点杀戮。该文章是研究者对档案的解释与照片说明，**不是本次直接取得KODAM-I年度报告或地图扫描**；不能用此文与Melvin本人2017/2018著作构成三份独立证据。需要追索KODAM-I 1965年度报告、地图原页、10月11日西亚齐DPRD-GR会议纪要，并核日期差异。
+
+**精确续接动作**：①核第1425号电报扫描第7—8页与OCR，辨认消息人身份、具体时点及“raided/destroyed”措辞；②查1965-11-10至12月的Makassar当地报纸与Bone县军警/拘押营登记、华商协会与中国领事记录，寻找独立反证；③追Aceh KODAM-I 1965报告附件、西亚齐DPRD-GR 10月11日会议原件，分别验证指挥与地方执行；④正式source-register中查第1425号电报是否已有S编号，修复Q351/CV373—375悬空S832—834，再按现存最大ID登记新证据；⑤转G1 Semaun工会前史、G6布鲁岛政治犯、G7工会重建与G8外部介入原始档案，继续纠正地域/年代失衡。
+
+**状态：G1—G10 OPEN；GOAL ACTIVE / OPEN-ENDED。此文件更新前GitHub main的具体SHA未由本次fetch_file返回，提交产生的新SHA以写入响应及随后main独立核验为准，不预填。**
