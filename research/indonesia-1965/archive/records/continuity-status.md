@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-12｜Aceh军档案原件目录定位、Sulawesi同期外交报告（跨G4/G8/G10）
+
+本次直接读取 AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit G1—G10、长期缺口总账及正式CSV的可访问片段、chronology；未读取完整source-register和claim-ledger并完成去重，**不分配S/C/Q/CV新编号**。既有Q351/CV373—375与候选S832—834的引用一致性仍需优先校验。
+
+**G4 Aceh（B/C级，非本次军令原件）**：Jess Melvin 2017开放论文摘要 https://www.tandfonline.com/doi/abs/10.1080/14623528.2017.1393942 及2018专著出版说明 https://www.routledge.com/the-Army-and-the-Indonesian-Genocide-Mechanics-of-Mass-Murder/Melvin/p/book/9781138574694 明确研究依据是Banda Aceh原情报机关约3000页档案。此次检索到可访问书籍PDF https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf 的搜索节选，含具体原件线索：1965-10-11西亚齐DPRD-GR特别会议纪要；北亚齐县长T. Ramli Angkasah 1966年县议会报告（书中注脚出现“15 June 1965”与1966会议标题矛盾，须查原页）；Aceh Besar公务员涉G30S名单No.222/24。**此次未逐页核PDF和军令扫描，以上仅是书中引文/搜索节选，不得作为已取得地方军令。** 应追具体档案机构、馆藏号和签署页。
+
+**G4/G8 Sulawesi（A-限定：同期外交文书目录/编辑摘要，不是电报OCR）**：美国国家安全档案馆2017-10-17公开汇编 https://nsarchive.gwu.edu/briefing-book/indonesia/2017-10-17/indonesia-mass-murder-1965-us-embassy-files 列1965-11-12美国驻雅加达第1425号电报（RG84 Entry P339 Box14 Folder5）：使馆转述一位苏拉威西新教领袖所说11月10日Makassar华商店遭洗劫，以及Bone拘押营据报约200名PKI囚犯被杀。此处**是领袖向使馆的报告及馆方摘要，不是已核实死亡名册**，不能直接把“90%商店”或“200人”写成事实统计。下一步必须打开1425号原电报扫描/OCR、核报送者身份及Bone拘押地点、军方/地方机关和受害者名单。
+
+**G10治理与跨项轮换**：本次发现Aceh书中明确的地方议会文件线索与Sulawesi外交报告可互相补足地区研究，但**两者不证明同一指挥链**。正式CSV完整去重与悬空引用修复仍未完成；chronology、readable-history没有据低等级资料新增叙述。后续轮换G1 Semaun/ISDV原件、G2 SOBSI/BTI/Gerwani基层文件、G6布鲁岛与PRD、G7工会地方注册、G8外国实际交付证据。G1—G10全OPEN。
+
+**精确续接**：①取Melvin所引1965-10-11 West Aceh DPRD-GR会议纪要原件及北亚齐县长报告原页，核日期与签署人；②取1965-11-12第1425号电报原始OCR和影像，追Bone拘押营与Makassar商会地方记录；③完整读取正式CSV尾部并修复S832—834候选/正式引用冲突，检查已有Aceh/Sulawesi来源避免重复；④对照1965-12-22泗水203号电报原件与东爪哇地方军区命令；⑤继续1920—49工会前史及1970—2026组织链，成熟后再写中文连续正文。
+
 
 
 ## ONGOING / GOAL仍进行｜2026-11-12｜巨港原电报重核与跨区对照（自动续接）
