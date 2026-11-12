@@ -1433,3 +1433,14 @@ G6跨年代：直接打开1995-07-29《Jakarta Post》同期报道存档 https:/
 **G1—G10缺口仍全部OPEN**：G1殖民党团/工会原刊；G2基层工农妇女组织；G3跨机关指令；G4省县镇压；G5妇女族群幸存者；G6政治犯流亡与工人组织；G7改革后权利执行；G8外国具体交付；G9人物地点组织关系；G10台账和连续中文HTML。未建立旧式列表HTML。
 
 精准续接：①取得542A扫描并核Manokwari 1965-07-26军警/传教士/巴布亚人口述，查6月拘押名册；②查SBSI 1998登记证、PER-05/MEN/1998原件及工厂级工会登记；③对照Pakpahan和Dita Sari实际出狱记录与1998年8月政府宣称；④跨区继续Aceh KODAM-I原图、Flores 1967审查队、West Kalimantan 1967军令；⑤G1查Semaun/ISDV及1926荷印原刊，G2追SOBSI/BTI/Gerwani地方账本。当前提交前已见main最新提交为2a5671f28f551a293878d24d50a9a5ecfd3fc582；**本状态文件内不能预知自身提交后的最终SHA，以GitHub实时main为准**。GOAL永久OPEN。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12｜G4北苏门答腊与Roti/Sawu原件复核；G8 1967投资接触原件入口
+
+按G1—G10审计重新核对正式四CSV、chronology及既有记录。直接打开1965-06-07棉兰领事第509号电报OCR https://nsarchive.gwu.edu/media/15697/ocr ：Darjatmo在6月6日借PEPELRADA/DWIKORA权限推翻省长对《Tjahaja》报纸的禁令；电报作者判断军方在此轮地方行政争执中占优。这是**9月30日前省级行政权冲突**，不能据此单独证明10月后的杀戮命令。已存在S124/S378与C098/C663（同一电报的重复登记），本次不再新增来源。仍需省长禁令、Darjatmo原命令、报纸原版及军区授权文本。美国馆藏编者将其与10月后军事管制相联系，是后来的历史解释，不能视为电报原文直接证明。
+
+另直接打开1966-08-03美国使馆A-65的OCR https://nsarchive.gwu.edu/media/15729/ocr ：该文转述人类学者James Fox夫妇在Roti、Sawu、Timor等地的见闻与当地访谈。其所称1966年1—2月两人被处决、3月Roti约40—50人和Sawu约30人遭处决，及不含Flores的东努沙登加拉800—1000估算，均是Fox报告/估计而非军方死亡名册。电报明确将流传的Timor 30000死亡说法视为夸大；这是一项同期报告内部的反证，不可与800—1000加总。正式S143、C135/C815、Q055/Q267、CV056/CV307已有，故只复核、不新编。OCR损坏，下一步须对照扫描、Fox田野笔记、Roti/Sawu教会与军警登记；Flores另案处理。两条不同地区/年代证据链不能混同。
+
+G8/G6交叉发现1967-12-01 Elliott Haynes投资接触日记馆藏及OCR入口 https://nsarchive.gwu.edu/document/15735-document-39-elliott-haynes-indonesian-diary 与 https://nsarchive.gwu.edu/media/15735/ocr 。馆藏说明称Haynes与印尼官员和跨国公司人士举行40余次会谈，涉及军方基层控制、外资投资条件及企业兴趣。**本次仅可靠读取馆藏目录/编者摘要，OCR未能可靠逐段提取**；不据此确认具体投资、税收优惠批准或实际交付。需逐页读扫描，核Haynes原话及会谈人、企业名、日期，再对照1967外资法、企业合同和地方实施；未分配正式S/C编号。
+
+G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06省长/军方两份相反行政决定；②核A-65扫描与Fox原笔记、Roti/Sawu死亡及教会名册，Flores单列；③逐页读Haynes 1967日记及1967外资法/企业合同；④轮换Aceh KODAM-I 1965附件与West Kalimantan 1967军区迁徙卷宗；⑤G1/G2追Semaun原刊、SOBSI/BTI/Gerwani基层记录并回到正式CSV/chronology补充非重复的新证据。此次仅更新续接状态，正式CSV、chronology、readable-history未改，不虚称已完成。此文件写入前HEAD须以GitHub实时值为准；最终提交SHA以写入返回及随后分支核验为准。
