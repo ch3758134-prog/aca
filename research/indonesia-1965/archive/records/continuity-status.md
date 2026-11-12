@@ -1562,3 +1562,12 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 **下一动作，按证据价值轮换而非批次结束**：①查BAKORSTANAS 1990—2000审查实施规则与县级人事表、国企实际录用/拒绝和2000撤销后的复职记录；②查Bali 1965-12地方商会/警察火灾登记、Sutedja省长人员名单及12月16日日本领事报告；③查Pasuruan与Assembagus监狱出入簿和Jombang NU 1965-12-17决议原刊；④下一不同G项转G1 1920年代VSTP章程或G8 1965—67英美澳中苏实际交付记录；⑤继续Aceh/北苏门答腊/中东西爪哇/Flores/West Kalimantan/Sulawesi县级证据与1998—2026工会执行。原件、二手访谈、摘要必须分级；不替作者政治判断、不建旧式列表HTML。G1—G10及长期GOAL全部OPEN。
 
 **提交链与续接校验**：本条写入前的main HEAD=3473f3084930f6e08ed8be07bb53ec034cbaa46e；本条提交自身SHA须以写入返回值及随后独立main查询为准，不能在自身提交内容中预填未知SHA。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12｜棉兰军政控制与工会登记原令；精确接力
+
+本次已读AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09全文，四份正式CSV、chronology及global-gap-tracker。两条不同G链：G4北苏门答腊1965-12-06美国领事183A与184A电报OCR全文（既有S377/S426）；G7工会法执行，1998 ILO机构全文（既有S835），首次读2001劳动部长KEP.16/MEN/2001完整双语PDF（新增S839/C1480）。未将匿名穆罕默迪亚消息源等同正式宗教命令，未把2001法律程序等同工厂实际登记。正式新增Q360/CV387；chronology、research-status、global-gap-tracker均已更新。
+
+**本状态写入前最后成功提交 SHA**：80e708f7318ad93bff266e6238e99208f60d04d9。**本状态自身提交SHA由GitHub返回并须独立核main HEAD**；不能预写尚不存在的提交哈希。
+
+**当前具体缺口**：①检索1965年10—12月Mokoginta签署省军区命令及北苏门答腊Pantja Tunggal县级任命簿，和183A所述军方控制逐项对照；②找Medan Muhammadiyah/NU 1965年12月分会通告、讲道原稿和报刊，184A匿名消息不得升级为组织统一命令；③找Hansip武装登记、PWI报纸许可簿和具体村庄拘押/死亡记录，核军方行政措施是否执行；④取得2001—2005地方劳动厅工会登记簿、SBSI工厂分会证书、申请被拒和劳动争议裁决，核KEP.16/MEN/2001实际效果及后续修废；⑤轮换G1 1920年代VSTP章程、G2 Gerwani/BTI地方组织、G3广播命令、G4 Bali/Flores/West Kalimantan/Sulawesi、G6政治犯与流亡、G8外国交付档案和G9人物地名索引。所有G1—G10继续OPEN，不宣称穷尽，不建旧式列表HTML。
