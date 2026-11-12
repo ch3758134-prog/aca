@@ -1748,3 +1748,12 @@ G1殖民时期：直接打开Boven Digoel县政府历史网页 https://mail.bove
 ## 2026-11-12 19:00 UTC｜OPEN，下一接力位置
 
 已读G1—G10完整性审计、项目规则、四份正式CSV和chronology；正式并库S850、C1512—C1514、Q370、CV395，补入chronology，源于直接打开2015年帕卢地方政府与SKP-HAM联合核查PDF（https://www.skp-ham.org/wp-content/uploads/2015/06/Ringkasan-Eksekutif-Penelitian-dan-Verifikasi-Korban-Peristiwa-1965-1966-di-Kota-Palu-Rev-Ebook.pdf）。其768/514/485分类及392强制劳动、445强制报到不能被解释为全国死亡数；Kodim 1306原始7147人名单未取得。另查Flores/Maumere的Prior 2011两篇论文，仅见摘要，不能作原件。下次首先取得帕卢Kodim 1306名册与1969—70年711营及1975年拘押原令；核2013市长令25/23号矛盾；从Flores教会/军警材料验证Maumere；然后轮换G1 VSTP、G2 Gerwani/BTI、G8外部援助。最新提交SHA以本段之后最终GitHub main HEAD核验为准，不能提前猜测。GOAL永久OPEN。
+
+
+## 2026-11-12｜ONGOING / GOAL仍进行｜G5/G7帕卢官方恢复权利记录；G4 Flores异区反证
+
+**正式并库**：Komnas HAM 2015年度绩效报告原文PDF（2016网站文件）印刷页21—28已直接打开，新增S851、C1515、Q371、CV396；chronology与global-gap-tracker已更新。报告称帕卢法规已出台、217户受助，但并未附受助名单和支付凭证。2015年约1800份证明及1212名受助者为全国多类严重侵害案件统计，不得计为帕卢1965专项。与S850的514名核实受害者及485名陈述者分母不同。原件：https://www.komnasham.go.id/files/20160908-laporan-akuntabilitas-kinerja--%246OLDDK4.pdf 。
+
+**异区G4 Flores**：Prior 2011 Maumere论文两部分目前只见出版摘要；未取得全文或地方军警/教会/墓葬原件，800—2000估计仅作者摘要陈述。不可与Fox排除Flores的Roti/Sawu估计混算。
+
+**精准下一执行动作**：①检索并目视核帕卢Perwali签署件（S850写23/2013与25/2013冲突）；②索引帕卢217户援助的市政预算、发放和匿名化资格文件；③追Maumere教区1966年2—4月记录及Prior全文、原始访谈；④回到G4 Aceh军区10月11日会议原件与West Kalimantan 1967地方军令；⑤轮换G1 VSTP报刊、G2 SOBSI/BTI/Gerwani地方会员与G8援助交付，继续G9/G10索引去重。**G1—G10全OPEN，不宣称完成。**
