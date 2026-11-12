@@ -1674,3 +1674,9 @@ G4南苏拉威西：直接打开NSA馆藏对1965-11-12第1425号电报的文书�
 G1殖民时期：直接打开Boven Digoel县政府历史网页 https://mail.bovendigoelkab.go.id/halaman/sejarah ，其为**后来的地方政府历史叙述**，记载1927年建立政治流放营，不能代替1926年殖民行政会议记录。另打开Langgeng Sulistyo Budi 2017年研究文章的**摘要与书目信息** https://ejournal.undip.ac.id/index.php/jscl/article/view/15596/0 ：摘要称1927年设立Standaardschool，后来发展为Standaardschool met Nederlandsch，研究采用档案和访谈；未读论文PDF全文或其原始学校登记。研究问题由单纯流放人数深化为流放者家属、儿童教育与殖民行政如何形成长期社会关系；不能把摘要所述学校机制写成已独立核实的原始事实。与既有chronology关于1927年营地建设和首批流放者时间区别，暂不重写。
 
 **下一精准动作**：①获取1425号电报原始8页扫描，核第7页及发报日期、消息人层级；②Bone县军警/教会/监所和墓葬登记，核200人报告与营地身份；③取得Budi 2017全文及其注释中的ANRI学校档案号，追1927—1943学校名册、教师及流放家庭；④获取1926-11-18 Raad van Nederlandsch-Indië会议原始纪要并与1927-01营地建设记录比对；⑤轮换G2 Gerwani/BTI/SOBSI基层、G6 Buru政治犯、G7改革后工会、G8外交交付及G9/G10人物地点索引，继续中文连续历史正文。此次未完成正式CSV去重，不制造新编号；GOAL永久OPEN。此文件提交将生成新SHA，以GitHub响应及再次HEAD核对为准。
+
+## 2026-11-13｜G6/G7泗水1998年工会和学生行动，G4地区原件仍OPEN
+
+新直接核读原件：1998-05-21美国驻雅加达使馆002831号电报（转泗水领馆0097），完整两节OCR https://nsarchive.gwu.edu/media/16723/ocr ，馆藏 https://nsarchive.gwu.edu/document/16723-document-21-telegram-002841-us-embassy 。电报第4段称1998-05-19近1000名工人在泗水SPSI办事处外集会，由SPSI省主席领导，要求苏哈托辞职、结束腐败；另报Rungkut工业区鞋厂主要由女性组成的工人因欠薪扣留厂主约十小时，警察和平解救。第2—3段称Airlangga大学学生被Kostrad殴打、24人受伤3人重伤；领馆人员亲见的是事后军人集结，并非殴打本身。第5—11段涉及5月20日泗水、日惹、梭罗、望加锡、Palu、巴厘不同示威和安全部署。三类事件不可混成单一组织链；来源级别：同期外交电报原始OCR全文已读，尚未核原扫描，事件数字为报告而非地方独立名册。四份正式CSV查重：未见002831、Rungkut或馆藏16723，待安全并库S/C/Q/CV新编号；本次不得宣称已经正式登记。
+
+不同G项的高价值缺口：G4 Bone/望加锡1965年军警及监所原件、Aceh军区指挥链、Flores教会及死亡名册、West Kalimantan 1967地方军警和华人/达雅克记录仍缺；G1 Boven Digoel学校与VSTP原刊仍缺。下一精准动作：①核1998-05-19泗水SPSI省级会议/集会报道；②查Rungkut鞋厂名和工资记录及女工口述；③查UNAIR医院和Kostrad命令；④取得Bone监所、Aceh和Flores原件；⑤核正式CSV最大编号并将本电报并入台账与chronology、中文连续正文。GOAL永久OPEN。
