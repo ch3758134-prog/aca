@@ -9,6 +9,11 @@ G1—G10仍OPEN：G1殖民工会与1948革命；G2基层SOBSI/BTI/Gerwani；G3�
 
 精准续接：①核第203号电报原始扫描及Surabaya/东爪哇拘押释放簿；②取1965-12-16/17印尼地方报纸、Jombang NU会议决议、GMNI声明原件；③查巴厘商户受损和华人社群记录；④逐人比较1995年7月与11月AI名单、S311及释放/赦免原件；⑤轮换Aceh军区附件、1920—49工会组织和1967—68南勿里达原件。未生成列表式HTML，成熟叙述尚需地方独立证据。
 
+## 2026-11-12追加记录去重校正｜S832/S833等均非新证据
+
+最新main的Telegram 203及Amnesty 1995更新在已恢复的全量台账中已分别有canonical S449/C789-C790及S311/C664。S832/S833、C1470-C1472、CV377-CV378保留为别名，分别指向S449/S311、C789/C790/C664、CV293/CV192；Q353引用S449/S311。chronology此前已有中文正文。新增检索确实重新打开了材料，但未带来新的独立来源或新的已核地方史实。
+
+
 ## 2026-11-11｜G4北苏门答腊地方机关与宗教动员：两份同期美领馆电报OCR直接核读；G7工会法权对照（ONGOING）
 
 **G4/G3/G5/G9｜Medan（原始同期外交记录OCR已读，A-限定）**：美国驻棉兰领事Blackburn于1965-06-07发第509号电报（1965-06-08收件；RG84 Entry P339 Box12 Folder8），原文OCR https://nsarchive.gwu.edu/media/15697/ocr ，原件馆藏 https://nsarchive.gwu.edu/document/15697-document-01-u-s-consulate-medan-telegram-509 。报告Darjatmo以PEPELRADA/DWIKORA军方权限推翻省长针对《Tjahaja》报出版许可的决定；其判断军方赢得与省长及PKI的首轮冲突，属于**Blackburn对地方权力竞争的当时解释**，不证明军方当时已下达10月杀戮命令。报纸许可、1965-06-06签署决定、Pantja Tunggal及National Front/Youth Front/PWI回应的地方原件仍缺。OCR相对可读，尚未逐页核影像。
