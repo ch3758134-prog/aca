@@ -1216,3 +1216,12 @@ G1/G3/G5/G7/G8/G9/G10均OPEN：VSTP原刊、各省军令、Gerwani地方档案�
 **G6｜1978-05-09 FRUS d208**：重新直接打开官方编辑全文 https://history.state.gov/historicaldocuments/frus1977-80v22/d208 ，与S840/C1481去重；澳大利亚记者消息、Sudharmono原则同意、军方消息人全年分批计划三者不是实际出营记录。来源级别A（同期外交文书内容），实际释放人数及后续监视D。缺失：1978-08-17实际命令、Buru逐人出营名册、地区接收与旅行限制、澳大利亚记者原报道。
 
 **G1/G2/G4/G5/G7/G10轮换不关闭**：G4地理失衡仍以Aceh、北苏门答腊、东/中/西爪哇、巴厘、Flores、West Kalimantan、Sulawesi为优先；本次打开NSA 2017汇编 https://nsarchive.gwu.edu/briefing-book/indonesia/2017-10-17/indonesia-mass-murder-1965-us-embassy-files 仅作为目录与馆方解释，不能代替各地原件。G1 VSTP 1923原刊、G2 SOBSI/BTI/Gerwani工厂村级记录、G5幸存者、G7工厂登记、G10连续时间线/中文历史均未解决。正式S/C/CV不虚增；Q363记录本次复核。下一步优先从A-74原始签署件与印尼收件簿、Buru实际释放名册转入Aceh或Flores县级军政原件，并查1923 Preangerbode No.126。GOAL OPEN。
+
+
+## 2026-11-12｜G4/G8交叉复核及来源去重（ONGOING / GOAL仍进行）
+
+本次重新直接打开美国国务院FRUS 1964–1968卷XXVI第162号编者说明全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d162 ：该文是2000年编者汇集多份1965—66年电报与1970年Howland回顾，不是1966年2月25日A-527原电全文。编者引A-527称巴厘约80,000死者；又引Howland从军方人员得到的巴厘6,000估计（及爪哇50,000、北苏门答腊3,000）。Howland自称怀疑统计方法，故这些是来源和口径不同的估计，不能当作独立地方死亡登记，更不能取平均。待取得A-527扫描、Howland原文及巴厘县村警察/埋葬/人口材料。地区G4仍严重不平衡，Aceh、Flores、West Kalimantan、Sulawesi等必须轮换。
+
+另一G8链直接打开1965-12-16国务院777号电报全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d184 ，并复核1967-02-17 Humphrey–Green会谈原文 https://history.state.gov/historicaldocuments/frus1964-68v26/d229 。前者仅提出同日本/西德协调援助策略，编者脚注提及12月15日1780号电报已有大使接触；后者Green回顾1966年5月后紧急援助包抵达，但未提供货单/签收。已在正式台账分别为S455/C797与S452等，chronology亦有相应中文段落，故不新造S/C或重复改写时间线。两份美国文书是政策意图和事后自述，不构成同一批货物实际交付的相互独立凭证。应追第1780号原电、三国会议记录、1966年紧急援助采购/运输/收货记录。G1—G10全部OPEN；本次没有取得新增地方原始登记，未将检索摘要升级为已核实地方事实。
+
+下一次从①A-527原电和Howland原刊核死亡数字方法；②Medan 289与Mokoginta原令、北苏门答腊工会执行档案；③FRUS 1780原电及日德外交文件、援助签收；④1923《Preangerbode》原刊与VSTP会议簿；⑤Flores/West Kalimantan军警及教区原始记录继续。正式CSV截至S840/C1481/Q362/CV388，写入前仍须重新读取以核并发变化。
