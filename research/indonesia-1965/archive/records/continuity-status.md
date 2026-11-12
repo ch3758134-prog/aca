@@ -1794,3 +1794,16 @@ G1殖民时期：直接打开Boven Digoel县政府历史网页 https://mail.bove
 **跨G1—G10**：G1殖民VSTP报刊与Boven Digoel学校；G2 SOBSI/BTI/Gerwani基层；G3逐时军政广播；G4各省军令与死亡名册；G5幸存者/女性；G6政治犯与劳工重组；G7受助实际支付与当代组织；G8英美澳中苏行动/交付；G9地名人名关系；G10正式CSV与连续正文均保持OPEN。当前不将来源目录提升为法规全文，不把Prior既有论文重复登记。
 
 **续接Git SHA**：本次写入的实际commit SHA以GitHub返回及main HEAD复核为准；自身提交SHA无法预写在自身内容。
+
+
+## 2026-11-13｜GOAL OPEN｜G2组织文本载体与G4南苏拉威西异源核查接力
+
+已读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09 G1—G10、archive/records/正式四CSV、chronology及滚动缺口总账。research-status.md在所查路径不存在。正式S851/C1515/Q372/CV396为当前末号，勿用续查预编号。**本次已提交缺口总账**：81ffd126e861d15541693ba61fa6183099436ea1。
+
+G2：直接打开Gerwani 1961《Program Gerwani》及《Peraturan Dasar Gerwani》重排版编辑页面 https://kabe.drepram.com/works/program-gerwani 与 https://kabe.drepram.com/works/peraturan-dasar-gerwani ，但PDF超出网页工具大小限制，EPUB不支持；并打开1964 Umi Sardjono 31页中央领导委员会第三次全会报告目录 https://search.alexanderstreet.com/preview/work/bibliographic_entity%7Cbibliographic_details%7C3366026 。这三项都**未读正文**，1961纲领已有S459数字转录，不另建来源/事实编号。下次应合法取得1964原报告全文并逐页核其农妇、女农工和WIDF组织活动，另核1961原印本与S459文字差异；随后追地方Gerwani支部名册、经费、托育和土地改革实际记录。
+
+异地区G4：复核1965-11-12第1425号电报的Makassar/Bone报道来源依赖：S190、C208/C814已注册；印尼媒体对90%商铺、200名被拘押者的复述不构成独立证人。下次查1965-10-18南苏拉威西KEP.024/10/1965/PDD/1965签署令、Watampone监所出入簿、Makassar华人商户损失登记与教会日记，并核1970—77 Moncongloe转押名册（S140/C629）。优先跨地区轮换Aceh 10月11日会议原件、Flores Sikka 2月27日会议簿、West Kalimantan 1967军令。
+
+其他持续事项：G1 1923-05-09 Preangerbode原报及1927船运清单；G3跨机关逐时记录；G6 1995政治犯逐人判决与PRD；G7 1998后工会基层及Palu 217户支付；G8英美澳中苏具体交付；G9人物地点组织关系；G10正式CSV去重、chronology排序、成熟中文连续历史。**本次无新增独立事实原件，未改四CSV、chronology、HTML，不以搜索摘要伪装原件**。G1—G10及长期GOAL均OPEN。
+
+当前最后已知提交（状态写入前）81ffd126e861d15541693ba61fa6183099436ea1；本状态自身提交SHA需由GitHub返回并独立核验，不能预写入自己的内容。
