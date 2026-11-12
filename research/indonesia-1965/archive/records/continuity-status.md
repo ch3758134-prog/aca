@@ -1,4 +1,13 @@
 
+## ONGOING / GOAL仍进行｜2026-11-12 19:46 CST｜G1 VSTP 1923与G4巴厘1965—66跨域续查
+
+本次重读AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09 G1—G10，正式四CSV及现有状态；根目录chronology.md查询404，尚未定位实际路径，不能称已更新。正式CSV未修改，未分配新编号。G1直接打开Agung Purnama 2020年印尼语全文（B级），锁定1923-05-09 Preangerbode No.126和1923-06-08三宝垄驻扎官信；仅打开1923-05-05 Sin Po扫描的目录页（C级），未读28页正文。G4直接打开FRUS XXVI d162编者说明（A级仅针对编者文本），核其所引1966-02-25 A-527巴厘80,000估计与Howland 1970巴厘6,000估计口径冲突；未取得A-527及Howland原件，不能选一作为真实死亡数。详情见global-gap-tracker最新条目。
+
+**精准未完事项**：①取1923-05-09《Preangerbode》No.126《Semaoen Gearresteerd》扫描，逐页核捕人日期与VSTP公告；②取1923-06-08 Semarang Resident致总督原信及所附VSTP中央通报，核13,000/20,000口径；③取1966-02-25美国使馆A-527原扫描与1970 Howland《Studies in Intelligence》14卷13—28页，分离独立数据和重复转述；④以巴厘县/村军警与墓地记录交叉核查并轮换Aceh/West Kalimantan/Flores；⑤定位正式chronology实际路径并对CSV逐行去重，完成正式S/C/Q/CV登记与成熟中文正文衔接。G1—G10全部OPEN，不以本次提交结束研究。
+
+本次缺口总账提交SHA：8a8f9bf831d9414b6ee66c880d9d17f8e98a2930。当前状态文件提交SHA由GitHub提交返回值及后续main比较确认；文件不能预先写入自身尚未生成的提交SHA。
+
+
 ## ONGOING / GOAL仍进行｜2026-11-12｜G7劳工组织承认制度与G4东爪哇证据复核
 
 已按规定重读AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09（G1—G10）、正式source/claim/search/coverage四CSV和现有续接状态；chronology根目录路径不存在，仍需定位其实际路径，未假称已读。正式来源内容级核查确认ILO 1998 GB.272/5为S481、1999 GB.276/7/1为S488、泗水203号电报为S449；相关C828/C829/C1474已有记录，不重复来源/事实编号。已正式追加Q359、CV386。
