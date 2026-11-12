@@ -1535,3 +1535,12 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 **不同G项G1/G7/G8**：S190未解决G1 1920年代VSTP/PPKB原始会议与财务；G7 1998后SBSI工厂登记及反工会歧视执行；G8对美外交材料不能替代当地执行原件。可查ANRI公开finding aids https://www.anri.go.id/en/around-the-records-and-archives/archives ，但该网页是档案检索指南，不是任何具体军令原文。本次检索还打开NSA Indonesia Documentation Project目录 https://nsarchive.gwu.edu/project/indonesia-documentation-project ，其1998档案专题仅定位入口，尚未逐件读取，不能注册为原件核验。
 
 **本次归档限制**：重复内容未增加S/C/Q/CV；正式CSV、chronology、研究正文未变。应在下一次取到独立地区原件后登记原子主张、补按日期排列的chronology和成熟中文连续叙述。长期缺口总账本次尚待更新；G1—G10全部OPEN。下一步依次：①Bone/Watampone拘押及埋葬原件；②Makassar 1965-11-10商铺财损及警方卷宗；③RRI 1965-10-01/11-12交接与节目记录；④VSTP 1919—21原始会议记录；⑤1998 SBSI工厂级登记与争议裁决。提交前的continuity blob SHA=41fb7416a65a1c7c58d39b4b5deeaa050870c6c2；本次提交最终SHA应以GitHub返回及再次读取main核验。
+
+
+## ONGOING｜2026-11-12｜Bone/Watampone—Moncongloe跨年代核验与工会法状态冲突
+
+已读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit、正式四CSV、chronology、研究状态及长期缺口总账；正式表最后可见S838、C1478、Q357、CV384。直接打开Taufik Ahmad 2010全文 https://www.insideindonesia.org/editions/edition-998/survival-through-slavery （既有S729，相关C1245/C1246），检查Bone监狱、Watampone Arasoe糖厂工人、Kajolo合葬线索与1969—1979 Moncongloe强制劳动、转移和释放。此为研究者后出采访与整理，不能当原始死者/入营名册；2012 Komnas HAM S140、2024 Wijaya S679与Ahmad存在同源依赖，禁止统计重复。S190使馆电报中约200人是转述，不得与Ahmad引用的同一电报重复计算。
+
+不同G项G7/G10直接打开印尼劳工部官方第21/2000号工会法登记 https://jdih.kemnaker.go.id/peraturan/detail/32 ，核最低10人、书面通知登记及已登记工会代表权；正式S611已存在且之前读过官方PDF，故不新建来源。官方门户之间法律现行状态有差异（BKN称不再有效，Kemnaker/BPK称仍有效），必须查正式修法和司法裁决，不能按网站元数据裁定。完整细项已写入global-gap-tracker。
+
+**本次归档**：缺口总账已提交，提交SHA 23d1e6e893f773079a7af46bd2377ebb05882077；正式CSV/chronology/中文阅读正文没有新增，原因是新打开的历史来源S729及主张C1245/C1246均已存在，不能复制成新事实。下一次优先①Arasoe糖厂工人/Watampone监狱及Kajolo墓地名册，核Bone死者与日期；②1969 Moncongloe营原始入所、1977 SPRIN/802/TPD/XII/1977和1979 Nanga-Nanga转运原令；③2026法律修改原件、工会登记及工厂争议裁决；④换G1 VSTP原章程、G2 Gerwani/BTI地方机构、G3广播命令、G4 Aceh/Java/Bali/Flores/West Kalimantan及G8英美澳中苏交付链；⑤待有真正独立新增证据时再更新正式CSV、chronology和连续中文历史。G1—G10全部OPEN，长期GOAL未完成。此状态文件提交SHA须以GitHub写入返回及main再次核验为准。
