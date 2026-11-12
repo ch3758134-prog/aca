@@ -1249,3 +1249,12 @@ G1/G3/G5/G7/G8/G9/G10均OPEN：VSTP原刊、各省军令、Gerwani地方档案�
 **G8｜1966紧急援助与1967 civic action未交付是不同项目**：直接打开FRUS XXVI d229 1967-02-17 Green–Humphrey会谈全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d229 ，§25—26为Green建议约600万美元及200万美元备件、§38—40明确截至会谈日*civic action*物资尚未交付、待五角大楼评估；§48—49另称1966年5月后应印尼要求的*emergency package*已按时送达。**两项不矛盾，不能把未交付的civic action项目写成已交付，也不能用Green口述代替1966紧急包签收**。该文书此前正式S452已登记，本次不重复S/C。行动：按1966年紧急包与1967 civic action两条项目分别查AID/国防部采购、提单、装船/签收、印尼接收、Pentagon assessment及Humphrey 1967-03-09转呈件；阻碍：交付链原件未得。
 
 **跨G项续接**：G1取1923-05-09 Preangerbode原刊；G2取SOBSI/BTI/Gerwani基层会议簿；G3核跨机关命令；G5查受害者与女性证词；G6政治犯释放名册；G7工厂登记；G9人物/地点/组织同名消歧；G10核正式CSV与中文连续正文。以上均OPEN；本次复核不新造事实编号，先核正式台账去重。来源等级：FRUS编者说明B（编者原文已开，对原电为转引），NSA馆藏说明C，FRUS d229 A（官方编辑会谈原文已开，仅能直接证明会谈内容）。
+
+
+### 2026-11-12｜G4 Bone/Makassar 与 G1 Boven Digoel 教育机制（仍OPEN）
+
+**G4：1965-11-10望加锡／Bone**。来源级别C：NSA对第1425号外交电报的馆藏说明已打开 https://nsarchive.gwu.edu/document/15708-document-12-telegram-1425-american-embassy ，不是本次重读8页原始扫描；电报所载一位新教消息人的报告包括望加锡华人商铺被袭和Bone据称200名被拘押PKI人员被杀。地区南苏拉威西；组织：军方、地方宗教人士、被拘押PKI成员、华人商户；具体实施主体、地点和数字待核。缺失原件：1425扫描、Bone监所名册/军警命令/墓葬记录、望加锡商会与警局登记。行动：按RG84 Box14 Folder5调原件，向地方档案/教会档案查同日证言；阻碍：单一转述、无逐人名册。既存S190/C208/C814，禁止重复注册。
+
+**G1：1926—1943殖民流放营及儿童教育**。来源级别B/C：Boven Digoel县政府历史叙述全文已打开 https://mail.bovendigoelkab.go.id/halaman/sejarah ；Budi 2017论文 https://ejournal.undip.ac.id/index.php/jscl/article/view/15596/0 **仅摘要/书目信息已读**，摘要称1927年设Standaardschool，后发展为荷语教学形式。地区南巴布亚，涉及来自爪哇、苏门答腊的流放者及其家庭；组织：殖民行政、流放营学校、家庭。缺失原件：1926-11-18殖民议会会议记录、1927年学校设立令、1927—1943学生/教师/家属名册和论文全文注释。行动：先读Budi全文并沿注释索取ANRI档案；阻碍：当前只有后来叙述与摘要，不能证明学校实际招生规模或教学过程。正式来源与事实编号须再做全文去重。
+
+**其他G项仍OPEN**：G2组织基层、G3跨机关时间、G5幸存者、G6政治犯与新组织、G7工会执行、G8外国介入交付、G9人物地点关系、G10正式数据与连续中文正文。研究状态详细续接见continuity-status；不将缺口数量当完成比例。
