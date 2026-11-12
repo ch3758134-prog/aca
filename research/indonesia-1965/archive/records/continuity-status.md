@@ -1410,3 +1410,14 @@ G1—G10仍OPEN。最优先的后续工作是取得地方原始拘押/释放记�
 **不同G项G6｜1995年政治犯在押名单修订**：直接打开国际特赦组织官方1995-07-30出版记录 https://www.amnesty.org/en/documents/ASA21/036/1995/en/ 与1995-11-01修订出版记录 https://www.amnesty.org/en/documents/asa21/055/1995/en/ ，另核1995-11月三页原PDF https://www.amnesty.org/en/wp-content/uploads/2024/05/ASA210551995ENGLISH.pdf 。7月出版页称约27名1965年相关人员据认为仍在押，11月修订明确称7月名单误含此前已获释者。两者属于不同时间点的组织估计与更正，不能以人数差直接推断释放量，也不能等同全国政治犯总数。另打开国际特赦组织1995-01-25关于SBSI领导Muchtar Pakpahan及Amosi Telaumbanua的出版页 https://www.amnesty.org/zh-hans/documents/asa21/008/1995/en/ ，页面载棉兰高院1995-01-16加重两人刑期；此为1990年代新工会镇压的独立组织链，不属于1965案在押人员名单，需核判决全文及后续上诉结果。该页只读出版说明，未核原PDF。
 
 **G1—G10继续OPEN**，本次未取得地方拘押名册、军方冻结签署件、企业雇佣名册或1995年逐人司法卷宗，不能将外交/倡议机构报告升级为已独立核实的执行事实。下一步：①对1168 PDF逐页核OCR，并查10月21日工会代表要求书；②核现有S/C台账是否已登记1168和1995 SBSI报告，去重后补正式命题与chronology；③追Sutomo劳动部10—12月冻结令与泗水国企招聘原件；④跨地区查Aceh/West Kalimantan/Flores原始军政档案；⑤继续G1殖民工会及G6 SBSI判决/政治犯释放逐人卷宗。下一执行仍需优先将证据并入正式台账、时间线、总账及成熟中文正文。当前文件写入前HEAD须另核，最终SHA以提交返回和GitHub核验为准。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12｜G4亚齐地方原件定位与G6政治犯释放交叉核验
+
+本次读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09（G1—G10全部未闭合）、正式source-register/claim-ledger/search-log/coverage-matrix表头和首行、chronology及research-status。正式CSV未全量去重，本条不分配S/C/Q/CV编号，不把发现线索冒充正式并库。
+
+G4/G5亚齐：直接打开Jess Melvin 2013年开放全文（研究者引用原件，B级）https://journals.sagepub.com/doi/full/10.1177/186810341303200304 。其引用1965-10-18 Langsa Baperki领导层声明（记载10-11与Kodim-0104指挥官Iljas Mahmud会面），并明确指出声明所援引的苏加诺“消灭PKI”广播并未发生。此项否定来自研究者对广播记录的判断，声明原件仍未直接核验。另定位Melvin著作中西Aceh 1965-10-11 DPRD-GR特别会议纪要的确切印尼文标题：Risalah Singkat, Sidang Istimewa, Rapat terbuka, Dewan Perwakilan Rakjat Daerah Gotong Rojong Daerah Tingkat II Atjeh Barat；研究著作书页引用而非会议原件，尚须索取Meulaboh会议原件、1965-10-08 Front Nasional宣言及军方在会人员名单。https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf 。
+
+G6跨年代：直接打开1995-07-29《Jakarta Post》同期报道存档 https://jawawa.id/newsitem/clemency-granted-to-political-prisoners-1447893297 ，报道称政府7月28日宣布苏哈托给予Soebandrio、Omar Dhani、Raden Soegeng Soetarto减刑，计划8月15日获释。**这证明宣布和计划，尚不证明实际出狱**。另打开国际特赦组织1995-11-01修订报告官方页面 https://www.amnesty.org/en/documents/asa21/055/1995/en/ ，组织确认7月名单混入此前已获释者。两者日期、名单统计口径及事件性质不同，不可将7月28日赦免宣布当作11月名单变化的唯一解释。须取三份总统减刑决定及1995-08-15实际释放的独立报道/监狱记录，逐名与AI 7月及11月名单对照。
+
+跨G1/G2/G3/G7/G8/G9/G10缺口保持OPEN，下一次在继续上述两链外轮换：①1926—49工会与Semaun原版报刊；②SOBSI行业冻结的1965年部令；③West Kalimantan 1967军区与迁徙记录；④1998后SBSI/Partai Buruh基层档案；⑤英美澳中苏实际援助交付文件。此条为证据核验和接力状态，**正式CSV、chronology、中文连续正文尚未在本次写入**；不得声称它们已更新。最新提交SHA以本次GitHub写入返回值及随后main核验为准。
