@@ -1590,3 +1590,10 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 **已成功提交且本状态写入前最新SHA**：9bfd20d25a51d4d6ef657c7a535c7bb9cbab83be（前一提交Q361：5a6d76201cb919bef4d0a1915b7a0100970fb1ad）。本状态文件自身提交SHA必须以GitHub写入返回值及随后main查询为准，不能在同一提交内预写自己的SHA。
 
 **精确续接动作**：①取得1965-12-21 A-408与1966-02-25 A-527可辨原始扫描，逐页核巴厘估计的消息来源、时间范围和地理分母；②查Kudus/Pati Baperki 200余人原名单、20人审查表、RPKAD接收记录及个人后果；③取1998 PER-05/MEN/1998签署全文、SBSI正式登记证与东爪哇/北苏门答腊工厂分会原始登记；④跨G1/G2回到VSTP/PPKB原始大会簿与Gerwani/BTI地方支部；⑤跨G6/G8查布鲁岛拘押转运及英美澳中苏实际交付原件。G1—G10全部OPEN，长期GOAL未完成；不替作者政治判断。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12｜巴厘数字与美方援助链跨G项复核
+
+已读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit及正式source-register/claim-ledger/search-log/coverage-matrix开头和全表去重匹配，archive/records/chronology.md、research-status、global-gap-tracker。根目录chronology.md不存在，正确路径是archive/records/chronology.md。G4巴厘：直接重开FRUS d162编者说明全文；A-527/Howland原文尚未打开，80,000/6,000只是不同来源的估计，现有S400/C708/C786。不同G8：直接打开FRUS d187/d215/d226/d229，比较条件性军事援助建议、政策报告、拟议1968财年MAP、Green对既往紧急包和未交付公民行动物资的叙述；现有S156/S457（重复原件）、S492、S535、S452/S538（重复原件）、C793/C923。各文书不能证明具体货物到港、接收、使用或死亡数字真实性。以上详细来源等级/地区/时间/组织/缺件/行动/阻碍已入global-gap-tracker；没有重复造正式编号，chronology与中文阅读正文未变，因为本次所核内容已经在正式台账存在。G1—G10全部OPEN，未完成。
+
+**续接精准动作**：①NARA RG59 POL23-9 INDON 1966-02-25 A-527可读扫描与原电附件；②CIA *Studies in Intelligence* Fall 1970 Vol14 pp13-28 Howland原文，逐项比较军方消息人与巴厘县级死亡簿；③1966紧急援助包的采购/装船/印尼收件簿，与1966-11-01 MAP提案及1967公民行动计划分开；④轮换G1 1923-05-09 *Preangerbode* No126及三宝垄驻扎官1923-06-08信；⑤轮换G4 Aceh/West Kalimantan县级命令及G2 Gerwani/BTI地方档案、G7工厂工会登记。前一已成功提交SHA=f82bc8a4179b286c7159e8039f2acbf50e5ab6d4；本状态提交自身SHA以写入返回值和独立main校验为准，不预填未知SHA。
