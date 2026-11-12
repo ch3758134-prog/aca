@@ -1487,3 +1487,16 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 **跨G项G7/G10｜2012年人权追责与档案开放。**直接打开国际特赦组织2012-07-27官方文件入口 https://www.amnesty.org/zh-hant/documents/asa21/028/2012/en/ ，可核其日期、标题、印尼语版本和PDF下载入口，但**本次没有读取PDF内容**；打开Komnas HAM官方2012年年报数据页 https://dataham.komnasham.go.id/home/data_detail/11b9842e0a271ff252c1303903e7132cd68 遭403，页面检索结果提示PDF需要登录，故只可记目录/访问障碍，不能声称核读年报。2012-07-24同期报道 https://www.thejakartapost.com/news/2012/07/24/1965-purge-a-gross-violation-human-rights 记载Komnas HAM宣布1965—66镇压为严重侵害人权；此为记者对机构发布会的报道，不等于已取得840页调查原件或检察机关采取行动的证据。2012-05-09报道 https://www.thejakartapost.com/news/2012/05/09/evidence-systematic-killings-1965 则是正式结论前的调查进展，不能把当时采访数字与最终报告样本直接相加。
 
 **精确续接与障碍**：①先以source-register和claim-ledger全文检索Melvin 2015文章/1941人图及ASA21/028/2012，去重后仅登记新命题和证据层级；②取Aceh军方1941人地图高清原图、图例、各县分布及同卷签署日期，并取得10月1/4/14各份军令扫描和收发登记；③取2012 Komnas HAM原版调查报告、正式声明及Amnesty 2012-07-27 PDF，对照调查阶段、证人数与受害者数口径；④切换G2 Gerwani/BTI基层账簿和G6 Buru/PRD原件、G7 1998后工厂级组织，避免地区单线固化；⑤完成正式CSV去重和chronology按日期整理，成熟后再改briefs/readable-history中文连续正文。本次没有修改CSV、chronology、readable-history或缺口总账，**这些工作未完成**。提交前实时HEAD未在文本内预写；本次提交返回SHA及GitHub main比较另行核实。GOAL仍OPEN。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12｜G5/G6女性幸存者原始调查报告与G2/G4巨港炼厂电报（跨项实核）
+
+按2026-11-09 completeness-audit G1—G10重新核对，先读AGENTS、stage-access、goal-continuity、长期缺口总账和四正式CSV开头；大型CSV未全量内容级去重，**不冒充已登记新S/C/Q/CV**。chronology实际路径尚待通过仓库树定位；本次没有更新它或readable-history，避免假称完成。
+
+**G5/G6/G2（印尼官方机构2007年原报告PDF直接打开，234页，机构调查原件A级但证言内容仍需逐案复核）**：Komnas Perempuan《Kejahatan Terhadap Kemanusiaan Berbasis Jender: Mendengarkan Suara Perempuan Korban Peristiwa 1965》2007原版，机构发布页 https://komnasperempuan.go.id/laporan-pemantauan-ham-detail/laporan-pemantauan-ham-perempuan-kejahatan-terhadap-kemanusiaan-berbasis-jender-mendengarkan-suara-perempuan-korban-peristiwa-1965 ，发布页“download”可直接取得234页PDF。PDF印刷页7/网页PDF第7页说明调查分析122份女性证言，并与Syarikat Indonesia、Lingkar Tutur Perempuan材料交叉验证；**122是证言数量，不是死亡人数或总体样本**。第8页记载Gerwani原为Gerwis，涉及扫盲、村级幼儿园和土地改革；其中“超过170万会员”是组织声称，非逐人核会员名册。第9—11页区分拘押、酷刑、强奸等不同侵害次数，表中数字为证言提及的侵害/行为者组合，**不能直接相加为独立受害者人数**。第6页目录明确附件含1981年内政部32号指示、1990年总统16号特别审查、2000年总统39号撤销、1969年KEP-009/KOPKAM/2/1969布鲁岛B类被拘者安置决定；这些附件已随原报告PDF开放，下一次应逐页核其签署和执行，不要仅依目录认定条文。该报告将1965性别化暴力与1981—2000的身份证、就业、家庭和公民权后果连接，属于独立高价值原件链。与已有Komnas 2012材料及其他镜像先核同源再正式并库。
+
+**不同G项G2/G4/G8（同期外交电报OCR原件转录直接打开，尚未逐页核扫描）**：1965-11-01美国驻雅加达第1290号电报 https://nsarchive.gwu.edu/media/15705/ocr ，报告10月28—29劳动专员到南苏门答腊Palembang炼厂访问，军方据报拘押Stanvac约30名印尼雇员（含PERBUM领导）、Shell Pladju及Prabumulih约24名PERBUM成员、PUSRI化肥厂15名SOBSI领导；约600名所谓共产党人被拘为另一未经核实名义统计，不与上述数字相加。电报第4页称将至少1000/3500名Stanvac炼厂员工转到厂外工程只是考虑方案；第5页Shell经理明确否认军方将火灾认定为蓄意破坏的说法，构成同期反证。与10月23日1168电报的工会活动冻结不能拼为同一全国签署令。该文既有记录，本次不重复新增来源ID。
+
+**G1—G10均保持OPEN。精准续接**：①逐页核Komnas 2007报告附件1981年第32号、1990年第16号、2000年第39号及1969年KEP-009/KOPKAM/2/1969，区分原令、撤销与地方执行；②按PDF第7—12页抽取女性证言地区/组织/拘押设施，核122证言与表格事件数定义；③在正式source-register全量搜索报告标题/ISBN 978-979-26-7542-9及第1290号电报URL后决定是否新增原子主张；④查Palembang Stanvac/Shell/PUSRI 1965年10—12月PERBUM/SOBSI工会名册与军方拘押登记，及Shell火灾调查原件；⑤轮换Flores 1966 Maumere教会档案、Aceh 1965军区文书、West Kalimantan 1967地方迁徙名册、G1 1920年代VSTP原章程、G7改革后工会登记。**本条只是已核证据与精准接力状态，正式CSV/chronology/HTML未改。**
+
+本条写入前已知continuity blob SHA=8c95f11e8fe705200b2daaea104b16411a69721a；GitHub提交SHA必须以更新返回与随后main核验为准，不能预填自身提交SHA。
