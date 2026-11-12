@@ -1,3 +1,15 @@
+## GOAL OPEN｜2026-11-12｜G4 Aceh异源性与G7法律延续交叉核验
+
+**本次读取**：AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09 G1—G10、正式四CSV、chronology、滚动总账与续接状态。research-status.md在archive/records/路径404。既有正式S612（Melvin 2013）、S325（MK 011-017/2003）、S611（UU21/2000）、S459（Gerwani纲领）已去重，不新造编号。
+
+**G4 Aceh/Langsa（1965-10-11/18，地方暴力与组织）**：实际打开Jess Melvin《Why Not Genocide?》开放HTML https://journals.sagepub.com/doi/full/10.1177/186810341303200304 ，重新核对其转引1965-10-18《Pernjataan》：记述Langsa Baperki领导人称10月11日在Kodim-0104食堂接受Iljas Mahmud少校说明；文件引述所谓苏加诺“铲除”广播，但Melvin明确指出该广播并未发生。**访问等级为研究论文全文+其中原件节录，非1965原声明扫描、军区会议簿或广播原始录音**。原声明及广播档案缺失；不得将威胁下的组织声明视为自愿认罪，不得将伪广播归为苏加诺真实命令。原文与既有S612同源，不升级为独立佐证。下一步索Pernjataan 1965原扫描、Kodim-0104记录、当地Baperki原声明及RRI 1965-10-11广播清单，并与Aceh其他县分开统计。
+
+**G7（不同年代/对象，2000工会法与2004前政治犯选举资格）**：打开印尼最高法院JDIH对2000年8月4日第21号工会法的官方登记 https://jdih.mahkamahagung.go.id/index.php/legal-product/uu-nomor-21-tahun-2000/detail ，并核对BPK官方PDF全文入口 https://peraturan.bpk.go.id/Download/33380/UU%20Nomor%2021%20Tahun%202000.pdf 。此法律已有S611全文登记，故此次不重复S/C。另检索并核官方宪法法院011-017/PUU-I/2003判决原件入口 https://www.mkri.id/public/content/persidangan/putusan/Putusan0172003tgl240204.pdf ，已登记S325；不能将司法宣告直接等同于所有地区候选人获得登记，也不能把工会合法化等同于PKI恢复合法。新线索：非官方法规整合站称UU21/2000经2026年第1号法律修订，但本次**未核2026原始修正法**，只列待查，不更改既有法规现行效力断言。下一步读取2026原法并逐条核对第21/2000号法的变更，获取省县工会登记簿、工厂支部名单及2004选举地方执行记录。
+
+**G2组织原件另行复核**：Alexander Street 1964 Umi Sardjono 31页Gerwani报告 https://search.alexanderstreet.com/preview/work/bibliographic_entity%7Cbibliographic_details%7C3366026 仍仅为目录；本次打开目录，不得称已读报告正文。与1961纲领S459分开，后续合法取得全文并追农妇基层执行证据。
+
+**覆盖与阻碍**：G1荷文原报/流放运输；G2 SOBSI/BTI/Gerwani/Pemuda Rakyat/LEKRA基层；G3跨机关逐时；G4 Aceh、北苏门答腊、爪哇、Bali、Flores、West Kalimantan、Sulawesi各县军令与名册；G5性别/族群/幸存者；G6政治犯/流亡/学生与劳工；G7实际登记与执行；G8英美澳中苏提议-批准-交付-效果；G9关系地名；G10正式CSV与中文连续正文均OPEN。本次新发现主要是已登记材料的来源依赖复核及2026修法候选，**未取得新的独立原件**，因此不制造事实编号或强行改chronology/HTML。研究长期OPEN。
+
 ## ONGOING｜2026-11-12｜G2/G3北苏门答腊军政与报刊权限的前后对读；G4区域暴力核验边界
 
 **本次直接阅读的同期原件**：1965-06-07美国驻棉兰领馆509号电报原PDF文本 https://nsarchive.gwu.edu/sites/default/files/documents/4107011/Document-01-U-S-Consulate-in-Medan-Telegram-509.pdf ，可辨第23—27行记述Darjatmo在6月6日援用PEPELADA/DWIKORA权限撤销省长对《Tjahaja》的出版限制，并称省长此前以未获地方批准为由禁止发行；作者将此判断为军方与省长、PKI影响的National Front/Youth Front/PWI之间争权。**原PDF文本已读，不等于逐页图像核验，也不等于印尼地方原令已读**。此件已有S124/S378、C098/C663及Q234，未重复建号。
