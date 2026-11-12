@@ -1231,3 +1231,12 @@ G1/G3/G5/G7/G8/G9/G10均OPEN：VSTP原刊、各省军令、Gerwani地方档案�
 - **G4/G5，东努沙登加拉Roti/Sawu，1966年**：已直接打开美国使馆1966-08-03 A-65同期外交文书OCR（A-仅对外交记录，OCR字迹严重破损），https://nsarchive.gwu.edu/media/15729/ocr ，馆藏 https://nsarchive.gwu.edu/document/15729-document-33-telegram-65-american-embassy ，RG84 Entry P339 Box27 Folder14。美国人类学家James Fox夫妇向使馆回忆：1966年1—2月军队赴Roti，3月中旬再度行动，报告Roti约40—50人及邻近Sawu约30人遇害；另有6月处决的报告。Fox对东努沙登加拉800—1000人的估计来自地区走访及谈话，不是逐人死亡登记。OCR还显示当地流传3万人被杀的传闻，Fox明确认为该数字荒谬。**不可把传闻、个人估算、Roti/Sawu局部数字相加**。待取扫描逐页校正人名（Sukirno）、日期及其他段落，追Roti/Sawu教会、地方军警、墓地、亲属及拘押名册；不能把Roti/Sawu直接等同Flores。
 - **G7/G8，1998—2005年劳工改革与国际合作**：直接打开ILO/印尼劳动部2005年双语法律汇编全文 https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40asia/%40ro-bangkok/%40ilo-jakarta/documents/publication/wcms_120126.pdf ，前言ix—x页明确把1998年5月27日工会登记规则、1998年8月ILO直接接触团、1998年12月意向书、2000年工会法、2003年劳动法、2004年争议解决法与2005年延期分开。前言称当时已有80多个登记工会联合会，**仅为2004—05年出版方统计陈述，不是已核地方登记名单**。还明确ILO/USA Declaration Project由美国劳工部支持、第一阶段2001—03，第二阶段2003—04；这属于公开制度技术援助，不能混同1965年秘密援助。后续取项目合同、资金/实施报告、各地工会登记和争议裁决。
 - **证据级别及去重**：两份原文已实际打开；尚未对正式CSV全文完成去重，不新编S/C号，不把档案馆目录的解说当作原始电报原句。G1—G10保持OPEN。
+
+
+## 2026-11-12｜G1铁路工会前史与G4西伊里安地区暴力：交叉复核（ONGOING）
+
+**G1｜1923年VSTP**：打开Agung Purnama 2020年印尼语历史文章全文 https://jabar.nu.or.id/sejarah/kaum-buruh-riwajatmoe-doeloe-pemogokan-bagian-2-iCCju ；与印尼铁路爱好者协会IRPS转引Tirto的文章 https://irps.or.id/2021/11/mei-1923-aksi-mogok-buruh-kereta-api-yang-bikin-sewot-pemerintah/ 交叉定位。两者均称1923-05-08 Semaoen被捕、05-09 VSTP罢工，但都不是当日殖民政府或工会原始档案。Purnama转引1923-05-09《Preangerbode》No.126短段，IRPS另给1923-02-19工会会议、05-06 Semarang会议及《Darmo Kondo》1923-05-09、08-15、08-22报纸的原件线索。**原报纸及会议簿未打开，不能把引用或会员数/罢工人数当成已独立核实的原始统计**。下一步检索Delpher《Preangerbode》1923-05-09与《Darmo Kondo》原刊、1923-06-08 Semarang Resident公函及VSTP会员/工资簿；各刊可能重复同一通讯稿，需核来源依赖。
+
+**G4/G5｜西伊里安Manokwari，1965年7月**：重新直接打开美国国务院1965-09-15 Telegram 542A的原始OCR https://nsarchive.gwu.edu/media/15699/ocr ，逐段确认§4的六月公务员拘押与§5的7月26日袭击及随后军队枪击平民的报告。正式S834/C1473、Q354、CV379已有相同来源及主张，**不新造S/C**。电报中核心证言来自未具名荷兰新教传教士，经美国外交人员记录；不能把“枪击路人”描述升级为逐名核实的死亡统计，更不能并入1965年10月以后反PKI杀戮同一事件链。须取得Manokwari军警当日报告、传教士日记/教会档案、巴布亚本地证词、拘押及死亡登记。此项扩展用于校正全国地区覆盖，并非声称西巴布亚事件属于PKI组织镇压。
+
+**治理与未闭合**：核对正式CSV，S834/C1473/Q354/CV379已存在；本次发现的是更具体的VSTP原刊检索路径及跨地区比较，而不是独立新死亡数字。G1—G10均OPEN。来源级别：美国电报OCR为A（仅对文书内容），其事件指控仍待地方独立核验；两篇2020/2021历史文章为B/C（打开文章全文，但原刊仅被引用）；Delpher官方馆藏说明为C（只确认检索入口）。
