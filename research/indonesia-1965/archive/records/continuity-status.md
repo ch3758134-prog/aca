@@ -1522,3 +1522,16 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 本次续接状态写入前最新已核实内容提交：0130c054d3eabdf125f3d6a059752f41e9738229。**本状态文件自身的提交SHA由GitHub本次更新返回；实时main HEAD必须再次读取，不能在本提交正文中预知自身SHA。**
 
 下次直接执行：①SVD Ende查询Kramer 2005原稿59—60页及匿名《Menjaring Angin》原稿；②Wailebe/Adonara 1965年12月教区死亡/埋葬登记与村警卷宗，核两名死者姓名、日期和政治/巫术指控；③Sikka 1966-02-27 DPRD-GR会议记录及KOMOP拘押名单、Jan Djong死亡证明；④换G1 VSTP/PPKB原章程与G7 1998后工会登记实务；⑤按G4地区失衡轮换Aceh、苏门答腊、爪哇、巴厘、West Kalimantan、Sulawesi，逐一核地方原令与被害者名册。G1—G10永久OPEN，未完成全国调查；成熟中文正文后续持续补写，不建旧式列表HTML。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12｜南苏拉威西1425号电报重读、同源去重与跨G项缺口（G3/G4/G5/G8/G10）
+
+按AGENTS、stage-access、goal-continuity及2026-11-09 completeness-audit审查G1—G10；读取正式四CSV与chronology。**本次没有新建来源或主张**：1965-11-12美国驻雅加达1425号电报已登记S190，相关事实C207/C208/C814，检索Q084/Q235/Q266，覆盖CV085/CV242/CV306。原文 https://nsarchive.gwu.edu/media/15708/ocr 本次实际打开全文OCR（8页；未核扫描）；印尼文YPKP转述 https://ypkp1965.org/blog/2017/10/17/kedutaan-besar-as-mengikuti-berjalannya-pembunuhan-massal-di-indonesia-pada-tahun-1965/ 仅为同源翻译/转载，**不能作为第二名独立证人**。
+
+**G4/G5 Sulawesi地方链**：第7页是使馆转述一名新教领袖的消息：1965-11-10 Makassar华人商铺受袭及“90%”比例、Bone拘押场所约200名囚犯被杀；使馆并无受损商铺清册、死者姓名或营地日志。电报同时称人群被军方阻止进入中华人民共和国领馆，这一条同样仅为该消息人所述，不能据此推断军方对全部骚乱的指挥或控制。需分别找Makassar商会/警方火灾财损簿、华人社群名单、Bone/Watampone拘押所转移与埋葬名册、1965-11-10—13印尼语地方报纸。Komnas HAM 2012报告S140/C627关于1965-10-18军方PEPELRADA KEP.024/10/1965/PDD/1965为**另一证据链**；尚缺签署命令及Bone具体实施桥接证据。
+
+**G3跨机关信息链**：同电报第4页记述1965-11-12印尼广播电台由陆军临时管理移交新闻部长Achmadi任命的文职负责人，陆军新闻主管Ibnu Subroto在交接仪式上提到苏哈托10月1日指令。此为同期外交记录对仪式的叙述，不是已读苏哈托10月1日指令或广播台移交令。原有C207已记录概况，后续查RRI节目日志、新闻部任命及11月10日苏加诺讲话全文，复原命令—实际播出—受众而非只叙权力归属。
+
+**不同G项G1/G7/G8**：S190未解决G1 1920年代VSTP/PPKB原始会议与财务；G7 1998后SBSI工厂登记及反工会歧视执行；G8对美外交材料不能替代当地执行原件。可查ANRI公开finding aids https://www.anri.go.id/en/around-the-records-and-archives/archives ，但该网页是档案检索指南，不是任何具体军令原文。本次检索还打开NSA Indonesia Documentation Project目录 https://nsarchive.gwu.edu/project/indonesia-documentation-project ，其1998档案专题仅定位入口，尚未逐件读取，不能注册为原件核验。
+
+**本次归档限制**：重复内容未增加S/C/Q/CV；正式CSV、chronology、研究正文未变。应在下一次取到独立地区原件后登记原子主张、补按日期排列的chronology和成熟中文连续叙述。长期缺口总账本次尚待更新；G1—G10全部OPEN。下一步依次：①Bone/Watampone拘押及埋葬原件；②Makassar 1965-11-10商铺财损及警方卷宗；③RRI 1965-10-01/11-12交接与节目记录；④VSTP 1919—21原始会议记录；⑤1998 SBSI工厂级登记与争议裁决。提交前的continuity blob SHA=41fb7416a65a1c7c58d39b4b5deeaa050870c6c2；本次提交最终SHA应以GitHub返回及再次读取main核验。
