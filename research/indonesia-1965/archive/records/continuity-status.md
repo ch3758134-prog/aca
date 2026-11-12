@@ -1399,3 +1399,14 @@ G1—G10仍OPEN。最优先的后续工作是取得地方原始拘押/释放记�
 **跨机关G3/G8延伸**：1965-10-23雅加达使馆1168号电报目录 https://nsarchive.gwu.edu/document/15702-document-6-us-embassy-jakarta-telegram-1168 ：已打开馆藏说明，但尚未逐字读该电报OCR；目录称军方推动禁SOBSI、排挤劳动部长Sutomo，美使Green同时认为SOBSI知悉9·30行动的可能性不大。必须下一次读OCR并与12月泗水招聘变化对照，不能将相隔两月的两个地点直接拼成单一中央命令。
 
 **精确续接动作**：①全量读取正式四份CSV尾部并核对S152/C231及本次三条来源是否已登记，再安全追加必要原子命题；②打开1168号电报OCR/PDF，提取劳动部长、SOBSI、军方行动各自时间；③追查东爪哇国营企业1965年12月招聘公告、SARBUMUSI和SOBSI地方支部人员名册；④查Langsa 1965-10-18 Baperki宣言原件及Kodim-0104 10月11日会议簿；⑤切换至West Kalimantan、Flores及1920—49组织原件，修复G4地域失衡。更新chronology、research-status、global-gap-tracker及成熟中文正文须待正式来源去重后进行，不能宣称已完成。当前写入前main SHA以实时GitHub读取为准；最终提交SHA需用GitHub提交响应与随后分支HEAD验证。GOAL始终OPEN。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12｜1168号电报OCR实读与1995政治犯原始出版物交叉复核（G2/G3/G6/G8）
+
+本次已读取AGENTS、stage-access、goal-continuity、2026-11-09完整性审计、缺口总账、正式四份CSV的表头及开头记录、chronology和当前续接状态。由于CSV未完成全量逐行去重，本次不分配S/C/Q/CV编号；本条为可追溯的待并库研究现场，不冒称正式CSV、chronology或中文阅读正文已更新。
+
+**G2/G3/G8｜1965-10-23雅加达美国使馆第1168号电报**：本次实际打开馆藏 https://nsarchive.gwu.edu/document/15702-document-6-us-embassy-jakarta-telegram-1168 和原件OCR https://nsarchive.gwu.edu/media/15702/ocr 。OCR明确记载10月21日多家反共工会（SARBUMUSI、SOKSI等）向劳动部长Sutomo要求解散PKI及SOBSI；部长表示转呈总统，示威者不满，并警告一周后再来。电报据劳动部消息源称部长尚不愿对SOBSI采取措施；同时报告SOBSI全国层面尚未正式被禁，但铁路、种植园、邮电、港口、公用事业、运输等部门的若干工会活动已被暂时冻结，石油业措施据称将至。电报明确承认不清楚冻结令实际执行范围。Green关于劳动部人员参与9·30事件“不大可能”、军方认为SOBSI有独立组织力量的分析是**外交官当时判断**，不是组织有罪或无罪的司法证明。OCR局部严重错字，名单、个别人名及精确命令措辞须核PDF扫描；本次尚未核扫描。此材料与12月27日泗水212号电报存在“全国部门工会冻结→地方国企招聘资格变化”的可研究时间顺序，但没有证据证明二者由同一签署命令直接连接。后续核劳动部Sutomo来往函、工会要求书、部门冻结通知和东爪哇企业招聘档案。
+
+**不同G项G6｜1995年政治犯在押名单修订**：直接打开国际特赦组织官方1995-07-30出版记录 https://www.amnesty.org/en/documents/ASA21/036/1995/en/ 与1995-11-01修订出版记录 https://www.amnesty.org/en/documents/asa21/055/1995/en/ ，另核1995-11月三页原PDF https://www.amnesty.org/en/wp-content/uploads/2024/05/ASA210551995ENGLISH.pdf 。7月出版页称约27名1965年相关人员据认为仍在押，11月修订明确称7月名单误含此前已获释者。两者属于不同时间点的组织估计与更正，不能以人数差直接推断释放量，也不能等同全国政治犯总数。另打开国际特赦组织1995-01-25关于SBSI领导Muchtar Pakpahan及Amosi Telaumbanua的出版页 https://www.amnesty.org/zh-hans/documents/asa21/008/1995/en/ ，页面载棉兰高院1995-01-16加重两人刑期；此为1990年代新工会镇压的独立组织链，不属于1965案在押人员名单，需核判决全文及后续上诉结果。该页只读出版说明，未核原PDF。
+
+**G1—G10继续OPEN**，本次未取得地方拘押名册、军方冻结签署件、企业雇佣名册或1995年逐人司法卷宗，不能将外交/倡议机构报告升级为已独立核实的执行事实。下一步：①对1168 PDF逐页核OCR，并查10月21日工会代表要求书；②核现有S/C台账是否已登记1168和1995 SBSI报告，去重后补正式命题与chronology；③追Sutomo劳动部10—12月冻结令与泗水国企招聘原件；④跨地区查Aceh/West Kalimantan/Flores原始军政档案；⑤继续G1殖民工会及G6 SBSI判决/政治犯释放逐人卷宗。下一执行仍需优先将证据并入正式台账、时间线、总账及成熟中文正文。当前文件写入前HEAD须另核，最终SHA以提交返回和GitHub核验为准。
