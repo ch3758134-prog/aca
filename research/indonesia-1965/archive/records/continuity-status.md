@@ -1644,3 +1644,10 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 本次按规定读取AGENTS、stage-access、goal-continuity、G1—G10完整性审计、正式source/claim/search/coverage四CSV、archive/records/chronology.md、研究状态及长期缺口总账。复核1923-05-08/09 VSTP Semaoen拘捕与铁路罢工的印尼语研究全文及引用的《Preangerbode》《Darmo Kondo》线索；未取得1923原刊，不升级为A级原件。跨地区直接打开1965-09-15美国使馆542A原始OCR，核Manokwari七月军事行动的传教士证言；正式S834/C1473/Q354/CV379已有，避免重复登记。两条证据链详细访问等级、来源及缺失原件见global-gap-tracker同日新条目。无新增已核地方死亡数字，chronology和读者正文暂不据二手引文扩写。G1—G10保持OPEN。
 
 精准下一动作：①Delpher取1923-05-09《Preangerbode》No.126完整影像；②取得《Darmo Kondo》1923-05-09、08-15、08-22及Semarang Resident 1923-06-08公函；③追Manokwari 1965-07-26军警记录、教会原始通信与巴布亚证人；④转入Aceh/Kalimantan/Flores县级命令与名册；⑤核对1998—2026组织记录的正式CSV去重并推进连续中文正文。写入后的提交SHA由GitHub响应确定；本状态内容不预言其自身提交。下一次必须重新核对main HEAD及并发更新。
+
+
+## 2026-11-12 23:47 CST｜G4/G8来源交叉与接力（GOAL OPEN）
+
+已读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit、正式source/claim/search/coverage CSV、chronology、research-status、global-gap-tracker。直接核读FRUS XXVI d162（2000年编者说明）和d229（1967-02-17会谈原文）；另打开NSA泗水183号馆藏说明（仅目录，不是原电）。在global-gap-tracker登记Aceh 1269/1374、东爪哇1438/171/183的来源依赖与县级名册缺口；核实Green所说1966紧急包已送达（仅本人陈述）与1967 civic action尚未交付是**不同项目**，不能互相覆盖。正式S452等已登记，未新造S/C；本次尚无独立地方原件，故未改chronology/中文正文。缺口总账提交 `1dcfd975b71c66d1231bc9e5bda747fad9ac2a10`。
+
+**精准续接**：①取1965-10-29第1269号、11-08第1374号、11-13第1438/171号、11-26泗水183号原电扫描并核签署/收件；②从Aceh IP-KI/军区命令及Kediri/Pare/Tulungagung教区、警局、村档核实具体受害者；③分别查1966 emergency package交付签收与1967 civic action Pentagon assessment/货运档；④轮换1923 VSTP殖民原刊、SOBSI/BTI/Gerwani基层、Buru出营名册及1998后工厂登记；⑤对正式CSV做内容级去重后再增加主张、时间线和成熟的中文历史正文。G1—G10全部OPEN。**此段写入前最新成功提交** `1dcfd975b71c66d1231bc9e5bda747fad9ac2a10`；本状态文件自身提交SHA以GitHub实际返回与后续HEAD为准。
