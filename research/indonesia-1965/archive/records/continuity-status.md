@@ -1463,3 +1463,16 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 **不同G项G3/G4/G8当前证据链：**直接打开印尼BPK官方第109号总统决定登记 https://peraturan.bpk.go.id/Details/151290/keppres-no-109-tahun-1967 ，确认1967-07-28成立KOTI清算小组。既有S836第107号法令登记为7月26日制定、31日生效；另打开 https://www.klaussa.com/peraturan/keppres-no-107-tahun-1967-membubarkan-komando-operasi-tertinggi-dan-semua-penguasa-pelaksana-daerah 的条文OCR，显示可能的既有规章效力延续、中央事务移交和地方PEPELDA交接，但该文本是第三方转录且存在OCR错字，未核签署PDF，不能升级为逐条原件核验。下一步取得107/109官方扫描、清算小组任命/会议记录、Kodam XII与Pontianak省级接收/军事命令，并独立查1967华人驱逐和PGRS/PARAKU事件。
 
 **其他G项必须轮换**：G2 Gerwani/BTI/LEKRA基层；G5 Aceh/Flores/West Kalimantan妇女、族群、拘押；G6 Buru与海外流亡/PRD；G7 SBSI/FSPMI 1998—2026工厂级执行；G8英美澳中苏具体交付；G9人物—组织—地点关系；G10整理主时间线和成熟中文连续历史。以上均OPEN。此轮未修改readable-history HTML，因为两链尚缺组织/地方实施独立原件；不建列表式HTML。下一次优先从上述精准原件开始，不把本次提交视为完成节点。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12｜SOBSI行业冻结与巨港油企的证据界限再核
+
+已重读AGENTS、stage-access、goal-continuity、2026-11-09完整性审计G1—G10、全域缺口总账、正式CSV开头及chronology相关部分；正式台账位于archive/records/而非项目根目录。现有接力状态尾部已记S837—S838/C1476—C1477，须以实时正式CSV确认，不能沿用旧编号。
+
+**G2/G3（已有长期链，直接打开同期电报OCR）**：1965-10-23美国驻雅加达1168号电报 https://nsarchive.gwu.edu/media/15702/ocr ，第1—4段区分10月21日反共工会向劳动部长Sutomo要求解散SOBSI、政府部门内部的立场分歧、部分产业工会被暂时冻结。报告明确称SOBSI全国组织尚未正式禁止，铁路、种植园、邮电、港口、公用事业、机动车运输等行业冻结的实际执行广度未知；“石油业即将行动”是当时使馆预期，不是命令已实施。该材料为外交电报OCR（A级当时记录的可读转录，扫描未逐页校对），只能证明使馆报告及其判断。需追10月21日劳动部收文/报刊、各行业正式禁令和厂级执行。
+
+**G4/G8（不同地区/机制，直接打开同期电报OCR）**：1965-11-01第1290号电报 https://nsarchive.gwu.edu/media/15705/ocr ，首段明确访问地是南苏门答腊Palembang，不是北苏门答腊。电报载Stanvac Sungaigerong约30名员工、Shell Pladju/Prabumulih约24名PERBUM成员、PUSRI 15名SOBSI干部被军方拘押的报告；不得与当地约600人的笼统拘押说法相加。第4—5页中Stanvac考虑将至少1000/3500名炼厂员工转至厂外项目是**考虑中的计划**，没有执行证明；Shell管理者否认军方对炼厂火灾的破坏定性，构成必须保留的同期反证。与1168号电报连接的只是行业镇压可能性，不能把跨地跨月材料拼成全国统一命令。扫描及企业/军方人事原件未取得。
+
+**本次归档限制**：以上两份电报已在缺口总账和既有续查中多次出现，故本次没有冒充新来源或增加S/C/Q/CV编号；chronology及中文连续正文尚无新增独立地方证据，不做重复段落。已找到正式CSV的正确路径，但未完成完整内容级去重。G1—G10全部OPEN。
+
+**精确续接**：①比对1168号电报扫描与1965-10-21劳动部原收文，分别列出冻结产业与签发机关；②查1965-10—12 Stanvac/Shell/PUSRI企业工会名册、PERBUM干部、军方拘押登记及炼厂火灾调查；③核S837/S838与1168/1290的正式URL去重；④转向Aceh 1965-10-11地方议会原会议记录及Flores 1967审查队任命书；⑤轮换Gerwani/BTI基层原件、布鲁岛释放记录、1998后工会注册与外部交付证据。最新提交SHA须以本文件写入返回值和GitHub实时main比较为准，不能在提交前预填。
