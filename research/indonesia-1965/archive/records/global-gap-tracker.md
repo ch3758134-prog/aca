@@ -1225,3 +1225,9 @@ G1/G3/G5/G7/G8/G9/G10均OPEN：VSTP原刊、各省军令、Gerwani地方档案�
 另一G8链直接打开1965-12-16国务院777号电报全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d184 ，并复核1967-02-17 Humphrey–Green会谈原文 https://history.state.gov/historicaldocuments/frus1964-68v26/d229 。前者仅提出同日本/西德协调援助策略，编者脚注提及12月15日1780号电报已有大使接触；后者Green回顾1966年5月后紧急援助包抵达，但未提供货单/签收。已在正式台账分别为S455/C797与S452等，chronology亦有相应中文段落，故不新造S/C或重复改写时间线。两份美国文书是政策意图和事后自述，不构成同一批货物实际交付的相互独立凭证。应追第1780号原电、三国会议记录、1966年紧急援助采购/运输/收货记录。G1—G10全部OPEN；本次没有取得新增地方原始登记，未将检索摘要升级为已核实地方事实。
 
 下一次从①A-527原电和Howland原刊核死亡数字方法；②Medan 289与Mokoginta原令、北苏门答腊工会执行档案；③FRUS 1780原电及日德外交文件、援助签收；④1923《Preangerbode》原刊与VSTP会议簿；⑤Flores/West Kalimantan军警及教区原始记录继续。正式CSV截至S840/C1481/Q362/CV388，写入前仍须重新读取以核并发变化。
+
+
+## 2026-11-12｜跨G4/G5与G7/G8原件核验：Roti/Sawu与劳工改革（GOAL OPEN）
+- **G4/G5，东努沙登加拉Roti/Sawu，1966年**：已直接打开美国使馆1966-08-03 A-65同期外交文书OCR（A-仅对外交记录，OCR字迹严重破损），https://nsarchive.gwu.edu/media/15729/ocr ，馆藏 https://nsarchive.gwu.edu/document/15729-document-33-telegram-65-american-embassy ，RG84 Entry P339 Box27 Folder14。美国人类学家James Fox夫妇向使馆回忆：1966年1—2月军队赴Roti，3月中旬再度行动，报告Roti约40—50人及邻近Sawu约30人遇害；另有6月处决的报告。Fox对东努沙登加拉800—1000人的估计来自地区走访及谈话，不是逐人死亡登记。OCR还显示当地流传3万人被杀的传闻，Fox明确认为该数字荒谬。**不可把传闻、个人估算、Roti/Sawu局部数字相加**。待取扫描逐页校正人名（Sukirno）、日期及其他段落，追Roti/Sawu教会、地方军警、墓地、亲属及拘押名册；不能把Roti/Sawu直接等同Flores。
+- **G7/G8，1998—2005年劳工改革与国际合作**：直接打开ILO/印尼劳动部2005年双语法律汇编全文 https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40asia/%40ro-bangkok/%40ilo-jakarta/documents/publication/wcms_120126.pdf ，前言ix—x页明确把1998年5月27日工会登记规则、1998年8月ILO直接接触团、1998年12月意向书、2000年工会法、2003年劳动法、2004年争议解决法与2005年延期分开。前言称当时已有80多个登记工会联合会，**仅为2004—05年出版方统计陈述，不是已核地方登记名单**。还明确ILO/USA Declaration Project由美国劳工部支持、第一阶段2001—03，第二阶段2003—04；这属于公开制度技术援助，不能混同1965年秘密援助。后续取项目合同、资金/实施报告、各地工会登记和争议裁决。
+- **证据级别及去重**：两份原文已实际打开；尚未对正式CSV全文完成去重，不新编S/C号，不把档案馆目录的解说当作原始电报原句。G1—G10保持OPEN。
