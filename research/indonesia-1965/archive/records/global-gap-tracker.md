@@ -1207,3 +1207,12 @@ G6：已直接阅读美国国务院FRUS 1977–1980卷XXII文书208（1978-05-09
 G2/G4：已直接重开1965-10-23美国使馆1168号电报OCR https://nsarchive.gwu.edu/media/15702/ocr （既存S146/C809）：10月21日SARBUMUSI、SOKSI等工会要求劳动部长Sutomo解散SOBSI；使馆报告铁路、种植园、邮电、港口等行业工会暂时冻结，但明确不知道实际执行范围。对照1965-11-01第1290号电报OCR https://nsarchive.gwu.edu/media/15705/ocr （既存S196/C810/C1468—69）：巨港Palembang在South Sumatra，档案馆摘要错标North Sumatra；炼厂拘押及拟调岗缺印尼执行档案。下一步追1965劳动部通令、厂级工会/拘押/解雇名册、Sutomo会见原始记录。两条G链不能机械合为同一政策实施链。
 
 G1/G3/G5/G7/G8/G9/G10均OPEN：VSTP原刊、各省军令、Gerwani地方档案、1998后工厂登记、外国交付、人物地名关系及中文连续正文仍缺。正式CSV未写入，拟登记1978来源需先查重；本节不把候选编号视为正式ID。
+
+
+## 2026-11-12｜G3/G8名单形成与G6政治犯释放：跨期原件再核（ONGOING）
+
+**G3/G8/G9｜1965-12-17 A-398**：直接打开国家安全档案馆原始文件OCR https://nsarchive.gwu.edu/media/15719/ocr （原件登记S189；既有C203、C1401—C1404；原始扫描此前已目视检查）。文件开头由Mary Vance Trent署名，明确警告逮捕情报常可疑、口供可能伪造，具体举Njono供述对1965年5月PKI中央委员会全会后政治局人事变动的遗漏。附件1是领导机构名单；附件2是基于有限情报的人员下落报告，二者不可合并为已核实逮捕/死亡名册。此次OCR字符严重损坏，不能凭OCR逐名重抄；应以既有已目视核验的扫描为准。1966年A-74所述删节名单交付仍仅有FRUS d185编辑引述，**原始交接件、收件人及逐人后果未获**。来源级别A（同期文件原文可见，限于其陈述），执行与影响D。缺失：A-74原件及附件、印尼收件与拘押记录、Njono供词原件、1965年5月PKI全会名册。
+
+**G6｜1978-05-09 FRUS d208**：重新直接打开官方编辑全文 https://history.state.gov/historicaldocuments/frus1977-80v22/d208 ，与S840/C1481去重；澳大利亚记者消息、Sudharmono原则同意、军方消息人全年分批计划三者不是实际出营记录。来源级别A（同期外交文书内容），实际释放人数及后续监视D。缺失：1978-08-17实际命令、Buru逐人出营名册、地区接收与旅行限制、澳大利亚记者原报道。
+
+**G1/G2/G4/G5/G7/G10轮换不关闭**：G4地理失衡仍以Aceh、北苏门答腊、东/中/西爪哇、巴厘、Flores、West Kalimantan、Sulawesi为优先；本次打开NSA 2017汇编 https://nsarchive.gwu.edu/briefing-book/indonesia/2017-10-17/indonesia-mass-murder-1965-us-embassy-files 仅作为目录与馆方解释，不能代替各地原件。G1 VSTP 1923原刊、G2 SOBSI/BTI/Gerwani工厂村级记录、G5幸存者、G7工厂登记、G10连续时间线/中文历史均未解决。正式S/C/CV不虚增；Q363记录本次复核。下一步优先从A-74原始签署件与印尼收件簿、Buru实际释放名册转入Aceh或Flores县级军政原件，并查1923 Preangerbode No.126。GOAL OPEN。
