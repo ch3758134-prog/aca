@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G4西巴布亚1965年7月与G1殖民原刊异项核验（去重）
+
+**G4（地区West Irian/Manokwari，时间1965-03至09；原始同期外交OCR全文打开，原扫描未逐页目视）**：美国驻雅加达使馆1965-09-15电报542A，馆藏RG84 Entry P339 Jakarta Embassy Files Box5 Folder13，原件馆藏 https://nsarchive.gwu.edu/document/15699-document-03-telegram-542-secretary ，全文OCR https://nsarchive.gwu.edu/media/15699/ocr 。第4—5段记录一名从Manokwari地区抵达的荷兰新教传教士向使馆人员转述：3月已有反叛传言、6月警方逮捕巴布亚公务员/地方人员、7月26日三名升旗士兵遭射击、次日军人向道路上巴布亚人开枪；第5段还谈及增援与战斗延续。**这是使馆记载传教士转述，不是使馆直接目击，也没有死亡/拘捕名单。** 2017年HRW文章 https://www.hrw.org/news/2017/10/23/us-telegram-reveals-brutality-1965-indonesian-papua-massacre 依赖同一电报，不是独立证人。此链早已正式登记S834/C1473/Q354，故本次不重复S/C编号。重要区分：7月事件早于9月30日，不能并入反PKI屠杀死亡数字；其行动者和冲突性质需独立复原。缺失原件：1965-07-26 Manokwari当地军警战报、Papuan被拘人员名册、传教士原始日记/信函、Harold Lovestrand案卷、地方死亡/医院/教会登记。下一步先逐页核电报扫描，再以传教士姓名/馆藏盒号找独立原始记录。
+
+**G1（不同G项、1923及1926—28殖民铁路/流放史）**：直接打开荷兰国家图书馆Delpher官方说明 https://www.kb.nl/en/bron/delpher 与 https://www.delpher.nl/over-delpher/delpher-open-krantenarchief/wat-zit-er-in-het-delpher-open-krantenarchief ，确认其收录历史报刊且可检索；本次没有打开1923-05-09 Preangerbode No.126《Semaoen Gearresteerd》具体报纸影像或1927年Boven Digoel运输名册。官方数据库说明只是发现工具，**不是1923逮捕或1927运输的证据**。继续查该期具体页/文章OCR及扫描，另索1923-06-08 Semarang Resident致总督原函、VSTP公告和殖民行政原件。现有二手研究不能替代原报。
+
+**G5/G7 Palu行政法权交叉核查**：直接打开2026年仍运行的市政府JDIH首页 https://jdih.palukota.go.id/ ，但法规25/2013详情本次打开报错，签署PDF依然未读。保留先前官方目录25/2013的元数据等级，不能把网站首页视作法规正文或217户援助支付凭证。仍须25/2013签署页、23/2013不同法规辨识、财政/受助名册。
+
+**G1—G10仍OPEN**：G2 SOBSI/BTI/Gerwani基层、G3跨机关逐时、G4各省地方执行、G5性别与幸存者、G6监禁/流亡、G7工会与追责、G8外国实际交付、G9关系空间索引、G10去重和中文连续叙事均未关闭。本次未获新的独立事实原件，故正式四CSV、chronology和阅读HTML不人为增加重复条目。检索/访问边界记录在本滚动总账，继续轮换不同地区。
+
 ## ONGOING｜2026-11-13｜G4 Flores + G1 colonial archive cross-check
 G4: Reopened the complete 27-page Prior 2011 PDF (canonical S456) https://repository.divinity.edu.au/divinityserver/api/core/bitstreams/662d52ff-005b-4845-918c-959a06ea50d0/content pp.122,125-129,134,138. This is an academic article quoting Boumans memoir and anonymous retrospective Menjaring Angin, NOT inspection of the original memoir, military orders or 1966 meeting minutes. The alleged 27 Feb 1966 Sikka DPRD-GR/KOMOP name-by-name meeting, Jan Djong death (9 Feb vs 1 Mar conflict), and estimated 800-2000 Maumere victims remain independently unverified. Canonical S456 and C1056/C1057/C824 already document this; C798's obsolete abstract-only status was corrected rather than allocating a duplicate source.
 G1 (different G): Opened Dutch Delpher archive guidance and 1927 newspaper page metadata, but found no specific Boven Digoel transport manifest or VSTP original article. Next retrieve article-level Dutch OCR/scans for 1926-1928 Boven-Digoel/Digoel/interneering/transport and compare colonial government orders.
