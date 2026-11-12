@@ -1,3 +1,13 @@
+## ONGOING｜2026-11-12｜G2/G3北苏门答腊军政与报刊权限的前后对读；G4区域暴力核验边界
+
+**本次直接阅读的同期原件**：1965-06-07美国驻棉兰领馆509号电报原PDF文本 https://nsarchive.gwu.edu/sites/default/files/documents/4107011/Document-01-U-S-Consulate-in-Medan-Telegram-509.pdf ，可辨第23—27行记述Darjatmo在6月6日援用PEPELADA/DWIKORA权限撤销省长对《Tjahaja》的出版限制，并称省长此前以未获地方批准为由禁止发行；作者将此判断为军方与省长、PKI影响的National Front/Youth Front/PWI之间争权。**原PDF文本已读，不等于逐页图像核验，也不等于印尼地方原令已读**。此件已有S124/S378、C098/C663及Q234，未重复建号。
+
+**跨时比较**：1965-12-06棉兰领馆183A号电报原馆藏 https://nsarchive.gwu.edu/document/15715-document-19-telegram-183-american 与四页OCR https://nsarchive.gwu.edu/media/15715/ocr 已打开；该电报称军方已控制区县Pantja Tunggal、PWI报刊机构、National Front及部分Hansip，并描述军官对学生组织、Pramuka的政策。既有S377/Q234已核此文，不能把509与183A当作同一行政命令的连续执行凭证；它们只能共同显示两时点领馆观察的军政权力变化。183A混有领事亲见、转述军官声明和作者预测，不能把预测当执行结果；也不能以苏门答腊全岛概括每县。下一步取1965-06-06 Darjatmo原令、Tjahaja当期报纸、省长禁令、1965-12区县Pantja Tunggal改组命令、Hansip发枪及学校组织执行簿，以独立印尼材料核对。
+
+**不同G项G4地域失衡继续追索**：已打开NSA 1965-12-22泗水203号电报馆藏 https://nsarchive.gwu.edu/document/15721-document-25-telegram-203-american-consul ，但本次仅核馆藏编辑说明；它既有S449等正式登记，未再读全文，不将说明中Pasuruan夜间移交10—15人或巴厘华人商店遭焚视为独立地方目击。需Pasuruan监所出入、军警令、巴厘商铺/教会/医院簿和与领事线人无依赖的地方证词。轮换Aceh、Medan、Java、Bali、Flores、West Kalimantan、Sulawesi。
+
+**覆盖审计G1—G10仍OPEN**：G1 VSTP/殖民报刊原版；G2基层工农妇女青年组织财务与名册；G3跨机关逐时军令；G4各省县镇压与长期控制；G5性别/族群/幸存者；G6拘押/流亡/再组织；G7工会法执行与追责；G8英美澳中苏行动的交付证据；G9人物地点关系表；G10来源依赖/正式CSV去重与连续中文正文。现有两份电报均为旧来源，正式CSV/chronology/阅读HTML不强行制造新增事实。障碍是印尼原始行政卷宗、监所及地方组织原件未取得；下一次先查上述地方原令，再转G1荷文1923年原报及G2 Gerwani/BTI支部资料。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G4西巴布亚1965年7月与G1殖民原刊异项核验（去重）
 
 **G4（地区West Irian/Manokwari，时间1965-03至09；原始同期外交OCR全文打开，原扫描未逐页目视）**：美国驻雅加达使馆1965-09-15电报542A，馆藏RG84 Entry P339 Jakarta Embassy Files Box5 Folder13，原件馆藏 https://nsarchive.gwu.edu/document/15699-document-03-telegram-542-secretary ，全文OCR https://nsarchive.gwu.edu/media/15699/ocr 。第4—5段记录一名从Manokwari地区抵达的荷兰新教传教士向使馆人员转述：3月已有反叛传言、6月警方逮捕巴布亚公务员/地方人员、7月26日三名升旗士兵遭射击、次日军人向道路上巴布亚人开枪；第5段还谈及增援与战斗延续。**这是使馆记载传教士转述，不是使馆直接目击，也没有死亡/拘捕名单。** 2017年HRW文章 https://www.hrw.org/news/2017/10/23/us-telegram-reveals-brutality-1965-indonesian-papua-massacre 依赖同一电报，不是独立证人。此链早已正式登记S834/C1473/Q354，故本次不重复S/C编号。重要区分：7月事件早于9月30日，不能并入反PKI屠杀死亡数字；其行动者和冲突性质需独立复原。缺失原件：1965-07-26 Manokwari当地军警战报、Papuan被拘人员名册、传教士原始日记/信函、Harold Lovestrand案卷、地方死亡/医院/教会登记。下一步先逐页核电报扫描，再以传教士姓名/馆藏盒号找独立原始记录。
