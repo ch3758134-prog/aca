@@ -1275,3 +1275,13 @@ G1/G3/G5/G7/G8/G9/G10均OPEN：VSTP原刊、各省军令、Gerwani地方档案�
 ### 2026-11-12｜G1/G2/G3/G8：工会运动和1948外交渠道继续补查（OPEN）
 
 S843–S846、S007–S008全文或相关章节已读。劳工运动：1958年Tedjasukmana及2024年Hearman文章补足殖民城市工会、BBI/PBI、GASBI/GSBV、SOBSI、WFTU/ICFTU和1950年代组织多元；但1931会员数、1955工会机构数仍经二手转引，1955劳动部名册、各工会会员册、会议记录、WFTU/ICFTU往来和Adam Soepardjan笔记原件缺失。外交渠道：UN S/787显示Good Offices通过协调报告、指导委员会和四个议题委员会运行，同时规则允许不记录的非正式会谈及保密工作文件；FRUS d239记录美国官员把反共、荷兰利益和美国战略经济利益并入谈判评估。它们证明正式机制和政策意图，不证明秘密行动或对地方组织的指挥。下一步获取Good Offices/美国代表团工作文件、荷兰与共和党会议记录、1955劳动部工会目录及原始工会档案，并与印尼报刊/广播、Dutch archives对读。GOAL和G1–G10继续OPEN。
+
+## ONGOING / GOAL仍进行｜2026-11-12 17:46 UTC｜G6/G7 1996政治镇压与G4西加里曼丹原件层级复核
+
+已重读AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10完整性审计、研究状态、正式四CSV与chronology。正式登记核对：西加里曼丹Matsumura 2015已有S453/C795（S831/C1467为重复别名）；Flores Prior全文已有S456，不能重复计数。1996年PRD/PPBI/SMID/STN的既有S380/S381/S583和C666/C667/C987已记录部分镇压与判刑。最新正式台账还出现S843—S846，编号须以实时CSV为准。
+
+**G6/G7｜1996年7月27日事件至2026年追责**：直接打开国际特赦组织1996-07-29 ASA21/048/1996官方出版页面（全文PDF尚未点击核读），其当时报告估计206—241人遭拘押、最多90人受伤、至少5人可能死亡；这是当时组织的临时估计，不是经逐人验证的最终人数。又直接打开Amnesty Indonesia 2026-07-27官方声明全文：该组织回顾Komnas HAM调查所报5人死亡、149人受伤、23人失踪，并要求正式司法调查，提到不明身份墓葬线索。2026声明属于机构倡议与对既有报告的转述，**不是新取得的Komnas HAM原始调查卷宗，也不是墓葬已鉴定**。原文：https://www.amnesty.org/en/documents/asa21/048/1996/en/ ; https://www.amnesty.id/kabar-terbaru/siaran-pers/30-tahun-tragedi-kudatuli-komnas-ham-harus-buka-penyelidikan-projustisia/07/2026/ 。对照既存S381/S583；本次未给同一事实重新编号。
+
+**G4/G5｜西加里曼丹1967**：直接打开J-STAGE Matsumura论文出版页，仍仅为摘要访问（S453），确认有2052KB全文PDF可点击但尚未读取；作者认为1967年10月Oevaang Oeray与军方合作驱逐华人，属于研究解释，非直接取得军方指令或村级驱逐名册。https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/en 。另核对Maumere已有S456全文及S478间接转录，不能用相同匿名手稿重复计作独立反证。
+
+**精准续接**：①点击读取ASA21/048/1996原报告PDF，并逐项与1996-07-27 ASA21/046、1996-11 ASA21/070及Komnas HAM 1996-08-31/10-12调查原文比对统计口径；②取得1996 PRD/PPBI/SMID/STN起诉书、判决和地区工厂/学生原始材料，连通1998后组织；③打开Matsumura 2015日文PDF pp45—63，抽取其军令、Oeray演说及村庄材料的脚注来源，逐件追原件；④查1967年西加里曼丹Kodam XII命令、RRI Pontianak广播及村镇迁徙/难民登记；⑤继续轮换G1 VSTP原报、G2 Gerwani/BTI基层、G3跨机关命令、G8实际援助交付、G9人物地名索引。未取得新的独立原件足以安全新增原子事实，故本次不改正式CSV、chronology或连续历史正文；保留G1—G10全OPEN。
