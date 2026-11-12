@@ -1364,3 +1364,12 @@ G4/G2/G8：直接阅读 https://nsarchive.gwu.edu/media/15705/ocr ，确认Palem
 **精确续接动作**：①核第1425号电报扫描第7—8页与OCR，辨认消息人身份、具体时点及“raided/destroyed”措辞；②查1965-11-10至12月的Makassar当地报纸与Bone县军警/拘押营登记、华商协会与中国领事记录，寻找独立反证；③追Aceh KODAM-I 1965报告附件、西亚齐DPRD-GR 10月11日会议原件，分别验证指挥与地方执行；④正式source-register中查第1425号电报是否已有S编号，修复Q351/CV373—375悬空S832—834，再按现存最大ID登记新证据；⑤转G1 Semaun工会前史、G6布鲁岛政治犯、G7工会重建与G8外部介入原始档案，继续纠正地域/年代失衡。
 
 **状态：G1—G10 OPEN；GOAL ACTIVE / OPEN-ENDED。此文件更新前GitHub main的具体SHA未由本次fetch_file返回，提交产生的新SHA以写入响应及随后main独立核验为准，不预填。**
+
+
+## 2026-11-12｜持续证据复核：东爪哇就业替代机制与1995政治犯统计口径（G2/G4/G6/G10，OPEN）
+
+本次按要求读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09及正式四CSV和chronology；连接器对source-register和claim-ledger返回“Warning: truncated output”，不能假装已完成完整逐行审计。实际搜索正式台账已确认1965-12-27泗水第212号电报为S152、相关雇佣命题C231、检索Q091/Q241及覆盖CV259；**禁止重复登记新S/C**。原始同期外交OCR全文重新打开：https://nsarchive.gwu.edu/media/15722/ocr ，第3段记述泗水国营企业求职资格从“退伍军人或SOBSI成员”变为据报“退伍军人或NU所属SARBUMUSI成员”；同一电报第1段转述Madiun拘押者交民间杀害、泗水继续逮捕。此处雇佣资格是领馆所闻，尚无国企人事通知、工人名册、军方签署命令，不可推广为全国已执行政策；也不能把NU消息人和领馆判断混同。
+
+不同年代G6：直接打开国际特赦组织1995-01-01《Indonesia and East Timor: Political prisoners and the rule of law》官方出版页 https://www.amnesty.org/en/documents/ASA21/001/1995/en/ ，页内称约350名因政治信念仍在押的男女（包括不同政治案件/东帝汶背景）；同时打开1995-11-01 ASA21/055/1995官方出版页 https://www.amnesty.org/en/documents/asa21/055/1995/en/ ，明确修订7月1965相关被拘者名单，原因是若干人此前已获释。既有正式S833记11月PDF为14人；**350与14既非同一对象范围也非同一统计时点，绝不计算“减少336人”或释放率**。两个官方网页只核到机构对出版物的介绍，本次未重新打开各自PDF正文；11月PDF此前已登记全文访问，不把本次网页访问冒充重新核PDF。须检查S311与S833是否同一ASA21/055/1995文献的内容级重复，而非仅URL不同。
+
+G1—G10全部OPEN；本次未增编号，未改chronology及中文连续历史正文，因为证据为既有来源复核和统计口径纠偏。精准下一动作：①获取泗水1965-12国企招聘公告、SARBUMUSI/SOBSI分会名册、Madiun拘押移交簿，交叉检验S152/C231；②取得1995-01 ASA21/001/1995报告全文与1995-07 ASA21/036/1995名单，逐人和11月修订表比较；③检查S311与S833内容同源并建立别名关系，避免虚增独立来源；④转换至Aceh 1965军区原件、West Kalimantan 1967迁徙记录、1920—1949殖民工会及1970—1998政治犯地方卷宗。提交前文件blob SHA=da727cf153ae5941dd42229998a724143ab766c6；**最终提交SHA以GitHub写入响应为准**，不预填。长期GOAL未完成。
