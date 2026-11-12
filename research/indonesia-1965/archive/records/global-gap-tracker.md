@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-12 18:52 UTC｜G4东努沙登加拉与G6长期监禁原件复核
+
+本次读取AGENTS、stage-access、goal-continuity、G1—G10完整性审计、正式四CSV、chronology、长期缺口总账及续接状态。确认正式来源已推进至S849、事实至C1511、检索至Q368、覆盖至CV394；跨并行调查者不重复编号。**G1—G10全部OPEN。**
+
+**G4/G5（原始PDF全文提取阅读，未逐页目视校影像）：**直接打开1966-08-03美国使馆A-65五页PDF https://nsarchive.gwu.edu/sites/default/files/documents/4107043/Document-33-Telegram-A-65-from-American-Embassy.pdf ，复核S143/C135/C815。James Fox报告Roti 1966年1—2月及3月军队处决、Sawu来者约30人；其800—1000人的推算**明确排除Flores**，并拒绝Timor流传的30,000人说法。该文书还载Fox对军队征用牲畜、地方食物紧张及部队与岛民关系的观察/转述，不能无地方原件推成整个省的事实。既有记录已准确限定Flores，故不制造新事实编号。S143访问状态升级为原PDF已读；仍须原始影像校对、Fox田野笔记、Roti/Sawu监所/教会登记与Flores独立材料。
+
+**不同G项G6（原始组织文件三页PDF全文已读）：** https://www.amnesty.org/en/wp-content/uploads/2024/05/ASA210551995ENGLISH.pdf ，国际特赦组织1995年11月ASA 21/55/95更正其7月名单，列14名“相信仍被关押”者，包括Cipinang、Padang、Kedong Pane、Tanjung Gusta、Kalisosok、Pamekasan、Gunung Sari。已存在canonical S311/C664，S833为别名，不重复登记。此名单不是印尼政府完整监狱统计；需逐人判决、监所转移、赦免/释放记录与受访者核实。
+
+**G3反证访问限制：**打开A-298馆藏与OCR https://nsarchive.gwu.edu/media/15703/ocr ，OCR不可辨；已有S125/C099，馆藏编辑说明所述Adnan Buyung Nasution对Robert Rich的谈话不得升级为本人原话的独立核验。应下载原PDF逐页视觉核读，并找司法部、总统府及当事人档案。
+
+**正式写入：**S143访问状态修订，Q369检索去重登记；C、CV、chronology和中文阅读正文因无新的独立事实未作重复增量。下次先取得①Flores/Maumere地方监所、教会、军警名册并与Fox的“排除Flores”范围分开；②Roti/Sawu部队调动及Fox原始田野笔记；③1995年14人逐人判决/释放文件；④A-298扫描与Nasution本人文件；⑤轮换G1殖民铁路/1946军政审判、G2 Gerwani/BTI基层、G7工会组织、G8实际交付，维护G9/G10索引去重。未穷尽，不替作者政治判断。
+
 ## 2026-11-12 17:29 UTC｜G2/G7 北苏门答腊工会、1951年P4D与地方统计
 
 新增并核读S842：《印度尼西亚共和国：北苏门答腊省》（印度尼西亚信息部，1953）第21章劳工部分及已校验页面。书中提供种植园与全省劳动力估算、Sarbupri/Perbupri分裂、交通和港口等行业工会、SOBSI/GOBSU/SBII政治背景、1951年10月29日北苏门答腊P4D成立及1951—1952劳动争议统计。已登记C1489—C1495、Q366、CV391，chronology与连续阅读第四章同步更新。它是政府部门的地方综合报告，不是审计名册；全书扫描超过网页工具取回上限，统计及组织数据尚待原表和工会档案核对。GOAL及G1—G10继续OPEN。
