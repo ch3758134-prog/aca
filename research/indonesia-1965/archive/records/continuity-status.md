@@ -1513,3 +1513,12 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 **本次归档范围**：只更新缺口总账和续接状态；正式CSV、chronology、research-status及中文阅读正文仍待内容级去重和具体事件独立证据，不能称已更新。G1—G10永久OPEN。
 
 **下一次精确接力**：①从《Forbidden Memories》2015原书核Timor/Sabu/Sumba/Alor访谈页、受访者同意和地方索引；②追1965—1970 Soë警察档、GMIT/GKS会议记录、Sabu教师任免与BTI救济原名册；③转向Flores Maumere教区1966年2—4月资料与Ende 1967审查队任命；④重新打开Komnas 2007 PDF附件1969 KEP-009、1981 Inmendagri 32、1990 Keppres 16、2000 Keppres 39，查地方实施与废止；⑤轮换Aceh/West Kalimantan地方军令和G1殖民工会、G7 1998后工厂组织。最终GitHub HEAD以提交返回及独立实时查询为准，不能预写未知SHA。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12｜Adonara 1965-12-26 / Flores 1966 地方证据续接
+
+本次已读2026-11-09 completeness-audit G1—G10、AGENTS、stage-access、goal-continuity、四份正式CSV全文、archive/records/chronology.md、长期缺口总账及研究状态。已打开并核读Prior 2011《The Silent Scream》完整27页PDF（https://repository.divinity.edu.au/divinityserver/api/core/bitstreams/662d52ff-005b-4845-918c-959a06ea50d0/content），复用既有S456；对其引述的Kramer 2005回忆录进行**引文级**核验，不能声称直接读到Kramer原稿。另查Komnas Perempuan 2007官方报告页、Prior Part Two书目/摘要；后者非全文。新增C1478、Q357、CV384并更新chronology、research-status、global-gap-tracker；未新增重复S号。关键新问题是1965-12-26 Adonara Wailebe两名村民被杀的回忆证词，可能涉及政治污名与巫术指控，但缺村级死亡记录；与1966 Maumere军方KOMOP行动分开。Jan Djong 1966-02-09/03-01冲突仍由C1057记录，不做未经证实的裁断。
+
+本次续接状态写入前最新已核实内容提交：0130c054d3eabdf125f3d6a059752f41e9738229。**本状态文件自身的提交SHA由GitHub本次更新返回；实时main HEAD必须再次读取，不能在本提交正文中预知自身SHA。**
+
+下次直接执行：①SVD Ende查询Kramer 2005原稿59—60页及匿名《Menjaring Angin》原稿；②Wailebe/Adonara 1965年12月教区死亡/埋葬登记与村警卷宗，核两名死者姓名、日期和政治/巫术指控；③Sikka 1966-02-27 DPRD-GR会议记录及KOMOP拘押名单、Jan Djong死亡证明；④换G1 VSTP/PPKB原章程与G7 1998后工会登记实务；⑤按G4地区失衡轮换Aceh、苏门答腊、爪哇、巴厘、West Kalimantan、Sulawesi，逐一核地方原令与被害者名册。G1—G10永久OPEN，未完成全国调查；成熟中文正文后续持续补写，不建旧式列表HTML。
