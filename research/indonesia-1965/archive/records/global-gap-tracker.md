@@ -1152,3 +1152,10 @@ d168显示State、Defense、CIA和白宫工作人员讨论援助时，对是否�
 - **事实与歧义**：Kramer回忆1965年圣诞节次日Wailebe有两名被指共产党人及投毒者被杀，并认为巫术指控是实际纠纷。死亡与动机尚未独立确认。S456另一段引Boumans将Jan Djong死亡记为1966-02-09，后期研究又有1966-03-01，正式C1057已保留矛盾，本次不另建重复主张。Prior与van Klinken可能共享匿名1970年代Maumere手稿，不构成两份独立一手证词。
 - **缺失原件/行动/阻碍**：①向SVD Ende档案定位Kramer《1920-2005: Gerbrand Kramer svd Imam 1945-2005》原稿59—60页、匿名《Menjaring Angin》原稿及页码；②查Wailebe 1965-12—1966-01教区埋葬簿、村警案卷、当地村民访谈，确认姓名与指控先后；③取得Sikka 1966-02-27 DPRD-GR会议簿及KOMOP名单、Jan Djong死亡/埋葬原件；④不同G项转向G1 1920年代VSTP章程和G7 1998后SBSI工厂登记；⑤继续Aceh、北苏门答腊、爪哇、巴厘、Flores、West Kalimantan、Sulawesi按省核军令→执行→被害人→职业财产变动，不以单村代表全省。
 - **覆盖状态**：G1—G10均OPEN；此次局部改善Flores/Adonara史料定位，不能称全国完整。未增旧式列表HTML；现有中文连续正文尚待原件补强。
+
+
+## 2026-11-12｜南苏拉威西Bone—Moncongloe与2000年工会法跨G项复核（GOAL OPEN）
+
+**G2/G4/G5/G6/G9｜Bone、Watampone、Makassar、Moncongloe、Nanga-Nanga；1965—1979；PKI/SOBSI/BTI、军警及拘押者。** 直接打开Taufik Ahmad 2010《Survival through slavery》完整公开文章 https://www.insideindonesia.org/editions/edition-998/survival-through-slavery ，来源正式S729（已存在，不重复注册）。该文述及1965年末Bone的SOBSI负责人被杀、学校/监狱/警察局被攻击，Watampone Arasoe糖厂爪哇工人被杀及Kajolo合葬地点；另述1969年底Moncongloe营859男、52女、846营内居住者、军官家中无薪劳动、1978/79释放及Nanga-Nanga转移。**证据级别B：后出研究者采访和叙述；不是1965年警察死亡簿或1969年入营原件。** 正式C1245/C1246已登记Moncongloe；S140/C629/C636/C637为Komnas HAM后期调查，可能引用相同当事人，不能机械当独立验证。特别注意该文把美国使馆“约200名”Bone死者转述，与S190的同源电报不是两个统计样本。需核Arasoe糖厂工人名册、Watampone警察/监狱登记、Kajolo墓地、Bone地方报纸；Moncongloe入营和1977 SPRIN/802/TPD/XII/1977原令、Nanga-Nanga转运名册。死亡、入营、在营、被转出人数均有不同分母，不相加。
+
+**G7/G10｜2000—2026工会法和实际执行。** 直接打开印尼劳工部官方JDIH https://jdih.kemnaker.go.id/peraturan/detail/32 ，确认2000-08-04第21号工会法、最低10人组织、18条书面通知登记、25条已登记组织代表权。已登记正式S611（官方BPK签署PDF此前全文核验），本次仅复核官方部委登记摘要，不另建独立原件。**级别A仅及法令存在/文本；工厂执行D。** 劳工部和BPK标记“仍有效”，BKN官方目录却标记“不再有效”，属于**现时法律状态元数据冲突**；需查2026修法/司法判决正式文本，不能以单个门户的状态字段裁决。缺1998—2026地方工会登记簿、企业级集体协议、劳动监察处罚及SBSI/其他工会实际组织数据。G1/G3/G8及其余地区仍OPEN，持续轮换，不将这一地方链当全国覆盖。
