@@ -1297,3 +1297,9 @@ S843–S846、S007–S008全文或相关章节已读。劳工运动：1958年Ted
 **待核原件**：ANRI第76号审讯全卷、1948年5月27日最高军事法院判决、1948年审讯记录/证言、亚明1957年申辩、苏加诺总统第1号令、7月6日政府公告、逮捕令和警察记录、同期报刊、各地PP会议与成员记录。核心未决问题是苏迪尔曼是否授权、相关人何时获知方案、谭马拉卡政治领导与现场行动的责任边界，以及政府事后公告如何确定责任。
 
 **行动/阻碍**：先从ANRI第76号与Kyoto University藏判决逐页读取；随后对照同期广播和报刊。当前未获得卷宗扫描或判决文本，不能把后期作者重建升级为直接原件事实。另行追BBI成立日期：9月19日代表会议与10月15日正式成立说法仍冲突。
+
+## 2026-11-12｜G4亚齐与G5/G7原文追查入口（ONGOING）
+
+重读已登记S127的Jess Melvin 2015全文（https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide）：1965-10-01—05部署、10-06起公开杀害、10-14起军方场所系统杀害、12月至1966年中巩固；文中军方地图1941人为“公开死亡”口径，约10000人为研究者推算，不是同级逐人核实统计。原军区报告及Meulaboh 1965-10-11会议原件仍缺；本文属研究者对档案的解释而非本次直接打开军令。
+
+不同G项：KontraS印尼语Komnas HAM 1965—66调查执行摘要目录全文已打开（https://kontras.or.id/perpustakaan/regulasi/ringkasan-eksekutif-hasil-penyelidikan-tim-ad-hoc-penyelidikan-pelanggaran-ham-berat-peristiwa-1965-1966/），下载链接为https://drive.google.com/file/d/18V_EY-7XYUQZkcY1gQ3aFmm6WjUt-ep3/view；Drive页面只显示Loading，原PDF未读，**仅原件定位，不登记为全文证据**。优先取得该印尼语原文，核2012-05-09媒体所述3500名证人和英译349人差异，并逐地区核Flores、Medan、Buru、Bali、Moncong Loe等原始调查材料。正式CSV与chronology不因重复S127或未打开的PDF改动。G1—G10全部OPEN；下一轮接Meulaboh军区会议原件、KontraS PDF、北苏门答腊1951 P4D原令、1967西加里曼丹军令和Gerwani/BTI基层档案。
