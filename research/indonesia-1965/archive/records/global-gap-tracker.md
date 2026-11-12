@@ -1324,3 +1324,12 @@ S843–S846、S007–S008全文或相关章节已读。劳工运动：1958年Ted
 重读已登记S127的Jess Melvin 2015全文（https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide）：1965-10-01—05部署、10-06起公开杀害、10-14起军方场所系统杀害、12月至1966年中巩固；文中军方地图1941人为“公开死亡”口径，约10000人为研究者推算，不是同级逐人核实统计。原军区报告及Meulaboh 1965-10-11会议原件仍缺；本文属研究者对档案的解释而非本次直接打开军令。
 
 不同G项：KontraS印尼语Komnas HAM 1965—66调查执行摘要目录全文已打开（https://kontras.or.id/perpustakaan/regulasi/ringkasan-eksekutif-hasil-penyelidikan-tim-ad-hoc-penyelidikan-pelanggaran-ham-berat-peristiwa-1965-1966/），下载链接为https://drive.google.com/file/d/18V_EY-7XYUQZkcY1gQ3aFmm6WjUt-ep3/view；Drive页面只显示Loading，原PDF未读，**仅原件定位，不登记为全文证据**。优先取得该印尼语原文，核2012-05-09媒体所述3500名证人和英译349人差异，并逐地区核Flores、Medan、Buru、Bali、Moncong Loe等原始调查材料。正式CSV与chronology不因重复S127或未打开的PDF改动。G1—G10全部OPEN；下一轮接Meulaboh军区会议原件、KontraS PDF、北苏门答腊1951 P4D原令、1967西加里曼丹军令和Gerwani/BTI基层档案。
+
+
+### 2026-11-12｜G5/G7 帕卢受害者恢复权利的行政执行原件（OPEN）
+
+**证据等级A（已打开官方机构2015年度报告全文相关页）**：Komnas HAM《Laporan Akuntabilitas Kinerja 2015》，https://www.komnasham.go.id/files/20160908-laporan-akuntabilitas-kinerja--%246OLDDK4.pdf ，印刷页21—28，直接记载帕卢市长法规已出台、217户家庭得到援助，以及Komnas HAM、Komnas Perempuan、LPSK协调。正式登记S851/C1515/Q371/CV396。这里A仅指官方机构自身报告原件可核，**不等于受助名单或拨款独立核实**。217户与S850的514名核实受害者、485名愿陈述者分母不同。2015年约1800份证明及1212名获得医疗心理服务者是全国严重侵害案件范围，不可冒充帕卢1965专项统计。
+
+**未得原件/障碍**：①帕卢市长签署的Perwali全文，S850内部写23/2013与25/2013，需辨明；②市政府2013—2015实际支出凭证及217户匿名化受助登记；③Komnas HAM/LPSK按事件及地区分类的援助名册；④受害者本人对援助内容、覆盖遗漏和执行障碍的独立证词。研究跨地区线继续保持G4 Aceh/Medan/Java/Bali/Flores/West Kalimantan/Sulawesi全OPEN。
+
+**异区G4 Flores核验状态C**：John Mansford Prior 2011 *The Silent Scream... Maumere Massacre* 第一、二部分仅打开出版摘要（DOI 10.1163/157254311X562017、10.1163/157254311X600735）；摘要给出1966年2—4月800—2000人估计，但未读论文全文/教会、军警、墓葬原件，不能当独立死亡统计。与Fox排除Flores的Roti/Sawu估算严格分开。下一步查Maumere教区文书、荷兰传教士回忆原稿及Prior全文。
