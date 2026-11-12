@@ -1816,3 +1816,9 @@ G2：直接打开Gerwani 1961《Program Gerwani》及《Peraturan Dasar Gerwani�
 其他持续事项：G1 1923-05-09 Preangerbode原报及1927船运清单；G3跨机关逐时记录；G6 1995政治犯逐人判决与PRD；G7 1998后工会基层及Palu 217户支付；G8英美澳中苏具体交付；G9人物地点组织关系；G10正式CSV去重、chronology排序、成熟中文连续历史。**本次无新增独立事实原件，未改四CSV、chronology、HTML，不以搜索摘要伪装原件**。G1—G10及长期GOAL均OPEN。
 
 当前最后已知提交（状态写入前）81ffd126e861d15541693ba61fa6183099436ea1；本状态自身提交SHA需由GitHub返回并独立核验，不能预写入自己的内容。
+
+## 2026-11-13｜继续接力（G1—G10 OPEN）
+
+已重新读取AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10完整性审计、正式四CSV、chronology和缺口总账。新读西加里曼丹1967年松村智雄19页日文研究全文，升级已有S453，新增C1516/Q373/CV397，chronology和缺口总账已同步；交叉核Gerwani 1959 Sulami全文转录（已有S462）和1959—1964《Api Kartini》42期目录（仅目录），没有重复S号。西加里曼丹约六万人迁移是论文引文，尚未获得1967年军方原令和村级名册。
+
+**精确续接**：①打开《Api Kartini》1959/1961/1964具体期的原扫描与页码，检索Gerwani托育、女农工、地方支部、会费和组织间争论；②取得1967年Kodam XII/Pepelrada签署令、RRI Pontianak广播、Oevaang Oeray十月声明与Sambas/Monterado/Bengkayang逐村迁移和救济记录，独立核松村的因果链；③轮换G6 1995政治犯14人逐人释放/判决和G7 2000工会法实际登记；④继续G4 Aceh、北苏门答腊、爪哇、Bali、Flores、Sulawesi各县军令；⑤推进G8英美澳中苏实际交付证据、G9关系索引、G10中文连续正文。**当前已确认的上一写入提交SHA：5e9dae71a5f0c50a74678c5f8b652a32960d9f21；后续chronology及状态提交SHA以GitHub main实时HEAD为准，不把文件内前置SHA误当最终HEAD。** GOAL永久OPEN，非阶段完成。
