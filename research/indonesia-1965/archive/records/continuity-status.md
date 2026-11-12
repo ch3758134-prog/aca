@@ -1757,3 +1757,14 @@ G1殖民时期：直接打开Boven Digoel县政府历史网页 https://mail.bove
 **异区G4 Flores**：Prior 2011 Maumere论文两部分目前只见出版摘要；未取得全文或地方军警/教会/墓葬原件，800—2000估计仅作者摘要陈述。不可与Fox排除Flores的Roti/Sawu估计混算。
 
 **精准下一执行动作**：①检索并目视核帕卢Perwali签署件（S850写23/2013与25/2013冲突）；②索引帕卢217户援助的市政预算、发放和匿名化资格文件；③追Maumere教区1966年2—4月记录及Prior全文、原始访谈；④回到G4 Aceh军区10月11日会议原件与West Kalimantan 1967地方军令；⑤轮换G1 VSTP报刊、G2 SOBSI/BTI/Gerwani地方会员与G8援助交付，继续G9/G10索引去重。**G1—G10全OPEN，不宣称完成。**
+
+
+## ONGOING / GOAL仍进行｜2026-11-13｜G5/G7帕卢法规原件入口、G4 Flores异地核验
+
+本次已读取main的AGENTS、stage-access、goal-continuity、G1—G10完整性审计、正式source-register/claim-ledger/search-log/coverage-matrix、chronology、research-status和global-gap-tracker。初始main HEAD 95c0a62a699bfb06b3772dc6a973df30ca60954a。缺口总账写入提交 **c840336020776c2b8e27dd3ff608e30df9167002**，其中保留本次搜索入口、访问失败与证据等级；本段续接状态提交自身的SHA须从最终GitHub main HEAD获取（Git提交无法在自身正文中预写自己的SHA）。
+
+**当前研究链G5/G7：** 帕卢2013年Perwali编号23/25冲突。LPSK、ELSAM和2015年地方新闻检索结果一致指向25/2013、17条，LPSK还引第11条，但网页全文打开超时/502；这不是签署件核实。官方JDIH入口 https://jdih.palukota.go.id/ 与 https://sigesitlincah.palukota.go.id/jdih 已定位，尚未取得2013年签署原PDF。2023-12-05 BAPPEDA有关2023年第2号总统指令的活动只见检索页面内容，打开超时；不得将协调等同援助到户。217户的2015 Komnas HAM报告仍是官方自述，需财政与受助者独立证据。
+
+**不同地区G4 Flores：** Prior 2011 Maumere第一/二篇仍只有摘要，教区、军令、墓葬和当事人访谈原件未得。800—2000不能和Roti/Sawu 800—1000相加；2020媒体转述Komnas HAM至少1000也尚未追到调查原页。无新独立事实，因此本次未变更正式四CSV、chronology、中文阅读正文；避免把检索摘要冒充已读原件。G1—G10全部OPEN。
+
+**精准续接操作：** ①在帕卢JDIH以Perwali 25/2013和23/2013双号搜索，下载并核签署页、17条及第11条；②取得LPSK网页全文和ELSAM网页/存档版本，核来源互相依赖；③取得2023年BAPPEDA会议原始议程/纪要、2023总统令实施记录及2013—2015年217户支付明细；④向Maumere教区/Candraditya追Prior所引用的三名荷兰传教士回忆、实施者访谈及1966年2—4月地方名册；⑤轮换Aceh 1965年军区10月会议、G2 Gerwani/BTI/SOBSI基层和G8外国交付档案。未完成，不宣称穷尽，不替作者政治判断。
