@@ -1500,3 +1500,16 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 **G1—G10均保持OPEN。精准续接**：①逐页核Komnas 2007报告附件1981年第32号、1990年第16号、2000年第39号及1969年KEP-009/KOPKAM/2/1969，区分原令、撤销与地方执行；②按PDF第7—12页抽取女性证言地区/组织/拘押设施，核122证言与表格事件数定义；③在正式source-register全量搜索报告标题/ISBN 978-979-26-7542-9及第1290号电报URL后决定是否新增原子主张；④查Palembang Stanvac/Shell/PUSRI 1965年10—12月PERBUM/SOBSI工会名册与军方拘押登记，及Shell火灾调查原件；⑤轮换Flores 1966 Maumere教会档案、Aceh 1965军区文书、West Kalimantan 1967地方迁徙名册、G1 1920年代VSTP原章程、G7改革后工会登记。**本条只是已核证据与精准接力状态，正式CSV/chronology/HTML未改。**
 
 本条写入前已知continuity blob SHA=8c95f11e8fe705200b2daaea104b16411a69721a；GitHub提交SHA必须以更新返回与随后main核验为准，不能预填自身提交SHA。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12｜东努沙登加拉妇女/工农基层链与Komnas Perempuan官方报告交叉检查
+
+本次读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit及正式四CSV全文以查字符串重复，另读global-gap-tracker、research-status与chronology。正式来源当前末尾S838、主张C1477，正式CSV有既存Komnas Perempuan和Jan Djong条目；新采访标题“Murdering army, silent church”未见正式来源表，但尚未完成语义/镜像级去重，不擅自分配S/C编号。
+
+**长期链G2/G4/G5/G6**：实际打开2016-04-11 *Inside Indonesia*采访全文 https://www.insideindonesia.org/archive/articles/murdering-army-silent-church 。Mery Kolimon谈JPIT《Forbidden Memories》研究的Timor、Sabu、Sumba、Alor妇女及教会记忆，特别是BTI救济名册与政治标签、Sabu教师遭杀/解雇、Timor Gerwani失业、Sumba宗教和教会排斥、Soë警察参与杀戮的家族叙述。来源层级B（采访当事人叙述；尚非1965年军警/学校/教会原始执行档案）；不可混同Flores或将采访数字当全国统计。
+
+**不同G项G5/G7**：直接打开Komnas Perempuan 2007-09-03官方报告发布页 https://komnasperempuan.go.id/laporan-pemantauan-ham-detail/laporan-pemantauan-ham-perempuan-kejahatan-terhadap-kemanusiaan-berbasis-jender-mendengarkan-suara-perempuan-korban-peristiwa-1965 ，机构公开陈述对Gerwani和其他被认为与PKI有关联妇女的系统性侵害与持续歧视。发布页是官方机构立场原文，但不是逐案原始证言；前次续接已读取2007 PDF，本次未重新打开PDF。两者尚不能独立验证相同受害者。更详细覆盖、缺件、行动及阻碍已写入global-gap-tracker。
+
+**本次归档范围**：只更新缺口总账和续接状态；正式CSV、chronology、research-status及中文阅读正文仍待内容级去重和具体事件独立证据，不能称已更新。G1—G10永久OPEN。
+
+**下一次精确接力**：①从《Forbidden Memories》2015原书核Timor/Sabu/Sumba/Alor访谈页、受访者同意和地方索引；②追1965—1970 Soë警察档、GMIT/GKS会议记录、Sabu教师任免与BTI救济原名册；③转向Flores Maumere教区1966年2—4月资料与Ende 1967审查队任命；④重新打开Komnas 2007 PDF附件1969 KEP-009、1981 Inmendagri 32、1990 Keppres 16、2000 Keppres 39，查地方实施与废止；⑤轮换Aceh/West Kalimantan地方军令和G1殖民工会、G7 1998后工厂组织。最终GitHub HEAD以提交返回及独立实时查询为准，不能预写未知SHA。
