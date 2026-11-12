@@ -1380,3 +1380,14 @@ S843–S846、S007–S008全文或相关章节已读。劳工运动：1958年Ted
 **不同地区G4/G5 Flores-Maumere**：重新打开Prior 2011论文Part One完整PDF https://repository.divinity.edu.au/divinityserver/api/core/bitstreams/662d52ff-005b-4845-918c-959a06ea50d0/content ，印刷pp126—129记载作者转引Boumans回忆及未出版匿名《Menjaring Angin》：2月16日Soemarno与Suherman在Ledalero神学院讲话，2月20日Wairita行动、2月27日Sikka DPRD-GR会议和逐名讨论被拘押者。作者在pp128—129明确承认部分日期取决于回忆材料是否准确。**该论文及其转引在正式S456/Q372已经登记，不能作为新取得的独立地方原件或新死亡人数**。需取得SVD Ende档案中匿名约130页手稿、Boumans回忆pp81—82、Sikka DPRD-GR会议原始簿、KOMOP命令与监所名单；与Roti/Sawu不同地区数字不得相加。地点/组织关系索引候选：Maumere—Sikka—Wairita—Ledalero；KOMOP—DPRD-GR—Catholic Youth—Ansor—PNI—PKI；Soemarno—Suherman—Jan Djong。不能把被迫参会者自动认定为自愿指挥者。
 
 **跨G1—G10**：G1殖民VSTP报刊与Boven Digoel学校；G2 SOBSI/BTI/Gerwani基层；G3逐时军政广播；G4各省军令与死亡名册；G5幸存者/女性；G6政治犯与劳工重组；G7受助实际支付与当代组织；G8英美澳中苏行动/交付；G9地名人名关系；G10正式CSV与连续正文均保持OPEN。当前不将来源目录提升为法规全文，不把Prior既有论文重复登记。
+
+
+## ONGOING｜2026-11-13｜G2 Gerwani组织原刊载体核查 + G4南苏拉威西跨地区证据去重
+
+**读取与覆盖**：已读AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09 G1—G10、正式四CSV（实际路径archive/records/）、chronology及本总账/continuity-status；research-status.md在archive/records/下不存在。正式来源末号S851、事实C1515、检索Q372、覆盖CV396；先对URL、题名及已有S190/S459/C208/C801/C814/C627等去重，不重复创建新号。
+
+**G2/G5（组织原始文书的不同访问层级）**：发现Kacabenggala Editions对Gerwani 1961年《Program Gerwani》及《Peraturan Dasar Gerwani》的数字重排版页面：https://kabe.drepram.com/works/program-gerwani 和 https://kabe.drepram.com/works/peraturan-dasar-gerwani 。两页**已打开出版/编辑说明和摘要**，说明1961-12-14至17日第四次全国代表大会、前者33项诉求及后者组织章程；PDF下载分别因17MB文件大小等工具限制失败，EPUB因格式不支持失败，**本次没有阅读这两个重排版正文或原印刷本**。已有S459的1961年纲领数字转录全文曾被读过，故本次仅记录新的替代载体/原刊核对线索，不把编辑摘要当新的独立原始证据；组织提出的纲领不等于乡村/工厂执行。另找到Umi Sardjono 1964年Gerwani中央领导委员会第三次全会31页报告《Madju Terus untuk Pengintegrasian Total Gerwani dengan Wanita Buruh Tani dan Tani Miskin》馆藏目录 https://search.alexanderstreet.com/preview/work/bibliographic_entity%7Cbibliographic_details%7C3366026 ，**目录已读、报告全文未读**。下一步通过合法获取该31页文本和1961印刷本，对照S459，追女农工/贫农支部名册、财务、托育和土地委员会记录；不可把1964中央全会与1956年Gerwani第三次全会混同。
+
+**G4/G5（异地区South Sulawesi Makassar/Bone）**：复核已注册S190的1965-11-12美国使馆1425号电报馆藏线索和印尼媒体复述。该电报既有OCR全文访问记录及C208/C814，关于11月10日望加锡华人商铺“90%”和Bone拘押者“200”的说法均源于同一位新教人士向使馆的转述；本次打开的Tirto/IDN Times/转载页都依赖同一电报，**不是新增独立地方证据**。已存在S140/C627所记1965-10-18南苏拉威西Pepelrada KEP.024/10/1965/PDD/1965的调查转引，仍未读签署令。应索Watampone/Bone拘押名册、Makassar商会/火灾与财产登记、军区签署命令及地方教会日记；区分1965年10月人事停职、11月暴力、1970年代Moncongloe拘押。不能将200或90%提升为已证实统计。
+
+**G1/G3/G6/G7/G8/G9/G10继续OPEN**：G1荷文1923 Semaoen原报和1927运输名册；G3逐时广播/军令；G6政治犯逐人及流亡；G7工会基层/受助支付；G8外部行动交付；G9人名地名组织关系；G10证据独立性、chronology按历史事件排序与中文连续正文。此次发现的是替代载体/目录及同源重复，尚不足以修改正式事实台账、chronology或阅读HTML。下一次优先获得Gerwani 1964全文或1961扫描的具体页，并从Bone地方原始登记获得异源证据，随后轮换Aceh/Flores/West Kalimantan/Java与1998后劳工。
