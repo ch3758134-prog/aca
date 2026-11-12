@@ -1,3 +1,9 @@
+## 2026-11-12 17:14 UTC｜G2/G7 1949—1951港口工人史与连续阅读正文
+
+本轮通过康奈尔大学eCommons直接打开John Ingleson 2016年论文全文，纠正S358此前“摘要已读、正文HTTP429”的访问记录；更新S358、C601—C602，新增C1484—C1488、Q365和CV390。正文补入勿拉湾、三宝垄港口工人行动，并扩写十个时期的连续叙事；史料入口已收起，读者可先读完历史主线再逐段打开。S097为已登记FRUS政策回顾，作为1957—1958年美国支持PRRI/Permesta的背景来源复用。本轮未取得1948劳动检查报告、港口签署合同或1951年2月军事规定原件；GOAL与G1—G10继续OPEN。
+
+下一步：①申请或查找1948年劳动检查报告及勿拉湾、三宝垄集体协议；②查1951年2月中央军事权力机构第1号原文、劳资委员会卷宗和地方执行；③轮换G1铁路工会原刊、G2 Gerwani/BTI支部账簿、G4 Aceh/Flores/West Kalimantan地方执行档案、G8援助实际交付；④持续核查剩余CSV并更新连续阅读正文，不宣称资料穷尽。
+
 ## ONGOING / GOAL仍进行｜2026-11-12 15:56 UTC｜G4南苏拉威西与G7劳工法权跨项复核
 
 本次按要求读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit G1—G10、continuity-status、research-status、global-gap-tracker、archive/records/chronology.md及正式四CSV。完整文本去重检索确认1965-11-12使馆1425号电报已经正式登记S190、C208/C814、Q084/Q235/Q266、CV085/CV242/CV306，**不能重复分配新S/C/Q/CV**。
