@@ -1132,3 +1132,14 @@ d168显示State、Defense、CIA和白宫工作人员讨论援助时，对是否�
 
 **G2/G5/G6/G7/G9/G10仍OPEN：**继续Gerwani/BTI地方学校和土地、女性幸存者及华人迁徙名册、政治犯与流亡者、1998后工会实践、人物地点组织关系、正式编号与可读正文。已将本次两链登记正式CSV并写chronology；现有来源不够将其独立写成完整地区章节。
 
+
+
+## 2026-11-12｜G2/G4/G5/G6：东努沙登加拉（Timor/Sabu/Sumba/Alor）基层组织与教会反应；跨G项Gerwani制度后果
+
+**已实际打开全文HTML（B级采访，非1965年军警原件）**：Willy van Rooijen, “Murdering army, silent church”, *Inside Indonesia*, 2016-04-11, https://www.insideindonesia.org/archive/articles/murdering-army-silent-church 。采访对象Mery Kolimon谈及JPIT与教会妇女访谈项目《Forbidden Memories》（2015），范围为Timor、Sabu、Sumba、Alor，不能将其直接替代Flores/Maumere调查。采访中Kolimon称1965年前当地旱灾饥荒期间PKI/BTI参与粮食援助并记录受援者，后来的政治标签可能波及并非正式党员的受援者；Sabu教师遭杀害/解雇，Timor Gerwani女性失业，Sumba宗教转换和教会排斥；她还转述其父亲作为Soë警察参与杀戮的家庭记忆。**这些是采访中可核实的陈述，尚未取得粮食发放名册、学校解雇令、警察命令、教会簿册或访谈原录，不能直接升级为独立确认的地方执行事实。** 本文引述的全国死亡数字亦不当作本研究核定人数。
+
+**不同来源级别A级（机构正式公开声明，非逐案原始笔录）**：Komnas Perempuan 2007-09-03官方报告发布页 https://komnasperempuan.go.id/laporan-pemantauan-ham-detail/laporan-pemantauan-ham-perempuan-kejahatan-terhadap-kemanusiaan-berbasis-jender-mendengarkan-suara-perempuan-korban-peristiwa-1965 。本次直接打开发布页全文，官方陈述Gerwani与被认为关联PKI的妇女遭性别化侵害并受持续歧视；2007年报告PDF在前次接力已被读过，本次**未重新打开PDF**，不得把官网摘要作为新独立证人。两材料相互提供不同调查入口，但没有完成同一受害者/地区的交叉独立核验。
+
+**覆盖/阻碍**：G2粮食援助与BTI受援者名单（D：未得原件）；G4 Soë警察与军政命令、Sabu学校人事记录（D）；G5 Gerwani及寡妇受辱、教会处分和家庭证言（B采访）；G6子女就业与宗教社群资格长期影响（B采访）；G9具体Soë/Sabu/Sumba/Alor地点—机构关系（仅待核线索）；G10正式台账去重及中文正文（未更新）。G1/G3/G7/G8同样OPEN，仍须轮换各省与各时期，不能把东努沙登加拉概括成全国经验。
+
+**可执行下一步**：①取得Kolimon/Wetangterah《Forbidden Memories》2015书中对应访谈原文及地区分章页码；②找GMIT/GKS 1965—1970会议纪要、Sabu教师解雇簿、Soë警察命令及学校名册；③取得BTI粮食救济发放记录并与受拘名单逐人核对；④继续Flores Maumere 1966年教区/地方司法材料，明确不同岛屿不同时间；⑤核2007 Komnas Perempuan附件四项国家命令扫描并追地方执行，之后再作正式CSV去重登记和可读正文整合。GOAL OPEN。
