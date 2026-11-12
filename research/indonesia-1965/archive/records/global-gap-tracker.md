@@ -1180,3 +1180,12 @@ d168显示State、Defense、CIA和白宫工作人员讨论援助时，对是否�
 - **G4/G5｜巴厘，1965年12月至1966年2月，陆军/地方军警/受害家庭**：A-408既有S401/C708；NSA馆方介绍 https://nsarchive.gwu.edu/document/15720-document-24-airgram-408-joint-weeka-no-48 仅作为已登记原件的检索入口。1965-12-21报告“至少一万人”与1966-02 A-527的“八万人”是不同日期、不同口径的美国估计，非可加总死者；A-408 OCR损坏，原扫描部分曾检查但未完成死亡数字原文定位。需A-408和A-527逐页影像、各县军区命令、墓葬与受害人名单、警方商铺损失簿，区分东/西/北巴厘。来源等级：同期外交估计B（人数真实性未核），地方登记D。
 - **G7/G6｜1998年工会结社权，SBSI/ILO/印尼劳动部**：本次直接重开ILO 1998-06-10官方新闻全文 https://www.ilo.org/resource/news/indonesia-pledges-respect-trade-union-rights-ratifies-key-ilo-convention-no ，及1998-11-24官方评估全文 https://www.ilo.org/resource/news/freedom-association-remains-elusive-much-east-and-south-east-asia 。前者称6月5日在雅加达批准/批准仪式，后者确认SBSI获得合法身份、Pakpahan获释，同时引述政府称除Dita Sari外其他工会被拘押者已获释。**国内5日决定与ILO 9日登记不是相互矛盾的日期**（既有CV312、S477/C823）；本次NORMLEX直接打开遇重定向循环，只取得搜索索引，不能称重新读到国际登记原件。1998机构新闻已有S835/C1474，故不新编S/C。地方工会实际组织仍缺PER-05签署文本、SBSI合法登记证、1998—2005工厂工会簿、Dita Sari及其他人员逐人出入狱登记。来源等级：ILO同期机构报道A级限于机构发表与声明；地方执行D。
 - **G1/G2/G3/G6/G8/G10仍OPEN**：1920年代VSTP/PPKB原章程、BTI/Gerwani基层档案、1965跨机关签署命令、布鲁岛和流亡档案、外国实际交付原件、人物地名标准化与中文正文继续轮换。此次仅追加Q361；不把旧来源重新打开计为独立证据。下一步优先中爪哇Kudus Baperki名单及军方收件、巴厘A-527扫描、1998 PER-05与SBSI工厂级登记。
+
+
+## 2026-11-12｜跨G1/G4/G10核验：1923铁路罢工原刊定位与1965—66巴厘死亡估计的来源链（ONGOING）
+
+**G1，1923年VSTP（B：2020年印尼语研究文章全文已打开；原刊未逐页核）**：Agung Purnama《Kaum Buruh Riwajatmoe Doeloe: Pemogokan (Bagian-2)》https://jabar.nu.or.id/sejarah/kaum-buruh-riwajatmoe-doeloe-pemogokan-bagian-2-iCCju 明确指向1923-05-09《Algemeen Indisch Dagblad de Preangerbode》No.126《Semaoen Gearresteerd》，以及1923-06-08三宝垄驻扎官致总督的信（引用VSTP中央通报）。作者称Semaoen 5月8日被捕、5月9日铁路罢工、涉及多个城市；13,000/20,000的参与数字仍是后出作者所述，尚非本轮独立核验的原始统计。已打开Wikimedia Commons的1923-05-05《Sin Po》28页扫描**目录页面** https://commons.wikimedia.org/wiki/File:Sin_Po_5_May_1923.pdf ，未读其中28页内容；不能当作支持罢工数字的同期原刊。须取Preangerbode 1923-05-09 No.126逐页扫描及1923-06-08殖民政府信，核对逮捕、起始时间、VSTP行动、实际铁路线路与参加人数。
+
+**G4/G5，巴厘（A级为FRUS编者说明全文，不是A-527原电）**：直接打开美国国务院FRUS XXVI第162号编者说明 https://history.state.gov/historicaldocuments/frus1964-68v26/d162 ，其第11行引用1966-02-25雅加达A-527号空邮报告对巴厘死亡80,000人的**当时估计**；第18行又转述Howland在1970年依据军方联系人和自己资料推算的巴厘6,000人。两种数字口径、信息形成时间和取样方法不一致，绝不可选择其一当作地方死亡普查，更不可相加。FRUS明确说明当时美国使馆无法可靠核定全国死亡数；本轮并未直接读取A-527扫描或Howland 1970原文。下一步分别索取NARA RG59 POL23-9 INDON A-527、Howland《Studies in Intelligence》14(1970) pp.13–28，以及巴厘县级军警、教区、村庄死亡/拘押/土地记录，核来源依赖。
+
+**G10**：以上先登记为核验与缺口更新，尚未对正式CSV完成逐行内容级去重，不擅分配S/C/Q/CV编号；也未将目录页或编者引文冒充已读原始文书。G1—G10保持OPEN。跨地域继续优先Aceh、北苏门答腊、东/中/西爪哇、Flores、West Kalimantan、Sulawesi；同时推进G2组织、G3逐时机关、G6监禁、G7改革后、G8外国介入、G9人物关系索引。
