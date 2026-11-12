@@ -1721,3 +1721,13 @@ G1殖民时期：直接打开Boven Digoel县政府历史网页 https://mail.bove
 **新事实与未决差异**：6月27日沙赫里尔拘押、6月29日苏加诺第1号令、7月1日释放、7月3日亚明草拟的权力转移法令、7月6日政府声明及后来的审讯证言已分别记入C1507–C1511。苏达尔索诺/亚明说法与苏迪尔曼书面陈述冲突；政府声明指称谭马拉卡集团，作者不接受其为行动现场组织者。BBI资料将9月19日劳工代表会议与10月15日成立日分别记载，不能写成单一确定日期。
 
 **下一步**：①调取ANRI第76号全卷和最高军事法院判决；②取得亚明1957年书面申辩及1948审讯逐字记录，逐句对照苏迪尔曼、苏达尔索诺、亚明证言；③查总统第1号令、7月6日声明与1946年6—7月《Kedaulatan Rakjat》《Merdeka》《Antara》原刊；④查1月联盟会议记录并对不同省份PP成员名单；⑤核BBI成立公告和会议纪要。此支线只改善G3及左翼组织史局部，不改变GOAL和G1—G10均OPEN。
+
+## 2026-11-12 18:00 UTC｜ONGOING / G4-G5地方调查与G7追责原文入口复核
+
+本次先读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit G1—G10、当前续接/缺口总账，并定位正式四CSV与chronology实际位于archive/records/，不是项目根目录。已打开S127对应Jess Melvin 2015全文（https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide）：文中按1965-10-01至05、10-06、10-14、12月至1966年中区分亚齐军政行动阶段，提及军方图上1941名“公开死亡”与研究者推算约10000人；1941不是全省总死亡名册，10000是作者假设外推。该文章为研究者解读原档（B），不是本次直接取得的军方原件；已登记S127，不新增来源。
+
+跨G项G5/G7新定位：印尼KontraS开放《1965—1966年严重人权侵害调查特别小组调查结果执行摘要》印尼语下载入口（https://kontras.or.id/perpustakaan/regulasi/ringkasan-eksekutif-hasil-penyelidikan-tim-ad-hoc-penyelidikan-pelanggaran-ham-berat-peristiwa-1965-1966/），其DOWNLOAD直指Google Drive文档ID 18V_EY-7XYUQZkcY1gQ3aFmm6WjUt-ep3（https://drive.google.com/file/d/18V_EY-7XYUQZkcY1gQ3aFmm6WjUt-ep3/view）。KontraS目录页已打开，Drive页面仅返回Loading，**印尼语PDF正文未读**；它是取得Komnas HAM原文的重要新入口，不可将目录或旧英译当成此次原文核验。2012-05-09 Jakarta Post采访（https://www.thejakartapost.com/news/2012/05/09/evidence-systematic-killings-1965）提及3500位证人，需与既存译文349口径按调查阶段、被访者与证词数量核查，报纸不是原始调查数据。
+
+**G1—G10仍OPEN**；G4亚齐/北苏门答腊/爪哇/巴厘/Flores/加里曼丹/Sulawesi地方命令和名册缺口不因找到目录关闭；G1殖民组织原刊、G2基层组织、G3跨机关签署、G6囚犯与流亡、G8交付、G9关系索引、G10连续正文均未闭合。本次为既有S127全文复核与新PDF原件定位，未取得足以独立新增事实的原件，故正式CSV和chronology不改，不虚增编号。
+
+**精准续接**：①从KontraS链接合法取得印尼语Komnas HAM执行摘要全文并逐页核对Flores、Medan、Buru、Moncong Loe、Kemarau、Bali和统计口径；②查Aceh 1965-10-11 Meulaboh特别会议原始会议记录与Kodam I年度报告及其军令附件；③查北苏门答腊1951年P4D原令和工会会员/会费原件，连接1965企业清洗；④取得西加里曼丹1967军区命令及地方迁徙名册；⑤轮换Gerwani/BTI原始基层材料和1998后工会登记簿。提交SHA以GitHub写入返回为准。
