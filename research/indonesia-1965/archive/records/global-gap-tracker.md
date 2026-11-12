@@ -1351,3 +1351,12 @@ S843–S846、S007–S008全文或相关章节已读。劳工运动：1958年Ted
 **异区G4 Flores/Maumere：** 再核John Mansford Prior 2011论文第一部DOI 10.1163/157254311X562017的出版摘要 https://www.researchgate.net/publication/274531247_The_Silent_Scream_of_a_Silenced_History_Part_One_The_Maumere_Massacre_of_1966 ；全文仍需授权取得。摘要的800—2000仅作者研究估计，不是新读地方监所/教区死亡名册；与Fox排除Flores的Roti/Sawu 800—1000严格分开。另见BBC 2020报道对Komnas HAM所谓至少1000人的转述（未读Komnas HAM原始分县材料），不得当作独立于Prior的死亡统计。优先向Maumere教区、Candraditya、Komnas HAM取得1966年2—4月逐村调查、行动与教会记录。
 
 **跨G项未闭合：** G1 VSTP/殖民报纸原版；G2 SOBSI/BTI/Gerwani基层名册；G3军区跨机关命令；G4 Aceh/Medan/Java/Bali/Flores/West Kalimantan/Sulawesi军警原件；G5女性/族群幸存者证词；G6监禁与SOBSI-FBSI组织断裂；G7后续地方执行；G8外国援助实收；G9人物地点关系；G10正式CSV去重和连续阅读正文。以上本次均未宣布关闭。正式CSV/chronology/正文不因未能打开原件而强制添加事实。
+
+
+### 2026-11-12｜G5/G7帕卢2013法规官方目录直接核验；异区G4 Maumere全文复核（OPEN）
+
+**帕卢法规证据升级（官方目录全文已直接打开，签署PDF未读）**：帕卢市政府JDIH法规列表 https://jdih.palukota.go.id/produkhukum?page_hal=135 明确列有《Peraturan Wali Kota Nomor 25 Tahun 2013 Tentang Rencana Aksi Nasional Hak Asasi Manusia Daerah》；详细条目 https://jdih.palukota.go.id/detail_peraturan/1127 明列法规编号25、制定日期2013-12-30、来源Bagian Hukum Sekretariat Daerah Kota Palu、地方公报2013年第25号。官方PDF下载链接 https://jdih.palukota.go.id/unduh_peraturan/252.pdf 已点击，但返回application/octet-stream工具不支持，容器下载也失败。**因此可确证官方目录登记25/2013及日期，不能宣称已经阅读签署页、17条或第11条，更不能凭目录核实217户支付**。S850中的23/25冲突现有官方目录支持25，23是否另有不同法规仍须查。来源级别A-目录原始元数据／C-法规正文未读。地区Palu，组织市政府法制处、SKP-HAM、Komnas HAM、LPSK。下一步通过合法浏览器下载252.pdf，核签章/第11条/附件，并检索同年23号法规。
+
+**不同地区G4/G5 Flores-Maumere**：重新打开Prior 2011论文Part One完整PDF https://repository.divinity.edu.au/divinityserver/api/core/bitstreams/662d52ff-005b-4845-918c-959a06ea50d0/content ，印刷pp126—129记载作者转引Boumans回忆及未出版匿名《Menjaring Angin》：2月16日Soemarno与Suherman在Ledalero神学院讲话，2月20日Wairita行动、2月27日Sikka DPRD-GR会议和逐名讨论被拘押者。作者在pp128—129明确承认部分日期取决于回忆材料是否准确。**该论文及其转引在正式S456/Q372已经登记，不能作为新取得的独立地方原件或新死亡人数**。需取得SVD Ende档案中匿名约130页手稿、Boumans回忆pp81—82、Sikka DPRD-GR会议原始簿、KOMOP命令与监所名单；与Roti/Sawu不同地区数字不得相加。地点/组织关系索引候选：Maumere—Sikka—Wairita—Ledalero；KOMOP—DPRD-GR—Catholic Youth—Ansor—PNI—PKI；Soemarno—Suherman—Jan Djong。不能把被迫参会者自动认定为自愿指挥者。
+
+**跨G1—G10**：G1殖民VSTP报刊与Boven Digoel学校；G2 SOBSI/BTI/Gerwani基层；G3逐时军政广播；G4各省军令与死亡名册；G5幸存者/女性；G6政治犯与劳工重组；G7受助实际支付与当代组织；G8英美澳中苏行动/交付；G9地名人名关系；G10正式CSV与连续正文均保持OPEN。当前不将来源目录提升为法规全文，不把Prior既有论文重复登记。
