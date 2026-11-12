@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-13 UTC｜G7 2026工会法刑罚调整原件 + G4地方原件缺口轮换
+
+**已读取** main AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09 G1—G10、正式CSV表头与首行、chronology及滚动状态/总账；research-status.md路径未找到。**本次纠正前轮悬而未决的2026法律线索**：直接打开印尼司法法规官方PDF https://www.peraturan.go.id/files/uu-no-1-tahun-2026.pdf ，原法第1—2页及附件一印刷第9页（网页提取行3434—3451）。2026年第1号法的正式名称是《刑罚调整法》（Penyesuaian Pidana），而非专门《工会法修正法》；其附件一明确列出2000年第21号《工会/工人组织法》（Serikat Pekerja/Serikat Buruh）**第43条**的刑罚调整（OCR表格列交错，应逐页目视确认具体新刑期和罚金），不是工会登记/成立制度整体重写。原件直接读取级别为**官方PDF正文及附件OCR打开，未逐页图像校核**；前轮“2026第1号法可能修改UU21/2000”的第三方线索现可收窄为**刑事处罚条款调整**。需进一步与2000年法第43条原文及2026附件影像逐字比较，不能由此推断工会基层实际执法变化。此法尚需与正式source-register全文去重后才可分配S/C编号；不得提前自造ID。
+
+**不同G项G4地域缺口继续保持**：Aceh Langsa 1965-10-11 Kodim-0104会议簿与10-18 Baperki声明原件未取得；Flores Sikka 1966-02-27 DPRD-GR/KOMOP会议、West Kalimantan 1967军令、North Sumatra 1965-06 Darjatmo令、Bali/Java地方监所和Palu Kodim1306名单仍未取得。此次未打开新地方军政原件，既有Melvin/Prior/领事报告不得视为独立地方佐证；保留为未结。G1殖民工会原报、G2群众组织基层、G3跨机关时间、G5幸存者、G6监禁流亡、G7执行、G8外国交付、G9关系空间索引、G10连续正文与去重全OPEN。
+
+**精准续查**：①逐页目视核2026年第1号法附件一印刷第9页工会法第43条新刑罚；②与UU21/2000第43条及判决/执法案例交叉；③Aceh Kodim-0104 1965-10-11会议和Baperki 10-18声明原扫描；④West Kalimantan 1967县军令、Flores Sikka 1966-02-27会议原簿；⑤G2 Gerwani 1964报告全文和G1 VSTP荷文原报。长期GOAL OPEN，不能凭一份法律文件宣布任何G项完成。
+
 ## GOAL OPEN｜2026-11-12｜G4 Aceh异源性与G7法律延续交叉核验
 
 **本次读取**：AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09 G1—G10、正式四CSV、chronology、滚动总账与续接状态。research-status.md在archive/records/路径404。既有正式S612（Melvin 2013）、S325（MK 011-017/2003）、S611（UU21/2000）、S459（Gerwani纲领）已去重，不新造编号。
