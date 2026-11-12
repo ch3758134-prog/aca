@@ -1,3 +1,9 @@
+## GOAL OPEN｜2026-11-12｜G4 Aceh + G7工会/选举法接力
+
+已读取必需AGENTS、stage-access、goal-continuity、G1—G10完整性审计、正式CSV、chronology及滚动缺口总账。研究状态research-status.md在archive/records/下404。G4已打开Melvin 2013开放全文并核Langsa Baperki 1965-10-18声明转引（S612），尚未获得原声明或1965-10-11军方会议簿；苏加诺所谓“铲除”广播不可当真。G7已打开2000工会法最高法院官方目录及2004 MK判决官方入口，S611/S325已登记；2026年对UU21/2000修法仅第三方线索、原法未读。G2 1964 Umi Sardjono 31页报告仅目录。所有来源级别/障碍详见global-gap-tracker最新首段。**本次总账已提交：e5fc36d60726b7e8fd50c788f2f94e43b4fb10dd**。
+
+**精确续接**：①查Langsa 1965-10-18 Pernjataan原扫描、Kodim-0104 10月11日会议簿及RRI广播清单，区别研究者转引与原件；②取得2026年第1号法律官方全文核对是否/如何修订UU21/2000，并查省县工会登记、2004候选资格实际执行；③Gerwani 1964 DPP 31页原报告及基层财务/名册；④继续轮换Flores Sikka 1966-02-27军政会议、West Kalimantan 1967军令、Aceh军区命令、北苏门答腊Tjahaja原报、爪哇/Bali监所簿；⑤G1殖民报刊、G3逐时、G6政治犯/PRD、G8外国交付、G9关系索引、G10中文连续正文。正式CSV与chronology本次无独立新事实，未虚增编号。**G1—G10和GOAL永久OPEN**。本状态文件自身提交SHA需提交后读取main确认，不能自引用。
+
 ## GOAL OPEN｜2026-11-12｜本次核验续接
 
 已重读AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式四CSV及archive/records/chronology.md。直接读取509号原PDF文本并重读183A四页OCR，S124/S378/S377、C098/C663、Q234均为既有登记，避免重复；G4泗水203本次仅核馆藏说明。详见global-gap-tracker顶部。**精准下一步**：①1965-06-06 Darjatmo PEPELADA/DWIKORA命令及《Tjahaja》当期、北苏门答腊省长禁令；②1965-12 Pantja Tunggal区县改组、PWI/Front/Hansip原令；③Pasuruan与Bali 1965-12军警监所及商户独立记录；④G1 1923 Preangerbode原报；⑤G2 Gerwani/BTI基层与G8外国实际交付。G1—G10与GOAL永久OPEN；本段不预填自身提交SHA，提交结果需再次核实。
