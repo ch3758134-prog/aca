@@ -1411,3 +1411,11 @@ S843–S846、S007–S008全文或相关章节已读。劳工运动：1958年Ted
 **G4/G5（异地区South Sulawesi Makassar/Bone）**：复核已注册S190的1965-11-12美国使馆1425号电报馆藏线索和印尼媒体复述。该电报既有OCR全文访问记录及C208/C814，关于11月10日望加锡华人商铺“90%”和Bone拘押者“200”的说法均源于同一位新教人士向使馆的转述；本次打开的Tirto/IDN Times/转载页都依赖同一电报，**不是新增独立地方证据**。已存在S140/C627所记1965-10-18南苏拉威西Pepelrada KEP.024/10/1965/PDD/1965的调查转引，仍未读签署令。应索Watampone/Bone拘押名册、Makassar商会/火灾与财产登记、军区签署命令及地方教会日记；区分1965年10月人事停职、11月暴力、1970年代Moncongloe拘押。不能将200或90%提升为已证实统计。
 
 **G1/G3/G6/G7/G8/G9/G10继续OPEN**：G1荷文1923 Semaoen原报和1927运输名册；G3逐时广播/军令；G6政治犯逐人及流亡；G7工会基层/受助支付；G8外部行动交付；G9人名地名组织关系；G10证据独立性、chronology按历史事件排序与中文连续正文。此次发现的是替代载体/目录及同源重复，尚不足以修改正式事实台账、chronology或阅读HTML。下一次优先获得Gerwani 1964全文或1961扫描的具体页，并从Bone地方原始登记获得异源证据，随后轮换Aceh/Flores/West Kalimantan/Java与1998后劳工。
+
+## ONGOING｜2026-11-13｜G4/G5西加里曼丹全文与G2妇女原刊异项核验
+
+**G4/G5/G8/G9 West Kalimantan**：打开松村智雄2015年《1967年「ダヤク示威行動」…》19页日语PDF全文（https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_pdf/-char/en），既有S453从摘要升级为学术全文，新增C1516/Q373/CV397。论文区分苏加诺时期跨境PGRS/PARAKU与1965后军方政策变化，分析Oevaang Oeray、Palaoensoeka、1967年10月红碗动员与内陆商贸崩解。**约六万人迁移引自Davidson/Kammen而非作者直接清点；没有取得同期军令、RRI广播、村级名册**。优先索1967 Kodam XII/Tanjungpura与Pepelrada签署令、Pontianak RRI录音/文字、Oeray 10月声明、Sambas/Bengkayang/Monterado迁移和救济名册；区分PGRS/PARAKU成员与普通华人，区分驱逐、杀害、难民营死亡。
+
+**G2/G1（不同G项与年代）**：打开Sulami发表于1959年Women of the Whole World第3期30-31页的全文数字转录（https://gerwani.logosid.app/teks/14），已有S462/Q261，不重复登记。其1948 KOWANI争论、1950 Gerwis成立、1954改名、1957组织与选举数字均为参与者回顾和组织自述；原期刊影像、1948会议记录和地方会员名册未核。另打开https://gerwani.logosid.app/majalah ，目前页面列42期1959-1964《Api Kartini》封面/入口，尚未逐期读取扫描正文；1964 Umi Sardjono 31页报告仍只得馆藏目录。下一步从1959、1961、1964期选择原页核组织支部、妇女农工、托育与婚姻运动，查同一组织内部的数字依赖。
+
+**G1—G10审计保持OPEN**：G1殖民原刊/运输与1945-49；G2 SOBSI/BTI/Gerwani/Pemuda Rakyat/LEKRA基层；G3跨机关逐时；G4 Aceh/北苏门答腊/爪哇/Bali/Flores/West Kalimantan/Sulawesi等军令；G5族群与妇女幸存者；G6监禁/流亡/1970-98再组织；G7 1998-2026工会/政党/恢复权利实际执行；G8英美澳中苏交付；G9人物地点组织关系；G10去重、时间线排序与中文可读正文。缺失原件和阻碍如上，下一条轮换G6或G7独立原件及G4其他省份，绝不以本地论文代表全省。
