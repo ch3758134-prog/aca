@@ -1695,3 +1695,7 @@ G1殖民时期：直接打开Boven Digoel县政府历史网页 https://mail.bove
 
 
 **2026-11-13归档完成校正：** 已按当前文件SHA顺序成功写入正式source-register S841、claim-ledger C1482-C1483、search-log Q364、coverage-matrix CV389、chronology及global-gap-tracker。上一段“待并库”是提交前状态，以本段为准。写入前最新已知main提交为01f30e5bfee97fcce12e9762174ae1bf1336dac8；本状态文件提交后最新SHA以GitHub返回为准。GOAL仍OPEN。
+
+## ONGOING / GOAL仍进行｜2026-11-12｜1948外交机制与工会运动全景补充
+
+新核读S843–S846及FRUS S007–S008全文：S/787记录Good Offices报告和四个委员会/会议保密规则；Barco 1948-09-03内部备忘录将反共、荷兰利益和美国战略/经济利益并列；工会材料补充BBI/PBI分化、SOBSI/WFTU关系、1955工会机构数及Soepardjan国际旅行与监狱笔记。新增C1497–C1504、Q367、CV392–CV393，chronology与中文连续阅读同步更新。下一步追原始会议/工会记录、1955劳动部名录、工会会员册及笔记原件，并继续核对美国外交判断与印尼/荷兰/澳大利亚文书。G1–G10、GOAL继续OPEN。
