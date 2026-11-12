@@ -1608,3 +1608,10 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 **精确下一动作**：①在正式台账登记FRUS d208及其互不等价的三种计划数字、检索与覆盖，补1978 chronology和中文连续正文；②找1978-08-17实际释放命令、布鲁岛出营名册、澳大利亚记者原报道，比较Moncongloe SPRIN/802/TPD/XII/1977；③找1965-10-21 Sutomo与SARBUMUSI/SOKSI会议纪要、SOBSI行业冻结正式通令、巨港Stanvac/Shell/PUSRI拘押名册；④继续G1 VSTP原刊、G4 Aceh/Bali/Flores/West Kalimantan县级军令、G5 Gerwani、G7工厂级登记、G8外援实际交付、G9关系索引。GOAL及G1—G10全部OPEN。
 
 本状态文件写入前最后已知成功SHA为`7dba1debc5218c59e737c4f49b68f02af15886f0`；自身提交SHA须以返回值和后续main HEAD为准。
+
+
+## 2026-11-12｜正式并库复核及最新接力（GOAL OPEN）
+
+在上条状态之后，已成功逐项正式并库S840（FRUS 1978-05-09 d208）、C1481（布鲁岛释放计划三种不等价数字）、Q362、CV388，并更新archive/records/chronology.md和project/research-status.md；同时保留既有S146/S196而不重复来源。上述文件最后成功提交 `c86223961cf2e4fcf6e2d8b9dc62657add278a87`，本状态写入自身会产生新的SHA，必须用GitHub HEAD再独立核实。
+
+**精准接力**：①取得1978-08-17实际释放令、布鲁岛逐人名册与澳大利亚记者原报道，和1977 Moncongloe限制性释放区别；②取得1965-10-21劳动部会见记录、SOBSI产业冻结正式命令、巨港Stanvac/Shell/PUSRI拘押和解雇记录；③转换G1 1923铁路罢工原刊、G4 Aceh/Bali/Flores/West Kalimantan县级军令、G5 Gerwani基层、G7 1998后工厂登记、G8外国援助实际交付、G9人物组织地点索引；④继续逐章整理可读中文历史而非旧式列表HTML。G1—G10全部OPEN，研究未完成。
