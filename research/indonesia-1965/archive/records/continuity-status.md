@@ -1476,3 +1476,14 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 **本次归档限制**：以上两份电报已在缺口总账和既有续查中多次出现，故本次没有冒充新来源或增加S/C/Q/CV编号；chronology及中文连续正文尚无新增独立地方证据，不做重复段落。已找到正式CSV的正确路径，但未完成完整内容级去重。G1—G10全部OPEN。
 
 **精确续接**：①比对1168号电报扫描与1965-10-21劳动部原收文，分别列出冻结产业与签发机关；②查1965-10—12 Stanvac/Shell/PUSRI企业工会名册、PERBUM干部、军方拘押登记及炼厂火灾调查；③核S837/S838与1168/1290的正式URL去重；④转向Aceh 1965-10-11地方议会原会议记录及Flores 1967审查队任命书；⑤轮换Gerwani/BTI基层原件、布鲁岛释放记录、1998后工会注册与外部交付证据。最新提交SHA须以本文件写入返回值和GitHub实时main比较为准，不能在提交前预填。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12｜Aceh军方原始图表的统计口径 × G7 2012调查报告访问边界
+
+本次再次读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit（G1—G10全部仍OPEN）、正式四CSV的表头与早期行、chronology及当前续接；本次未完成四CSV全量内容级去重，**不新编S/C/Q/CV**，不能将检索次数冒充正式登记。G1早期组织、G2工农妇组织、G3逐时指令、G4地区暴力、G5妇女族群、G6政治犯与流亡、G7改革后、G8外国实际交付、G9关系索引、G10数据/中文阅读正文均保持OPEN。
+
+**G4/G5/G9｜Aceh，1965-10—1966，KODAM I、Ishak Djuarsa、Ahmad Mokoginta、地方民兵及政治被拘者。**直接打开Jess Melvin本人2015-10-01发表的完整文章 https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide （正文第18—40段），该文作者直接描述其在Banda Aceh取得的军方档案，并展示一张军方死亡地图的照片（并非本次逐张读取全部原始军档）。文中明确区分：①军方图表记载的1941名**公开杀害**者；②在集中杀害地点的其他死者未计入该图；③约10000人属于作者以假设比例推算的**推测值**，不是军方统计、逐村普查或另一个独立死亡名册。该文叙述10月1日来自Jakarta/Medan的命令、10月4日地方民政领导声明、10月14日前后建立战情室，均须进一步逐件查签署原文、发送和收件时间；不可把研究者完整文章视为所有原档已被本项目核读。另其叙述1941人的图示与死亡估算不能和其他县市数字直接相加。2015作者对“genocide”的法律/历史解释与可核行动事实分开保留。
+
+**跨G项G7/G10｜2012年人权追责与档案开放。**直接打开国际特赦组织2012-07-27官方文件入口 https://www.amnesty.org/zh-hant/documents/asa21/028/2012/en/ ，可核其日期、标题、印尼语版本和PDF下载入口，但**本次没有读取PDF内容**；打开Komnas HAM官方2012年年报数据页 https://dataham.komnasham.go.id/home/data_detail/11b9842e0a271ff252c1303903e7132cd68 遭403，页面检索结果提示PDF需要登录，故只可记目录/访问障碍，不能声称核读年报。2012-07-24同期报道 https://www.thejakartapost.com/news/2012/07/24/1965-purge-a-gross-violation-human-rights 记载Komnas HAM宣布1965—66镇压为严重侵害人权；此为记者对机构发布会的报道，不等于已取得840页调查原件或检察机关采取行动的证据。2012-05-09报道 https://www.thejakartapost.com/news/2012/05/09/evidence-systematic-killings-1965 则是正式结论前的调查进展，不能把当时采访数字与最终报告样本直接相加。
+
+**精确续接与障碍**：①先以source-register和claim-ledger全文检索Melvin 2015文章/1941人图及ASA21/028/2012，去重后仅登记新命题和证据层级；②取Aceh军方1941人地图高清原图、图例、各县分布及同卷签署日期，并取得10月1/4/14各份军令扫描和收发登记；③取2012 Komnas HAM原版调查报告、正式声明及Amnesty 2012-07-27 PDF，对照调查阶段、证人数与受害者数口径；④切换G2 Gerwani/BTI基层账簿和G6 Buru/PRD原件、G7 1998后工厂级组织，避免地区单线固化；⑤完成正式CSV去重和chronology按日期整理，成熟后再改briefs/readable-history中文连续正文。本次没有修改CSV、chronology、readable-history或缺口总账，**这些工作未完成**。提交前实时HEAD未在文本内预写；本次提交返回SHA及GitHub main比较另行核实。GOAL仍OPEN。
