@@ -1615,3 +1615,12 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 在上条状态之后，已成功逐项正式并库S840（FRUS 1978-05-09 d208）、C1481（布鲁岛释放计划三种不等价数字）、Q362、CV388，并更新archive/records/chronology.md和project/research-status.md；同时保留既有S146/S196而不重复来源。上述文件最后成功提交 `c86223961cf2e4fcf6e2d8b9dc62657add278a87`，本状态写入自身会产生新的SHA，必须用GitHub HEAD再独立核实。
 
 **精准接力**：①取得1978-08-17实际释放令、布鲁岛逐人名册与澳大利亚记者原报道，和1977 Moncongloe限制性释放区别；②取得1965-10-21劳动部会见记录、SOBSI产业冻结正式命令、巨港Stanvac/Shell/PUSRI拘押和解雇记录；③转换G1 1923铁路罢工原刊、G4 Aceh/Bali/Flores/West Kalimantan县级军令、G5 Gerwani基层、G7 1998后工厂登记、G8外国援助实际交付、G9人物组织地点索引；④继续逐章整理可读中文历史而非旧式列表HTML。G1—G10全部OPEN，研究未完成。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12跨G项接力
+
+已读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit全部G1—G10、正式四CSV、chronology、research-status和global-gap-tracker；正式台账当前最大S840/C1481/Q363/CV388。本次直接打开NSA A-398同期原件OCR（S189，已登记C1401—C1404；扫描此前已目视核对），以及FRUS 1978-05-09 d208全文（S840/C1481），对照两条不同年代证据链。A-398的Njono口供真伪仍未独立查证，1966 A-74原件和名单交接/收件/实际使用记录仍缺；1978年释放计划的三种说法尚无实际出营名册。两条均不制造重复S/C，检索Q363正式登记，G1—G10缺口总账已更新。NSA 2017汇编只作档案入口，未当作地方原件。
+
+**下次精准动作**：①从NARA RG59 POL12 INDON获取1966-08-10 A-74原件及附表，核删节名单与印尼收件记录；②核Njono供词原件和1965-05 PKI中央全会干部任免；③取1978-08-17正式释放命令与Buru逐人出营/地方接收登记；④转入Aceh/Flores/West Kalimantan军区县级原件及受害者登记，优先纠正G4地区失衡；⑤轮换1923-05-09 Preangerbode No.126及SOBSI/BTI/Gerwani基层原件，成熟后再连写中文历史，不制作旧式列表HTML。
+
+本段写入前最近成功提交为 `25260ac0972aceffccec9220270a1c92f368dbeb`；**本文件自身提交将产生新的main SHA，须以GitHub提交返回值和后续独立比较为准**。GOAL永久OPEN，未完成。
