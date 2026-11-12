@@ -1663,3 +1663,14 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 已读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit、正式source/claim/search/coverage CSV、chronology、research-status、global-gap-tracker。直接核读FRUS XXVI d162（2000年编者说明）和d229（1967-02-17会谈原文）；另打开NSA泗水183号馆藏说明（仅目录，不是原电）。在global-gap-tracker登记Aceh 1269/1374、东爪哇1438/171/183的来源依赖与县级名册缺口；核实Green所说1966紧急包已送达（仅本人陈述）与1967 civic action尚未交付是**不同项目**，不能互相覆盖。正式S452等已登记，未新造S/C；本次尚无独立地方原件，故未改chronology/中文正文。缺口总账提交 `1dcfd975b71c66d1231bc9e5bda747fad9ac2a10`。
 
 **精准续接**：①取1965-10-29第1269号、11-08第1374号、11-13第1438/171号、11-26泗水183号原电扫描并核签署/收件；②从Aceh IP-KI/军区命令及Kediri/Pare/Tulungagung教区、警局、村档核实具体受害者；③分别查1966 emergency package交付签收与1967 civic action Pentagon assessment/货运档；④轮换1923 VSTP殖民原刊、SOBSI/BTI/Gerwani基层、Buru出营名册及1998后工厂登记；⑤对正式CSV做内容级去重后再增加主张、时间线和成熟的中文历史正文。G1—G10全部OPEN。**此段写入前最新成功提交** `1dcfd975b71c66d1231bc9e5bda747fad9ac2a10`；本状态文件自身提交SHA以GitHub实际返回与后续HEAD为准。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12｜G4南苏拉威西与G1殖民流放教育跨项核验
+
+基线main HEAD（写入前独立查询）：3b1f764ad5a69eac774aa4bb5272ee65e2f3ca6e。已读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit及正式source/claim/search CSV、chronology；coverage-matrix连接器读取中断，不能宣称四CSV完整逐行核验。G1—G10全部仍有来源级、地域、年代、组织和索引缺口，不能将旧审计的数量当作当前数量。
+
+G4南苏拉威西：直接打开NSA馆藏对1965-11-12第1425号电报的文书说明 https://nsarchive.gwu.edu/document/15708-document-12-telegram-1425-american-embassy 。馆藏转述Marshall Green电报，电报再转述一位苏拉威西新教人士：11月10日望加锡华人商铺受袭，Bone一处拘押营据称有200名PKI囚犯被杀。**本次访问级别是馆藏说明，不是重新打开8页扫描**；数字来自单一间接消息源，不能作为县级名册或两份独立统计。正式旧记录S190及C208/C814已存在，暂不新增S/C。进一步核验Bone拘押营位置、军警/宗教团体参与者、营地在押人数、死亡名单与埋葬地点，并查望加锡华人商会/地方警察记录，防止把两类事件机械合并。
+
+G1殖民时期：直接打开Boven Digoel县政府历史网页 https://mail.bovendigoelkab.go.id/halaman/sejarah ，其为**后来的地方政府历史叙述**，记载1927年建立政治流放营，不能代替1926年殖民行政会议记录。另打开Langgeng Sulistyo Budi 2017年研究文章的**摘要与书目信息** https://ejournal.undip.ac.id/index.php/jscl/article/view/15596/0 ：摘要称1927年设立Standaardschool，后来发展为Standaardschool met Nederlandsch，研究采用档案和访谈；未读论文PDF全文或其原始学校登记。研究问题由单纯流放人数深化为流放者家属、儿童教育与殖民行政如何形成长期社会关系；不能把摘要所述学校机制写成已独立核实的原始事实。与既有chronology关于1927年营地建设和首批流放者时间区别，暂不重写。
+
+**下一精准动作**：①获取1425号电报原始8页扫描，核第7页及发报日期、消息人层级；②Bone县军警/教会/监所和墓葬登记，核200人报告与营地身份；③取得Budi 2017全文及其注释中的ANRI学校档案号，追1927—1943学校名册、教师及流放家庭；④获取1926-11-18 Raad van Nederlandsch-Indië会议原始纪要并与1927-01营地建设记录比对；⑤轮换G2 Gerwani/BTI/SOBSI基层、G6 Buru政治犯、G7改革后工会、G8外交交付及G9/G10人物地点索引，继续中文连续历史正文。此次未完成正式CSV去重，不制造新编号；GOAL永久OPEN。此文件提交将生成新SHA，以GitHub响应及再次HEAD核对为准。
