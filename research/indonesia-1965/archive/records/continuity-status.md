@@ -1544,3 +1544,11 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 不同G项G7/G10直接打开印尼劳工部官方第21/2000号工会法登记 https://jdih.kemnaker.go.id/peraturan/detail/32 ，核最低10人、书面通知登记及已登记工会代表权；正式S611已存在且之前读过官方PDF，故不新建来源。官方门户之间法律现行状态有差异（BKN称不再有效，Kemnaker/BPK称仍有效），必须查正式修法和司法裁决，不能按网站元数据裁定。完整细项已写入global-gap-tracker。
 
 **本次归档**：缺口总账已提交，提交SHA 23d1e6e893f773079a7af46bd2377ebb05882077；正式CSV/chronology/中文阅读正文没有新增，原因是新打开的历史来源S729及主张C1245/C1246均已存在，不能复制成新事实。下一次优先①Arasoe糖厂工人/Watampone监狱及Kajolo墓地名册，核Bone死者与日期；②1969 Moncongloe营原始入所、1977 SPRIN/802/TPD/XII/1977和1979 Nanga-Nanga转运原令；③2026法律修改原件、工会登记及工厂争议裁决；④换G1 VSTP原章程、G2 Gerwani/BTI地方机构、G3广播命令、G4 Aceh/Java/Bali/Flores/West Kalimantan及G8英美澳中苏交付链；⑤待有真正独立新增证据时再更新正式CSV、chronology和连续中文历史。G1—G10全部OPEN，长期GOAL未完成。此状态文件提交SHA须以GitHub写入返回及main再次核验为准。
+
+## 2026-11-12｜持续GOAL精确续接：政治审查原件与巴厘地方暴力（全部OPEN）
+
+本次读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09（G1—G10）、四正式CSV、chronology、research-status和global-gap-tracker。直接打开印尼BPK Keppres16/1990完整四页PDF https://peraturan.bpk.go.id/Download/54068/KEPPRES%20NO%2016%20TH%201990.pdf ，并打开Keppres39/2000完整PDF https://peraturan.bpk.go.id/Download/47270/Keputusan_Presiden_no_39%20TH%202000.pdf 。确认1990法令第3—6、11—12条的再调查、晋升审查、BAKORSTANAS分类、旧清查材料继续有效、特定国企覆盖；2000-03-10撤销不等于地方就业歧视自动终止。复用S404/S405；新增C1479、Q358、CV385并更新chronology/research-status/global-gap-tracker。另打开1965-12-21/22第203号电报OCR https://nsarchive.gwu.edu/media/15721/ocr ，复用S449（S832重复），对巴厘华人店铺纵火、Sutedja助手人数和东爪哇夜间拘押移交保留来源冲突和缺地方原件；既存C789/C790不重复登记。
+
+**下一动作，按证据价值轮换而非批次结束**：①查BAKORSTANAS 1990—2000审查实施规则与县级人事表、国企实际录用/拒绝和2000撤销后的复职记录；②查Bali 1965-12地方商会/警察火灾登记、Sutedja省长人员名单及12月16日日本领事报告；③查Pasuruan与Assembagus监狱出入簿和Jombang NU 1965-12-17决议原刊；④下一不同G项转G1 1920年代VSTP章程或G8 1965—67英美澳中苏实际交付记录；⑤继续Aceh/北苏门答腊/中东西爪哇/Flores/West Kalimantan/Sulawesi县级证据与1998—2026工会执行。原件、二手访谈、摘要必须分级；不替作者政治判断、不建旧式列表HTML。G1—G10及长期GOAL全部OPEN。
+
+**提交链与续接校验**：本条写入前的main HEAD=3473f3084930f6e08ed8be07bb53ec034cbaa46e；本条提交自身SHA须以写入返回值及随后独立main查询为准，不能在自身提交内容中预填未知SHA。
