@@ -1571,3 +1571,13 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 **本状态写入前最后成功提交 SHA**：80e708f7318ad93bff266e6238e99208f60d04d9。**本状态自身提交SHA由GitHub返回并须独立核main HEAD**；不能预写尚不存在的提交哈希。
 
 **当前具体缺口**：①检索1965年10—12月Mokoginta签署省军区命令及北苏门答腊Pantja Tunggal县级任命簿，和183A所述军方控制逐项对照；②找Medan Muhammadiyah/NU 1965年12月分会通告、讲道原稿和报刊，184A匿名消息不得升级为组织统一命令；③找Hansip武装登记、PWI报纸许可簿和具体村庄拘押/死亡记录，核军方行政措施是否执行；④取得2001—2005地方劳动厅工会登记簿、SBSI工厂分会证书、申请被拒和劳动争议裁决，核KEP.16/MEN/2001实际效果及后续修废；⑤轮换G1 1920年代VSTP章程、G2 Gerwani/BTI地方组织、G3广播命令、G4 Bali/Flores/West Kalimantan/Sulawesi、G6政治犯与流亡、G8外国交付档案和G9人物地名索引。所有G1—G10继续OPEN，不宣称穷尽，不建旧式列表HTML。
+
+## ONGOING / GOAL仍进行｜2026-11-12｜G4/G5巴厘—Kudus与G7工会制度跨域核验
+
+本次读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit（G1—G10）、四份正式CSV、archive/records/chronology.md、研究状态、global-gap-tracker和本状态。正式文件实际均位于archive/records；chronology根目录路径不存在。直接阅读ILO 1998-06-10及1998-11-24两份官方全文；1998年6月5日印尼批准/仪式与ILO 6月9日登记的区别此前CV312/C823已核，不造重复C。11月24日ILO关于SBSI合法身份、Pakpahan获释、政府所称除Dita Sari外被拘押工会成员获释及保护不足的评估已有S835/C1474。NORMLEX页面本次直接访问重定向失败，只能利用搜索结果与旧登记，不能称全文重读。
+
+不同G项G4/G5重新定位NSA A-386中爪哇Kudus/Pati（既有S151/C648/C649）与A-408巴厘（既有S401/C708），本次只打开档案入口/检索摘要，没有重新打开原件扫描。S151此前已视觉核验，S401 OCR损坏且死亡估计仍须核原扫描。两份原件不同，不将Kudus 200余Baperki名单与巴厘死亡估计合并。缺Kudus Baperki名单及陆军接收单、个人拘押/产权原件；缺巴厘A-527原扫描、军警原令和分县死亡登记。长期缺口总账已更新，正式新增Q361；S/C/CV未新增，chronology与中文连续正文此次未变，避免复制已知事实。
+
+**已成功提交且本状态写入前最新SHA**：9bfd20d25a51d4d6ef657c7a535c7bb9cbab83be（前一提交Q361：5a6d76201cb919bef4d0a1915b7a0100970fb1ad）。本状态文件自身提交SHA必须以GitHub写入返回值及随后main查询为准，不能在同一提交内预写自己的SHA。
+
+**精确续接动作**：①取得1965-12-21 A-408与1966-02-25 A-527可辨原始扫描，逐页核巴厘估计的消息来源、时间范围和地理分母；②查Kudus/Pati Baperki 200余人原名单、20人审查表、RPKAD接收记录及个人后果；③取1998 PER-05/MEN/1998签署全文、SBSI正式登记证与东爪哇/北苏门答腊工厂分会原始登记；④跨G1/G2回到VSTP/PPKB原始大会簿与Gerwani/BTI地方支部；⑤跨G6/G8查布鲁岛拘押转运及英美澳中苏实际交付原件。G1—G10全部OPEN，长期GOAL未完成；不替作者政治判断。
