@@ -1173,3 +1173,10 @@ d168显示State、Defense、CIA和白宫工作人员讨论援助时，对是否�
 
 **G1/G2/G3/G5/G6/G8/G9/G10均继续OPEN**：优先轮换1920年代工会原章程、Gerwani/BTI基层、1965广播逐时令、Bali/Flores/West Kalimantan等地方原令、政治犯和流亡者、外国介入实际交付、人物地名标准索引、去重与中文连续正文。不得以两条链替代G1—G10覆盖。
 
+
+## 2026-11-12｜G4/G5中爪哇与巴厘、G7改革后工会：来源去重及执行缺口（ONGOING）
+
+- **G4/G5/G9｜Kudus/Pati中爪哇，1965年10—12月，RPKAD、NU/Ansor、天主教党、IP-KI、Baperki**：同期美国A-386原文既有S151/C648/C649，已曾核扫描。本次重新定位NSA档案入口 https://nsarchive.gwu.edu/document/15718-document-22-telegram-386-american-embassy ，未重新打开原扫描；馆方简介不能算第二证人。当地政治参与者Suhandjo所称向陆军提供逾200名Baperki成员名单、另20名领导者被审查及部分失踪，仍缺**名单原件、陆军接收凭证、拘押/释放/死亡登记、商户产权变化**。不能把外交转述当已确认200人遭杀或全部被拘押。来源等级：既有A类同期文件中当事人说法，地方执行证据D。
+- **G4/G5｜巴厘，1965年12月至1966年2月，陆军/地方军警/受害家庭**：A-408既有S401/C708；NSA馆方介绍 https://nsarchive.gwu.edu/document/15720-document-24-airgram-408-joint-weeka-no-48 仅作为已登记原件的检索入口。1965-12-21报告“至少一万人”与1966-02 A-527的“八万人”是不同日期、不同口径的美国估计，非可加总死者；A-408 OCR损坏，原扫描部分曾检查但未完成死亡数字原文定位。需A-408和A-527逐页影像、各县军区命令、墓葬与受害人名单、警方商铺损失簿，区分东/西/北巴厘。来源等级：同期外交估计B（人数真实性未核），地方登记D。
+- **G7/G6｜1998年工会结社权，SBSI/ILO/印尼劳动部**：本次直接重开ILO 1998-06-10官方新闻全文 https://www.ilo.org/resource/news/indonesia-pledges-respect-trade-union-rights-ratifies-key-ilo-convention-no ，及1998-11-24官方评估全文 https://www.ilo.org/resource/news/freedom-association-remains-elusive-much-east-and-south-east-asia 。前者称6月5日在雅加达批准/批准仪式，后者确认SBSI获得合法身份、Pakpahan获释，同时引述政府称除Dita Sari外其他工会被拘押者已获释。**国内5日决定与ILO 9日登记不是相互矛盾的日期**（既有CV312、S477/C823）；本次NORMLEX直接打开遇重定向循环，只取得搜索索引，不能称重新读到国际登记原件。1998机构新闻已有S835/C1474，故不新编S/C。地方工会实际组织仍缺PER-05签署文本、SBSI合法登记证、1998—2005工厂工会簿、Dita Sari及其他人员逐人出入狱登记。来源等级：ILO同期机构报道A级限于机构发表与声明；地方执行D。
+- **G1/G2/G3/G6/G8/G10仍OPEN**：1920年代VSTP/PPKB原章程、BTI/Gerwani基层档案、1965跨机关签署命令、布鲁岛和流亡档案、外国实际交付原件、人物地名标准化与中文正文继续轮换。此次仅追加Q361；不把旧来源重新打开计为独立证据。下一步优先中爪哇Kudus Baperki名单及军方收件、巴厘A-527扫描、1998 PER-05与SBSI工厂级登记。
