@@ -1333,3 +1333,16 @@ S843–S846、S007–S008全文或相关章节已读。劳工运动：1958年Ted
 **未得原件/障碍**：①帕卢市长签署的Perwali全文，S850内部写23/2013与25/2013，需辨明；②市政府2013—2015实际支出凭证及217户匿名化受助登记；③Komnas HAM/LPSK按事件及地区分类的援助名册；④受害者本人对援助内容、覆盖遗漏和执行障碍的独立证词。研究跨地区线继续保持G4 Aceh/Medan/Java/Bali/Flores/West Kalimantan/Sulawesi全OPEN。
 
 **异区G4 Flores核验状态C**：John Mansford Prior 2011 *The Silent Scream... Maumere Massacre* 第一、二部分仅打开出版摘要（DOI 10.1163/157254311X562017、10.1163/157254311X600735）；摘要给出1966年2—4月800—2000人估计，但未读论文全文/教会、军警、墓葬原件，不能当独立死亡统计。与Fox排除Flores的Roti/Sawu估算严格分开。下一步查Maumere教区文书、荷兰传教士回忆原稿及Prior全文。
+
+
+### 2026-11-13｜G5/G7 帕卢2013市长法规编号核查；异区G4 Flores（ONGOING）
+
+本次重新读取G1—G10完整性审计及正式四CSV、chronology、项目权限与连续状态。检索印尼语地方法规、LPSK、ELSAM及Maumere教会研究。**访问级别严格限制为C（检索返回的页面内容/摘要，打开网页正文再次请求超时或502），不是A类原件已读。**
+
+**帕卢法规号争议的新增核查入口：** LPSK机构网页 https://www.lpsk.go.id/publikasi/berita/lpsk-apresiasi-pemda-yang-peduli-korban-pelanggaran-ham 检索正文明确称Perwali Palu **25/2013**、17条，并提第11条地方政府可与国家或地方机构合作；ELSAM https://multimedia.elsam.or.id/inisiatif-lokal-bagi-korban-pelanggaran-ham-palu/ 和2015年11月27日地方报道 https://www.cnnindonesia.com/nasional/20151127092436-20-94420/wali-kota-minta-maaf-soal-1965-palu-jadi-contoh-wilayah-ham/ 同样提25/2013。**这些网页未能在本次完整打开，不能当作已直接核实签署法规，也不能据多处转述就消除S850内部23/25冲突。** 原签署文本下一入口为帕卢市官方法律数据库 https://jdih.palukota.go.id/ 及 https://sigesitlincah.palukota.go.id/jdih ，需按2013年、第25号、RANHAMDA检索签署PDF，核正文第11条和生效日；核是否另有23/2013同名或不同主题法规。LPSK官网原文打开超时、ELSAM 502。
+
+**2023后续行政链：** 帕卢市BAPPEDA网页 https://bappeda.palukota.go.id/web/koordinasi-korban-pelanggaranan-ham/ 的检索结果标注2023-12-05关于落实2023年第2号总统指令及1965/66受害者协调活动；原网页打开超时。应取会议议程、出席名单、实际受助资格和执行凭证，区分政策协调与落实。未据摘要新增独立历史事实主张。
+
+**异区G4 Flores/Maumere：** 再核John Mansford Prior 2011论文第一部DOI 10.1163/157254311X562017的出版摘要 https://www.researchgate.net/publication/274531247_The_Silent_Scream_of_a_Silenced_History_Part_One_The_Maumere_Massacre_of_1966 ；全文仍需授权取得。摘要的800—2000仅作者研究估计，不是新读地方监所/教区死亡名册；与Fox排除Flores的Roti/Sawu 800—1000严格分开。另见BBC 2020报道对Komnas HAM所谓至少1000人的转述（未读Komnas HAM原始分县材料），不得当作独立于Prior的死亡统计。优先向Maumere教区、Candraditya、Komnas HAM取得1966年2—4月逐村调查、行动与教会记录。
+
+**跨G项未闭合：** G1 VSTP/殖民报纸原版；G2 SOBSI/BTI/Gerwani基层名册；G3军区跨机关命令；G4 Aceh/Medan/Java/Bali/Flores/West Kalimantan/Sulawesi军警原件；G5女性/族群幸存者证词；G6监禁与SOBSI-FBSI组织断裂；G7后续地方执行；G8外国援助实收；G9人物地点关系；G10正式CSV去重和连续阅读正文。以上本次均未宣布关闭。正式CSV/chronology/正文不因未能打开原件而强制添加事实。
