@@ -1699,3 +1699,13 @@ G1殖民时期：直接打开Boven Digoel县政府历史网页 https://mail.bove
 ## ONGOING / GOAL仍进行｜2026-11-12｜1948外交机制与工会运动全景补充
 
 新核读S843–S846及FRUS S007–S008全文：S/787记录Good Offices报告和四个委员会/会议保密规则；Barco 1948-09-03内部备忘录将反共、荷兰利益和美国战略/经济利益并列；工会材料补充BBI/PBI分化、SOBSI/WFTU关系、1955工会机构数及Soepardjan国际旅行与监狱笔记。新增C1497–C1504、Q367、CV392–CV393，chronology与中文连续阅读同步更新。下一步追原始会议/工会记录、1955劳动部名录、工会会员册及笔记原件，并继续核对美国外交判断与印尼/荷兰/澳大利亚文书。G1–G10、GOAL继续OPEN。
+
+## ONGOING / GOAL仍进行｜2026-11-12 17:46 UTC｜G6/G7 1996政治镇压与G4西加里曼丹原件层级复核
+
+已重读AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10完整性审计、研究状态、正式四CSV与chronology。正式登记核对：西加里曼丹Matsumura 2015已有S453/C795（S831/C1467为重复别名）；Flores Prior全文已有S456，不能重复计数。1996年PRD/PPBI/SMID/STN的既有S380/S381/S583和C666/C667/C987已记录部分镇压与判刑。最新正式台账还出现S843—S846，编号须以实时CSV为准。
+
+**G6/G7｜1996年7月27日事件至2026年追责**：直接打开国际特赦组织1996-07-29 ASA21/048/1996官方出版页面（全文PDF尚未点击核读），其当时报告估计206—241人遭拘押、最多90人受伤、至少5人可能死亡；这是当时组织的临时估计，不是经逐人验证的最终人数。又直接打开Amnesty Indonesia 2026-07-27官方声明全文：该组织回顾Komnas HAM调查所报5人死亡、149人受伤、23人失踪，并要求正式司法调查，提到不明身份墓葬线索。2026声明属于机构倡议与对既有报告的转述，**不是新取得的Komnas HAM原始调查卷宗，也不是墓葬已鉴定**。原文：https://www.amnesty.org/en/documents/asa21/048/1996/en/ ; https://www.amnesty.id/kabar-terbaru/siaran-pers/30-tahun-tragedi-kudatuli-komnas-ham-harus-buka-penyelidikan-projustisia/07/2026/ 。对照既存S381/S583；本次未给同一事实重新编号。
+
+**G4/G5｜西加里曼丹1967**：直接打开J-STAGE Matsumura论文出版页，仍仅为摘要访问（S453），确认有2052KB全文PDF可点击但尚未读取；作者认为1967年10月Oevaang Oeray与军方合作驱逐华人，属于研究解释，非直接取得军方指令或村级驱逐名册。https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/en 。另核对Maumere已有S456全文及S478间接转录，不能用相同匿名手稿重复计作独立反证。
+
+**精准续接**：①点击读取ASA21/048/1996原报告PDF，并逐项与1996-07-27 ASA21/046、1996-11 ASA21/070及Komnas HAM 1996-08-31/10-12调查原文比对统计口径；②取得1996 PRD/PPBI/SMID/STN起诉书、判决和地区工厂/学生原始材料，连通1998后组织；③打开Matsumura 2015日文PDF pp45—63，抽取其军令、Oeray演说及村庄材料的脚注来源，逐件追原件；④查1967年西加里曼丹Kodam XII命令、RRI Pontianak广播及村镇迁徙/难民登记；⑤继续轮换G1 VSTP原报、G2 Gerwani/BTI基层、G3跨机关命令、G8实际援助交付、G9人物地名索引。未取得新的独立原件足以安全新增原子事实，故本次不改正式CSV、chronology或连续历史正文；保留G1—G10全OPEN。
