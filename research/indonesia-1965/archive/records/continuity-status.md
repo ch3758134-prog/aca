@@ -1709,3 +1709,5 @@ G1殖民时期：直接打开Boven Digoel县政府历史网页 https://mail.bove
 **G4/G5｜西加里曼丹1967**：直接打开J-STAGE Matsumura论文出版页，仍仅为摘要访问（S453），确认有2052KB全文PDF可点击但尚未读取；作者认为1967年10月Oevaang Oeray与军方合作驱逐华人，属于研究解释，非直接取得军方指令或村级驱逐名册。https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/en 。另核对Maumere已有S456全文及S478间接转录，不能用相同匿名手稿重复计作独立反证。
 
 **精准续接**：①点击读取ASA21/048/1996原报告PDF，并逐项与1996-07-27 ASA21/046、1996-11 ASA21/070及Komnas HAM 1996-08-31/10-12调查原文比对统计口径；②取得1996 PRD/PPBI/SMID/STN起诉书、判决和地区工厂/学生原始材料，连通1998后组织；③打开Matsumura 2015日文PDF pp45—63，抽取其军令、Oeray演说及村庄材料的脚注来源，逐件追原件；④查1967年西加里曼丹Kodam XII命令、RRI Pontianak广播及村镇迁徙/难民登记；⑤继续轮换G1 VSTP原报、G2 Gerwani/BTI基层、G3跨机关命令、G8实际援助交付、G9人物地名索引。未取得新的独立原件足以安全新增原子事实，故本次不改正式CSV、chronology或连续历史正文；保留G1—G10全OPEN。
+
+**本次写入提交SHA（第二次状态提交）：** `3353627c2c4076035e23cb6890fc395164f36fca`；前一缺口总账提交 `86c3ec25e0b6606494ac0cb996f7777781059d5a`。该SHA是状态记录时的已知HEAD，最终分支HEAD需另行比较；GOAL继续OPEN。
