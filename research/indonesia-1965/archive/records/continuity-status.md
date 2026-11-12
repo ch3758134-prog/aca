@@ -1453,3 +1453,13 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 不同机关原始法权链：打开BPK官方Keppres 107/1967登记 https://peraturan.bpk.go.id/Details/151284/keppres-no-107-tahun-1967 ，确认1967-07-26制定、07-31生效及解散KOTI和各地区执行当局的标题；PDF预览打开但未核逐条签署全文。正式新登记S836、C1475、Q355、CV381，并更新chronology、research-status及global-gap-tracker。**法令标题不能证明Kodam XII实际停止紧急权力，也不能证明军方命令了特定驱逐。**
 
 精准续接：①下载并逐页核Keppres 107/1967签署PDF及配套通令；②检索Kodam XII/Tanjungpura 1967-07—11 PGRS/PARAKU、PEPELRADA执行命令；③取RRI Pontianak当时广播、Oeray 1967-10宣言和难民/村镇名单；④逐页阅读松村智雄2015论文PDF及注释追地方原件；⑤切换G1 1920—49工会原刊、G2 Gerwani/BTI地方档案、G6 1970—98拘押与G7 1998后工会执行记录。G1—G10均OPEN，GOAL未完成。本条写入前main提交以GitHub实时HEAD为准，最终提交SHA须提交后独立核验；不可将基线SHA当最终SHA。
+
+## ONGOING / GOAL仍进行｜2026-11-12｜G1 Semaun工会原始参与者叙述 × G3/G4/G8 KOTI清算（最新续接）
+
+本次依次读取AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10完整性审计、长期缺口总账、四份正式CSV全量文本及chronology；正式登记去重核验后新增S837—S838、C1476—C1477、Q356、CV382—CV383，并更新chronology、project/research-status、global-gap-tracker。本次修改前最新已知提交为fffedcaa1a08e125e6f5f5631431d675a1a46f0d；本续接文件自身最终提交SHA须以写入返回及GitHub实时main核验为准，不能预写虚构SHA。
+
+**G1当前证据链：**直接打开Semaun的早期运动报告1966英文译本PDF全文 https://ecommons.cornell.edu/bitstreams/a26846c6-5326-4b05-b2ca-6a48749d4fe8/download （原报告1922年俄文发表；译者Ruth McVey），重点页51、59—63。报告涉及1909 VSTP、1919 PPKB、1921分裂、PFB/HAB及工厂罢工；数字为作者自估，译者明确警告多重语言转译及年代误写。不能将参与者叙述当成VSTP/PPKB签署会章或独立统计。下一步查VSTP 1909原章程、PPKB 1919/1921会议记录、Semarang 1919印刷业罢工及糖厂PFB原始报刊，并对照荷印警察/雇主材料。
+
+**不同G项G3/G4/G8当前证据链：**直接打开印尼BPK官方第109号总统决定登记 https://peraturan.bpk.go.id/Details/151290/keppres-no-109-tahun-1967 ，确认1967-07-28成立KOTI清算小组。既有S836第107号法令登记为7月26日制定、31日生效；另打开 https://www.klaussa.com/peraturan/keppres-no-107-tahun-1967-membubarkan-komando-operasi-tertinggi-dan-semua-penguasa-pelaksana-daerah 的条文OCR，显示可能的既有规章效力延续、中央事务移交和地方PEPELDA交接，但该文本是第三方转录且存在OCR错字，未核签署PDF，不能升级为逐条原件核验。下一步取得107/109官方扫描、清算小组任命/会议记录、Kodam XII与Pontianak省级接收/军事命令，并独立查1967华人驱逐和PGRS/PARAKU事件。
+
+**其他G项必须轮换**：G2 Gerwani/BTI/LEKRA基层；G5 Aceh/Flores/West Kalimantan妇女、族群、拘押；G6 Buru与海外流亡/PRD；G7 SBSI/FSPMI 1998—2026工厂级执行；G8英美澳中苏具体交付；G9人物—组织—地点关系；G10整理主时间线和成熟中文连续历史。以上均OPEN。此轮未修改readable-history HTML，因为两链尚缺组织/地方实施独立原件；不建列表式HTML。下一次优先从上述精准原件开始，不把本次提交视为完成节点。
