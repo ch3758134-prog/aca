@@ -1421,3 +1421,15 @@ G4/G5亚齐：直接打开Jess Melvin 2013年开放全文（研究者引用原�
 G6跨年代：直接打开1995-07-29《Jakarta Post》同期报道存档 https://jawawa.id/newsitem/clemency-granted-to-political-prisoners-1447893297 ，报道称政府7月28日宣布苏哈托给予Soebandrio、Omar Dhani、Raden Soegeng Soetarto减刑，计划8月15日获释。**这证明宣布和计划，尚不证明实际出狱**。另打开国际特赦组织1995-11-01修订报告官方页面 https://www.amnesty.org/en/documents/asa21/055/1995/en/ ，组织确认7月名单混入此前已获释者。两者日期、名单统计口径及事件性质不同，不可将7月28日赦免宣布当作11月名单变化的唯一解释。须取三份总统减刑决定及1995-08-15实际释放的独立报道/监狱记录，逐名与AI 7月及11月名单对照。
 
 跨G1/G2/G3/G7/G8/G9/G10缺口保持OPEN，下一次在继续上述两链外轮换：①1926—49工会与Semaun原版报刊；②SOBSI行业冻结的1965年部令；③West Kalimantan 1967军区与迁徙记录；④1998后SBSI/Partai Buruh基层档案；⑤英美澳中苏实际援助交付文件。此条为证据核验和接力状态，**正式CSV、chronology、中文连续正文尚未在本次写入**；不得声称它们已更新。最新提交SHA以本次GitHub写入返回值及随后main核验为准。
+
+## ONGOING / GOAL仍进行｜2026-11-12｜G4西伊里安、G6/G7独立工会（跨项续接）
+
+本次先读AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10完整性审计、长期缺口总账、四正式CSV及chronology，逐项核对正式编号，发现S832/S833和C1470—1472已被标为重复别名，不再次计独立来源。正式新登记：S834—S835、C1473—C1474、Q354、CV379—CV380；chronology新增两段不同年代的可读中文事件叙述。
+
+**G4/G5西伊里安（原外交OCR A级限缩）**：直接打开美国驻雅加达1965-09-15第542A号电报OCR https://nsarchive.gwu.edu/media/15699/ocr 。该电报记录一位荷兰新教传教士对Manokwari地区3月不安、6月公务员被捕、7月26日升旗枪击与次日军队开火的叙述。文件是真实同期外交记录，但其中暴力情节为单人转述，未经当地档案/受害者名册独立证实；**事件发生在9·30之前，不能混同后续反PKI杀戮**。还需对照扫描和传教士信件、当地军警档案。
+
+**不同G项G6/G7（ILO机构全文 A级限缩）**：直接打开ILO 1998-11-24官方全文 https://www.ilo.org/resource/news/freedom-association-remains-elusive-much-east-and-south-east-asia 。ILO报告SBSI取得法律承认、Pakpahan获释；政府声称8月除Dita Sari外所有被拘工会人士已释放，但ILO仍指出结社、集体谈判与反歧视保障不足。不能把政府声明当作核实的完整出狱名单。已有S476/S479/S485和C822/C829记录公约批准和监管，新增S835是**不同日期的原始机构评估**，非重复登记。ILO 1998年新闻使用6月5日，正式NORMLEX登记6月9日；分别属于国内批准/国际登记，不得混为矛盾日期。
+
+**G1—G10缺口仍全部OPEN**：G1殖民党团/工会原刊；G2基层工农妇女组织；G3跨机关指令；G4省县镇压；G5妇女族群幸存者；G6政治犯流亡与工人组织；G7改革后权利执行；G8外国具体交付；G9人物地点组织关系；G10台账和连续中文HTML。未建立旧式列表HTML。
+
+精准续接：①取得542A扫描并核Manokwari 1965-07-26军警/传教士/巴布亚人口述，查6月拘押名册；②查SBSI 1998登记证、PER-05/MEN/1998原件及工厂级工会登记；③对照Pakpahan和Dita Sari实际出狱记录与1998年8月政府宣称；④跨区继续Aceh KODAM-I原图、Flores 1967审查队、West Kalimantan 1967军令；⑤G1查Semaun/ISDV及1926荷印原刊，G2追SOBSI/BTI/Gerwani地方账本。当前提交前已见main最新提交为2a5671f28f551a293878d24d50a9a5ecfd3fc582；**本状态文件内不能预知自身提交后的最终SHA，以GitHub实时main为准**。GOAL永久OPEN。
