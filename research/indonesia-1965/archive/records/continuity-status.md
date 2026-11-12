@@ -1,3 +1,6 @@
+## ONGOING / GOAL仍进行｜2026-11-13 UTC｜G7原法续接
+已核读2026年第1号《刑罚调整法》官方PDF及附件一，涉及UU21/2000第43条的刑罚调整，**不是**工会组织法全面重写；附件OCR列错位，仍须扫描逐页核对。G4 Aceh/Flores/West Kalimantan地方军令原件未取得，继续跨地区追查。已重读G1—G10审计与四正式CSV表头、chronology、AGENTS及授权文件；research-status.md未找到。详见global-gap-tracker顶部。精准下一步：核附件第9页与2000年第43条；Aceh Kodim-0104及Baperki声明；Flores Sikka会议；West Kalimantan军令；Gerwani 1964报告。G1—G10均OPEN。此次提交SHA需在提交后核验，不能自引用。
+
 ## GOAL OPEN｜2026-11-12｜G4 Aceh + G7工会/选举法接力
 
 已读取必需AGENTS、stage-access、goal-continuity、G1—G10完整性审计、正式CSV、chronology及滚动缺口总账。研究状态research-status.md在archive/records/下404。G4已打开Melvin 2013开放全文并核Langsa Baperki 1965-10-18声明转引（S612），尚未获得原声明或1965-10-11军方会议簿；苏加诺所谓“铲除”广播不可当真。G7已打开2000工会法最高法院官方目录及2004 MK判决官方入口，S611/S325已登记；2026年对UU21/2000修法仅第三方线索、原法未读。G2 1964 Umi Sardjono 31页报告仅目录。所有来源级别/障碍详见global-gap-tracker最新首段。**本次总账已提交：e5fc36d60726b7e8fd50c788f2f94e43b4fb10dd**。
