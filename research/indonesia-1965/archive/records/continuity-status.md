@@ -1637,3 +1637,10 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 
 ## ONGOING / GOAL仍进行｜2026-11-12｜Roti/Sawu与劳工改革跨域接力
 本次重读项目规则、stage-access、goal-continuity、G1—G10完整性审计及正式CSV与既有续接；直接核读1966-08-03美国使馆A-65 OCR https://nsarchive.gwu.edu/media/15729/ocr （Roti/Sawu，严重OCR损坏；James Fox见闻与地区估计必须区别），并核读ILO/印尼劳动部2005年法律汇编全文 https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40asia/%40ro-bangkok/%40ilo-jakarta/documents/publication/wcms_120126.pdf （1998—2005法律、ILO/USA项目时间链）。详情已加入global-gap-tracker。正式四CSV、chronology和可读中文正文未改：当前未完成全量去重及地方独立反证，不虚增S/C编号。精准下一步：①核A-65扫描并核Roti/Sawu军方/教会原始名册；②查Roti与Sawu 1966年1—6月县级警察/军区记录；③取1998-05-27工会登记原令及2001—04 ILO/USA项目执行报告；④追2000法实施后的地方登记/拒绝/争议判决；⑤轮换Aceh、Flores、West Kalimantan与G1早期VSTP原刊。GOAL保持OPEN；提交SHA以GitHub实际返回为准。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12 22:51 CST｜G1 VSTP与G4 Manokwari交叉接力
+
+本次按规定读取AGENTS、stage-access、goal-continuity、G1—G10完整性审计、正式source/claim/search/coverage四CSV、archive/records/chronology.md、研究状态及长期缺口总账。复核1923-05-08/09 VSTP Semaoen拘捕与铁路罢工的印尼语研究全文及引用的《Preangerbode》《Darmo Kondo》线索；未取得1923原刊，不升级为A级原件。跨地区直接打开1965-09-15美国使馆542A原始OCR，核Manokwari七月军事行动的传教士证言；正式S834/C1473/Q354/CV379已有，避免重复登记。两条证据链详细访问等级、来源及缺失原件见global-gap-tracker同日新条目。无新增已核地方死亡数字，chronology和读者正文暂不据二手引文扩写。G1—G10保持OPEN。
+
+精准下一动作：①Delpher取1923-05-09《Preangerbode》No.126完整影像；②取得《Darmo Kondo》1923-05-09、08-15、08-22及Semarang Resident 1923-06-08公函；③追Manokwari 1965-07-26军警记录、教会原始通信与巴布亚证人；④转入Aceh/Kalimantan/Flores县级命令与名册；⑤核对1998—2026组织记录的正式CSV去重并推进连续中文正文。写入后的提交SHA由GitHub响应确定；本状态内容不预言其自身提交。下一次必须重新核对main HEAD及并发更新。
