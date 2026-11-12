@@ -1,3 +1,7 @@
+## GOAL OPEN｜2026-11-12｜本次核验续接
+
+已重读AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式四CSV及archive/records/chronology.md。直接读取509号原PDF文本并重读183A四页OCR，S124/S378/S377、C098/C663、Q234均为既有登记，避免重复；G4泗水203本次仅核馆藏说明。详见global-gap-tracker顶部。**精准下一步**：①1965-06-06 Darjatmo PEPELADA/DWIKORA命令及《Tjahaja》当期、北苏门答腊省长禁令；②1965-12 Pantja Tunggal区县改组、PWI/Front/Hansip原令；③Pasuruan与Bali 1965-12军警监所及商户独立记录；④G1 1923 Preangerbode原报；⑤G2 Gerwani/BTI基层与G8外国实际交付。G1—G10与GOAL永久OPEN；本段不预填自身提交SHA，提交结果需再次核实。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜West Irian G4 + G1殖民报刊（本次续接）
 
 已读取main的AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式四CSV、archive/records/chronology.md、现有continuity-status及global-gap-tracker；research-status.md路径404，未冒称已读。正式CSV位置为archive/records/，不是研究目录根层。复核S834/C1473/Q354已登记1965-09-15电报542A，不新分配编号。此次实际打开NSA馆藏和完整OCR（https://nsarchive.gwu.edu/media/15699/ocr），发现它是使馆转述荷兰传教士关于1965-07-26 Manokwari冲突和随后军队枪击的报告，**不能当作独立目击、死亡统计或9月30日以后反PKI杀戮**。HRW 2017依赖同一电报。异项G1打开Delpher/KB官方资料库说明但未取得1923 Preangerbode No126原报或1927 Boven Digoel运输原件。另核帕卢JDIH主页仍运行、25/2013签署件未得。证据分级、地区/年代/组织、原件缺口及阻碍已写入global-gap-tracker，提交 **372180ce591fc9564654392a9499d6016f4aa858**。
