@@ -1773,3 +1773,14 @@ G1殖民时期：直接打开Boven Digoel县政府历史网页 https://mail.bove
 **不同地区G4 Flores：** Prior 2011 Maumere第一/二篇仍只有摘要，教区、军令、墓葬和当事人访谈原件未得。800—2000不能和Roti/Sawu 800—1000相加；2020媒体转述Komnas HAM至少1000也尚未追到调查原页。无新独立事实，因此本次未变更正式四CSV、chronology、中文阅读正文；避免把检索摘要冒充已读原件。G1—G10全部OPEN。
 
 **精准续接操作：** ①在帕卢JDIH以Perwali 25/2013和23/2013双号搜索，下载并核签署页、17条及第11条；②取得LPSK网页全文和ELSAM网页/存档版本，核来源互相依赖；③取得2023年BAPPEDA会议原始议程/纪要、2023总统令实施记录及2013—2015年217户支付明细；④向Maumere教区/Candraditya追Prior所引用的三名荷兰传教士回忆、实施者访谈及1966年2—4月地方名册；⑤轮换Aceh 1965年军区10月会议、G2 Gerwani/BTI/SOBSI基层和G8外国交付档案。未完成，不宣称穷尽，不替作者政治判断。
+
+
+### 2026-11-12｜G5/G7帕卢2013法规官方目录直接核验；异区G4 Maumere全文复核（OPEN）
+
+**帕卢法规证据升级（官方目录全文已直接打开，签署PDF未读）**：帕卢市政府JDIH法规列表 https://jdih.palukota.go.id/produkhukum?page_hal=135 明确列有《Peraturan Wali Kota Nomor 25 Tahun 2013 Tentang Rencana Aksi Nasional Hak Asasi Manusia Daerah》；详细条目 https://jdih.palukota.go.id/detail_peraturan/1127 明列法规编号25、制定日期2013-12-30、来源Bagian Hukum Sekretariat Daerah Kota Palu、地方公报2013年第25号。官方PDF下载链接 https://jdih.palukota.go.id/unduh_peraturan/252.pdf 已点击，但返回application/octet-stream工具不支持，容器下载也失败。**因此可确证官方目录登记25/2013及日期，不能宣称已经阅读签署页、17条或第11条，更不能凭目录核实217户支付**。S850中的23/25冲突现有官方目录支持25，23是否另有不同法规仍须查。来源级别A-目录原始元数据／C-法规正文未读。地区Palu，组织市政府法制处、SKP-HAM、Komnas HAM、LPSK。下一步通过合法浏览器下载252.pdf，核签章/第11条/附件，并检索同年23号法规。
+
+**不同地区G4/G5 Flores-Maumere**：重新打开Prior 2011论文Part One完整PDF https://repository.divinity.edu.au/divinityserver/api/core/bitstreams/662d52ff-005b-4845-918c-959a06ea50d0/content ，印刷pp126—129记载作者转引Boumans回忆及未出版匿名《Menjaring Angin》：2月16日Soemarno与Suherman在Ledalero神学院讲话，2月20日Wairita行动、2月27日Sikka DPRD-GR会议和逐名讨论被拘押者。作者在pp128—129明确承认部分日期取决于回忆材料是否准确。**该论文及其转引在正式S456/Q372已经登记，不能作为新取得的独立地方原件或新死亡人数**。需取得SVD Ende档案中匿名约130页手稿、Boumans回忆pp81—82、Sikka DPRD-GR会议原始簿、KOMOP命令与监所名单；与Roti/Sawu不同地区数字不得相加。地点/组织关系索引候选：Maumere—Sikka—Wairita—Ledalero；KOMOP—DPRD-GR—Catholic Youth—Ansor—PNI—PKI；Soemarno—Suherman—Jan Djong。不能把被迫参会者自动认定为自愿指挥者。
+
+**跨G1—G10**：G1殖民VSTP报刊与Boven Digoel学校；G2 SOBSI/BTI/Gerwani基层；G3逐时军政广播；G4各省军令与死亡名册；G5幸存者/女性；G6政治犯与劳工重组；G7受助实际支付与当代组织；G8英美澳中苏行动/交付；G9地名人名关系；G10正式CSV与连续正文均保持OPEN。当前不将来源目录提升为法规全文，不把Prior既有论文重复登记。
+
+**续接Git SHA**：本次写入的实际commit SHA以GitHub返回及main HEAD复核为准；自身提交SHA无法预写在自身内容。
