@@ -1,3 +1,12 @@
+## ONGOING｜2026-11-12 19:00 UTC｜G4/G6帕卢地方原始调查与G4 Flores异地反证
+
+**来源层级：**直接打开2015年帕卢Bappeda与SKP-HAM联合《Penelitian dan Verifikasi Korban ... di Kota Palu》原始公开PDF，方法、拘押分期、统计页已读（S850，C1512—C1514）。2014—15调查中768候选、514分类核实、485愿提供信息；392人报告强制劳动、445人强制报到，类别交叠，不能当死亡统计。军区Kodim 1306的7147人名单仅由研究团队现场交叉核对，本次未读原名册。报告涉及1969—70年711营军人和1975年所谓PKI Gaya Baru被拘押者，尚无同期军令与法院卷宗。地理覆盖仅帕卢市，不代表整个中苏拉威西。
+
+**不同地区G4 Flores/Maumere：**定位John Mansford Prior 2011年《The Silent Scream of a Silenced History》Part One（DOI 10.1163/157254311X562017）和Part Two（DOI 10.1163/157254311X600735），目前仅开放摘要，摘要提1966年2—4月Maumere及800—2000人的后期研究估计。**未读全文、教会原始证词或军令，不能将摘要估计升级为地方事实。** 此地不得与Fox的Roti/Sawu 800—1000（明确排除Flores）合并。
+
+**精确续接：**①获取Kodim 1306 7147人原始名册的形成日期、字段、历史县界、授权查阅方式；②取得2013年帕卢市长法规签署文本，核报告25/2013与23/2013矛盾；③找1969—70年711营调查及1975年PNI活动者拘押原件；④取SKP-HAM同意公开的村级劳动派遣/报到证词，核Kayumalue Ngapa、Pajeko和Pantoloan Boya；⑤获取Prior两篇全文及Maumere教会、军警和墓葬原件；⑥轮换G1早期VSTP、G2 Gerwani/BTI、G8外部实际交付、G9关系索引。G1—G10全部OPEN，不以一地材料代表全省。
+
+
 ## ONGOING / GOAL仍进行｜2026-11-12 18:52 UTC｜G4东努沙登加拉与G6长期监禁原件复核
 
 本次读取AGENTS、stage-access、goal-continuity、G1—G10完整性审计、正式四CSV、chronology、长期缺口总账及续接状态。确认正式来源已推进至S849、事实至C1511、检索至Q368、覆盖至CV394；跨并行调查者不重复编号。**G1—G10全部OPEN。**
