@@ -1743,3 +1743,8 @@ G1殖民时期：直接打开Boven Digoel县政府历史网页 https://mail.bove
 **G1—G10仍OPEN**；G4亚齐/北苏门答腊/爪哇/巴厘/Flores/加里曼丹/Sulawesi地方命令和名册缺口不因找到目录关闭；G1殖民组织原刊、G2基层组织、G3跨机关签署、G6囚犯与流亡、G8交付、G9关系索引、G10连续正文均未闭合。本次为既有S127全文复核与新PDF原件定位，未取得足以独立新增事实的原件，故正式CSV和chronology不改，不虚增编号。
 
 **精准续接**：①从KontraS链接合法取得印尼语Komnas HAM执行摘要全文并逐页核对Flores、Medan、Buru、Moncong Loe、Kemarau、Bali和统计口径；②查Aceh 1965-10-11 Meulaboh特别会议原始会议记录与Kodam I年度报告及其军令附件；③查北苏门答腊1951年P4D原令和工会会员/会费原件，连接1965企业清洗；④取得西加里曼丹1967军区命令及地方迁徙名册；⑤轮换Gerwani/BTI原始基层材料和1998后工会登记簿。提交SHA以GitHub写入返回为准。
+
+
+## 2026-11-12 19:00 UTC｜OPEN，下一接力位置
+
+已读G1—G10完整性审计、项目规则、四份正式CSV和chronology；正式并库S850、C1512—C1514、Q370、CV395，补入chronology，源于直接打开2015年帕卢地方政府与SKP-HAM联合核查PDF（https://www.skp-ham.org/wp-content/uploads/2015/06/Ringkasan-Eksekutif-Penelitian-dan-Verifikasi-Korban-Peristiwa-1965-1966-di-Kota-Palu-Rev-Ebook.pdf）。其768/514/485分类及392强制劳动、445强制报到不能被解释为全国死亡数；Kodim 1306原始7147人名单未取得。另查Flores/Maumere的Prior 2011两篇论文，仅见摘要，不能作原件。下次首先取得帕卢Kodim 1306名册与1969—70年711营及1975年拘押原令；核2013市长令25/23号矛盾；从Flores教会/军警材料验证Maumere；然后轮换G1 VSTP、G2 Gerwani/BTI、G8外部援助。最新提交SHA以本段之后最终GitHub main HEAD核验为准，不能提前猜测。GOAL永久OPEN。
