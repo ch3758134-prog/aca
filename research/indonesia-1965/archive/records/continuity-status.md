@@ -1633,3 +1633,7 @@ G1—G10均OPEN。下一步精准行动：①核Medan 509原扫描及1965-06-06�
 另一G8链直接打开1965-12-16国务院777号电报全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d184 ，并复核1967-02-17 Humphrey–Green会谈原文 https://history.state.gov/historicaldocuments/frus1964-68v26/d229 。前者仅提出同日本/西德协调援助策略，编者脚注提及12月15日1780号电报已有大使接触；后者Green回顾1966年5月后紧急援助包抵达，但未提供货单/签收。已在正式台账分别为S455/C797与S452等，chronology亦有相应中文段落，故不新造S/C或重复改写时间线。两份美国文书是政策意图和事后自述，不构成同一批货物实际交付的相互独立凭证。应追第1780号原电、三国会议记录、1966年紧急援助采购/运输/收货记录。G1—G10全部OPEN；本次没有取得新增地方原始登记，未将检索摘要升级为已核实地方事实。
 
 下一次从①A-527原电和Howland原刊核死亡数字方法；②Medan 289与Mokoginta原令、北苏门答腊工会执行档案；③FRUS 1780原电及日德外交文件、援助签收；④1923《Preangerbode》原刊与VSTP会议簿；⑤Flores/West Kalimantan军警及教区原始记录继续。正式CSV截至S840/C1481/Q362/CV388，写入前仍须重新读取以核并发变化。
+
+
+## ONGOING / GOAL仍进行｜2026-11-12｜Roti/Sawu与劳工改革跨域接力
+本次重读项目规则、stage-access、goal-continuity、G1—G10完整性审计及正式CSV与既有续接；直接核读1966-08-03美国使馆A-65 OCR https://nsarchive.gwu.edu/media/15729/ocr （Roti/Sawu，严重OCR损坏；James Fox见闻与地区估计必须区别），并核读ILO/印尼劳动部2005年法律汇编全文 https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40asia/%40ro-bangkok/%40ilo-jakarta/documents/publication/wcms_120126.pdf （1998—2005法律、ILO/USA项目时间链）。详情已加入global-gap-tracker。正式四CSV、chronology和可读中文正文未改：当前未完成全量去重及地方独立反证，不虚增S/C编号。精准下一步：①核A-65扫描并核Roti/Sawu军方/教会原始名册；②查Roti与Sawu 1966年1—6月县级警察/军区记录；③取1998-05-27工会登记原令及2001—04 ILO/USA项目执行报告；④追2000法实施后的地方登记/拒绝/争议判决；⑤轮换Aceh、Flores、West Kalimantan与G1早期VSTP原刊。GOAL保持OPEN；提交SHA以GitHub实际返回为准。
