@@ -1680,3 +1680,6 @@ G1殖民时期：直接打开Boven Digoel县政府历史网页 https://mail.bove
 新直接核读原件：1998-05-21美国驻雅加达使馆002831号电报（转泗水领馆0097），完整两节OCR https://nsarchive.gwu.edu/media/16723/ocr ，馆藏 https://nsarchive.gwu.edu/document/16723-document-21-telegram-002841-us-embassy 。电报第4段称1998-05-19近1000名工人在泗水SPSI办事处外集会，由SPSI省主席领导，要求苏哈托辞职、结束腐败；另报Rungkut工业区鞋厂主要由女性组成的工人因欠薪扣留厂主约十小时，警察和平解救。第2—3段称Airlangga大学学生被Kostrad殴打、24人受伤3人重伤；领馆人员亲见的是事后军人集结，并非殴打本身。第5—11段涉及5月20日泗水、日惹、梭罗、望加锡、Palu、巴厘不同示威和安全部署。三类事件不可混成单一组织链；来源级别：同期外交电报原始OCR全文已读，尚未核原扫描，事件数字为报告而非地方独立名册。四份正式CSV查重：未见002831、Rungkut或馆藏16723，待安全并库S/C/Q/CV新编号；本次不得宣称已经正式登记。
 
 不同G项的高价值缺口：G4 Bone/望加锡1965年军警及监所原件、Aceh军区指挥链、Flores教会及死亡名册、West Kalimantan 1967地方军警和华人/达雅克记录仍缺；G1 Boven Digoel学校与VSTP原刊仍缺。下一精准动作：①核1998-05-19泗水SPSI省级会议/集会报道；②查Rungkut鞋厂名和工资记录及女工口述；③查UNAIR医院和Kostrad命令；④取得Bone监所、Aceh和Flores原件；⑤核正式CSV最大编号并将本电报并入台账与chronology、中文连续正文。GOAL永久OPEN。
+
+
+**2026-11-13归档完成校正：** 已按当前文件SHA顺序成功写入正式source-register S841、claim-ledger C1482-C1483、search-log Q364、coverage-matrix CV389、chronology及global-gap-tracker。上一段“待并库”是提交前状态，以本段为准。写入前最新已知main提交为01f30e5bfee97fcce12e9762174ae1bf1336dac8；本状态文件提交后最新SHA以GitHub返回为准。GOAL仍OPEN。
