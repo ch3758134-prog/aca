@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-12 15:56 UTC｜G4南苏拉威西与G7劳工法权跨项复核
+
+本次按要求读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit G1—G10、continuity-status、research-status、global-gap-tracker、archive/records/chronology.md及正式四CSV。完整文本去重检索确认1965-11-12使馆1425号电报已经正式登记S190、C208/C814、Q084/Q235/Q266、CV085/CV242/CV306，**不能重复分配新S/C/Q/CV**。
+
+**G4/G5/G3：**本次直接打开美国国家安全档案馆八页原电OCR（https://nsarchive.gwu.edu/media/15708/ocr），核第4—7页：11月12日印尼广播机构从军方临时负责人移交信息部长任命的文职负责人，属于使馆对行政交接的同期记载；第7页一位苏拉威西新教人士向使馆转述11月10日Makassar华人商铺受损与Bone拘押营据称200人被杀。两条报告主体和证明对象不同。90%与200均出自同一转述渠道，**不是地方统计或独立两份证据**；使馆关于骚乱动机、军队约束人群的陈述也尚缺当地记录。OCR已打开，原件影像未逐页核对。下一步找Makassar商会财损簿、Bone/Watampone监所出入与埋葬登记、Kodam XIV命令及11月12日RRI移交文书。
+
+**不同G项G7：**定位并读取ILO 1998—99总干事报告可访问检索正文（https://files.ilo.org/public/english/standards/relm/ilc/ilc88/rep-1a-1.htm），其记载1998年PER-05/MEN/1998工会登记改革、获释劳工活动者及1997劳动法暂缓实施；本次网页全文再次打开超时，故**仅搜索检索节选，不算新全文证据**。须与既存S481/S835/S839及相关法律台账核对，获取PER-05签署件、地方工会登记号码、获释者实际出狱簿；不能把ILO年度机构报告当作企业级执行证明。
+
+**G1—G10仍OPEN**：当前证据级别G4为同期外交OCR已读但地方执行D；G7为ILO原机构检索节选C、签署原件未得。继续轮换G1 VSTP殖民报纸、G2 SOBSI/BTI/Gerwani基层、G6布鲁岛与PRD、G8实际援助交付、G9关系索引、G10证据去重。此次没有成熟到新增独立地方史实的证据，故未改正式CSV、chronology和中文连续HTML；不将已有材料重包装为新增发现。
+
+**精准续接**：①打开1425扫描第4—8页核OCR，取RRI移交令；②向Makassar华人商会与地方报刊追1965-11-10商户名单；③取Bone/Watampone拘押及埋葬记录与Kodam XIV指令；④取得1998 PER-05/MEN/1998正式签署PDF和工厂登记实证；⑤转查1923 Preangerbode No.126与Aceh 1965-10-11县议会原件。写入前main ref见本次工具读取，最终提交SHA以GitHub写入结果为准，不预造自身SHA。
+
 
 ## ONGOING / GOAL仍进行｜2026-11-12 19:46 CST｜G1 VSTP 1923与G4巴厘1965—66跨域续查
 
