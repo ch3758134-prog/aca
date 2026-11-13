@@ -2,7 +2,7 @@
 
 本次已读取 AGENTS、goal-continuity、stage-access、continuity-status、四正式CSV表头与既有记录及 archive/records/chronology.md。直接打开印尼BPK保存的1965年第4号总统条例全文（官方PDF：https://peraturan.bpk.go.id/Download/73314/Perpres%20No.4%20Tahun%201965.pdf），核对第1—4条与1965-05-05署名/公布页。**此前1964年第37号条例第7条只有Deputy I—III、1965-05-06第102号决定任命Deputy I—IV的表面矛盾，现由原件明确解释**：1965年第4号条例第1条第1款直接将第7条b项第3目改为 I、II、III、IV 四名副职；第1条第2款删除原秘书长岗位；第2条增加行政/人事、后勤/预算、机构秘书、机构分遣队；第3条将Dewan Kurator统一更名Dewan Penyantun；第4条规定自1964-11-25追溯生效。BPK目录记载1965-05-05签署公布（https://peraturan.bpk.go.id/Details/42524/perpres-no-4-tahun-1965）。这只能证明中央国防机构的**法定设计**，不能证明1965年10月各军区实际指挥/镇压链，也不能把法定追溯效力当成1964年实际已有四名副职。
 
-本次先以正式原件解决旧续接中最明确的冲突，未在没有全表去重的情况下占用S/C/Q/CV编号；四正式CSV和chronology仍待按最新完整文件核对后追加，中文连续正文未因单一中央法规而机械拼接。**下一次精准续接**：①正式全表去重，登记本条例原文并将1964/1965组织变化写入chronology（需区分签署日/追溯生效日）；②读1965年第90号主席任命和第303号空军任命PDF全文，核实机构与军方人员关系；③经Commons/Leiden逐页获取Aceh 1965年报第8—15扫描页及军令、死亡地图；④1923-05-28《Sin Po》日报VSTP报道原页；⑤1995年Gunung Sari监狱Sido/Markus Giroth释放令及2001年工会登记原簿。G1—G10全部OPEN，长期GOAL永久OPEN。本次状态提交前GitHub HEAD尚待独立核实；提交SHA应由GitHub提交响应及回读确认，不能自引用同次提交。
+本次先以正式原件解决旧续接中最明确的冲突，未在没有全表去重的情况下占用S/C/Q/CV编号；四正式CSV和chronology仍待按最新完整文件核对后追加，中文连续正文未因单一中央法规而机械拼接。**下一次精准续接**：①正式全表去重，登记本条例原文并将1964/1965组织变化写入chronology（需区分签署日/追溯生效日）；②读1965年第90号主席任命和第303号空军任命PDF全文，核实机构与军方人员关系；③经Commons/Leiden逐页获取Aceh 1965年报第8—15扫描页及军令、死亡地图；④1923-05-28《Sin Po》日报VSTP报道原页；⑤1995年Gunung Sari监狱Sido/Markus Giroth释放令及2001年工会登记原簿。G1—G10全部OPEN，长期GOAL永久OPEN。本次原件核验状态首笔提交SHA：cfb3335dcea1f4a39965b80e7a6eb8b170488809（GitHub提交响应；本次续接文件随后更新，最终HEAD以外部回读为准）。
 
 ## ONGOING / GOAL仍进行｜2026-11-13 19:47 CST｜G3 1964国防机构设立法规原文与1965任命结构差异
 
