@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-13 21:55 CST｜G3 Omar Dani出国命令新原件入口（仅目录）
+
+已重新读取AGENTS、goal-continuity、stage-access、正式四CSV及chronology，完整CSV检查确认截至S858/C1526/Q382/CV406，尚无1965年第319号总统决定的正式登记。多语言检索1965-10-14 SPH/112/Koti/10/1965与Jan Djong死亡日期冲突；尚未找到该命令原件或Maumere监所/教区死亡登记。新发现BPK官方目录《Keputusan Presiden Nomor 319 Tahun 1965: Penugasan Omar Dani Ke Eropa Dan Asia》（1965-10-26，四页）：https://peraturan.bpk.go.id/Details/154098/keppres-no-319-tahun-1965 。官方PDF链接：https://peraturan.bpk.go.id/Download/146406/Keppres%20No%20319%20Tahun%201965.pdf ，本次点击返回application/octet-stream不受支持，**仅目录已读，未读四页原文**。该10月26日命令可能帮助检验10月15日303号决定所称出国安排的后续法律链，但不能证明实际出境、交接或代理权实施。另发现1965-05-10第112号总统决定官方目录提及Sri Muljono Herlambang的既有任命：https://peraturan.bpk.go.id/Details/152402/keppres-no-112-tahun-1965 ，亦仅目录，需避免将相同人名误作同一职位。未因目录材料追加历史事实、正式编号或正文。
+
+精准续接：①以支持application/octet-stream的客户端获取319号四页PDF，逐条核对目的地、任务、人员及日期，随后比对303号和112号原文；②继续找1965-10-14 SPH/112/Koti/10/1965及空军出入境、交接记录；③取得Aceh年报扫描8—15页及命令/死亡地图；④获取Maumere Jan Djong 1966年2—3月监所/教区登记与Boumans原书，保留2月9日/3月1日冲突；⑤追1923-05-28《Sin Po》日报原页及1995年政治犯释放令。GOAL和G1—G10全部OPEN。写入基于main当时状态文件blob a5cd42b4e64d1a7f19644e0e894ccf2297e1ddd3；最终提交SHA以GitHub响应和独立回读为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G3 303号总统决定全文；G4 Flores异地冲突
 
 本次读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit G1—G10、四正式CSV、chronology、global-gap-tracker和此前续接。直接读取1965-10-15第303号总统决定官方PDF全文：实际任命Sri Muljono Herlambang为Omar Dani出国期间的空军部长兼司令代理，援引1965-10-14 SPH/112/Koti/10/1965。正式S858/C1526/Q382/CV406已追加。仅能确认法律文书，不可推断Omar Dani已离境或代理权已执行。异地G4/G5：打开Flores研究全文，发现Jan Djong死亡日期1966-03-01与既有S456/C1057所载Boumans引文1966-02-09冲突，未取得原始死亡登记，故不重复登记事实。
