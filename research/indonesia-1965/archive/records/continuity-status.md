@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜跨G项去重与新原件入口核验
+
+本次复读2026-11-09 G1—G10完整性审计及AGENTS、stage-access、goal-continuity、四正式CSV、archive/records/chronology.md、project/research-status.md和缺口总账。**纠错**：正式chronology位于archive/records/chronology.md，研究根目录404不代表时间线不存在。与并行研究去重：S856/C1524/Q380/CV404已经登记1965-05-06第102号总统决定，原始一页扫描已再次打开（https://peraturan.bpk.go.id/Download/275212/Keppres%20No%20102%20Tahun%201965.pdf），不重复编号。
+
+G3异项新入口：BPK第303号总统决定目录 https://peraturan.bpk.go.id/Details/154084/keppres-no-303-tahun-1965 标示1965-10-15关于Omar Dani空军部长/司令代理职务，尝试直接打开目录返回403，**未核原PDF**；须与已登记S116的10-14第302号苏哈托任命及S856区分，不能由法律目录推断各地军队实际服从。G4 Aceh当前链：Commons KODAM年报第9扫描页仍Internal Error，未获得新原件内页，未核10月命令/死亡地图；原先1,941与约10,000两个数字不升级为独立地方统计。G1《Sin Po》1923-05-28日报原页仍缺。
+
+精准续接：①取得第303号决定PDF全文及条款并在正式台账去重；②通过Leiden IIIF或Commons单页图像读取Aceh年报8—15页及10月军令；③取得1923-05-28《Sin Po》日报与VSTP罢工原始人数口径；④轮换Flores/Sulawesi县级拘押档案；⑤追1995年Sido与Markus Giroth监所释放文书。G1—G10全部OPEN，长期GOAL未完成；没有新增独立事实，正式CSV与中文正文不虚增。
+
 ## ONGOING / GOAL仍进行｜2026-11-13 18:55 CST｜G1/G4 1965年中央国防机构任命原件核验
 
 本次已读AGENTS、goal-continuity、stage-access、continuity-status、四份正式CSV及其最新编号；研究目录根路径chronology.md仍404，未宣称已读，须定位真正文件。**新原件已完整目视核验**：印尼总统1965年第102号决定，原始一页签署扫描 https://peraturan.bpk.go.id/Download/275212/Keppres%20No%20102%20Tahun%201965.pdf ，1965-05-06在雅加达签署，任命自1965-03-10起算；国家防务机构Lembaga Pertahanan Nasional副职I—IV分别为陆军准将T.N.I. S. Tjakradipura、空军准将Wirjoasaputro、警察准将R. Tachja、海军少将R. Soebono（军衔中文仅供阅读，准确职称见原件）。正式新登记S856/C1524/Q380/CV404。**不能把中央国防机构任命误认为1965年10月Aceh Kodam/KOHANDA地方军事指挥或镇压命令**。此前只读法规目录的状态已升级为一页原件全文目视；另有1964年第37号总统条例与1965年第4号总统条例在决定“鉴于”栏列为法律依据，尚未读取。
