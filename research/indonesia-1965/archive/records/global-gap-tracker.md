@@ -1627,3 +1627,12 @@ G1 1923原报、G2群众组织账簿、G4 Aceh/北苏门答腊/爪哇/巴厘/Flo
 ## ONGOING｜2026-11-13｜G4/G6 南苏拉威西Moncongloe拘押劳动与释放命令
 
 **来源级别**：直接打开Komnas HAM《1965—1966严重人权侵害临时调查组执行摘要》全文并读印刷142—156页，S859/C1527/Q383/CV407。属于国家人权机关后来的调查报告，引用2009年证人BAP，**不是**1970年代营地原簿。**地区/年代/组织**：1970—1978，South Sulawesi Makassar—Majene—Polewali—Gowa/Moncongloe；Kodam XIV/Hasanuddin、CPM、Teperda；证人称政治犯被派修路、修军营住房和军警私人田地。**缺原件**：BAP 266—269/2009、营地移送/在押名单、Kodam XIV工程工时账、1977-12-20 SPRIN/802/TPD/XII/1977签署页、地方家属记录。**阻碍与反证**：报告第145页释放年份1970与前后1977叙述不符，可能是印刷笔误；不可据此认定全部人员1970年获释，亦不可将报告约1000人直接当成逐人核实人数。**下一动作**：核释放令及名单、逐人证词，核1972军人住房项目账和监所转移；轮换G4 Aceh原始年报和Flores死亡簿、G1铁路原报、G2基层妇女工会原刊、G8跨国原始交付。G1—G10全部OPEN。
+
+
+## ONGOING｜2026-11-13｜G8秘密援助审议原件与G4西加里曼丹地方暴力核验
+
+已重读 completeness-audit-2026-11-09.md 全部G1—G10并对照正式来源/事实CSV。**当前链G8**：直接阅读FRUS XXVI d172，1965-11-09 CIA备忘录全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d172 。第6—9段：机构认为可以组织隐蔽信用证/购买渠道及小武器、药品转运；但第8段明确**当时不建议立即向印尼陆军提供此类装备**，须先与Sukendro及Nasution部下核需求、武器使用及登记控制。第2、4段关于中爪哇及西苏门答腊共产党抵抗的情报判断属于CIA当时估计，不是当地行动或反抗已证实。访问级别：美国政府原始备忘录FRUS公开全文，存在删节；缺件：印尼军方请求原电、后续批准/付款/信用证/运单/收货与地方民兵登记。不能把“能力与意愿”写成“已交付”。下一步查FRUS d173—d180与原始INR/IL卷宗，追Sukendro接触及批准流程，先在正式CSV查重后再并库。
+
+**异项G4/G5西加里曼丹1967**：搜索West Kalimantan 1967 Dayak Chinese expulsion military orders archives，找到Braithwaite 2010援引Davidson 2002的转述（https://en.wikipedia.org/wiki/Discrimination_against_Chinese_Indonesians 仅作为检索入口）和Samalantan/Oevaang Oeray的百科条目（https://en.wikipedia.org/wiki/Samalantan）。访问级别：**二手/三手搜索结果，不是原始地方命令、证词全文或死亡簿**。其中2,000—5,000死亡估计、地方动员会议及族群行动者身份均未独立核实，不得升级事实或用作中文正文。地区/年代/组织：West Kalimantan、Samalantan/Pontianak、1967、军方/Dayak/华人社群；缺件：Davidson博士论文原文及引文、1967地方报刊、Kodam XII/Tanjungpura命令、县级迁移与难民营登记、Oeray会议原始记录及当事人多方口述。下一动作：定位Davidson 2002 pp.158/173原引文，再以地方行政与难民登记反查，区分1965—66反共杀戮与1967反华驱逐的日期、对象和死亡定义。
+
+**去重G10**：d232已正式多重别名S034/S137/S541，Komnas Perempuan 2007报告已为S147；本次没有把旧原件重新算作独立来源。G1—G10均OPEN，下一轮同时推进G1原报、G2基层组织、G3跨机关时序、G4地方军令、G5妇女/族群、G6拘押、G7当代劳工、G8交付、G9索引、G10正式台账与中文历史正文。
