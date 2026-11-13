@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-13 16:57 CST｜G4 Aceh扫描续查访问阻碍及并行HEAD防覆盖
+
+本次重新读取AGENTS、goal-continuity、stage-access、正式source-register/claim-ledger/search-log/coverage-matrix的表头及现有chronology、continuity-status；主线最新可见提交为 c58d8e6b9849a7b3b2d8e21d4d9ccc35d63f16d9（与前次178c044...不同，已有其他研究者提交，不能假定独占main）。重新打开Wikimedia Commons的Aceh KODAM-I/KOHANDA 1965年年报馆藏页面（S855，404页，114.96MB，M m 941 N+，https://commons.wikimedia.org/wiki/File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf ）及第2扫描页的网页；尝试直接打开第9扫描页URL遭web工具Internal Error，容器网络DNS失败，**本次未成功目视读取第8—15页正文，也未取得新的历史事实**。已读与未读的边界维持原样，不把元数据、缩略图或先前研究叙述升级为新原件；不重复登记S855/C1523，也不机械增写chronology或中文正文。正式四CSV本次只做表头及既有登记位置检查，尚未完成全表去重扫描，未追加Q/CV。
+
+精准续接：①使用Commons页码导航逐页点击8—15并取得可目视核对的960px图像，分别记扫描/印刷页号；②定位年报目录、10月军令、Djuarsa行动报告、死亡地图、签名页，核对250页打字本与404页扫描结构；③从Aceh县村死亡登记或其他独立档案对照地图，不能用Melvin同源著作当交叉证明；④并行轮换1923-05-28《Sin Po》日报VSTP报道及1967西加里曼丹地方军令，注意最新main的West Kalimantan研究更新避免重复；⑤取得1995年Sido/Markus Giroth监狱释放原件或2001县市工会季度登记原簿。G1—G10及长期GOAL均OPEN。此段记录提交前可见HEAD c58d8e6b9849a7b3b2d8e21d4d9ccc35d63f16d9；本段所在提交SHA须提交后独立回读，不可自引用。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G4 Aceh军方年报原文首两页已直接核读（S855/C1523/Q379/CV403）
 
 本次读取AGENTS、stage-access、goal-continuity、2026-11-09完整性审计G1—G10、正式四CSV及chronology；另查project/research-status.md。首次通过Commons单页图像**直接目视读取原军方年报正文**：PDF扫描页5对应印刷页1（Pendahuluan），PDF扫描页7对应印刷页2；扫描页2是KITLV馆藏背页、3/4为空白/题记、6是空白背页。年报引言承认1965年原工作计划未按预期完成，称内部组织/人事/后勤整顿、Gestapu/Gestok危机及年末政治经济形势影响任务，并表示未完成事项将于1966年继续处理。这是**军方自我描述的原件内容**，并非独立核实的行动结果、PKI责任或死亡人数。逐页原图：https://commons.wikimedia.org/w/index.php?page=5&title=File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf 及page=7。404页扫描未全读；报告签署日期与250页研究描述差异仍未解决。Roosa书目提及1966-02-01成文日期仅属后世书目，不得升级为原件日期。
