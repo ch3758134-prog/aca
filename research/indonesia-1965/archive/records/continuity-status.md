@@ -1,3 +1,7 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G7与G4交叉核验
+
+ILO NATLEX原始双语部长决定KEP.16/MEN/2001第10—12条全文已读：https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/71238/idn71238.pdf 。县市季度登记报告、1998/1999旧登记组织须取得新号码及1999年201/202号法令废止均为文本要求，不证明实际执行。既有S839；待将新增原文核验主张正式并入C表。异项核查1965-11-12使馆1425号电报OCR：https://nsarchive.gwu.edu/media/15708/ocr ，Makassar商铺及Bone死亡数字同源转述，不作独立统计。缺1999原法令、2001地方登记册、Bone监所与Makassar商户记录。G1—G10保持OPEN，未完成。下一次先处理正式台账去重、更新chronology及中文正文，再轮换Aceh/Flores/早期工会。最终提交SHA须提交后验证，不自引用。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G2/G6交叉核验，前置提交 a99bf36d065f47e7b24cf3d8d8b32d853d2a8a96
 
 已重读AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式source/claim/search/coverage四CSV与chronology；research-status.md不存在。G2直接重新打开《Api Kartini》1961年Djenab报道(S460)与Hurustiati Subandrio署名文章(S461)数字全文，核对研讨会日期1961-01-17至20及家庭/组织叙述；均为同一刊物转录，未见原刊影像或村级地籍，不能当独立地方统计。G6重开国际特赦组织1995年11月更正公告，核实此前7月在押估计须修订；正式S311/C506/C664已登记，S833为镜像重复，不重计。详情见global-gap-tracker最新节。未发现可据此新增的独立事实，正式CSV/chronology/中文正文不强行追加。G1—G10全部OPEN。
