@@ -1565,3 +1565,11 @@ G4异项：实际打开1965-11-12美国使馆1425号电报OCR https://nsarchive.
 **异地区G4 Flores/Sikka，来源级别C：检索仅出现后出人物传记与已有研究线索。** 查Maumere、Sikka DPRD-GR 1966-02-27会议与Jan Djong，未取得会议簿、KOMOP命令、教区原件或拘押名单。维持此前Prior研究及其所引回忆录的间接等级，不将衍生传记算独立地方佐证。下一动作索Sikka DPRD-GR 1966年2月会议档、SVD Ende馆藏匿名Menjaring Angin手稿、KOMOP移交拘押簿。
 
 **G1—G10均OPEN**：G1殖民报刊及1945—49；G2工农妇青文艺基层；G3跨机关逐时；G4各地区军令和被害者名册；G5女性族群幸存者；G6监禁流亡与再组织；G7工会与救济执行；G8外部行动实际交付；G9人地组织索引；G10证据去重、统一时间线及连续中文历史正文。此次中央法律局部解决不代表任何地区调查完成。
+
+## ONGOING / GOAL仍进行｜2026-11-13｜G3 空军代理任命原件与G4 Flores死亡日期冲突
+
+已重读2026-11-09完整性审计G1—G10，正式CSV与既有S456/C1057，核对新原件是否重复。**G3中央跨机关时序**：直接打开BPK第303号总统决定单页完整原文（https://peraturan.bpk.go.id/Download/146392/Keppres%20No%20303%20Tahun%201965.pdf），发现目录标题虽为Omar Dani，正文真正任命Sri Muljono Herlambang为Omar Dani出国期间的空军部长/司令代理；援引1965-10-14 SPH/112/Koti/10/1965。已正式登记S858/C1526/Q382/CV406。缺失原件：10月14日所引命令、空军交接簿、Omar Dani行程、军区接令记录；阻碍：目前只证法定任命，不证实际执行。
+
+**异项G4/G5 Flores—Sikka**：直接阅读墨尔本大学《Melbourne Asia Review》关于Flores的全文研究性文章（https://www.melbourneasiareview.edu.au/the-genocide-of-1965-in-flores-indonesia-and-whats-needed-for-reconciliation/），文中引Madung/Prior说Jan Djong于1966-03-01死于Maumere拘押，但正式S456/C1057已记录Prior引Boumans回忆录的1966-02-09；这是**同一死亡日期未解决的证据冲突**，不是独立确认任何日期。文章另引1999年地方教会著作估Maumere 1966年2—5月800—2000人死亡，不能当成原始名册。缺失：Maumere监所登记、教区死亡/埋葬登记、Boumans原书、2019 van Klinken原文、KOMOP命令、1966-02-27 Sikka会议记录。文章是研究全文，不是1966年地方原件；不重复占用来源ID。
+
+G1 1923原报、G2群众组织账簿、G4 Aceh/北苏门答腊/爪哇/巴厘/Flores/西加里曼丹/Sulawesi地方军令、G5性别宗教、G6监禁流亡、G7当代组织、G8外部介入、G9人物地理、G10档案治理均OPEN。下一步优先①SPH/112/Koti/10/1965原件；②Aceh年报扫描页8—15及军令；③Maumere 1966年教区/监狱死亡原簿；④1923-05-28 Sin Po日报原页；⑤1995政治犯释放文书。
