@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G2/G6交叉核验，前置提交 a99bf36d065f47e7b24cf3d8d8b32d853d2a8a96
+
+已重读AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式source/claim/search/coverage四CSV与chronology；research-status.md不存在。G2直接重新打开《Api Kartini》1961年Djenab报道(S460)与Hurustiati Subandrio署名文章(S461)数字全文，核对研讨会日期1961-01-17至20及家庭/组织叙述；均为同一刊物转录，未见原刊影像或村级地籍，不能当独立地方统计。G6重开国际特赦组织1995年11月更正公告，核实此前7月在押估计须修订；正式S311/C506/C664已登记，S833为镜像重复，不重计。详情见global-gap-tracker最新节。未发现可据此新增的独立事实，正式CSV/chronology/中文正文不强行追加。G1—G10全部OPEN。
+
+**精准续接**：①1961《Api Kartini》原刊影像及1961-01-17—20研讨会签到/决议；②Pabuaran地籍、Djenab采访原稿与托育实施；③1995年11月14名政治犯监所原件与获释日期；④Aceh Langsa军区1965-10-11会议与Baperki声明扫描；⑤Flores Sikka 1966-02-27军政会议原件及1967 West Kalimantan军令。前置HEAD a99bf36d...；本状态文件提交产生的新HEAD必须提交后再读取验证，不自引用虚写。
+
 ## GOAL OPEN｜2026-11-13｜G2/G5与G4异地接力，已知前置main HEAD 172c85ce5fe3fff9aa0997a648e29445b7a30058
 
 已读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式四CSV、chronology、缺口总账及本状态；research-status.md未找到。新增S853/C1518/C1519/Q375/CV399，S460去重复用；正式CSV和chronology已提交。全文打开《Api Kartini》1961两篇数字转录：Pabuaran Djenab与Gerwani全国妇女农民研讨会、开罗亚非妇女会议；未取得原刊影像/签到册/正式决议。异地核验Singkawang 2004论文馆藏，只有目录在本次重开，非军令原件。缺口与来源等级详见global-gap-tracker顶部。
