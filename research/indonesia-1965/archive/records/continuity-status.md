@@ -1,3 +1,13 @@
+## ONGOING｜2026-11-13 13:54 PST｜G6同期释放名册说法与G4西加里曼丹原件定位
+
+本次已读取2026-11-09 completeness-audit G1—G10、AGENTS、stage-access、goal-continuity及现有滚动状态；确认四CSV与chronology实际在 archive/records/，不能误以研究目录根路径404代表不存在。
+
+**长期链G6（1977—1978政治犯释放）**：维多利亚大学馆藏《TAPOL Bulletin》28期（1978-06）PDF全文可被网页文本索引读取 https://vuir.vu.edu.au/26383/1/TAPOL28_compressed.pdf ，其《More on the 1977 releases》报道政府声称1977年底10000名释放者全部回家、获得完全自由，且编有10000人名单，部分外国使馆曾见名单；但刊物称独立人士尚不能核其可靠性，并报告不同地方释放后限制不同。文章把904（爪哇监所）+1500（布鲁岛）=2404，称约24%在/回爪哇；这一口径是刊物对政府分项的整理，不是名单或实际抵达核验。此前26期的官方地区分项合计10000，不能与真实自由人数混为一谈。第24期馆藏目录 https://vuir.vu.edu.au/26394/ 可访问，但PDF直接打开遭Anubis拒绝（Access Denied），不得称已读24期。**缺件**：1977年官方10000人名单、使馆阅览/核查记录、逐人目的地、KOPKAMTIB原令、强制迁移记录。下一步追第28期报道的原始政府名单与驻雅加达使馆档案、1978年原始访问记录。
+
+**异项G4/G5（1967西加里曼丹）**：直接读取印尼UNY《SOCIA》2015论文摘要 https://jurnal.uny.ac.id/index.php/sosia/article/view/5319 ，其研究以访谈、观察及葛兰西解释框架论PGRS/PARAKU与军方、达雅克动员；摘要不是1967年命令或独立死亡统计。定位Sanata Dharma大学2009论文《Kebijakan pemerintah RI terhadap PGRS/Paraku ...1963-1967》全文下载入口 https://repository.usd.ac.id/25201/ ，以及2004年Singkawang论文 https://repository.usd.ac.id/25055/ ，本次只核到馆藏目录/全文入口，未读论文正文。另发现2017年AJU著《Negara di Balik Pembantaian Etnis Tionghoa ...》的地方馆藏书目 https://www.pustaka-bpkxii.org/pustaka/negara-di-balik-pembantaian-etnis-tionghoa-di-kalimantan-barat-tahun-1967%C2%A0-bagian-dari ，书目声称1967年Pontianak RRI军方广播借用Oevaang Oeray姓名；**这是书目简介中的作者主张，未读书本、RRI录音/稿、Kodam XII命令，不能升级为事实**。下一步重点核RRI Pontianak 1967播音稿、Peperalda/Kodam XII档案、Oeray当时公开声明及地方驱逐/难民名册；区分反PGRS军事行动与对普通华人居民的集体暴力。
+
+**G1—G10全部OPEN**：G1原报、G2组织财务、G3跨机关时序、G4地方命令、G5妇女族群个案、G6监所/释放、G7现代工会、G8实际外援交付、G9人物地名关系、G10正式台账与连续中文正文仍有缺口。本次为新增可追踪的同期刊物报道与地方档案入口，尚未全表去重，故不占用S/C/Q/CV、不声称更新chronology或中文正文。精确续接：①核第28期PDF全文第1—4页并查10000名册；②查1977使馆名单审查通信；③取2009与2004论文全文原引注；④查1967 Pontianak RRI原稿与Kodam XII命令；⑤正式CSV去重后并库，继续Aceh/Flores与1923原报。
+
 ## ONGOING / GOAL仍进行｜2026-11-14 05:54 CST｜G6/G7 1978年学生镇压与释放政策同期对照
 
 本次复读AGENTS、goal-continuity、stage-access、continuity-status、chronology及四份正式CSV的表头/样本（非全表去重）。直接打开维多利亚大学保存的1978年2月《TAPOL Bulletin》26期PDF全文（https://vuir.vu.edu.au/26386/1/TAPOL26_compressed.pdf），将前轮只关注释放数字的调查扩展至同一期第2—3页学生运动报道：该刊称1977-11-28万隆学生宪章公开批评苏哈托；1978年1月末KOPKAMTIB整肃学生运动，1月27日前官方承认拘捕158人（其中143名学生），2月2日又报道万隆40名学生被捕；报道称七家报纸停刊，2月5日六家解禁，至2月7日路透社报告拘捕数为240。刊物列出Kompas、Sinar Harapan、Pelita（原文OCR作Felita，待扫描目视复核）、Merdeka、Indonesia Times、Pos Sore、Sinar Pagi，并记载万隆三种学生出版物遭禁。上述数字属于TAPOL对官方声明/通讯社的同期转录，时间口径不同，不可相加为独立受害者总数；报纸禁令亦需查印尼原令及实际复刊日期。文章提及Lukman Hakim（印尼大学学生会主席）、Dharsano、Kemal Idris等不同位置的行动，不能据此将学生运动视为单一政治派别或推断军方共同指挥。此证据链与同刊第4—5页政治犯释放及安置争议同属1977—78年新秩序政治环境，但二者因果联系尚无原始证明。
