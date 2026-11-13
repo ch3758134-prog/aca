@@ -1,3 +1,13 @@
+## GOAL OPEN｜2026-11-13 UTC｜G4西加里曼丹新全文入口与G7官方法效力核验
+
+**规则与审计**：重读AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、滚动状态和缺口总账；正式CSV与chronology位于archive/records/，不是项目根目录。研究始终OPEN，不将单一地方/法律研究当作全域覆盖。
+
+**G4/G5｜West Kalimantan/Singkawang（1967）**：新定位Sanata Dharma大学2004年Agustinus Arnaldo学位论文《Penumpasan PGRS/PARAKU di Kalimantan Barat 1967: studi kasus keterlibatan etnis Cina di Singkawang》，馆藏 https://repository.usd.ac.id/25055/ ，直接打开其133页完整PDF https://repository.usd.ac.id/25055/2/001314037_Full%5B1%5D.pdf 。**访问等级：全文PDF文件已打开，但机器抽取严重污染（重复PLAGIAT字样），正文尚未完成可读页的逐页目视核查；不可据此添加任何具体历史行动、人数或直接证言。** 该论文聚焦Singkawang华人群体，不能与既有S453西加里曼丹研究当作独立原始军令；下一步目视检查论文目录、注释、参考书目与引用原始证词，逐条定位1967军令、迁移和受害者姓名。另定位Vinco M.S. Mitchel 2009年论文《Kebijakan pemerintah RI terhadap PGRS/Paraku di Kalimantan Barat 1963–1967》，https://repository.usd.ac.id/25201/ ，目录明确有22MB全文，下载接口返回错误，**只读目录**；不能冒称全文。2015年Yulita Dewi Purmintasari期刊文章 https://jurnal.uny.ac.id/index.php/sosia/article/view/5319 为摘要可读，未核原始访谈。G4地方军令与G5华人/达雅克个体证据仍缺。
+
+**G7｜2000/2026工会法**：重新打开印尼国家审计机关BPK官方法规登记 https://peraturan.bpk.go.id/Details/337869/uu-no-1-tahun-2026 ，确认2026年第1号法《Penyesuaian Pidana》于2026-01-02公布、生效，法律主要调整刑事条款；与既有官方PDF https://www.peraturan.go.id/files/uu-no-1-tahun-2026.pdf 对读，继续把UU21/2000第43条列为待逐页目视校验的附件项。**本次只核官方元数据与既有OCR范围，未核定具体新刑期/罚金，亦未核省县工会执法效果**。不得将刑罚条款调整写为工会自由的全面重订。
+
+**G1—G10缺口轮换**：G1殖民报刊/运输；G2工农妇青基层档案；G3跨机关逐时；G4 Aceh、North Sumatra、Java、Bali、Flores、West Kalimantan、Sulawesi县级军令/拘押与迁移；G5性别族群幸存者；G6监禁流亡再组织；G7工会及政治权利实际执行；G8英美澳中苏行动交付；G9人物/组织/地点索引；G10正式CSV去重与连续中文正文全部OPEN。本次新材料仍需页面校核且非新地方原件，不增加未经核实S/C或死亡数字；chronology/中文正文暂不强行追加。精准下一步：Singkawang论文影像逐页看注释及访谈出处；Mitchel论文全文替代入口；1967军令及迁移/救济原名册；2026法附件工会第43条图像和2000原文对读；再轮换G2 Gerwani原刊与G6布鲁岛外监所档案。
+
 ## ONGOING / GOAL仍进行｜2026-11-13 UTC｜G7 2026工会法刑罚调整原件 + G4地方原件缺口轮换
 
 **已读取** main AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09 G1—G10、正式CSV表头与首行、chronology及滚动状态/总账；research-status.md路径未找到。**本次纠正前轮悬而未决的2026法律线索**：直接打开印尼司法法规官方PDF https://www.peraturan.go.id/files/uu-no-1-tahun-2026.pdf ，原法第1—2页及附件一印刷第9页（网页提取行3434—3451）。2026年第1号法的正式名称是《刑罚调整法》（Penyesuaian Pidana），而非专门《工会法修正法》；其附件一明确列出2000年第21号《工会/工人组织法》（Serikat Pekerja/Serikat Buruh）**第43条**的刑罚调整（OCR表格列交错，应逐页目视确认具体新刑期和罚金），不是工会登记/成立制度整体重写。原件直接读取级别为**官方PDF正文及附件OCR打开，未逐页图像校核**；前轮“2026第1号法可能修改UU21/2000”的第三方线索现可收窄为**刑事处罚条款调整**。需进一步与2000年法第43条原文及2026附件影像逐字比较，不能由此推断工会基层实际执法变化。此法尚需与正式source-register全文去重后才可分配S/C编号；不得提前自造ID。
