@@ -1,3 +1,13 @@
+## ONGOING｜2026-11-13 13:54 PST｜G6同期释放名册说法与G4西加里曼丹原件定位
+
+本次已读取2026-11-09 completeness-audit G1—G10、AGENTS、stage-access、goal-continuity及现有滚动状态；确认四CSV与chronology实际在 archive/records/，不能误以研究目录根路径404代表不存在。
+
+**长期链G6（1977—1978政治犯释放）**：维多利亚大学馆藏《TAPOL Bulletin》28期（1978-06）PDF全文可被网页文本索引读取 https://vuir.vu.edu.au/26383/1/TAPOL28_compressed.pdf ，其《More on the 1977 releases》报道政府声称1977年底10000名释放者全部回家、获得完全自由，且编有10000人名单，部分外国使馆曾见名单；但刊物称独立人士尚不能核其可靠性，并报告不同地方释放后限制不同。文章把904（爪哇监所）+1500（布鲁岛）=2404，称约24%在/回爪哇；这一口径是刊物对政府分项的整理，不是名单或实际抵达核验。此前26期的官方地区分项合计10000，不能与真实自由人数混为一谈。第24期馆藏目录 https://vuir.vu.edu.au/26394/ 可访问，但PDF直接打开遭Anubis拒绝（Access Denied），不得称已读24期。**缺件**：1977年官方10000人名单、使馆阅览/核查记录、逐人目的地、KOPKAMTIB原令、强制迁移记录。下一步追第28期报道的原始政府名单与驻雅加达使馆档案、1978年原始访问记录。
+
+**异项G4/G5（1967西加里曼丹）**：直接读取印尼UNY《SOCIA》2015论文摘要 https://jurnal.uny.ac.id/index.php/sosia/article/view/5319 ，其研究以访谈、观察及葛兰西解释框架论PGRS/PARAKU与军方、达雅克动员；摘要不是1967年命令或独立死亡统计。定位Sanata Dharma大学2009论文《Kebijakan pemerintah RI terhadap PGRS/Paraku ...1963-1967》全文下载入口 https://repository.usd.ac.id/25201/ ，以及2004年Singkawang论文 https://repository.usd.ac.id/25055/ ，本次只核到馆藏目录/全文入口，未读论文正文。另发现2017年AJU著《Negara di Balik Pembantaian Etnis Tionghoa ...》的地方馆藏书目 https://www.pustaka-bpkxii.org/pustaka/negara-di-balik-pembantaian-etnis-tionghoa-di-kalimantan-barat-tahun-1967%C2%A0-bagian-dari ，书目声称1967年Pontianak RRI军方广播借用Oevaang Oeray姓名；**这是书目简介中的作者主张，未读书本、RRI录音/稿、Kodam XII命令，不能升级为事实**。下一步重点核RRI Pontianak 1967播音稿、Peperalda/Kodam XII档案、Oeray当时公开声明及地方驱逐/难民名册；区分反PGRS军事行动与对普通华人居民的集体暴力。
+
+**G1—G10全部OPEN**：G1原报、G2组织财务、G3跨机关时序、G4地方命令、G5妇女族群个案、G6监所/释放、G7现代工会、G8实际外援交付、G9人物地名关系、G10正式台账与连续中文正文仍有缺口。本次为新增可追踪的同期刊物报道与地方档案入口，尚未全表去重，故不占用S/C/Q/CV、不声称更新chronology或中文正文。精确续接：①核第28期PDF全文第1—4页并查10000名册；②查1977使馆名单审查通信；③取2009与2004论文全文原引注；④查1967 Pontianak RRI原稿与Kodam XII命令；⑤正式CSV去重后并库，继续Aceh/Flores与1923原报。
+
 ## ONGOING｜2026-11-13｜G8美国政策原电报与G6政治犯处决风险：跨项核验
 
 **G8（1965-10-22，华盛顿—雅加达）**：直接打开美国国务院FRUS XXVI d159电报全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d159 ，该原始同期政策指示已正式登记**S027**，本次不重复新建来源。第1段自称意见“tentative”并要求使馆反馈；第8(e)段提出若印尼方面接触，短期援助可能采取秘密或半秘密、临时小额方式，表示美方愿配合；第8(f)段又以发生PKI叛乱为条件谈回应军方需求。脚注5引1965-10-27使馆1236号电报，主张研究在军方明确请求情况下提供一次性、不可归属援助的可能性。**严格边界：这是政策设想、条件与回函摘要，绝非已经批准、运送、交付或使用的物资记录；对中国施压Aidit的判断亦是当时美方未经独立证实的归因。**缺件：1236全文、303委员会批准记录、采购/运单、印尼军方接收与实际使用凭证；后续对照既有S027/C023及d175等，避免重复登记。地区/机构：美国国务院、驻雅加达使馆、印尼军方；访问等级：公开原始电报全文与编辑脚注。
