@@ -1,3 +1,11 @@
+
+
+## ONGOING / GOAL仍进行｜2026-11-13｜G4 West Kalimantan 1967地方动员链的全文二手研究核验（与Aceh原档链轮换）
+
+按2026-11-09 completeness-audit G1—G10及AGENTS、stage-access、goal-continuity、正式来源去重读取。本次转向异地G4：直接打开Superman《Peristiwa Mangkok Merah di Kalimantan Barat Tahun 1967》2017年《HISTORIA》5(1)完整14页PDF（https://ojs.fkip.ummetro.ac.id/index.php/sejarah/article/download/728/587），非搜索摘要。论文印刷第6页引述作者2009-02-01对Zainal Arifin的访谈：其自称被招募为熟悉地形的先导，和Siliwangi部队一起行动；这**只能证明论文如此记录一位受访者的回忆**，不能直接证明各部队编制、指挥链或行动规模。印刷第7—8页论文称Oevang Oeray曾在RRI Pontianak宣读要求内地华人迁移的信，并称1967-10-11 Samalantan举行受军方警戒的村长会议，要求准备所谓Gerakan Demonstrasi；但**尚无广播录音/稿、Oeray签署信、会议签到簿、军方命令原件**。论文引用更早材料及口述，不能把叙述当作1967年行政原件，也不能把所有华人视为PGRS/PARAKU成员。关键社会机制待查：军事反游击与对内地华人迁移的行政动员是否、如何发生连接；迁出者职业、土地/商店财产、避难目的地与伤亡须分开建档。
+
+已确认同文在印尼Garuda政府学术索引（https://garuda.kemdiktisaintek.go.id/documents/detail/3304073），两入口是同一研究，不计双重佐证；正式source-register未见Superman或728/587，后续需以当前最新编号去重再正式登记，本文暂记候选来源，不预占S/C。当前Aceh年报已知S855及此前已核印刷页1—2，不重复冒充新发现。下一动作：①追2009-02-01 Zainal Arifin访谈录音/逐字稿；②1967-10-11 Samalantan会议通知/签到/纪要；③RRI Pontianak广播稿和Oevang Oeray签署信；④Kodam XII/Tanjungpura 1967-10前后命令与Siliwangi调动记录；⑤继续Aceh 1965年报扫描页8—15，核页序与目录。G1—G10全部OPEN；此处不作1967地方原件已取得的虚假声明。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G4 Aceh军方年报原文首两页已直接核读（S855/C1523/Q379/CV403）
 
 本次读取AGENTS、stage-access、goal-continuity、2026-11-09完整性审计G1—G10、正式四CSV及chronology；另查project/research-status.md。首次通过Commons单页图像**直接目视读取原军方年报正文**：PDF扫描页5对应印刷页1（Pendahuluan），PDF扫描页7对应印刷页2；扫描页2是KITLV馆藏背页、3/4为空白/题记、6是空白背页。年报引言承认1965年原工作计划未按预期完成，称内部组织/人事/后勤整顿、Gestapu/Gestok危机及年末政治经济形势影响任务，并表示未完成事项将于1966年继续处理。这是**军方自我描述的原件内容**，并非独立核实的行动结果、PKI责任或死亡人数。逐页原图：https://commons.wikimedia.org/w/index.php?page=5&title=File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf 及page=7。404页扫描未全读；报告签署日期与250页研究描述差异仍未解决。Roosa书目提及1966-02-01成文日期仅属后世书目，不得升级为原件日期。
