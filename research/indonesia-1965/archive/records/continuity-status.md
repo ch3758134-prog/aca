@@ -2033,3 +2033,14 @@ G2：直接打开Gerwani 1961《Program Gerwani》及《Peraturan Dasar Gerwani�
 已重读G1—G10完整性审计、AGENTS、stage-access、goal-continuity、正式四CSV与chronology，并核前次G3航空行政链。**新登记S859/C1527/Q383/CV407**：直接打开Komnas HAM关于1965—1966事件的官方调查执行摘要全文（TAPOL公开镜像：https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf），读印刷142—156页。Moncongloe 1970—1978证词记载拘押人员从南苏拉威西多处转入，修军用住房、道路及军警私人耕地；报告引用1977-12-20 SPRIN/802/TPD/XII/1977释放转居家拘押令。来源为**官方追溯性调查报告全文**，不是1970年代原始拘押或释放令。第145页存在1970/1977日期矛盾，不擅自校正。异G项G3：复核BPK Keppres 319/1965官方目录（1965-10-26 Omar Dani赴欧亚任务），仍未读四页PDF；不可据目录证明实际出境。G4 Aceh、Flores、Bali、Java、West Kalimantan等地区原始军令仍缺。已将调查发现并入正式CSV、chronology及缺口总账；中文连续正文仍须与地方原件和人物链进一步交叉。
 
 **下一精准动作**：①找Komnas HAM原调查附件BAP 266—269/2009及Moncongloe营地名单；②取SPRIN/802/TPD/XII/1977签署原页，解决1970/1977矛盾；③查Kodam XIV 1972—1977住房工程、强制劳动和土地账；④继续Aceh KODAM-I/KOHANDA 1965年报扫描8—15页、Flores Maumere死亡簿；⑤查1923-05-28 Sin Po日报原影像并轮换Gerwani原刊、G8外部介入。**G1—G10 OPEN；长期GOAL未完成。**
+
+
+## ONGOING / GOAL仍进行｜2026-11-14｜G3空军代理关系与外部同期观察交叉核查
+
+已重新读取AGENTS、goal-continuity、stage-access、continuity-status、正式四CSV与chronology（部分为首段或指定行，尚未完成全表去重）。针对已读取的1965-10-26第319号总统决定，尝试重新打开BPK官方PDF https://peraturan.bpk.go.id/Download/146406/Keppres%20No%20319%20Tahun%201965.pdf 与1965-10-15第303号决定 https://peraturan.bpk.go.id/Download/146392/Keppres%20No%20303%20Tahun%201965.pdf ，本次网页访问均返回错误；因此本次不冒称重新目视核验。既有319号全文核读结果继续作为上次记录，而非本次独立复核。
+
+本次直接打开并阅读美国国务院公开《FRUS 1964–1968》卷26第149号文件（1965-10-06华盛顿情报备忘录）https://history.state.gov/historicaldocuments/frus1964-68v26/d149 ：文件记录当时美国情报机构认为军队控制局势、苏加诺尝试政治解决，提到10月4日Omar Dani广播回应，并在分析中明确称Dani动机仍是开放问题。这是当时美国情报分析及所转述广播，不能作为Dani行动/动机的独立定论。另直接打开第146号文件（1965-10-04美国国防部门备忘录）https://history.state.gov/historicaldocuments/frus1964-68v26/d146 ，其中对苏加诺所知情况并列转述相反报告，并记载美方观察到军方利用将领遗体事件动员舆论；这同样是美方观察与推测，不可替代印尼广播录音、军令或独立现场证词。两文件均早于10月15日代理任命及10月26日出访授权，**不能证明后两文件是否实际执行**。另外核查ILO 1998-06-10新闻稿 https://www.ilo.org/resource/news/indonesia-pledges-respect-trade-union-rights-ratifies-key-ilo-convention-no 与NORMLEX https://normlex.ilo.org/dyn/nrmlx_en/f?p=NORMLEXPUB:11200:0::NO::P11200_INSTRUMENT_SORT,P11200_COUNTRY_ID:2,102938 ，确认1998-06-05印尼国内批准/宣告与1998-06-09国际登记日期应分别记录；这条关系已有S854及既有ILO记录，避免重复登记。
+
+本次因未完成正式CSV全表去重，**未新编S/C/Q/CV，也未修改chronology或成熟中文正文**。后续需核对FRUS第146/149号在正式来源台账中是否已有记录，再按实际新增证据决定登记。此前已有S858记录第303号，避免重复。
+
+精准未完事项：①完整检索正式四CSV中FRUS d146/d149、319号原件及ILO 1998条目的URL/编号，去重后登记；②重新取得319号四页PDF图像并核六人姓名及签署，查10—12月出境/回国/使馆接待与报告；③取得1965-10-14 SPH/112/Koti/10/1965及代理交接原始记录，区分法定任命与实权交接；④取得亚齐军区1965年报第8—15扫描页、军令和地图；⑤轮换1923-05-28《Sin Po》日报原版、Moncongloe释放原令与1998后工会登记原簿。G1—G10和长期GOAL继续OPEN。写入时前置文件blob SHA：299eab6b22bcf312321137583734976dbd74be26；最终commit SHA以GitHub提交返回和HEAD回读为准。
