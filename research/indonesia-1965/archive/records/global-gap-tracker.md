@@ -1,3 +1,11 @@
+## ONGOING｜2026-11-13｜G6 Moncongloe译本人数分母歧义与G4 Aceh原件链复查
+
+按2026-11-09完整性审计逐项保持G1—G10开放；读取AGENTS、stage-access、goal-continuity、continuity-status、四正式CSV与chronology。**G6（1970—1977，南苏拉威西）**：直接核对TAPOL所载Komnas HAM调查英文译文（https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20TAPOL%20translation.pdf）及另一英文译本（https://stopimpunity.org/content/stopimpunity/national_commission_of_human_rights_report_1965_translation.pdf）。前者把证人A的1977-12-20释放表述为“in a group of altogether 466 people”，后者表述为“together with 466 other prisoners”。**二者对466是否包含证人本人存在翻译口径差异（466或467），不能把466写成已核实的逐人总数**；两种译本同源于Komnas HAM调查，不是独立营地原件。B的SPRIN/802/TPD/XII/1977只在调查报告中被引述，释放后仍处于居家拘押；C的C3和D的B2是报告转述的证明类别，缺原始签署页、名册和BAP。下一动作：直接按印尼文原版相关印刷页核原文“466”语法，追SPRIN签署件、1977释放清册、BAP266—269及家属证词。
+
+**G4（Aceh，1965—1967）**：重新打开Jess Melvin 2015年署名文章全文（https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide），其将1965年10月1—5日、6日后公开杀戮、14日后军方控制场所的杀戮、12月以后巩固区分为研究者依据军方档案提出的阶段。另核2018年著作出版方目录（https://www.routledge.com/Indonesias-War-over-Aceh-Last-Stand-on-Meccas-Porch/Davies/p/book/9781138347977），确认章节分期与档案研究说明；**出版方介绍和作者文章不是两份独立军方原件**。此前S855已取得年报引言扫描，但本次未取得第8—15页或10月原始命令；因此不将阶段划分当成已经独立核实的县级指挥、杀戮或人数。下一动作：逐页取KITLV M m 941 N+年报扫描8—15，查10月1/4/14军令、Djuarsa签署与地图，分地区核军区—县—村传达链。
+
+**G1/G2/G3/G5/G7/G8/G9/G10未闭合**：G1《Sin Po》1923-05-28日报与VSTP人数原簿；G2 SOBSI/BTI/Gerwani基层原件；G3第319号总统决定的官方四页扫描已在续接状态报告“文本层全文已读”，本次官方PDF访问返回错误，未独立重复核读，正式S/C尚未并库；G5 Flores/女性受害者原簿；G7工会实际登记与幸存者组织；G8外部援助交付凭证；G9人物/地点/组织关系索引；G10严格时间排序与中文连续正文。来源等级、缺件和阻碍均维持OPEN，不因二手文本重复或网页摘要新建正式S/C。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G6 Moncongloe释放类别与G1铁路罢工人数口径交叉核验
 
 **G6长期链（南苏拉威西，1970—1977，Teperda/Moncongloe）**：直接检索并阅读Komnas HAM 2012年印尼文调查报告中Moncongloe证词段落（已正式登记S859），并交叉打开TAPOL发布的英文译本 https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20TAPOL%20translation.pdf 。印尼文证词称A在1970-09至1977-12-20被拘押，1977-12-20与其他466人一同获释；B从Majene监狱转来，按SPRIN/802/TPD/XII/1977从完全拘押转为居家拘押；C于1974-08-08按Teperda证明归C3；D的释放证明归B2。英文译本确认这些类别及日期是**报告转述证词/文件内容**，不构成第二份独立1977年原始释放令。466应暂作证人陈述的同批人数，不得当成营地总在押人数、实际自由人数或已核名册人数。缺：SPRIN签署页、1974释放证明、逐人名册、证人BAP；阻碍：报告印刷页145的1970/1977矛盾、译本源于同一报告。下一动作核BAP266—269/2009与1977原令，逐人对照拘押类别、家庭监视和实际行动自由。
