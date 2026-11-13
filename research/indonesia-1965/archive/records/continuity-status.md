@@ -1,3 +1,9 @@
+## GOAL OPEN｜2026-11-13｜G2/G5与G4异地接力，已知前置main HEAD 172c85ce5fe3fff9aa0997a648e29445b7a30058
+
+已读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式四CSV、chronology、缺口总账及本状态；research-status.md未找到。新增S853/C1518/C1519/Q375/CV399，S460去重复用；正式CSV和chronology已提交。全文打开《Api Kartini》1961两篇数字转录：Pabuaran Djenab与Gerwani全国妇女农民研讨会、开罗亚非妇女会议；未取得原刊影像/签到册/正式决议。异地核验Singkawang 2004论文馆藏，只有目录在本次重开，非军令原件。缺口与来源等级详见global-gap-tracker顶部。
+
+**精准续接：** ①《Api Kartini》1961年第1/2期原刊扫描与Djenab报道逐页对照；②1961年1月雅加达妇女农民研讨会签到册、决议及Pabuaran村土地/托育记录；③开罗1961亚非妇女会议签署决议与印尼代表团档案；④Arnaldo 2004 Singkawang PDF影像逐页脚注与1967 Kodam XII军令、村级迁移/救济名册；⑤转G6 1995政治犯逐人档案与G7 2026工会法附件实效。G1—G10均OPEN，研究未完成。**此文件提交后的自身SHA不能预写为已存在SHA，须读取GitHub main HEAD验证。**
+
 ## GOAL OPEN｜2026-11-13 UTC｜精准接力：Singkawang全文影像与G7法规附件
 本次已读G1—G10完整性审计、AGENTS、授权、goal-continuity及现有正式台账位置；G4新打开Arnaldo 2004年133页PDF（https://repository.usd.ac.id/25055/2/001314037_Full%5B1%5D.pdf），但文本抽取被重复水印污染，尚未完成逐页图像核查；Mitchel 2009年全文链接下载失败（https://repository.usd.ac.id/25201/）。G7复核BPK 2026-01-02官方法规元数据，UU21/2000第43条新刑罚数值仍须附件影像校验。所有G1—G10 OPEN。**下一动作**：①对Arnaldo PDF按页检查目录、注释、引用地方口述/军令；②追Mitchel PDF可访问入口；③逐页比对2026年第1号法附件与2000年第21号法第43条；④切换G2 Gerwani基层原刊或G6监所名册；⑤取得可独立核实事实后再去重更新正式CSV、chronology与成熟中文正文。缺口总账顶部有证据等级与链接。前一提交 f371cd558683a0ebd7461dc9d990a78d12bfe6f2；本状态提交自身SHA须在提交后独立核实，不能自引用。长期GOAL不因本次提交结束。
 
