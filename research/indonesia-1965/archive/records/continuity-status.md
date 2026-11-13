@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G4 Aceh军方年报原文首两页已直接核读（S855/C1523/Q379/CV403）
+
+本次读取AGENTS、stage-access、goal-continuity、2026-11-09完整性审计G1—G10、正式四CSV及chronology；另查project/research-status.md。首次通过Commons单页图像**直接目视读取原军方年报正文**：PDF扫描页5对应印刷页1（Pendahuluan），PDF扫描页7对应印刷页2；扫描页2是KITLV馆藏背页、3/4为空白/题记、6是空白背页。年报引言承认1965年原工作计划未按预期完成，称内部组织/人事/后勤整顿、Gestapu/Gestok危机及年末政治经济形势影响任务，并表示未完成事项将于1966年继续处理。这是**军方自我描述的原件内容**，并非独立核实的行动结果、PKI责任或死亡人数。逐页原图：https://commons.wikimedia.org/w/index.php?page=5&title=File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf 及page=7。404页扫描未全读；报告签署日期与250页研究描述差异仍未解决。Roosa书目提及1966-02-01成文日期仅属后世书目，不得升级为原件日期。
+
+异项G1同时核查1923-05-26《Sin Po》周刊元数据与日报刊期区别；未打开报道原页，约8000铁路工人数字仍未核实。长期G1—G10全部OPEN。**精准续接**：①按Commons单页继续Aceh PDF扫描页8—15（考虑单面正文、背页空白），找到目录/章节；②追Aceh报告10月1/4/14命令、Djuarsa报告、死亡地图及署名页，分别记录PDF与印刷页码；③找1923-05-28《Sin Po》日报原页而非05-26周刊，交叉核VSTP罢工人数；④转Flores Sikka 1966-02-27会议原簿或West Kalimantan 1967军令；⑤查1995年Sido/Markus Giroth监所释放档案。此前已写入四正式CSV，状态档提交前核验main最新HEAD；本状态自身提交SHA只能在提交后核验，不作自引用。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜精确接力：Aceh原件页码与Sin Po周刊/日报版本
 
 已复读完整性审计G1—G10及四份正式CSV、chronology；本次直接核验Wikimedia Commons元数据：Aceh 1965年KODAM-I/KOHANDA年报（已登记S855）为404页114.96MB原扫描，尚未读内页；1923-05-12和05-26《Sin Po》为各28页的周刊扫描，不能替代二手文献提到的05-28日报或证明8000人参加罢工。两项均是**馆藏/扫描载体确认**，不是对历史内容的全文核实；本次没有新增可独立证明的事件、数字或地方命令，正式S/C/Q/CV、chronology和HTML不增。已在长期global-gap-tracker记录来源、地区、年代、原件缺失与阻碍。
