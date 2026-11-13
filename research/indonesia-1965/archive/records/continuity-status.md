@@ -2078,3 +2078,7 @@ G2：直接打开Gerwani 1961《Program Gerwani》及《Peraturan Dasar Gerwani�
 本次因未完成正式CSV全表去重，**未新编S/C/Q/CV，也未修改chronology或成熟中文正文**。后续需核对FRUS第146/149号在正式来源台账中是否已有记录，再按实际新增证据决定登记。此前已有S858记录第303号，避免重复。
 
 精准未完事项：①完整检索正式四CSV中FRUS d146/d149、319号原件及ILO 1998条目的URL/编号，去重后登记；②重新取得319号四页PDF图像并核六人姓名及签署，查10—12月出境/回国/使馆接待与报告；③取得1965-10-14 SPH/112/Koti/10/1965及代理交接原始记录，区分法定任命与实权交接；④取得亚齐军区1965年报第8—15扫描页、军令和地图；⑤轮换1923-05-28《Sin Po》日报原版、Moncongloe释放原令与1998后工会登记原簿。G1—G10和长期GOAL继续OPEN。写入时前置文件blob SHA：299eab6b22bcf312321137583734976dbd74be26；最终commit SHA以GitHub提交返回和HEAD回读为准。
+
+
+### 2026-11-13 续接｜G8 CIA 1965-11-09 + G4 西加里曼丹1967
+已读全局审计G1—G10、正式CSV和长期缺口总账。新核验：FRUS d172全文第6—9段明确隐蔽援助渠道可行，但CIA第8段当时不主张立即交付；后续审批与实物交付未证。异项West Kalimantan/Samalantan仅定位二手/三手线索，未取得1967年军令、难民登记或Davidson 2002原文，死亡估计不得并库。详细访问级别与查询路径见global-gap-tracker.md最新段。正式S/C/Q/CV尚未去重新增，本次仅更新两份滚动文件。**精确下一动作**：查FRUS d173—180及Sukendro请求/付款原件；检索Davidson 2002 pp.158/173及Kodam XII/Tanjungpura 1967文件；再轮换Aceh年报、Flores死亡簿、1923 Sin Po、Moncongloe释放令。G1—G10均OPEN；长期GOAL未完成。
