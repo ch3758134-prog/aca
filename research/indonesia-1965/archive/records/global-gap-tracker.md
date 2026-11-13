@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G2/G4/G8 石油工会原电报地理纠错与细化
+
+按 AGENTS、stage-access、goal-continuity、completeness-audit G1—G10 和四份正式CSV、chronology 读取后，**直接打开原件OCR**（非仅馆藏导言）：1965-10-23 美国驻雅加达电报1168 https://nsarchive.gwu.edu/media/15702/ocr 与 1965-11-01 电报1290 https://nsarchive.gwu.edu/media/15705/ocr 。两份OCR都有字符识别错误，数字和机构名称需对照原PDF影像。1168记录10月21日多家反共工会向劳工部长Sutomo施压，SOBSI尚未在全国正式被禁，但铁路、种植园、邮电、港口、公共工程、公用事业及运输业若干工会活动被暂时冻结；电报承认各地执行程度未知。这是美方同期观察，不等于全国行政命令全文。
+
+**关键地理纠错**：1290原电报第一段明确为劳工参赞10月28—29日访问 **Palembang, South Sumatra（南苏门答腊巨港）**，不是馆藏2017年说明写的 North Sumatra。电报描述Shell/Stanvac炼油设施、PUSRI化肥厂、Pladju、Sungai Gerong、Prabumulih；记述据报约600人被拘押，Stanvac约30名印尼雇员（含PERBUM干部）、Shell Pladju与Prabumulih合计24名PERBUM成员、PUSRI 1300名劳动力中15名SOBSI干部被捕。这些是不同企业/机构范围，不能相加当作全省死亡或全国被捕人数。电报还记述Ibnu Sutowo部署额外警卫、考虑将Stanvac 3500员工中的至少1000人转至厂外项目，**考虑不等于执行**。Shell管理人员否认一场炼油厂火灾属于破坏活动，与Ibnu的说法相反，构成同时期反证。两份文书均为美国外交官采集的企业/官员报告，不是印尼军警拘押名册或工厂原始人事档。
+
+**覆盖与缺失**：G2 工会、G4 南苏门答腊地区镇压、G8 外国公司/外交知情三项交叉；不能把本电报错放入北苏门答腊Medan统计。缺1965年Palembang地方军区拘捕令、Shell/Stanvac/PUSRI雇员名单、PERBUM/SOBSI地方组织名册、工会停工命令、10月火灾调查和转岗实施记录。下一步逐页核PDF原扫描；对照既有S/C登记，若没有同源则正式追加并按准确地理修订chronology；查印尼语Palembang 1965 penangkapan PERBUM PUSRI、荷文 Pladju Shell vakbond、企业历史档案；另行转Aceh原始军令和Gerwani基层原刊。G1—G10全部OPEN；本条不替作者作政治判断。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G4 Aceh 数字定义与 G2/G8 原件入口复核
 
 本次按 G1—G10 completeness-audit 复核缺口，正式四 CSV 表头及 chronology 路径核对。**G4 Aceh**：实际打开 Jess Melvin 2015-10-01 署名全文 https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide ，其所述军方情报地图记录 **1,941 起公开杀害**（八区合计）；作者用公开杀害与秘密处决假设比例推算约 **10,000**，明确称 speculative，绝不可将1,941与10,000当作同一统计口径或独立普查。作者转述1965-10-01电报、Medan Mokoginta命令、10-04地方领导声明、10-14 Djuarsa war room；本次直接读取的是研究者2015年全文与所附地图照片说明，**不是军方原件全文、逐区名单或档案原始扫描**。下一步精确申请 1965 Kodam-I/Kohanda Atjeh 年度报告及附件地图、1965-10-01/04命令与签名页、10-14战情室文件，逐页抄录八区地图数并与县/村名册比对；另核 Sialang Buah 移交清单是否属于北苏门答腊，不能误算为 Aceh。
