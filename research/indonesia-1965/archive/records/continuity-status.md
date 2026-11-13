@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-13 17:49 CST｜Aceh逐页访问重试与1965军政制度旁证线索
+
+本次读取AGENTS、goal-continuity、stage-access、continuity-status、正式四CSV表头与前几行；chronology.md在研究目录根路径返回404，**尚未定位真实路径，未宣称已读**。提交前可见main HEAD 011ff54dc7626532eed86425830dcef2f168b44d。复核Commons原始馆藏页面 https://commons.wikimedia.org/wiki/File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf ：404页、114.96MB、KITLV M m 941 N+；直接访问扫描第9页仍报Internal Error，**未目视读到新页**，不得升级Aceh军令或死亡地图证据。新增候选原件入口：印尼国家法律库1965-05-06《Keputusan Presiden Nomor 102 Tahun 1965》https://peraturan.bpk.go.id/Details/152368/keppres-no-102-tahun-1965 ，目录注明任命国家防务机构职务、原PDF一页；本次仅打开法规目录，**未读该一页PDF，不据此确定任命人选或指挥链**。另定位1965年印尼语军史小册Ariwiadi《Gerakan Operasi Militer VII, penjelesaian peristiwa Atjeh》日本CiNii目录 https://ci.nii.ac.jp/ncid/BA58172311.amp ，馆藏京都大学、南山大学，12页；仅书目，未读全文。以上均是候选，不作为已核实新历史事件，正式S/C/Q/CV与chronology/中文正文未虚增。
+
+精准续接：①通过Commons MediaWiki API image thumbnail 或莱顿IIIF按页读取年报扫描8—15、记录印刷页对应；②查年报目录与1965年10月命令、Djuarsa报告、死亡地图、签署页，分别核页码及军方自述性质；③打开Keppres 102/1965原一页PDF，逐项核任命职务及日期，并与1965军区实际指挥关系区分；④追京都大学/南山大学Ariwiadi 1965小册可读影像及其所述Aceh军事行动的时间范围，避免误与1965年10月镇压混同；⑤查仓库chronology真实路径，轮换1923 Sin Po日报、1995政治犯逐人监所原件。当前无新独立历史事实，不强行生成新正文。G1—G10与长期GOAL均OPEN；本段提交SHA需提交后核实。
+
 ## ONGOING / GOAL仍进行｜2026-11-13 16:57 CST｜G4 Aceh扫描续查访问阻碍及并行HEAD防覆盖
 
 本次重新读取AGENTS、goal-continuity、stage-access、正式source-register/claim-ledger/search-log/coverage-matrix的表头及现有chronology、continuity-status；主线最新可见提交为 c58d8e6b9849a7b3b2d8e21d4d9ccc35d63f16d9（与前次178c044...不同，已有其他研究者提交，不能假定独占main）。重新打开Wikimedia Commons的Aceh KODAM-I/KOHANDA 1965年年报馆藏页面（S855，404页，114.96MB，M m 941 N+，https://commons.wikimedia.org/wiki/File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf ）及第2扫描页的网页；尝试直接打开第9扫描页URL遭web工具Internal Error，容器网络DNS失败，**本次未成功目视读取第8—15页正文，也未取得新的历史事实**。已读与未读的边界维持原样，不把元数据、缩略图或先前研究叙述升级为新原件；不重复登记S855/C1523，也不机械增写chronology或中文正文。正式四CSV本次只做表头及既有登记位置检查，尚未完成全表去重扫描，未追加Q/CV。
