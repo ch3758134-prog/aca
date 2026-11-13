@@ -1,3 +1,7 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G8 d159与G6 ASA21/043/1995
+
+已读取2026-11-09 completeness-audit G1—G10、AGENTS、stage-access、goal-continuity、正式四CSV、chronology、project/research-status及长期缺口总账。G8直接读FRUS d159全文（既有S027），明确1965-10-22美国国务院提出秘密/半秘密小额援助可能性，10-27使馆1236号电报由d159脚注转述；均不证明实际批准或交付。G6直接读国际特赦1995-08-22 ASA21/043/1995官方紧急行动正文，区分1965政治犯Bungkus/Nataneal Marsudi与1988其他案件死囚，不能合并“七人”计数。G4 Aceh年报第9扫描页访问失败。详细证据等级、缺件与续查见global-gap-tracker。未完成全量CSV去重，不新增S/C/Q/CV、不虚称时间线/中文正文更新。精准续接：①FRUS d159脚注1236全文及303委员会审批—交付链；②1995司法部处决公告、Bungkus/Nataneal Marsudi原判决和监所登记；③Aceh年报扫描9—15页及地方命令；④1923-05-28 Sin Po日报原页；⑤Moncongloe 1977 SPRIN/802原件及释放清册。G1—G10 OPEN，长期GOAL未完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G6印尼原文数字语义与G8美方同期指控
 
 本次读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit G1—G10、正式四CSV、chronology及缺口总账；已知研究状态文件实际为project/research-status.md而非archive/records/research-status.md（该路径404）。**G6**：直接打开Komnas HAM印尼文全文印刷154页，证人A称1977-12-20与“另外466名囚犯”（bersama 466 tahan lainnya）获释；报告措辞表示含本人467人，纠正TAPOL英译“altogether 466”的语义，但不是1977逐人名册独立核实。证人B的同日释放仅由完全拘押转居家拘押。原文 https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf 。**异项G8/G3**：打开1965-10-26美国使馆FRUS电报1184全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d161 ，第2段声称中国走私数千枪支，同时称中国是否知悉/参与策划尚未证实；第3—7段多为当时使馆推断，不能当作独立中国交付或苏加诺责任事实。与同日印尼Keppres319不构成自动因果关联。详细来源等级、地区、缺件及行动已写入global-gap-tracker。
