@@ -1,3 +1,6 @@
+## GOAL OPEN｜2026-11-13 UTC｜精准接力：Singkawang全文影像与G7法规附件
+本次已读G1—G10完整性审计、AGENTS、授权、goal-continuity及现有正式台账位置；G4新打开Arnaldo 2004年133页PDF（https://repository.usd.ac.id/25055/2/001314037_Full%5B1%5D.pdf），但文本抽取被重复水印污染，尚未完成逐页图像核查；Mitchel 2009年全文链接下载失败（https://repository.usd.ac.id/25201/）。G7复核BPK 2026-01-02官方法规元数据，UU21/2000第43条新刑罚数值仍须附件影像校验。所有G1—G10 OPEN。**下一动作**：①对Arnaldo PDF按页检查目录、注释、引用地方口述/军令；②追Mitchel PDF可访问入口；③逐页比对2026年第1号法附件与2000年第21号法第43条；④切换G2 Gerwani基层原刊或G6监所名册；⑤取得可独立核实事实后再去重更新正式CSV、chronology与成熟中文正文。缺口总账顶部有证据等级与链接。前一提交 f371cd558683a0ebd7461dc9d990a78d12bfe6f2；本状态提交自身SHA须在提交后独立核实，不能自引用。长期GOAL不因本次提交结束。
+
 ## ONGOING / GOAL仍进行｜2026-11-13 UTC｜G7原法续接
 已核读2026年第1号《刑罚调整法》官方PDF及附件一，涉及UU21/2000第43条的刑罚调整，**不是**工会组织法全面重写；附件OCR列错位，仍须扫描逐页核对。G4 Aceh/Flores/West Kalimantan地方军令原件未取得，继续跨地区追查。已重读G1—G10审计与四正式CSV表头、chronology、AGENTS及授权文件；research-status.md未找到。详见global-gap-tracker顶部。精准下一步：核附件第9页与2000年第43条；Aceh Kodim-0104及Baperki声明；Flores Sikka会议；West Kalimantan军令；Gerwani 1964报告。G1—G10均OPEN。此次提交SHA需在提交后核验，不能自引用。
 
