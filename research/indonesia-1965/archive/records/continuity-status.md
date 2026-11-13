@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-13 19:47 CST｜G3 1964国防机构设立法规原文与1965任命结构差异
+
+本次读取AGENTS、goal-continuity、stage-access、continuity-status、四正式CSV及真实路径 archive/records/chronology.md（纠正研究根目录404误判）。直接打开印尼BPK官方《Peraturan Presiden Nomor 37 Tahun 1964》全文 https://peraturan.bpk.go.id/Home/Download/73383/Perpres%20No.37%20Tahun%201964.pdf ，核第1—10条及末页：1964-11-25颁布，设立Lembaga Pertahanan Nasional；第4条规定高级军民人员培养、国防安全学说研究及向总统提供政策材料；第6—7条设总统主持的Dewan Kurator、机构主席/副主席、参谋及执行机构，行政技术上直接隶总统；第7条文字列Deputy I—III三名，第10条规定副职任命机制。**关键待核冲突**：既有S856/C1524的1965-05-06第102号总统决定列四名副职（I—IV），而1964原条例列I—III；1965年第4号修正条例尚未取得全文，不能直接认定机构违法、实际编制或各军区指挥关系。原法规只能证明法定组织设计，不证明落实与1965年地方镇压指挥。
+
+本次另打开Bandung市JDIH的1965年第4号修正条例目录 https://jdih.bandung.go.id/home/produk-hukum/peraturan-perundang-undangan-pusat/5430 ，标注修正1964年第37号若干条，但无附件；第303号总统决定尚未读PDF。未完成全表去重及四CSV追加，故本次不新建S/C/Q/CV、不强行修改chronology或中文正文。
+
+精准续接：①查1965 Perpres No.4全文，逐条比较1964年第37号第7/10条与四副职任命；②直接读1965 Keppres 303全文并与302号分清空军/陆军任命时间；③通过Commons或Leiden IIIF分段目视Aceh年报第8—15扫描页、命令与地图；④取得1923-05-28《Sin Po》日报VSTP报道；⑤查1995年望加锡Gunung Sari监狱Sido/Markus Giroth释放文书。G1—G10和长期GOAL保持OPEN。写入时读取的状态文件blob SHA c02ebe81bfd0a0c5b2b90edf42b3a98552911a5c；本次提交SHA须提交后回读，不可在同一提交自引用。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜跨G项去重与新原件入口核验
 
 本次复读2026-11-09 G1—G10完整性审计及AGENTS、stage-access、goal-continuity、四正式CSV、archive/records/chronology.md、project/research-status.md和缺口总账。**纠错**：正式chronology位于archive/records/chronology.md，研究根目录404不代表时间线不存在。与并行研究去重：S856/C1524/Q380/CV404已经登记1965-05-06第102号总统决定，原始一页扫描已再次打开（https://peraturan.bpk.go.id/Download/275212/Keppres%20No%20102%20Tahun%201965.pdf），不重复编号。
