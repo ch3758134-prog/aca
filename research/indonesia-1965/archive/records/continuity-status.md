@@ -1,3 +1,9 @@
+## ONGOING｜2026-11-13｜G6译本数字歧义/G4 Aceh来源独立性
+
+本次依照2026-11-09 completeness-audit G1—G10复核项目授权、长期GOAL、四正式CSV、chronology和缺口总账。核实Moncongloe 1977-12-20同批释放人数在两种Komnas HAM英文译本分别写“altogether 466”与“466 other prisoners”，即是否包含证人A未统一；不得视为独立释放名册或确定466/467人数。Aceh Jess Melvin 2015作者文章与2018著作目录仅属同一研究链的公开解释，未独立取得10月军令/地图内页；原S855年报引言不等于整个404页已读。BPK Keppres 319/1965 PDF本次访问错误，仓库既有续接称四页文本曾直接读取，但尚未正式S/C登记，需按原扫描再核、去重后并库。具体检索链接、来源等级、G1—G10缺口和障碍已同步更新global-gap-tracker.md。本次没有足以独立新增原始事件的材料，正式CSV/chronology/HTML未强行修改。
+
+**精确续接**：①核Komnas HAM印尼文报告释放段落的466人数语法，取SPRIN/802/TPD/XII/1977原令及逐人清册、BAP266—269；②按Commons/Leiden取Aceh年报8—15页并定位1965-10-01/04/14原始军令和地图；③取BPK Keppres 319/1965四页扫描逐页核实，完成正式S/C/Q/CV去重登记与chronology；④轮换G1 1923-05-28《Sin Po》日报、G4 Flores死亡簿及G7 1998后工会登记；⑤在充分证据基础上推进中文连续正文。G1—G10和长期GOAL始终OPEN。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G6释放分类与G1罢工数字定义复核
 
 已读取AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10 completeness-audit、正式四CSV及chronology、缺口总账。**G6**：直接打开Komnas HAM印尼文报告及TAPOL英文译文，对照Moncongloe证词A—D：1977-12-20同批466人系证人陈述，B从完全拘押改为居家拘押，C于1974-08-08被列C3，D为B2；两种语言均来自同一调查，不能算独立原始释放令，亦不能把「获释」等同自由。**G1**：IRPS转载的1923罢工研究转引Sin Po约8,000人、500名司机，另篇后世报道有1923-05-13约10,000人及国家铁路8,285人；原报未读，须分别核时段、地域、企业和人数口径。已在global-gap-tracker.md登记来源级别、行动与障碍。没有新原始证据可安全新增正式S/C，故本次不重复编号，不改中文正文。正式来源截至S859/C1527/Q383/CV407（依据本次所读CSV尾部；写入前仍需复核并行更新）。
