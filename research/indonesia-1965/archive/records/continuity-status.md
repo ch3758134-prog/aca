@@ -1,3 +1,7 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜正式归档接续
+
+本次已正式追加C1521、Q377、CV401，更新chronology及global-gap-tracker；前置main提交ffbe8f696eb0cb88e192ff4926456a3e5e402380。S839原件重复利用，不新增S。2001工会重新登记法规和1965南苏拉威西外交转述的证据级别及原文链接见下节。精准未完：①KEP201/1999签署原件；②2001—02县市工会季度登记簿及拒绝登记通知；③Makassar 1965-11-10商户损失及Bone监所原始名册；④Aceh Kodim和Flores Sikka会议原件；⑤1961 Gerwani原刊、SOBSI/BTI地方组织档。G1—G10仍OPEN。最终自身提交SHA需提交后独立核验，不能在同一提交自引用。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G7与G4交叉核验
 
 ILO NATLEX原始双语部长决定KEP.16/MEN/2001第10—12条全文已读：https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/71238/idn71238.pdf 。县市季度登记报告、1998/1999旧登记组织须取得新号码及1999年201/202号法令废止均为文本要求，不证明实际执行。既有S839；待将新增原文核验主张正式并入C表。异项核查1965-11-12使馆1425号电报OCR：https://nsarchive.gwu.edu/media/15708/ocr ，Makassar商铺及Bone死亡数字同源转述，不作独立统计。缺1999原法令、2001地方登记册、Bone监所与Makassar商户记录。G1—G10保持OPEN，未完成。下一次先处理正式台账去重、更新chronology及中文正文，再轮换Aceh/Flores/早期工会。最终提交SHA须提交后验证，不自引用。
