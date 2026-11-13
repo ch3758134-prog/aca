@@ -1,3 +1,7 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜电报1168/1290原件OCR与巨港地理纠错
+
+已读取项目规则、G1—G10完整性审计、正式四CSV、chronology与缺口总账；直接打开 https://nsarchive.gwu.edu/media/15702/ocr 和 https://nsarchive.gwu.edu/media/15705/ocr 。**1290原文写Palembang, S Sumatra，馆藏说明却称North Sumatra**，应以后续影像复核原件地理，不可将约600名拘押报告和PERBUM/SOBSI炼油厂逮捕记录记入北苏门答腊。1168指出SOBSI尚未全国正式禁绝但多个产业工会被冻结，执行范围未知。详细原文、数字口径、企业及反证见global-gap-tracker顶部。当前仅核OCR，未核扫描图像，正式CSV/chronology未改，不冒充已并库。此前main提交 **06f607f08018d2fab53bae4944f4bce2a81ebe3a**（缺口总账）。精准续接：①核1168/1290原扫描页与日期；②在正式S/C表中按URL及电报号去重，纠正地理错配并追加必要原子事实、chronology；③Palembang军区拘押令、PERBUM/SOBSI/Stanvac/Shell/PUSRI人员原始名册；④Aceh 1965军令/死亡地图逐区影像；⑤Gerwani《Api Kartini》1961原刊与Pabuaran地籍。G1—G10 OPEN，未穷尽。状态文件最终SHA必须在提交后独立核验，不能在同次提交内自引用。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G4 Aceh + G2/G8 交叉核验
 
 已读 AGENTS、stage-access、goal-continuity、G1—G10 completeness-audit、正式四CSV表头及chronology；research-status.md 在 archive/records/ 路径不存在。已全文阅读 Melvin 2015 Aceh 文章，明确区分军方地图记录的1,941起公开杀害与作者推算约10,000总死亡（后者不是清点）；未取得地图完整扫描、年度报告及地方原始名册。另读 Gerwani 数字展览入口和美国国家安全档案39件馆藏导言，未打开其中1965-10-23电报1168及11-01电报1290的单件全文，不将目录升格。证据层级、地区组织与链接见 global-gap-tracker 顶部。正式CSV/chronology因无新独立核实原件不作重复编号。前置main提交 **c06371131515bd4c170e3be41863816831fb0a32**。
