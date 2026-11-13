@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G4 Aceh 数字定义与 G2/G8 原件入口复核
+
+本次按 G1—G10 completeness-audit 复核缺口，正式四 CSV 表头及 chronology 路径核对。**G4 Aceh**：实际打开 Jess Melvin 2015-10-01 署名全文 https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide ，其所述军方情报地图记录 **1,941 起公开杀害**（八区合计）；作者用公开杀害与秘密处决假设比例推算约 **10,000**，明确称 speculative，绝不可将1,941与10,000当作同一统计口径或独立普查。作者转述1965-10-01电报、Medan Mokoginta命令、10-04地方领导声明、10-14 Djuarsa war room；本次直接读取的是研究者2015年全文与所附地图照片说明，**不是军方原件全文、逐区名单或档案原始扫描**。下一步精确申请 1965 Kodam-I/Kohanda Atjeh 年度报告及附件地图、1965-10-01/04命令与签名页、10-14战情室文件，逐页抄录八区地图数并与县/村名册比对；另核 Sialang Buah 移交清单是否属于北苏门答腊，不能误算为 Aceh。
+
+**异项 G2/G8**：打开 Gerwani 数字馆 https://gerwani.logosid.app/museum ，目前只是1959—1964《Api Kartini》封面/页面及口述展览的入口，尚未读取对应原刊影像；不得重复计入已有 S460/S461 数字转录。打开美国国家安全档案2017-10-17 39份外交文件总入口 https://nsarchive.gwu.edu/briefing-book/indonesia/2017-10-17/indonesia-mass-murder-1965-us-embassy-files ，其中1965-10-23 1168号电报与11-01 1290号电报提供 SOBSI、PERBUM、Shell/Stanvac 工人被捕的**待逐件打开原件入口**；本次仅全文阅读馆藏导言及文书说明，不能将摘要冒充电报全文，亦不能将美国的获知、政策讨论与实际交付混为一谈。下一动作：①打开1168及1290号扫描/OCR，抽取准确工会名称、拘押时间、报送层级；②查印尼石油工会名册、厂方解雇/移交记录；③打开1965年Aceh年度报告及地图逐页核数；④《Api Kartini》原刊影像与转录核对；⑤转G6政治犯及G7地方工会登记实效。此次没有新增独立原件或原子事实，正式 S/C/Q/CV 与 chronology 不虚增；G1—G10 永久 OPEN。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G2跨刊物校核与G6囚犯名单修订
 
 本次重读completeness-audit G1—G10、AGENTS、stage-access、goal-continuity、正式四CSV及chronology，先做去重：1961年《Api Kartini》Djenab报道为S460，Hurustiati Subandrio文章为S461，1961年Gerwani纲领为S459；1995年国际特赦组织11月更正名单S311，S833明确是同源镜像，禁止独立计数。G2原文全文数字转录 https://gerwani.logosid.app/teks/50 与 https://gerwani.logosid.app/teks/49 本次重新直接打开。前者叙述Pabuaran Djenab家庭耕地50 bentel、年收75 gedeng、十二名子女中六名夭折，及赴雅加达妇女农民研讨会与临时托育；这些数字和经历是刊物当时对一名妇女的报道，**不是地籍或人口原件**。后者由Hurustiati Subandrio署名，明确将研讨会日期写为1961-01-17至20，亦同时提及Bhayangkari、Persit、Wanita Demokrat Indonesia及Kongres Wanita Indonesia，证明当时妇女组织议程并非单一Gerwani。两篇均为同一刊物转录，不视为完全独立外部佐证；仍缺1961原刊影像、研讨会签到/决议、Pabuaran地籍与托育实施凭证。原文对照仅加强既有S460/S461，不新建重复S/C。
