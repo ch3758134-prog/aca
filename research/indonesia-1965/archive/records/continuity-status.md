@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜巨港企业治理与1995政治犯修订名单
+
+本次按AGENTS/stage-access/goal-continuity和2026-11-09 completeness-audit读取正式四CSV、chronology、research-status及长期缺口总账。当前长期链G2/G4/G8：重新直接打开1965-10-23第1168号及11-01第1290号电报全文OCR（https://nsarchive.gwu.edu/media/15702/ocr ; https://nsarchive.gwu.edu/media/15705/ocr），在既有拘押数字之外，核得1168列举的反共工会联盟（SARBUMUSI、SOKSI等；OCR待扫描校字），1290中Shell/Stanvac对GOI监督小组、炼厂出售谈判的**当时管理层说法**。没有取得政府监督小组会议簿或工会自身原件，不把管理者判断写成事实执行。异G项G6：打开国际特赦1995-07简报和1995-11更正公告原始发布页面，确认11月更正此前名单包括已释放人员；未读更正名单PDF正文，未建立逐人监所证据。已有相应正式S/C，不重复编号，chronology和中文正文不作缺乏新独立事实的机械追加。
+
+精准续接：①1168/1290原扫描校字与逐页定位；②1965-10-21反共工会呈文及劳工部长收文；③Palembang GOI企业监督小组任命/会议、Stanvac炼厂出售谈判、Shell火灾调查；④Amnesty ASA21/055/1995修订PDF及14名个人监所/释放记录；⑤Aceh Kodam-I/Kohanda原报告、G1荷文殖民工会原报。G1—G10全部OPEN。**本状态提交SHA在写入后独立回读核验；不预写未来SHA。**
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜巨港工会拘押原电报交叉核验及异地续查
 
 已按要求读取2026-11-09 G1—G10完整性审计、AGENTS、stage-access、goal-continuity、正式四CSV、chronology、滚动缺口总账及此前续接。**已直接打开全文OCR**：1965-11-01第1290号电报 https://nsarchive.gwu.edu/media/15705/ocr 与1965-10-23第1168号电报 https://nsarchive.gwu.edu/media/15702/ocr ；**未逐页目视原扫描**。1290正文明确Palembang/South Sumatra（馆藏导言误标North Sumatra）；Stanvac约30名、Shell Pladju/Prabumulih共24名PERBUM成员、PUSRI 15名SOBSI干部被捕均是美方汇总企业与官员消息，不是印尼地方拘押簿。Ibnu Sutowo拟将Stanvac至少1000人调出炼厂属于考虑，未证明执行；Shell否认其火灾破坏说法。1168说明10月下旬SOBSI未全国正式禁绝而若干产业工会被冻结，执行范围未知。不能证明1168的政策压力直接导致1290的各企业拘押。已在global-gap-tracker首部更新来源等级、反证、地区/年代/组织和缺失原件；正式已有S196等来源，未重复新建S/C/Q/CV；chronology既有地理纠错及G7 KEP16/2001事实保留，不重复追加。
