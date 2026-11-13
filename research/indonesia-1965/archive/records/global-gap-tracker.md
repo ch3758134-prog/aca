@@ -1,3 +1,11 @@
+## GOAL OPEN｜2026-11-13｜G2妇女农民基层与G4西加里曼丹异地核验
+
+**G2/G5：** 全文打开1961年《Api Kartini》数字转录《Harapan Djenab》（已有S460）与《Wanita A-A bertemu dikota Seribu Menara》（新增S853），分别追踪Pabuaran贫农妇女赴雅加达会议、会议托育与土地改革诉求，以及开罗亚非妇女会议报道。登记C1518/C1519、Q375、CV399；访问等级为**同期刊物全文数字转录**，非原刊影像、非会议签到册或签署决议。缺口：Pabuaran村地籍与代表选举/托育落实记录、1961年1月妇女农民会议议程及会议纪要、开罗会议签署决议与代表团文件。行动：取得《Api Kartini》1961年第1/2期影像，核页码与原字；查Gerwani DPP会议档和Cairo proceedings；阻碍：原刊与独立基层文件尚未定位。
+
+**G4/G5（异地）：** 重新打开Agustinus Arnaldo 2004年Singkawang/PGRS-PARAKU论文官方馆藏目录 https://repository.usd.ac.id/25055/ ，确认有3MB全文入口，但本次未逐页阅读PDF，不能把馆藏页当成1967年地方军令或华人被驱逐名册。既有西加里曼丹S453/S852均为学术研究或文件转录；仍缺Kodam XII签署令、Oeray讲话、广播、村级人口迁移/救济和个体口述独立交叉。行动：先取Arnaldo原PDF图像与脚注，再追档案引用原件；阻碍：扫描抽取水印污染及原军警卷宗未开放。
+
+**跨G项未完：** G1殖民工会与革命战争；G2 SOBSI/BTI/Gerwani/Pemuda Rakyat/LEKRA基层；G3 1965逐小时跨机关；G4 Aceh、苏门答腊、爪哇、巴厘、Flores、加里曼丹、Sulawesi各地军令；G5性别族群与家庭；G6 1966—1998监禁、流亡、学生工人再组织；G7 1998—2026实际工会/政党/受害者权利执行；G8英美澳中苏具体交付；G9地点人物组织关系；G10正式台账去重、时间排序和中文连续正文。全部OPEN，不以两篇刊物代表组织全国实践。
+
 ## GOAL OPEN｜2026-11-13 UTC｜G4西加里曼丹新全文入口与G7官方法效力核验
 
 **规则与审计**：重读AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、滚动状态和缺口总账；正式CSV与chronology位于archive/records/，不是项目根目录。研究始终OPEN，不将单一地方/法律研究当作全域覆盖。
