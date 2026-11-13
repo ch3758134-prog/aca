@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-13 18:55 CST｜G1/G4 1965年中央国防机构任命原件核验
+
+本次已读AGENTS、goal-continuity、stage-access、continuity-status、四份正式CSV及其最新编号；研究目录根路径chronology.md仍404，未宣称已读，须定位真正文件。**新原件已完整目视核验**：印尼总统1965年第102号决定，原始一页签署扫描 https://peraturan.bpk.go.id/Download/275212/Keppres%20No%20102%20Tahun%201965.pdf ，1965-05-06在雅加达签署，任命自1965-03-10起算；国家防务机构Lembaga Pertahanan Nasional副职I—IV分别为陆军准将T.N.I. S. Tjakradipura、空军准将Wirjoasaputro、警察准将R. Tachja、海军少将R. Soebono（军衔中文仅供阅读，准确职称见原件）。正式新登记S856/C1524/Q380/CV404。**不能把中央国防机构任命误认为1965年10月Aceh Kodam/KOHANDA地方军事指挥或镇压命令**。此前只读法规目录的状态已升级为一页原件全文目视；另有1964年第37号总统条例与1965年第4号总统条例在决定“鉴于”栏列为法律依据，尚未读取。
+
+并行重试Commons Aceh KODAM 1965年报扫描第9页 https://commons.wikimedia.org/w/index.php?page=9&title=File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf ，仍返回Internal Error；未把未读页升级为原件事实。日本CiNii Ariwiadi《Gerakan Operasi Militer VII》1965年12页小册仍仅书目，未见正文。UPI 2017 KOSTRAD研究仅摘要目录，不能作为1965原件。
+
+精准续接：①直接打开1964 Peraturan Presiden 37及1965 Peraturan Presiden 4原扫描，核国防机构设置与四副职任命所依据的法条；②从Commons/Leiden替代逐页影像路径读Aceh年报PDF扫描页8—15、再定位10月命令、死亡地图和签署页；③京都大学/南山大学索Ariwiadi 1965小册全文并辨析GOM VII所涉年代；④查1923-05-28《Sin Po》日报原页及VSTP人数口径；⑤交叉1995政治犯监所释放令与2001县市工会登记簿。G1—G10及长期GOAL持续OPEN，不替作者政治判断。本状态写入前最近已核实HEAD fb18352220ec64991ad0a507b9cd0b1e0e1e516c；状态文件本次提交的SHA只能在提交后回读确认，不可能在同一提交自引用。
+
 ## ONGOING / GOAL仍进行｜2026-11-13 17:49 CST｜Aceh逐页访问重试与1965军政制度旁证线索
 
 本次读取AGENTS、goal-continuity、stage-access、continuity-status、正式四CSV表头与前几行；chronology.md在研究目录根路径返回404，**尚未定位真实路径，未宣称已读**。提交前可见main HEAD 011ff54dc7626532eed86425830dcef2f168b44d。复核Commons原始馆藏页面 https://commons.wikimedia.org/wiki/File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf ：404页、114.96MB、KITLV M m 941 N+；直接访问扫描第9页仍报Internal Error，**未目视读到新页**，不得升级Aceh军令或死亡地图证据。新增候选原件入口：印尼国家法律库1965-05-06《Keputusan Presiden Nomor 102 Tahun 1965》https://peraturan.bpk.go.id/Details/152368/keppres-no-102-tahun-1965 ，目录注明任命国家防务机构职务、原PDF一页；本次仅打开法规目录，**未读该一页PDF，不据此确定任命人选或指挥链**。另定位1965年印尼语军史小册Ariwiadi《Gerakan Operasi Militer VII, penjelesaian peristiwa Atjeh》日本CiNii目录 https://ci.nii.ac.jp/ncid/BA58172311.amp ，馆藏京都大学、南山大学，12页；仅书目，未读全文。以上均是候选，不作为已核实新历史事件，正式S/C/Q/CV与chronology/中文正文未虚增。
