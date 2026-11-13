@@ -1838,3 +1838,10 @@ G2：直接打开Gerwani 1961《Program Gerwani》及《Peraturan Dasar Gerwani�
 已读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式四CSV、archive/records/chronology.md、长期缺口总账及滚动状态；research-status.md该路径不存在。新核验Mitchel Vinco 2009全文PDF https://repository.usd.ac.id/25201/2/041314018_Full%5B1%5D.pdf ：论文附录p.130转录1964-01-23苏加诺停火令，注明1964新闻部出版物p.70；论文p.93—94引用2008年L.H. Kadir访谈。前者是原文件的学术再转录，后者是回顾口述，**均非本次直接取得1964签署军令/执行记录**。新增S852/C1517/Q374/CV398；已补chronology及缺口总账。没有编造军令已执行或新的死亡数字。
 
 **精准续接**：①查《Gelora Konfrontasi Mengganjang Malaysia》1964新闻部原刊第70页和1月23日签署令影像；②查1964-01-25 KOTI/Kodam XII边境停火传达与违令报告；③查L.H. Kadir 2008-06-20完整访谈录音/手稿及Putussibau—Semitau—Badau交通/训练档案；④转G2《Api Kartini》原期逐页及1964 Umi Sardjono报告；⑤转G6 1995年政治犯14人判决/释放记录，G4 Aceh/Flores地方军警原件。G1—G10仍OPEN。写入前已确认正式CSV最新SHA并按序提交；本次已核验最近正式CSV提交 d140a6ced485a0f43554ea94fbcfff3f5a445ac9；本状态文件提交后的最新main HEAD须以GitHub返回及再读取为准，不能预先将未来SHA写成已存在值。
+
+## ONGOING / GOAL仍进行｜2026-11-13｜G7原法/G4东爪哇精准续接
+
+本次已读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09、continuity-status、global-gap-tracker及正式四CSV和chronology；research-status.md（archive/records路径）404。G7新直接核读印尼总统决定83/1998官方全文 https://peraturan.go.id/files/kp83-1998.pdf ，区分1998-06-05国内批准与ILO 1998-06-09国际登记；新增S854/C1520/Q376/CV400并写chronology。G4异地核对1965-11-26泗水183号电报馆藏说明；S145/C136已有，不重登记，Tulungagung 15000仅转述且受原电质疑，县级原件未取得。长期缺口总账已补G7法律与执行落差、G4地方名册缺口。
+
+**精准接力**：①找PER-05/MEN/1998原令与SBSI/PPBI省县工会注册档，检验结社权的实际实施；②查1998年ILO劳工申诉个案与Muchtar Pakpahan/Dita Sari逐人释放文书；③取Tulungagung/Kediri 1965-11军区/Ansor/教区拘押及埋葬原始名册，避免将外交转述作为死亡统计；④切换G2 Gerwani 1964中央报告全文与Pabuaran村级妇女代表选举/托育落实材料；⑤轮换G1殖民工会原刊、G4 Aceh/Flores/West Kalimantan、G8外国实际交付及G9人物地点关系索引。**G1—G10全部OPEN，长期GOAL未完成。** GitHub最新HEAD须在最后提交后另行核验，不能将本文件自身提交SHA预写为已知。
+
