@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G2跨刊物校核与G6囚犯名单修订
+
+本次重读completeness-audit G1—G10、AGENTS、stage-access、goal-continuity、正式四CSV及chronology，先做去重：1961年《Api Kartini》Djenab报道为S460，Hurustiati Subandrio文章为S461，1961年Gerwani纲领为S459；1995年国际特赦组织11月更正名单S311，S833明确是同源镜像，禁止独立计数。G2原文全文数字转录 https://gerwani.logosid.app/teks/50 与 https://gerwani.logosid.app/teks/49 本次重新直接打开。前者叙述Pabuaran Djenab家庭耕地50 bentel、年收75 gedeng、十二名子女中六名夭折，及赴雅加达妇女农民研讨会与临时托育；这些数字和经历是刊物当时对一名妇女的报道，**不是地籍或人口原件**。后者由Hurustiati Subandrio署名，明确将研讨会日期写为1961-01-17至20，亦同时提及Bhayangkari、Persit、Wanita Demokrat Indonesia及Kongres Wanita Indonesia，证明当时妇女组织议程并非单一Gerwani。两篇均为同一刊物转录，不视为完全独立外部佐证；仍缺1961原刊影像、研讨会签到/决议、Pabuaran地籍与托育实施凭证。原文对照仅加强既有S460/S461，不新建重复S/C。
+
+G6异时期核验：国际特赦组织1995-07《The 1965 Prisoners》与1995-11更正公告 https://www.amnesty.org/en/documents/asa21/055/1995/en/ 本次重新打开官方发布页；11月明确更正部分已获释人员，不能继续把7月的27人作为11月在押人数。正式S311/C506/C664已登记，S833是同一原件的镜像。尚缺14名个人的监狱登记、释放令和死亡记录；其更正公告不是国家在押人口普查。来源级别：当时人权组织公开公告/名单，非政府监所原件。
+
+**G1—G10仍OPEN**：G1殖民劳工/流放；G2基层组织与原刊；G3跨机关逐时；G4 Aceh、北苏门答腊、东/中/西爪哇、Bali、Flores、West Kalimantan、Sulawesi地方军令和名册；G5性别族群及家庭；G6监所/流亡/工运；G7劳工执行与幸存者权利；G8外国实际交付；G9人物地点组织稳定索引；G10去重、排序时间线与连续中文正文。**下一精准动作**：①1961《Api Kartini》原刊1/2期扫描与研讨会签到册；②Pabuaran村地籍和Djenab当事人口述交叉；③1995年11月14名在押者逐人监所记录；④转Aceh Langsa 1965-10-11军区会议及Flores Sikka 1966-02-27会议原件；⑤检查S311/S833去重后的统计依赖。不得以本次再读作为全量完成。
+
 ## GOAL OPEN｜2026-11-13｜G2妇女农民基层与G4西加里曼丹异地核验
 
 **G2/G5：** 全文打开1961年《Api Kartini》数字转录《Harapan Djenab》（已有S460）与《Wanita A-A bertemu dikota Seribu Menara》（新增S853），分别追踪Pabuaran贫农妇女赴雅加达会议、会议托育与土地改革诉求，以及开罗亚非妇女会议报道。登记C1518/C1519、Q375、CV399；访问等级为**同期刊物全文数字转录**，非原刊影像、非会议签到册或签署决议。缺口：Pabuaran村地籍与代表选举/托育落实记录、1961年1月妇女农民会议议程及会议纪要、开罗会议签署决议与代表团文件。行动：取得《Api Kartini》1961年第1/2期影像，核页码与原字；查Gerwani DPP会议档和Cairo proceedings；阻碍：原刊与独立基层文件尚未定位。
