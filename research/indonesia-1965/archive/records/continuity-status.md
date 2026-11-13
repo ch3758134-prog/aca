@@ -1999,3 +1999,10 @@ G2：直接打开Gerwani 1961《Program Gerwani》及《Peraturan Dasar Gerwani�
 **异地区G4 Flores/Sikka**：检索1966-02-27 Sikka DPRD-GR会议及Jan Djong，未取得会议原件，检索所见后世人物条目不能充当独立证据；已有Prior全文的回忆录转引仍须原件交叉。G1—G10全部OPEN，中文历史正文不以单个中央机构法规硬凑段落。
 
 **精准接续**：①读取Aceh KODAM-I/KOHANDA年报扫描8—15页及军令/地图；②追Sikka 1966-02-27 DPRD-GR会议簿、KOMOP命令和SVD Ende手稿；③取得1923-05-28 Sin Po日报原扫描；④核1995年政治犯个人释放命令与监所名册；⑤查Lemhannas 1965实际人员名册与1965 Keppres 303原件，分离中央法令和地区执行。当前CSV四次Git写入已成功，最终HEAD须再次回读核实。长期GOAL未完成。
+
+
+## ONGOING / GOAL仍进行｜2026-11-13｜G3空军任命前史与航空工业管理，异地Flores日期冲突
+
+本次已读取2026-11-09 G1—G10完整性审计、AGENTS、stage-access、goal-continuity、正式四CSV尾部及chronology，并复核此前S858/C1526。直接读取政府原始总统决定112/1965（1965-05-10，Sri Muljono Herlambang由空军作战副职转任协助总统的国务部长）与322/1965（1965-10-27签署，追溯10-08，10-26内阁主席团会议、Chaerul Saleh监督KOPELAPIP/PN Berdikari、Koerwet Kartaadiredja日常管理）。原件全文地址：https://peraturan.bpk.go.id/Download/275272/Keppres%20No%20112%20Tahun%201965.pdf 和 https://peraturan.bpk.go.id/Download/146768/Keppres%20No%20322%20Tahun%201965.pdf 。112号总统决定与10月14日SPH/112/Koti/10/1965命令不同。新证据证明中央行政文书和授权，不证明实际交接、项目资金及地方镇压执行。异地区G4/G5 Flores检索发现Jan Djong百科与镜像采用03-01死亡日，均是van Klinken等二手链的再转述，不构成独立反证；02-09与03-01冲突未决。来源等级及缺口已补入global-gap-tracker。正式S/C/Q/CV此次未登记（避免在未完成完整跨库同源去重前冒险编号）；chronology与中文正文不作未经台账支持的新增断言。
+
+**下一次精确续接**：①查1965-10-14 SPH/112/Koti/10/1965原件、空军交接/行程簿，对照112/1965、303/1965；②查1965-10-26 KOPELAPIP内阁会议纪要、PN Berdikari 10月企业账与第322号决定执行；③取Aceh 1965 Kodam-I/Kohanda年报第8—15扫描页与10月军令；④Maumere 1966监狱/教区死亡簿及Boumans原著解决Jan Djong日期；⑤轮换1923-05-28 Sin Po原报、G6 1995逐人释放令。G1—G10 OPEN。此前已核实主线提交329a78e382bd284c99df270a1e044d1044bf33fb；本状态文件提交SHA以工具返回为准。
