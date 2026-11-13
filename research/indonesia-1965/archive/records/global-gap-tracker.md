@@ -1,3 +1,11 @@
+## ONGOING｜2026-11-13｜G6原语人数与G8同期外交指控交叉核验
+
+**G6（南苏拉威西，1977年，Komnas HAM原文全文已打开）**：本次再次直接定位印尼文原版印刷154页（PDF提取行14956—14980），原文“bersama 466 tahan lainnya”明确为证人A与“另外466名囚犯”一同于1977-12-20获释，即**报告所载陈述的合计467人**；TAPOL英文译本“altogether 466”遗漏“其他”的限定。这里纠正的是同源译本的语义，而非核实467人的实际释放名单。证人B按SPRIN/802/TPD/XII/1977转为居家拘押，故“获释”不等于不受监管。来源等级：2012国家人权调查报告印尼文全文（追溯调查，引用2009年BAP 266/267），不是1977年营地原始文书。地区/机构：Moncongloe、Majene、Teperda；缺件：原令、逐人清册、BAP266—269；障碍：未公开原始档案及译本歧义。来源 https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf 。
+
+**异项G8/G3（1965-10-26，美方当时判断的证据等级）**：直接打开美国国务院FRUS 1964—68卷26第161号电报全文（Jakarta telegram 1184，1965-10-26），使馆在第2段声称中国向印尼共产主义准军事组织走私数千枪支，又紧接着承认中国是否知悉或参与策划“not established”；第3—7段大量使用probably、perhaps、circumstantial，且将苏加诺等列为主要责任者。这只能核实**美国使馆当时作出该指控及其自述的不确定性**，不能当成中国实际交付、PKI实际接收或苏加诺策划的独立事实。与G3的印尼第319号总统决定同日，但没有证明两份文件之间存在因果联系。地区/机关：雅加达美国使馆、国务院；缺件：枪支采购/运单/海关/军方接收及中国外交原件、报告所依赖情报源；阻碍：电报分析与原始执行凭证分离。原件公开全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d161 。下一步与既有S134关于中国武器交付证据不足的研究逐条对照，按“提议—批准—运输—接收—使用”分层，避免同源推断重复计数。
+
+G1—G10仍OPEN；未完成正式四CSV全量去重，以上不预占S/C/Q/CV编号，中文正文不将指控写成事实。
+
 ## ONGOING｜2026-11-13｜G6印尼文原版校正释放人数；G2/G5南苏拉威西基层组织与指控机制
 
 本次重新读取2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity、continuity-status及正式四CSV和chronology（部分只读表头/开头），保持十项均OPEN。**G6（Moncongloe，1970—1977）**：直接打开Komnas HAM《Ringkasan Eksekutif Tim Ad Hoc Peristiwa 1965-1966》印尼文全文（TAPOL所存原文PDF，印刷154页，https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf）。原文“saksi dibebaskan ... bersama 466 tahan lainnya”语义为证人A“与另外466名被拘押者一同”获释，支持**按这份调查报告的转述为467人（含A）**，而TAPOL英译“altogether 466”漏掉了“其他”关系。该校正只解决**报告原文的措辞**，不是取得1977释放清册；不能把467升级为逐人独立核实的实际释放人数。报告同时明确B依SPRIN/802/TPD/XII/1977从完全拘押转为居家拘押；不同人的释放/监控类别不能混为一谈。需原始1977签署令、清册、BAP 266—269及拘押身份登记。
