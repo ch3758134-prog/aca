@@ -2088,3 +2088,10 @@ G2：直接打开Gerwani 1961《Program Gerwani》及《Peraturan Dasar Gerwani�
 
 ### 2026-11-13 续接｜G8 CIA 1965-11-09 + G4 西加里曼丹1967
 已读全局审计G1—G10、正式CSV和长期缺口总账。新核验：FRUS d172全文第6—9段明确隐蔽援助渠道可行，但CIA第8段当时不主张立即交付；后续审批与实物交付未证。异项West Kalimantan/Samalantan仅定位二手/三手线索，未取得1967年军令、难民登记或Davidson 2002原文，死亡估计不得并库。详细访问级别与查询路径见global-gap-tracker.md最新段。正式S/C/Q/CV尚未去重新增，本次仅更新两份滚动文件。**精确下一动作**：查FRUS d173—180及Sukendro请求/付款原件；检索Davidson 2002 pp.158/173及Kodam XII/Tanjungpura 1967文件；再轮换Aceh年报、Flores死亡簿、1923 Sin Po、Moncongloe释放令。G1—G10均OPEN；长期GOAL未完成。
+
+
+## ONGOING / GOAL仍进行｜2026-11-13｜FRUS d173药品实施与1967西加里曼丹地区机制
+
+已读取2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity、正式四CSV、chronology及滚动缺口总账。**G8新核验**：FRUS d173（1965-11-11）原始电报全文，Sukendro/Soemantri讨论秘密药品实施、请求雅加达高层及七城军区通信设备；脚注引11月12日通报：美方已同意10万美元药品，5万美元通信设备尚在考虑。不是已核验物资签收，更不是武器交付。**异项G4/G5**：松村智雄2015年西加里曼丹论文仅直接读期刊摘要，作者将1967年10月Oeray、Palaoensoeka地方政治竞争、红碗动员与军方驱逐目标联系；论文PDF与1967年军令未读，仍属学术解释。发现Arnaldo 2004 Singkawang PGRS/PARAKU学位论文开放全文目录及UPI 2015论文部分开放。详细来源、地区、组织、阻碍见global-gap-tracker最新段。未完成正式台账同源全量去重，故未分配新S/C/Q/CV，未改中文正文。
+
+**精确续接**：①核FRUS d171/d174—180、Deptel 750和373号电报及药品运单签收，按药品/通信器材/武器分开；②打开松村2015 PDF并追原始注释；③打开Arnaldo 2004全文，找Singkawang、PGRS/PARAKU、Oeray的1967年地方原始引用；④找Kodam XII/Tanjungpura 1967命令和Pontianak难民登记；⑤轮换Aceh年报、Flores死亡簿、1923 Sin Po原报、Moncongloe释放令。G1—G10仍OPEN；长期GOAL未完成。
