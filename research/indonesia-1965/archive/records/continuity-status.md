@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-13 23:54 CST｜G3 第319号总统决定四页全文首次可读
+
+**突破：原件全文已读（文本层），非仅目录。** 直接打开BPK官方四页PDF https://peraturan.bpk.go.id/Download/146406/Keppres%20No%20319%20Tahun%201965.pdf ，网页PDF文本提取显示307行，完整覆盖第1—4页，需后续目视复核扫描签名与易误识别姓名。1965-10-26第319号总统决定在序言称为继续更换印尼空军（AURI）装备及加速本国飞机工业建设，派遣Omar Dani等六人出访；第一至二页列出Omar Dani、Sudarman、Ir. Juwono、Sumartojo、dr. Wylliarto Wibison、Djafar Muhammad；目的地荷兰、法国、意大利、瑞士、瑞典、苏联、巴基斯坦、阿拉伯联合共和国、日本、柬埔寨；预计约三个月、搭乘飞机、拟在1965年10月尽早出发。第三页列有当地活动与接待经费US$25,000、回国后向总统提交书面报告及支出凭证要求；第四页为1965-10-26雅加达Sukarno签署文字。**这是出国任务授权与计划，不是已实际出境、实际采购或报告已提交的证据。** 与已登记1965-10-15第303号代理任命形成可核查法律先后链，但不能把代理任命等同于实际交接。此前状态称319号全文无法读取，现应纠正。原件直接访问证据：https://peraturan.bpk.go.id/Download/146406/Keppres%20No%20319%20Tahun%201965.pdf 。
+
+本次已读AGENTS、goal-continuity、stage-access、continuity-status、四正式CSV表头和chronology开头；由于未完成四CSV全表去重及编号最大值确认，**未登记新S/C/Q/CV，未修改chronology或历史正文**；下次优先将319号原文逐条并入正式台账、chronology并审查是否足以融入连续正文，不得假称本轮已入库。当前记录写入前状态blob cf3528216a495a514633acc78af07756c3160073，最终提交SHA以提交响应及main HEAD回读为准，文件无法自引用其自身提交SHA。
+
+精准续接：①核对319号四页扫描图像及姓名拼写，完成四CSV全表去重并正式登记、chronology入档；②查找六人1965年10—12月护照、机票、空军及驻外使馆接待与回国报告，以判定授权是否执行；③对照303号总统决定和1965-10-14 SPH/112/Koti/10/1965，分开法律代理、实际交接；④继续Aceh 1965年军区年报8—15扫描页、命令与死亡地图；⑤交替追1923-05-28 Sin Po日报、1995年Gunung Sari政治犯释放记录和1998年后工会登记原簿。G1—G10及长期GOAL始终OPEN。
+
 ## ONGOING / GOAL仍进行｜2026-11-13 22:56 CST｜G3 319号总统决定原文访问复核与交叉入口
 
 本次重新读取AGENTS、goal-continuity、stage-access、续接状态、正式四CSV及chronology（时间线真实路径archive/records/chronology.md）。沿1965-10-26第319号总统决定继续印尼语检索并实际打开BPK官方目录 https://peraturan.bpk.go.id/Details/154098/keppres-no-319-tahun-1965 ，再次核实标题“Penugasan Omar Dani Ke Eropa Dan Asia”、日期1965-10-26、官方标注4页。打开BPK内置阅读器 https://peraturan.bpk.go.id/Read/146406/Keppres%20No%20319%20Tahun%201965.pdf ，页面仅显示“Memuat halaman”且页码1/1，未加载四页扫描，故**仍为目录已读，原文未读**，不能证明实际出国或具体执行内容。进一步检索印尼法规全文镜像，未找到319号原文的可核实文本；检索结果出现1964年第319号等同号异年文件，须严格排除。另打开第三方可检索的1965年第90号总统决定全文转写 https://www.klaussa.com/peraturan/keppres-no-90-tahun-1965-pengangkatan-ketua-menteri-lembaga-pertahanan-nasional ，其中写明1965-04-28任命Wiluyo Puspoyudo为Lemhannas主席并交办人员、课程、学说筹备；这是第三方转写，原始签署扫描尚待独立核对，且不能与Omar Dani出国或地方镇压推定因果关系。BPK目录及第三方转写未形成可追加的独立已核实历史事实，未改动四正式CSV/chronology/中文正文，避免重复登记。
