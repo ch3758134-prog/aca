@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G3 303号总统决定全文；G4 Flores异地冲突
+
+本次读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit G1—G10、四正式CSV、chronology、global-gap-tracker和此前续接。直接读取1965-10-15第303号总统决定官方PDF全文：实际任命Sri Muljono Herlambang为Omar Dani出国期间的空军部长兼司令代理，援引1965-10-14 SPH/112/Koti/10/1965。正式S858/C1526/Q382/CV406已追加。仅能确认法律文书，不可推断Omar Dani已离境或代理权已执行。异地G4/G5：打开Flores研究全文，发现Jan Djong死亡日期1966-03-01与既有S456/C1057所载Boumans引文1966-02-09冲突，未取得原始死亡登记，故不重复登记事实。
+
+精确续接：①寻找1965-10-14 SPH/112/Koti/10/1965原始命令和空军交接记录；②继续Aceh年报扫描页8—15、10月命令与地图；③Maumere监所/教区1966年Jan Djong死亡记录及Boumans原书；④1923-05-28 Sin Po日报原页；⑤1995年政治犯个人释放命令。G1—G10均OPEN。提交后须独立核对HEAD；不以本次提交视为GOAL完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-13 20:53 CST｜G3 原始修正条例全文取得并解开四副职差异
 
 本次已读取 AGENTS、goal-continuity、stage-access、continuity-status、四正式CSV表头与既有记录及 archive/records/chronology.md。直接打开印尼BPK保存的1965年第4号总统条例全文（官方PDF：https://peraturan.bpk.go.id/Download/73314/Perpres%20No.4%20Tahun%201965.pdf），核对第1—4条与1965-05-05署名/公布页。**此前1964年第37号条例第7条只有Deputy I—III、1965-05-06第102号决定任命Deputy I—IV的表面矛盾，现由原件明确解释**：1965年第4号条例第1条第1款直接将第7条b项第3目改为 I、II、III、IV 四名副职；第1条第2款删除原秘书长岗位；第2条增加行政/人事、后勤/预算、机构秘书、机构分遣队；第3条将Dewan Kurator统一更名Dewan Penyantun；第4条规定自1964-11-25追溯生效。BPK目录记载1965-05-05签署公布（https://peraturan.bpk.go.id/Details/42524/perpres-no-4-tahun-1965）。这只能证明中央国防机构的**法定设计**，不能证明1965年10月各军区实际指挥/镇压链，也不能把法定追溯效力当成1964年实际已有四名副职。
