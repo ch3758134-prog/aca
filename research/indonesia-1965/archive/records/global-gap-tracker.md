@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G1 1923铁路罢工原报定位与G4 Aceh档案独立性复核
+
+按AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit G1—G10、正式S/C/Q/CV与chronology核对本次范围。**G1跨年代异项**：直接打开IRPS 2021-11-14转载的Petrik Matanasi文章 https://irps.or.id/2021/11/mei-1923-aksi-mogok-buruh-kereta-api-yang-bikin-sewot-pemerintah/ ，文章具体引述1923-05-09《Darmo Kondo》关于Semaoen被捕、1923-05-12《Kaoem Moeda》关于军队部署、1923-05-28《Sin Po》关于约8000铁路工人参与、1923-07-11《Pemberita Makassar》关于Medan铁路工人减薪抗议。**访问等级仅为后世二手文章全文及其原报引述，未打开1923原报扫描**；8000人数及5仙减薪等暂不作为独立原件事实，尤其原文转述的事件与报道日期必须区分。精准原件任务：Delpher/印尼报刊档案按报纸名称+具体日期定位扫描，核记者消息来源、VSTP/铁路部门文件和殖民政府拘捕令；并查Aceh tram 1923-05-12、Medan 1923-07铁路行动，防止只用爪哇代替全域。
+
+**G4 Aceh当前链**：直接复读Jess Melvin 2015-10-01署名全文 https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide 。作者以其所获军方文件描述10-01、10-04、10-14军政动员及地图所载1941名公开杀害者；约10000人为作者假设推算，非独立普查。**访问等级为研究者全文与档案照片说明，不是Kodam-I/Kohanda原年度报告全文**；与Melvin 2017论文/2018专著同源，不可算独立交叉核验。其文章提到Sialang Buah移交名单属于**North Sumatra**，不能误置Aceh。下一步取得250页1965 Kodam-I/Kohanda年度报告原扫描及89页行动报告、八区死亡地图、10-04声明签名页，逐页核对命令来源与地方执行；另查Takengon拘押/移交名册、县级死亡/户籍记录。
+
+**总账轮换与阻碍**：G1殖民原报/组织簿未取；G2 SOBSI/BTI/Gerwani/Pemuda Rakyat/LEKRA基层原件未取；G3跨机关逐时命令未完成；G4 Aceh、North/South Sumatra、Java三分区、Bali、Flores、West Kalimantan、Sulawesi及其他地区原始军令/名单失衡；G5幸存者性别/族群证词需独立交叉；G6监所与流亡者个人档案；G7工会实际登记和地方劳工权利；G8英美澳中苏行动交付；G9人物—组织—地点稳定关系；G10正式台账去重、严格排序时间线及中文连续正文全部OPEN。两条复核均未取得新的独立原件，避免虚增S/C/Q/CV或把二手来源转为chronology确认事实。
+
+下一次直接动作：①定位1923-05-09 Darmo Kondo与05-12 Kaoem Moeda影像；②核1923-05-28 Sin Po 8000口径及07-11 Pemberita Makassar Medan消息；③索Aceh 1965 Kodam年度报告250页和地图原件；④查Takengon/Sialang Buah分别对应的监所/移交文书；⑤切换G6 1995名单逐人监所记录。长期GOAL OPEN，不替作者政治判断。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G6 1995修订名单原PDF再核与G4 Aceh命令链异项交叉
 
 本次重新读取 AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10 completeness-audit、正式S/C/Q/CV、chronology及缺口总账。G6：直接打开国际特赦1995-11原始三页PDF https://www.amnesty.org/en/wp-content/uploads/2024/05/ASA210551995ENGLISH.pdf （PDF文本全页，末页扫描目视），第1—2印刷页有14名人名、拘捕日期、判决、监所与健康情况；末页确实印有Sido和Markus Giroth，Gunung Sari Prison, Ujung Pandang。原PDF第一页明确是纠正1995-07名单中已释放者，故27人不是11月现押人数。**去重纠错**：正式S311已经标注全文读过，S833明确标记为S311的重复镜像，C664已记录14人名单，C1472为重复别名；此前滚动状态所称“11月PDF未读”是过时续查提示，现纠正，不新增S/C/Q/CV。PDF仅证明国际特赦当时所信的拘押情况，不是各监狱实际在押名册。待逐人核验，优先Sido/Markus Giroth在Ujung Pandang监所的1995年记录、释放/死亡日期及姓名变体。
