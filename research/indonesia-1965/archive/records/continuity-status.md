@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-13 20:53 CST｜G3 原始修正条例全文取得并解开四副职差异
+
+本次已读取 AGENTS、goal-continuity、stage-access、continuity-status、四正式CSV表头与既有记录及 archive/records/chronology.md。直接打开印尼BPK保存的1965年第4号总统条例全文（官方PDF：https://peraturan.bpk.go.id/Download/73314/Perpres%20No.4%20Tahun%201965.pdf），核对第1—4条与1965-05-05署名/公布页。**此前1964年第37号条例第7条只有Deputy I—III、1965-05-06第102号决定任命Deputy I—IV的表面矛盾，现由原件明确解释**：1965年第4号条例第1条第1款直接将第7条b项第3目改为 I、II、III、IV 四名副职；第1条第2款删除原秘书长岗位；第2条增加行政/人事、后勤/预算、机构秘书、机构分遣队；第3条将Dewan Kurator统一更名Dewan Penyantun；第4条规定自1964-11-25追溯生效。BPK目录记载1965-05-05签署公布（https://peraturan.bpk.go.id/Details/42524/perpres-no-4-tahun-1965）。这只能证明中央国防机构的**法定设计**，不能证明1965年10月各军区实际指挥/镇压链，也不能把法定追溯效力当成1964年实际已有四名副职。
+
+本次先以正式原件解决旧续接中最明确的冲突，未在没有全表去重的情况下占用S/C/Q/CV编号；四正式CSV和chronology仍待按最新完整文件核对后追加，中文连续正文未因单一中央法规而机械拼接。**下一次精准续接**：①正式全表去重，登记本条例原文并将1964/1965组织变化写入chronology（需区分签署日/追溯生效日）；②读1965年第90号主席任命和第303号空军任命PDF全文，核实机构与军方人员关系；③经Commons/Leiden逐页获取Aceh 1965年报第8—15扫描页及军令、死亡地图；④1923-05-28《Sin Po》日报VSTP报道原页；⑤1995年Gunung Sari监狱Sido/Markus Giroth释放令及2001年工会登记原簿。G1—G10全部OPEN，长期GOAL永久OPEN。本次状态提交前GitHub HEAD尚待独立核实；提交SHA应由GitHub提交响应及回读确认，不能自引用同次提交。
+
 ## ONGOING / GOAL仍进行｜2026-11-13 19:47 CST｜G3 1964国防机构设立法规原文与1965任命结构差异
 
 本次读取AGENTS、goal-continuity、stage-access、continuity-status、四正式CSV及真实路径 archive/records/chronology.md（纠正研究根目录404误判）。直接打开印尼BPK官方《Peraturan Presiden Nomor 37 Tahun 1964》全文 https://peraturan.bpk.go.id/Home/Download/73383/Perpres%20No.37%20Tahun%201964.pdf ，核第1—10条及末页：1964-11-25颁布，设立Lembaga Pertahanan Nasional；第4条规定高级军民人员培养、国防安全学说研究及向总统提供政策材料；第6—7条设总统主持的Dewan Kurator、机构主席/副主席、参谋及执行机构，行政技术上直接隶总统；第7条文字列Deputy I—III三名，第10条规定副职任命机制。**关键待核冲突**：既有S856/C1524的1965-05-06第102号总统决定列四名副职（I—IV），而1964原条例列I—III；1965年第4号修正条例尚未取得全文，不能直接认定机构违法、实际编制或各军区指挥关系。原法规只能证明法定组织设计，不证明落实与1965年地方镇压指挥。
