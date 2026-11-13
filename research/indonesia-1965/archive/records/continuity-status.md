@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜精确接力：Aceh原件页码与Sin Po周刊/日报版本
+
+已复读完整性审计G1—G10及四份正式CSV、chronology；本次直接核验Wikimedia Commons元数据：Aceh 1965年KODAM-I/KOHANDA年报（已登记S855）为404页114.96MB原扫描，尚未读内页；1923-05-12和05-26《Sin Po》为各28页的周刊扫描，不能替代二手文献提到的05-28日报或证明8000人参加罢工。两项均是**馆藏/扫描载体确认**，不是对历史内容的全文核实；本次没有新增可独立证明的事件、数字或地方命令，正式S/C/Q/CV、chronology和HTML不增。已在长期global-gap-tracker记录来源、地区、年代、原件缺失与阻碍。
+
+下一次直接执行：①利用Commons单页缩略图或莱顿分页面读取Aceh年报第2—15扫描页及目录，建立印刷页码对应；②查找10月1/4/14命令及死亡地图具体扫描页，不能重复使用Melvin的转引作为独立佐证；③打开Sin Po 1923-05-26周刊内页，追索05-28日报与罢工人数原文，核刊期与数字口径；④切换Flores Sikka 1966-02-27会议原簿或West Kalimantan 1967签署军令；⑤继续1995年Sido/Markus Giroth逐人监所释放记录。G1—G10全部OPEN。上一确认写入提交5372bf8e7cb9121e8c1132da142e0eb14d23ad8b；本状态提交后的HEAD须再核验。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G4 Aceh原始军方年报数字扫描定位；G1 1923《Sin Po》原刊入口
 
 **关键新突破（S855/C1522/Q378/CV402）**：找到莱顿大学KITLV馆藏原件《Laporan tahunan lengkap KODAM-I/KOHANDA Atjeh, tahun 1965》公开数字影像，馆藏号 **M m 941 N+**，永久标识 http://hdl.handle.net/1887.1/item:129556 ，公开扫描入口 https://commons.wikimedia.org/wiki/File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf 。已直接打开馆藏元数据和**第一页原件封面影像**，确认封面标题、1965年、KODAM-I Banda Atjeh；原PDF标注404页、114.96 MB，下载遭web单文件尺寸限制，**内文、军令、死亡地图、签字页均未阅读**。此前Melvin所述250页年报与现存404扫描页的页数差异尚未解释，可能涉及扫描附件或分页；不得自行假定。该原件是Melvin所引同一档案的可能数字副本，**不算对Melvin的独立佐证**；但使长期“原件无法定位”变为“原件已定位，待分段核读”。不可将1,941或约10,000从研究著作转记为原档独立核验。
