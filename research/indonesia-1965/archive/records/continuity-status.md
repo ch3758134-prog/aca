@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-14 01:52 CST｜G3 Omar Dani出国执行线索
+
+本次重新读取AGENTS、stage-access、goal-continuity、续接状态、四份正式CSV和chronology。写入前main HEAD=5f99507cd20c8ba9623e2caf447c69f7aabcecc6。BPK 319/1965原PDF https://peraturan.bpk.go.id/Download/146406/Keppres%20No%20319%20Tahun%201965.pdf 本次直接打开失败。印尼语交叉检索并打开Historia 2020-10-23报道 https://www.historia.id/article/persahabatan-omar-dani-sri-mulyono-herlambang-p3oqj ，文章引《Menyingkap Kabut Halim 1965》及Benedicta/Soeparno叙述，称1965-10-19 Sri Mulyono Herlambang主持Omar Dani送行，Dani赴柬埔寨，返国后遭拘押。另打开Historia https://www.historia.id/article/omar-dani-tak-gentar-pulang ，引用Dani军事法庭辩护，称1966-04-20乘AURI C-130返国；打开Tempo 2001访谈转载 https://ypkp1965.org/blog/2015/09/30/omar-dani-cia-terlibat-g30s-1965-dan-soeharto-yang-dipakai/ 。**这是二级报道/当事人回忆线索，不是独立航班、出入境、使馆或拘押原始记录；Historia两文可能共享回忆材料。不能据319号法令推定十国均实际访问，也不能把Dani对G30S的政治指控当作既定事实。** 本次没有完成四CSV全表去重，因此未增加S/C/Q/CV或改动chronology及中文连续正文。
+
+精准续接：①取得《Menyingkap Kabut Halim 1965》相关原页、Dani军事法庭辩护与1965-10-19送行同期报道；②查1966-04-20 C-130航班、柬埔寨使馆接待、返国后拘押簿；③重核319号四页扫描及303号、1965-10-14 SPH/112/Koti/10/1965，正式去重入库；④Aceh 1965年报扫描8—15页、10月军令及地图；⑤1923-05-28《Sin Po》日报、1977 Moncongloe释放令及1998后工会原始登记。G1—G10与长期GOAL全部OPEN。最终提交SHA以GitHub提交响应及HEAD回读为准，文件不能自引用自身commit SHA。
+
 ## ONGOING｜2026-11-13｜G6译本数字歧义/G4 Aceh来源独立性
 
 本次依照2026-11-09 completeness-audit G1—G10复核项目授权、长期GOAL、四正式CSV、chronology和缺口总账。核实Moncongloe 1977-12-20同批释放人数在两种Komnas HAM英文译本分别写“altogether 466”与“466 other prisoners”，即是否包含证人A未统一；不得视为独立释放名册或确定466/467人数。Aceh Jess Melvin 2015作者文章与2018著作目录仅属同一研究链的公开解释，未独立取得10月军令/地图内页；原S855年报引言不等于整个404页已读。BPK Keppres 319/1965 PDF本次访问错误，仓库既有续接称四页文本曾直接读取，但尚未正式S/C登记，需按原扫描再核、去重后并库。具体检索链接、来源等级、G1—G10缺口和障碍已同步更新global-gap-tracker.md。本次没有足以独立新增原始事件的材料，正式CSV/chronology/HTML未强行修改。
