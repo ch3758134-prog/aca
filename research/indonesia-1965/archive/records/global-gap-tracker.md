@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G6 1995修订名单原PDF再核与G4 Aceh命令链异项交叉
+
+本次重新读取 AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10 completeness-audit、正式S/C/Q/CV、chronology及缺口总账。G6：直接打开国际特赦1995-11原始三页PDF https://www.amnesty.org/en/wp-content/uploads/2024/05/ASA210551995ENGLISH.pdf （PDF文本全页，末页扫描目视），第1—2印刷页有14名人名、拘捕日期、判决、监所与健康情况；末页确实印有Sido和Markus Giroth，Gunung Sari Prison, Ujung Pandang。原PDF第一页明确是纠正1995-07名单中已释放者，故27人不是11月现押人数。**去重纠错**：正式S311已经标注全文读过，S833明确标记为S311的重复镜像，C664已记录14人名单，C1472为重复别名；此前滚动状态所称“11月PDF未读”是过时续查提示，现纠正，不新增S/C/Q/CV。PDF仅证明国际特赦当时所信的拘押情况，不是各监狱实际在押名册。待逐人核验，优先Sido/Markus Giroth在Ujung Pandang监所的1995年记录、释放/死亡日期及姓名变体。
+
+异G项G4 Aceh：直接复读Jess Melvin 2015署名文章全文 https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide 。作者根据军方档案记述1965-10-01命令、10-04地方文武联合声明、10-14军方“war room”及公开死亡地图1,941人；约10,000系作者明确承认的推算，不能混用。此处打开的是研究者署名文章及所展示地图照片，**未取得**250页Kodam-I/Kohanda原年度报告、10-04签字声明或村级死者名册；不同文章转引同一档案不算独立佐证。下一步优先索取Aceh原报告与地图高清页、军令传达簿、县级拘押/移交名册，另转G1 1920年代荷文报纸与G2 Gerwani/BTI原刊，保持跨G项轮换。
+
+本次未取得新的独立地方原件；正式CSV与chronology不作重复追加。下一次直接执行：①比对1995-07/11两份原PDF逐人增删；②查Gunung Sari监狱Sido及Markus Giroth释放令；③取得Aceh Kodam-I/Kohanda 1965年度报告原页与签署信息；④查Aceh West 1965-10-11 DPRD会议原簿；⑤转G1 Delpher 1923 Semaoen原报。G1—G10全部OPEN。提交SHA以GitHub返回及提交后回读为准，不预写未来SHA。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G2/G4/G8 巨港企业监督小组与反共工会联盟的原电报细读；G6名单修订异地复核
 
 已重读G1—G10完整性审计及正式S/C/Q/CV、chronology和连续状态。直接打开美国驻雅加达使馆1965-10-23第1168号与1965-11-01第1290号电报**全文OCR**（非原扫描逐页影像）：https://nsarchive.gwu.edu/media/15702/ocr 和 https://nsarchive.gwu.edu/media/15705/ocr 。正式已有S196等相同外交来源，本次不将重新阅读冒充新独立来源。
