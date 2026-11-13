@@ -1,3 +1,11 @@
+## ONGOING｜2026-11-13｜G6印尼文原版校正释放人数；G2/G5南苏拉威西基层组织与指控机制
+
+本次重新读取2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity、continuity-status及正式四CSV和chronology（部分只读表头/开头），保持十项均OPEN。**G6（Moncongloe，1970—1977）**：直接打开Komnas HAM《Ringkasan Eksekutif Tim Ad Hoc Peristiwa 1965-1966》印尼文全文（TAPOL所存原文PDF，印刷154页，https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf）。原文“saksi dibebaskan ... bersama 466 tahan lainnya”语义为证人A“与另外466名被拘押者一同”获释，支持**按这份调查报告的转述为467人（含A）**，而TAPOL英译“altogether 466”漏掉了“其他”关系。该校正只解决**报告原文的措辞**，不是取得1977释放清册；不能把467升级为逐人独立核实的实际释放人数。报告同时明确B依SPRIN/802/TPD/XII/1977从完全拘押转为居家拘押；不同人的释放/监控类别不能混为一谈。需原始1977签署令、清册、BAP 266—269及拘押身份登记。
+
+**异项G2/G5（1958—1965，Pangkep/Wajo/Makassar）**：同一印尼文报告印刷154—155页直接记载2009年证人陈述：A称1965年8月加入Pemuda Rakyat并获任Pangkep县级负责人，10月当地约40人、主要为SMEA/SMA学生；B称1962年被同学登记为Hasanuddin大学CGMI成员、名义上为第二主席但没有见到任命信且自称未参与活动；D称1958年任Wajo县Sengkang技术学校行政主管，因替上司R Ismoyo打字而在被拘押后被指控为BTI县秘书。**这三项均是调查报告转述的不同证人证言，不是组织会员原簿或独立证实其任职/无辜的事实**；但提供了可查的学校、县级组织、上级姓名和指控形成机制，避免把被指控BTI身份当真实组织身份。下一步核2009年BAP 266/267/269、Pangkep学校档案、Pemuda Rakyat地方任命函、Unhas CGMI名册、Wajo学校文书与拘押记录。印尼文报告同一来源不能拆成多项独立佐证。
+
+**G1/G3/G4/G7/G8/G9/G10仍开放**：G1 1923-05-28《Sin Po》日报及VSTP原始人数；G3 1965跨机关命令；G4 Aceh年报后续页与Flores/West Kalimantan县级原件；G7当代工会/幸存者原始记录；G8外交交付凭证；G9将Pangkep/Wajo/Moncongloe及组织/人物纳入可检索关系；G10正式台账全量去重、连续时间线和中文阅读正文。原文页已读，但尚未完成正式CSV全表去重，不分配新S/C/Q/CV编号、不虚称已并库；继续优先正式整合。长期GOAL未完成。
+
 ## ONGOING｜2026-11-13｜G6 Moncongloe译本人数分母歧义与G4 Aceh原件链复查
 
 按2026-11-09完整性审计逐项保持G1—G10开放；读取AGENTS、stage-access、goal-continuity、continuity-status、四正式CSV与chronology。**G6（1970—1977，南苏拉威西）**：直接核对TAPOL所载Komnas HAM调查英文译文（https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20TAPOL%20translation.pdf）及另一英文译本（https://stopimpunity.org/content/stopimpunity/national_commission_of_human_rights_report_1965_translation.pdf）。前者把证人A的1977-12-20释放表述为“in a group of altogether 466 people”，后者表述为“together with 466 other prisoners”。**二者对466是否包含证人本人存在翻译口径差异（466或467），不能把466写成已核实的逐人总数**；两种译本同源于Komnas HAM调查，不是独立营地原件。B的SPRIN/802/TPD/XII/1977只在调查报告中被引述，释放后仍处于居家拘押；C的C3和D的B2是报告转述的证明类别，缺原始签署页、名册和BAP。下一动作：直接按印尼文原版相关印刷页核原文“466”语法，追SPRIN签署件、1977释放清册、BAP266—269及家属证词。
