@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G4 Aceh + G2/G8 交叉核验
+
+已读 AGENTS、stage-access、goal-continuity、G1—G10 completeness-audit、正式四CSV表头及chronology；research-status.md 在 archive/records/ 路径不存在。已全文阅读 Melvin 2015 Aceh 文章，明确区分军方地图记录的1,941起公开杀害与作者推算约10,000总死亡（后者不是清点）；未取得地图完整扫描、年度报告及地方原始名册。另读 Gerwani 数字展览入口和美国国家安全档案39件馆藏导言，未打开其中1965-10-23电报1168及11-01电报1290的单件全文，不将目录升格。证据层级、地区组织与链接见 global-gap-tracker 顶部。正式CSV/chronology因无新独立核实原件不作重复编号。前置main提交 **c06371131515bd4c170e3be41863816831fb0a32**。
+
+**精准续接**：①Aceh Kodam-I/Kohanda 1965年度报告及死亡地图八区逐区数；②1965-10-01 Mokoginta 命令、10-04 Aceh 声明、10-14 Djuarsa war room 原件；③1965-10-23 美国电报1168与11-01电报1290完整扫描/OCR并核 SOBSI/PERBUM 厂方/工会原始登记；④Gerwani《Api Kartini》原刊扫描与S460/S461对照；⑤跨G6/G7查1995政治犯逐人记录和2001工会县市季度登记。G1—G10 全部OPEN，未穷尽。状态文件自身最终提交SHA须提交后核验，不可自引用。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜正式归档接续
 
 本次已正式追加C1521、Q377、CV401，更新chronology及global-gap-tracker；前置main提交ffbe8f696eb0cb88e192ff4926456a3e5e402380。S839原件重复利用，不新增S。2001工会重新登记法规和1965南苏拉威西外交转述的证据级别及原文链接见下节。精准未完：①KEP201/1999签署原件；②2001—02县市工会季度登记簿及拒绝登记通知；③Makassar 1965-11-10商户损失及Bone监所原始名册；④Aceh Kodim和Flores Sikka会议原件；⑤1961 Gerwani原刊、SOBSI/BTI地方组织档。G1—G10仍OPEN。最终自身提交SHA需提交后独立核验，不能在同一提交自引用。
