@@ -1,3 +1,12 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G6 Moncongloe释放类别与G1铁路罢工人数口径交叉核验
+
+**G6长期链（南苏拉威西，1970—1977，Teperda/Moncongloe）**：直接检索并阅读Komnas HAM 2012年印尼文调查报告中Moncongloe证词段落（已正式登记S859），并交叉打开TAPOL发布的英文译本 https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20TAPOL%20translation.pdf 。印尼文证词称A在1970-09至1977-12-20被拘押，1977-12-20与其他466人一同获释；B从Majene监狱转来，按SPRIN/802/TPD/XII/1977从完全拘押转为居家拘押；C于1974-08-08按Teperda证明归C3；D的释放证明归B2。英文译本确认这些类别及日期是**报告转述证词/文件内容**，不构成第二份独立1977年原始释放令。466应暂作证人陈述的同批人数，不得当成营地总在押人数、实际自由人数或已核名册人数。缺：SPRIN签署页、1974释放证明、逐人名册、证人BAP；阻碍：报告印刷页145的1970/1977矛盾、译本源于同一报告。下一动作核BAP266—269/2009与1977原令，逐人对照拘押类别、家庭监视和实际行动自由。
+
+**异项G1（1923年铁路与种植园工人）**：直接阅读IRPS转载的Petrik Matanasi文章 https://irps.or.id/2021/11/mei-1923-aksi-mogok-buruh-kereta-api-yang-bikin-sewot-pemerintah/ ，并与 https://daerah.sindonews.com/berita/1105486/29/semaoen-dan-pemogokan-buruh-kereta-api-mei-1923 比较。前者转述1923-05-28《Sin Po》约8,000名铁路罢工者及500名司机；后者叙述1923-05-13约10,000人、国家铁路8,285人，口径及日期均不一致。**两篇都是后世二手报道**，且IRPS与Tirto为同文转载，不构成原报独立交叉；不能合并数字或断言人数冲突已解决。地区扩展线索包括Atjehtrem 1923-05-12、Medan 1923-07、Deli Maatschappij种植园1923-07-08；目前仅为二手指向，缺1923-05-28《Sin Po》日报、VSTP原始报表、铁路企业工时/停工簿及《Pemberita Makassar》原页。下次按行业、日期、地域和总数/子集定义分解，再登记独立原件。
+
+**G1—G10保持OPEN**。本次没有把译文或二手人数当作新独立原件；G4 Aceh、Flores、West Kalimantan地方命令仍优先。
+
+
 
 
 ## ONGOING / GOAL仍进行｜2026-11-13｜G4 West Kalimantan 1967地方动员链的全文二手研究核验（与Aceh原档链轮换）
