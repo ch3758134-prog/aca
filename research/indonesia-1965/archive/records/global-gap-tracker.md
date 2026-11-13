@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G2/G4/G8 巨港原件复核：军方拘押、工会代表权与石油企业管理
+
+本次已读取G1—G10 completeness-audit、项目授权/连续规则、正式S/C/Q/CV、chronology和既有缺口总账；复核既有S196及相关C229/C810/C1468/C1469，**不重复新增来源**。直接打开1965-11-01美国驻雅加达使馆1290号电报完整OCR https://nsarchive.gwu.edu/media/15705/ocr ，并与1965-10-23第1168号电报完整OCR https://nsarchive.gwu.edu/media/15702/ocr 交叉。访问级别：同期外交电报**全文OCR已打开**，非逐页原扫描目视；其中军方行动多由企业管理人员/劳工参赞转述，不能视为印尼拘押簿。
+
+核验的时间与地区：劳工参赞1965-10-28—29到访 **Palembang, South Sumatra**，馆藏编辑导言误标North Sumatra。1290第2—3页写Ibnu Sutowo于10-27—28巡查炼厂，增加警卫；第3—4页Stanvac约30名印尼员工被捕（含PERBUM干部），另有家庭雇员/亲属被捕；第5—6页Shell Pladju与Prabumulih共24名PERBUM成员被捕；第7页PUSRI约1300名劳工中15名SOBSI干部被捕。不同企业数字口径不能混成省级死亡人数；报告所称约600人已被关押未有姓名簿核实。第4页提出将Stanvac 3500员工至少1000人转往厂外工作，**是考虑中的方案，不是已执行**。第5页Shell管理人员否认Ibnu Sutowo将炼厂火灾归为破坏的判断，是同份原件内部反证。第6页GOI监督小组与企业劳资关系的讨论提示1965年工会代表权变化，不能单凭企业管理层叙述断言劳动者实际权利消失。
+
+1168号电报说明10月21日反共工会向劳动部长Sutomo要求解散SOBSI；当时SOBSI尚未全国正式被禁，铁路、种植园、邮电、港口、公用事业等产业工会被要求暂停活动，但电报明确说各地执行程度未知。与1290对读可见从全国工会政策压力到巨港企业级拘押的两个不同层面；**没有证据证明前者是后者具体拘押令的直接来源**。馆藏编者对1290的地理错误不得继承。
+
+G4地区不均衡仍突出：本链只覆盖南苏门答腊三企业，不能代替Aceh、North Sumatra、East/Central/West Java、Bali、Flores、West Kalimantan、Sulawesi的县级军令/拘押簿；G1殖民工会原报、G2 BTI/Gerwani/Pemuda Rakyat/LEKRA支部、G3逐时、G5幸存者、G6监狱流亡、G7登记执行、G8外部具体交付、G9关系索引、G10严格时间线/中文正文均OPEN。
+
+精准续接：①打开1290与1168原扫描逐页目视核数字、厂名、日期；②查Palembang 1965 Kodam军警拘押原令及PERBUM/SOBSI厂级名册、Shell/Stanvac/PUSRI解雇/转岗记录；③查1965 Pladju火灾调查、炼厂产量/企业所有权谈判原件，验证互斥解释；④转Aceh Kodam-I/Kohanda年度报告及死亡地图原影像，避免用Melvin同源研究冒充多源；⑤转G6 1995年政治犯逐人释放令和G1 1926—28 Delpher荷文原报。未取得新独立地方原件，不虚增S/C/Q/CV或编造历史正文。长期GOAL仍OPEN。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G2/G4/G8 石油工会原电报地理纠错与细化
 
 按 AGENTS、stage-access、goal-continuity、completeness-audit G1—G10 和四份正式CSV、chronology 读取后，**直接打开原件OCR**（非仅馆藏导言）：1965-10-23 美国驻雅加达电报1168 https://nsarchive.gwu.edu/media/15702/ocr 与 1965-11-01 电报1290 https://nsarchive.gwu.edu/media/15705/ocr 。两份OCR都有字符识别错误，数字和机构名称需对照原PDF影像。1168记录10月21日多家反共工会向劳工部长Sutomo施压，SOBSI尚未在全国正式被禁，但铁路、种植园、邮电、港口、公共工程、公用事业及运输业若干工会活动被暂时冻结；电报承认各地执行程度未知。这是美方同期观察，不等于全国行政命令全文。
