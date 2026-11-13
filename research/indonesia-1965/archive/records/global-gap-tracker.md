@@ -1573,3 +1573,12 @@ G4异项：实际打开1965-11-12美国使馆1425号电报OCR https://nsarchive.
 **异项G4/G5 Flores—Sikka**：直接阅读墨尔本大学《Melbourne Asia Review》关于Flores的全文研究性文章（https://www.melbourneasiareview.edu.au/the-genocide-of-1965-in-flores-indonesia-and-whats-needed-for-reconciliation/），文中引Madung/Prior说Jan Djong于1966-03-01死于Maumere拘押，但正式S456/C1057已记录Prior引Boumans回忆录的1966-02-09；这是**同一死亡日期未解决的证据冲突**，不是独立确认任何日期。文章另引1999年地方教会著作估Maumere 1966年2—5月800—2000人死亡，不能当成原始名册。缺失：Maumere监所登记、教区死亡/埋葬登记、Boumans原书、2019 van Klinken原文、KOMOP命令、1966-02-27 Sikka会议记录。文章是研究全文，不是1966年地方原件；不重复占用来源ID。
 
 G1 1923原报、G2群众组织账簿、G4 Aceh/北苏门答腊/爪哇/巴厘/Flores/西加里曼丹/Sulawesi地方军令、G5性别宗教、G6监禁流亡、G7当代组织、G8外部介入、G9人物地理、G10档案治理均OPEN。下一步优先①SPH/112/Koti/10/1965原件；②Aceh年报扫描页8—15及军令；③Maumere 1966年教区/监狱死亡原簿；④1923-05-28 Sin Po日报原页；⑤1995政治犯释放文书。
+
+
+## ONGOING｜2026-11-13｜G3空军指挥人事前史与航空工业机构（原始总统决定）
+
+**当前链G3**：直接打开印尼政府1965年第112号总统决定官方PDF全文（https://peraturan.bpk.go.id/Download/275272/Keppres%20No%20112%20Tahun%201965.pdf），第9—23行记载Sri Muljono Herlambang此前为航空军部长/司令的作战副职及最高统帅部作战参谋职务，1965-05-10被任命为协助总统/武装部队最高统帅的国务部长；第37—41行确认日期和苏加诺署名。该原件补足既有S858/C1526（1965-10-15代理空军司令）的**任命前史**，但不证明五月至十月间实际工作、10月交接或军区服从。访问等级：政府原始决定全文文本已打开；不是人事履历/任职执行簿。需追原始任职交接记录及SPH/112/Koti/10/1965。注意112/1965号总统决定与10月14日SPH/112/Koti/10/1965是**不同文书**，不可按数字112混同。
+
+**跨对象G3/G8工业关系**：直接打开1965年第322号总统决定两页官方PDF全文（https://peraturan.bpk.go.id/Download/146768/Keppres%20No%20322%20Tahun%201965.pdf）。10月27日签署，追溯10月8日生效；第20—36行记载10月26日内阁主席团会议有代理空军部长/司令、中央银行部长及KOPELAPIP作战参谋参与；第39—60行指定Chaerul Saleh监督航空工业项目KOPELAPIP/PN Berdikari，Koerwet Kartaadiredja任日常项目经理；第77—97行赋予协调职权。这是**正式行政授权**，不是项目实际移交、飞机生产、资金流或外国介入已执行的证据。下一步追10月26日会议纪要、PN Berdikari财务和人事账、10月8—27日实际签发指令、军方及企业对应记录。
+
+**跨地区G4/G5 Flores**：继续保留Jan Djong死亡日1966-02-09与03-01冲突。新检索发现百科资料采用03-01并引用van Klinken 2019著作，但百科及镜像并非独立原件，不能当作解决冲突的第二证据。优先Maumere监所、教区死亡/葬礼簿及Boumans原著。G1—G10全部OPEN，G4 Aceh及各省地方命令、G1原报、G2组织原簿、G6监所等均未被本次中央行政文件取代。
