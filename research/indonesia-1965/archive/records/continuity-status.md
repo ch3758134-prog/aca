@@ -1825,3 +1825,10 @@ G2：直接打开Gerwani 1961《Program Gerwani》及《Peraturan Dasar Gerwani�
 已重新读取AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10完整性审计、正式四CSV、chronology和缺口总账。新读西加里曼丹1967年松村智雄19页日文研究全文，升级已有S453，新增C1516/Q373/CV397，chronology和缺口总账已同步；交叉核Gerwani 1959 Sulami全文转录（已有S462）和1959—1964《Api Kartini》42期目录（仅目录），没有重复S号。西加里曼丹约六万人迁移是论文引文，尚未获得1967年军方原令和村级名册。
 
 **精确续接**：①打开《Api Kartini》1959/1961/1964具体期的原扫描与页码，检索Gerwani托育、女农工、地方支部、会费和组织间争论；②取得1967年Kodam XII/Pepelrada签署令、RRI Pontianak广播、Oevaang Oeray十月声明与Sambas/Monterado/Bengkayang逐村迁移和救济记录，独立核松村的因果链；③轮换G6 1995政治犯14人逐人释放/判决和G7 2000工会法实际登记；④继续G4 Aceh、北苏门答腊、爪哇、Bali、Flores、Sulawesi各县军令；⑤推进G8英美澳中苏实际交付证据、G9关系索引、G10中文连续正文。**当前已确认的上一写入提交SHA：5e9dae71a5f0c50a74678c5f8b652a32960d9f21；后续chronology及状态提交SHA以GitHub main实时HEAD为准，不把文件内前置SHA误当最终HEAD。** GOAL永久OPEN，非阶段完成。
+
+
+## ONGOING / GOAL仍进行｜2026-11-13｜西加里曼丹跨境政策与1964命令转录
+
+已读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式四CSV、archive/records/chronology.md、长期缺口总账及滚动状态；research-status.md该路径不存在。新核验Mitchel Vinco 2009全文PDF https://repository.usd.ac.id/25201/2/041314018_Full%5B1%5D.pdf ：论文附录p.130转录1964-01-23苏加诺停火令，注明1964新闻部出版物p.70；论文p.93—94引用2008年L.H. Kadir访谈。前者是原文件的学术再转录，后者是回顾口述，**均非本次直接取得1964签署军令/执行记录**。新增S852/C1517/Q374/CV398；已补chronology及缺口总账。没有编造军令已执行或新的死亡数字。
+
+**精准续接**：①查《Gelora Konfrontasi Mengganjang Malaysia》1964新闻部原刊第70页和1月23日签署令影像；②查1964-01-25 KOTI/Kodam XII边境停火传达与违令报告；③查L.H. Kadir 2008-06-20完整访谈录音/手稿及Putussibau—Semitau—Badau交通/训练档案；④转G2《Api Kartini》原期逐页及1964 Umi Sardjono报告；⑤转G6 1995年政治犯14人判决/释放记录，G4 Aceh/Flores地方军警原件。G1—G10仍OPEN。写入前已确认正式CSV最新SHA并按序提交；本次已核验最近正式CSV提交 d140a6ced485a0f43554ea94fbcfff3f5a445ac9；本状态文件提交后的最新main HEAD须以GitHub返回及再读取为准，不能预先将未来SHA写成已存在值。
