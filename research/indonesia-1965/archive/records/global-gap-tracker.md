@@ -1636,3 +1636,12 @@ G1 1923原报、G2群众组织账簿、G4 Aceh/北苏门答腊/爪哇/巴厘/Flo
 **异项G4/G5西加里曼丹1967**：搜索West Kalimantan 1967 Dayak Chinese expulsion military orders archives，找到Braithwaite 2010援引Davidson 2002的转述（https://en.wikipedia.org/wiki/Discrimination_against_Chinese_Indonesians 仅作为检索入口）和Samalantan/Oevaang Oeray的百科条目（https://en.wikipedia.org/wiki/Samalantan）。访问级别：**二手/三手搜索结果，不是原始地方命令、证词全文或死亡簿**。其中2,000—5,000死亡估计、地方动员会议及族群行动者身份均未独立核实，不得升级事实或用作中文正文。地区/年代/组织：West Kalimantan、Samalantan/Pontianak、1967、军方/Dayak/华人社群；缺件：Davidson博士论文原文及引文、1967地方报刊、Kodam XII/Tanjungpura命令、县级迁移与难民营登记、Oeray会议原始记录及当事人多方口述。下一动作：定位Davidson 2002 pp.158/173原引文，再以地方行政与难民登记反查，区分1965—66反共杀戮与1967反华驱逐的日期、对象和死亡定义。
 
 **去重G10**：d232已正式多重别名S034/S137/S541，Komnas Perempuan 2007报告已为S147；本次没有把旧原件重新算作独立来源。G1—G10均OPEN，下一轮同时推进G1原报、G2基层组织、G3跨机关时序、G4地方军令、G5妇女/族群、G6拘押、G7当代劳工、G8交付、G9索引、G10正式台账与中文历史正文。
+
+
+## ONGOING｜2026-11-13｜G8援助执行层级与G4/G5西加里曼丹地方机制
+
+**审计继承**：本次读取2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity、正式四CSV、chronology、现行续接和总账；各项继续OPEN。**当前长期链G8（原始电报全文）**：直接打开美国国务院FRUS XXVI d173，1965-11-11曼谷使馆电报 https://history.state.gov/historicaldocuments/frus1964-68v26/d173 。第2段报告Sukendro已与美方讨论**秘密药品援助的实施安排**，并指派Achmad Soemantri在曼谷协调；Sukendro称已向Nasution、Suharto报告将尽早交付。第3—7段另提出秘密采购通信器材：雅加达高层约十二台便携电台，以及连接Medan、Palembang、Bandung、Semarang、Surabaya、Makassar、Banjarmasin的军区语音线路；第29—31行估价约40,000美元。脚注7记载11月12日美方对澳、新、英说明已同意提供**10万美元药品**，但**5万美元通信设备仍在认真考虑**。访问等级：美国外交原始电报公开全文（有删节），脚注为编者引用未直接打开的其他原电。证实美方讨论、批准信息及Sukendro的陈述，**不等于药品已经交到印尼军方手中**，更不等于通信设备或武器已经交付。此前d172“暂不建议立即提供武器”与d173“药品援助已有实施安排”并不矛盾，必须按物资种类拆分。缺件：Deptel 750、11月12日373号通报原电、医疗物资装运/签收、通信设备最终批准与接收记录。行动：沿d171、d173脚注和d174—180核实施及日期。
+
+**异项G4/G5（西加里曼丹1967）**：直接打开松村智雄2015年同行评审论文的期刊摘要 https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/en （45—63页，**仅摘要全文已读，论文PDF未读**）。作者提出：军方试图驱逐内陆华人以打击砂拉越共产党游击队，Oevaang Oeray与Palaoensoeka之间的达雅克政治竞争影响1967年10月的动员，红碗（mangkok merah）流转后发生驱逐，内陆贸易断裂带来物资短缺。这些是**作者研究解释**，不是本次核得的1967年军令或原始会议簿；不可据摘要单独断言Oeray亲自签发宣战令、所有达雅克人共同参与或任何死亡总数。另发现2004年Sanata Dharma大学Arnaldo关于Singkawang PGRS/PARAKU的学位论文目录，标注有全文PDF https://repository.usd.ac.id/25055/ ；2015年UPI大学Maulana论文 https://repository.upi.edu/22118/ 部分章节开放、关键章受限。下一动作先读松村论文PDF与Arnaldo全文的原始引注，再查1967年地方报刊、Kodam XII/Tanjungpura命令、Pontianak难民与死亡登记，分别建反共作战/华人驱逐的日期与人口统计。G9将Oeray、Palaoensoeka、PGRS/PARAKU、Singkawang、Samalantan与军区建立待证关系，不冒充已确认指挥链。
+
+**G10治理**：本次未完成大表全文同源去重，不占用S/C/Q/CV新编号；上述为已打开原文与仅摘要的明确分级，后续先查d173、松村2015是否已在正式来源表，再并入CSV/时间线与中文历史正文。G1原报、G2组织簿、G3跨机关、G4其他地区、G5幸存者、G6监禁、G7工会、G8交付、G9索引、G10正文均未关闭。
