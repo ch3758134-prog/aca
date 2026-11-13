@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G6印尼原文数字语义与G8美方同期指控
+
+本次读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit G1—G10、正式四CSV、chronology及缺口总账；已知研究状态文件实际为project/research-status.md而非archive/records/research-status.md（该路径404）。**G6**：直接打开Komnas HAM印尼文全文印刷154页，证人A称1977-12-20与“另外466名囚犯”（bersama 466 tahan lainnya）获释；报告措辞表示含本人467人，纠正TAPOL英译“altogether 466”的语义，但不是1977逐人名册独立核实。证人B的同日释放仅由完全拘押转居家拘押。原文 https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf 。**异项G8/G3**：打开1965-10-26美国使馆FRUS电报1184全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d161 ，第2段声称中国走私数千枪支，同时称中国是否知悉/参与策划尚未证实；第3—7段多为当时使馆推断，不能当作独立中国交付或苏加诺责任事实。与同日印尼Keppres319不构成自动因果关联。详细来源等级、地区、缺件及行动已写入global-gap-tracker。
+
+本次未全表完成S/C/Q/CV去重，因此不新编号、不虚构chronology/中文正文新增事实。**精确续接**：①以S134及其他独立研究对照FRUS d161所述枪支的提议、运输、接收证据；②取得1977 SPRIN/802/TPD/XII/1977、Moncongloe名册、BAP266—269；③继续Aceh 1965年报扫描8—15页与县级军令；④获取1923-05-28《Sin Po》日报及VSTP记录；⑤正式核验319号原扫描、全量去重并库，轮换Flores/西加里曼丹地方原件及1998后工会登记。G1—G10全部OPEN；长期GOAL未完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-14 01:52 CST｜G3 Omar Dani出国执行线索
 
 本次重新读取AGENTS、stage-access、goal-continuity、续接状态、四份正式CSV和chronology。写入前main HEAD=5f99507cd20c8ba9623e2caf447c69f7aabcecc6。BPK 319/1965原PDF https://peraturan.bpk.go.id/Download/146406/Keppres%20No%20319%20Tahun%201965.pdf 本次直接打开失败。印尼语交叉检索并打开Historia 2020-10-23报道 https://www.historia.id/article/persahabatan-omar-dani-sri-mulyono-herlambang-p3oqj ，文章引《Menyingkap Kabut Halim 1965》及Benedicta/Soeparno叙述，称1965-10-19 Sri Mulyono Herlambang主持Omar Dani送行，Dani赴柬埔寨，返国后遭拘押。另打开Historia https://www.historia.id/article/omar-dani-tak-gentar-pulang ，引用Dani军事法庭辩护，称1966-04-20乘AURI C-130返国；打开Tempo 2001访谈转载 https://ypkp1965.org/blog/2015/09/30/omar-dani-cia-terlibat-g30s-1965-dan-soeharto-yang-dipakai/ 。**这是二级报道/当事人回忆线索，不是独立航班、出入境、使馆或拘押原始记录；Historia两文可能共享回忆材料。不能据319号法令推定十国均实际访问，也不能把Dani对G30S的政治指控当作既定事实。** 本次没有完成四CSV全表去重，因此未增加S/C/Q/CV或改动chronology及中文连续正文。
