@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G4 Aceh数字化原件载体与G1 Sin Po刊期核验（续接）
+
+本次重新读取2026-11-09 G1—G10完整性审计、AGENTS、stage-access、goal-continuity、正式S/C/Q/CV台账及chronology；research-status.md路径仍不存在。**G4**：再次直接核验Wikimedia Commons的KITLV馆藏元数据（https://commons.wikimedia.org/wiki/File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf），确认原扫描404个PDF页面、114.96MB、KODAM-I Banda Atjeh、馆藏号M m 941 N+、莱顿handle 1887.1/item:129556；该对象已正式登记S855/C1522/Q378/CV402，本次**仅元数据重核，未读取内页，不新增S/C**。下一步应按页获取影像，建立PDF页序与印刷页码映射，再逐项核1965-10-01/04/14军令、地图及签署页；不能将Melvin的1,941地图数或约10,000推算称为已独立复核。
+
+**异项G1**：新核验1923年《Sin Po》数字原刊载体：Wikimedia Commons存在1923-05-12、05-26两册各28页的周刊扫描（https://commons.wikimedia.org/wiki/File:Sin_Po_12_May_1923.pdf 及 https://commons.wikimedia.org/wiki/File:Sin_Po_26_May_1923.pdf），来源说明指向Monash馆藏。此处仅打开文件目录/元数据，**未阅读任何罢工报道原页**。特别注意：既有二手文章称“1923-05-28 Sin Po 8000人”，不能以05-26周刊目录替代05-28日报原文；周刊与日报、报纸日期与报道事件日期须分别鉴定。下一步查Monash 1923-05-26周刊内页及确切1923-05-28日报影像、Semaoen/VSTP、棉兰铁路原报，再核参与人数的地域、行业与估算口径。
+
+G2基层组织、G3跨机关逐时、G4 Aceh/北苏门答腊/爪哇/巴厘/Flores/西加里曼丹/Sulawesi地方原令、G5受害者、G6监所流亡、G7实际工会登记、G8外国实际交付、G9关系索引、G10严格排序与中文连续正文全部OPEN。未取得新原始内页，正式CSV、chronology和HTML不作虚假事实更新。阻碍：大型PDF内页提取、1923周刊/日报版本混淆、地方军警原簿缺失。精确续接：①Aceh报告第2—15页目录与页码；②Aceh 10月命令/地图的扫描页；③Sin Po 05-26内页与05-28日报对照；④Flores Sikka会议簿；⑤1995政治犯监所个人记录。长期GOAL未完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G4 Aceh原始军方年报数字扫描定位；G1 1923《Sin Po》原刊入口
 
 **关键新突破（S855/C1522/Q378/CV402）**：找到莱顿大学KITLV馆藏原件《Laporan tahunan lengkap KODAM-I/KOHANDA Atjeh, tahun 1965》公开数字影像，馆藏号 **M m 941 N+**，永久标识 http://hdl.handle.net/1887.1/item:129556 ，公开扫描入口 https://commons.wikimedia.org/wiki/File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf 。已直接打开馆藏元数据和**第一页原件封面影像**，确认封面标题、1965年、KODAM-I Banda Atjeh；原PDF标注404页、114.96 MB，下载遭web单文件尺寸限制，**内文、军令、死亡地图、签字页均未阅读**。此前Melvin所述250页年报与现存404扫描页的页数差异尚未解释，可能涉及扫描附件或分页；不得自行假定。该原件是Melvin所引同一档案的可能数字副本，**不算对Melvin的独立佐证**；但使长期“原件无法定位”变为“原件已定位，待分段核读”。不可将1,941或约10,000从研究著作转记为原档独立核验。
