@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G2/G4/G8 巨港地理错配已修正式时间线；G4 Aceh原始档案定位
+
+本次读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09、正式四CSV、chronology、滚动缺口总账和续接状态。直接重新打开1965-11-01美国电报1290 OCR https://nsarchive.gwu.edu/media/15705/ocr ，原文明确“Palembang S Sumatra”，与馆藏编辑摘要“North Sumatra”冲突。正式chronology早期一条仍误写北苏门答腊，本次已在main精确纠正；后部原有正确的巨港连续叙述保留，未重复S196/C229/C810/C1468/C1469。1965-10-23电报1168 OCR https://nsarchive.gwu.edu/media/15702/ocr 同时复核：当时SOBSI全国尚未正式被禁，但铁路、种植园、邮电、港口等产业组织被暂停活动的程度仍不清。两件原件均只核OCR，未逐页核扫描影像；电报是外交观察，不是印尼工会名册或地方军令。
+
+不同G项地域核验：直接查到Jess Melvin著作公开PDF https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf ，书中明确标识1965年Aceh Kodam-I/Kohanda年度报告为250页打字本，含Djuarsa的89页行动报告、死亡地图、军政指挥图表；**本次打开的是作者著作中的档案描述，而非该250页军方原件**。与既有S612及Melvin2015文章同一研究者档案链，不作独立佐证或新增死亡数字。G1—G10仍OPEN；覆盖缺口尤其Aceh、Java、Bali、Flores、West Kalimantan、Sulawesi地方原令、G6政治犯与G7工会基层实际执行仍未解决。
+
+本次正式提交：chronology地理错配纠正 commit **00964a0a6d8bdb72e41c6b659d45600b3f615661**。状态文件本次提交的最终HEAD须在提交后单独核实，不能自引用。精准续接：①从NSA 1290/1168馆藏PDF逐页目视核地名、人数、日期及工会名单；②取得Palembang 1965军警拘押令、Shell/Stanvac/PUSRI/PERBUM人事工会原册与火灾调查；③取得Aceh 1965 Kodam-I/Kohanda 250页年度报告、附件死亡地图及各县命令的原始影像；④轮换G1 VSTP/1926-28流放原报、G2 Gerwani《Api Kartini》原刊及1964 Umi Sardjono报告；⑤转G6 1995政治犯逐人监所/释放令与G7 2001县市工会季度登记簿。已登记的S/C不重复；没有独立新原件不人为扩增CSV。GOAL持续OPEN。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜电报1168/1290原件OCR与巨港地理纠错
 
 已读取项目规则、G1—G10完整性审计、正式四CSV、chronology与缺口总账；直接打开 https://nsarchive.gwu.edu/media/15702/ocr 和 https://nsarchive.gwu.edu/media/15705/ocr 。**1290原文写Palembang, S Sumatra，馆藏说明却称North Sumatra**，应以后续影像复核原件地理，不可将约600名拘押报告和PERBUM/SOBSI炼油厂逮捕记录记入北苏门答腊。1168指出SOBSI尚未全国正式禁绝但多个产业工会被冻结，执行范围未知。详细原文、数字口径、企业及反证见global-gap-tracker顶部。当前仅核OCR，未核扫描图像，正式CSV/chronology未改，不冒充已并库。此前main提交 **06f607f08018d2fab53bae4944f4bce2a81ebe3a**（缺口总账）。精准续接：①核1168/1290原扫描页与日期；②在正式S/C表中按URL及电报号去重，纠正地理错配并追加必要原子事实、chronology；③Palembang军区拘押令、PERBUM/SOBSI/Stanvac/Shell/PUSRI人员原始名册；④Aceh 1965军令/死亡地图逐区影像；⑤Gerwani《Api Kartini》1961原刊与Pabuaran地籍。G1—G10 OPEN，未穷尽。状态文件最终SHA必须在提交后独立核验，不能在同次提交内自引用。
