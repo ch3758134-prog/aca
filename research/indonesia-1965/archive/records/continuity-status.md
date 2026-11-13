@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜巨港工会拘押原电报交叉核验及异地续查
+
+已按要求读取2026-11-09 G1—G10完整性审计、AGENTS、stage-access、goal-continuity、正式四CSV、chronology、滚动缺口总账及此前续接。**已直接打开全文OCR**：1965-11-01第1290号电报 https://nsarchive.gwu.edu/media/15705/ocr 与1965-10-23第1168号电报 https://nsarchive.gwu.edu/media/15702/ocr ；**未逐页目视原扫描**。1290正文明确Palembang/South Sumatra（馆藏导言误标North Sumatra）；Stanvac约30名、Shell Pladju/Prabumulih共24名PERBUM成员、PUSRI 15名SOBSI干部被捕均是美方汇总企业与官员消息，不是印尼地方拘押簿。Ibnu Sutowo拟将Stanvac至少1000人调出炼厂属于考虑，未证明执行；Shell否认其火灾破坏说法。1168说明10月下旬SOBSI未全国正式禁绝而若干产业工会被冻结，执行范围未知。不能证明1168的政策压力直接导致1290的各企业拘押。已在global-gap-tracker首部更新来源等级、反证、地区/年代/组织和缺失原件；正式已有S196等来源，未重复新建S/C/Q/CV；chronology既有地理纠错及G7 KEP16/2001事实保留，不重复追加。
+
+**异G项待核缺口（G4 Aceh）**：Melvin引用的Kodam-I/Kohanda 1965年度250页报告、Djuarsa行动报告和死亡地图尚未直接取得原件，不能把同作者论文与书籍当作独立地方军方佐证。G1—G10全部OPEN，其他省县、G6监所、G7实际工会登记、G9关系索引及G10中文连续正文均未完成。
+
+本次已核实先前总账提交 **df564ed90f02dc4decb7a9bdb2f9b162f630b873**。当前续接动作：①目视核1168/1290扫描；②Palembang军警拘押令与PERBUM/SOBSI/Shell/Stanvac/PUSRI人事、工会、转岗及火灾原档；③Aceh 250页年度报告/死亡地图原影像及县级名单；④G1 VSTP/1926—28殖民原报；⑤G6 1995政治犯逐人释放/监所簿。此状态提交的最终HEAD应在提交后独立核验，避免在同一提交内自引用。长期GOAL持续OPEN。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G2/G4/G8 巨港地理错配已修正式时间线；G4 Aceh原始档案定位
 
 本次读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09、正式四CSV、chronology、滚动缺口总账和续接状态。直接重新打开1965-11-01美国电报1290 OCR https://nsarchive.gwu.edu/media/15705/ocr ，原文明确“Palembang S Sumatra”，与馆藏编辑摘要“North Sumatra”冲突。正式chronology早期一条仍误写北苏门答腊，本次已在main精确纠正；后部原有正确的巨港连续叙述保留，未重复S196/C229/C810/C1468/C1469。1965-10-23电报1168 OCR https://nsarchive.gwu.edu/media/15702/ocr 同时复核：当时SOBSI全国尚未正式被禁，但铁路、种植园、邮电、港口等产业组织被暂停活动的程度仍不清。两件原件均只核OCR，未逐页核扫描影像；电报是外交观察，不是印尼工会名册或地方军令。
