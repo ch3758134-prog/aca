@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-13｜G4 Aceh原始军方年报数字扫描定位；G1 1923《Sin Po》原刊入口
+
+**关键新突破（S855/C1522/Q378/CV402）**：找到莱顿大学KITLV馆藏原件《Laporan tahunan lengkap KODAM-I/KOHANDA Atjeh, tahun 1965》公开数字影像，馆藏号 **M m 941 N+**，永久标识 http://hdl.handle.net/1887.1/item:129556 ，公开扫描入口 https://commons.wikimedia.org/wiki/File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf 。已直接打开馆藏元数据和**第一页原件封面影像**，确认封面标题、1965年、KODAM-I Banda Atjeh；原PDF标注404页、114.96 MB，下载遭web单文件尺寸限制，**内文、军令、死亡地图、签字页均未阅读**。此前Melvin所述250页年报与现存404扫描页的页数差异尚未解释，可能涉及扫描附件或分页；不得自行假定。该原件是Melvin所引同一档案的可能数字副本，**不算对Melvin的独立佐证**；但使长期“原件无法定位”变为“原件已定位，待分段核读”。不可将1,941或约10,000从研究著作转记为原档独立核验。
+
+**异G项G1**：打开1923-05-26《Sin Po》周刊数字扫描的Wikimedia馆藏页 https://commons.wikimedia.org/wiki/File:Sin_Po_26_May_1923.pdf ，确认28页扫描存在，但**尚未阅读具体报纸内页**；其出版日期为5月26日，不能代替既有二手文献引用的5月28日《Sin Po》报道。须辨别周刊/日报系列，逐日核查VSTP罢工报道、Semaoen拘捕及约8000人数原始口径。
+
+**精准续接动作**：①按Commons PDF逐页缩略图或莱顿数字馆藏IIIF取Aceh年报目录、Djuarsa 89页报告、军事指挥图、死亡地图与签名页，逐页标注扫描页码/印刷页码；②核查250页与404扫描页的组成差异、馆藏来源及是否同一版本；③找1965-10-01/04/14军令原页并与Aceh县级独立名单交叉；④打开1923-05-26《Sin Po》扫描内页并另找05-28日报原版，不混同；⑤轮换G2 SOBSI/BTI/Gerwani基层及G6政治犯、G7工会登记的独立原件。G1—G10全部OPEN；本次最新已知前置HEAD 906586d633d456848c4a7a2193dc54fd5df37c26，最终HEAD提交后核验，不预写自引用SHA。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G1 1923铁路罢工原报定位与G4 Aceh档案独立性复核
 
 按AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit G1—G10、正式S/C/Q/CV与chronology核对本次范围。**G1跨年代异项**：直接打开IRPS 2021-11-14转载的Petrik Matanasi文章 https://irps.or.id/2021/11/mei-1923-aksi-mogok-buruh-kereta-api-yang-bikin-sewot-pemerintah/ ，文章具体引述1923-05-09《Darmo Kondo》关于Semaoen被捕、1923-05-12《Kaoem Moeda》关于军队部署、1923-05-28《Sin Po》关于约8000铁路工人参与、1923-07-11《Pemberita Makassar》关于Medan铁路工人减薪抗议。**访问等级仅为后世二手文章全文及其原报引述，未打开1923原报扫描**；8000人数及5仙减薪等暂不作为独立原件事实，尤其原文转述的事件与报道日期必须区分。精准原件任务：Delpher/印尼报刊档案按报纸名称+具体日期定位扫描，核记者消息来源、VSTP/铁路部门文件和殖民政府拘捕令；并查Aceh tram 1923-05-12、Medan 1923-07铁路行动，防止只用爪哇代替全域。
