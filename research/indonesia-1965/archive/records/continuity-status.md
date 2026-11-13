@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-14｜G6 1976—1977释放计划与执行落差
+
+本次读取AGENTS、goal-continuity、stage-access、continuity-status、四正式CSV表头及chronology。直接打开国际特赦组织《Amnesty International Report 1977》官方PDF（1977初版，PUB 79/00/77）https://www.amnesty.org/en/wp-content/uploads/2021/09/annual-report-1977.pdf ，印刷页186—189，尤其188—189页（网页抽取行2073—2105）。报告记载1976-12-01 Kopkamtib参谋长Sudomo宣布2500人释放，并承诺1977/1978各释放10000人；但该机构的印尼消息来源质疑2500人的实际释放数字，且截至1977年6月未获逐人清册。报告引1976/1977国际劳工组织专家委员会对布鲁岛强制劳动的意见；并引ICRC 1977-01-25至02-18对七处由政府选定监所的访问及其明确的样本/访问障碍限制。以上直接证明1977年国际特赦的当时报告及所引用声明，不能独立证明每一处监所实际人数或全国总量。另打开澳大利亚维多利亚大学馆藏1977-10 TAPOL Bulletin 24目录 https://vuir.vu.edu.au/26394/ ，其PDF下载本次返回错误，不能宣称阅读正文。法文同期报道 https://www.lemonde.fr/archives/article/1977/08/18/vingt-mille-prisonniers-politiques-seraient-liberes-avant-la-fin-de-1978_2878347_1819218.html 为苏哈托1977-08-16未来释放承诺的同期报道；尚未获得讲话全文。此链提示必须区分政府宣布、监所实际离开、转移/居家拘押、社会就业与监控。未完成四CSV全表去重，未新增正式编号、chronology或中文连续正文，避免覆盖并行研究及制造重复。
+
+精准续接：①取得Sudomo 1976-12-01原始讲话与政府2500人逐人释放名册，核1975年1309人与1976年2500人是否重叠；②读取1977年ILO专家委员会强制劳动公约第29号印尼原文及ICRC 1977-01/02访视原始声明；③取得TAPOL Bulletin 24 PDF原页，逐项核对1977年释放及转移；④取得1977-08-16苏哈托讲话原文，区分承诺与实际释放；⑤Moncongloe SPRIN/802/TPD/XII/1977及1977-12-20逐人清册，对照Komnas HAM证词。G1—G10与长期GOAL继续OPEN。本文件无法在同一提交内自引用其最终commit SHA；以提交返回及后续HEAD回读为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-13｜G8 d159与G6 ASA21/043/1995
 
 已读取2026-11-09 completeness-audit G1—G10、AGENTS、stage-access、goal-continuity、正式四CSV、chronology、project/research-status及长期缺口总账。G8直接读FRUS d159全文（既有S027），明确1965-10-22美国国务院提出秘密/半秘密小额援助可能性，10-27使馆1236号电报由d159脚注转述；均不证明实际批准或交付。G6直接读国际特赦1995-08-22 ASA21/043/1995官方紧急行动正文，区分1965政治犯Bungkus/Nataneal Marsudi与1988其他案件死囚，不能合并“七人”计数。G4 Aceh年报第9扫描页访问失败。详细证据等级、缺件与续查见global-gap-tracker。未完成全量CSV去重，不新增S/C/Q/CV、不虚称时间线/中文正文更新。精准续接：①FRUS d159脚注1236全文及303委员会审批—交付链；②1995司法部处决公告、Bungkus/Nataneal Marsudi原判决和监所登记；③Aceh年报扫描9—15页及地方命令；④1923-05-28 Sin Po日报原页；⑤Moncongloe 1977 SPRIN/802原件及释放清册。G1—G10 OPEN，长期GOAL未完成。
