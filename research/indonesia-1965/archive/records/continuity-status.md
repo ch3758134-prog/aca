@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-14 19:49 CST｜1968军令第二馆藏及地方清退卷宗
+
+本次核读AGENTS、goal-continuity、stage-access、四正式CSV表头和chronology开头。印尼文检索发现日惹特区官方档案第二馆藏条目 Bpad.RIS.T3.VI.1941，明确著录 Kep-028/KOPKAM/10/1968：https://arsip.jogjaprov.go.id/index.php/keamanan-pemilu-2 。与此前 Bpad.Orla T2.II.2.100 的 028 Kopkam.110/1968 和国际特赦英译编号相互印证目录编号，但未取得影像，不可判定两份实体文件完全相同。该卷组还列1971-06-18内政部关于按09/Kogab/5/66分类人员的电报 Bpad.RIS.T3.VI.1947。
+
+官方 Bpad.Orla T2.II.2 卷组连续著录：96 日惹地方清退报告、97 Gunungkidul农业部门Sakiman等人停薪、98 周期报告、99 1968获释政治犯监管决定、101 PNKA前被禁组织成员地址清册、102 农业渔业部门被解雇人数表、103 1975 BAKN行政通函、104 公共工程部门C2/C3类解雇。目录：https://arsip.jogjaprov.go.id/index.php/100-keputusan-panglima-komando-operasi-pemulihan-keamanan-dan-ketertiban-nomor-028-kopkam-110-1968-tentang-dasar-kebijaksanaan-penertiban-pembersihan-personil-aparatur-pemerintah-negara 。这构成中央军令—地方分类—单位停薪/解雇—释放后监管的原始档案追查路径，不是已核验的执行事实。2013年Yosef Djakababa论文摘要 https://journals.sagepub.com/doi/10.1177/186810341303200302 强调初期清退指令不能自动等同杀人命令；仅核摘要。
+
+正式四CSV尚未全表去重，未新增编号；chronology及中文正文尚未更新。精准续接：①按 Bpad.RIS.T3.VI.1941 与 Bpad.Orla T2.II.2.100 双馆藏号申请扫描件，核签署/编号/复本关系；②取得地方卷宗97/101/102/104核实际单位、分类、停薪和人数；③取得1971内政部电报及09/Kogab/5/66原令核选举关联；④正式四CSV全表去重后登记并更新1968—75 chronology；⑤轮换SOBSI/BTI/Gerwani、地方军令、布鲁岛、1998后工会，成熟后续写连续中文正文。GOAL与G1—G10保持OPEN。最终SHA以独立HEAD回读为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-14 18:51 CST｜G4/G6 KOPKAMTIB 1968清退令地方馆藏定位
 
 本次核读AGENTS、goal-continuity、stage-access、续接状态及四份正式CSV表头、chronology开头。新发现印尼日惹特区地方档案机构 DINAS PERPUSTAKAAN DAN ARSIP DAERAH DIY 的正式档案著录：**Keputusan Panglima Komando Operasi Pemulihan keamanan dan ketertiban Nomor 028 Kopkam. 110/1968 tentang Dasar Kebijaksanaan Penertiban/Pembersihan Personil/Aparatur Pemerintah/Negara**，档案层级Item，形成时间1968年，**35张**，档案识别码 **Bpad.Orla T2-Bpad.Orla T2.II-Bpad.Orla T2.II.2-Bpad.Orla T2.II.2.100**，著录者Sunarto。原馆藏目录 https://arsip.jogjaprov.go.id/index.php/100-keputusan-panglima-komando-operasi-pemulihan-keamanan-dan-ketertiban-nomor-028-kopkam-110-1968-tentang-dasar-kebijaksanaan-penertiban-pembersihan-personil-aparatur-pemerintah-negara 由搜索引擎全文索引提供上述字段，直接打开该馆藏页面返回502，**未读35张档案正文**。题名的「028 Kopkam. 110/1968」与国际特赦组织所刊 **KEP-028/KOPKAM/10/68** 可能是同一命令的不同转写或馆藏OCR错误，**尚未核对，不应直接判为同一件**。这一发现为寻找印尼文原件提供了可向馆方申请的具体馆藏号。
