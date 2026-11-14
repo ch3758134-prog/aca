@@ -1,3 +1,13 @@
+## ONGOING｜2026-11-14｜G1原报来源链与G4/G8东爪哇同期外交电报定位
+
+已重读2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity、正式四CSV表头、chronology与滚动缺口；以下证据层级不冒充全文核读。
+
+**G1：1921年VSTP原报来源链**。直接核对Wikimedia Commons文件页 https://commons.wikimedia.org/wiki/File:Soeara_Ra%27jat_30_April_1921.pdf ，8页、3.22MB，2023-07-05上传，上传来源为Marxists Internet Archive的同一期PDF；Wikisource索引 https://id.wikisource.org/wiki/Indeks:Soeara_Ra%27jat_30_April_1921.pdf 列出版者VSTP、Semarang及8页。两处为同一文件的传播链，**不是两个独立报刊证据**。本次核验文件元数据和来源链，尚未核读八页报文，不证明SI学校或具体工潮事实。另发现1921-05-16《Soeara Ra'jat》Tan Malaka《Sovjet atau Parlement?》首页图像的馆藏描述 https://commons.wikimedia.org/wiki/File:Soeara_Ra%27jat,_Tan_Malaka_-_Sovjet_atau_Parlement%3F.jpg ，来源标Harry Poeze 1976 p.135；目前只核到馆藏说明，尚未逐字核读报纸版面，也不可将图片说明当原报全文。下一步对照4月30日八页与5月16日首页图像，核VSTP、SI、Tan Malaka实际文字及刊期；追1923铁路罢工荷文/印尼文原报。
+
+**G4/G8：1965-11-04美国驻泗水领事电报194号**。直接打开美国国家安全档案馆文献页 https://nsarchive.gwu.edu/document/15707-document-11-telegram-194-american-consul ，明确日期1965-11-04、发自Surabaya致Jakarta，原件出处RG84 Entry P339 Jakarta Embassy Files Box14 Folder7；馆方说明其涉及东爪哇不同地区印尼军队镇压PKI。进一步打开OCR页 https://nsarchive.gwu.edu/media/15707/ocr ，但OCR严重乱码，**不能据此提取具体县名、部队命令、死者人数或美国实际行动**。当前证据等级：同期原件的馆藏身份与日期已核实，正文尚未可靠阅读；馆方摘要是后出描述。下一步直接打开PDF影像逐页转录，再与印尼地方军令及其他使馆电报交叉，区分美国领事所获报告与其亲眼观察、印尼军方实际行为及美国政策行动。
+
+**G1—G10持续OPEN**：G2基层组织、G3跨机关逐时行动、G4地区原令、G5性别族群幸存者、G6监禁流亡、G7当代劳工政党、G8对外实际交付、G9人物地名组织关系、G10台账去重与中文连续正文均未结。本次无可靠新历史行动原子事实，故不虚增S/C/Q/CV或修改chronology。精准续接：原报八页逐页；194号电报原PDF；轮换Flores/北苏门答腊地方原令、1979 ILO原发言、1998后工会原件；全表去重后再正式登记。长期GOAL未完成。
+
 ## ONGOING｜2026-11-14｜G1/G4 跨项原件形态纠错与档案定位（本次核验）
 
 **G1 1921 Semarang 学校及工运原报（新访问路径）**：直接打开印尼语 Wikisource 的《Soeara Ra'jat》1921-04-30 期索引 https://id.wikisource.org/wiki/Indeks:Soeara_Ra%27jat_30_April_1921.pdf ，页面明确列出版者 Vereniging van Spoor-en Tramwegpersoneel（VSTP）、Semarang、1921、共8页，校对状态“Untuk dibetulkan”。这是**原报扫描索引与页码入口**，本次未逐页核实新闻内容；不能用此4月期证明6月SI学校开办细节。另直接核验Wikimedia Commons 2026-09-03上传的《SI Semarang dan Onderwijs》14页PDF馆藏说明 https://commons.wikimedia.org/wiki/File:SI_Semarang_dan_Onderwijs_-_Tan_Malaka.pdf ：其来源是 Marxists Internet Archive 的后期文本，文件元数据明确 Microsoft Print To PDF，说明又提及1987年Yayasan Massa后期编辑材料；**虽标1921年作品，绝非1921原版印刷品的扫描原件**。与已登记S897的后期转录可能同源，必须全表去重，不能当第二份独立原始证据。缺件：1921原刊物理版本、1921年10月学校记录、学生名册、VSTP与SI支部会议记录。行动：逐页打开4月30日报纸、追其他1921期与独立学校文件，对照已有S892—S897，不能仅因Commons有新PDF就增加S号。
