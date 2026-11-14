@@ -1532,6 +1532,20 @@ S843–S846、S007–S008全文或相关章节已读。劳工运动：1958年Ted
 不同G项：KontraS印尼语Komnas HAM 1965—66调查执行摘要目录全文已打开（https://kontras.or.id/perpustakaan/regulasi/ringkasan-eksekutif-hasil-penyelidikan-tim-ad-hoc-penyelidikan-pelanggaran-ham-berat-peristiwa-1965-1966/），下载链接为https://drive.google.com/file/d/18V_EY-7XYUQZkcY1gQ3aFmm6WjUt-ep3/view；Drive页面只显示Loading，原PDF未读，**仅原件定位，不登记为全文证据**。优先取得该印尼语原文，核2012-05-09媒体所述3500名证人和英译349人差异，并逐地区核Flores、Medan、Buru、Bali、Moncong Loe等原始调查材料。正式CSV与chronology不因重复S127或未打开的PDF改动。G1—G10全部OPEN；下一轮接Meulaboh军区会议原件、KontraS PDF、北苏门答腊1951 P4D原令、1967西加里曼丹军令和Gerwani/BTI基层档案。
 
 
+### 2026-11-12｜1920—1921年报刊期次与出版身份
+
+- **已直接查看**：10 April 1920 *Soeara Ra’jat* no.3网络文本；30 April 1921 year 4 no.8完整八页重印扫描（首页及第4—6页高分辨率阅读）；16 May 1921 no.9仅有波泽1976年传记所转载的单页影像。波泽生平研究的相关章节/注释说明第9、10—11、13—15期连载，但这些期次原报并未读到。上述材料可证明报纸公开刊载了什么，不能证明工人罢工细节、全体SI成员看法或文章的社会影响。
+- **机构目录区分**：Perpusnas 1914微缩目录将另一份同名刊物记为Padang、Orang Alam Minangkabau、日刊、1830A/PN/M、第二年卷67—83期。不得只因标题相同便认定与1921年VSTP/PKI Semarang报纸属于一条连续刊物。
+- **缺失原件**：IISH当前catalogue与馆藏号、1921年第8—15期、1914年Padang reel、1921年10月小册子、三月/十月大会正式记录、1920年印刷/铁路/糖厂劳资双方材料。
+- **精准查询**：IISH current catalogue / Soeara ra’jat year 4 nos.8–15; Perpusnas reel `1830A/PN/M`; Monumen Pers and university newspaper repositories; Semarang VSTP/PKI press; colonial police mail reports and employer annual reports for the April 1920 strikes. GOAL仍OPEN。
+
+
+### 2026-11-12｜三宝垄伊斯兰联盟学校、学生组织与殖民教育限制（OPEN）
+
+波泽1976年传记第V章补出一条可追原始文书的组织实践：1921年三宝垄伊斯兰联盟学校、马拉卡的实用与政治教育方案、学生社团和村落募捐、殖民当局拒绝义卖许可并调查《国际歌》演唱的法律问题。该书据称转引地方报刊、学校摘要与政府往来；目前没有直接读到第10—16期报纸、1921年10月27日驻三宝垄居民学校摘要（mail report 1077x/21）、学校名册、筹款许可往来或《S.I. Semarang dan Onderwijs》小册子。人数有书内冲突：正文称开办50人、一个月80人、8月123人；注释称6月30日64人。不得把冲突数字压成单一精确序列。下一步调取所列原件，核课程、学费、学生来源、分校以及教育活动与三宝垄/中央伊斯兰联盟组织竞争的关系。相关S895、C1588–C1592、Q396、CV420。
+
+
+补充（2026-11-12）：已打开《SI Semarang dan Onderwijs》全文的后期电子转录S897。它基于1987年Yayasan Massa版本，拼写现代化并于2007年重录；出版者前言与马拉卡正文需分开。马拉卡的第一人称记述提供学生自治组织及11月13日大会的线索，但出席人数和时长仍为自报，原件与独立同期记录未取得。S895注释已定位《人民之声》第18期（1921-10-01）和第20期（1921-11-01）的教育文章页码。
 ### 2026-11-12｜G5/G7 帕卢受害者恢复权利的行政执行原件（OPEN）
 
 **证据等级A（已打开官方机构2015年度报告全文相关页）**：Komnas HAM《Laporan Akuntabilitas Kinerja 2015》，https://www.komnasham.go.id/files/20160908-laporan-akuntabilitas-kinerja--%246OLDDK4.pdf ，印刷页21—28，直接记载帕卢市长法规已出台、217户家庭得到援助，以及Komnas HAM、Komnas Perempuan、LPSK协调。正式登记S851/C1515/Q371/CV396。这里A仅指官方机构自身报告原件可核，**不等于受助名单或拨款独立核实**。217户与S850的514名核实受害者、485名愿陈述者分母不同。2015年约1800份证明及1212名获得医疗心理服务者是全国严重侵害案件范围，不可冒充帕卢1965专项统计。
@@ -1588,6 +1602,10 @@ S843–S846、S007–S008全文或相关章节已读。劳工运动：1958年Ted
 
 **跨G项缺口保持**：G1殖民VSTP与1948原刊；G2 Gerwani/SOBSI/BTI基层；G3 1965跨机关原令；G4 Aceh、北苏门答腊、爪哇、巴厘、Flores、西加里曼丹、Sulawesi地方执行；G5受害者个人/族群；G6监禁流亡；G7工会与政党执行；G8英美澳中苏和印尼—马来西亚跨境具体交付；G9人物/地点/组织索引；G10全文依赖和中文正文，全部OPEN。下一步取得1964年新闻部原刊第70页、KOTI/Kodam XII传达记录、Kadir完整访谈底稿及1966年正常化协定签署版，另转G2《Api Kartini》具体原刊页与G6 1995年14名政治犯判决/释放记录。
 
+
+## 2026-11-13｜与最新main并库后的登记状态
+
+远端原有编号保持不变；本地新增编号已统一调整为S864–S897、C1532–C1595、Q388–Q396、CV412–CV420。正式台账当前共880条来源登记、1578条主张、383条检索和407条覆盖记录。旧状态段落保留其当时检索范围；本段编号和行数是此次并库后的现行值。G1—G10及长期GOAL仍OPEN。
 ## ONGOING / GOAL仍进行｜2026-11-13｜G7法令原件与G4东爪哇异地核验
 
 G7（1998年工会重组）：直接打开印尼政府1998年第83号总统决定官方全文PDF https://peraturan.go.id/files/kp83-1998.pdf ，核第1—3条、1998-06-05签署/公布与Habibie/Akbar Tanjung署名；正式登记S854/C1520/Q376/CV400。其5日国内批准不同于既有S483/C827的ILO 6月9日国际登记。证据等级：政府签署原法全文已读；实际省县执行/工会注册/集体谈判尚无独立原件。下一步取PER-05/MEN/1998签署件、SBSI/PPBI地方登记、ILO申诉个案及工厂劳动争议记录。
@@ -1601,6 +1619,10 @@ G7：实际打开ILO NATLEX双语部长决定KEP.16/MEN/2001原文第10—12条 
 
 G4异项：实际打开1965-11-12美国使馆1425号电报OCR https://nsarchive.gwu.edu/media/15708/ocr 。Makassar华商损失90%与Bone被拘者死亡200人均来自同一名新教人士转述，不是独立地方统计。缺Makassar商户名册、Bone拘押与墓葬登记、地方军令。G1—G10全部OPEN。
 
+
+## 2026-11-13｜与最新main再次并库后的登记状态
+
+远端最新基点为 `178c044956b538534c8d02dd7e8567c63c4a034a`。保留远端在共同基线后的来源、事实、检索和覆盖新增；本地记录重编号为S864–S897、C1532–C1595、Q388–Q396、CV412–CV420，所有本地交叉引用同步更新。台账当前有效行数为source 883、claim 1584、search 388、coverage 412。G1—G10及长期GOAL仍OPEN。
 ## ONGOING / GOAL仍进行｜2026-11-13｜G4巴厘估算口径与G8美国外交观察核验
 
 重读2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity、正式四CSV开头、chronology与滚动缺口。异于此前巨港/Singkawang链，本次转向**Bali**。直接打开美国国务院FRUS 1964–1968卷XXVI第162号编者注全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d162 ：其引用1965-12-21使馆A-408、1966-02-25 A-527、1966-04-15 A-641等同期外交文件，记录**不同日期、不同信息渠道的估算**。12月21日使馆周报报道巴厘约一万人死亡，1966-02-25 A-527提到巴厘约八万人，1966-04-15 A-641使馆承认全国死亡数可能在十万至百万之间而无法确认。上述均为**外交报告中的估计或编者引述**，不是巴厘县级死亡名册、统一人口统计或彼此独立的实际死亡数字。A-408原件入口 https://nsarchive.gwu.edu/document/15720-document-24-airgram-408-joint-weeka-no-48 已打开，OCR https://nsarchive.gwu.edu/media/15720/ocr 严重乱码；本次未完成扫描逐页目视，不能将OCR中的人名/数字当校准结果。A-527/A-641本次仅FRUS引述，尚未打开原电。
