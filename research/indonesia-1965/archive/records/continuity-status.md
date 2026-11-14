@@ -2250,3 +2250,14 @@ G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q
 异项G4：重新打开1965年Aceh军区年报原件馆藏页 https://commons.wikimedia.org/wiki/File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf ，核实404页、114.96MB、印尼文、作者KODAM-I Banda Atjeh、馆藏号M m 941 N+、莱顿/KITLV 2010数字化。**仅核对元数据，未逐页核读1965年10月军令**；未增加具体军方行动事实或地方死亡数字。
 
 覆盖边界：G6/G7 1979劳工/政治犯与国际监督；G4 Aceh 1965军方档案；其余G1—G3、G5、G8—G10均OPEN且保留既有未结事项。当前新增的是原始档案**精确获取入口**，未新增已核实的印尼具体行动事实，故不虚增S/C编号、不修改chronology或中文正文。下一执行：①从ILO 1979年第65届Record of Proceedings打开印刷27—29页并查Indonesia、Buru、forced labour；②与TAPOL35印刷第3页转述逐句对照；③取ILO委员会报告区分105号强迫劳动与87号结社自由；④在Aceh扫描按目录定位1965年10月1—14日原令、签署页及地名；⑤轮换Flores、西加里曼丹与1923年铁路原报，正式台账去重后并库。长期GOAL未完成。
+
+
+## ONGOING / GOAL仍进行｜2026-11-14｜G4 Aceh军方统计定义与G6/G7 ILO原件分卷辨析
+
+本次重读2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity、滚动续接、四份正式CSV现行表头和chronology路径。核查发现正式CSV均位于archive/records/，根目录同名文件404不能视为缺失；已有S863/C1531/Q387/CV411，未重复占用编号。
+
+**异项G4 Aceh**：直接打开Jess Melvin于2015-10-01发表的作者说明（https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide），其展示军方情报地图照片并描述10月1—5日启动、6日起公开杀戮、14日起军控场所系统性杀戮的分期。另打开Grace Leksana对Melvin著作的评论（https://www.sacw.net/article14218.html），评论据著作引述军方档案记录1965-10-06至11-02期间Aceh **1,941宗公开杀戮记录**。该数字是研究者据军方文书的有界记录数，不是Aceh全省全部死者总数，更不是全国总数；本次未目视核验军方原始地图数字或逐县签署页。2018年ABC印尼语报道（https://www.abc.net.au/indonesian/2018-04-19/peneliti-australia-buktikan-keterlibatan-militer-dalam-pembunuh/9675626）也提到1,941，但同源于Melvin，**不得当独立交叉佐证**。需要取得原军报图表与各县执行记录，再核地图类别、时段、遗漏和实际埋葬地点。
+
+**长期链G6/G7 ILO**：直接确认ILO《Record of proceedings》目录 https://www.ilo.org/public/libdoc/ilo/P/09616/ 列1979年第65届会议合订记录30.5MB；另外ILO《Résolutions adoptées》目录 https://www.ilo.org/public/libdoc/ilo/P/09738/ 另列1979-65决议595.3KB。二者**不是同一卷**，决议文本不能代替大会发言、强迫劳动监督或结社自由案件。合订记录链接重定向至webapps.ilo.org，当前读取返回500；未取得TAPOL35所引pp.27—29的逐字记录，不能证实其中关于印尼/布鲁岛的具体陈述。另有ILO官方Series B为结社自由委员会报告 https://libguides.ilo.org/documentation/OB ，亦须按案号独立查找。以上仅为原始文件目录核验，不产生新的印尼事件事实。
+
+**跨G项缺口维护**：G1铁路工运原报、G2基层SOBSI/BTI/Gerwani、G3跨机关广播与军令、G4 Aceh之外各省暴力、G5妇女及华人幸存者、G6拘押与组织重建、G7 1998后工会、G8外国行动原令、G9人物地名索引、G10台账与连续中文HTML均未闭合。下一步：①获取Aceh军报军方情报地图、逐县数字和签署页；②通过ILO官方PDF直链或机构仓储获取1979第65届合订会议记录pp.27—29；③区分ILO会议记录、决议、委员会报告和TAPOL转述；④轮换Flores主教1966-04-28函及West Kalimantan 1967广播原件；⑤获取1923年VSTP铁路罢工同期荷文/印尼文原报并全表去重后正式并库。未修改正式CSV、chronology或中文正文；长期GOAL和G1—G10全部OPEN。
