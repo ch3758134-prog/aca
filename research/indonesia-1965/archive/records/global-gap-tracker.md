@@ -1,3 +1,13 @@
+## ONGOING / 2026-11-14｜G4 Aceh档案原件路径与G6 ILO结案跨核（持续OPEN）
+
+本次再次读取 `completeness-audit-2026-11-09.md` 的G1—G10及AGENTS、阶段授权、GOAL、正式CSV路径与续接资料。跨地区链选G4 Aceh；持续链选G6/G2 ILO 537。**证据级别严格分离**。
+
+**G4 Aceh新核验（已打开学术专著全文PDF文字层，非原始军方卷宗）：** Jess Melvin, *The Army and the Indonesian Genocide* (Routledge 2018), https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf ，目录印刷页20—21明确展示“Attachment: Intelligence map”军方死亡地图及“Kodam-I/Aceh Province”军方时间线首叶；表7.1、7.2对应1965-10-18—1966-02-05与1966-05-17—1967-03-31公务员清退文书。作者前言说明来自Banda Aceh原情报机关档案约3000页文件，并特别说明西Aceh县政府1965-10-11特别会议文件包含8份共21页、东Aceh Pantja Sila Defence Front建立及地方政府支持文件。**这些是书中对档案的描述/图像再现，不能将原始军令已独立取得或数字独立核验。** 下一步逐页核对印刷20—21页图像及原印尼文命令的签署人/编号/日期，取得1965-10-11会议包原扫描，按西/东/中Aceh分格建人地组织事件链；核军方“公开死亡”地图数字与秘密处决是否统计口径不同。相关同作者2017论文与2018专著**不构成两个独立证据来源**。出版商目录 https://www.routledge.com/The-Army-and-the-Indonesian-Genocide-Mechanics-of-Mass-Murder/Melvin/p/book/9781138347977 。
+
+**G6/G2 ILO 537持续链：** 1971年第122号最终报告官方索引可定位 https://wwwex.ilo.org/dyn/f?p=1000:50002:0::NO:50002:P50002_COMPLAINT_TEXT_ID:2899133 ，搜索索引显示第44段追述1968/1969三次审理、第45段说明印尼当时批准98号公约而未批准87号；本次尝试直接打开该网页遭redirect loop，**不得标为本次成功打开全文**。此前核过的1971最终结论与Sudarno Heru下落不明继续保留；应以ILO Official Bulletin Series B同期印本和政府原函独立复核，不能将结案理解为证明失踪者获释或申诉被否定。ILO馆藏索引 https://libguides.ilo.org/documentation/OB 。
+
+**横向G1—G10缺口仍开放：** G1 1923铁路原报，G2 Gerwis/SOBSI/BTI基层，G3 1965跨机关，G4 Aceh外北苏门答腊/爪哇/巴厘/Flores/West Kalimantan/Sulawesi，G5性别/族群名册，G6拘押流亡及工会转型，G7当代工会执行，G8外国实际交付，G9人物地名，G10正式CSV编号去重及中文连续正文。**本记录只完成证据定位；未完成正式四CSV去重与chronology/正文并库，不生成S/C/Q/CV编号。GOAL OPEN。**
+
 ## ONGOING / GOAL仍进行｜2026-11-14｜G6跨国工会申诉原始程序记录与G4西加里曼丹同期军方公开说法
 
 已核读完整性审计G1—G10及项目授权、续接规则，核对正式四CSV位于本目录；本次跨G6/G2（SOBSI镇压、国际申诉）与G4/G8（西加里曼丹军事叙述）核验，均不视为地方执行原件。
