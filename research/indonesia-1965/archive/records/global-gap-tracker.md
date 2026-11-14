@@ -1718,3 +1718,11 @@ G1—G10继续OPEN：G1早期工运原报、G2基层账册、G3跨机关时间�
 **G4，1965 Aceh**：KITLV M m 941 N+军区年报扫描404页的馆藏元数据直接确认，尚未逐页读军令；Jess Melvin 2015研究者文章全文已打开，分期解释为10月1—5日启动、6日起公开杀戮、14日起系统性杀戮、12月至1966年中巩固。来源级别：原始扫描元数据+后出研究者全文，未直接读军令；缺件：原件签署页、10月1—14日具体命令、死亡地图与县级统计；行动：逐页核原件并和研究者转录比较。不得把作者解释直接当独立核验的地方命令。
 
 G1殖民与早期组织、G2群众组织基层、G3跨机关时序、G5性别族群、G8外援交付、G9人物地点索引、G10正式台账与连续中文正文仍OPEN。此次尚未完成正式CSV全量去重，故未登记新编号。
+
+## ONGOING｜2026-11-14｜G6/G7 1979 ILO原始记录入口与G4 Aceh军报访问等级复核
+
+本次重新读取2026-11-09 completeness-audit（G1—G10）、AGENTS、stage-access、goal-continuity、现行滚动档案以及正式CSV表头和chronology开头；research-status.md在本目录不存在，不据此假定研究停止。跨链核验结果：国际劳工组织官方1979年第65届国际劳工大会档案页 https://libguides.ilo.org/conference/61-65 明确会议日期为1979-06-06至27；ILO官方文献指南 https://libguides.ilo.org/documentation 提供1919—2014年会议记录入口；https://libguides.ilo.org/forced-labour-en/standards 明确1979年第65届大会有关于第29号和第105号公约的Report III (Part 4B)强迫劳动总调查。以上已打开的是ILO官方**会议/出版物目录及说明**，尚未阅读第65届针对印尼的具体发言、临时记录27—29页或委员会逐字报告；不能据此确认TAPOL转述的具体印尼争论。ILO官方档案说明 https://www.ilo.org/ilo-archives 明确1948—1978年历史档案馆藏和ILC、TUR系列，可作为寻找原始通信与工会自由申诉材料的机构路径，目录不等于已读案卷。
+
+异项G4：重新打开1965年Aceh军区年报原件馆藏页 https://commons.wikimedia.org/wiki/File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf ，核实404页、114.96MB、印尼文、作者KODAM-I Banda Atjeh、馆藏号M m 941 N+、莱顿/KITLV 2010数字化。**仅核对元数据，未逐页核读1965年10月军令**；未增加具体军方行动事实或地方死亡数字。
+
+覆盖边界：G6/G7 1979劳工/政治犯与国际监督；G4 Aceh 1965军方档案；其余G1—G3、G5、G8—G10均OPEN且保留既有未结事项。当前新增的是原始档案**精确获取入口**，未新增已核实的印尼具体行动事实，故不虚增S/C编号、不修改chronology或中文正文。下一执行：①从ILO 1979年第65届Record of Proceedings打开印刷27—29页并查Indonesia、Buru、forced labour；②与TAPOL35印刷第3页转述逐句对照；③取ILO委员会报告区分105号强迫劳动与87号结社自由；④在Aceh扫描按目录定位1965年10月1—14日原令、签署页及地名；⑤轮换Flores、西加里曼丹与1923年铁路原报，正式台账去重后并库。长期GOAL未完成。
