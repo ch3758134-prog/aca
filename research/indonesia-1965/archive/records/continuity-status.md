@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-14｜G7 1979年庭审与政治犯跨链核验（本次）
+
+已重新读取AGENTS、goal-continuity、stage-access、正式四CSV表头及chronology现行路径，续接前核查main文件blob SHA。直接打开康奈尔《Indonesia》27期1979年《Defense of the Student Movement》全文PDF（https://ecommons.cornell.edu/bitstreams/ccfeccc1-edbe-491b-b5b6-5fbb9c4f93b3/download），核对编者第1—2页及Lukman Hakim庭审抗辩第3—9页；原刊编者列出六城被告姓名，并称原颠覆嫌疑转为侮辱国家元首起诉。必须区别编者汇总、被告自述与司法原件；没有逐案判决或完整起诉书，不可升级为独立司法事实。另直接打开1979年6月《TAPOL Bulletin》第34期原刊PDF（https://vuir.vu.edu.au/26371/1/TAPOL34_compressed.pdf），已确认全文可访问；该刊目录列Doddy Chusniati Suriadiredja起诉书、学生审判、释放后前政治犯生活与校园正常化等，可形成司法/政治犯两条交叉线，但本次尚未逐页核读对应篇章，不能把目录当成文章事实。康奈尔1981年Heri Akhmadi 178页长辩护书的HathiTrust入口（https://ci.nii.ac.jp/ncid/BA02958684）仅为馆藏定位，未读全文。此次未完成正式CSV全表去重，故不新分配S/C/Q/CV编号，也未声称更新chronology或中文连续正文。
+
+**下一次精准执行**：①逐页核TAPOL34中Doddy起诉书及学生审判篇，比较Cornell 27期的姓名、起诉罪名和日期；②继续Cornell 27期印刷第14—32页的Heri抗辩及1977—78学生运动内部编年，抽取逐日行动和组织关系；③取1978—79年法院原起诉书、拘押命令和判决书，核Lukman/Heri/Doddy三案差异；④取得1981年Heri长辩护书原文及1978年学生会章程/投票文件，查版本与组织授权；⑤完成四CSV全表去重、正式登记、chronology及成熟中文正文，再轮换1965地方军令、SOBSI/BTI/Gerwani、1977释放与1998后工会。G1—G10及长期GOAL永久OPEN。此次文件无法自引用自身最终commit SHA；以提交响应和独立main HEAD回读为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-14｜G7 同一原刊第二证据节点（续查）
 
 继续阅读已打开的1979 Cornell《Indonesia》27期第10—13页。Lukman Hakim第10页自述1978-02-16被捕，至1978-10-26按颠覆嫌疑讯问，随后取得书面解除但因另一刑法拘押令仍被羁押；这属于被告本人庭审陈述，需查两份拘押/释放命令原件，不可当作已核实的官方司法时序。Heri Akhmadi的exceptie题头明确1979-02-05万隆初审法院；第11页称1979-01-31检方宣读起诉，援引刑法134、136bis、137、207、208条及第5/PNPS/1959号法律，并说明其职务为经ITB学生投票产生的学生会总主席，接受学生协商委员会监督；第12—13页称白皮书与学生立场宣言是检控依据。这里可直接证明被告如何描述组织授权、检控法条与庭审日期，不能替代法院起诉书、法条当时正式版本或选举纪录。原件同上 https://ecommons.cornell.edu/bitstreams/ccfeccc1-edbe-491b-b5b6-5fbb9c4f93b3/download ，PDF全文已打开；本轮只细读至印刷13页。**新增精准问题：**ITB学生协商委员会章程/1977—78投票和书面工作报告、1978-10-26 Lukman两份相继拘押文书、1979-01-31万隆起诉书与各法条适用版本。G1—G10和GOAL继续OPEN；本条同样尚未正式四CSV全量去重登记。
