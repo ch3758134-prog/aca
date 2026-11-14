@@ -1699,3 +1699,11 @@ G1 1923原报、G2群众组织账簿、G4 Aceh/北苏门答腊/爪哇/巴厘/Flo
 **异地区G7/G9（Minahasa，2000年）**：同一全书第十章印刷447页（PDF文本约6717—6720行）记述GMIM第72届宗教会议于2000-04-24至29日，一方面反对撤销1966年第25号反共禁令，另一方面提出前共产党员全面恢复权利的计划。**证据级别：2008年后出教会史学叙述，尚未取得2000年会议决议原文；这两项并存立场不能简单合并为支持或反对平反。** 应追GMIM 72nd Synod原始决议、印尼政府拟撤销第25号决定的公文和落实记录，核其权利恢复计划是否执行；不能以书中转述当作实际实施。
 
 G1—G10仍全部OPEN；G1 1923原报、G2基层组织账册、G3军政指令、G4各地原令、G5受害人原始名册、G6释放清册、G7组织决议、G8外援交付、G9关系索引、G10中文连续正文仍缺。下一步：①Da Cunha 1999对应页及1966-04-28主教原函；②Wolokoli/Keut/Wairklau当地名单和教区葬埋簿；③KOMOP 1966-02军令和五县通信记录；④GMIM 2000-04-24—29决议；⑤轮换Aceh军区年报、西加里曼丹广播、1923《Sin Po》。本次核验主要细化既有S639的原件追索，不重复新增S/C/Q/CV，长期GOAL未完成。
+
+## ONGOING｜2026-11-14｜G4 Aceh原件扫描与G6政治犯释放数字
+
+G4：直接核实Wikimedia Commons馆藏页，1965年KODAM-I/KOHANDA Atjeh军区年报扫描404页、114.96MB、Leiden/KITLV馆藏号M m 941 N+，https://commons.wikimedia.org/wiki/File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf 。本次只读馆藏元数据，尚未读内页。Jess Melvin 2015年公开全文叙述10月1日、4日军政指令，属研究者引述，需逐页对照原件、签名、死亡地图和各县执行记录。地区Aceh；机构KODAM-I；缺件为原件逐页定位、执行清册；障碍为大型扫描尚未核读。
+
+G6：直接打开1979年8月TAPOL Bulletin第35期PDF并阅读第1—2页：https://vuir.vu.edu.au/26350/1/TAPOL35_compressed.pdf 。刊物编辑部报告1977年释放政治犯数字从此前官方10,000变成11,833，额外1,833由B类933和X类900构成，声称1977年5—10月释放；这只是同期倡议刊物对FEER/Jenkins和KOPKAMTIB数字的争议转述，不能证明实际释放。同期转录TEMPO报道Roedjito Kartokusumo自1965-10-30被拘押、辗转Solo、Semarang、Ambarawa、Yogyakarta，尚缺原刊、监所与司法档案。地区全国/中爪哇；组织KOPKAMTIB、Antara、TAPOL；缺件FEER 1979-05-18和07-27、KOPKAMTIB原始清册、TEMPO原文；障碍为二手转录。
+
+G1—G10继续OPEN：G1早期工运原报、G2基层账册、G3跨机关时间、G4地域军令、G5妇女族群、G6拘押释放、G7改革后组织、G8外援交付、G9人物地名关系、G10正式并库和连续中文正文。此次尚未正式并入四CSV，不分配新编号。
