@@ -2219,3 +2219,14 @@ G2：直接打开Gerwani 1961《Program Gerwani》及《Peraturan Dasar Gerwani�
 已读取AGENTS、stage-access、goal-continuity、2026-11-09完整性审计、正式四CSV及chronology。G4核实Aceh KODAM-I 1965年军报404页扫描馆藏入口（仅元数据，未读内页）。G6直接阅读1979-08 TAPOL35 PDF第1—2页：1977释放人数10,000与11,833之争，额外1,833分B类933/X类900；转录TEMPO所述Roedjito Kartokusumo跨中爪哇监所羁押经历。两项均须与政府原始清册、司法档案交叉核对；没有把刊物说法升级为独立事实。已更新长期缺口总账，正式CSV和chronology此次未改。
 
 精准续接：①Aceh原扫描目录、10月军令及死亡地图逐页核；②FEER Jenkins 1979-05-18、07-27报道；③KOPKAMTIB/Antara释放统计原件；④TEMPO Roedjito原文与Surakarta监所档；⑤Flores主教函、1923铁路原报及1998后劳工组织原件。G1—G10 OPEN，长期GOAL未完成。
+
+
+## ONGOING / GOAL仍进行｜2026-11-14｜1979劳工罢工、政治犯监管与Aceh档案交叉核验
+
+本次重新读取AGENTS、stage-access、goal-continuity、2026-11-09完整性审计、continuity-status、global-gap-tracker及正式四CSV和chronology现行表头。G7长期链：**直接打开并读取1979年8月《TAPOL Bulletin》第35期PDF全文可检索正文** https://vuir.vu.edu.au/26350/1/TAPOL35_compressed.pdf ，尤其刊物印刷第5—7页“Strike Movement Spreads”“Reactions to the Strikes”。原刊引述《Merdeka》1979-02-23称雅加达—茂物公路Daralon纺织厂约1700名工人因临时工日薪承诺未履行而罢工；引《Merdeka》1979-01-29称Goodyear轮胎厂约300名工人提出工资要求、警方介入；引《Tempo》1979-03-17称Citibank等多家外资银行员工提出加薪诉求；引《Asiaweek》1979-04-27称FBSI主席Agus Sudono认为工会无罢工基金，并引KOPKAMTIB首长Sudomo维持罢工禁令。这些是**1979年同期维权刊物转述当时报刊**，不是本次已读Merdeka/Tempo/Asiaweek原报或厂方/工会原始档；工资、人数与管理措施均须回查原报。第3页所述ILO第65届大会争论同样是TAPOL报道，未读ILO会议逐字记录。
+
+G6/G7交叉：同刊第6页“Ex-Tapols Beware!”引《Pelita》1979-06-28，报道Panggabean要求加强对获释B类政治犯的监督，代理新闻部长Sudharmono特别点到劳工领域；这只证明TAPOL当时转述该报道，未核原始会议记录。第4页刊出署名Lilyani S.、转译自《Tempo》1979-07-28的Savana Jaya来信，称其父1978年11月虽已释放，家属仍无法获准离开布鲁岛；为当事人陈述，非行政出境许可原件。**新增具体跨链问题**：国家安全机构如何将1979工资抗争与前政治犯监管连接，FBSI的制度立场和工厂基层实际行动是否一致。
+
+异项G4 Aceh：重新核实KITLV馆藏KODAM-I/KOHANDA Atjeh 1965年报扫描 https://commons.wikimedia.org/wiki/File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf ，404页、馆藏号M m 941 N+，仅打开扫描元数据；尚未读签署命令内页。另直接打开Jess Melvin 2015研究者文章 https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide ，作者将Aceh行动分为10月1—5日启动、6日起公开杀戮、14日起军事控制场所系统性杀戮、12月至1966年中巩固四段；**此为研究者基于档案的解释，不能冒充本次直接读取军报原件或独立全国结论**。
+
+G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q/CV；chronology和中文连续历史正文未修改。精确续接：①取得Merdeka 1979-01-29及02-23原报核Goodyear/Daralon人数与管理回应；②取得Tempo 1979-03-17、Pelita 1979-06-28、Asiaweek 1979-04-27原报，核FBSI与KOPKAMTIB原话；③取ILO第65届大会1979强迫劳动公约委员会原记录，区别公约与工会自由；④逐页读取Aceh KODAM-I扫描中的1965-10-01至14日命令和签署页；⑤正式CSV去重并库后更新chronology及成熟中文正文，轮换Flores、West Kalimantan、G1铁路原报。
