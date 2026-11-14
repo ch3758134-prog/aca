@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-14 11时 CST｜G7 1979年学生审判原始辩护译文取得
+
+本次重新核读AGENTS、goal-continuity、stage-access、续接状态及四正式CSV与chronology的现行路径、表头和首行；本轮没有完成四CSV全量去重，故不虚报S/C/Q/CV新增。读取时main HEAD=aff2017d0cf21f87cac87056c38a8f83eb9fc269（另有并行提交可能发生，写入后须独立回读）。
+
+**重要新原件：**实际打开康奈尔《Indonesia》1979年4月第27期《Defense of the Student Movement: Documents from the Recent Trials》全文PDF（32页，英文译文，https://ecommons.cornell.edu/bitstreams/ccfeccc1-edbe-491b-b5b6-5fbb9c4f93b3/download ），核读印刷第1—9页。编者第1—2页称三篇材料分别是Lukman Hakim和Heri Akhmadi的exceptie（初步抗辩）及学生运动自身编年，承认编译删去若干委员会会议细节。编者列六城被告名单：雅加达、万隆、棉兰、巨港、泗水、日惹，称除两位领袖外至少29名其他学生领袖被控；属于编者当时汇总，不能据此认为完整起诉名册。第3页明确署Lukman Hakim 1979-02-21向中雅加达初审法院提交的exceptie。第4—9页本人抗辩称庭审虽然宣告公开，却限制学生旁听及报纸报道；声称逮捕期间殴打、电击、隔离及校园文件被扣押；这属于被告亲历陈述及指控，不是独立法院调查结论。第9页本人点名Ibrahim G. Zakir与Dodi Ch. Suriadiredja为印尼大学学生会副职，并称学生会档案被取走；这提供可核对的组织内部职位关系。编者第2页称早期颠覆罪嫌后来改为侮辱国家元首罪，但尚未取得原起诉书/改诉文书。**新发现的具体解释线索：**Lukman在第5页对苏加诺死后官方纪念方式的变化作政治批评，显示1978—79学生抗议不能简单归入“PKI延续”或单一亲苏加诺阵营；应按当事人观点、组织关系和政府指控分层。
+
+**其他新原件定位（仅目录）：**Heri Akhmadi 1979-06-07至10日万隆审判辩护长文，1981年Cornell 178页英文译本《Breaking the Chains of Oppression of the Indonesian People》，https://ci.nii.ac.jp/ncid/BA02958684 ；Sukmadji Indro Tjahjono 1979年《Indonesia di bawah sepatu lars》260页原书目录 https://books.google.com/books/about/Indonesia_di_bawah_sepatu_lars_pembelaan.html?id=x0fbHAAACAAJ 。目录不能冒充阅读正文。
+
+**精准未完：**①逐页读Cornell 1979年原刊印刷10—32页，提取Heri Akhmadi exceptie及学生运动编年，按人/日期/机构建立交叉证据；②取1979年六城原起诉书、判决书及1978年学生会文件，核“颠覆→侮辱国家元首”的逐案变更；③取得《Berita Pengadilan Mahasiswa》原刊、1981 Heri 178页辩护全文与Sukmadji原书，查组织协作和版本差异；④正式四CSV全量去重后登记本次已读原件、原子主张、检索和覆盖，再更新chronology与可成熟的中文连续正文；⑤轮换1965地方军令、SOBSI/BTI/Gerwani、1977释放清册与1998后工会。G1—G10和长期GOAL保持OPEN。最终提交SHA不可在同一次文件内容中自引用，以GitHub提交响应与独立HEAD回读为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-14｜G7 1979学生审判原刊与白皮书中段核读
 
 本次核读AGENTS、goal-continuity、stage-access、continuity-status与四正式CSV全表（来源截至S861、主张C1529、检索Q385、覆盖CV409）；chronology在研究目录根路径404，待查实际路径。直接打开康奈尔1978年《Indonesia》第25期白皮书英文译文全文索引 https://ecommons.cornell.edu/bitstreams/05787564-603b-4dd1-bf66-ade81a5988be/download ，核印刷155—156页：学生会将Palapa卫星采购贿赂指控、Bulog东加里曼丹Budiaji案、Pertamina及议会调查权失效并置，提出对发展战略及国家机关监督机制的批评；这些是学生会的当时主张，不是贪腐指控的独立证实。白皮书第151—153页已由S861/C1529登记，切勿重复分配来源号。
