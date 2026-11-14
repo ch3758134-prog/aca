@@ -1675,3 +1675,11 @@ G1 1923原报、G2群众组织账簿、G4 Aceh/北苏门答腊/爪哇/巴厘/Flo
 **异项G4/G5，1963—1974西加里曼丹**：直接核对Universitas Pendidikan Indonesia论文馆藏 https://repository.upi.edu/31600/ ，作者研究PGRS/PARAKU由苏加诺对马来西亚对抗时期的支持转为新秩序时期军事打击，摘要还把1967 Mangkok Merah与1974年武装组织终结联系起来；本次仅核馆藏摘要/章节下载清单，**未核原始军令、1967地方广播或1974停火文书**。另核2017年Superman论文摘要 https://www.ojs.fkip.ummetro.ac.id/index.php/sejarah/article/view/728/0 ，作者强调非PGRS成员华人亦被迫逃往Singkawang；这是研究解释与受害范围线索，不能替代地方人口名册。原先AJU著作的RRI Pontianak动员说法仍只有书目简介 https://pustaka-bpkxii.org/pustaka/negara-di-balik-pembantaian-etnis-tionghoa-di-kalimantan-barat-tahun-1967%C2%A0-bagian-dari ，不能当作广播原件。区分反PGRS军事行动、普通华人被驱逐、难民安置与不同来源死亡统计。
 
 **精确续接**：①取Cornell白皮书PDF并逐页核1977-11-28宪章及1978-01组织声明；②取1979庭审原文与法院卷宗核被告姓名、法条、日期；③进入UPI论文第三、四章核所引1967地方军令/广播的原始出处；④追1967 RRI Pontianak录音/文字稿、Kodam XII/Peperalda命令及Singkawang/Pontianak难民登记；⑤转向Aceh、Flores地方原件及1923《Sin Po》原报，补正式CSV去重后再注册新证据。当前无新独立原件，**不新增S/C/Q/CV，不声称chronology或中文正文更新**。长期GOAL仍OPEN。
+
+## ONGOING｜2026-11-14｜G7白皮书英译全文突破与G4西加里曼丹跨年代复核
+
+**G7当前研究链**：已直接打开Cornell《Indonesia》25期1978年《White Book of the 1978 Students' Struggle》英文译文PDF，全文可检索（1972行）；重点核读印刷151—156页。与此前仅能访问馆藏目录不同，现可直接核对：ITB学生会主席Heri Akhmadi署名的反苏哈托连任宣言日期为1978-01-14；白皮书前言署1978-01-16；学生会授权编写号017/MDT/DM ITB/1978；主要材料包括政府第二个五年计划。学生会的贪腐和制度批评为当事方主张，未经逐项独立证实。来源级别：同期组织原文**英译全文**，不是印尼语签署原件；正式入库S861/C1529/Q385/CV409并更新chronology。缺件：印尼文41页原刊、授权令、印刷及禁令、1979起诉书；下一步逐页读第157—182页经济数据和文献引注并与官方计划对照。
+
+**不同G项G4/G5西加里曼丹**：直接打开HRW 1997年西加里曼丹冲突背景全文 https://www.hrw.org/reports/1997/wkali/Brneo97d-02.htm ，其回顾1967年Sanggau Ledo事件并报告300死、55000人流离失所等数字；这属于1997年人权组织后见叙述，原始1967年伤亡清册、人口迁移登记与军方枪支发放记录仍缺，数字不升级为已核事实。J-STAGE松村智雄2015年论文摘要 https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/en 提出军方动员、Oevaang Oeray政治竞争与内陆贸易中断的机制解释；仅摘要阅读，不当成地方军令。进一步定位二手研究中1967-09-21 RRI Pontianak广播、1967-10-11村长集会通知的具体日期，但该研究同时提示可能冒用Oeray名义，广播原件和发布机关仍需查。下一步向印尼地方报刊、RRI馆藏、Peperalda/Kodam XII/Tanjungpura追原稿及签署记录，并按县分离驱逐、死亡与后续经济影响。Aceh、Flores、北苏门答腊、爪哇和巴厘的军方地方原件依旧高优先。
+
+**G1—G10开放总账**：G1殖民铁路原报未得；G2 SOBSI/BTI/Gerwani基层原件未得；G3 1965机关命令链待核；G4各地军令和名册未得；G5性别/族群个案未得；G6拘押释放个人名册未得；G7本次取得学生组织英译原文但其他年代组织仍缺；G8外国援助实物交付凭证未得；G9人物地点关系需核；G10中文连续历史与正式档案去重未完成。来源层级、地域、年代、组织、缺件与阻碍依各项记录持续保留。长期GOAL OPEN。
