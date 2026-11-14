@@ -1,3 +1,13 @@
+## ONGOING / 2026-11-14｜G4日惹农业机关清退档号歧义 + G7工会法原文核验
+
+已重读completeness-audit-2026-11-09.md全部G1—G10、AGENTS、stage-access、goal-continuity、continuity-status；并读取正式四CSV与chronology，核对现有S897、C1595及较晚续查，避免将重复材料新编为独立来源。长期链从日惹地方政治清退继续，跨项选择G7 2000年工会结社法直接核原件。
+
+**G4/G5/G6（中爪哇以外的日惹Gunungkidul）：**官方DPAD网页 /94 与 /95 搜索索引分别显示「1965年11月底前反G30S筹款清单」与「1966年Gunungkidul农业局涉Gestok/PKI文职人员处理」；然而两页馆藏正文均显示T2.II.2.94，且邻接列表也重复.94。此前续接认为 /95 是独立馆藏号的推断必须降级：**URL尾号95不等于已经证明实体档号T2.II.2.95**。两页直接打开均502，仅检索索引可见。官方汇总目录另列T2.II.2.96（1966地方清退报告）、.97（1967 Sakiman等农业局人员停薪）、T2.I.4.40（1966-06-18 20:00 Kepatihan关于PKI/Murba空出地方议席的会议），这证明存在不同文件的目录线索，不证明具体被处分人数、会议决议或款项去向。证据级别：**官方馆藏目录/搜索索引；原始卷宗未读**。链接：https://arsip.jogjaprov.go.id/index.php/94-daftar-penerimaan-dana-untuk-pemberantasan-g-30-s-di-daerah-istimewa-jogyakarta-sampai-akhir-bulan-nopember-1965 ; https://arsip.jogjaprov.go.id/index.php/95-penyelesaian-penindakan-personil-sipil-yang-tersangkut-gestok-atau-pki-dari-dinas-pertanian-kabupaten-gunungkidul ; https://arsip.jogjaprov.go.id/downloads/reports/senarai-arsip-multi-subyek-diy-itemList.html 。缺件：馆员确认实体号及原件影像、.96十五张报告、.97工资/人事卷宗；行动：优先以题名及层级向DPAD核对重复编号，再将行政清退、停薪与个人遭遇串联，不预设所有被列人员实际被解雇。
+
+**G7（1998以后法律与组织）：**直接打开印尼政府法律数据库《2000年第21号工会法》完整PDF，逐条核读第5、9、18、20、28、30—31、38、43条。法律规定至少10名工人可组工会；第9条禁止政府、雇主、政党等干预组建；第18、20条要求向地方劳工机关申报登记，合规申报原则上21个工作日内登记；第28条禁止解雇、降职、调动、减薪和恐吓等阻碍组织活动；第43条规定妨碍组织权的刑罚；第30—31条涉及会费、合法经营收入及外国资助申报；第38条规定特定条件下法院可解散工会。**这些是法定规则，不证明2000年后任何省份/工厂实际享有权利或执行处罚。** 法律文本 https://peraturan.bpk.go.id/Download/33380/UU%20Nomor%2021%20Tahun%202000.pdf ; 官方元数据 https://peraturan.bpk.go.id/Details/44988/uu-no-21-tahun-2000 。证据级别：**政府公布的法律原文全文已读**；缺件：各省登记册、工厂级反工会投诉/法院判决、SBSI/KSPI等组织会员与经费账、2000—2026执行时间序列；行动：先按省份及产业抽取登记和争议判决，再判断权利落实，不将合法工会等同PKI继承组织。
+
+**跨G1—G10缺口**：G1殖民铁路/革命工会原件；G2 SOBSI/BTI/Gerwani等基层名册；G3 1965跨机关时序；G4 Aceh、Medan、Java各地、Bali、Flores、Kalimantan、Sulawesi地方命令；G5妇女、华裔及受害者家庭；G6拘押释放与组织重建；G7工会法实施/当代组织；G8英美澳中苏具体行动链；G9人物地点机构关系表；G10 CSV冲突去重、按事件日期排序的chronology与连续中文正文，均OPEN。此次正式CSV全量去重和正文改写未完成，故不虚增S/C/Q/CV。下一接力先核DPAD /94-/95重复实体号与.96/.97原件，再查2000工会法实际登记/执法，并轮换Flores与West Kalimantan地方档案。长期GOAL未完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-14｜G4东爪哇183号电报第三页原件与G4/G5巴厘数字交叉核验
 
 已重新读取2026-11-09完整性审计及AGENTS、stage-access、goal-continuity、continuity-status，核对正式台账所在路径与前次续接；G1—G10均OPEN。本次沿当前东爪哇原始外交电报链继续，并切换到巴厘这一不同地区的高价值暴力统计缺口。来源等级和局限如下。
