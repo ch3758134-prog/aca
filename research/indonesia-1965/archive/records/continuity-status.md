@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-14 18:51 CST｜G4/G6 KOPKAMTIB 1968清退令地方馆藏定位
+
+本次核读AGENTS、goal-continuity、stage-access、续接状态及四份正式CSV表头、chronology开头。新发现印尼日惹特区地方档案机构 DINAS PERPUSTAKAAN DAN ARSIP DAERAH DIY 的正式档案著录：**Keputusan Panglima Komando Operasi Pemulihan keamanan dan ketertiban Nomor 028 Kopkam. 110/1968 tentang Dasar Kebijaksanaan Penertiban/Pembersihan Personil/Aparatur Pemerintah/Negara**，档案层级Item，形成时间1968年，**35张**，档案识别码 **Bpad.Orla T2-Bpad.Orla T2.II-Bpad.Orla T2.II.2-Bpad.Orla T2.II.2.100**，著录者Sunarto。原馆藏目录 https://arsip.jogjaprov.go.id/index.php/100-keputusan-panglima-komando-operasi-pemulihan-keamanan-dan-ketertiban-nomor-028-kopkam-110-1968-tentang-dasar-kebijaksanaan-penertiban-pembersihan-personil-aparatur-pemerintah-negara 由搜索引擎全文索引提供上述字段，直接打开该馆藏页面返回502，**未读35张档案正文**。题名的「028 Kopkam. 110/1968」与国际特赦组织所刊 **KEP-028/KOPKAM/10/68** 可能是同一命令的不同转写或馆藏OCR错误，**尚未核对，不应直接判为同一件**。这一发现为寻找印尼文原件提供了可向馆方申请的具体馆藏号。
+
+本次重新直接打开1977年国际特赦组织报告 https://www.amnesty.org/en/wp-content/uploads/2021/06/asa210221977en.pdf ，PDF共76页，目录印刷118页起为上述1968年决定及1969年修订的英译节录；印刷121页起为1976-12-01释放声明英译。报告本身并非印尼文原令，也未核实日惹馆藏与英译是否逐条对应。另检得IPT 1965最终报告 https://www.concernedhistorians.org/content_files/file/le/681.pdf 附录D1.c转引1977年国际特赦文本；**这是同一来源的再传播，不能算独立交叉证实**。
+
+本次只读取四CSV表头/开头记录，未完成全表去重，不分配S/C/Q/CV新编号，chronology和成熟中文正文未更新。精准续接：①按档案号 Bpad.Orla T2.II.2.100 向日惹档案机构寻找35张扫描件、目录影像或线下调阅程序；②核实馆藏题名028 Kopkam.110/1968与KEP-028/KOPKAM/10/68是否确为同件，逐条对照印尼原文、英译删节及1969修订；③查地方公务员清退执行名册、单位公函及人员分类A/B/C的地方差异；④完成四CSV全表去重后正式登记本次目录发现、失败访问及来源依赖，更新1968 chronology；⑤轮换BTI/SOBSI/Gerwani、1965地方军令、布鲁岛劳动与1998后工会原件，成熟后再续写连续中文正文。GOAL与G1—G10永久OPEN。写入前已重读本文件最新blob SHA；本提交不能自引用自身最终commit SHA，须用提交响应及独立main HEAD回读保存提交锚点。
+
 ## ONGOING / GOAL仍进行｜2026-11-14 17:54 CST｜G6/G4 1977国际特赦组织原报告与1968—69军令英译本
 
 本次直接打开1977年国际特赦组织原版《Indonesia: An Amnesty International Report》（AI Index PUB 77/00/77；https://www.amnesty.org/en/wp-content/uploads/2021/06/asa210221977en.pdf），核读目录、印刷90—101页布鲁岛章节与附录I（印刷118页起）。这是**国际特赦组织1977年公开调查报告全文**，不是印尼政府或ILO的原始卷宗。报告明确收录KOPKAMTIB司令决定KEP-028/KOPKAM/10/68（1968-10-18生效）及KEP-010/KOPKAM/3/1969（1969-03-03发布，追溯1968-10-18）的**英文节录/译文**，涉及公务员/军人政治审查、A/B类定义；应与印尼文正式军令及实际地方执行档案比较，不能把译文视为原件全部条款。报告还附1976-12-01 KOPKAMTIB参谋长发布的释放声明英译（附录II，印刷121页起）。这给此前泛泛寻找“地方军令”提供精确编号和文本入口。
