@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-14｜G7 ITB白皮书英译全文已打开，G4跨地区缺口继续
+
+本次读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit、当前continuity-status、global-gap-tracker、四正式CSV全表以及chronology，确认研究台账位于archive/records而非研究目录根。Cornell英译白皮书全文 https://ecommons.cornell.edu/bitstreams/05787564-603b-4dd1-bf66-ade81a5988be/download 本次可直接打开（1972提取行），核读印刷151—156页；明确区分1978-01-14 Heri Akhmadi署名立场宣言与1978-01-16前言日期。已按最新正式编号新增S861/C1529/Q385/CV409，更新chronology及global-gap-tracker，非仅预登记。尚未读完全部英译页或取得印尼文原版。
+
+异项G4/G5：直接打开HRW 1997西加里曼丹背景全文 https://www.hrw.org/reports/1997/wkali/Brneo97d-02.htm ，其中对1967年反华暴力的数字属后见机构叙述而非原始军令；另核松村2015期刊摘要。未取得RRI Pontianak 1967-09-21原播音稿、1967-10-11集会通知、Peperalda/Kodam XII军令、难民清册；二手文章提到可能冒用Oevaang Oeray姓名，须对照原始签署与广播记录。
+
+**下一接续精确动作**：①读Cornell白皮书印刷157—182页的经济统计和参考资料，逐项核官方第二五年计划；②寻找1978印尼文原版Buku Putih Perjuangan Mahasiswa 1978及学生会第017/MDT/DM ITB/1978号授权；③核1978-01-20军方查禁和1979 Heri Akhmadi判决/起诉书原件；④追1967 Pontianak RRI播音稿、Kodam XII命令和Sanggau Ledo/Anjungan/Monterado逐地迁移登记；⑤轮换G1铁路原报、G2组织财务、G6释放名册及Aceh/Flores军区原件。提交后需独立回读main HEAD，状态文件不预言最终SHA。G1—G10全部OPEN；长期GOAL未完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-14 08:49 CST｜G7 1978学生运动原始文本定位及访问失败
 
 本次重新读取AGENTS、goal-continuity、stage-access、续接状态、四份正式CSV的表头与首行及chronology开头；并核验GitHub main（研究时读到287afc2b5c7e800ec89d046565fefc2e5de3583e，其他并行写入可能改变HEAD，须再次回读）。延续G7 1978年ITB学生运动，不将本次文献发现等同于已读原文。
