@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-14 20:54 CST｜1965—1971日惹档案新交叉线（目录级）
+
+已读取AGENTS、goal-continuity、stage-access、四份正式CSV表头与开头记录、chronology开头及前次续接状态。继续印尼文档案检索并打开日惹地方档案的**可直接阅读的馆藏清单** https://arsip.jogjaprov.go.id/downloads/reports/senarai-arsip-multi-subyek-diy-itemList.html 。新增重要未闭合线索：Bpad.Orla T2.II.2.91为1965年Gunungkidul农业部门清退指令执行报告；T2.II.2.94出现同编号不同题名的著录（一项为1965年11月底前日惹反G30S资金收入/筹款清单，另一项为1966年Gunungkidul农业人员处置），**编号冲突必须核原始馆藏层级，不能合并为同一件**；T2.I.4.40记1966-06-18 20:00在Kepatihan召开地方政党理事会会议，议题为重新分配PKI和Murba离开的DPRD-GR席位；T2.II.2.97记1967年Gunungkidul农业部门Sakiman等人因被解雇而停薪。这些目录将1965政治行动、经费、议席重组、单位清退与工资中断联系成可追查的**文件序列**，但尚不证明会议决议、实际资金去向或个人处分理由。
+
+另打开1971年选举安全档案的官方著录 https://arsip.jogjaprov.go.id/index.php/surat-dari-sekretariat-pemda-diy-no-k644-ii-a-71-kepada-komandan-daerah-kepolisian-096-yogyakarta-dan-letkol-umar-said-tentang-pemananan-langsung-pemilu ：Bpad.RIS.T3.VI.1942（1970-05-15军区关于Hansip/Wanra参与1971选举的电报）、1943（地方政府对警方及Umar Said的选举安保函）、1945（1971-07-03选举日安保无线电报）、1947（1971-06-18内政部21/Kwt/VI/71号涉及09/Kogab/5/66政治分类人员的电报）。目录可证卷宗存在，**未取得电报正文**，不能据此推定清退人员实际被排除选举或具体军事部署。
+
+本次未完成四正式CSV全表去重，不新分配S/C/Q/CV，未更新chronology和成熟中文正文；本轮是馆藏定位而非原件核页。精准续接：①申请T2.II.2.91/94两条同号不同题名原始档案，核1965清退与反G30S资金流；②取T2.I.4.40 1966-06-18会议记录与席位名单，核PKI/Murba议席转移；③取T2.II.2.97工资停发通知及Gunungkidul人事簿，查Sakiman等实际处分；④取RIS.T3.VI.1942/1943/1945/1947与09/Kogab/5/66原令，核政治分类和1971选举安保之间是否存在实际操作关联；⑤四CSV全表查重后登记本次目录与反证检索、补chronology及成熟中文正文，并轮换群众组织/地方镇压/1998后劳工。GOAL及G1—G10均OPEN。最新提交SHA以提交响应和独立main HEAD回读为准，文件不能自引用本提交SHA。
+
 ## ONGOING / GOAL仍进行｜2026-11-14 19:49 CST｜1968军令第二馆藏及地方清退卷宗
 
 本次核读AGENTS、goal-continuity、stage-access、四正式CSV表头和chronology开头。印尼文检索发现日惹特区官方档案第二馆藏条目 Bpad.RIS.T3.VI.1941，明确著录 Kep-028/KOPKAM/10/1968：https://arsip.jogjaprov.go.id/index.php/keamanan-pemilu-2 。与此前 Bpad.Orla T2.II.2.100 的 028 Kopkam.110/1968 和国际特赦英译编号相互印证目录编号，但未取得影像，不可判定两份实体文件完全相同。该卷组还列1971-06-18内政部关于按09/Kogab/5/66分类人员的电报 Bpad.RIS.T3.VI.1947。
