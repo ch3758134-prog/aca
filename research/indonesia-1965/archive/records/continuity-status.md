@@ -2236,3 +2236,11 @@ G6/G7交叉：同刊第6页“Ex-Tapols Beware!”引《Pelita》1979-06-28，�
 异项G4 Aceh：重新核实KITLV馆藏KODAM-I/KOHANDA Atjeh 1965年报扫描 https://commons.wikimedia.org/wiki/File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf ，404页、馆藏号M m 941 N+，仅打开扫描元数据；尚未读签署命令内页。另直接打开Jess Melvin 2015研究者文章 https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide ，作者将Aceh行动分为10月1—5日启动、6日起公开杀戮、14日起军事控制场所系统性杀戮、12月至1966年中巩固四段；**此为研究者基于档案的解释，不能冒充本次直接读取军报原件或独立全国结论**。
 
 G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q/CV；chronology和中文连续历史正文未修改。精确续接：①取得Merdeka 1979-01-29及02-23原报核Goodyear/Daralon人数与管理回应；②取得Tempo 1979-03-17、Pelita 1979-06-28、Asiaweek 1979-04-27原报，核FBSI与KOPKAMTIB原话；③取ILO第65届大会1979强迫劳动公约委员会原记录，区别公约与工会自由；④逐页读取Aceh KODAM-I扫描中的1965-10-01至14日命令和签署页；⑤正式CSV去重并库后更新chronology及成熟中文正文，轮换Flores、West Kalimantan、G1铁路原报。
+
+## ONGOING｜2026-11-14｜G6/G7 1979 ILO原始记录入口与G4 Aceh军报访问等级复核
+
+本次重新读取2026-11-09 completeness-audit（G1—G10）、AGENTS、stage-access、goal-continuity、现行滚动档案以及正式CSV表头和chronology开头；research-status.md在本目录不存在，不据此假定研究停止。跨链核验结果：国际劳工组织官方1979年第65届国际劳工大会档案页 https://libguides.ilo.org/conference/61-65 明确会议日期为1979-06-06至27；ILO官方文献指南 https://libguides.ilo.org/documentation 提供1919—2014年会议记录入口；https://libguides.ilo.org/forced-labour-en/standards 明确1979年第65届大会有关于第29号和第105号公约的Report III (Part 4B)强迫劳动总调查。以上已打开的是ILO官方**会议/出版物目录及说明**，尚未阅读第65届针对印尼的具体发言、临时记录27—29页或委员会逐字报告；不能据此确认TAPOL转述的具体印尼争论。ILO官方档案说明 https://www.ilo.org/ilo-archives 明确1948—1978年历史档案馆藏和ILC、TUR系列，可作为寻找原始通信与工会自由申诉材料的机构路径，目录不等于已读案卷。
+
+异项G4：重新打开1965年Aceh军区年报原件馆藏页 https://commons.wikimedia.org/wiki/File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf ，核实404页、114.96MB、印尼文、作者KODAM-I Banda Atjeh、馆藏号M m 941 N+、莱顿/KITLV 2010数字化。**仅核对元数据，未逐页核读1965年10月军令**；未增加具体军方行动事实或地方死亡数字。
+
+覆盖边界：G6/G7 1979劳工/政治犯与国际监督；G4 Aceh 1965军方档案；其余G1—G3、G5、G8—G10均OPEN且保留既有未结事项。当前新增的是原始档案**精确获取入口**，未新增已核实的印尼具体行动事实，故不虚增S/C编号、不修改chronology或中文正文。下一执行：①从ILO 1979年第65届Record of Proceedings打开印刷27—29页并查Indonesia、Buru、forced labour；②与TAPOL35印刷第3页转述逐句对照；③取ILO委员会报告区分105号强迫劳动与87号结社自由；④在Aceh扫描按目录定位1965年10月1—14日原令、签署页及地名；⑤轮换Flores、西加里曼丹与1923年铁路原报，正式台账去重后并库。长期GOAL未完成。
