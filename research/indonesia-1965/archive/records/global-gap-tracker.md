@@ -1842,3 +1842,14 @@ G1殖民与早期组织、G2群众组织基层、G3跨机关时序、G5性别族
 **G4/G5地区与组织覆盖**：1965后日惹、Bantul、Sleman，农业、渔业、公务部门及PNKA铁路劳动者；来源等级官方档案目录，非名单/执行原件。**G6跨年代长链**：将1965—68人事清退与1975年行政通函、获释政治犯监管及职工住址簿连成可核对的制度追踪路径；尚不证明跨机关实际执行或具体受害者个人经历。**缺件与阻碍**：101住址簿原页、102计数表与统计定义、103通函正文、104处分卷宗、99/100签发文本；网页reports视图明确无相关报告，未见开放扫描。下一动作：先分别调取101/102原页核人员/单位/县及日期，再以103/104核后续政策和执行，交叉检查同名、统计去重与1975年后人事影响；同时转向Flores/West Kalimantan地方军令，防止日惹材料造成新的地域失衡。
 
 **G1—G10长期缺口保持OPEN**：G1早期铁路与殖民组织原报；G2 SOBSI/BTI/Gerwani基层簿；G3军政跨机关命令；G4全国各省军令/清退；G5受害者家庭与分类；G6释放、迁徙、职业后果；G7改革后工会实践；G8外国介入原件；G9人物地点组织关系索引；G10正式CSV去重、时间线和中文连续历史正文。此次只核验目录，没有足以登记为历史执行事实的新原件，不分配S/C/Q/CV，不把目录写成中文正文已证实事件。下一次须首先定位正式四CSV的真实仓库路径并去重后补登记；本次正式台账及chronology未改。GOAL未完成。
+
+
+## ONGOING / GOAL仍进行｜2026-11-14｜Flores 1966军方信函编号与西加里曼丹1967组织机制
+
+已重读 main 的 completeness-audit-2026-11-09.md（G1—G10）、AGENTS、stage-access、goal-continuity及滚动状态；正式CSV/chronology在仓库根目录及研究目录直取404，**不能据此断言文件不存在于其他路径**，本次未虚编编号。继续Flores长期链，并以西加里曼丹不同地区G4/G5/G8高价值缺口交叉调查。
+
+**Flores／Sikka／Bola，1966-03-06至04-28（G4/G5/G6）**：直接打开John Mansford Prior 2011《The Silent Scream of a Silenced History》开放PDF全文 https://repository.divinity.edu.au/divinityserver/api/core/bitstreams/662d52ff-005b-4845-918c-959a06ea50d0/content ，第136页脚注58及正文。该研究**逐段引述但并未提供军方信函影像**：1966-03-06神父J.F. Pede da Lopez干预Bola约45人被捕；1966-03-15 KOMOP军方警告函，署Major Soemarno，Kodim 1607/KOMOP，文号**B.061/III/1966**，警告神职人员不得干预清剿，要求暂时调离神父；1966-04-28 Gabriel Manek致Maumere堂区神父Eugenius Soru信，批评当地教会为其晋铎银禧庆祝并为三名神父辩护。Prior称V.B. da Costa将军方函副本带至雅加达内政部长，此后下令停止杀戮；**这条传递—命令—停杀因果链目前仅为研究者叙述，未取得交接凭据、内政部原令或县级死亡记录，不能升级为已证执行**。对比此前Brill章节及其Da Cunha 1999脚注，Prior提供更精确文号、签署人、收件人和日期，但可能共享访谈/教会档案，不能视为独立复核。下一步以B.061/III/1966、Kodim 1607/KOMOP、Eugenius Soru、Manek 1966-04-28检索教区卷宗及地方军方档案；找1966年4月停止行动的具体命令。
+
+**West Kalimantan，1967（G4/G5/G8，异地区）**：直接阅读Matsumura Toshio 2015《Dayak Politics in Anti-Chinese Demonstration of 1967》期刊开放摘要 https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/en （**摘要，不是已读论文全文**），作者提出Oevaang Oeray与Palaoensoeka政治竞争、Partindo与地方军方关系、1967年10月mangkok merah动员、驱逐华裔及内地商贸供应恶化的解释。该论文是后出学术解释，不能代替1967地方命令、组织通告或人口迁徙清册。另核HRW 1997报告 https://www.refworld.org/reference/countryrep/hrw/1997/en/23874 ，其历史回顾记1967-07-16 Sanggau Ledo空军基地军火库袭击、10月驱逐、至少300死与55,000迁移；**后出报告、数字和责任叙述需追脚注原件，不能直接与其他估算合并**。发现开放专著《Regime Change and Ethnic Politics in Indonesia: Dayak Politics of West Kalimantan》 https://library.oapen.org/bitstream/handle/20.500.12657/34518/1/421239.pdf 的研究方法章节指出其作者使用西加里曼丹地方档案馆、ANRI、1967地方报刊、Partindo地方组织文件、澳大利亚和荷兰馆藏，是追索**地方原件馆藏路径**的入口；本次只核到该段，未核全书具体脚注。下一步追该书1967章节的具体档号、报刊日期、Oeray公告原文、Sanggau Ledo军方记录及Pontianak迁徙名册。
+
+**G1—G10均OPEN**：G1早期工运、G2群众组织、G3跨机关、G4各省军令、G5受害者、G6监禁流亡、G7当代劳工、G8外部行动、G9索引、G10正式CSV/chronology/中文连续正文均未结。此次新增的是可精确追索的**后出研究引述的军方函件文号**及西加里曼丹原件馆藏路线；未核到原件扫描，故不登记为原件已读、不编S/C/Q/CV、不虚报正文更新。
