@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-14｜G7 1979学生审判原刊与白皮书中段核读
+
+本次核读AGENTS、goal-continuity、stage-access、continuity-status与四正式CSV全表（来源截至S861、主张C1529、检索Q385、覆盖CV409）；chronology在研究目录根路径404，待查实际路径。直接打开康奈尔1978年《Indonesia》第25期白皮书英文译文全文索引 https://ecommons.cornell.edu/bitstreams/05787564-603b-4dd1-bf66-ade81a5988be/download ，核印刷155—156页：学生会将Palapa卫星采购贿赂指控、Bulog东加里曼丹Budiaji案、Pertamina及议会调查权失效并置，提出对发展战略及国家机关监督机制的批评；这些是学生会的当时主张，不是贪腐指控的独立证实。白皮书第151—153页已由S861/C1529登记，切勿重复分配来源号。
+
+新打开维多利亚大学保存1979年4月《TAPOL Bulletin》第33期原刊全文 https://vuir.vu.edu.au/26377/1/TAPOL33_compressed.pdf ，印刷第1—3页：刊物报道六城超过30名学生领袖受审，Lukman Hakim于1979-02-21雅加达法庭发言；并报道学生自办《Berita Pengadilan Mahasiswa》，由Badan Kerja-Sama Pembelaan Mahasiswa Indonesia出版，地址Student Centre UI, Salemba 4, Jakarta Pusat。刊物第3页转载刑法134、137、207、208条及1959年第5号总统决定部分文字，说明所涉法律路径；报道律师关于酷刑、程序不公的指控，但未取得独立法庭卷宗。TAPOL为同期倡议刊物，含被告直接引语及转述，证据层级不能混同原始起诉书。另康奈尔1979年《Indonesia》第27期1—32页《Defense of the Student Movement》馆藏 https://ecommons.cornell.edu/entities/publication/eba3095f-6d0b-4b1b-8e26-b581d35dd822 已确认含Lukman Hakim与Heri Akhmadi的抗辩、运动编年，全文仍待打开。HRW 1998 https://www.hrw.org/legacy/reports98/indonesia2/Borneote-04.htm 为后世对各地运动和镇压的综合解释，不是1978军令。
+
+**精准未完**：①完整核1978白皮书157—182页、逐项核第二五年计划原数据及1977-01-25《纽约时报》Palapa报道，不能将白皮书控诉当既定事实；②获取1979康奈尔《Defense of the Student Movement》全文与《Berita Pengadilan Mahasiswa》1—3期原刊，核1979-02-21 Lukman Hakim法庭陈述；③取1978印尼文白皮书RR.70、ITB学生会017/MDT/DM ITB/1978授权及军方查禁令；④核1979起诉书、判决书与1959年第5号总统决定原文，区分具体罪名和判决；⑤按当前四CSV最大编号完成S/C/Q/CV正式去重登记并定位chronology真实路径，推进成熟中文连续正文，轮换1965地方军令、SOBSI/BTI/Gerwani及1998后工会原件。GOAL与G1—G10保持OPEN。提交SHA不能自引用，需独立HEAD回读。
+
 ## ONGOING / GOAL仍进行｜2026-11-14｜G7 ITB白皮书英译全文已打开，G4跨地区缺口继续
 
 本次读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit、当前continuity-status、global-gap-tracker、四正式CSV全表以及chronology，确认研究台账位于archive/records而非研究目录根。Cornell英译白皮书全文 https://ecommons.cornell.edu/bitstreams/05787564-603b-4dd1-bf66-ade81a5988be/download 本次可直接打开（1972提取行），核读印刷151—156页；明确区分1978-01-14 Heri Akhmadi署名立场宣言与1978-01-16前言日期。已按最新正式编号新增S861/C1529/Q385/CV409，更新chronology及global-gap-tracker，非仅预登记。尚未读完全部英译页或取得印尼文原版。
