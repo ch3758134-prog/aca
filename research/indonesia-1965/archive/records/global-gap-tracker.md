@@ -1,3 +1,11 @@
+## ONGOING / 2026-11-14｜G2 Gerwis同期自述与G4/G5 Flores地域反证入口
+
+已重读2026-11-09 completeness-audit、AGENTS、stage-access、goal-continuity、continuity-status，确认G1—G10均OPEN。长期G2链从1964 Umi Sardjono报告目录转向1954年Gerwis成员Darmini在《Women of the Whole World》1954年1月增刊第34页的同期发言转录，当前直接打开的是2026年民间数字档案**转录全文片段** https://gerwani.logosid.app/teks ，非原刊扫描。Darmini自称1951年首次大会会员6,000、1953年妇女大会时37,000、1954年第二次大会前55,049、163支部；1952年铁路工人妻子联合会10支部/4,000人加入，1953年8月苏拉威西PERWIN地方组织加入；并声称在占碑石油区成立争取同工同酬和社会保险的委员会，苏门答腊与苏拉威西开展产假权利宣传。这些是**组织代表在国际刊物发表的同期自述**，不是独立核验的会员册、活动实绩或官方统计；与1958年Geeta Mukherjee基于Suwarti口述的1954年80,000人数字有潜在定义/日期冲突，须查原刊、Gerwis大会记录及地方会员簿。1958年文章同站转录还称种植园妇女开展识字、产假、月经假诉求及女工干部培养，但它是采访性组织叙述，不能视作地方独立核验。来源 https://gerwani.logosid.app/teks （1954 Darmini；1958 Mukherjee条目）；另一1964 Umi Sardjono报告仅31页书目 https://search.alexanderstreet.com/preview/work/bibliographic_entity%7Cbibliographic_details%7C3366026 。**下一行动**：进入单篇原文与刊号扫描，核1954人数、铁路职工家属组织及Jambi地方委员会，和SOBSI/铁路工会档案交叉；查1964 Gerwani农村妇女组织的县级活动。
+
+跨地区G4/G5选择Flores与东努沙登加拉1965镇压：直接阅读印尼天主教媒体2020-10-03专题导言 https://www.katolikana.com/2020/10/03/gereja-dalam-prahara/ ，其中将Flores/Kupang列为调查涉及地区，但没有可据以确立杀戮行动、人数或教会机构参与的地方原始文件。**证据级别：后出媒体调查导言，非地方执行证据**；缺失Flores教区1965—1967书信、教区会议纪要、地方军令、拘押/墓葬及受害者口述的原始出处。下一行动：沿专题子报道寻找具体教区、神父、日期和原件引用，再与地方军事行政及幸存者口述核对；不以媒体标题推断教会责任。
+
+G1早期组织、G3跨机关时间、G6拘押流亡、G7改革后组织、G8外部介入、G9索引、G10正式CSV去重/时间线/中文连续正文均未结。本次为转录与导言核验，未对正式S/C/Q/CV完成去重，不登记新历史执行事实，chronology及正文不虚增。GOAL仍OPEN。
+
 ## ONGOING / 2026-11-14｜G4日惹农业机关清退档号歧义 + G7工会法原文核验
 
 已重读completeness-audit-2026-11-09.md全部G1—G10、AGENTS、stage-access、goal-continuity、continuity-status；并读取正式四CSV与chronology，核对现有S897、C1595及较晚续查，避免将重复材料新编为独立来源。长期链从日惹地方政治清退继续，跨项选择G7 2000年工会结社法直接核原件。
