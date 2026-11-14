@@ -2207,3 +2207,9 @@ G2：直接打开Gerwani 1961《Program Gerwani》及《Peraturan Dasar Gerwani�
 ## ONGOING / GOAL仍进行｜2026-11-14｜Flores与Minahasa跨地区原件追索
 
 重读2026-11-09 G1—G10完整性审计、授权规则、四CSV、chronology与滚动缺口总账。直接复核既有S639的2008年Brill教会史全文：Flores章节印刷253—256页明确提出1966年KOMOP、Keut/Wairklau、Wolokoli 45人、1966-04-28 Gabriel Manek信件及Da Cunha 1999对应引注；Minahasa章节印刷447页记GMIM 2000-04-24—29第72届会议同时反对撤销反共禁令与主张前共产党人恢复权利。二者均为后出研究者叙述，**原始军令、神职函、会议决议均未打开**，不能将作者叙述或数字升格为原件事实。来源S639已注册，不重复编号；本次细化缺口总账，未新建正式S/C/Q/CV，也未声称修改中文历史正文。精准续接：Da Cunha 1999 pp.34-38/90-98/206-216与1966-04-28主教函；Wolokoli 45人及Keut/Wairklau墓地原件；1966 KOMOP五县通信令；GMIM 2000年72届会议决议；轮换Aceh/West Kalimantan和1923《Sin Po》原报。G1—G10 OPEN；长期GOAL未完成。
+
+## ONGOING / GOAL仍进行｜2026-11-14｜Aceh军报扫描与TAPOL35释放数字
+
+已读取AGENTS、stage-access、goal-continuity、2026-11-09完整性审计、正式四CSV及chronology。G4核实Aceh KODAM-I 1965年军报404页扫描馆藏入口（仅元数据，未读内页）。G6直接阅读1979-08 TAPOL35 PDF第1—2页：1977释放人数10,000与11,833之争，额外1,833分B类933/X类900；转录TEMPO所述Roedjito Kartokusumo跨中爪哇监所羁押经历。两项均须与政府原始清册、司法档案交叉核对；没有把刊物说法升级为独立事实。已更新长期缺口总账，正式CSV和chronology此次未改。
+
+精准续接：①Aceh原扫描目录、10月军令及死亡地图逐页核；②FEER Jenkins 1979-05-18、07-27报道；③KOPKAMTIB/Antara释放统计原件；④TEMPO Roedjito原文与Surakarta监所档；⑤Flores主教函、1923铁路原报及1998后劳工组织原件。G1—G10 OPEN，长期GOAL未完成。
