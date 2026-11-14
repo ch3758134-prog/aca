@@ -1792,3 +1792,14 @@ G1殖民与早期组织、G2群众组织基层、G3跨机关时序、G5性别族
 异项G4：重新打开1965年Aceh军区年报原件馆藏页 https://commons.wikimedia.org/wiki/File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh,_tahun_1965,_M_m_941_N%2B.pdf ，核实404页、114.96MB、印尼文、作者KODAM-I Banda Atjeh、馆藏号M m 941 N+、莱顿/KITLV 2010数字化。**仅核对元数据，未逐页核读1965年10月军令**；未增加具体军方行动事实或地方死亡数字。
 
 覆盖边界：G6/G7 1979劳工/政治犯与国际监督；G4 Aceh 1965军方档案；其余G1—G3、G5、G8—G10均OPEN且保留既有未结事项。当前新增的是原始档案**精确获取入口**，未新增已核实的印尼具体行动事实，故不虚增S/C编号、不修改chronology或中文正文。下一执行：①从ILO 1979年第65届Record of Proceedings打开印刷27—29页并查Indonesia、Buru、forced labour；②与TAPOL35印刷第3页转述逐句对照；③取ILO委员会报告区分105号强迫劳动与87号结社自由；④在Aceh扫描按目录定位1965年10月1—14日原令、签署页及地名；⑤轮换Flores、西加里曼丹与1923年铁路原报，正式台账去重后并库。长期GOAL未完成。
+
+
+## ONGOING / GOAL仍进行｜2026-11-14｜G4/G5巴厘估算链与G1铁路工运原报追索
+
+本次重新读取2026-11-09完整性审计、AGENTS、stage-access、goal-continuity、continuity-status及正式四CSV开头和chronology；G1—G10均OPEN。当前主链G4/G5巴厘1965—1966死亡估算，异项G1 1923 VSTP铁路工运。此前同一FRUS d162已经核过，本次属于**直接重读并扩大原始引注追索**，不是新独立来源，不应新建S号。
+
+**G4/G5/G8，巴厘及跨省数字**：直接阅读美国国务院FRUS XXVI第162项编辑说明全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d162 ，第11—18行。编辑说明引1966-02-25驻雅加达使馆A-527空邮报告（NARA RG59, Central Files 1964–66, POL 23–9 INDON），使馆报告巴厘死亡估算80,000且仍持续；使馆把部分杀戮解释为PKI/PNI冲突及家族恩怨，属于**使馆当时解释**，不应当作已核实的个体杀人动机。1966-04-15 A-641（RG59 POL 2 INDON）又称无法判定全国死亡数字更接近100,000还是1,000,000；这显示**同一机构的统计不确定性**，不等于证实任何端点。1970年Howland《Studies in Intelligence》14卷（秋季）13—28页，转引一名军方中校所报巴厘6,000、爪哇50,000、北苏门答腊3,000；Howland本人对方法持怀疑态度。该回顾数字与A-527的80,000差异极大，**不能平均、不能算独立受害者名册**。本次实际访问级别：FRUS官方后出编辑说明全文；A-527、A-641和Howland原篇均未直接打开。缺件：NARA A-527/A-641扫描、Howland原篇及巴厘各县埋葬/拘押/失踪名册；行动：以精确RG59档号追原件、逐县建立不同估算的时间和统计对象，并核当地PNI/PKI关系；障碍：地方原件尚未取得。FRUS同页第8—10行还引1965-10-29 Aceh电报1269、11-08北苏门答腊/Aceh电报1374及11-13电报1438和Surabaya 171，均为**馆方编辑转引**，需原电报核查军方、IP-KI青年及地方民兵的具体行动，不能以编辑摘要替代地方军令。
+
+**异项G1，1923铁路工运**：直接阅读Agung Purnama 2020-10-10印尼文历史文章全文 https://jabar.nu.or.id/sejarah/kaum-buruh-riwajatmoe-doeloe-pemogokan-bagian-2-iCCju 。作者精确指向《De Preanger Bode》1923-05-09第126期“Semaoen Gearresteered”报道，并引用该报讨论Semaoen被捕后VSTP是否发动总罢工；又称1923-06-08三宝垄驻扎官致总督信函附VSTP中央通报，后者承认罢工未取得结果。**访问级别：2020年二手文章全文，内含1923报纸短引和殖民行政信件线索；未读1923原报、VSTP通报、驻扎官原函。**文章写1923-05-08 Semaoen被捕、05-09罢工，参与人数13,000/20,000；另一2021年铁路历史转引文章 https://irps.or.id/2021/11/mei-1923-aksi-mogok-buruh-kereta-api-yang-bikin-sewot-pemerintah/ 援引1923-05-28《Sin Po》称约8,000名铁路工人参与，数字对象、统计日和原报尚未核实，**不能合并为一致规模**。缺件：De Preanger Bode 1923-05-09原版第126期、Sin Po 1923-05-28、1923-06-08驻扎官原函、VSTP中央通报和逐站罢工记录；行动：按刊期在Delpher/殖民报刊馆藏定位原版，对照各数字的职业/地区/日期定义。G2群众组织地方簿、G3跨机关时序、G4其他省份地方军令、G5受害者、G6拘押释放、G7当代组织、G8外国实际交付、G9索引、G10正式台账/连续中文正文仍未结。
+
+本次未完成正式全表去重，没有新增S/C/Q/CV，也未声称修改chronology或中文正文。精准续接：①原件A-527及A-641；②Howland 1970原文第23页；③《De Preanger Bode》1923-05-09及《Sin Po》1923-05-28原报；④1923-06-08 Semarang resident原函；⑤轮换Flores、West Kalimantan、1998后工会原件。长期GOAL OPEN。
