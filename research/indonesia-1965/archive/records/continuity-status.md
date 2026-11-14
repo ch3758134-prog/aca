@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-14 08:49 CST｜G7 1978学生运动原始文本定位及访问失败
+
+本次重新读取AGENTS、goal-continuity、stage-access、续接状态、四份正式CSV的表头与首行及chronology开头；并核验GitHub main（研究时读到287afc2b5c7e800ec89d046565fefc2e5de3583e，其他并行写入可能改变HEAD，须再次回读）。延续G7 1978年ITB学生运动，不将本次文献发现等同于已读原文。
+
+**新增精确原件定位**：Cornell University Southeast Asia Program《Indonesia》第25期（1978-04）刊载由Bandung Institute of Technology Student Council署名的《White Book of the 1978 Students' Struggle》，页151—182，馆藏 https://ecommons.cornell.edu/entities/publication/af3db31b-55b0-4f7d-8953-06e072406ab7 ，文件INDO_25_0_1107119884_151_182.pdf，永久标识 https://hdl.handle.net/1813/53656 。馆藏页实际打开，但下载PDF返回HTTP 429，**不能声称读过白皮书正文**。1979-04《Indonesia》第27期页1—32另载《Defense of the Student Movement: Documents from the Recent Trials》，含Lukman Hakim、Heri Akhmadi在1979年审判中的抗辩及运动年代记录，馆藏 https://ecommons.cornell.edu/entities/publication/eba3095f-6d0b-4b1b-8e26-b581d35dd822 ；该页面本次出现机器人验证，正文未读。印尼文原版《Buku Putih Perjuangan Mahasiswa 1978》由ITB Dewan Mahasiswa于1978年出版，Google Books目录记41页 https://books.google.com/books/about/Buku_putih_perjuangan_mahasiswa_1978.html?id=20kyQwAACAAJ ；Rizal Ramli文库索书号RR.70、P00177S https://lib.rizalramli.com/index.php?id=174&keywords=&p=show_detail ，目录已读，附件下载HTTP 500，未读正文。英语译刊页151—182与印尼原刊41页不能假定逐页一致，需校对版本与译者。
+
+**交叉定位而非原文核验**：Human Rights Watch 1998年《Academic Freedom in Indonesia》报告 https://www.refworld.org/reference/countryrep/hrw/1998/21796 记述ITB白皮书批评腐败、经济政策和政治压制，政府禁止白皮书并审判学生领袖；属后世人权组织综合叙述，不能取代1978年白皮书、军方命令和1979年法庭文书。印尼后世报道将1978-01-16作为白皮书公开及拒绝苏哈托连任的重要日期，但具体印行、公布、学生会签署与军方入校时间须以同期材料交叉核实。不能据此将学生运动直接等同PKI组织延续。
+
+**正式入库限制**：本次仅核四CSV表头/首行，未完成全表去重与最大编号校验，因此未分配S/C/Q/CV，未更新chronology和中文连续历史正文；此为实际未完，不把馆藏目录当作全文或虚增原子主张。可在下一轮完整去重后按访问级别登记馆藏与失败检索，再对照TAPOL第27期既有记载。
+
+**精准未完事项**：①从Cornell馆藏bitstream https://ecommons.cornell.edu/bitstreams/05787564-603b-4dd1-bf66-ade81a5988be/download 获取1978白皮书英文全文并逐页比对印尼原版RR.70；②取得1979年《Indonesia》第27期1—32页Lukman Hakim/Heri Akhmadi法庭抗辩，提取1978-01—02具体军政命令、被捕者与组织关系；③查ITB学生会1978-01-16声明原文及1978-01-28停课决定、1978-02-09入校命令，核不同报道的1月20/21与2月1/9日期；④正式四CSV全表去重并登记本次馆藏发现、失败访问、对立证据及chronology，再决定是否形成连贯中文正文；⑤轮换G6 1977年底1万人释放名册及使馆附件、G4 1965地方军令、G2 SOBSI/BTI/Gerwani原件与G9/G10 1998后工会登记。G1—G10及长期GOAL全部OPEN；本文件同一提交无法自引用最终提交SHA，必须以提交响应和独立HEAD回读核验。
+
 
 ## ONGOING / GOAL仍进行｜2026-11-14 07:47 CST｜G6 1978 TAPOL第28期名单主张正式并库
 
