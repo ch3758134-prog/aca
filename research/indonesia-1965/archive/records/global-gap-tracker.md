@@ -1683,3 +1683,10 @@ G1 1923原报、G2群众组织账簿、G4 Aceh/北苏门答腊/爪哇/巴厘/Flo
 **不同G项G4/G5西加里曼丹**：直接打开HRW 1997年西加里曼丹冲突背景全文 https://www.hrw.org/reports/1997/wkali/Brneo97d-02.htm ，其回顾1967年Sanggau Ledo事件并报告300死、55000人流离失所等数字；这属于1997年人权组织后见叙述，原始1967年伤亡清册、人口迁移登记与军方枪支发放记录仍缺，数字不升级为已核事实。J-STAGE松村智雄2015年论文摘要 https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/en 提出军方动员、Oevaang Oeray政治竞争与内陆贸易中断的机制解释；仅摘要阅读，不当成地方军令。进一步定位二手研究中1967-09-21 RRI Pontianak广播、1967-10-11村长集会通知的具体日期，但该研究同时提示可能冒用Oeray名义，广播原件和发布机关仍需查。下一步向印尼地方报刊、RRI馆藏、Peperalda/Kodam XII/Tanjungpura追原稿及签署记录，并按县分离驱逐、死亡与后续经济影响。Aceh、Flores、北苏门答腊、爪哇和巴厘的军方地方原件依旧高优先。
 
 **G1—G10开放总账**：G1殖民铁路原报未得；G2 SOBSI/BTI/Gerwani基层原件未得；G3 1965机关命令链待核；G4各地军令和名册未得；G5性别/族群个案未得；G6拘押释放个人名册未得；G7本次取得学生组织英译原文但其他年代组织仍缺；G8外国援助实物交付凭证未得；G9人物地点关系需核；G10中文连续历史与正式档案去重未完成。来源层级、地域、年代、组织、缺件与阻碍依各项记录持续保留。长期GOAL OPEN。
+
+
+## ONGOING｜2026-11-14｜G2/G3/G4 NTT基层人数及军区原件线索（S862/C1530/Q386/CV410）
+
+本次已读取completeness-audit-2026-11-09 G1—G10、AGENTS、stage-access、goal-continuity、现有continuity-status、四份正式CSV与chronology。沿G7 ITB 1978白皮书后续研究链继续保留原版及1979法院卷宗缺口；异项转向NTT地方机制，**直接打开Steven Farram 2010论文全文**（https://brill.com/view/journals/bki/166/4/article-p381_1.pdf，印刷381—387、391—399页）。G2：El Tari 1972转述的BTI 1963县级人数TTS 25073、TTU 189、Belu 16166、Kupang 4000，Farram明确怀疑把援助对象计入会员，不得直接视作会员原簿。G3：Farram脚注定位1961-02-02澳大利亚帝力领事函NAA 1838/280, 3038/2/2/2及Dinuth 1997 pp.368/377所转Udayana公告与1965-10-09禁令；这些原件**未取得**。G4/G5：研究pp.391—399记录2000年代访谈与1972政府说法，Kupang/Tarus拘押名单、Buraen墓地、妇女与家属就业/出行限制均需原始访谈笔录、军警名单、现场与法院记录交叉核验。既有S639为2008教会史综合研究，非本论文的独立原件；避免重复计数。G1—G10均OPEN；Aceh、Flores、West Kalimantan等地域缺口继续优先。正式新增S862/C1530/Q386/CV410并入chronology；中文连续正文尚不宜将地方传闻写为已证事实。
+
+**精准续接**：①打开Cornell ITB白皮书157—182页，逐项核经济数据及原版；②取NAA 1838/280 3038/2/2/2 1961-02-02原函；③取Dinuth 1997 pp.368/377及军区1965-10-09原令；④寻找El Tari 1972及BTI TTS/Belu/Kupang会员簿；⑤追Buraen/Tarus及Flores的地方证人/军警名册，同时轮换G1铁路原报和G7当代工会法令。长期GOAL未完成。
