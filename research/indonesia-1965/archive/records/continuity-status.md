@@ -1051,7 +1051,7 @@ Continue with original U.S. committee, export, procurement and recipient records
 
 Starting main head: `9cc0672c5a182c9bbf3a0aa4058d72c0b301d0f8`. This pass re-read S151, revised C143/C648/C649 and coverage CV235; compared A-408's archive synopsis with FRUS d162's A-527 and Howland summary; revised C708/CV261 and added C786 plus Q251. No new source ID or coverage row was warranted. Current formal ledgers contain 446 source records, 783 claims, 251 search entries and 290 coverage rows.
 
-The continuous reader is `briefs/readable-history/indonesia-left-history-continuous-1901-2026.html`. It contains chronological prose, person and event indexes, source notes, confidence labels and links to regional deep dives. Bali's at-least-10,000 (A-408 synopsis), 80,000 (A-527 via FRUS note), and 6,000/105,000 (Howland via the same note) are shown as incompatible estimates, not verified totals. Howland's original article, A-408 page images, regional victim records, local A-386 lists and individual fates remain open.
+The continuous reader is `briefs/readable-history/indonesia-left-history-continuous-1830-2026.html`. It contains chronological prose, person and event indexes, source notes, confidence labels and links to regional deep dives. Bali's at-least-10,000 (A-408 synopsis), 80,000 (A-527 via FRUS note), and 6,000/105,000 (Howland via the same note) are shown as incompatible estimates, not verified totals. Howland's original article, A-408 page images, regional victim records, local A-386 lists and individual fates remain open.
 
 This is a current reading edition, not proof of exhaustive public-source or archive search and not a political conclusion. Political judgment remains with the author. GOAL remains ACTIVE / OPEN.
 
@@ -2350,3 +2350,13 @@ G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q
 **长期链G6/G7 ILO**：直接确认ILO《Record of proceedings》目录 https://www.ilo.org/public/libdoc/ilo/P/09616/ 列1979年第65届会议合订记录30.5MB；另外ILO《Résolutions adoptées》目录 https://www.ilo.org/public/libdoc/ilo/P/09738/ 另列1979-65决议595.3KB。二者**不是同一卷**，决议文本不能代替大会发言、强迫劳动监督或结社自由案件。合订记录链接重定向至webapps.ilo.org，当前读取返回500；未取得TAPOL35所引pp.27—29的逐字记录，不能证实其中关于印尼/布鲁岛的具体陈述。另有ILO官方Series B为结社自由委员会报告 https://libguides.ilo.org/documentation/OB ，亦须按案号独立查找。以上仅为原始文件目录核验，不产生新的印尼事件事实。
 
 **跨G项缺口维护**：G1铁路工运原报、G2基层SOBSI/BTI/Gerwani、G3跨机关广播与军令、G4 Aceh之外各省暴力、G5妇女及华人幸存者、G6拘押与组织重建、G7 1998后工会、G8外国行动原令、G9人物地名索引、G10台账与连续中文HTML均未闭合。下一步：①获取Aceh军报军方情报地图、逐县数字和签署页；②通过ILO官方PDF直链或机构仓储获取1979第65届合订会议记录pp.27—29；③区分ILO会议记录、决议、委员会报告和TAPOL转述；④轮换Flores主教1966-04-28函及West Kalimantan 1967广播原件；⑤获取1923年VSTP铁路罢工同期荷文/印尼文原报并全表去重后正式并库。未修改正式CSV、chronology或中文正文；长期GOAL和G1—G10全部OPEN。
+
+## ONGOING｜2026-11-14｜1830—2026连续阅读稿全稿复核与引用核验
+
+完成对当前[连续阅读版](../../briefs/readable-history/indonesia-left-history-continuous-1830-2026.html)十四个年代章节的通读，并对照详细档案版、研究伴读、人物索引、事件索引和正式来源台账。按章节复核殖民土地与劳动、左翼组织形成、Boven-Digoel流放制度、革命、地区冲突、军政变化、土地改革、外国行动渠道、1965年暴力及后续制度与记忆。1926—1942年部分明确展开行政流放权限、拘押者和家庭的运输、劳动、口粮、通信检查、请愿及不同政治组织路线，避免把过程缩成“镇压改变政治活动方式”的概括。
+
+重要事实检查：PRRI在1958年2月成立，1953年对应南苏拉威西与亚齐加入达鲁伊斯兰运动的进程；原文两处时间正确，先前评论称其有误是复核者误报。2004年宪法法院关于选举资格的裁决年份也正确，先前评论称其有误同样是误报。1949年3月1日日惹总攻补充了哈孟库布沃诺九世、班邦·苏根、苏哈托和苏迪尔曼指挥体系，以及回顾性叙述对倡议、批准和指挥职责的差异；原始作战命令仍缺。1969年“自由选择行动”进一步说明《纽约协定》第十八条的代表会议与协商程序，不将其误写为一人一票公投。
+
+本轮发现S930书目记录错误：Crossref与OpenAlex确认作者为Nina Herlina、Kunto Sofianto、Miftahul Falah，刊物为《Cogent Social Sciences》；出版方全文与PDF端点自动访问返回403，全文未读。已在来源登记更正作者、刊物和访问状态，从C1625证据列表移除S930，并在CV422和档案注释中披露这一限制。Q398曾写“已打开同行评议论文”的表述已由Q399明确纠正。S902改到可访问的国家秘书处官方页面；S420和S421改用可访问的JDIH BPK正式法规记录与PDF。其余来源外链仅抽查，不能据此说全部外链均已联网验证。
+
+导航和页面静态核对：连续阅读版65个人物锚点、53个事件锚点全部被索引；连续阅读、详细档案和研究伴读的内部链接均无失效目标或重复ID，段落标签数相符。完整检查和剩余证据缺口见[全稿复核记录](../../briefs/readable-history/review-1830-2026-2026-11-14.md)。政治判断由作者保留；整体历史检索GOAL仍为OPEN。接续时优先获取1949年日惹总攻原始军令、1923年VSTP罢工原件和1965—1966年地区军令、拘押、死亡与财产转移记录，并持续按覆盖矩阵推进。另发现来源登记S453多出一个限制说明字段、主张C798因逗号未引用而错列，现已将内容归回相应字段；来源登记、主张台账、检索日志、覆盖矩阵四份正式CSV的每一行现均与表头字段数一致。
