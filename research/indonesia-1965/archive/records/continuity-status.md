@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-15 03:49 CST｜Gerwani 1961纲领法律编号反证核查（正式并库仍待办）
+
+本次重读AGENTS、goal-continuity、stage-access、continuity-status，正式source-register/claim-ledger/search-log/coverage-matrix表头及chronology开头。直接打开Gerwani 1961纲领数字全文 https://gerwani.logosid.app/teks/42 ，发现同一转录文本存在法律编号内在冲突：前言讨论妇女村长资格时写“Undang-Undang No. 68 Tahun 1958”（第51—52行），但正式纲领第1条写“Undang-Undang No. 68 tahun 1959”（第91—92行）。为作反证，独立打开印尼国会JDIH法律元数据 https://jdih.dpr.go.id/setjen/detail-dokumen/tipe/uu/id/1308 、国家审计署BPK法律数据库 https://peraturan.bpk.go.id/Details/52837/uu-no-68-tahun-1958 及BPK收录的法律全文PDF https://peraturan.bpk.go.id/Download/42211/UU%20Nomor%2068%20Tahun%201958.pdf ：三者一致为《妇女政治权利公约批准法》**第68号／1958年**，1958-07-17批准、1958-08-28公布，法令第2条有保留。故1961年纲领数字转录第1条的“1959”与官方法律文本冲突；不能未经1961印刷版核对便判定错误来自当年印本还是现代转录。此项校正只确认法律编号与数字文本差异，不能推出Gerwani实际取得村长职位或妇女土地权。另核对1961前言第49行：旧纲领有关bawon/tandur/matun农业工资条款被删除的自述理由是分成法已有规定，但发言者同时强调尚需推动执行；不得把“删除诉求”误读成农民待遇已经改善。1961原版及1957纲领仍未取得，数字项目与再版不可视作独立文本见证。
+
+**精准未完**：①取得1961第四届大会原印刷本（ANRI KOTI 708），对照第1条“1959/1958”及前言旧纲领修订段；②取得1957梭罗纲领与1960年土地基本法、分成法原件，逐项对照妇女土地权、bawon/tandur/matun的制度与地方执行；③取ANRI KOTI 706、707、709、710卷宗，核农业妇女会议、民族阵线提名、中央名单与实际计划；④正式四CSV全表URL/档号/标题去重后登记本轮法律反证和文本冲突，更新chronology与成熟中文连续正文，不虚报已完成；⑤轮换1965—68日惹处分原件、1979劳工争议ILO原件与1998—2026工会及幸存者组织。**本轮仅写入续接状态，正式四CSV/chronology/中文正文未更新**；不分配新S/C/Q/CV编号。GOAL与G1—G10保持OPEN。前次已报告HEAD 0e2875d3fb8e1c9ab5580ba9369ecc32f68195f7 是历史锚点，本轮最终提交SHA以GitHub提交响应和独立main回读为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 02:53 CST｜1961 Gerwani纲领全文转录与ANRI KOTI馆藏交叉定位（正式并库待办）
 
 本次重新读取AGENTS、goal-continuity、stage-access、continuity-status及正式四CSV表头与起始行、chronology起始段。直接打开并核读1961年Gerwani第四届全国大会纲领的印尼文数字全文转录 https://gerwani.logosid.app/teks/42 （1961-12-14—17雅加达通过，DPP Gerwani出版）。前言明确称本版是在1957年梭罗纲领上修改增补，不是全新纲领；第6—9条要求ILO同工同酬公约100号落实、产假、哺乳及月经假、托儿设施、反任意解雇；第11—15条要求妇女进入村级职位、以自己名义享有土地权利、执行分成法、妇女参与土地改革委员会。前言自报会员逾100万人，**是组织自述而非独立人口统计**。第13—15条是诉求，不能误记为土地已经分配。该文本为现代数字转录，尚未逐页核对1961年印刷版影像、1957原纲领或各法律正式文本。
