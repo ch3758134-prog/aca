@@ -1690,3 +1690,12 @@ G1 1923原报、G2群众组织账簿、G4 Aceh/北苏门答腊/爪哇/巴厘/Flo
 本次已读取completeness-audit-2026-11-09 G1—G10、AGENTS、stage-access、goal-continuity、现有continuity-status、四份正式CSV与chronology。沿G7 ITB 1978白皮书后续研究链继续保留原版及1979法院卷宗缺口；异项转向NTT地方机制，**直接打开Steven Farram 2010论文全文**（https://brill.com/view/journals/bki/166/4/article-p381_1.pdf，印刷381—387、391—399页）。G2：El Tari 1972转述的BTI 1963县级人数TTS 25073、TTU 189、Belu 16166、Kupang 4000，Farram明确怀疑把援助对象计入会员，不得直接视作会员原簿。G3：Farram脚注定位1961-02-02澳大利亚帝力领事函NAA 1838/280, 3038/2/2/2及Dinuth 1997 pp.368/377所转Udayana公告与1965-10-09禁令；这些原件**未取得**。G4/G5：研究pp.391—399记录2000年代访谈与1972政府说法，Kupang/Tarus拘押名单、Buraen墓地、妇女与家属就业/出行限制均需原始访谈笔录、军警名单、现场与法院记录交叉核验。既有S639为2008教会史综合研究，非本论文的独立原件；避免重复计数。G1—G10均OPEN；Aceh、Flores、West Kalimantan等地域缺口继续优先。正式新增S862/C1530/Q386/CV410并入chronology；中文连续正文尚不宜将地方传闻写为已证事实。
 
 **精准续接**：①打开Cornell ITB白皮书157—182页，逐项核经济数据及原版；②取NAA 1838/280 3038/2/2/2 1961-02-02原函；③取Dinuth 1997 pp.368/377及军区1965-10-09原令；④寻找El Tari 1972及BTI TTS/Belu/Kupang会员簿；⑤追Buraen/Tarus及Flores的地方证人/军警名册，同时轮换G1铁路原报和G7当代工会法令。长期GOAL未完成。
+
+
+## ONGOING / GOAL仍进行｜2026-11-14｜G4 Flores逐村执行链与G7 Minahasa教会制度记忆
+
+本次已读取2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity、四份正式CSV与chronology及续接状态。**G4/G5长期地方链（Flores，1963—1966）**：重新直接打开已登记S639的2008年Brill《A History of Christianity in Indonesia》第七章，印刷253—256页（PDF文本约3538—3570行）。章节称1963年Maumere神父Hendrik Djawa组织约25个天主教青年分会；1966年2月军方切断Flores五县间通信，2—5月实施KOMOP；书中具体点出Keut村、Wairklau椰园墓地、Wolokoli被捕45人、反对处决的神父Yosef Frederikus Pede da Lopez、1966-04-28主教Gabriel Manek致Maumere总铎函及Bajawa神父Isaak Dura阻止青年参加。**访问级别：后出学术章节全文，不是1966军令、主教函或45人名单；其中Wolokoli数字和KOMOP过程仍属作者陈述，不能提升为独立事实。** 同章脚注40指Da Cunha 1999 pp.34-38、90-92、94-98、206-216为主教函及神职行动的精确追索入口；脚注39指一份1974匿名手稿，仍缺原件。S639已经登记，不能重复注册；此前C1058等已讨论本章，须先比对再决定是否拆出新原子主张。原文 https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/19/66/73/60/2019667360/2019667360.pdf 。
+
+**异地区G7/G9（Minahasa，2000年）**：同一全书第十章印刷447页（PDF文本约6717—6720行）记述GMIM第72届宗教会议于2000-04-24至29日，一方面反对撤销1966年第25号反共禁令，另一方面提出前共产党员全面恢复权利的计划。**证据级别：2008年后出教会史学叙述，尚未取得2000年会议决议原文；这两项并存立场不能简单合并为支持或反对平反。** 应追GMIM 72nd Synod原始决议、印尼政府拟撤销第25号决定的公文和落实记录，核其权利恢复计划是否执行；不能以书中转述当作实际实施。
+
+G1—G10仍全部OPEN；G1 1923原报、G2基层组织账册、G3军政指令、G4各地原令、G5受害人原始名册、G6释放清册、G7组织决议、G8外援交付、G9关系索引、G10中文连续正文仍缺。下一步：①Da Cunha 1999对应页及1966-04-28主教原函；②Wolokoli/Keut/Wairklau当地名单和教区葬埋簿；③KOMOP 1966-02军令和五县通信记录；④GMIM 2000-04-24—29决议；⑤轮换Aceh军区年报、西加里曼丹广播、1923《Sin Po》。本次核验主要细化既有S639的原件追索，不重复新增S/C/Q/CV，长期GOAL未完成。
