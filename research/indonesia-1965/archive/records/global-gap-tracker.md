@@ -1,3 +1,11 @@
+## ONGOING｜2026-11-14｜G1/G4 跨项原件形态纠错与档案定位（本次核验）
+
+**G1 1921 Semarang 学校及工运原报（新访问路径）**：直接打开印尼语 Wikisource 的《Soeara Ra'jat》1921-04-30 期索引 https://id.wikisource.org/wiki/Indeks:Soeara_Ra%27jat_30_April_1921.pdf ，页面明确列出版者 Vereniging van Spoor-en Tramwegpersoneel（VSTP）、Semarang、1921、共8页，校对状态“Untuk dibetulkan”。这是**原报扫描索引与页码入口**，本次未逐页核实新闻内容；不能用此4月期证明6月SI学校开办细节。另直接核验Wikimedia Commons 2026-09-03上传的《SI Semarang dan Onderwijs》14页PDF馆藏说明 https://commons.wikimedia.org/wiki/File:SI_Semarang_dan_Onderwijs_-_Tan_Malaka.pdf ：其来源是 Marxists Internet Archive 的后期文本，文件元数据明确 Microsoft Print To PDF，说明又提及1987年Yayasan Massa后期编辑材料；**虽标1921年作品，绝非1921原版印刷品的扫描原件**。与已登记S897的后期转录可能同源，必须全表去重，不能当第二份独立原始证据。缺件：1921原刊物理版本、1921年10月学校记录、学生名册、VSTP与SI支部会议记录。行动：逐页打开4月30日报纸、追其他1921期与独立学校文件，对照已有S892—S897，不能仅因Commons有新PDF就增加S号。
+
+**G4 Aceh 1965军报**：重新直接打开Wikimedia Commons档案说明 https://commons.wikimedia.org/wiki/File:Laporan_tahunan_lengkap_KODAM-IKOHANDA_Atjeh%2C_tahun_1965%2C_M_m_941_N%2B.pdf ，确认为KITLV/Leiden来源，原档M m 941 N+，印尼文404页、114.96MB；本次仍未逐页打开内部军令和地图，不能以馆藏元数据证实1,941宗杀戮记录或执行命令。Jess Melvin 2017论文摘要 https://www.tandfonline.com/doi/abs/10.1080/14623528.2017.1393942 主张军方组织行动，但为研究者解释，不能替代原档。缺件：军报中逐县杀戮地图、命令日期、签署页与不同地区统计口径。行动：从原PDF逐页核对附件并按县与日期建立原文定位，另寻地方军令与幸存者证词独立交叉。
+
+**G1—G10全局缺口未结**：G1原报/组织起源，G2 SOBSI/BTI/Gerwani基层，G3 1965跨机关时序，G4 Aceh/北苏门答腊/爪哇/巴厘/Flores/西加里曼丹/Sulawesi地方原件，G5妇女与族群幸存者，G6监禁/流亡与再组织，G7 1998—2026劳工/政党，G8英美澳中苏行动交付，G9地点人物组织关联，G10正式CSV去重与连续中文正文。来源等级：本次为扫描索引、文件来源元数据、学术摘要；没有将它们当作已读原件正文。正式CSV及chronology本次未变，未虚增S/C/Q/CV。长期GOAL OPEN。
+
 ## ONGOING｜2026-11-13 13:54 PST｜G6同期释放名册说法与G4西加里曼丹原件定位
 
 本次已读取2026-11-09 completeness-audit G1—G10、AGENTS、stage-access、goal-continuity及现有滚动状态；确认四CSV与chronology实际在 archive/records/，不能误以研究目录根路径404代表不存在。
