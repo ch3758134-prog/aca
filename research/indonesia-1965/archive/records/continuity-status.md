@@ -2171,3 +2171,8 @@ G2：直接打开Gerwani 1961《Program Gerwani》及《Peraturan Dasar Gerwani�
 **异项G4/G5，1963—1974西加里曼丹**：直接核对Universitas Pendidikan Indonesia论文馆藏 https://repository.upi.edu/31600/ ，作者研究PGRS/PARAKU由苏加诺对马来西亚对抗时期的支持转为新秩序时期军事打击，摘要还把1967 Mangkok Merah与1974年武装组织终结联系起来；本次仅核馆藏摘要/章节下载清单，**未核原始军令、1967地方广播或1974停火文书**。另核2017年Superman论文摘要 https://www.ojs.fkip.ummetro.ac.id/index.php/sejarah/article/view/728/0 ，作者强调非PGRS成员华人亦被迫逃往Singkawang；这是研究解释与受害范围线索，不能替代地方人口名册。原先AJU著作的RRI Pontianak动员说法仍只有书目简介 https://pustaka-bpkxii.org/pustaka/negara-di-balik-pembantaian-etnis-tionghoa-di-kalimantan-barat-tahun-1967%C2%A0-bagian-dari ，不能当作广播原件。区分反PGRS军事行动、普通华人被驱逐、难民安置与不同来源死亡统计。
 
 **精确续接**：①取Cornell白皮书PDF并逐页核1977-11-28宪章及1978-01组织声明；②取1979庭审原文与法院卷宗核被告姓名、法条、日期；③进入UPI论文第三、四章核所引1967地方军令/广播的原始出处；④追1967 RRI Pontianak录音/文字稿、Kodam XII/Peperalda命令及Singkawang/Pontianak难民登记；⑤转向Aceh、Flores地方原件及1923《Sin Po》原报，补正式CSV去重后再注册新证据。当前无新独立原件，**不新增S/C/Q/CV，不声称chronology或中文正文更新**。长期GOAL仍OPEN。
+
+
+## ONGOING / GOAL仍进行｜2026-11-14｜NTT地区农会人数及军区原件（S862/C1530/Q386/CV410）
+
+读取11月9日G1—G10审计、授权/规则、四正式CSV、chronology与滚动缺口总账。直接打开Farram 2010全文（https://brill.com/view/journals/bki/166/4/article-p381_1.pdf），查到BTI 1963年县级人数的**未经名册核实的省长回顾口径**及澳大利亚1961年领事函、Udayana 1965-10-09军区指令的精确二次引注。已在正式CSV和chronology登记S862/C1530/Q386/CV410，并更新缺口总账。仍缺原始BTI名册、领事函、军区签署原件、地方拘押名单；G7 ITB白皮书后续页及原版亦未完成。下一次先取NAA 1838/280 3038/2/2/2与Dinuth 1997 pp.368/377，再查BTI县级会员/受援对象区别，轮换Flores和西加里曼丹军区记录。G1—G10全部OPEN；长期GOAL未完成。Git提交以实际工具返回为准。
