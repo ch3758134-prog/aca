@@ -2196,3 +2196,8 @@ G2：直接打开Gerwani 1961《Program Gerwani》及《Peraturan Dasar Gerwani�
 ## ONGOING / GOAL仍进行｜2026-11-14｜NTT地区农会人数及军区原件（S862/C1530/Q386/CV410）
 
 读取11月9日G1—G10审计、授权/规则、四正式CSV、chronology与滚动缺口总账。直接打开Farram 2010全文（https://brill.com/view/journals/bki/166/4/article-p381_1.pdf），查到BTI 1963年县级人数的**未经名册核实的省长回顾口径**及澳大利亚1961年领事函、Udayana 1965-10-09军区指令的精确二次引注。已在正式CSV和chronology登记S862/C1530/Q386/CV410，并更新缺口总账。仍缺原始BTI名册、领事函、军区签署原件、地方拘押名单；G7 ITB白皮书后续页及原版亦未完成。下一次先取NAA 1838/280 3038/2/2/2与Dinuth 1997 pp.368/377，再查BTI县级会员/受援对象区别，轮换Flores和西加里曼丹军区记录。G1—G10全部OPEN；长期GOAL未完成。Git提交以实际工具返回为准。
+
+
+## ONGOING / GOAL仍进行｜2026-11-14｜Flores与Minahasa跨地区原件追索
+
+重读2026-11-09 G1—G10完整性审计、授权规则、四CSV、chronology与滚动缺口总账。直接复核既有S639的2008年Brill教会史全文：Flores章节印刷253—256页明确提出1966年KOMOP、Keut/Wairklau、Wolokoli 45人、1966-04-28 Gabriel Manek信件及Da Cunha 1999对应引注；Minahasa章节印刷447页记GMIM 2000-04-24—29第72届会议同时反对撤销反共禁令与主张前共产党人恢复权利。二者均为后出研究者叙述，**原始军令、神职函、会议决议均未打开**，不能将作者叙述或数字升格为原件事实。来源S639已注册，不重复编号；本次细化缺口总账，未新建正式S/C/Q/CV，也未声称修改中文历史正文。精准续接：Da Cunha 1999 pp.34-38/90-98/206-216与1966-04-28主教函；Wolokoli 45人及Keut/Wairklau墓地原件；1966 KOMOP五县通信令；GMIM 2000年72届会议决议；轮换Aceh/West Kalimantan和1923《Sin Po》原报。G1—G10 OPEN；长期GOAL未完成。
