@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-14｜G4/G5西加里曼丹省府1967报告定位
+
+已核2026-11-09完整性审计G1—G10，读取工作规则、阶段授权、当前四正式CSV、chronology及global-gap-tracker；四CSV正确路径为research/indonesia-1965/archive/records/。直接读取Taufiq Tanasaldy 2012开放专著第137—145、150页（https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/82/94/2020718294/2020718294.pdf），追到省府1967《Pengungsian orang2 Tjina...》原始报告（Pontianak省长办公室图书馆）、A.J. Witono 1967-11-17《Maklumat》（S. Jacobus E. Frans Layang藏本）、《Pembangunan》1967-11-09/17/21/28原报。作者引省府报告记10-05—07 Tepo袭击、10-19 Samalantan红碗、11月Senakin/Darit/Sebadu合计210死、官方全局249死近60,000迁徙；数字与HRW1997口径不同，均未直接取得省府原件，不能当核实清册。作者同时给出军方局部支持与县长Usman Idris要求华人农民返乡的相反行动，反对将一切行动归于预先统一指挥；仍须核军令与地方报刊。长期Flores B.061/III/1966军函尚未取得原件。详见global-gap-tracker首节。
+
+续接：1. 获取1967省府报告及统计附表；2. 获取Witono《Maklumat》及《Pembangunan》11月各期；3. 查Senakin/Darit/Sebadu地方受害者名单；4. 查Flores军函与1966-04-28主教信；5. 对正式四CSV去重登记、更新chronology和连续中文正文。G1—G10及长期GOAL全部OPEN；本次未声称正式台账并库。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 03:49 CST｜Gerwani 1961纲领法律编号反证核查（正式并库仍待办）
 
 本次重读AGENTS、goal-continuity、stage-access、continuity-status，正式source-register/claim-ledger/search-log/coverage-matrix表头及chronology开头。直接打开Gerwani 1961纲领数字全文 https://gerwani.logosid.app/teks/42 ，发现同一转录文本存在法律编号内在冲突：前言讨论妇女村长资格时写“Undang-Undang No. 68 Tahun 1958”（第51—52行），但正式纲领第1条写“Undang-Undang No. 68 tahun 1959”（第91—92行）。为作反证，独立打开印尼国会JDIH法律元数据 https://jdih.dpr.go.id/setjen/detail-dokumen/tipe/uu/id/1308 、国家审计署BPK法律数据库 https://peraturan.bpk.go.id/Details/52837/uu-no-68-tahun-1958 及BPK收录的法律全文PDF https://peraturan.bpk.go.id/Download/42211/UU%20Nomor%2068%20Tahun%201958.pdf ：三者一致为《妇女政治权利公约批准法》**第68号／1958年**，1958-07-17批准、1958-08-28公布，法令第2条有保留。故1961年纲领数字转录第1条的“1959”与官方法律文本冲突；不能未经1961印刷版核对便判定错误来自当年印本还是现代转录。此项校正只确认法律编号与数字文本差异，不能推出Gerwani实际取得村长职位或妇女土地权。另核对1961前言第49行：旧纲领有关bawon/tandur/matun农业工资条款被删除的自述理由是分成法已有规定，但发言者同时强调尚需推动执行；不得把“删除诉求”误读成农民待遇已经改善。1961原版及1957纲领仍未取得，数字项目与再版不可视作独立文本见证。
