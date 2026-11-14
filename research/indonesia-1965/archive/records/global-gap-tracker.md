@@ -1,3 +1,11 @@
+## ONGOING｜2026-11-14｜G4/G8 东爪哇1965年11月4日外交电报原始影像核读：关键编号纠错；G1原报逐页入口障碍
+
+**本次重要原件纠错（G4/G8，1965-11-04，东爪哇）**：直接打开并目视核读美国国家安全档案馆三页PDF中的前两页同期电报影像（https://nsarchive.gwu.edu/sites/default/files/documents/4107021/Document-11-Telegram-194-from-American-Consul-in.pdf）。**馆藏网页标题写“Telegram 194”，但原始影像第一页明确标注“FROM SURABAYA / NO.: 164, Nov. 4”，第二页亦写“PAGE TWO - SURABAYA 164”**；正文另写“Control: 191A”。因此“194”是馆藏标题与原件编号不一致，研究引用须同时保留网页194与原件164，待核馆方编目错误/多版本，不得直接把194当同期原始编号。正文标题“JOINT SITREP 11”，发雅加达，抄送DEPT 28、CINCPAC。第一页第1段称泗水仍有清查行动、领馆消息源认为若干kampung共产党势力强；第2段引东爪哇军区司令Basuki Rachmat 10月30—31日视察Madiun、Patjitan、Ponorogo、Blitar及军方新闻报道，称Madiun已受控、Patjitan北侧遭来自Solo/Wonogiri方向渗透、Blitar种植园BTI势力强且武装部队正在搜查；**这些是领事汇总、军方宣传及新闻报道的不同来源层级，不能当成已经独立确认的军事执行记录**。第二页第3—5段涉及Banyuwangi民族阵线暂停共产党成员资格、泗水及Pamekasan/Malang的民族阵线清洗，以及11月2日报刊所述PKI人员Surjono Hadi暂时免职；第6段记军区司令10月31日将9月30日运动与1948年Madiun相提并论；第8段对Bondowoso纵火的报道**明确存在不确定性**，不可作为PKI实际纵火的确证。该电报说明1965年11月初地方清洗、组织排斥、反共宣传在同一外交汇总中并存，但**没有证实死亡人数、美国援助交付或当地具体处决**。证据等级：同期原始影像前两页已目视核读；第三页仅档案馆页脚，原件文字需以影像为准，OCR此前乱码。缺件：印尼军方巡查命令、各地民族阵线决议、报刊原版、被清洗人员名单及独立地方证词。精准行动：①向馆方核“194/164”编目差异；②查Basuki Rachmat 1965-10-30/31巡查原令；③查Banyuwangi/Pamekasan/Malang民族阵线原始决议与人员名单；④核Blitar种植园BTI原始组织资料与1965年11月搜查记录。
+
+**异项G1（1921年VSTP原报）**：直接打开印尼Wikisource《Soeara Ra'jat》1921-04-30索引，出版者VSTP、Semarang、8页，索引状态“Untuk dibetulkan”（https://id.wikisource.org/wiki/Indeks:Soeara_Ra%27jat_30_April_1921.pdf）；尝试进入第一页，返回不存在的红链编辑页404，**没有核读第一页正文**，不凭目录推导组织行动。下一步直接取Commons原始8页PDF影像、逐页记录标题与原文，再与1923年铁路罢工原报核对。
+
+**全局缺口状态**：G1原报正文未读；G2 SOBSI/BTI/Gerwani地方原簿未齐；G3跨机关命令逐时未闭合；G4东爪哇与Aceh等地方军令未齐；G5妇女/族群/幸存者名单缺；G6监禁释放原簿缺；G7 1998后工会/政党执行记录缺；G8外国实际交付凭证缺；G9地名/人物/组织交叉索引未闭合；G10正式四CSV全表去重、chronology与中文连续历史正文待整合。此次有实质原件阅读和档案编号纠错，但尚未完成全量正式台账去重，**不预占S/C/Q/CV编号、不虚称正式CSV及正文已修改**。GOAL持续OPEN。
+
 ## ONGOING｜2026-11-14｜G1原报来源链与G4/G8东爪哇同期外交电报定位
 
 已重读2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity、正式四CSV表头、chronology与滚动缺口；以下证据层级不冒充全文核读。
