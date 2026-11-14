@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-14｜西加里曼丹1967省府报告及停暴命令原件线索（G4/G5/G8）
+
+本次重新读取completeness-audit-2026-11-09.md并检查G1—G10；确认正式四CSV及chronology实际路径在archive/records/，纠正前次反复误称不存在的路径问题。对照既有Flores军函B.061/III/1966持续研究链，跨地区深入西加里曼丹1967驱逐与死亡统计。直接打开美国国会图书馆托管的Taufiq Tanasaldy 2012《Regime Change and Ethnic Politics in Indonesia》**开放学术专著全文**，第137—145、150页（https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/82/94/2020718294/2020718294.pdf）。这是研究者对档案的引述，**并未取得1967年原件扫描**。
+
+**G4/G5具体原件路径：**书第137—139页脚注113/115/116/118指向1967年省府内部报告《Pengungsian orang2 Tjina sebagai akibat gerakan2 orang Daya dalam daerah Kabupaten Pontianak dan Kabupaten Sambas》，馆藏标示Library of West Kalimantan Governor's Office, Pontianak。作者引报告称1967-10-05至07 Tepo（Air Besar/Landak）已有焚掠，10-13 Bengkayang发生事件，10-18 Bengkayang市约千名难民，10-19 Samalantan传递红碗，11月初Senakin/Darit/Sebadu三地共210人死亡；全局官方统计249死、近60,000流离失所。**上述日期/数字是作者引述省府文件，不是已核的地方死亡/迁徙名册**；与HRW 1997“至少300死、55,000流离失所”属于不同来源/时点/统计口径，禁止混算。书第139页脚注117定位A.J. Witono 1967-11-17《Maklumat》命令，藏S. Jacobus E. Frans Layang私人收藏（Pontianak），及《Pembangunan》1967-11-21；作者称命令要求停止行动并授权对拒绝者当场射击。**命令原页未读，不能把该命令或执行效果视为原件核实**。
+
+**重要反证/解释争议：**第145页作者引用《Pembangunan》1967-11-09报道，军人县长Usman Idris曾要求让华裔农民返乡收割，认为地方官兵反应不一致，不支持将全国军方视作事先协调一致的统一计划；但作者同时引证局部军方鼓励驱逐。此为学术解释与报纸转述，不足以否定任何地方军官的具体责任。第144页脚注136特别警告：某些所谓1967年军方奖励袭击者的做法，其直接文献其实谈的是1969—1973年，不能倒推1967。第150页另定位1967-10-31达雅克领袖声明、11-03 H.G. Mungok传单、11-06其《Instruksi》，私人藏本尚未核读；同书认为Laskar Pangsuma于11月才成立，不得倒置成10月初袭击的组织发动者。
+
+**缺件/下一可执行动作：**①索取省府1967《Pengungsian orang2 Tjina...》全文、统计附表与行政区界；②取得Witono 1967-11-17《Maklumat》签署页和《Pembangunan》11-09/17/21/28原报；③核Tepo、Senakin、Darit、Sebadu死亡/迁徙名册；④核10-31、11-03、11-06政治传单与地方军方指挥记录；⑤继续Flores B.061/III/1966和Manek原函，不把两省机制合并。G1早期工运、G2基层群众组织、G3跨机关、G6拘押流亡、G7工会实施、G8外部介入、G9索引、G10正式登记及中文叙事均OPEN。此次未完成正式CSV全表去重，尚未向四CSV、chronology及中文正文登记，不能宣称已完成并库。
+
 ## ONGOING / 2026-11-14｜G4 Flores原始文件追索与G2/G8妇女国际网络（本次核验）
 
 已直接读取2026-11-09 completeness-audit G1—G10、AGENTS、stage-access、goal-continuity、continuity-status，并检查正式台账路径；正式四CSV及chronology在已尝试的仓库根目录和研究子目录均返回404，故**没有完成正式ID去重，也不虚报S/C/Q/CV登记**。本记录是可接续的证据核验，不是G项完成声明。
