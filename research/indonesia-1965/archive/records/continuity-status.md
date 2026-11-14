@@ -2132,3 +2132,14 @@ G2：直接打开Gerwani 1961《Program Gerwani》及《Peraturan Dasar Gerwani�
 已读取2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity、正式四CSV、chronology及滚动缺口总账。**G8新核验**：FRUS d173（1965-11-11）原始电报全文，Sukendro/Soemantri讨论秘密药品实施、请求雅加达高层及七城军区通信设备；脚注引11月12日通报：美方已同意10万美元药品，5万美元通信设备尚在考虑。不是已核验物资签收，更不是武器交付。**异项G4/G5**：松村智雄2015年西加里曼丹论文仅直接读期刊摘要，作者将1967年10月Oeray、Palaoensoeka地方政治竞争、红碗动员与军方驱逐目标联系；论文PDF与1967年军令未读，仍属学术解释。发现Arnaldo 2004 Singkawang PGRS/PARAKU学位论文开放全文目录及UPI 2015论文部分开放。详细来源、地区、组织、阻碍见global-gap-tracker最新段。未完成正式台账同源全量去重，故未分配新S/C/Q/CV，未改中文正文。
 
 **精确续接**：①核FRUS d171/d174—180、Deptel 750和373号电报及药品运单签收，按药品/通信器材/武器分开；②打开松村2015 PDF并追原始注释；③打开Arnaldo 2004全文，找Singkawang、PGRS/PARAKU、Oeray的1967年地方原始引用；④找Kodam XII/Tanjungpura 1967命令和Pontianak难民登记；⑤轮换Aceh年报、Flores死亡簿、1923 Sin Po原报、Moncongloe释放令。G1—G10仍OPEN；长期GOAL未完成。
+
+
+## ONGOING｜2026-11-14 08:49 CST｜G6/G7 学生当事人原文入口与 G4/G5 西加里曼丹地方研究分层
+
+本次读取2026-11-09完整性审计及AGENTS、stage-access、goal-continuity、continuity-status、正式四CSV与chronology（正式台账位于archive/records/，research-status.md不存在）。当前G1—G10全部OPEN；不把近轮学生抗议或政治犯释放替代其他地区长期调查。
+
+**长期链G6/G7，1977—1979学生运动**：康奈尔大学原刊馆藏直接核对《White Book of the 1978 Students' Struggle》，1978年4月《Indonesia》25期151—182页，作者Bandung Institute of Technology Student Council，https://ecommons.cornell.edu/entities/publication/af3db31b-55b0-4f7d-8953-06e072406ab7 ；《Defense of the Student Movement: Documents from the Recent Trials》，1979年4月《Indonesia》27期1—32页，https://ecommons.cornell.edu/entities/publication/eba3095f-6d0b-4b1b-8e26-b581d35dd822 。后者馆藏说明具体区分Lukman Hakim、Heri Akhmadi的1979年法庭抗辩与第三份1977年选举后至1978年1月学生运动时间线。这次核的是**馆藏书目及编辑描述**，不是新打开两份PDF逐页核读；此前轮次曾读27期英译全文，仍须追印尼文原件、法院起诉及判决、1978年学生宪章。1998年HRW回顾 https://www.hrw.org/legacy/reports98/indonesia2/Borneote-04.htm 将万隆白皮书、全国学生会抗议、军事镇压及校园政策联系起来，但为后出报告，不能替代1978年同期命令。此链不能未经证明直接归为PKI组织连续性。
+
+**异项G4/G5，1963—1974西加里曼丹**：直接核对Universitas Pendidikan Indonesia论文馆藏 https://repository.upi.edu/31600/ ，作者研究PGRS/PARAKU由苏加诺对马来西亚对抗时期的支持转为新秩序时期军事打击，摘要还把1967 Mangkok Merah与1974年武装组织终结联系起来；本次仅核馆藏摘要/章节下载清单，**未核原始军令、1967地方广播或1974停火文书**。另核2017年Superman论文摘要 https://www.ojs.fkip.ummetro.ac.id/index.php/sejarah/article/view/728/0 ，作者强调非PGRS成员华人亦被迫逃往Singkawang；这是研究解释与受害范围线索，不能替代地方人口名册。原先AJU著作的RRI Pontianak动员说法仍只有书目简介 https://pustaka-bpkxii.org/pustaka/negara-di-balik-pembantaian-etnis-tionghoa-di-kalimantan-barat-tahun-1967%C2%A0-bagian-dari ，不能当作广播原件。区分反PGRS军事行动、普通华人被驱逐、难民安置与不同来源死亡统计。
+
+**精确续接**：①取Cornell白皮书PDF并逐页核1977-11-28宪章及1978-01组织声明；②取1979庭审原文与法院卷宗核被告姓名、法条、日期；③进入UPI论文第三、四章核所引1967地方军令/广播的原始出处；④追1967 RRI Pontianak录音/文字稿、Kodam XII/Peperalda命令及Singkawang/Pontianak难民登记；⑤转向Aceh、Flores地方原件及1923《Sin Po》原报，补正式CSV去重后再注册新证据。当前无新独立原件，**不新增S/C/Q/CV，不声称chronology或中文正文更新**。长期GOAL仍OPEN。
