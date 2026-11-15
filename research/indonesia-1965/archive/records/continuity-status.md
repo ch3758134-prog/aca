@@ -2705,3 +2705,6 @@ G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q
 ## ONGOING / GOAL仍进行｜2026-11-15 12:53 PST｜West Kalimantan军报原件定位与Dita赦免续查
 已读G1—G10完整性审计、规则、四正式CSV、chronology和缺口总账；当前正式末号S943/C1644/Q410/CV428。本次新增跨G4/G5/G9原件线索：Davidson/Kammen 2002可阅读全文注49精确引Witono 1967-12-04 *Laporan Pang Dam XII/Tandjungpura Tentang Gerakan Suku Dayak Terhadap GTK di Kal-Bar (II)* p.3（原件未读）；HRW 1997原报告全文回顾1967军方约300死、逾55,000华裔流离的口径；松村2015仅打开期刊摘要，所记10月动员与其他8月21日说法待核。跨G6/G7直接重核BPK 68/1999法律目录与Amnesty 1999-07-04出版页，官方PDF、23/1999关系和Dita出狱凭证仍缺。详情及链接在global-gap-tracker.md首条，提交3cccd27d5becb6b726d836a8eb5b0411c404d223。未全表去重，不新增S/C/Q/CV；chronology与中文HTML未改，G1—G10全部OPEN。
 精准续查：①查Witono 1967-12-04报告原卷及Angkatan Bersenjata 1967-09-21；②查RRI Pontianak 1967-08—10广播与Oeray原声明，核日期冲突；③读松村2015 PDF注释并逐地核Sambas/Mempawah/Bengkayang难民记录；④取Keppres 68/1999官方PDF及23/1999原件、1999-07-05 Tangerang出狱簿；⑤轮换1923 VSTP原报、Flores B.061/III/1966和SOBSI/BTI/Gerwani基层档。此为单次执行边界，非研究完成。
+
+## ONGOING / GOAL仍进行｜2026-11-15 15:21 PST｜Flores与FNPBI续接
+已核读2026-11-09 G1—G10审计及规则/四正式CSV；S456 Prior 2011开放论文PDF全文重读，发现B.061/III/1966军函译文、Manek 1966-04-28信及1967-05教区会议原档追索点；军函/信件/会议原件未得。FNPBI 1999-05-14—16 Bandung大会由Max Lane 1999-05-26同期报道搜索索引给出，出版页HTTP520，非已读全文。具体证据等级、地区、行动、阻碍见global-gap-tracker最新条。下一步查军函原影、教区私人档、FNPBI会议文件、Jan Djong死亡日期和西加里曼丹原公告。G1—G10 OPEN；本次执行边界非完成。
