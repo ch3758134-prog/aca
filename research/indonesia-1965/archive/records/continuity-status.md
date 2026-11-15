@@ -2550,3 +2550,7 @@ G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q
 本次重新读取G1—G10完整性审计和授权规则；复核已登记S453松村2015全文PDF印刷54—57及脚注34，发现F.D.所谓杀人描述的直接经历/转述身份不可判定，不能作杀人自白；对照Tepo 10月5—7与Bengkayang 10月14不同地点事件的时序。跨G项直接打开1954年Darmini来信全文转录，正式新增S932/C1628/Q403，chronology与global-gap-tracker同步。GitHub单文件连续提交；须以最终HEAD核验。
 
 续接：①1954《Women of the Whole World》No.9 p18原刊影像与Monica Felton/澳大利亚代表访问档案；②Oeray 1967-10-31声明、11-03 Pangsuma文件、11-17 Witono命令；③1967西加里曼丹地方受害者/迁徙名册及Dura/F.D.访谈原件；④Flores Manek 1966-04-28原信；⑤ILO 1979第65届Provisional Record pp27—29。G1—G10均未结，中文历史正文尚未更新。
+
+## ONGOING / GOAL仍进行｜2026-11-15｜Flores军方函件与1995拘押名单
+
+本次重新读取G1—G10完整性审计、AGENTS、授权、长期GOAL、正式四CSV、chronology和滚动总账。沿G4 Flores链直接核读Prior 2011全文S456 pp135—136关于1966-03-15 Kodim 1607/KOMOP B.061/III/1966警告教士函的转录；原始签署件未取得。跨G6链打开Amnesty 1995-11更正名单原PDF S311，确认1995-07名单包含已释放者，不得将27至1996年14的差值解释为实际释放。正式新增C1638—C1639、Q407、CV426；chronology和global-gap-tracker同步。下一直接追：①KOMOP B.061/III/1966签署原件②Manek 1966-04-28信③Amnesty 1995-1996逐名交叉表④1967西加里曼丹原令⑤1923 VSTP传单。长期GOAL未完成，G1—G10 OPEN。
