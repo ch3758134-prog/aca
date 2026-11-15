@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-16 08:00 CST｜FNPBI同期报道日期冲突与组织活动续查
+
+本次重新读取 AGENTS、goal-continuity、stage-access、continuity-status、chronology，并读取四份正式CSV的表头/开头记录；未完成四表全量URL/ID去重，故不分配新S/C/Q/CV号，不修改chronology或成熟中文历史正文。长期GOAL与G1—G10继续OPEN。
+
+**新增可追索证据线索及访问限制：** Green Left Weekly 1999-05-26 Max Lane《National workers' organisation formed》 https://www.greenleft.org.au/1999/362/world/national-workers-organisation-formed 搜索系统返回长篇文章索引，详细列出1999-05-14—16 Bandung会议的KOBAR、Bandung、Semarang、Solo、Surabaya、North Sumatra、Bitung代表组织及Dita Sari、Ilham Syah职务；再次直接打开原网页仍返回HTTP 520，**未能取得原网页全文**，不能把索引文本升级为原件核验。1999-08-11《Indonesian unionist starts Australian tour》 https://www.greenleft.org.au/1999/371/news/indonesian-unionist-starts-australian-tour 搜索索引称Dita于**1999-07-03**获释，与已核读Amnesty 1999-07-05当日声明及采访所称**1999-07-05**存在直接日期冲突；该GLW网页直接打开也返回520，须追查同期监狱释放文书及报纸原刊，不能悄然改写已有时间线。1999-08-18报道 https://www.greenleft.org.au/1999/372/news/indonesian-unionists-tour-good-start 的搜索索引具体叙述Dita 8月8—12日澳洲工会活动、FNPBI募款及国际联系；2000-02-02 FNPBI署名声援声明 https://www.greenleft.org.au/2000/391/solidarity-statement-indonesian-workers 记载与澳洲BHP工人集体谈判的联系；2000-07-24—26大会及逾15000成员的报道 https://www.greenleft.org.au/2000/416/news/asian-trade-unionists-speak 仍为搜索索引，网页直接打开520。注意与2001年报道约22000成员为不同时点、不同来源口径，不能直接计算增长率。
+
+**具体下一步：** ①取得1999-07-03与07-05两种释放日期的同期监狱登记、司法部执行令、AP/Reuters报刊并区分出狱、宣布与报道日；②用纸刊/Wayback或其他合法镜像核读1999-05-26 GLW全文与1999-05-14—16 Bandung会议原始决议/代表名单；③追FNPBI 2000-07-24—26大会正式会议记录、章程、会员统计口径，核对1999年与2001年组织承继；④独立追查1967西加里曼丹10-31、11-03、11-06、11-17地方原件及军方命令，核查Matsumura/Tanasaldy因果解释；⑤轮换1923 VSTP、1966 Flores军令、SOBSI/BTI/Gerwani基层组织及1998—2026政治犯/劳工后续。原件未读的线索一律保持待核状态。
+
+**Git状态：**本段写入基于当时main文件blob SHA d7acffbed1acc6eadefe00b5b9864405ad1ffe0d，最终提交SHA由写入结果和随后main核验给出；Git提交不可能在同一提交内容中自包含自身最终SHA。前次报告最新提交 c5dcc5cd14cac3d97d71c1a2fb3d177ed9dc1754 尚待本次提交后比较核验。
+
 ## ONGOING / GOAL仍进行｜2026-11-16 06:50 CST｜FNPBI成立会议及西加里曼丹反证续查
 
 本次重读AGENTS、goal-continuity、stage-access、continuity、正式四CSV与chronology（CSV读取主要为表头及部分内容，未完成全表去重）。写入前GitHub main最近HEAD为56fb6703be38330e6928e4b04e6891fafecc6b8a；**此为本次提交之前的HEAD，最终提交SHA须独立核验**。长期GOAL与G1—G10继续OPEN。
