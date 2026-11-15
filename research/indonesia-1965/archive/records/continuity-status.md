@@ -2515,3 +2515,10 @@ G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q
 ## ONGOING / GOAL仍进行｜2026-11-15｜西加里曼丹与ILO证据层级续接
 
 已读G1—G10审计、AGENTS、授权、长期GOAL、正式四CSV、chronology和总账。J-STAGE Matsumura 2015论文仅摘要全文打开，未读论文PDF；其关于Oeray/Partindo、1967年10月红碗动员和驱逐后内地经济影响是研究解释，待1967地方原件验证。ILO官方指南直接确认1979年第65届会议6月6—27日，官方目录列30.5MB会议记录，未读会议发言原页。详见global-gap-tracker最新条。未新增正式S/C/Q/CV或中文正文；G1—G10均OPEN。下次直接①J-STAGE PDF及1967声明原件②ILO 1979会议原页27—29③省府1967《Pengungsian...》④Flores Manek信/Moncongloe SPRIN⑤VSTP 1923传单。前次总账提交7b7cd8933a59bab378f6e036a9cde7e73aef779d。
+
+
+## ONGOING / GOAL仍进行｜2026-11-15｜西加里曼丹与1954年Gerwani国际访问
+
+本次重新读取G1—G10完整性审计和授权规则；复核已登记S453松村2015全文PDF印刷54—57及脚注34，发现F.D.所谓杀人描述的直接经历/转述身份不可判定，不能作杀人自白；对照Tepo 10月5—7与Bengkayang 10月14不同地点事件的时序。跨G项直接打开1954年Darmini来信全文转录，正式新增S932/C1628/Q403，chronology与global-gap-tracker同步。GitHub单文件连续提交；须以最终HEAD核验。
+
+续接：①1954《Women of the Whole World》No.9 p18原刊影像与Monica Felton/澳大利亚代表访问档案；②Oeray 1967-10-31声明、11-03 Pangsuma文件、11-17 Witono命令；③1967西加里曼丹地方受害者/迁徙名册及Dura/F.D.访谈原件；④Flores Manek 1966-04-28原信；⑤ILO 1979第65届Provisional Record pp27—29。G1—G10均未结，中文历史正文尚未更新。
