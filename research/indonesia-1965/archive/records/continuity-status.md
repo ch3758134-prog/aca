@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-16 01:48 CST｜1997—1998失踪案司法与议会追责链
+
+本次读取AGENTS、GOAL、stage-access、统一续接状态、chronology和四份正式CSV表头/起始行；尚未完成四表全量去重，因此本轮新材料**未分配正式S/C/Q/CV编号**，也未改动chronology及成熟中文历史正文。写入前所知前次核验main提交：c238dd017816e65f92c07161a9b07aea262c846a；本次新提交SHA应以GitHub返回值及远程回读为准，不得误称文件可自含自身提交SHA。
+
+**本轮已实际打开原文：**①KontraS《Kronik Kasus Penculikan dan Penghilangan Paksa Aktivis 1997–1998》PDF https://www.kontras.org/wp-content/uploads/2018/09/Kronik-kasus-penculikan-dan-penghilangan-paksa-aktivis-1997-1998.pdf （原组织整理的回溯年表，并非法庭原卷），第1—4页及后续1999/2007年审判与上诉条目；②ELSAM 2012年立场报告《Menyangkal Kebenaran, Menunda Keadilan》PDF https://tile.loc.gov/storage-services/service/gdc/gdcovop/2015322025/2015322025.pdf （美国国会图书馆保存副本；2012年机构立场与法律追责梳理，不是2009议会原决议）；③ANTARA 2008-12-04对Komnas HAM主席Ifdhal Kasim在DPR听证发言的同期报道 https://www.antaranews.com/berita/126074/komnas-ham-segera-temukan-13-korban-penghilangan-paksa （报道不是听证逐字记录）。
+
+**关键新核对：**2008-12-04 Komnas HAM主席在议会听证称24人纳入相关失踪统计，10人安全返回，另1名返回者不愿公布姓名，13人去向仍不明；这与KontraS年表中9名获释、13名失踪、另有死亡者的统计**口径不同**，不能以24、23或22任一数字覆盖其他名单。同期报道还记载Komnas HAM已向总统两次致函，并指111名拟询问证人中9名前官员未到场，102人提供证言。ELSAM 2012年报告记录2006年Komnas HAM调查材料送交总检察院，以及2009-09-28 DPR提出设立临时人权法院、寻找13人、家属康复赔偿、批准反强迫失踪公约四项建议；这是对机关程序的回溯，应查原函、原报告、议会决议。KontraS年表记录1999-04-06军事法院11名被告判决及2007年披露的上诉后处分变化，**判决全文与上诉裁判仍未取得**，不可把年表当裁判原件。
+
+**下次直接执行的精准未完事项：**①获取2009-09-28 DPR全会原决议/会议记录及四项建议原文，核实法定效力；②获取2006年Komnas HAM调查结论和向Kejaksaan Agung移送的文件及2008-12-04听证纪要，建立24/23/22人的逐名口径映射；③查PUT.25-16/K-AD/MMT-II/IV/1999一审与上诉裁判原卷，逐被告区分初审、上诉、撤销开除与最终执行；④逐名核查HRW 1998年名单1.5与KontraS十三人名单的Suyat、Herman/Hermawan、Soni/Sony、Yani异写及时间，优先查看扫描版面与家属证言；⑤并行恢复1966 Flores B.061/III/1966、1967西加里曼丹公告、1923 VSTP报刊原页及SOBSI/BTI/Gerwani基层组织链。GOAL与G1—G10永久OPEN；未宣称穷尽，不替作者政治判断，不建列表式旧HTML。
+
 ## ONGOING / GOAL仍进行｜2026-11-15｜1923 VSTP与1999释放统计的跨G续接
 
 本次读取全局完整性审计G1—G10、AGENTS、stage-access、goal-continuity、正式四CSV、chronology、统一缺口总账和既有接力状态。新核S942（Amnesty 1999年3月ASA21/12/99原PDF全文）、S943（IRPS转载Tirto 1923年工运报道全文，二手），并登记C1643/C1644、Q410、CV428。Amnesty的至少179人为释放/撤诉/解除假释限制混合口径，至少47人为此前已出狱者；不得称179人新出狱。1923年铁路罢工的报刊引文仍待原刊核验。正式台账及chronology已更新，中文历史正文因原始证据不足未动。
