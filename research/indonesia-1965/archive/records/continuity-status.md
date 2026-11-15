@@ -1,3 +1,19 @@
+## ONGOING / GOAL仍进行｜2026-11-15 11:47 CST｜1985年荷兰流亡者反死刑行动档案线索及1960年赴华日期复核
+
+已读取AGENTS、goal-continuity、stage-access、四份正式CSV及chronology，核对其实际路径。继续打开并对照公开馆藏页，未将馆藏描述冒充影像原文。
+
+**新跨年代调查入口**：GerakIngatan馆藏 https://gerakingatan.omeka.net/items/show/193 （本次直接打开页面）标注1985年荷兰流亡组织 **Aksi Setiakawan** 反对处决1965年政治犯的抗议文件，来源为IISH *Suparna Sastra Diredja Papers* **inventory 179**，馆藏标识 **KOL 15_16**。与此前1982—1985年SBKSI材料的 **inventory 170** 是两个不同档案号；不得混同组织，也不能凭目录断言行动日期、参与者或实际阻止处决。需取得179号图像、传单原文、被判死刑者姓名、荷兰及印尼同期报道，核查其与SBKSI及其他流亡网络的实际联系。
+
+**原有日期冲突独立复核**：https://gerakingatan.omeka.net/items/show/62 直接打开，馆藏描述明确称1960年 **9月19日** Jagus、Sobandi、Sabar Sitepu启程赴华，目的是参加10月1日北京活动，标注《Suara Tani》1960年10月第10期第3页、馆藏KOL7_10。https://gerakingatan.omeka.net/exhibits/show/bti-dan-para-ilmuwannya/jagus-dan-penemuan-penempuan-y 直接打开，策展文字却写 **10月19日** 同行赴华又参加10月1日活动，时间逻辑不成立。较早的9月19日与所述目的相容，但目前只核对了馆藏摘要，**尚未目视原刊图片或取得中国接待档案**，不可直接裁定原始日期。
+
+**额外需核对的年代错误**：同一策展页称Jagus在 **1950年** 成为DPRGR成员；该机构名称与1960年政治制度改革的时序存在疑点。须以1960年DPR-GR组建法令、任命名单及1960年5月《Suara Tani》第5期第4页核对，暂不将1950年写入正式年表。
+
+**本次访问层级**：上述三页均为已打开的数字馆藏描述/后世策展正文；1985年原始抗议传单、1960年原刊图片、1960年代表任命令均未逐字核读。尚未对四CSV进行本次新候选的完整语义去重，未分配S/C/Q/CV正式编号，未改chronology或成熟中文正文。没有把发现目录当成证实事件细节。
+
+**精准未完**：①取得IISH Suparna Sastra Diredja Papers inventory 179的1985年反处决抗议原件，核姓名、地点、日期、诉求和签署者；②对照inventory 170的SBKSI文件，检验Aksi Setiakawan与工人网络是否有成员/行动联系；③目视《Suara Tani》1960年10月第10期第3页、核赴华日期，并寻找中国外交/农业组织接待报道；④取得1960年DPR-GR成立和Jagus任命名单，核策展“1950年”错误；⑤正式四CSV按URL/标题/档号去重，合格后登记并更新chronology与连续历史正文，同时轮换1965—68地方镇压及1998—2026组织史。
+
+**GOAL及G1—G10继续OPEN**。本条写入所依据的读取基线为main当前文件blob aeac8677aab27cc487229fe5691606d4794acfab；本条不能预知最终提交SHA，须以提交响应和独立main回读为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 10:49 CST｜BTI农业人物链跨1965断裂及年代冲突核查
 
 已回读AGENTS、goal-continuity、stage-access、正式source-register/claim-ledger/search-log/coverage-matrix及archive/records/chronology.md；继续沿BTI农业技术人员追索。实际打开/检索GerakIngatan公开专题及原刊馆藏记录（下列“原刊”均为馆藏目录/策展文字，未逐页读取图片正文）：
