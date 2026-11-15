@@ -2511,3 +2511,7 @@ G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q
 ## ONGOING / GOAL仍进行｜2026-11-15｜广播权与1979 ILO续接
 
 重读G1—G10审计、授权与正式台账。G3沿S190的1965-11-12 Telegram 1425原OCR补核Radio Indonesia监督交接，新增C1627/Q402，chronology及global-gap-tracker同步。G6/G7定位ILO 1979年第65届会议记录官方目录但原PDF未打开；Flores Manek 1966信函未取得。继续：①Achmadi广播交接令；②苏哈托1965-10-01广播命令；③RRI节目日志；④ILO 1979-65会议记录第27—29页；⑤Flores 1966信函及Moncongloe 1977 SPRIN。G1—G10全部OPEN，长期GOAL未完成。
+
+## ONGOING / GOAL仍进行｜2026-11-15｜西加里曼丹与ILO证据层级续接
+
+已读G1—G10审计、AGENTS、授权、长期GOAL、正式四CSV、chronology和总账。J-STAGE Matsumura 2015论文仅摘要全文打开，未读论文PDF；其关于Oeray/Partindo、1967年10月红碗动员和驱逐后内地经济影响是研究解释，待1967地方原件验证。ILO官方指南直接确认1979年第65届会议6月6—27日，官方目录列30.5MB会议记录，未读会议发言原页。详见global-gap-tracker最新条。未新增正式S/C/Q/CV或中文正文；G1—G10均OPEN。下次直接①J-STAGE PDF及1967声明原件②ILO 1979会议原页27—29③省府1967《Pengungsian...》④Flores Manek信/Moncongloe SPRIN⑤VSTP 1923传单。前次总账提交7b7cd8933a59bab378f6e036a9cde7e73aef779d。
