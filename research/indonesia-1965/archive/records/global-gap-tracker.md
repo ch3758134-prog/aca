@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-15｜G6/G4 1995政治监禁与西加里曼丹1967命令出处复核
+
+已读取全局completeness-audit-2026-11-09.md的G1—G10及AGENTS、stage-access、goal-continuity、continuity-status；已读取正式四CSV及chronology。两条不同缺口链：
+
+**G6/G7/G4｜1994—1995司法与政治监禁。** 直接打开国际特赦组织1995年1月报告19页原PDF https://www.amnesty.org/en/wp-content/uploads/2021/06/asa210011995en.pdf ，重点第1—8页。其1994年末约350人数字包含印尼和东帝汶、多种政治案件，不能当1965 PKI幸存囚犯人数；报告记载1994年Aceh反颠覆法判刑案例及1963法令/1969法律、1981 KUHAP的冲突。**证据等级：同期人权NGO调查原报告全文部分逐页直接阅读；人数及具体案件仍是该组织统计和转述，缺政府名册、法院判决、法律公报。** 已新增正式S937、C1636—C1637、Q406、CV425并入chronology。续查原始Aceh判决、1963 PNPS11/1969 Act5法令、1994年监狱分类名册、1995年法律援助机构辩护档案，区分1980年代释放后的限制与1990年代新政治案件。
+
+**G4/G5/G8｜1967西加里曼丹，既有文献的出处复核而非重复计数。** 直接阅读Taufiq Tanasaldy 2012 KITLV学术专著在线可见正文 https://www.academia.edu/15049509/Regime_change_and_ethnic_politics_in_Indonesia_Dayak_politics_of_West_Kalimantan ；其关于Oeray、Palaoensoeka、Partindo/天主教党分流、1967地方动员的解释已在正式S383和C669—C677登记，不再另立来源。同期文书关键缺件仍是1967-09-21及09-25所谓声明/广播录音、1967-10省府报告、1967-11-09 Usman Idris命令、11-17 Witono公告和受害者/迁移名册。对1967年动员首发日期、地方军官与中央协调程度，保留研究解释分歧，不能将学术著作引用的地方档案写成已读原件。后续应优先核对9月原声明是否署名属实，以及Tepo与Bengkayang事件定义差异。
+
+**跨G项缺口仍OPEN：** G1 VSTP原传单；G2 Gerwani/SOBSI/BTI基层记录；G3 1965广播命令；G4各省暴力原始名册；G5妇女/族群/家庭损失；G6囚犯/流亡及1990年代工会；G7 2024 KPU地方票源；G8实际外交物资交付；G9人物地点稳定索引；G10正式CSV去重和连续中文历史正文。此轮未修改HTML，因新增资料不足以独立构成连贯章节。继续核原件，不宣布完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-15｜G1 1923铁路罢工原件路径与G4巴厘同期数字分层
 
 本次重读completeness-audit-2026-11-09.md全部G1—G10、AGENTS、stage-access、goal-continuity、continuity-status及正式CSV与chronology；本条是跨链原件定位，非原件内容全部核实。长期GOAL不以本条结束。
