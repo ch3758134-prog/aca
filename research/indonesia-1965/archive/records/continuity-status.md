@@ -1,3 +1,12 @@
+
+
+## ONGOING / GOAL仍进行｜2026-11-16 03:55 CST｜Dita Indah Sari赦免法令的23/68编号歧义与PRD劳工组织链
+
+本次重读AGENTS、goal-continuity、stage-access、chronology和统一续接状态；正式四CSV尚未完整核读和去重，故本段**仅为候选证据，不新增S/C/Q/CV编号**，不冒称正式并库。通过印尼文检索并实际打开BPK国家法规目录两项：① Keppres 23/1999，题为《Pemberian Amnesti kepada Sdr. Dita Indah Sari》，https://peraturan.bpk.go.id/Details/89092/keppres-no-23-tahun-1999 ，其签署日期、公报号及原件附件均为空；② Keppres 68/1999，题为《Memberikan Amnesti Kepada Dita Indah Sari》，1999-07-02签署/生效，LN 1999 No.119，https://peraturan.bpk.go.id/Details/58415/keppres-no-68-tahun-1999 。这**不是可以自动视为同一份法令的两个编号**，也不能推断23号确已实施；需调查是否早期拟议、重复条目或两项不同决定。BPK 68号PDF直链 https://peraturan.bpk.go.id/Download/47909/Keppres_No_68_Th_1999.pdf 本次实际打开返回403，**未读原始扫描件**。
+
+另实际打开Klaussa对68/1999的印尼文法条转录 https://www.klaussa.com/peraturan/keppres-no-68-tahun-1999-memberikan-amnesti-kepada-dita-indah-sari ，载第一款对Dita Indah Sari赦免、第二款消除其刑事法律后果、第三款由司法部长和总检察长执行、第四款签署生效；文本列出1998-10-30司法部长、1998-12-07总检察长、1998-12-22最高法院院长三份意见函编号。这是**第三方转录而非已核对官方PDF**，仍需核验扫描及执行/实际出狱日期；法律生效不等于直接证明监狱释放日。另实际打开KontraS官方机构史 https://kontras.org/tentang/ ：该组织自述1996年KIP-HAM为前身、1998-03-20成立KontraS，说明1998年强迫失踪调查机构的组织形成背景；属机构自述而非独立成立档案。与既有1998 AI/HRW报告关于PPBI、PRD、Dita Indah Sari判刑记载连接，但不据此推导秘密组织关系。
+
+**精准未完事项：**①从印尼国家公报或替代政府站点获取Keppres 68/1999扫描全文、核对四款与签名及1998年三封征询函；②查Keppres 23/1999的正式公报、签署日期及与68/1999关系，避免误并；③核Dita Indah Sari 1999年实际出狱日期及其PPBI/PRD组织关系，查当事人、监狱和同期报刊；④全量核读四正式CSV，按标题、URL、法律号去重，正式登记并更新chronology，成熟后写连续中文历史正文；⑤轮换1923 VSTP原刊、1966 Flores B.061/III/1966、1967西加里曼丹地方军令和Gerwani/BTI/SOBSI基层档案。GOAL及G1—G10永久OPEN，不建旧HTML，不替作者作政治判断。写入前续接文件blob SHA：fe9294526036607e26bc8cb03d5be96af6ec09e1；本次提交SHA以GitHub写入响应及随后main回读为准，不能在提交自身预填。
 ## ONGOING / GOAL仍进行｜2026-11-15 11:50 PST｜法律目录与巴厘原文访问限制
 已重读completeness-audit G1—G10、AGENTS、stage-access、goal-continuity、正式四CSV及chronology，查明正式文件在archive/records/。G6/G7续追1999年ICJ所引Keppres 13/1999：定向搜索未获原件，但直接打开BPK官方目录确认1998年Keppres 123/126/127及1999年158/159/173的题名、签署日期和公报号，均**只核目录，未读法令PDF/附件**；1999年1月HRW原始公开信报告Lhokseumawe在押者遭军人袭击四死，仍需医院及军方记录。跨G4/G5核1996 Robinson巴厘章节出版商页，确认章节正文要求认证，不得将搜索摘要当已读；80,000仍属未经地方名册验证的估计。详细出处/限制/地区/机构见global-gap-tracker最新首条。本次正式CSV/chronology/HTML未变，未增编号；总账提交d628cb52897d74468c81866e9e1cd478bee1be52。
 精准续接：①印尼国家法规公报检索Keppres 13/1999原件及40人附件；②下载并逐页核BPK 123/1998、158/159/173/1999原PDF附表，逐人比对1998 AI/HRW七表；③追1999-01-09 Lhokseumawe军方/医院原件；④取巴厘A-527电报与Udayana/RPKAD调动文件；⑤轮换Flores 1966军函、West Kalimantan 1967地方命令和1923 VSTP原报。G1—G10全部OPEN，长期GOAL未完成。
