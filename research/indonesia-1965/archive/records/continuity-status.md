@@ -1,3 +1,19 @@
+## ONGOING / GOAL仍进行｜2026-11-15 12:55 CST｜荷兰流亡网络跨1985—1990证据及1966年Antara工会清退线索
+
+本次回读AGENTS、goal-continuity、stage-access、四份正式CSV（最新末端S930/C1625/Q400/CV422）及chronology。继续印尼文/荷兰文来源检索，直接打开以下馆藏页面，明确区分馆藏文字与原始影像。
+
+**1985—1990组织关系新入口**：GerakIngatan https://gerakingatan.omeka.net/items/show/195 的1990年馆藏照片KOL15_18（Komitee Indonesië照片档案/IISH，页面附Suparna_KI_1990.pdf）描述Suparna Sastra Diredja与Aksi Setiakawan、Komitee Indonesië共同参与反军国主义、反处决、反IGGI示威。这比1985年inventory179单独抗议目录提供更具体的共同公开活动线索；但未核对照片影像、姓名指认或行动日期，不证明SBKSI与Aksi Setiakawan组织合并或共同领导。
+
+**1985年独立荷兰报刊定位**：https://gerakingatan.omeka.net/items/show/177 将Hotel Soneta前IGGI会议抗议定位至《De Waarheid》1985-06-07第1版，Delpher原刊 https://resolver.kb.nl/resolve?urn=ddd:010378558:mpeg21:p001 ，题为“IGGI zwijgt over mensenrechten Geldschieters bijeen in schaduw protest”。策展描述提及Suparna与Ernst Utrecht、Komitee Indonesië、Yayasan Perhimpunan Indonesia及Aksi Setiakawan；本次未逐字读取荷兰报纸版面，不能把其所有姓名与组织归为报纸直接证词。此条与1990年照片可构成独立年份核验路线。
+
+**1966年工会清退与国家机构**：https://gerakingatan.omeka.net/items/show/313 （KOL20_12）馆藏说明Antara通讯社代理负责人、陆军中校M. Noor Nasution于1966年签发解雇前SBPA（Serikat Buruh Pekabaran Antara）成员的决定，原藏IISH Go Gien Tjwan Papers https://hdl.handle.net/10622/ARCH04743 。此为馆藏描述，未目视决定正文、签发日、名单、适用范围及实际执行；不得将其泛化为所有新闻工作者被解雇。它为1965年后具体单位工会与职业清退机制提供高优先原件入口。
+
+**尚未登记**：本次正式四CSV读取并检查末端ID，但未完成针对三个新馆藏URL的全表语义去重；未追加正式S/C/Q/CV，未更新chronology/连续历史正文，不能声称完成。原件未读，不将描述提升为已核史实。
+
+**精准未完**：①打开/核读KOL15_18所附1990年PDF及照片，确定抗议日期、标语、可识别组织和人物，保留图片权利限制；②打开Delpher 1985-06-07第1版，逐栏核对Suparna、Ernst Utrecht、Aksi Setiakawan、Komitee Indonesië及IGGI行动内容；③取得IISH Suparna inventory179/170原件并比较1985反处决与工人团结的成员、组织联系；④取得Antara 1966年决定原图及Go Gien Tjwan档案，核决定编号、签署、名单、执行及受影响者证词；⑤全CSV逐URL/档号/题名语义去重后正式登记、更新chronology与成熟正文，并轮换1965—68地方镇压及1998—2026劳工运动。
+
+**GOAL及G1—G10继续OPEN**。本条写入前文件blob 6e4fd52d21cc06b5338c45b2ceac0aebfff39a8e；本次提交SHA以GitHub写入响应为准，下一次启动必须独立读取main HEAD核对，不在同一提交正文虚构自身SHA。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 11:47 CST｜1985年荷兰流亡者反死刑行动档案线索及1960年赴华日期复核
 
 已读取AGENTS、goal-continuity、stage-access、四份正式CSV及chronology，核对其实际路径。继续打开并对照公开馆藏页，未将馆藏描述冒充影像原文。
