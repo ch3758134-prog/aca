@@ -1622,3 +1622,5 @@ Steven Farram于2010年发表的地区研究直接引述省长El Tari 1972年追
 ### 1954年｜Gerwani大会与国际妇女组织来访（同期组织报道的转录）
 
 - **1954年9月刊物回顾**：Gerwani副总书记Darmini在《Women of the Whole World》1954年第9期第18页称，世界民主妇女联合会代表Monica Felton参加Gerwani大会，来自荷兰、澳大利亚和苏联妇女组织的代表访问印尼多个地方，当地组织接待委员会并举行公开会议。现直接核读的是现代数字转录，不是1954年原刊扫描；来访路线、地方会议、资助与组织后果尚未由来访者文件及印尼地方报刊独立核实。[S932; C1628]
+
+- **1979 (document dated by exhibit, original scan not yet inspected):** Former Salemba political detainee and lawyer Gumuljo Wreksoatmodjo analyzed the administrative distinction between release and being 'returned to society'. His reproduced argument describes three documents issued on return, continuing recall for questioning, travel/relocation reporting to Kodim/Kodam, ET identity markings, employment barriers and relief by Catholic and Protestant churches. These are his contemporaneous claims and legal interpretation, **not yet independently established as uniform national policy**. The digital item metadata mistakenly says '1079'; exhibit identifies 1979. [S933; C1629–C1631; CV423]
