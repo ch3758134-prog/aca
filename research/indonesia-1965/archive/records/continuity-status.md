@@ -1,3 +1,7 @@
+## ONGOING / GOAL仍进行｜2026-11-15 11:50 PST｜法律目录与巴厘原文访问限制
+已重读completeness-audit G1—G10、AGENTS、stage-access、goal-continuity、正式四CSV及chronology，查明正式文件在archive/records/。G6/G7续追1999年ICJ所引Keppres 13/1999：定向搜索未获原件，但直接打开BPK官方目录确认1998年Keppres 123/126/127及1999年158/159/173的题名、签署日期和公报号，均**只核目录，未读法令PDF/附件**；1999年1月HRW原始公开信报告Lhokseumawe在押者遭军人袭击四死，仍需医院及军方记录。跨G4/G5核1996 Robinson巴厘章节出版商页，确认章节正文要求认证，不得将搜索摘要当已读；80,000仍属未经地方名册验证的估计。详细出处/限制/地区/机构见global-gap-tracker最新首条。本次正式CSV/chronology/HTML未变，未增编号；总账提交d628cb52897d74468c81866e9e1cd478bee1be52。
+精准续接：①印尼国家法规公报检索Keppres 13/1999原件及40人附件；②下载并逐页核BPK 123/1998、158/159/173/1999原PDF附表，逐人比对1998 AI/HRW七表；③追1999-01-09 Lhokseumawe军方/医院原件；④取巴厘A-527电报与Udayana/RPKAD调动文件；⑤轮换Flores 1966军函、West Kalimantan 1967地方命令和1923 VSTP原报。G1—G10全部OPEN，长期GOAL未完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 10:52 PST｜1999年实际释放与Aceh总统令入口
 
 本次按G1—G10审计重读AGENTS、stage-access、goal-continuity、滚动状态和缺口总账。直接核读ICJ 1999《Ruler's Law》原PDF https://www.icj.org/wp-content/uploads/1999/01/Indonesia-rulers-law-fact-finding-mission-1999-eng.pdf ，印刷第97—100页：1999-03-25十名1965旧案囚犯实际出狱，03-29 ICJ调查团会见其中人员，附宣誓条件；第100页明确Aceh四十人释放的总统令编号**13/1999**。这是新原件追索入口，不能把ICJ调查报告当作总统令原件。直接阅读1999-03-24 Kompas英文节译 https://www.asia-pacific-solidarity.net/news/1999-03-24/president-grants-amnesty-42-tapols.html ：42人赦免含40 Aceh和2 Borobudur案，另十名旧案计划随后释放；司法部长Muladi称PRD拒绝赦免，PRD主张应无条件释放。不得混同42人赦免、52人宣布、十人实际释放及179人混合受益。另以FRUS文书162官方编辑注释 https://history.state.gov/historicaldocuments/frus1964-68v26/d162 追Bali 1966-02-25使馆A-527电报中的80,000估算，非原电报、非死者名册。详细证据等级和跨G缺口已写入global-gap-tracker.md。
