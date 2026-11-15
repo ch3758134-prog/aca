@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-15 14:xx PST｜FNPBI 1999 Bandung会议与1967 West Kalimantan地方文书追索
+
+已重读AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10完整性审计、正式CSV表头及continuity和global-gap-tracker。注意同仓库已有其他续查者将正式编号推进至S945/C1646/Q411/CV429，**本次没有做全表URL/标题去重，不新增正式编号**，也不以旧轮S943末号覆盖较新记录。
+
+**直接核读的新证据：**《Jakarta Post》1999-06-21文章由APSN保存全文，https://www.asia-pacific-solidarity.net/news/1999-06-21/tangerang-youths-disrupt-rally-dita.html ，记载1999-06-20 Tangerang女子监狱外约50名FNPBI成员集会及遭FPT驱散；FNPBI成员Iqbal说Dita在**1999年5月Bandung全国劳工集会**被选为新成立论坛主席。同期新闻全文（转载）不是大会原件，不能将口述时间认定为正式登记日期；但2000年7月第二次大会显然不能再被误写成首次成立。另直接阅读Taufiq Tanasaldy 2012西加里曼丹政治史可读全书文本 https://www.academia.edu/15049509/Regime_change_and_ethnic_politics_in_Indonesia_Dayak_politics_of_West_Kalimantan ，追得1967-10-31地方Dayak领袖文告、11-03及11-06 H.G. Mungok文书、11-17 Witono公告、1967省府华裔难民调查卷及收藏位置。**这些1967原件均未实际取得**，不得写为原件核验。2017 Aju地方馆藏目录打开超时。
+
+**精确续接动作：** ①查1999-05 Bandung FNPBI成立大会会议记录、1999-06-21《Jakarta Post》原纸版和Iqbal身份；②逐项核PPBI→FNPBI的章程、领导名单及2000-07第二次大会决议；③按Tanasaldy脚注找Sanggau私人收藏1967-10-31、11-03及Pontianak私人收藏11-06、11-17原件；④取西加里曼丹省府1967年华裔难民调查原卷第82页并核数字定义；⑤继续追1923年VSTP同期原刊与Flores军令。G1—G10与长期GOAL保持OPEN；此次尚未改CSV、chronology或连续中文正文。
+
 ## ONGOING / GOAL仍进行｜2026-11-16 05:46 CST｜Dita出狱—FNPBI第二次大会证据正式并库
 
 本次已读取AGENTS、goal-continuity、stage-access、续接状态、正式四CSV全表及chronology，按现有正式ID最大值和URL核查，新增**S944、S945；C1645、C1646；Q411；CV429**，并更新archive/records/chronology.md。直接打开Amnesty 1999-07-05原始声明PDF https://www.amnesty.org/es/wp-content/uploads/2021/06/asa210561999en.pdf ，明确原件内署7月5日、当日称Dita获释并有七名PRD关联良心犯仍在押；Amnesty网站目录日期7月4日与原件不一致，保留差异，不以目录日期替代原件。直接打开APSN所转载2001-08-21《Jakarta Post》全文 https://www.asia-pacific-solidarity.net/news/2001-08-21/noted-award-means-struggle-goes-dita.html ，记载FNPBI14个省级分支、约22000成员，并称Dita在2000年7月**第二次大会**当选主席。组织规模尚无独立审计；第二次大会不等于成立大会。另检索2000年3月Green Left采访 https://www.greenleft.org.au/2000/396/world/dita-sari-parliament-wont-solve-workers-problems ，搜索结果显示有关工会行动，但网页直接打开返回520，本次**未全文核读**，不作已读证据。
