@@ -2588,3 +2588,9 @@ G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q
 ## ONGOING / GOAL仍进行｜2026-11-15｜正式并库S938/C1640/Q408后续接
 
 已读取全局G1—G10审计及研究规则，核验1996-11-15 Amnesty ASA21/76/96原PDF并发现9/11羁押人数内部矛盾；已核原扫描1965-10-29中爪哇AURI No.051/ch/Pr/i/65，确认旧S131已登记且馆藏页面误称东爪哇。正式来源S938、主张C1640、检索Q408及chronology、global-gap-tracker已写入main；本条状态需以GitHub最新HEAD为准。尚缺1996印尼检方/监狱名单、1996八至九月Amnesty连续通报、中爪哇报告前页及地方死者登记。下次优先逐名比对UA 55/58/59/61/62/64/65/66、1998联合报告七组名单；并跨地区追Flores和西加里曼丹原件。G1—G10全部OPEN；中文连续历史正文尚未新增，不把一次运行视为完成。
+
+## ONGOING / GOAL仍进行｜2026-11-15｜Aceh地方军方编年史摘引与PRD 1996年8月拘捕通报
+
+已重读completeness-audit-2026-11-09.md G1—G10、AGENTS、stage-access、goal-continuity、正式四CSV及chronology。跨链核读Jess Melvin论文开放全文所转录1966年Aceh军方Chronologis：1965-10-08 Banda Aceh、10-09 Sigli、10-14 Kuala Simpang/Pulo Tiga和South Aceh Blang Pidie/Sama Dua；后者出现Hap Tjok、Min On、Bun Tok Seng、Sio Nam四个被军方记录为遇害者的姓名。**只读到论文全文对军事原件的引文，不是军方原件或地方死亡名册。** 另直接核读Amnesty 1996-08-11 ASA21/058/1996官方页面，显示8月拘捕消息涉及Dita Sari等劳工与PRD相关不同名单，不能直接与11月S938通报算人数差。详细出处、访问等级及缺件见global-gap-tracker最新首条。未完成全表语义去重，不新建S/C/Q/CV，也未改chronology/HTML；不得将续接条目冒充正式并库。
+
+精确下一动作：①取得Aceh军方Chronologis 1966第3—8页原影及Surat Keputusan 1965第2页，核10月14日两地死者姓名与统计定义；②取得Langsa 1965-10-18 Baperki签署声明及10月11日Kodim 0104会面记录；③打开Amnesty ASA21/058/1996原PDF和其余8—9月连续通报，按别名逐人核对11月S938；④轮换Flores Manek原信、西加里曼丹1967命令与1923 VSTP原传单。G1—G10均OPEN，长期GOAL未完成。
