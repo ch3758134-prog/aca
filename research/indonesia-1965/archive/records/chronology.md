@@ -1639,3 +1639,6 @@ John Mansford Prior于2011年发表的论文直接转录了一份署日期为196
 
 ### 1996-11-15｜PRD拘押人数：同期人权紧急行动内部存在矛盾
 国际特赦组织ASA 21/76/96一页原始紧急行动通报称此前所列16人中5人获释，先称“其余9人”仍被拘押，却在后文逐名列出11名PRD相关仍被拘押者，并说明由雅加达总检察长机关羁押。获释者列Nia Damayanti、Wulan、Atok、Agus及8月21日获释的Benny Sumardi（仍可能面临窝藏罪名）。这证明**该通报内部计数矛盾**，不能把9或11直接当作经监狱名册证实的总数。同期NGO原始报告全文已读（S938/C1640）；需与8—9月系列更新、起诉书及监所原件逐名核对。
+
+- **14–15 April 1997 (prosecution stage, not verdict):** A contemporaneous Kompas report reproduced by ASIET records nine Jakarta PRD cases in which prosecutors sought prison terms, including fifteen years for Budiman Sudjatmiko and twelve for Petrus Haryanto. Defendants and some counsel objected to trial procedure. Do not substitute these demands for the subsequently imposed sentences or appeal outcomes. [S941; C1642]
+- **June 1998 (named NGO roster):** The original AI/HRW HTML List 1.1 separately enumerates thirteen prisoners linked to 1965 cases and twelve PRD-related prisoners with prisons and sentences. List 1.2 is a different category of cases recommended for review, including explicitly unconfirmed custody entries. The lists are contemporaneous NGO compilations, not official custody certificates; typographic anomalies require case-by-case reconciliation. [S939-S940; C1641]
