@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-15 研究续接｜1995政治犯法制与1967西加里曼丹地方原件
+
+本次正式登记S937、C1636—C1637、Q406、CV425；chronology已补1994—95事件；证据为Amnesty 1995原PDF pp1—8 https://www.amnesty.org/en/wp-content/uploads/2021/06/asa210011995en.pdf 。约350人是1994年末印尼及东帝汶合计估算，非1965 PKI残余人数。另一链直接复核Tanasaldy 2012全文可见部分，确认S383/C669—C677已有记录，不重复编号；尚无1967地方原令。最后本次已获chronology写入提交719efa8eef6fe24ac5b205dd44d7c1713845da86；本状态文件自身提交以后续响应与回读为准。
+
+精确续接：①官方PNPS11/1963与UU5/1969法令原文、1994 Aceh判决；②Amnesty 1995报告后半第9—19页逐案提取，与1998囚犯名册去重；③西加里曼丹1967年9月Oeray声明及RRI录音、10月省府报告；④1967年11月Usman Idris/Witono公告和地方受害者名册；⑤轮换Flores/东爪哇军区原件、1954 Gerwani原刊、1923 VSTP传单与2024工会票源。G1—G10仍OPEN，GOAL未完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 17:47 CST｜1978—1979释放批次与持续管制的同期交叉核验
 
 已读取AGENTS、goal-continuity、stage-access、continuity-status、四正式CSV全文和chronology。直接打开国际特赦组织1979年度报告原PDF（印尼部分印刷页92—93）：https://www.amnesty.org/es/wp-content/uploads/2021/09/POL100011979ENGLISH.pdf ；1980年度报告原PDF：https://www.amnesty.org/en/wp-content/uploads/2021/05/POL1000031980ENGLISH.pdf ；及IISH Gumuljo档案目录ARCH.02684：https://www.onsland.nl/collectie-object/https%3A%2F%2Fhdl.handle.net%2F10622%2FARCH02684 。1979报告记载1978年分批释放人数（265/3921/1324/4288）、1979年3月地方军方传达Kopkamtib限制与4月23日致Sudomo电报；1980报告记载1979年4月27日至11月21日7135名B类释放和12月20日最后105人（含Pramudya Ananta Toer、Rivai Apin、Karel Supit）。与S933 Gumuljo的旅行、出版和职业限制叙述互为不同机构的同期报告，但仍未取得Kopkamtib命令原件及地区执行材料；释放人数系报告转述，不得当作已审计官方统计。IISH目录将Gumuljo的1964—66 Bandar Betsy BTI辩护与1979—80/1987—88政治犯通信联系于同一人物档案，未读卷内信件，不可据此推断具体组织合作。
