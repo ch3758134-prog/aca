@@ -2718,3 +2718,7 @@ G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q
 
 ## ONGOING / GOAL仍进行｜2026-11-15 15:21 PST｜Flores与FNPBI续接
 已核读2026-11-09 G1—G10审计及规则/四正式CSV；S456 Prior 2011开放论文PDF全文重读，发现B.061/III/1966军函译文、Manek 1966-04-28信及1967-05教区会议原档追索点；军函/信件/会议原件未得。FNPBI 1999-05-14—16 Bandung大会由Max Lane 1999-05-26同期报道搜索索引给出，出版页HTTP520，非已读全文。具体证据等级、地区、行动、阻碍见global-gap-tracker最新条。下一步查军函原影、教区私人档、FNPBI会议文件、Jan Djong死亡日期和西加里曼丹原公告。G1—G10 OPEN；本次执行边界非完成。
+
+
+## ONGOING / GOAL仍进行｜2026-11-15 15:57 PST｜Flores死亡日期冲突与1999 FNPBI纲领核查
+重读G1—G10审计、项目授权/长期GOAL、正式台账及滚动总账。直接打开Prior 2011原论文PDF页125—127，发现Boumans回忆所记Jan Djong 1966-02-09死亡与其他后出人物记录1966-03-01不一致；2月20日Wair-ita行动和2月27日Sikka DPRD-GR会议仅为论文引述七年后参与者回忆，未得会议/监狱原件。1999-05-26 Max Lane FNPBI报道索引显示5月14—16日Bandung大会代表团体及具体纲领，但出版页再次HTTP520，不能标为全文已读。详见global-gap-tracker末尾。本次无新正式S/C/Q/CV，不改chronology/HTML；所有G项OPEN。下一动作：①查Jan Djong死亡登记及家属/墓碑；②查1966-02-27 Sikka DPRD-GR会议记录及参与者手稿；③找B.061/III/1966原影和Manek信；④找Green Left Weekly 362期纸刊与FNPBI大会原决议；⑤切换1967西加里曼丹Witono军报/广播原件。研究继续，单次边界不代表完成。
