@@ -2616,3 +2616,22 @@ G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q
 ## ONGOING｜2026-11-15｜Langsa 148名Baperki成员附件及1998附表1.3
 
 已读取G1—G10审计、授权/GOAL、正式四CSV、chronology及既有续接。对Jess Melvin 2013开放全文中1965-10-18 Langsa Baperki声明的148名成员附件作原件追索定位：当前只读到论文转录，附件未取得；另直接阅读1998 AI/HRW联合报告HRW网页附表1.3，明确其为“在审/待撤诉”而非在押者名单。详细来源级别、姓名与下一行动已记global-gap-tracker首条。未新增S/C/Q/CV，未改chronology/HTML，不能当成正式新事实并库。下次先追Langsa声明附页和1998附表1.4、1.6、1.7；再转Flores军函/主教信、西加里曼丹原命令、1923 VSTP传单与1998后工会档案。长期GOAL和G1—G10仍OPEN；本次主线更新提交11f80bb9744826e9296aa936ad35a5fcfa95d8fd，最终HEAD以本次续接提交为准。
+
+## ONGOING / GOAL仍进行｜2026-11-15｜Maumere/Sikka人物与事件独立来源补齐
+
+沿最新研究分支对Maumere/Sikka做一轮人物和事件来源交叉核验。新增正式来源S942–S950、主张C1643–C1671、检索日志Q410–Q411、覆盖CV428–CV429；修订S456访问范围、Komnas证人数字与日期争议、2013/2014会议结果差异、Jan死亡日期冲突。新增材料包括2010年Rohe/Watublapi采访、Komnas HAM多个具名证人汇总、Jan外甥家族访谈摘要、Bollen第一人称采访与SVD履历、地方议会回顾以及Webb 1979讨论的研究线索。每条来源依赖、置信限制和下一份原件见`actor-dossiers.md`、`global-gap-tracker.md`及正式台账。
+
+**关键待证：**原始BAP 25/BAP 35与其他Maumere证言；匿名《Menjaring Angin》pp75–76；Jan 1953示威申请、DPRD 1959/1961名单、党籍及死亡/监狱记录；Bollen德文手稿与旅行记录；Rohe、Wairita、Flores Timor Kampung、Gelinting、Bola/Wolokoli逐名受害者资料；“Yos Fred/Pede”“Sumarno/Soemarno”“Yan Jong/Jan”“H. Bollon/Bollen”姓名核实。勿将不同地点数字汇总。
+
+G1—G10均OPEN，GOAL ACTIVE/OPEN-ENDED。下一步继续找上述原始记录并轮换其他地区/组织；本次不产生读者版HTML，不代表事实搜集完结。
+
+
+## ONGOING / GOAL仍进行｜2026-11-15｜Maumere人物独立资料续补：家属记忆、失踪者与Gren仪式
+
+续读G4 Maumere/Sikka人物和事件：新增BBC 2020 Eka Putra Nggalu家属转述、YPKP 2019 Dobo/Iantena追思弥撒报道，以及Erasmus ISS Karina Larasati Kusumawardhani 2020研究论文。正式新增S951–S953、C1672–C1681、Q412、CV430，并同步`actor-dossiers.md`、`chronology.md`与`global-gap-tracker.md`。
+
+新增具名人物：Eka Putra Nggalu（通过母亲转述未具名执行者表亲）、罗丝蒙达·拉森利（Mama Rosmunda Rasenli）、爱迪塔（Mama Edita）、仪式组织者/研究助理Yulius Regang，以及论文具名访谈参与者Rafael Rapa、Ignasius Nasi、Fransiskus Sikut、Ardianus Akar、Simon Satu。家属叙述不等于本人直接目击；组织者兼研究助理、滚雪球招募、受访者翻译及Yulius专书依赖均记入来源链。
+
+关键冲突：YPKP称图阿包（Tua Bao）157户中57人遇害但无名册；2019和BBC报告将仪式放在Tua Bao，Karina论文主要写Nangahale；同论文给Gren Mahe两个不同时间（2017年年中、2018年8月24—25日）。Edita报道年龄与“当时约4岁”不一致。未合并地点、数字、日期或匿名人物。
+
+下一步：取得Yulius 2020专书、PBH Nusra/IKa仪式档案、2017会议纪要、原始采访/相片元数据；以逐人家属名册、教区、拘押、死亡和墓葬资料查证失踪者，并确定Eka亲属与2010未具名证人是否同一人。G1—G10仍OPEN；该批是后续记忆和仪式材料，不是1966当时的原始军政文书或独立死者总表。

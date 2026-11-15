@@ -183,3 +183,85 @@ The early left had connections among ISDV/PKI, Sarekat Islam factions, youth org
 
 - **Suhandjo:** A-386 identifies him as coordinator of Catholic Party activities in the Pati residency, Central Java, and as the informant who described RPKAD cooperation with Catholic, IP-KI and NU groups in Kudus. He said he had furnished the Army a list of more than 200 Baperki members; a separate list of 20 leaders was reportedly awaiting intensive questioning. These are his statements as relayed in a U.S. cable, not independently confirmed actions or verified individual fates. His exact full name, office files and subsequent history are not established. [S151; C143; C648; C649]
 - **Robert J. Martens:** Signed the 10 December 1965 Embassy airgram A-386 as First Secretary. The document establishes his reporting role and what he transmitted to Washington; it does not identify him as the creator or supplier of Suhandjo's local list, nor establish CIA service. [S151]
+
+
+## Maumere/Sikka人物与事件独立资料补齐（2026-11-15）
+
+### 来源渠道与相互依赖
+
+| 渠道 | 本轮读到的材料 | 能直接证明什么 | 依赖与限制 |
+|---|---|---|---|
+| Komnas HAM调查 | 2012年印尼语执行摘要[S140] | 报告如何汇总Petrus Wari Muda、Yakobus Heret、Yos Fred Da Lopez及Gelinting证人的陈述；部分BAP编号 | 原始BAP未取得；不同证人处于同一调查程序，是否互相接触未知；S375为S140非官方英译，不是独立来源 |
+| 记者现场采访 | Ahmad Yunus 2010年报道[S942] | 报道者分别访谈Leonardo Lidi、Daniel David及一名未具名Watublapi受访者 | 单篇报道、无录音/逐字稿和遇难者名册；三名受访者不是同一事件/同一直接证言；同文镜像不增加独立性 |
+| 1974匿名稿 | Prior 2011[S456]、Van Klinken 2013演讲[S943]及2014章[S478] | 研究者转录/翻译了Maumere匿名《Menjaring Angin》材料 | 同一底稿或高度重叠材料链；三种发表形式不得计作三份独立证言。原稿未开 |
+| 2015印尼语论文 | Van Klinken在Jurnal Ledalero发表的论文[S944] | 书目列出1953示威许可申请、1952 Bentara文章和Bollen 1966手稿等原件线索 | 同作者同一研究，不独立；本轮看了摘要和参考文献，链接PDF未能提取正文 |
+| Jan家属回忆 | KITLV 2017年报记录Gerry van Klinken访谈外甥Laurensius Bela’an[S945] | 有名采访对象、亲属关系及家族纪念十字架的记录；家属叙述了1953年前后家族记忆 | 同一研究者；年报是简短摘要，不是录音/逐字稿。受访者2017年75岁，1953年约十岁出头，不能当作成年现场目击 |
+| Bollen个人履历 | UCA News直接采访[S946]、SVD讣告[S947] | Bollen自述及其教会机构记录的任职、到达时间和1966年Nemi进修 | 两种来源可独立核对履历，但都不能证明他在1965年某一天的具体所在地或对某次事件的知情/参与 |
+| 地方记忆与议会回顾 | Roby Kristian社区博客[S948]、GoIndonesia 2024文章[S949] | 地方别名、家庭姓名、党籍/议会角色的检索线索 | 未附引用的材料；博客带有鲜明论述立场，新闻史述未附1959/1961名册。不得当作原始记录 |
+| 早期区域研究 | Webb 1986年论文的在线脚注[S950] | 作者记录其1979年在Watublapi与“H. Bollon SVD”及I.H. Doko交谈，并提出地方杀戮可能涉及旧怨/族群复仇 | 正文未取得；为作者的区域性因果假说，没有指向具体死者/案件。“Bollon”是否Heinrich Bollen需查 |
+
+### Jan Djong／Johanes Djong／Yohanes Djong／“Yan Jong”
+
+- Van Klinken 2013年演讲称他生于1917年，来自Maumere东南丘陵；地方博客给出Hewokloang、父母Moân Kao与Duâ Kotin（Katar）、兄弟Moân Djěle及昵称Moân Kapitang Djong。这些地方姓名来自未注明出处的博客，须用洗礼、户籍、村庄家谱和家庭文件复核。[S943;S948;C1644;C1653]
+- 2013年演讲把Jan与1953年6月19日示威联系起来，并称Sentis da Costa建议公开示威。Jurnal Ledalero 2015参考文献记录一份1953年6月由J. Djong、P. Padang和V.B. da Costa提交给地方政府及警察的示威许可申请；实际申请、批复、警方处置和同期报刊仍未取得。[S943;S944;C1645-C1647]
+- 1959和1961年的公职记述尚待原始名册核验：2024地方媒体称Jan为1959年过渡期DPRD主席，并在1961年DPRD-GR名录中列作Partai Katolik代表；同一时期Van Klinken说他未加入政党而与PNI、PKI领导人相熟；社区博客称他加入PNI、并非PKI。可能存在年份、名额归属与个人党籍的区别，当前不合并为确定身份。[S943;S948;S949;C1648-C1652]
+- “Jan Djong”“Johanes Djong”“Yohanes Djong”彼此很可能是拼写/称呼变体，但要由原始记录确认。2010报道写“Yan Jong”，并称其家属拒绝公开姓名；该报道未给全名，暂记为待确认同一人，不创建确定的合并身份。[S942;S948]
+- 死亡日期目前至少有两条出版链：Prior转引Boumans写1966年2月9日；Van Klinken 2013演讲和2014章节说2月27日会议后两天、即3月1日前后；2017博客也写3月1日，但没有引用。后两条并非两份独立证言，博客是否借用Van Klinken未知。家属纪念十字架不解决死亡日期或原因。[S456;S478;S943;S945;S948;C1057;C1643]
+- 2017年KITLV年报说Van Klinken当年5月访问Jan的外甥Laurensius Bela’an，年报称其75岁；家属1990年纪念聚会立有十字架。Bela’an回忆Jan支持共和国和民主，并谈及家属参与反对王族支持者的行动。该口述可作为具名家族记忆来源；受访者在1953年仍是儿童，且年报不是访谈逐字稿。[S945;C1654-C1655]
+
+### Heinrich Bollen／“Pater Bolen”／“H. Bollon”
+
+- UCA News 2009年直接采访记载Bollen于1959年8月15日到达雅加达，1960—1962年在Maumere，1962—1974年任Watublapi教区牧师；SVD 2020讣告独立记载相同任职段，并称他1966年赴意大利Nemi参加进修课程。[S946;S947;C1656-C1657]
+- Van Klinken 2015年论文书目指出Bollen有一份33页、原文为德语、形成于1966年Nemi/Rome的《Revolusi Watublapi Yang Membawa Selamat》，Robert Rewu SVD于1979年在雅加达制作印尼语版本。本轮没有看到手稿或译稿；它可能是核对神父所见地方政治和旅行时间的关键材料。[S944;C1658]
+- Leonardo Lidi所唱歌词经Daniel David翻译，被记者记为“1965年11月14日，Pater Bolen离开Flores去了德国”；SVD履历则只确认其1966年在意大利Nemi进修，并将其任职期列至1974年。现有资料既不能证实歌词准确记录了出境日期，也不能凭1966年意大利课程否定一次更早德国行程；需要行程和教会通信。[S942;S947;C1660]
+- Webb 1986脚注记载1979年在Watublapi与“Fr H. Bollon SVD”交谈，并把Sikka、Ngada部分杀戮解释为可能夹有旧怨或suku vengeance。这是作者提出的地区性假说；受访者身份拼写与具体案件均待确认，不能用它替代个案证据。[S950;C1670]
+
+### 证人及事件：地点、数字和叙述不可合并
+
+- **Rohe，1965年11月14日（Leonardo Lidi报道）**：记者称Lidi说自己目击33人被集中并遭斩首，且军方命令执行者行动；报道写他三天后作歌。报道中2010年57岁、案发时17岁的年龄不一致；目前没有受害者名单、现场记录或军方命令。该证言不是Watublapi受访执行者的叙述。[S942;C1659-C1662]
+- **Watublapi周边，约1966年2月（未具名受访执行者）**：该受访者自称被征为十名青年执行者之一、分到十名被拘者；报告说夜间卡车运来约20人，提及Dobo、Moropiring、Baubatun，并称他被迫绑自己的哥哥。文章另称军方威胁若被拘者逃脱，将以受访者本人及四名亲属替代。人物姓名、被害者身份、地点与原采访记录均缺，不能与Rohe 33人相加或视为同批人。[S942;C1663-C1664]
+- **Wairita海滩（Petrus Wari Muda）**：Komnas报告说证人被命令挖坑、看见被绑人员及掩埋过程，报告将遇害人数写作至少15并指向BAP 25。尚未拿到该BAP和姓名表。[S140;C659;C1669]
+- **Flores Timor Kampung（Yakobus Heret）**：Komnas报告记载约84人被带到坑边，其中36人据称来自监狱、其他人为山地抓捕者。报告对证言的法律评价不是第二个证人；原BAP和运输/埋葬记录仍缺。[S140;C659;C1668]
+- **Polsek Gelinting**：一名报告未具名的证人称到3月15日约500人死亡，年份未清；这是估算，不能当逐名统计。另一个Yos Fred Da Lopez证言谈到约20名Bola/Wolokoli被拘者被KOMOP卡车押至Maumere、释放请求遭Maj Sumarno拒绝，并称行动持续约六个月、始于1966年3月。不同村、不同证人和不同阶段不能自动汇总；报告结论称这些Maumere事件至少发生于1965年末，时间冲突仍在。[S140;C630-C631;C1666-C1667]
+- **Daniel David的“约500”**：2010文章又报道David称其本村约500人死亡，但该段没写村名或计算依据。它与Gelinting证人的500是两个不同报告，地点和样本未知，既不能互证也不能相加。[S942;C1665]
+- **2月27日会议**：2013 Van Klinken演讲说所列24人当夜被处决；2014章说24人被列为Category A并分别在三个地点“收押”。两者来自同一匿名1974年稿件链，原稿及拘捕/死亡名册未开；文章阅读和档案叙述必须保留版本差异。[S456;S478;S943;C824;C1056;C1643]
+- **KOMOP全称**：Ahmad Yunus文章扩写为“Komando Operasi Pemberantasan”，Van Klinken 2014章解释为“Komando Operasi”，Komnas报告在本次所读段落只写KOMOP。现阶段不把记者扩写当作军方正式全称。[S140;S942;S478;C1671]
+
+### 待办原件与身份去重
+
+1. 找到BAP 25、Gelinting的BAP 35、Yakobus Heret和Yos Fred Da Lopez的原始陈述，逐人核日期、地点、名单和是否目击；并取Komnas报告提到的县署信、28人/9人名单、监狱转运与墓地记录。
+2. 取得匿名《Menjaring Angin》1974年原稿第75—76页、Boumans回忆录及SVD Ende档案；将Prior转录与Van Klinken 2013/2014两个版本逐句对照。
+3. 追踪2010记者Ahmed Yunus的采访笔记、原始歌词和Leonardo身份/年龄凭证；通过各村名单与家庭访谈核Rohe、Dobo、Moropiring、Baubatun受害者。
+4. 取得Jan的洗礼/出生、1953示威申请、1959/1961议会任命、PNI/Partai Katolik记录、Maumere jail/death/burial records和教区日志。
+5. 找到Bollen德文手稿、Rewu 1979印尼语本、1966赴Nemi行程记录及1979 Webb访谈笔记。
+6. 暂不合并：Yan Jong与Jan Djong；Yos Fred Da Lopez与Pede/Federikus da Lopez；KOMOP文书中的Sumarno与Prior信中的Soemarno；Webb的H. Bollon与Heinrich Bollen。每一组都需姓名/职务原件或本人证言。
+7. “Komando Operasi Pemberantasan / Komando Operasi”全称差异须用KOMOP成立命令、信头与同期印章核定；各类500估计、15、20、28+9、33、84都不得作总体人数直接运算。
+
+
+## 后续家属记忆与社区修复人物/事件档案（2016—2020）
+
+### Eka Putra Nggalu及其母系亲属：执行者叙述的家族转述
+
+- BBC记者Callistasia Wijaya 2020年采访Maumere艺术工作者Eka Putra Nggalu。Eka说他2016年询问母亲其母亲家乡Nebe与1965—66年经历，母亲告诉他，一名母系表亲（Eka称“paman”，日常可称舅/叔）曾在1966年Maumere行动中被卷入执行杀戮。该亲属没有姓名；证据链为“未具名亲属经历→Eka母亲→Eka→BBC记者”，不是Eka亲眼所见。[S951;C1672]
+- Eka转述该亲属二十多岁时被地方青年队伍要求看守待处决者，若人逃脱看守也会被杀。此类威胁叙述与2010年Ahmad Yunus报道中未具名Watublapi受访者所述有相似结构，但两名叙述者、村庄和亲属关系都未核对；不能当作互相独立的两份确认，也不能直接认定同一执行者。[S942;S951;C1663-C1664;C1673]
+- Eka与社区艺术团体KAHE后来以戏剧呈现本地记忆。剧中祖父/执行者的叙事是舞台构作，不能拿剧本人物当成一位已识别的历史证人。[S951]
+
+### Yulius Regang、PBH Nusra与Gren修复仪式
+
+- BBC称PBH Nusra活动者Yulius Regang在2017—18年协助一名执行者的子女参与Gren Tana/Blatan Tana、Gren Nuba与Gren Mahe三阶段仪式，并称受害者家属和执行者家属曾私下见面、互相宽恕。参与者姓名和具体场次未披露。[S951;C1674]
+- 2020年Erasmus ISS硕士论文作者Karina Larasati Kusumawardhani将Yulius记为PBH Nusra工作人员和其2020年有限发行专书作者；Yulius还参与联络/协助对当地参与者进行访谈。论文用滚雪球抽样、6次个人访谈加1次10人小组访谈，名单包括习俗领袖、受害者后代、执行者后代和一般参与者；部分访谈由地方助理完成并经过翻译，研究者受疫情影响不能到场。Yulius既是仪式组织者、叙述者、资料作者又是研究助理，因此BBC、PBH材料、论文与该书在组织关系上不能全部算作独立证言。[S953;C1675]
+- 论文列出2017年Gren Tana、Gren Nuba以及2018年Gren Mahe的日期安排，地点主要称Nangahale；同论文另一段却称摄影师Sigit在2017年年中Nangahale Gren Mahe拍摄。YPKP 2019现场稿和BBC 2020则叙述Tua Bao的仪式。可能是分地举行、地名层级差别或资料错置，现有材料没有足够地图/会议原件判断。仪式日期、场次、村落和参与者名单应分开编目。[S951-S953;C1676-C1677]
+
+### 2019年Dobo/Iantena追思弥撒的两位家属
+
+- **罗丝蒙达·拉森利（Mama Rosmunda Rasenli）**：YPKP文章以姓名引用她在2019年5月20日追思弥撒上的叙述：一位亲属以“去参加社区义务劳动”为由被带离住所后未再回来；亲属姓名、最后见面日期、押送者和拘押/埋葬地点均未公开。她讲述的是家庭失踪记忆，不是已确认的现场目击拘捕或死亡。[S952;C1680]
+- **爱迪塔（Mama Edita）**：同文称她当时60岁，引用她回忆父亲的一位弟妹与村中男性失踪、自己小时随父母逃进树林数月。她是儿童时期的逃亡记忆来源；她没有声称目击亲属被抓或遇害。报道的“60岁”和“当时约4岁”之间有年龄差异，出生日期/事件年仍需核对。[S952;C1681]
+- **村级人数**：该现场稿称Tua Bao的157户中有57名遇害者且埋葬地点不明；它未列姓名或计数方法。此为需要以家族名册、教区记录及墓地调查复核的单一地方估算，不是县级总量。[S952;C1679]
+
+### 新增依赖关系图
+
+| 证据线路 | 来源链 | 独立性判断 | 待核项 |
+|---|---|---|---|
+| Eka家族执行者回忆 | 母亲转述→Eka→BBC记者 | 与2010未具名执行者报道是另一名叙述者/记者渠道，但亲属是否同一人未知；均非原始录音 | 母亲、亲属、Nebe具体地点、姓名与采访笔记 |
+| Dobo/Iantena失踪亲属 | Rosmunda、Edita→YPKP现场报道 | 不同于Komnas报告的证人汇总；文章记者与当地倡议组织相连，亲属细节缺失 | 原采访、失踪人名、村册、教区/拘押登记、墓地 |
+| Gren活动史 | Yulius/当地参与者→Karina论文；Yulius→BBC；PBH/IKa→YPKP | 论文有独立研究者与多名具名访问对象，但组织者兼研究助理、滚雪球招募及Yulius专书带来共同来源依赖 | 访谈转录、同意范围、活动会议纪要、照片EXIF、分地仪式完整日程 |

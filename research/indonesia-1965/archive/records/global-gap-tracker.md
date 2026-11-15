@@ -2059,3 +2059,17 @@ G1—G10仍OPEN：地区暴力覆盖Aceh、苏门答腊、爪哇、巴厘、Flor
 **G4/G3（1965-10，Surakarta/Solo，中爪哇，AURI/RPKAD/陆军）**：直接打开并目视核对1965-10-29印尼空军情报部门No.051/ch/Pr/i/65原始扫描两页。标题明确“DJAWA TENGAH”，虽然国家安全档案馆页面误标East Java；23日联合安全参谋机关及22—24日伤亡、空军侦察/传单活动均为该机关自报。此原件已正式登记S131，故不重复计数。缺件：该报告之前页、军方指令、各地伤亡登记；行动：追完整报告和Surakarta县级记录，核22—24日数字定义及不同军种行动链；阻碍：当前扫描似从第4页起且没有独立死者名册。
 
 **G1—G10横向仍OPEN**：G1 VSTP原件；G2 SOBSI/BTI/Gerwani基层；G3广播/军令；G4 Aceh/北苏门答腊/东中西爪哇/巴厘/Flores/西加里曼丹/Sulawesi；G5性别族群损失；G6监禁流亡；G7 1998后劳工与政党；G8英美澳中苏实际交付；G9人物地点组织索引；G10正式去重与中文连续历史正文。下一续接：①核ASA21/55、58、59、61、62、64、65、66/1996逐名变化；②取得1998联合报告七组名单；③取得中爪哇空军原报告前页及22—24日地方名册；④转Flores军函及西加里曼丹省府报告原件；⑤追1923 VSTP传单。**长期GOAL未完成。**
+
+
+## ONGOING / GOAL仍进行｜2026-11-15｜Maumere/Sikka人物与事件的独立来源补齐
+
+**已完成可复查范围：**正式新增S942–S950，C1643–C1671，Q410–Q411，CV428–CV429；同步修订C631、C659、C824、C1056、C1057及S456访问页码。读取Ahmad Yunus 2010报道关于Rohe、Watublapi和Daniel David的段落；Komnas HAM印尼语执行报告p115–121；Van Klinken 2013演讲和2014章关于Jan及2月27日会议；2015论文参考文献；KITLV 2017年报p30；UCAN 2009对Bollen采访、SVD 2020讣告及Webb 1986在线脚注88。全部来源依赖与访问限制记入actor-dossiers和正式台账。
+
+**必须保留的冲突/边界：**（1）2013演讲说会议列出的24人当夜被处决；2014章说24人被列为Category A并“收押”，两者同属Van Klinken—1974匿名稿来源链；（2）Jan死亡日期：Boumans经Prior转引称2月9日，Van Klinken称3月1日，地方博客也写3月1日但来源未知；（3）Jan党籍：Van Klinken称无党籍、地方博客称PNI、2024文章列为1961 Partai Katolik代表；（4）Rohe的33人、Wairita约15、Flores Timor Kampung约84、Bola/Wolokoli约20、Wai Gete 28、Liang 9、Gelinting约500及Daniel David未定位村落约500均为不同事件/口径，不能相加；（5）Leonardo报道年龄57（2010）与案发时17岁互相不合；（6）KOMOP全称和人物别名还未核实。
+
+**下一轮优先取件/检索：**①Komnas BAP 25、BAP 35及Yakobus Heret、Yos Fred Da Lopez对应BAP、县署信、移送名册和分区埋葬指令；②SVD Ende匿名《Menjaring Angin》1974年pp75–76与Boumans回忆录；③Jan洗礼/出生、监狱、死亡、埋葬及1959/1961议会任命和党籍原件；④J. Djong、P. Padang、V.B. da Costa 1953年6月示威许可申请与同期警察/县署登记；⑤Bollen 1966年Nemi德文手稿及Robert Rewu 1979印尼语本、SVD旅行/进修登记；⑥Leonardo采访录音、歌曲原稿、各村遇难者姓名和葬地调查；⑦确认H. Bollon/Bollen、Yos Fred/Pede、Sumarno/Soemarno、Yan Jong/Jan的身份。未取得原件不把引用转录升级为原始文书。
+
+**状态：**G1—G10仍OPEN，长期GOAL ACTIVE；本轮增加独立证据渠道和人物/事件线索，不构成地区调查完成，也未编辑任何HTML、CSS、JS或作者立场文件。
+
+
+**2026-11-15续查｜G4 Maumere/Sikka后续家庭记忆与修复实践：**新读BBC News Indonesia Callistasia Wijaya 2020报道（BBC原站本轮403，经可读镜像检查全文）、YPKP 1965《Misa Arwah untuk Korban 65 di Sikka》（2019-05-21）及Karina Larasati Kusumawardhani Erasmus ISS硕士研究论文（2020）。新增S951–S953、C1672–C1681、Q412、CV430；人物/事件独立档案及时间线同步。材料把调查从匿名目击转述扩展到Eka Putra Nggalu经母亲转述的未具名执行者亲属、Dobo/Iantena两位具名家属的失踪/逃亡记忆，以及2017–2019地方仪式和追思活动的研究记录。**重要边界：**Eka为二手家族故事；2010与2020未具名执行者可能同一也可能不同；YPKP报称Tua Bao 157户/57名遇害者无名册；Rosmunda与Edita不被描述成杀戮现场目击者；Karina采用滚雪球访谈并依赖组织者/研究助理Yulius及其2020专书。论文内部将Sigit摄影置于2017年Gren Mahe，另一处列Mahe为2018-08-24/25；YPKP/BBC称Tua Bao，论文称Nangahale，不能拼成一致时间线。下一步找Yulius 2020原书及PBH Nusra/IKa活动原件；原始访谈录音/逐字稿、受访者知情许可、10 July/31 August 2017会议纪要和活动名单、Sigit相片原始元数据；逐村逐人名册、失踪人家族记录、拘押/教区/墓葬资料；核对Nebe与2010 Watublapi受访者是否有关系。该线索补的是记忆传播和后续仪式，不代替1966当时军警文件及受害者身份调查。G1–G10仍OPEN。
