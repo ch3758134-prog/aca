@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-15 10:52 PST｜1999年实际释放与Aceh总统令入口
+
+本次按G1—G10审计重读AGENTS、stage-access、goal-continuity、滚动状态和缺口总账。直接核读ICJ 1999《Ruler's Law》原PDF https://www.icj.org/wp-content/uploads/1999/01/Indonesia-rulers-law-fact-finding-mission-1999-eng.pdf ，印刷第97—100页：1999-03-25十名1965旧案囚犯实际出狱，03-29 ICJ调查团会见其中人员，附宣誓条件；第100页明确Aceh四十人释放的总统令编号**13/1999**。这是新原件追索入口，不能把ICJ调查报告当作总统令原件。直接阅读1999-03-24 Kompas英文节译 https://www.asia-pacific-solidarity.net/news/1999-03-24/president-grants-amnesty-42-tapols.html ：42人赦免含40 Aceh和2 Borobudur案，另十名旧案计划随后释放；司法部长Muladi称PRD拒绝赦免，PRD主张应无条件释放。不得混同42人赦免、52人宣布、十人实际释放及179人混合受益。另以FRUS文书162官方编辑注释 https://history.state.gov/historicaldocuments/frus1964-68v26/d162 追Bali 1966-02-25使馆A-527电报中的80,000估算，非原电报、非死者名册。详细证据等级和跨G缺口已写入global-gap-tracker.md。
+
+**下一步可直接执行：** ①搜索并核对印尼Keppres 13 Tahun 1999全文、受益者附件和法律效果；②获取1999-03-25 Jakarta Post第2页与监狱出狱记录，十人逐名交叉；③查1999-03-24 Kompas印尼原报与PRD 03-10声明；④取1966-02-25 A-527电报扫描、Bali军区/RPKAD地方调动记录；⑤轮换1923 VSTP、1965 Aceh Langsa名册、Flores军函及SOBSI/BTI/Gerwani。未全量去重四CSV，未分配S/C/Q/CV编号、未改chronology和中文正文；G1—G10 OPEN，长期GOAL未完成。GitHub提交见本次文件更新记录，不自称全量完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-16 02:51 CST｜2005—2009失踪案调查原卷与议会程序辨析
 
 本次已重新读取AGENTS、goal-continuity、stage-access、continuity-status、chronology及正式四CSV表头/前段；尚未全表去重，**本次未分配正式S/C/Q/CV编号**，不冒充正式入库或正文成熟。写入前最新已知上次GitHub提交 a3990798d5e3a6797fbeda4240809518db2336b3；本次实际提交SHA以GitHub写入返回值和远程核验为准，文件不能自含自身提交SHA。
