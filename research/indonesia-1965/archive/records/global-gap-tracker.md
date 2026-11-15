@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-15｜1999年赦免执行与巴厘区域暴力交叉核验
+
+本次已读取完整性审计G1—G10、AGENTS、stage-access、goal-continuity、continuity-status及现有总账；四CSV实际路径仍须重新定位并全量去重，本次不冒用正式编号。研究链G6/G7（1999年赦免）与不同地区G4/G5（1965巴厘）交叉推进。
+
+**G6/G7｜1999年3月，Jakarta/Aceh及各监狱，Habibie政府、司法部、军方、PRD与1965旧案。来源等级A：国际法学家委员会ICJ 1999年10月《Ruler's Law》调查团原报告全文，https://www.icj.org/wp-content/uploads/1999/01/Indonesia-rulers-law-fact-finding-mission-1999-eng.pdf ，第7—8页记1999-03-20至04-03现场访问、会见三名刚获释PKI旧案囚犯；第99页明确十名长期囚犯于1999-03-25实际获释，调查团3月29日与其中人员见面，释放附有宣誓效忠Pancasila/1945宪法等条件。这比此前1999-03-25 Amnesty新闻稿的「宣布释放」前进到同期实地接触；仍未取得十人逐名出狱证明、总统令及效忠文件。来源等级B：1999-03-24 Kompas当日报道的英文节译全文 https://www.asia-pacific-solidarity.net/news/1999-03-24/president-grants-amnesty-42-tapols.html ，称已赦免42人（其中40名Aceh案件、两名Borobudur案件），十名旧案囚犯计划两日内赦免；并逐名列八名仍在押PRD成员。须区分42与52的日期及构成；Kompas英译为节录，非印尼语原报原页。下一步追1999-03-24 Kompas原版、总统赦免令与1999-03-25监狱出狱簿；对照AI ASA21/21/99和1998 HRW七组名单，禁止把宣告/赦免/实际出狱/撤诉混算。
+
+**G4/G5｜1965-66 Bali，PNI、RPKAD、Kodam Udayana与地方村社。来源等级A/B：美国国务院FRUS 1964-68卷26文书162官方编辑全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d162 ，脚注引1966-02-25使馆A-527电报报告巴厘约80,000死者估计，注意原始A-527扫描未读，且为当时使馆估算而非死者名册。来源等级B：Geoffrey Robinson 2017开放论文 https://doi.org/10.1080/14623528.2017.1393935 （本次搜索摘要，未读完整论文）主张地区军方态度及后勤影响暴力。缺件：A-527原电报、Udayana军区命令、RPKAD进驻记录、村级死亡/财产登记与PNI地方组织文件。下一步逐日区分1965年10—11月政治排斥与12月大规模杀戮，查军区调动及地方名册；不能将使馆80,000估计当作核实名单。
+
+**跨G未结：** G1 1923 VSTP原刊；G2 SOBSI/BTI/Gerwani基层材料；G3广播和命令；G4其余Aceh、Sumatra、Java、Flores、Kalimantan、Sulawesi地方原件；G5家庭/族群后果；G6监禁流亡；G7当代党派劳工；G8各国援助交付；G9地点人物组织索引；G10正式台账去重与中文连续正文。所有G项OPEN。此次尚未改动CSV、chronology、readable-history；原因是未完成正式全表去重与逐名原件交叉，不得称正式并库。
+
 ## ONGOING / GOAL仍进行｜2026-11-15｜跨G1与G6/G7原文核验（S942—S943）
 
 **G1｜1923，Semarang/Kertosono/Surabaya/Aceh/Medan，VSTP、PVH与殖民军警。** 已打开IRPS转载的Tirto印尼文完整文章（S943），其引用1923年《Darmo Kondo》《Kaoem Moeda》《Sin Po》《Pemberita Makassar》关于Semaoen被捕、铁路罢工、各地部署及罢工数字的叙述。**来源级别：二手历史新闻全文，不是报刊原页。** 缺件：1923-05-09 Darmo Kondo、1923-05-12 Kaoem Moeda、1923-05-28 Sin Po、1923-07-11 Pemberita Makassar、VSTP中央传单、殖民警务原档。行动：逐页检索Delpher/印尼馆藏并与既有S913 Ingleson比对，防止二手互引当独立证据。障碍：原刊期号及页码未取得。
