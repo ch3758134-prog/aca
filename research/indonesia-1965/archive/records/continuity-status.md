@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-15 20:49 CST｜1996年PRD拘押名单内部数字冲突与1998跨组名册入口
+
+本次直接打开国际特赦组织1996-11-15原始紧急行动PDF（ASA 21/076/1996）：https://www.amnesty.org/zh-hant/wp-content/uploads/2021/06/asa210761996en.pdf 。**关键内部冲突**：PDF第23行概括“五人获释、其余九人仍被羁押”，但第26行随后明确列出**十一名**仍被羁押并面临反颠覆法指控的PRD相关人员：I Gusti Anom Astika、Wilson、Budiman Sudjatmiko、Petrus Haryanto、Kendar Kusumandaru、Garda Sembiring、Ignatius Pranowo、Ignatius Putut Arintoko、Jacobus Kurniawan、Suroso、Victor da Costa。不能直接沿用“九人”作可靠总数；须核对8—9月系列紧急行动更新，重建集合和不同统计口径。第24—25行明确记载Nia Damayanti、Wulan、Atok、Agus获释，以及Benny Sumardi于8月21日获释但仍可能面临窝藏指控；此为国际特赦组织收到的信息，非司法或监狱原始登记。
+
+另直接打开1998-06-03国际特赦组织与人权观察联合报告官方目录页：https://www.amnesty.org/en/documents/asa21/058/1998/en/ 。其描述称报告末尾有七组囚犯、政治活动者及失踪者名单，是把1965旧案与1996 PRD案件分别逐名追到改革时期的重要入口；**报告PDF和七份名单本次未打开，不能视为已核实个人结局**。已复查1995-11 ASA21/055与1996-07 ASA21/043官方目录页。多语言检索主要为英文、印尼主题词；未取得独立印尼司法反证。
+
+**本次归档限制**：已读取AGENTS、goal-continuity、stage-access、chronology及正式四份CSV表头/起始记录；未完成四表全量去重，不分配S/C/Q/CV编号，未更新chronology或中文连续历史正文。此记录为原件核读后的待正式并库证据，不能冒充已并库。**精准未完**：①逐份打开ASA21/055/1996、058/1996、059/1996、061/1996、062/1996、064/1996、065/1996、066/1996，查清9与11的差异；②打开ASA21/058/1998 PDF七组名单，逐名交叉1995—96政治犯和PRD名单；③检索印尼1996年PRD起诉书、法院判决及军方拘押记录，核对人员和罪名；④全量四CSV去重、正式登记并更新chronology；⑤轮换Flores 1966军函/主教信及1967西加里曼丹地方军政档案。**GOAL/G1—G10永久OPEN**；写入前GitHub文件blob SHA：f52eeafa548f3aeba80ea8f25b9a38848a43ec24；提交后须另核验main HEAD，最新提交SHA以实际GitHub返回为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 19:53 CST｜1995年11月政治犯修订名单原PDF核读
 
 本次实际打开国际特赦组织原始PDF（ASA 21/055/1995，1995年11月）：https://www.amnesty.org/en/wp-content/uploads/2024/05/ASA210551995ENGLISH.pdf 。PDF直接呈现1995年11月修订名册，说明1995年7月原表中若干人员早已释放，必须逐名对照而不能以27减14计算释放数。原件第1—2页列出Asep Suryaman（1971年9月被捕，1975年8月死刑判决）、Sukatno（1968年7月被捕，1971年3月死刑判决）、Bungkus（1965年10月被捕，1971年7月死刑判决）、Nataneal Marsudi（1965年10月被捕，1968年10月死刑判决）、Abdul Latief（1965年10月被捕，终身监禁）、Isnanto（1969年2月被捕，死刑判决）等，附关押地点及健康状况。这是国际特赦组织1995年追踪记录，不等于法院判决书或监狱原始台账；末页表格文字提取存在错行，姓名和量化统计须对照原PDF页图。
