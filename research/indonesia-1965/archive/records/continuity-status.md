@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-15 13:55 CST｜Antara 1966机构清退及1985荷兰声援行动交叉检索
+
+已回读AGENTS、goal-continuity、stage-access、continuity-status、正式四CSV表头与开头记录以及chronology；本次选择1965后具体机构工会清退与1980年代海外抗议的连接点。直接打开GerakIngatan KOL20_12 https://gerakingatan.omeka.net/items/show/313 ：馆藏描述称1966年LKBN Antara负责人、陆军中校M. Noor Nasution签发对前SBPA成员不名誉解雇的决定；原藏Go Gien Tjwan Papers https://hdl.handle.net/10622/ARCH04743 。页面列出JPG但此次网页工具仅取得馆藏元数据，未读取原图，不能认定决定全文、精确日期、个人名单、执行效果。独立发现2024-01-13/14 Historia人物报道 https://www.historia.id/article/brigjen-m-noor-nasution-perwira-tni-eks-pemain-sandiwara-p7nz2 ，其可见部分援引苏加诺1965-12-13省长会议讲话，苏加诺点名质询负责监督Antara的Noor Nasution关于将军遗体报道；这是1965年12月苏加诺讲话的后世转引，不是对1966解雇令的独立直接证明。须追原讲话和Antara机关决定。
+
+重新打开KOL15_11 https://gerakingatan.omeka.net/items/show/177 ：馆藏将荷兰《De Waarheid》1985-06-07第1版 https://resolver.kb.nl/resolve?urn=ddd:010378558:mpeg21:p001 与Hotel Soneta前反IGGI抗议关联，策展说明称Suparna与Ernst Utrecht同场；页面通用日期字段却为1978—1996，不可把该范围误当单一活动日期。未读取Delpher版面，人物身份仍须原图确认。此链可与1985 inventory179反处决和1990 KOL15_18对照，但不能凭相邻馆藏推定组织合并。
+
+本次只做了正式四CSV的开头和ID治理基线读取，尚未对新候选作全表去重，未分配S/C/Q/CV、未修改chronology/连续中文正文；不将馆藏摘要提升为原件。此前状态记录正式末端S930/C1625/Q400/CV422，下一次必须重新全表核对最新编号。
+
+**精准未完**：①取得KOL20_12的可授权原图、核Antara决定编号/签发日期/被解雇范围/签名及执行记录；②取得1965-12-13苏加诺省长会议讲话原录与Antara同期报道，区分新闻审查与1966用工清退；③直接核读Delpher 1985-06-07第1版照片/全文、确认Hotel Soneta示威日期与人物组织；④核IISH Suparna inventory170/179及1990 KOL15_18附件，建立可证实而非猜测的人员关系；⑤四正式CSV全表按URL/档号/题名查重后登记，补chronology与成熟中文正文，并轮换1967西加里曼丹及1998后工会。GOAL及G1—G10继续OPEN。本次起点已知上一核实提交e9b70cb71cae02d4030e074d21bd50432ade4cfe，最新提交SHA须以GitHub响应与回读为准，不在文件内伪造自身提交SHA。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 12:55 CST｜荷兰流亡网络跨1985—1990证据及1966年Antara工会清退线索
 
 本次回读AGENTS、goal-continuity、stage-access、四份正式CSV（最新末端S930/C1625/Q400/CV422）及chronology。继续印尼文/荷兰文来源检索，直接打开以下馆藏页面，明确区分馆藏文字与原始影像。
