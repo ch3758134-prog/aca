@@ -1937,3 +1937,14 @@ G1殖民与早期组织、G2群众组织基层、G3跨机关时序、G5性别族
 **异项G7（2024政党劳工基础）**：定位印尼中央统计局BPS官方《Summary Of Votes by Political Party on Election 1955-2024》 https://www.bps.go.id/en/statistics-table/1/MTU3MyMx/hasil-penghitungan-suara-sah-partai-politik-peserta- ，搜索索引展示2024年DPR党派得票、比例和席位的全国表格，标注2025-02-07更新；但本次直接打开返回HTTP 403，**仅确认官方统计表的检索入口和部分索引，不冒称已核Partai Buruh全国得票、县级票源或工会组织关系**。必须再以KPU《Keputusan KPU》2024年DPR全国汇总表及省县DPRD附件交叉核验，尤其区分全国DPR、地方DPRD和总统选举票数；选票不等于工会会员，更不能由党名推出与1965年前PKI/SOBSI的组织继承。另直接打开康奈尔大学馆藏Geoffrey Robinson《The Economic Foundations of Political Conflict in Bali, 1950–1965》元数据 https://ecommons.cornell.edu/entities/publication/36745d19-b79c-413c-be9e-8d7a61c39bfe ，确认1992年《Indonesia》第54期59—94页，全文PDF跳转CDN失败，**未读正文**；该研究可供G2/G4巴厘社会经济关系追索，不可凭题名填补事实。
 
 **G1—G10缺口总账继续OPEN**：G1 1923铁路工运原报与1948地方组织；G2 SOBSI/BTI/Gerwani、巴厘土地生产关系；G3 1965跨机关逐时序；G4 Aceh/北苏门答腊/爪哇/巴厘/Flores/西加里曼丹/Sulawesi地方军令；G5女性、族群、幸存者名册；G6拘押流亡与1979工会；G7官方选举与基层工会实际网络；G8外部援助提议—批准—交付链；G9人物—地方—组织索引；G10正式台账去重与连续中文正文。已查来源级别分别为**同期档案馆编辑说明、官方统计搜索索引、学术论文馆藏目录**，均不冒充本次已读原件全文。当前新进展是口径冲突的明确限定和跨年代原件获取路径；正式CSV/chronology/正文未更改，长期GOAL未完成。精确续接：①A-408原扫描统计段；②巴厘军区1965年12月命令和省府名单；③KPU 2024 Partai Buruh全国及省县DPR/DPRD原表；④康奈尔Robinson 1992全文及脚注；⑤轮换Flores B.061/III/1966、West Kalimantan 1967省府报告、G1 1923 VSTP原报。
+
+
+## ONGOING / GOAL仍进行｜2026-11-15｜G4全国暴力同期统计来源分歧与G7官方选举原件
+
+本次按规则读取completeness-audit-2026-11-09.md的G1—G10、AGENTS、stage-access、goal-continuity及滚动状态；正式CSV在archive/records/目录，既有台账已有大量后续编号，禁止沿旧审计编号追加。跨链选择G4（1965—1966地区暴力）与不同年代/组织的G7（2024 Partai Buruh选举结果）。
+
+**G4 / 地区与数字定义：** 直接打开美国国务院《FRUS 1964–1968》卷XXVI编辑注162全文：https://history.state.gov/historicaldocuments/frus1964-68v26/d162 。该编辑注引用1965-10-29雅加达telegram 1269的Aceh杀戮消息、11-08 telegram 1374的北苏门答腊及Aceh系统性反共行动报道、11-13 telegram 1438及泗水telegram 171的东/中爪哇夜间杀戮与Kediri/Paree数字。又引用1966-02-25 A-527对巴厘死亡约80,000人的使馆估计，以及1966-04-15 A-641使馆承认全国总数可能介于100,000与1,000,000的极大不确定性。1970年Howland《Studies in Intelligence》以军官提供的爪哇50,000、巴厘6,000、北苏门答腊3,000等估计构成较低全国估计105,000。**访问等级：FRUS官方编辑注全文已读，所引telegram/A-527/A-641/Howland原始文书本次未分别打开；编辑注转引不能充当地方原始死亡名册。**尤其巴厘80,000与6,000不能简单求平均，也不能把A-527当成独立学术统计；必须查其统计口径、报告时点、地理范围、调查来源。缺件：RG59 POL23-9 INDON原始电报、RG84馆藏、Howland原刊、巴厘各县军警/医院/墓地及幸存者名册。阻碍：汇总编辑注无法提供可核的地方统计分母。
+
+**G7 / 2024政党与工会：** 本次直接打开KPU正式《Keputusan KPU Nomor 1204 Tahun 2024》签署文书及附件PDF全文：https://jdih.kpu.go.id/data/data_kepkpu/2024kpt1204.pdf ，2024-08-25签发，附件列全国DPR有效政党票151,793,293，Partai Buruh **972,898票**，低于4%门槛（6,071,731.72票），故未达全国DPR议席分配门槛。约占全国有效票0.641%。**来源等级：官方选举决定原件PDF全文已读，数值是2024年全国DPR政党票，不是DPRD票、工会人数、党员数或PKI/SOBSI组织继承证据。**尚缺KPU 84选区与各省县明细、政党与工会组织文件及工人投票实证；后续以KPU 360/2024及1192/2024附件复核区域基础。此原件解决上一记录中BPS页面403导致的全国数字未核问题，但不解决基层社会关系。
+
+**G1—G10仍OPEN：** G1铁路罢工原报；G2 SOBSI/BTI/Gerwani地方组织；G3跨机关逐时序；G4地方军令与名单；G5女性/华裔/幸存者；G6监禁流亡；G7政党基层工会；G8外国援助实际交付；G9人物地点组织交叉索引；G10正式台账和连续中文正文。下一续接：①FRUS162所列1966-02-25 A-527及1970 Howland原件全文；②巴厘各县数字与军方报告；③KPU 360/1192原始选区附件；④Flores B.061/III/1966及West Kalimantan 1967省府报告；⑤1923 VSTP同期原报。此次仅写长期总账，正式CSV/chronology/HTML尚未并库，不能称已完成正式登记。GOAL仍OPEN。
