@@ -2004,3 +2004,11 @@ G1—G10仍OPEN：地区暴力覆盖Aceh、苏门答腊、爪哇、巴厘、Flor
 **不同G项G2/G8：**直接打开1954年Gerwani副总书记Darmini在《Women of the Whole World》1954年第9期第18页来信的现代全文转录 https://gerwani.logosid.app/teks/3 。Darmini称WIDF的Monica Felton参加Gerwani大会，荷兰、澳大利亚、苏联妇女组织代表到多个印尼地方访问，接待委员会组织公开活动。**同期参与者组织自述经现代转录，非原刊扫描、独立外国代表名册或政府记录**；不能从“访问”推定秘密资助或国家指挥。与1959 Sulami意大利UDI大会叙述构成跨国妇女网络的不同时间节点，不能混成单一访问。正式登记S932/C1628/Q403，chronology同步记载。缺1954原刊影像、Gerwani第二次大会记录、WIDF/澳大利亚/荷兰/苏联访问函件和印尼地方报道。
 
 **G1—G10均OPEN**：G1 VSTP原报、G2组织基层、G3广播跨机关原令、G4地方军区命令、G5死者与性别/族群名册、G6监禁流亡、G7改革后组织、G8外国实际行动、G9人地组织索引、G10去重及中文连续历史正文。下一精确动作：①查Darmini 1954原刊及Monica Felton旅行/会议记录；②查1967年F.D.采访笔记、Dura回忆及原始地方人口册；③取得1967-10-31 Oeray声明和11-03 Laskar Pangsuma文书；④核Flores 1966 Manek信及Moncongloe 1977 SPRIN；⑤核ILO 1979-65 Provisional Record pp27—29。未取得的新原件不能升级为地方实施证据；GOAL仍OPEN。
+
+## ONGOING / GOAL仍进行｜2026-11-15｜Flores KOMOP原令追索与1995囚犯名单订正
+
+**G4/G5/G8｜Flores Sikka/Maumere，1966年2—4月，军方KOMOP/教区/PNI与被指PKI人员。**直接打开John Mansford Prior 2011《The Silent Scream》27页全文（已登记S456），第135—136页注58转录1966-03-15函B.061/III/1966，称Soemarno少校代表Kodim 1607/KOMOP警告神父不得干涉清剿，并要求调走在Bola干预的Pede da Lopez。该引文是**学术论文内转录同期军事文书**，不是本次直接打开签署原件；论文还记述1966-04-28 Manek主教信与Maumere教区争论，原信仍缺。对函件原始署名、接收和执行效果保留未证实。追索：Kodim 1607档、Maumere/Ende教区档、Da Cunha 1999 pp206—216、1966-04-28 Manek原信、Bola受害者姓名册。不能由单一地方估计外推全Flores死亡数。
+
+**G6/G7｜1995—1996拘押与人权机构名单。**直接打开Amnesty 1995-11 ASA21/055/1995原PDF（已登记S311），第1页明确订正7月名单包含已释放者，后页列出Cipinang、Padang、Medan、Surabaya、Semarang、Madura、Ujung Pandang等监狱的个人姓名、刑期、健康状况；与既有S310/C506/C664核对不重复登记来源。**同机构同期名单≠政府监狱原册**；1995年27与1996年14不可机械相减为释放13人。需逐名校对逮捕/判决/转监/释放/死亡及1995-07-28赦免令。
+
+**G1—G10全部OPEN。** G1早期VSTP原件；G2 SOBSI/BTI/Gerwani基层；G3 1965跨机关原令；G4各地区命令；G5死者、性别与财产名册；G6监禁流亡；G7当代劳工政党；G8外部介入实际证据；G9人地组织直达索引；G10正式台账及连续中文历史。下一步：①Kodim 1607 B.061/III/1966原件②Manek 1966-04-28信③Amnesty 1995/1996逐名名单与司法记录④1967西加里曼丹地方原令⑤1923 VSTP罢工传单。
