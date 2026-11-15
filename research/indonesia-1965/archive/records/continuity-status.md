@@ -2612,3 +2612,7 @@ G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q
 已重读completeness-audit-2026-11-09.md G1—G10、AGENTS、stage-access、goal-continuity、正式四CSV及chronology。跨链核读Jess Melvin论文开放全文所转录1966年Aceh军方Chronologis：1965-10-08 Banda Aceh、10-09 Sigli、10-14 Kuala Simpang/Pulo Tiga和South Aceh Blang Pidie/Sama Dua；后者出现Hap Tjok、Min On、Bun Tok Seng、Sio Nam四个被军方记录为遇害者的姓名。**只读到论文全文对军事原件的引文，不是军方原件或地方死亡名册。** 另直接核读Amnesty 1996-08-11 ASA21/058/1996官方页面，显示8月拘捕消息涉及Dita Sari等劳工与PRD相关不同名单，不能直接与11月S938通报算人数差。详细出处、访问等级及缺件见global-gap-tracker最新首条。未完成全表语义去重，不新建S/C/Q/CV，也未改chronology/HTML；不得将续接条目冒充正式并库。
 
 精确下一动作：①取得Aceh军方Chronologis 1966第3—8页原影及Surat Keputusan 1965第2页，核10月14日两地死者姓名与统计定义；②取得Langsa 1965-10-18 Baperki签署声明及10月11日Kodim 0104会面记录；③打开Amnesty ASA21/058/1996原PDF和其余8—9月连续通报，按别名逐人核对11月S938；④轮换Flores Manek原信、西加里曼丹1967命令与1923 VSTP原传单。G1—G10均OPEN，长期GOAL未完成。
+
+## ONGOING｜2026-11-15｜Langsa 148名Baperki成员附件及1998附表1.3
+
+已读取G1—G10审计、授权/GOAL、正式四CSV、chronology及既有续接。对Jess Melvin 2013开放全文中1965-10-18 Langsa Baperki声明的148名成员附件作原件追索定位：当前只读到论文转录，附件未取得；另直接阅读1998 AI/HRW联合报告HRW网页附表1.3，明确其为“在审/待撤诉”而非在押者名单。详细来源级别、姓名与下一行动已记global-gap-tracker首条。未新增S/C/Q/CV，未改chronology/HTML，不能当成正式新事实并库。下次先追Langsa声明附页和1998附表1.4、1.6、1.7；再转Flores军函/主教信、西加里曼丹原命令、1923 VSTP传单与1998后工会档案。长期GOAL和G1—G10仍OPEN；本次主线更新提交11f80bb9744826e9296aa936ad35a5fcfa95d8fd，最终HEAD以本次续接提交为准。
