@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-16 05:46 CST｜Dita出狱—FNPBI第二次大会证据正式并库
+
+本次已读取AGENTS、goal-continuity、stage-access、续接状态、正式四CSV全表及chronology，按现有正式ID最大值和URL核查，新增**S944、S945；C1645、C1646；Q411；CV429**，并更新archive/records/chronology.md。直接打开Amnesty 1999-07-05原始声明PDF https://www.amnesty.org/es/wp-content/uploads/2021/06/asa210561999en.pdf ，明确原件内署7月5日、当日称Dita获释并有七名PRD关联良心犯仍在押；Amnesty网站目录日期7月4日与原件不一致，保留差异，不以目录日期替代原件。直接打开APSN所转载2001-08-21《Jakarta Post》全文 https://www.asia-pacific-solidarity.net/news/2001-08-21/noted-award-means-struggle-goes-dita.html ，记载FNPBI14个省级分支、约22000成员，并称Dita在2000年7月**第二次大会**当选主席。组织规模尚无独立审计；第二次大会不等于成立大会。另检索2000年3月Green Left采访 https://www.greenleft.org.au/2000/396/world/dita-sari-parliament-wont-solve-workers-problems ，搜索结果显示有关工会行动，但网页直接打开返回520，本次**未全文核读**，不作已读证据。
+
+**精准未完事项：**①取得1999-07-05 Tangerang监狱释放簿及当日印尼语报刊，核对Amnesty当天声明和实际执行日期；②取得Keppres 68/1999官方扫描及Keppres 23/1999正式公报，分辨法律编号与执行程序；③查1999年FNPBI成立大会、2000年7月第二次大会会议记录和2001年各省级分支/会员名册，核对PPBI→FNPBI组织承继；④追查1999-07-05 Amnesty所称其余七名PRD关联在押者的逐名名单、释放令与2000—2001年司法状态；⑤轮换1923年VSTP《Darmo Kondo》《Kaoem Moeda》原页、1966 Flores B.061/III/1966、1967西加里曼丹军令和SOBSI/BTI/Gerwani基层组织原始资料。尚未增写成熟中文连续正文，因为PPBI/FNPBI内部成立及继承机制原件仍缺，不以来源拼贴替代历史过程。GOAL及G1—G10永久OPEN；不宣称穷尽，不替作者政治判断。**写入前已知main最新提交：da0a5c2caf1250fb283ebc5d9ad80289d772ad2e**；本次状态提交的最终SHA须以GitHub返回并回读核实，无法在同一提交预知其自身SHA。
+
 ## ONGOING / GOAL仍进行｜2026-11-16 04:48 CST｜Dita Indah Sari实际获释日获同期独立确认（候选待并库）
 
 本次重读AGENTS、goal-continuity、stage-access、续接状态，以及四份正式CSV表头/起始记录和archive/records/chronology.md开头；尚未完成四CSV全表去重，**不分配S/C/Q/CV新号**。沿上轮Keppres 68/1999调查，实际打开印尼BPK官方目录 https://peraturan.bpk.go.id/Details/58415/keppres-no-68-tahun-1999 ，确认1999-07-02签署、生效及LN 1999 No.119；23/1999旧目录URL本轮直接打开返回404，不能推定其性质。
