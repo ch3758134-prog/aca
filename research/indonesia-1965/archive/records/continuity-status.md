@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-16 00:55 CST｜KontraS失踪案年表与1998 HRW名单交叉核对
+
+本次直接打开HRW/AI 1998年6月原始名单1.5（https://www.hrw.org/legacy/reports98/indonesia/Tab1-5.htm）及KontraS/Omah Munir的《Kronik Kasus Penculikan dan Penghilangan Paksa Aktivis 1997–1998》PDF（https://museumomahmunir.kontras.org/wp-content/uploads/2024/01/Kronik-kasus-penculikan-dan-penghilangan-paksa-aktivis-1997-1998.pdf），另打开2024年学术论文（https://eprints.umm.ac.id/id/eprint/16470/1/Cahyani%20Said%20Hassan%20-%20Twitter%20human%20rights%20violence%20victims%20policy%20communication.pdf）。HRW名单1.5的五名为Herman Hendrawan、Petrus Bima Anugerah、Soni、Suyat、Yani Avri。KontraS年表给出更大的13人失踪名单与9名获释者，不能将两种名单简单作人数比较。年表载1998-08-03军官荣誉委员会成立、1999-04-06军事法院判决号PUT.25–16/K-AD/MMT-II/IV/1999及11名被告刑期；这是KontraS的后来整理，不等于本次已读法院判决原件。
+
+**重要反证/错字警示：** KontraS PDF的表格文字层在Dedy Hamdun年份写成1998，与其余来源1997不合；Suyat表格写1997，而HRW 1.5记1998年2月。PDF还出现Hermawan/Herman、Sony/Soni、Yani Afri/Avri等异写。不能用单个PDF文本层自动统一身份、失踪日期或定论。必须查看版面图像及原始KontraS声明、家属证言和1999年军事判决。1998年HRW五人名单是当时报告的状态快照；后来13人名单并非原名单简单扩充，也不代表可直接推出每个人2026年的法律状态。
+
+本次已读取AGENTS、GOAL、stage-access、chronology和四份正式CSV的起始行，**未完成CSV全表去重、未新增S/C/Q/CV正式编号，chronology及成熟中文正文未修改**。已核验的原件与未并库证据均在此保存，不冒称正式登记。下一步精准任务：①读取KontraS PDF表格原版图像并与HRW 1.5逐名核对异写及日期；②寻找1999-04-06军事法院PUT.25–16/K-AD/MMT-II/IV/1999判决全文及上诉文书；③核查2009年DPR建议、Komnas HAM调查与2024—2026 KontraS/IKOHI名单，逐名建立时间状态；④恢复1995—1998政治犯三版名单逐名比对；⑤轮换Flores、西加里曼丹、SOBSI/BTI/Gerwani及改革后劳工组织史。GOAL/G1—G10保持OPEN，不建立旧式列表HTML。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 23:48 CST｜1998年HRW七组名单原网页续核
 
 本次已直接打开1998年AI/HRW联合报告原始HTML的1.3（https://www.hrw.org/legacy/reports98/indonesia/Tab1-3.htm）、1.4（https://www.hrw.org/legacy/reports98/indonesia/Tab1-4.htm）、1.5（https://www.hrw.org/legacy/reports98/indonesia/Tab1-5.htm）、2.1（https://www.hrw.org/legacy/reports98/indonesia/Tab2-1.htm）、2.2（https://www.hrw.org/legacy/reports98/indonesia/Tab2-2.htm），并回读主文 https://www.hrw.org/legacy/reports98/indonesia/indo1-0.htm 。前轮将七表后两项误记为1.6/1.7；**实际目录是1.1—1.5、2.1—2.2**。此次已纠正索引，七表链接已全部定位，但1.1/1.2是前轮核读，2.2本次仅按页面浏览，尚未逐人归一。
