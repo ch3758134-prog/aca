@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-15 21:55 CST｜1998年AI/HRW联合报告20页原PDF核读与PRD/PKI/劳工分组
+
+本次直接打开并核读 Amnesty International 与 Human Rights Watch 联合报告原PDF（ASA 21/058/1998，报告内页日期1998-06-04，官网目录日期1998-06-03）：https://www.amnesty.org/en/wp-content/uploads/2021/06/asa210581998en.pdf （20页）。与此前仅核读目录页不同，现可明确区分1998-06-04时点的三类对象：①第1、18—19页记载Habibie上台后已释放Muchtar Pakpahan、Sri Bintang Pamungkas（5月25日）、Nuku Soleiman、Andi Syahputra（5月28日），并记载6月2日Pekalongan两名活动者获无罪判决；②第5—6页报告称1996年7月27日后PRD及SMID/PPBI/STN关联的14名青年在1997年因反颠覆罪受审，其中两人刑满释放，另具体记载Budiman Sudjatmiko判13年、Petrus Haryanto一审6年上诉增至8年、PPBI Dita Indah Sari六年上诉减至五年、STN Coen Husein Pontoh三年半等；③第9—10页报告称仍有13名与1965年PKI案件相关的长期在押者，分别叙及Bungkus、Asep Suryaman、Nataneal Marsudi、Isnanto、Pudjo Prasetio、Abdul Latief、Sri Soehardjo、Manan Effendi Tjokrohardjo、Alexander Warouw、Soma Suryabrata、Buyung Ketek、Sido、Markus Giroth。以上是AI/HRW当时的记录和判断，不等于法院、监狱原始名册。报告文本第5页的14名是1997年受审群体，不能与1996-11-15紧急行动PDF的“九人/十一人”不同口径直接相减。
+
+重要细节：第6页报告指出PPBI与PRD的关联，第6页还记载1998-03-09 SBSI、Pijar和记者在抗议裁员的示威中被捕；第17—18页涉及1998年PRD相关拘押及Andi Arief、Suyat、Herman Hendrawan、Petrus Bima Anugerah等失踪/重新出现个案。报告声称附七组名单，但本次打开的20页PDF文本在第20页结束，没有呈现独立的七组附表；不能称七表已逐名核读，需寻找完整附件版本。报告内页与网页日期相差一天，应并存标记。
+
+本次已读取AGENTS、goal-continuity、stage-access、正式四CSV的表头/起始段和chronology起始段；未完成正式四表全量去重，故未分配新S/C/Q/CV，未修改chronology与成熟中文正文；本段为原件核读候选，不能冒充正式并库。下一次精准行动：①查找ASA21/058/1998七组名单的完整附件或另版，核实13名PKI旧案与1995/96名单差异；②逐份打开1996年8—11月PRD紧急行动更新并比较9/11与1997年14名受审群体；③寻找1997年PRD/SMID/PPBI/STN法院判决与1998年5月25、28日赦免令原件；④完整四CSV语义去重并正式并库、更新chronology和成熟中文历史段落；⑤轮换Flores 1966、1967西加里曼丹与1998后工会组织地方档案。GOAL/G1—G10持续OPEN，不作穷尽宣称。写入前main候选HEAD：9b12f5e712098954e94c6bacdb7840497b2ef7dd；提交后HEAD以独立核验为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 20:49 CST｜1996年PRD拘押名单内部数字冲突与1998跨组名册入口
 
 本次直接打开国际特赦组织1996-11-15原始紧急行动PDF（ASA 21/076/1996）：https://www.amnesty.org/zh-hant/wp-content/uploads/2021/06/asa210761996en.pdf 。**关键内部冲突**：PDF第23行概括“五人获释、其余九人仍被羁押”，但第26行随后明确列出**十一名**仍被羁押并面临反颠覆法指控的PRD相关人员：I Gusti Anom Astika、Wilson、Budiman Sudjatmiko、Petrus Haryanto、Kendar Kusumandaru、Garda Sembiring、Ignatius Pranowo、Ignatius Putut Arintoko、Jacobus Kurniawan、Suroso、Victor da Costa。不能直接沿用“九人”作可靠总数；须核对8—9月系列紧急行动更新，重建集合和不同统计口径。第24—25行明确记载Nia Damayanti、Wulan、Atok、Agus获释，以及Benny Sumardi于8月21日获释但仍可能面临窝藏指控；此为国际特赦组织收到的信息，非司法或监狱原始登记。
