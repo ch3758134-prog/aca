@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-16 06:50 CST｜FNPBI成立会议及西加里曼丹反证续查
+
+本次重读AGENTS、goal-continuity、stage-access、continuity、正式四CSV与chronology（CSV读取主要为表头及部分内容，未完成全表去重）。写入前GitHub main最近HEAD为56fb6703be38330e6928e4b04e6891fafecc6b8a；**此为本次提交之前的HEAD，最终提交SHA须独立核验**。长期GOAL与G1—G10继续OPEN。
+
+**1999 FNPBI候选新证据：**检索定位Max Lane署名、1999-05-26刊登的《National workers' organisation formed》https://www.greenleft.org.au/1999/362/world/national-workers-organisation-formed 。搜索索引提供较长正文，称1999-05-14至16 Bandung各地工人委员会代表会议决定组建FNPBI，选举当时仍在押的Dita Sari为总主席、KOBAR的Ilham Syah为总书记，并列出KOBAR、Bandung、Semarang、Solo、Surabaya、North Sumatra、Bitung等地区团体及工会纲领。**直接打开该网页返回HTTP 520，未取得网页原件全文，故只能作为搜索索引线索，不得标为全文核读，也不得把报道等同于大会决议。**另1999年《Green Left》工会巡访文章 https://www.greenleft.org.au/1999/370/news/indonesian-trade-union-leaders-tour 亦返回520；其索引同样称Dita在狱中被选主席。与先前1999-06-21《Jakarta Post》所述1999年5月Bandung会议互相支持，但报道间可能存在组织信息共享，不能算独立大会原件。
+
+**1967西加里曼丹新增交叉核验：**实际打开Matsumura Toshio 2015日文学术期刊官方页面 https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article 及其19页论文PDF https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_pdf/-char/en 。英文摘要将军方促使达雅克民众驱逐内陆华人、Oevaang Oeray的政治竞争、1967年10月红碗动员及驱逐后内陆物资短缺作为作者的研究解释，不能写成军方原始命令已经核实。另直接打开美国国会图书馆存储的Taufiq Tanasaldy 2012年KITLV著作PDF https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/82/94/2020718294/2020718294.pdf ，核对其脚注对1967-10-31、11-03、11-06地方文告及11-17军事命令的馆藏定位；**原始文告与命令仍未取得**。特别要保留：不同研究对军方主导、达雅克地方政治人物自主行动及事后失控的因果权重可能不同，不能用一种摘要覆盖另一种解释。
+
+**精准续查：**①通过期刊存档/纸刊取得Max Lane 1999-05-26全文、1999-05-14—16 Bandung大会原始决议、签到名单及Ilham Syah职务核证；②逐项查KOBAR及各地工人委员会与PPBI/FNPBI的法律与组织承继，核对2000年7月第二次大会；③阅读全文Matsumura论文日文正文的军方/地方人物证据脚注，与Tanasaldy、Davidson/Kammen按事件逐日比对；④向Sanggau及Pontianak文书收藏渠道追1967-10-31、11-03、11-06、11-17原件，取得1967省府华裔难民统计原卷；⑤轮换1923年VSTP原报、1966 Flores B.061/III/1966、SOBSI/BTI/Gerwani基层史及1998—2026组织后续。本次未完成正式四表全量去重，故不分配新S/C/Q/CV号、不修改chronology及成熟中文正文。不得将索引文本冒充原件。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 14:xx PST｜FNPBI 1999 Bandung会议与1967 West Kalimantan地方文书追索
 
 已重读AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10完整性审计、正式CSV表头及continuity和global-gap-tracker。注意同仓库已有其他续查者将正式编号推进至S945/C1646/Q411/CV429，**本次没有做全表URL/标题去重，不新增正式编号**，也不以旧轮S943末号覆盖较新记录。
