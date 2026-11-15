@@ -1627,3 +1627,7 @@ Steven Farram于2010年发表的地区研究直接引述省长El Tari 1972年追
 
 - **1978–1979 (contemporaneous Amnesty reporting):** Amnesty International's 1979 report (Indonesia pp. 92–93) lists 1978 prisoner-release batches of 265 (May), 3,921 (July), 1,324 (September), and 4,288 (November–December). It also reports a March 1979 Kopkamtib decree conveyed to former prisoners by local military commands, requiring travel permits and restricting publication and lectures, and an Amnesty telegram to Admiral Sudomo dated 23 April 1979. These are Amnesty's contemporary reports; the decree and provincial enforcement records remain unopened. [S934; C1632–C1633]
 - **27 April–20 December 1979:** Amnesty's 1980 annual report records 7,135 B-category prisoners released from 27 April to 21 November and a final 105 on 20 December, naming Pramudya Ananta Toer, Rivai Apin and Karel Supit among the last group. Completion was announced by the Indonesian government; this does not establish full civic restoration or that all other detention categories were emptied. [S935; C1634]
+
+### 1994年末—1995年1月｜新秩序后期政治监禁与法律连续性（S937；C1636—C1637）
+国际特赦组织1995年1月报告（已直接阅读原PDF第1—8页）估计1994年末印尼与东帝汶合计仍有约350名政治犯。该口径涵盖不同政治案件，不能误读为1965年PKI政治犯余数。报告还记载1994年Aceh数起反颠覆法定罪，并梳理1963年反颠覆法令在1969年法律框架下延续、1981年刑诉法保障与政治案件实践之间的冲突。该组织的法律解释和估计需要与法令原文、法院判决及监狱名册核对；见C1636—C1637。
+
