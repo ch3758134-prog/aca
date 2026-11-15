@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-15｜Aceh Langsa组织解体名单与1998未结案名册（G4/G5/G6/G7/G9）
+
+按G1—G10审计复核跨链，正式CSV已推进至S941/Q409/C1642/CV427；本次避免重复建号。**G4/G5/G9｜Aceh，1965-10-11至18，Langsa/Kodim-0104/Baperki。** 直接复读Jess Melvin 2013开放论文全文 https://journals.sagepub.com/doi/full/10.1177/186810341303200304 的“Intimidation of the Baperki Leadership in Langsa”段。论文引1965-10-18《Pernjataan》1—2页：10月11日军区司令Iljas Mahmud在Kodim-0104食堂向Baperki领导人宣讲；10月18日该组织声明其148名成员退出并宣布Langsa分会解散，声称附有成员姓名表。**这证明论文转录的声明有一个可追索的148人组织名册入口，不能据此推断148人遭拘捕、死亡或实际都自愿退出。** 论文还引述声明中所谓苏加诺要求彻底消灭PKI的广播说法，作者明确指出此广播未曾发生；不得把被施压组织的转述写成总统真实广播或原始命令。来源级别：学术论文全文直接阅读，所引1965声明签署原件及148人附件未读；缺件：1965-10-18声明影像、签名、附件逐名清单、10月11日军方会议记录及当时广播录音；障碍：研究者转录与当事人受压声明不能互作独立证据。下一行动：查Melvin原文脚注/档案引用定位，索取附件，逐名核对成员在1965—66年职业/拘押/迁移结局，区分Baperki、Asosiasi与PKI组织关系。
+
+**G6/G7｜1998年2—6月，Bogor/Jakarta/Lampung/Bandung，PRD/PUDI/Suara Ibu Peduli与刑事司法。** 直接打开1998年AI/HRW联合报告原始网页附表1.3 https://www.hrw.org/legacy/reports98/indonesia/Tab1-3.htm ，其表头为“正在受审或面临指控、应撤销案件者”，不是在押囚犯表。表中Abdi、Herlan Artono、Robert、Wahyu均记1998-02 Bogor传播Megawati演说后不在押但指控未撤；Berar Fathia于1998-03雅加达妇女抗议案被认为仍在警察羁押；Hamdani被认为在Lampung警察羁押、涉嫌持有PRD文献；Juandi R在Bandung受审并羁押。**来源级别：1998同期NGO原始附表网页全文可读，证明组织当时所登记状态；不是法院卷宗/警察羁押证明，表中“believed”必须保留。** 不与附表1.1在押者或1.2待复审者相加去重。缺件：各人法院案号、1998-05以后撤诉或释放令、Lampung/Bandung警察原始登记。下一行动：逐项读附表1.4、1.6、1.7及1998后续更正报告，交叉比对不同分类，追原始司法文件。1999 ICJ报告所列PKI相关10人与1998 NGO的13名不同，尚不能推定其中3人获释，须核时间和统计口径。
+
+**跨G项仍OPEN：** G1早期VSTP/殖民原件；G2 SOBSI/BTI/Gerwani基层；G3广播跨机关命令；G4 Aceh以外各省原件（北苏门答腊、东西中爪哇、巴厘、Flores、西加里曼丹、Sulawesi）；G5家庭/族群/性别；G6监禁流亡；G7当代劳工与政党；G8英美澳中苏行动交付；G9姓名地点索引；G10正式CSV语义去重、chronology重排与中文连续历史正文。此次未新增独立原件，先不修改正式CSV/chronology/HTML；GOAL仍OPEN。
+
 ## ONGOING / GOAL仍进行｜2026-11-15｜Aceh 1965年10月地区事件与1996年PRD逮捕链（跨G4/G5/G6/G7）
 
 本次先读取全局完整性审计G1—G10、AGENTS、stage-access、goal-continuity、continuity-status、四正式CSV与chronology；以下为**来源分层续查**，尚未逐条全表去重，故不抢占S/C/Q/CV正式编号。不同研究链交叉推进而非仅延长既有1996名单矛盾。
