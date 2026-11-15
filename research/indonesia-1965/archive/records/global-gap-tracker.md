@@ -1958,3 +1958,11 @@ G1殖民与早期组织、G2群众组织基层、G3跨机关时序、G5性别族
 **G7 / 2024政党与工会：** 本次直接打开KPU正式《Keputusan KPU Nomor 1204 Tahun 2024》签署文书及附件PDF全文：https://jdih.kpu.go.id/data/data_kepkpu/2024kpt1204.pdf ，2024-08-25签发，附件列全国DPR有效政党票151,793,293，Partai Buruh **972,898票**，低于4%门槛（6,071,731.72票），故未达全国DPR议席分配门槛。约占全国有效票0.641%。**来源等级：官方选举决定原件PDF全文已读，数值是2024年全国DPR政党票，不是DPRD票、工会人数、党员数或PKI/SOBSI组织继承证据。**尚缺KPU 84选区与各省县明细、政党与工会组织文件及工人投票实证；后续以KPU 360/2024及1192/2024附件复核区域基础。此原件解决上一记录中BPS页面403导致的全国数字未核问题，但不解决基层社会关系。
 
 **G1—G10仍OPEN：** G1铁路罢工原报；G2 SOBSI/BTI/Gerwani地方组织；G3跨机关逐时序；G4地方军令与名单；G5女性/华裔/幸存者；G6监禁流亡；G7政党基层工会；G8外国援助实际交付；G9人物地点组织交叉索引；G10正式台账和连续中文正文。下一续接：①FRUS162所列1966-02-25 A-527及1970 Howland原件全文；②巴厘各县数字与军方报告；③KPU 360/1192原始选区附件；④Flores B.061/III/1966及West Kalimantan 1967省府报告；⑤1923 VSTP同期原报。此次仅写长期总账，正式CSV/chronology/HTML尚未并库，不能称已完成正式登记。GOAL仍OPEN。
+
+## ONGOING / GOAL仍进行｜2026-11-15｜G1铁路组织回顾与G6南苏拉威西拘押劳动跨核
+
+**G1 1923 VSTP**：直接打开1961年印尼共产党历史机构编写、Jajasan Pembaruan出版的《Pemberontakan Nasional Pertama di Indonesia (1926)》完整数字PDF（https://upload.wikimedia.org/wikipedia/commons/3/30/Pemberontakan_November_1926.pdf），核其关于1923-04-12 VSTP与铁路当局交涉四项要求（生活费补贴、八小时制、仲裁、日最低一荷盾）及4月29—30日PVH、5月6日VSTP决策、5月8日Semaoen被捕的回顾。**访问等级：1961年党史机构原出版物全文已打开；对1923年事实仍属38年后的组织回顾，不是1923原始会议记录。** 新增正式S931、C1626、Q401。缺件：VSTP inventory144原传单、1923-04-12会议纪要、1923-05-01殖民警察报告、5月16日Fock原函；不能用回顾中的13,000人作确证统计。
+
+**G6/G4 南苏拉威西 Moncongloe**：直接打开Komnas HAM 2012《Ringkasan Eksekutif Tim Ad Hoc Peristiwa 1965–1966》全文PDF（https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf），核印刷143—150页对1970—1977年Moncongloe转押、军方工程/私人农地强迫劳动及1977-12-20 SPRIN/802/TPD/XII/1977转为居家限制的调查陈述；报告引证BAP 266—269/BAP_TPPH65/III/2009。**来源S140及C629/C636已经正式登记，不重复编号。** 来源等级为2012年国家人权委员会调查摘要原文；BAP证人原笔录、1977释放命令、军区工程账目与囚犯名单均未直接取得。报告中个别释放年份表述存在矛盾，应按原始SPRIN核对，不能把摘要直接当法院判决。
+
+G1—G10仍OPEN：地区暴力覆盖Aceh、苏门答腊、爪哇、巴厘、Flores、加里曼丹和苏拉威西仍不均衡；继续并行追索1950—1965群众组织、1965跨机关、1966—1998监禁流亡、1998—2026政治工会、外国行动和连续中文正文。精确续接：①取VSTP 1923-04-23/05-10传单原件；②取殖民当局1923-05-16及06-08函；③取BAP 266—269/2009与SPRIN/802/TPD/XII/1977；④核Flores 1966-04-28 Manek主教信函；⑤轮换Sulawesi 1965-11-12 Telegram1425的Makassar/Bone报道及地方死者名单。此记录不把原件未读冒充原件已核。
