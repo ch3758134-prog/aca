@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-15｜1923 VSTP与1999释放统计的跨G续接
+
+本次读取全局完整性审计G1—G10、AGENTS、stage-access、goal-continuity、正式四CSV、chronology、统一缺口总账和既有接力状态。新核S942（Amnesty 1999年3月ASA21/12/99原PDF全文）、S943（IRPS转载Tirto 1923年工运报道全文，二手），并登记C1643/C1644、Q410、CV428。Amnesty的至少179人为释放/撤诉/解除假释限制混合口径，至少47人为此前已出狱者；不得称179人新出狱。1923年铁路罢工的报刊引文仍待原刊核验。正式台账及chronology已更新，中文历史正文因原始证据不足未动。
+
+精准续查：①寻找1923-05-09《Darmo Kondo》Semaoen被捕原页及1923-05-12《Kaoem Moeda》；②寻找1923-05-28《Sin Po》罢工人数原页及VSTP中央传单，与S913对照；③取得1998—99 Habibie政府逐名赦免/假释注销命令，和1998 AI/HRW名册逐名交叉；④继续取得1965 Aceh Langsa Baperki 148人附件与军方原编年史；⑤追Flores B.061/III/1966原函及西加里曼丹1967省府公告。G1—G10仍OPEN；未宣布全量完成。最终GitHub HEAD以最新提交回读为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-16 00:55 CST｜KontraS失踪案年表与1998 HRW名单交叉核对
 
 本次直接打开HRW/AI 1998年6月原始名单1.5（https://www.hrw.org/legacy/reports98/indonesia/Tab1-5.htm）及KontraS/Omah Munir的《Kronik Kasus Penculikan dan Penghilangan Paksa Aktivis 1997–1998》PDF（https://museumomahmunir.kontras.org/wp-content/uploads/2024/01/Kronik-kasus-penculikan-dan-penghilangan-paksa-aktivis-1997-1998.pdf），另打开2024年学术论文（https://eprints.umm.ac.id/id/eprint/16470/1/Cahyani%20Said%20Hassan%20-%20Twitter%20human%20rights%20violence%20victims%20policy%20communication.pdf）。HRW名单1.5的五名为Herman Hendrawan、Petrus Bima Anugerah、Soni、Suyat、Yani Avri。KontraS年表给出更大的13人失踪名单与9名获释者，不能将两种名单简单作人数比较。年表载1998-08-03军官荣誉委员会成立、1999-04-06军事法院判决号PUT.25–16/K-AD/MMT-II/IV/1999及11名被告刑期；这是KontraS的后来整理，不等于本次已读法院判决原件。
