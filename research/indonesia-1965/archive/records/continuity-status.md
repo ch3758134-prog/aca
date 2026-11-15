@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-15 22:51 CST｜1998年七组原始HTML名单入口与1997年检方求刑区分
+
+本次直接打开1998年Amnesty International/Human Rights Watch联合报告的HRW原始HTML主文及独立名单：总入口 https://www.hrw.org/legacy/reports98/indonesia/indo1-0.htm ；名单1.1 https://www.hrw.org/legacy/reports98/indonesia/Tab1-1.htm ；名单1.2 https://www.hrw.org/legacy/reports98/indonesia/Tab1-2.htm ；名单1.5 https://www.hrw.org/legacy/reports98/indonesia/Tab1-5.htm 。**此前认为20页PDF缺少的七组名单，现已定位到HRW原始网页的七个独立链接**；本次直接核读1.1、1.2，1.5仅打开未逐项摘录，其他四表未读，绝不能宣称七表全部核验。1.1列13名1965相关政治犯及12名PRD相关在押人员，含监狱、刑期；1.2为另一类要求复审的政治犯，存在多条unconfirmed，不能合并统计。1.1的Nataneal Marsudi判刑年份出现“Oct 198”等明显排版残缺，需回到原件及法院记录核对。
+
+另直接打开1997-04-15 Kompas报道的ASIET英译转载 https://www.archive.asia-pacific-solidarity.net/southeastasia/indonesia/netnews/1997/and16_v1.htm （第139—177行）。1997-04-14雅加达九案的检方求刑包括Budiman 15年、Petrus 12年，不能与后来的判决刑期13年、6年或上诉后的8年混同；转载文中“ruling”措辞含混，应以原印尼文和法院文书确认。美国国务院1997年人权报告的搜索结果提及Budiman上诉增至15年，但其官方原网页本次打开返回技术错误，未视为全文核读。已正式登记S939—S941、C1641—C1642、Q409、CV427并更新chronology；**成熟中文连续历史正文未修改**，因为原始判决与名单跨期逐人核对仍未完成，不能把求刑、判决、上诉与释放写成单一过程。
+
+精准未完：①逐一打开HRW七组原始HTML中的1.3、1.4、1.6、1.7，并逐行核对1.5失踪者表，提取身份、机构、状态和不确定性；②将1995年7/11月、1996年7月与1998年1.1的13名1965旧案逐人比对，区分姓名异写、死亡、释放、遗漏、名单修订；③查1997-04-15 Kompas印尼原版、雅加达和泗水法院判决、上诉裁定，逐人区分检方求刑/一审/上诉/1998在押；④交叉1996-11 Amnesty“九人/十一人”内部矛盾与1997十四名受审集合，避免错把不同群体作差；⑤轮换1966 Flores军函、1967西加里曼丹、SOBSI/BTI/Gerwani基层组织及1998—2026工会史，成熟后再增补中文连续正文。GOAL及G1—G10持续OPEN，不建旧式列表HTML。
+
+本次已完成的连续提交：78bce78f3d8d734478f53f4ba7e32dbcffa14625、dec4e8fb96e7528d78fca9614f7ce42923ffbd0e、940a740dc4be6d82dbdaa4bc6af6501648b3cdcd、26210921673d85b2a623650a21f547a7ea0334d1、7016a549095839c5b820432a0fd70a37e2741085。续接状态自身提交SHA须由GitHub写入返回并另行核对main，不能在同一提交中预知。写入前最后已知提交：7016a549095839c5b820432a0fd70a37e2741085。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 21:55 CST｜1998年AI/HRW联合报告20页原PDF核读与PRD/PKI/劳工分组
 
 本次直接打开并核读 Amnesty International 与 Human Rights Watch 联合报告原PDF（ASA 21/058/1998，报告内页日期1998-06-04，官网目录日期1998-06-03）：https://www.amnesty.org/en/wp-content/uploads/2021/06/asa210581998en.pdf （20页）。与此前仅核读目录页不同，现可明确区分1998-06-04时点的三类对象：①第1、18—19页记载Habibie上台后已释放Muchtar Pakpahan、Sri Bintang Pamungkas（5月25日）、Nuku Soleiman、Andi Syahputra（5月28日），并记载6月2日Pekalongan两名活动者获无罪判决；②第5—6页报告称1996年7月27日后PRD及SMID/PPBI/STN关联的14名青年在1997年因反颠覆罪受审，其中两人刑满释放，另具体记载Budiman Sudjatmiko判13年、Petrus Haryanto一审6年上诉增至8年、PPBI Dita Indah Sari六年上诉减至五年、STN Coen Husein Pontoh三年半等；③第9—10页报告称仍有13名与1965年PKI案件相关的长期在押者，分别叙及Bungkus、Asep Suryaman、Nataneal Marsudi、Isnanto、Pudjo Prasetio、Abdul Latief、Sri Soehardjo、Manan Effendi Tjokrohardjo、Alexander Warouw、Soma Suryabrata、Buyung Ketek、Sido、Markus Giroth。以上是AI/HRW当时的记录和判断，不等于法院、监狱原始名册。报告文本第5页的14名是1997年受审群体，不能与1996-11-15紧急行动PDF的“九人/十一人”不同口径直接相减。
