@@ -1966,3 +1966,13 @@ G1殖民与早期组织、G2群众组织基层、G3跨机关时序、G5性别族
 **G6/G4 南苏拉威西 Moncongloe**：直接打开Komnas HAM 2012《Ringkasan Eksekutif Tim Ad Hoc Peristiwa 1965–1966》全文PDF（https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf），核印刷143—150页对1970—1977年Moncongloe转押、军方工程/私人农地强迫劳动及1977-12-20 SPRIN/802/TPD/XII/1977转为居家限制的调查陈述；报告引证BAP 266—269/BAP_TPPH65/III/2009。**来源S140及C629/C636已经正式登记，不重复编号。** 来源等级为2012年国家人权委员会调查摘要原文；BAP证人原笔录、1977释放命令、军区工程账目与囚犯名单均未直接取得。报告中个别释放年份表述存在矛盾，应按原始SPRIN核对，不能把摘要直接当法院判决。
 
 G1—G10仍OPEN：地区暴力覆盖Aceh、苏门答腊、爪哇、巴厘、Flores、加里曼丹和苏拉威西仍不均衡；继续并行追索1950—1965群众组织、1965跨机关、1966—1998监禁流亡、1998—2026政治工会、外国行动和连续中文正文。精确续接：①取VSTP 1923-04-23/05-10传单原件；②取殖民当局1923-05-16及06-08函；③取BAP 266—269/2009与SPRIN/802/TPD/XII/1977；④核Flores 1966-04-28 Manek主教信函；⑤轮换Sulawesi 1965-11-12 Telegram1425的Makassar/Bone报道及地方死者名单。此记录不把原件未读冒充原件已核。
+
+## ONGOING / GOAL仍进行｜2026-11-15｜G3广播权交接与G6 1979 ILO原件路径
+
+本次重新读取完整性审计G1—G10、AGENTS、stage-access、goal-continuity、continuity-status、正式四CSV及chronology，核对正式S190/C208/C814和S863/C1531，避免重复登记。
+
+**G3（1965-11-12，雅加达）**：重新打开美国国家安全档案馆所藏Telegram 1425（Joint SITREP 51）原始电报OCR全文：https://nsarchive.gwu.edu/media/15708/ocr 。第4—5页记载Radio Indonesia监督权由军方临时负责人交给新闻部长Achmadi任命的文职负责人，军方新闻负责人Ibnu Subroto在交接中提及苏哈托1965-10-01命令；美国使馆判断此举有利于总统府/文职信息机关恢复影响。证据级别：同期外交机关报告的原文OCR，**仅证实使馆这样记录和解释**，不能独立确认交接后的实际节目控制或广播审查权。缺件：Achmadi任命令、10月1日苏哈托原命令、RRI播音/审查日志、印尼当日报纸。与同一电报中G4南苏拉威西Makassar/Bone传闻区分：所谓90%商店受损、200人被杀仍只是单一消息源转述，已在C208/C814登记，不重复视为新独立证据。
+
+**G6/G7（1979，国际劳工大会）**：ILO官方会议记录目录 https://www.ilo.org/public/libdoc/ilo/P/09616/ 搜索索引列有1979年第65届《Record of Proceedings》PDF（约30.5MB），可追查S863《TAPOL Bulletin 35》转引的会议临时记录第27—29页及印尼拘押强迫劳动争议。本次直接打开官方目录遇重定向500，**只定位目录，未取得会议全文，未核其内容**。需改从ILO webapps存档取得原始PDF，逐页对照TAPOL所引代表发言、政府答复、会议结论，分离各方陈述。Flores方面检索到John Mansford Prior 2011年Maumere研究摘要，但未取得1966年Manek主教信函原件或该文全文，摘要中的死亡人数不能升级为地方统计原件。
+
+**G1—G10全部OPEN**：继续轮换Aceh、北苏门答腊、爪哇、巴厘、Flores、西加里曼丹、苏拉威西；前史VSTP、SOBSI/BTI/Gerwani、拘押流亡、改革后工会与政治组织、外国行动、人物地点组织索引和中文连续历史均未完成。本次发现属于对已登记S190的新段落核读及1979原件定位；正式CSV、chronology和正文仍待本条实质并库，不虚报新编号。精确续接：①1965-11-12 RRI交接令；②1965-10-01广播军令；③1979 ILO原PDF；④Flores 1966 Manek信函；⑤Moncongloe 1977 SPRIN原件。
