@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-15｜Aceh 1965年10月地区事件与1996年PRD逮捕链（跨G4/G5/G6/G7）
+
+本次先读取全局完整性审计G1—G10、AGENTS、stage-access、goal-continuity、continuity-status、四正式CSV与chronology；以下为**来源分层续查**，尚未逐条全表去重，故不抢占S/C/Q/CV正式编号。不同研究链交叉推进而非仅延长既有1996名单矛盾。
+
+**G4/G5｜Aceh 1965-10，Banda Aceh—Sigli—Kuala Simpang/Pulo Tiga—Blang Pidie/Sama Dua；军区、Baperki、PKI、BTI、Gerwani及华裔居民。** 直接打开Jess Melvin论文《Why Not Genocide? Anti-Chinese Violence in Aceh, 1965–1966》出版方开放全文（https://journals.sagepub.com/doi/full/10.1177/186810341303200304），核到作者**引用1966年军方Chronologis的逐日记载**：10月8日16时Banda Aceh对Pelangi商店、Baperki等机构袭击，随后Samikidin住所被毁；10月9日15时Sigli示威袭击Baperki、PKI、LEKRA、Pemuda Rakjat、Gerwani等办公室；10月14日Kuala Simpang及Pulo Tiga的Baperki/BTI财产袭击；同日South Aceh的Blang Pidie报告5人死亡（其中4人为华裔）、Sama Dua报告10人死亡（其中4人为华裔），后者转录四个姓名Hap Tjok、Min On、Bun Tok Seng、Sio Nam。**证据级别：已读学术论文全文及其对1966年军方地方编年史的摘引，未取得1966年Chronologis原件影像、地方死亡登记和医院/家庭证词。** 姓名拼写与地区身份只能归于军方文书经论文转录；两个地区的4+4不应与全省死亡总数混同。10月20日针对Baperki的军方决定与10月8日起的实际攻击并非同一事件，需核行政命令滞后/先行地方动员的关系。优先取得Chronologis 1966第3—8页、Surat Keputusan 1965第2页、Langsa 10月18日Baperki声明签署原件及地方姓名/死亡登记。阻碍：二手论文引录军事原件，尚无独立当地原始证据；不将军方所写“民众”自动视为自发性结论。
+
+**G6/G7｜1996年8月至11月PRD与工人组织，Jakarta/Surabaya。** 直接打开Amnesty 1996-08-11官方同期通报ASA21/058/1996（https://www.amnesty.org/en/documents/asa21/058/1996/en/），官方摘要列Coen Hussein Pontoh、Dita Sari、Mohammad Shaleh及其他被捕人员，并记8月11—12日新捕10人的消息；军方发言人称由总检察长机关羁押，Amnesty则担忧实际仍在军方羁押、不能见律师。与已正式登记S938/C1640的11月15日ASA21/076/1996原PDF对照，8月通报的名单**包含不同群体及后来补全姓名**，不能直接用两份总数相减计算释放/逮捕，也不能把全部人员归入同一PRD案件。**证据级别：同期人权组织官方出版页及摘要已读；本次未读8月11日PDF全文、检方登记或法院卷宗。** 下一步打开8月11日原PDF与8月14/16/19日、9月13/16/20日连续通报，建立别名—拘捕机关—实际关押—律师接触—起诉/释放逐人表，尤其区分Dita Sari劳工案件与7月27日雅加达事件。阻碍：官方摘要混合旧案与新案；没有检方/监狱名册。
+
+**横向仍OPEN：** G1 VSTP原传单与早期组织；G2 SOBSI/BTI/Gerwani基层；G3跨机关广播；G4 Aceh之外北苏门答腊、东西中爪哇、巴厘、Flores、West Kalimantan、Sulawesi等地原件；G5性别/族群/家庭；G6监禁/流亡；G7 1998—2026政党劳工；G8英美澳中苏；G9地点人物组织索引；G10正式去重、chronology排序与连续中文HTML。下一续接应在Aceh军方Chronologis原件与1996逐名名单之间深入，随后轮换其他省份，勿因发现四个姓名而认为地方名单完成。长期GOAL OPEN。
+
 ## ONGOING / GOAL仍进行｜2026-11-15｜Flores 1966年4月28日主教信与1995囚犯名单修订（G4/G5/G6）
 
 本次核读全局完整性审计G1—G10、AGENTS、stage-access、goal-continuity、continuity-status及正式CSV表头/chronology开头；注意正式CSV位于archive/records/，非研究目录根部。此项是来源级别明确的续查记录，未完成全表去重，**不分配正式S/C/Q/CV编号**。
