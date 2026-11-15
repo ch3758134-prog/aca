@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-15｜Flores主教信与1995名单修订接力
+
+本次新增核对Prior 2011论文第135—137页对Gabriel Manek 1966-04-28致Eugenius Soru信的摘引：主教拒绝Maumere庆祝活动，反对1966-03-15军函为清剿的辩护，并支持Bola的Pede da Lopez；1966年7月Hendrik Djawa接手教区组织工作。证据是论文转引，**未取得主教签名原信或教区宣读记录**。同期Amnesty 1995-07、1995-11、1996-07官方报告页面交叉核实：1995-11更正早已获释者，不能将27与14简单相减。详细来源、缺件、地区/组织覆盖见同日global-gap-tracker首条。尚未全量CSV去重，未分配正式编号或修改chronology/中文正文；不能视为正式事实并库。
+
+**精准续接**：①检索Manek 1966-04-28签署原信及Da Cunha 1999第207—208页；②核Bola 1966年3月约45人拘捕名册与Kodim 1607 B.061/III/1966；③核Maumere 1966年7月Djawa任命及委员会成员原始档案；④下载Amnesty ASA21/036/1995、055/1995、043/1996三份名单逐名校勘；⑤从Flores轮换Aceh 1965-10-11地方会议包或西加里曼丹1967省府报告原件。GOAL仍OPEN。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 18:50 CST｜1995—1996年1965政治犯名册的版本校正与1963反颠覆法文本
 
 本次已读取AGENTS、goal-continuity、stage-access、续接状态、chronology；四正式CSV读取表头与开头记录，**尚未全表去重，故不分配S/C/Q/CV正式编号**。直接打开Amnesty官方报告页面：1995-07-30 ASA21/036/1995 https://www.amnesty.org/en/documents/ASA21/036/1995/en/ （当时估计约27名与1965案相关者仍被拘押，五人面临死刑；7月28日政府宣布Subandrio、Omar Dhani、Sutarto获总统赦免）；1995-11-01 ASA21/055/1995 https://www.amnesty.org/en/documents/asa21/055/1995/en/ （明确承认7月原名单含已较早释放者并发布修订名单）；1996-07-31 ASA21/043/1996 https://www.amnesty.org/en/documents/asa21/043/1996/en/ （报告14名1965案长期在押者，其中五人仍在死刑判决下：Asep Suryaman、Sukatno、Bungkus、Nataneal Marsudi、Isnanto）。上述为Amnesty各时点的估算/追踪，**27到14不能直接解释为一年内释放13人**，需逐名比对死亡、释放、重新归类和名单校正。官方页面全文已开，所附PDF与名单尚未逐页核读。
