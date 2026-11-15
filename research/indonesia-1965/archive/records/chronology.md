@@ -1642,3 +1642,9 @@ John Mansford Prior于2011年发表的论文直接转录了一份署日期为196
 
 - **14–15 April 1997 (prosecution stage, not verdict):** A contemporaneous Kompas report reproduced by ASIET records nine Jakarta PRD cases in which prosecutors sought prison terms, including fifteen years for Budiman Sudjatmiko and twelve for Petrus Haryanto. Defendants and some counsel objected to trial procedure. Do not substitute these demands for the subsequently imposed sentences or appeal outcomes. [S941; C1642]
 - **June 1998 (named NGO roster):** The original AI/HRW HTML List 1.1 separately enumerates thirteen prisoners linked to 1965 cases and twelve PRD-related prisoners with prisons and sentences. List 1.2 is a different category of cases recommended for review, including explicitly unconfirmed custody entries. The lists are contemporaneous NGO compilations, not official custody certificates; typographic anomalies require case-by-case reconciliation. [S939-S940; C1641]
+
+### 1923年5月8日及其后｜VSTP铁路罢工与殖民警察镇压的报刊追索（S943；C1644）
+IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日《Darmo Kondo》称Semaoen于5月8日在Semarang被捕；该文将随后铁路罢工与VSTP的讨论联系起来，并引《Kaoem Moeda》《Sin Po》《Pemberita Makassar》追踪爪哇、Aceh、Medan不同地区的工运与镇压。**目前核实的是二手报道全文，不是1923年报纸原版**；不能据此把各地区行动当作同一命令统一组织。待查1923报刊原页及殖民警务记录。[S943; C1644]
+
+### 1998年5月至1999年3月｜政治犯释放、撤诉与假释限制的统计口径（S942；C1643）
+国际特赦组织1999年3月原报告ASA 21/12/99第2—3页称，自Habibie执政以来至少179名印尼及东帝汶政治犯/良心犯受益于释放、撤销指控或解除假释限制等措施；并指出政府列入的至少47人此前已出狱但仍受假释限制，另21人已符合或接近假释条件。**179不是新出狱人数，47与21不可未经逐名去重直接相减。** 报告还指出涉马克思主义活动定罪者被排除于部分措施之外；须核实际赦免令及监所记录。[S942; C1643]
