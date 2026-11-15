@@ -2501,3 +2501,7 @@ G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q
 ## ONGOING / GOAL仍进行｜2026-11-15｜VSTP与Moncongloe证据续接
 
 已重新读取G1—G10完整性审计和项目权限、正式来源/主张/检索/覆盖台账及时间线。G1新增1961年PKI党史机构回顾全文S931，正式主张C1626、检索Q401；其1923年铁路谈判与罢工决策须以同期原件复核。G6/G4直接复核2012 Komnas HAM报告关于南苏拉威西Moncongloe营地、强迫劳动、1977年转为居家限制的调查摘要，已在S140/C629/C636登记，不重复编号。新增内容已并入chronology与global-gap-tracker。当前原件缺口为VSTP 1923原传单和会议记录、Komnas HAM 2009 BAP 266—269、SPRIN/802/TPD/XII/1977、Flores 1966主教信函。继续按不同G项/地区轮换，不以本次提交为GOAL完成；G1—G10仍OPEN。
+
+## ONGOING / GOAL仍进行｜2026-11-15｜广播权与1979 ILO续接
+
+重读G1—G10审计、授权与正式台账。G3沿S190的1965-11-12 Telegram 1425原OCR补核Radio Indonesia监督交接，新增C1627/Q402，chronology及global-gap-tracker同步。G6/G7定位ILO 1979年第65届会议记录官方目录但原PDF未打开；Flores Manek 1966信函未取得。继续：①Achmadi广播交接令；②苏哈托1965-10-01广播命令；③RRI节目日志；④ILO 1979-65会议记录第27—29页；⑤Flores 1966信函及Moncongloe 1977 SPRIN。G1—G10全部OPEN，长期GOAL未完成。
