@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-15 23:48 CST｜1998年HRW七组名单原网页续核
+
+本次已直接打开1998年AI/HRW联合报告原始HTML的1.3（https://www.hrw.org/legacy/reports98/indonesia/Tab1-3.htm）、1.4（https://www.hrw.org/legacy/reports98/indonesia/Tab1-4.htm）、1.5（https://www.hrw.org/legacy/reports98/indonesia/Tab1-5.htm）、2.1（https://www.hrw.org/legacy/reports98/indonesia/Tab2-1.htm）、2.2（https://www.hrw.org/legacy/reports98/indonesia/Tab2-2.htm），并回读主文 https://www.hrw.org/legacy/reports98/indonesia/indo1-0.htm 。前轮将七表后两项误记为1.6/1.7；**实际目录是1.1—1.5、2.1—2.2**。此次已纠正索引，七表链接已全部定位，但1.1/1.2是前轮核读，2.2本次仅按页面浏览，尚未逐人归一。
+
+1.3并非全是“仍在押”：例如1998年3月被捕的SBSI相关Yudi Rahmat、Hermanto、Sanusi、Sukirman、Farah Diba Agustin等在报告时标记Not in custody，部分仍面临指控。1.4单列SMID成员Aan Rusdianto、Mugiyono、Nezar Patria于1998-03-13被捕及Andi Arief于3月失踪、4月17日重新出现于警方羁押的情况；其酷刑指控是人权组织的同期报告，尚待医疗/司法独立核证。1.5列Herman Hendrawan、Petrus Bima Anugerah、Soni、Suyat、Yani Avri/Rian五名失踪者，**仅反映1998年6月报告时的未明状态，不可据此断言其2026年仍失踪**。2.1列东帝汶六名要求释放者，2.2另列要求复审者并称至少110名额外人员资料尚无法确认，不能并入确证人数。
+
+本次未完成四正式CSV全量去重及S/C/Q/CV正式追加，chronology与成熟中文正文未改；上列事实为直接核读原始人权报告网页的待并库材料，不冒称法院或拘押机关档案。精准未完：①按七表逐人建立1998-06-04状态快照，区分仍在押、未在押仍被控、失踪、待复审与unconfirmed；②以印尼法院判决、KontraS、Komnas HAM及当事人访谈核对1998年SMID四人拘押/酷刑与五名失踪者后来命运；③逐名比较1995、1996、1998三版1965旧案名册；④搜1997年PRD检方求刑、一审、上诉原始文书；⑤轮换1966 Flores、1967西加里曼丹、SOBSI/BTI/Gerwani基层组织与1998后工会史。GOAL/G1—G10永久OPEN，未创建旧式HTML。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 22:51 CST｜1998年七组原始HTML名单入口与1997年检方求刑区分
 
 本次直接打开1998年Amnesty International/Human Rights Watch联合报告的HRW原始HTML主文及独立名单：总入口 https://www.hrw.org/legacy/reports98/indonesia/indo1-0.htm ；名单1.1 https://www.hrw.org/legacy/reports98/indonesia/Tab1-1.htm ；名单1.2 https://www.hrw.org/legacy/reports98/indonesia/Tab1-2.htm ；名单1.5 https://www.hrw.org/legacy/reports98/indonesia/Tab1-5.htm 。**此前认为20页PDF缺少的七组名单，现已定位到HRW原始网页的七个独立链接**；本次直接核读1.1、1.2，1.5仅打开未逐项摘录，其他四表未读，绝不能宣称七表全部核验。1.1列13名1965相关政治犯及12名PRD相关在押人员，含监狱、刑期；1.2为另一类要求复审的政治犯，存在多条unconfirmed，不能合并统计。1.1的Nataneal Marsudi判刑年份出现“Oct 198”等明显排版残缺，需回到原件及法院记录核对。
