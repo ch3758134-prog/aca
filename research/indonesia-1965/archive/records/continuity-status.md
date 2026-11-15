@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-16 04:48 CST｜Dita Indah Sari实际获释日获同期独立确认（候选待并库）
+
+本次重读AGENTS、goal-continuity、stage-access、续接状态，以及四份正式CSV表头/起始记录和archive/records/chronology.md开头；尚未完成四CSV全表去重，**不分配S/C/Q/CV新号**。沿上轮Keppres 68/1999调查，实际打开印尼BPK官方目录 https://peraturan.bpk.go.id/Details/58415/keppres-no-68-tahun-1999 ，确认1999-07-02签署、生效及LN 1999 No.119；23/1999旧目录URL本轮直接打开返回404，不能推定其性质。
+
+**新发现：实际打开国际特赦组织1999-07-05同期声明原PDF** https://www.amnesty.org/es/wp-content/uploads/2021/06/asa210561999en.pdf （News Service 129/99，AI Index ASA21/56/99），其正文明确“today's release of Dita Indah Sari”，确认其1999-07-05实际获释；同时称她为与PRD有关的劳工权利组织者，服五年刑，并指出仍有七名PRD及关联组织的良心犯在押。此为当日人权组织声明，非监狱签收或释放执行令，但与07-02赦免决定构成独立的**法令日期—实际释放日期**证据链。另实际打开Emily Citkowski对Dita本人采访 https://www.marxists-malta.org/history/etol/newspape/atc/911.html ，文中明确Tangerang监狱、周一7月5日获释，且谈及FNPBI领导职务；这是当事人采访的后续报道，需核原刊期次与发表日期，不应将报道对1997年入狱缘由的简述直接当法院记录。1999-01-27 Green Left https://www.greenleft.org.au/1999/346/world/dita-sari-rejects-bail-offer 报道1998年12月提出附不参加政治活动条件的提前释放方案且Dita拒绝，属于倡议媒体记载，需同期印尼官方文书反证。西班牙语Amnesty原声明 https://www.amnesty.org/ar/wp-content/uploads/sites/4/2021/06/asa210561999es.pdf 与英文声明对照亦写“en el día de hoy”，是同机构翻译，不计独立来源。
+
+**下一轮精准未完事项：**①四正式CSV全量按URL/文书号/标题核重后，将Amnesty 1999-07-05原PDF、Dita采访及相关原子主张正式并库，更新1999-07-02/05 chronology与成熟中文叙述；②查1999-07-05 Tangerang监狱释放记录、印尼当日报刊与Habibie司法部执行文书，确定获释程序；③查Keppres 23/1999旧目录为何404，寻找国家公报及68/1999扫描件、1998年三封意见函；④沿PPBI→FNPBI及PRD组织关系追1997判决、1998条件释放提议和1999工会大会原记录；⑤交替追1923 VSTP原刊、1966 Flores B.061/III/1966、1967西加里曼丹军令和SOBSI/BTI/Gerwani基层材料。GOAL及G1—G10仍OPEN；不建列表式旧HTML，不替作者政治判断。写入前文件blob SHA：bcefb8a2480a391a8af3feef86a46e115c3eeadd。最终GitHub提交SHA以写入响应与回读为准，无法在同一提交预填自身SHA。
+
 
 
 ## ONGOING / GOAL仍进行｜2026-11-16 03:55 CST｜Dita Indah Sari赦免法令的23/68编号歧义与PRD劳工组织链
