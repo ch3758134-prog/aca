@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-15｜Flores 1966年4月28日主教信与1995囚犯名单修订（G4/G5/G6）
+
+本次核读全局完整性审计G1—G10、AGENTS、stage-access、goal-continuity、continuity-status及正式CSV表头/chronology开头；注意正式CSV位于archive/records/，非研究目录根部。此项是来源级别明确的续查记录，未完成全表去重，**不分配正式S/C/Q/CV编号**。
+
+**G4/G5｜Flores Maumere/Bola，1966年3—7月，军方、天主教教区及地方政党组织。** 直接打开John Mansford Prior 2011《The Silent Scream of a Silenced History》在线可读论文第135—137页文字 https://www.academia.edu/67357396/The_Silent_Scream_of_a_Silenced_History_Part_One_The_Maumere_Massacre_of_1966 。此前追到1966-03-15军方函B.061/III/1966；本次进一步核到论文转述**1966-04-28 Gabriel Manek大主教致Maumere圣若瑟堂神父Eugenius Soru的信**：主教拒绝5月8日在Maumere举行晋铎银禧庆祝，明确批评3月15日军函以地方舆论正当化清剿，并为Bola的Pede da Lopez神父干预约45人拘捕辩护；论文说主教要求公开宣读该信。论文又记载1966年7月Hendrik Djawa被任命为Maumere总铎，着手成立堂区及总铎区牧灵委员会，其成员与地方天主教党、天主教青年组织及县政府有交集。**来源级别：后出学术论文全文可读，对1966主教信的摘引及后续组织的研究者叙述；不是信函签名原件、宣读记录、任命状或成员名册。** “毫无效果”等是作者评价，不能据此断言所有教堂或地方人员行为。缺件：Manek 1966-04-28签署信、Soru收件/堂区宣读记录、1966-03-15军函原件、1966-07任命令与两委员会成员名册、Bola约45名被捕者身份及结局。下一步优先从Prior脚注63所指Ignas da Cunha等《Berpastoral di Tengah Badai》(1999)第207—208页追主教信原件，并以教区档案核对公开宣读及行政后果；另比较Bajawa与Maumere教士干预差异，不把Flores各地视为一致。
+
+**G6｜1995—1996政治监禁，Amnesty同期报告的版本链。** 再次直接核验1995-07-30 ASA21/036/1995与1995-11-01 ASA21/055/1995官方报告页面，以及1996-07-31 ASA21/043/1996官方页面： https://www.amnesty.org/en/documents/ASA21/036/1995/en/ ; https://www.amnesty.org/en/documents/asa21/055/1995/en/ ; https://www.amnesty.org/en/documents/asa21/043/1996/en/ 。1995年11月更正明示7月名单中若干人此前已释放；1996年报告列14名与1965案有关的长期在押男性，其中5人仍被判死刑，点名Asep Suryaman、Sukatno、Bungkus、Nataneal Marsudi、Isnanto。**证据级别：同期人权组织官方发布页面直接打开；尚未逐名比对三份PDF附表，也未核法院及监狱原始档案。** 不把27到14差额解释为期间释放13人。后续逐名做三版本交叉表，列监狱/罪名/释放或死亡证据，核1995年7月28日赦免公告与实际释放。
+
+**G1—G10持续未闭合**：G1 VSTP 1923传单；G2 SOBSI/BTI/Gerwani地方组织；G3跨机关广播与命令；G4 Aceh/苏门答腊/爪哇/巴厘/Flores/西加里曼丹/Sulawesi地方原件；G5死者及家庭名单；G6拘押/流亡与再组织；G7 2024劳工党地方票源；G8英美澳中苏实际介入原件；G9人物/地点/组织关系；G10正式台账去重与连续中文HTML。下一次优先取Flores主教信原件、Bola被捕者名册，并从Flores转Aceh或西加里曼丹原件；研究仍OPEN。
+
 ## ONGOING / GOAL仍进行｜2026-11-15｜G6/G4 1995政治监禁与西加里曼丹1967命令出处复核
 
 已读取全局completeness-audit-2026-11-09.md的G1—G10及AGENTS、stage-access、goal-continuity、continuity-status；已读取正式四CSV及chronology。两条不同缺口链：
