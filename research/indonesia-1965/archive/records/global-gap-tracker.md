@@ -1976,3 +1976,13 @@ G1—G10仍OPEN：地区暴力覆盖Aceh、苏门答腊、爪哇、巴厘、Flor
 **G6/G7（1979，国际劳工大会）**：ILO官方会议记录目录 https://www.ilo.org/public/libdoc/ilo/P/09616/ 搜索索引列有1979年第65届《Record of Proceedings》PDF（约30.5MB），可追查S863《TAPOL Bulletin 35》转引的会议临时记录第27—29页及印尼拘押强迫劳动争议。本次直接打开官方目录遇重定向500，**只定位目录，未取得会议全文，未核其内容**。需改从ILO webapps存档取得原始PDF，逐页对照TAPOL所引代表发言、政府答复、会议结论，分离各方陈述。Flores方面检索到John Mansford Prior 2011年Maumere研究摘要，但未取得1966年Manek主教信函原件或该文全文，摘要中的死亡人数不能升级为地方统计原件。
 
 **G1—G10全部OPEN**：继续轮换Aceh、北苏门答腊、爪哇、巴厘、Flores、西加里曼丹、苏拉威西；前史VSTP、SOBSI/BTI/Gerwani、拘押流亡、改革后工会与政治组织、外国行动、人物地点组织索引和中文连续历史均未完成。本次发现属于对已登记S190的新段落核读及1979原件定位；正式CSV、chronology和正文仍待本条实质并库，不虚报新编号。精确续接：①1965-11-12 RRI交接令；②1965-10-01广播军令；③1979 ILO原PDF；④Flores 1966 Manek信函；⑤Moncongloe 1977 SPRIN原件。
+
+## ONGOING / GOAL仍进行｜2026-11-15｜G4西加里曼丹地方政治解释与G6/G7 ILO会议目录复核
+
+本次重读completeness-audit-2026-11-09.md全部G1—G10、AGENTS、stage-access、goal-continuity、四份正式CSV及chronology；本次分别调查1967西加里曼丹和1979国际劳工大会，不将目录/摘要升级为原始证据。
+
+**G4/G5/G8｜西加里曼丹1967：**直接打开Matsumura Toshio, “Dayak Politics in Anti-Chinese Demonstration of 1967, West Kalimantan, Indonesia,” *Southeast Asia: History and Culture* 44 (2015), pp45–63, DOI 10.5512/sea.2015.44_45，期刊官方页面 https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article 。本次阅读的是**作者摘要全文与书目信息，不是论文PDF正文**。摘要提出：军方反游击目标、达雅克内部Oevaang Oeray与Palaoensoeka竞争、Oeray与Partindo关联、1967年10月“宣战”及红碗动员、华裔商人被驱逐后内地供给恶化。这些是作者的研究解释而非1967同期命令或县级名册，尤其不能从摘要推断所有达雅克行动者共同意图。与已登记Tanasaldy书所引1967省府报告、Witono 11月17日命令及10月31日地方声明比对；下一步打开该论文PDF并检查脚注，取得Oeray 1967年10月原声明、县级商贸供应/难民记录和军区指令。该论文尚未完成正式来源登记，不虚构S编号。
+
+**G6/G7｜1979国际劳工大会：**直接打开ILO官方第61—65届研究指南 https://libguides.ilo.org/conference/61-65 ，可核1979年第65届会议为6月6—27日（日内瓦）；同时官方《Record of Proceedings》索引 https://www.ilo.org/public/libdoc/ilo/P/09616/ 明列1979-65约30.5MB PDF。**目前只读到官方会议指南和PDF目录，未打开1979原会议发言页**，不能由目录证明TAPOL所述印尼强迫劳动辩论具体内容。须取得会议记录及Provisional Record pp27—29，按发言人/日期/政府答复逐条核对。另ILO指南显示1978年第64届会议副主席包括印尼工人代表Agus Sudono；此仅是ILO官方会议角色记录，不能推断其代表全部工人政治立场。
+
+**G1—G10均OPEN**：G1 1923 VSTP原传单；G2 SOBSI/BTI/Gerwani基层；G3 1965跨机关指令；G4 Aceh/苏门答腊/爪哇/巴厘/Flores/西加里曼丹/Sulawesi地方原件；G5死者与失踪名册；G6拘押流亡；G7工会与政党；G8外国实际行动；G9人地组织索引；G10正式CSV并库和中文连续正文。下一续接：①下载Matsumura论文全文并抽取1967年10月声明原件引注；②取得ILO 1979-65 Record of Proceedings pp27—29；③追西加里曼丹省府1967报告及《Pembangunan》11月原报；④轮换Flores Manek 1966信及Moncongloe 1977 SPRIN；⑤回到1923 VSTP原传单。此条仅完成来源定位与证据层级审查，尚未登记新正式S/C/Q/CV或正文。GOAL仍OPEN。
