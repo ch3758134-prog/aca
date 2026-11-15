@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-15 12:53 PST｜西加里曼丹1967原军报精确引文与1997回溯（G4/G5/G6/G9）
+
+**已读取**2026-11-09 completeness-audit G1—G10、AGENTS、stage-access、goal-continuity、continuity-status、正式四CSV及chronology；正式末号S943/C1644/Q410/CV428。未完成全表URL/标题语义去重，故不抢正式编号。research-status.md在archive/records/路径不存在。
+
+**当前长期链G6/G7（1999赦免）**：重新直接打开BPK Keppres 68/1999官方目录 https://peraturan.bpk.go.id/Details/58415/keppres-no-68-tahun-1999 ，确认为1999-07-02签署/生效、LN 1999 No.119、对象Dita Indah Sari；并打开Amnesty原始出版页 https://www.amnesty.org/en/documents/asa21/056/1999/en/ （页面日期1999-07-04，非出狱日证明）。此前滚动状态已记录23/1999与68/1999编号并存及官方PDF 403，本次未获得PDF或监狱出入簿，**不以目录或出版日期认定实际出狱日**。下一步：核国家公报扫描、两号法令关系、1999-07-05监狱出入簿及同期报道。
+
+**不同G项/地区高价值链G4/G5/G9（1967西加里曼丹，PGRS/Paraku、Kodam XII/Tanjungpura、Dayak与华裔村社）**：直接打开Davidson与Kammen 2002《Indonesia's Unknown War and the Lineages of Violence in West Kalimantan》可阅读学术全文 https://www.academia.edu/103702836/Indonesias_Unknown_War_and_the_Lineages_of_Violence_in_West_Kalimantan 。其注49明确列出当年军方原件：Brigjen A. J. Witono，*Laporan Pang Dam XII/Tandjungpura Tentang Gerakan Suku Dayak Terhadap GTK di Kal-Bar (II)*，Pontianak，1967-12-04，p.3；该文对1963—1966 Konfrontasi/北加里曼丹志愿武装与1967反华驱逐之间的机构转向作详细研究。**证据等级：学术全文已打开，军方1967-12-04原报告未取得；不能冒充直接阅读。** 另直接打开HRW 1997-12《Communal Violence in West Kalimantan》原报告全文 https://www.refworld.org/reference/countryrep/hrw/1997/en/23874 ，其历史回顾记1967军方称约300死、逾55,000华裔流离；HRW同时质疑“自发反游击队”说，指出不同政治立场华裔均遭袭，1997暴力则是另一起Dayak—Madurese事件，数字绝不可混用。HRW在1997年实地调查不等于其对1967的直接现场见证。松村智雄2015《Dayak Politics in Anti-Chinese Demonstration of 1967》https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article 目前直接打开**期刊摘要**（45—63页PDF有链接但未核正文）；摘要主张军方动员、Oevaang Oeray参与、1967年10月赤碗动员与乡村商业断裂，属于作者研究解释，不是军令原件。值得交叉核验的冲突：某些二手叙述将Oeray广播“宣战”置于8月21日，松村摘要置于10月，须查广播台节目簿、声明原件与Witono报告，不能择一写成定论。
+
+**缺件与障碍：** Witono 1967-12-04原军报及第3页、1967年7月Sanggau Ledo军警记录、8—10月RRI Pontianak广播档、Oeray签署文告、Mempawah/Bengkayang村级名单、难民营收容及死亡登记；军方“300/55,000”是当事机构统计，不是经独立核准的完整人数。下一动作：沿Davidson/Kammen注49与其引用的Angkatan Bersenjata 1967-09-21原刊寻找馆藏；查J-STAGE PDF正文与注释；逐地核Mempawah、Bengkayang、Sambas、Pontianak。G1 1923 VSTP、G2 SOBSI/BTI/Gerwani、G3跨机关、G8外国介入、G10连续中文历史正文均继续OPEN。此轮新证据尚未并入正式CSV/chronology/HTML，不宣称完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 11:50 PST｜1998—1999总统赦免法律目录与1965巴厘出版物访问限制（G4/G5、G6/G7）
 本次重新读取G1—G10完整性审计、AGENTS、stage-access、goal-continuity、continuity-status，定位并核对正式四CSV（均位于archive/records/）及chronology。正式编号末尾仍为S943/C1644/Q410/CV428；未做全表语义去重，本次不抢编号。两条不同G项证据链如下：
 
