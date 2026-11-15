@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-15｜G1 1923铁路罢工原件路径与G4巴厘同期数字分层
+
+本次重读completeness-audit-2026-11-09.md全部G1—G10、AGENTS、stage-access、goal-continuity、continuity-status及正式CSV与chronology；本条是跨链原件定位，非原件内容全部核实。长期GOAL不以本条结束。
+
+**G1｜1923年VSTP铁路罢工，新增可精确索取的原件清单。** 直接打开Dewi Yuliati（2010）《TAWARIKH》论文官方页面及其档案书目（页面全文是摘要+参考文献；尚未点击/读取论文PDF，更未取得1923档案影像）：https://journals.mindamas.com/index.php/tawarikh/article/view/376 。书目精确指向荷兰Algemeen Rijksarchief **inventory 144-VSTP Semarang (1923)**：1923-04-23 VSTP《Sanget Penting》传单；1923-05-10罢工中央领导机关《Djangan Toendoek Kepala!! Awas, Awas!! Madjoe Teroes!! Djangan Moendoer!!》；1923-05-01殖民政治侦查秘密报告；1923-05-16总督Fock致殖民部长函（Vb. 1923-07-14 No.15）；1923-06-08三宝垄驻扎官致总督函所附VSTP中央公告（Vb. 1924-08-24）；《Sinar Hindia》1923-05-05、05-08、05-12期。以上仅是学术论文书目所列**原件追索线索**，尚不能断言原件措辞、传单实际发放范围、工会成员/罢工人数。另直接打开Agung Purnama 2020文章 https://jabar.nu.or.id/sejarah/kaum-buruh-riwajatmoe-doeloe-pemogokan-bagian-2-iCCju ，其引述《De Preanger Bode》1923-05-09 No.126《Semaoen Gearresteered》及1923-06-08驻扎官函；为**后世转引**而非独立读报。文章声称13,000/20,000罢工者，与其他后世资料8,000或10,000口径不一，不能合并为确定统计。地区/年代/组织：Semarang及爪哇铁路网络，1923，VSTP/殖民政府/铁路企业。缺件：inventory144原件图像、各企业工人名册、1923年同期报刊影像、殖民当局处罚卷。行动：优先取上述4月23日及5月10日传单影像，再以5月16日总督函及6月8日VSTP公告交叉复原罢工决策、镇压、后果；阻碍：本次只能读到出版页面书目与后世转引。
+
+**G4｜巴厘1965年12月死亡数字的机构出处继续分层。** 直接打开美国国家安全档案馆1965-12-21 A-408馆藏页面 https://nsarchive.gwu.edu/document/15720-document-24-airgram-408-joint-weeka-no-48 ，核到档案号**RG84 Entry P339, Jakarta Embassy Files, Box10, Folder12-POL2-1 Joint Weeks Sept1–Dec31 1965**，馆藏说明称当时使馆估计全国至少100,000死亡、巴厘至少10,000；同一页面另引用后世学界约80,000的估计，二者不能混成同一报告内的数字。**本次阅读的是档案馆馆藏说明而非A-408扫描逐页原文；此数字此前已在总账记录，不新增独立证据。** 地区/年代/组织：Bali，1965-12，美国使馆/印尼军方/地方居民。缺件：A-408原始扫描具体统计段、1966-02-25 A-527及巴厘各县军政/死者名册。行动：下载扫描逐页核来源与估计方法，随后以地方县级文书交叉验证；阻碍：现有同期外交估计没有可复核的地方统计分母。
+
+**G2/G3/G5—G10持续OPEN**：SOBSI/BTI/Gerwani地方组织、1965跨机关时序、女性与族群、监禁/流亡、当代工会票源、外部介入实际交付、人物地名关联、正式台账去重和连续中文正文仍需持续推进。此次来源可能已被正式台账收录，未完成全量URL/档号语义去重，故**未新分配S/C/Q/CV编号，也未修改chronology/HTML**；不能把这条滚动记录称作正式证据并库。下次可直接：①获取1923 VSTP inventory144《Sanget Penting》及5月10日传单；②核《Sinar Hindia》5月5/8/12及《De Preanger Bode》5月9日原报；③取Fock 5月16日及驻扎官6月8日原函；④取A-408与A-527原文扫描核巴厘统计；⑤轮换Flores、西加里曼丹、1985荷兰流亡反死刑档案。GOAL仍OPEN。
+
 ## ONGOING / GOAL仍进行｜2026-11-14｜北苏门答腊1965年11月同期电报与种植园失踪链（G4/G2/G6）
 
 本次读取全局完整性审计G1—G10、AGENTS、阶段权限、GOAL、续接状态和正式台账路径，选择不同于此前Aceh/ILO的北苏门答腊地方暴力链及种植园工会链。以下是新增的精确原文定位，正式编号仍须去重，不以临时编号冒充注册。
