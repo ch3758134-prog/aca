@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-16 02:51 CST｜2005—2009失踪案调查原卷与议会程序辨析
+
+本次已重新读取AGENTS、goal-continuity、stage-access、continuity-status、chronology及正式四CSV表头/前段；尚未全表去重，**本次未分配正式S/C/Q/CV编号**，不冒充正式入库或正文成熟。写入前最新已知上次GitHub提交 a3990798d5e3a6797fbeda4240809518db2336b3；本次实际提交SHA以GitHub写入返回值和远程核验为准，文件不能自含自身提交SHA。
+
+新发现并实际打开KontraS馆藏目录 https://kontras.or.id/perpustakaan/pelanggaran-berat-ham/ringkasan-eksekutif-penyelidikan-ham-berat-1997-1998/ （2020-12-24发布；有Google Drive DOWNLOAD入口，**未打开附件正文**）；国家人权委员会图书馆的两个检索结果（直接打开返回403，只有搜索引擎目录元数据）：2005年《Laporan penyelidikan penghilangan orang secara paksa periode 1997/1998》，190页，馆藏DL1686、索书号INA I.89.20 Tim/2005，https://perpustakaan.komnasham.go.id/opackomnas/index.php?id=7105&keywords=&p=show_detail ；2006年《Penyelidikan Pelanggaran HAM Yang Berat Peristiwa Penghilangan Orang Secara Paksa Periode 1997-1998》，54页，馆藏DL3133、索书号INA I.89.2 Tim/2006，https://perpustakaan.komnasham.go.id/opackomnas/index.php?id=7994&keywords=&p=show_detail 。**190页、54页、2009年Kompas所述1074页调查材料是否为不同版本/摘要/卷宗，未能确定；不能合并为同一份已读原件。**
+
+实际打开Mugiyanto于2009-09-16转载的当日《Kompas》报道 https://mugiyanto.blogspot.com/2009/09/dpr-rekomendasikan-penyelesaian-kasus.html ：报道明确区分**2009-09-15特别委员会通过四项建议**与拟于**09-28全会批准**；该报道发表时尚不能证明09-28全会已通过。其所载23人=1死亡+9获释+13失踪，与2008-12-04 ANTARA转述Komnas HAM的24人=10获释+1匿名返回+13失踪，口径仍不同。该网页是当事人博客转载报纸，并非议会原决议或委员会原名册。另已定位2005-06-02 Hukumonline关于军方拒绝配合调查的同期报道 https://www.hukumonline.com/berita/a/dpr-dukung-komnas-ham-mulai-lagi-pengusutan-kasus-orang-hilang-hol12929/ ，及2007-02-27 ANTARA关于DPR成立特别委员会与总检察院调查前置程序的报道 https://www.antaranews.com/berita/54404/kejagung-siap-bentuk-penyidik-kasus-hilangnya-aktivis-1997-1998 ，尚需取得议会原始会议纪要。
+
+精准续查：①打开KontraS页面Google Drive附件并核读原件的签署日期、调查对象、证据/证人、页码；②向Komnas HAM馆藏索取DL1686（190页）和DL3133（54页），与Kompas提及的1074页调查卷逐项辨版本；③获取2009-09-15 Pansus会议记录与09-28 DPR全会决定，区分建议形成、全会通过、法律效力和执行；④取得1999军事法院PUT.25-16/K-AD/MMT-II/IV/1999及上诉裁判，核11名被告与实际刑罚；⑤并行回到1966 Flores B.061/III/1966、1967西加里曼丹原令和1923 VSTP原刊，推进群众组织与地方镇压纵横两线。GOAL及G1—G10仍OPEN，不宣称穷尽，不替作者政治判断。
+
 ## ONGOING / GOAL仍进行｜2026-11-16 01:48 CST｜1997—1998失踪案司法与议会追责链
 
 本次读取AGENTS、GOAL、stage-access、统一续接状态、chronology和四份正式CSV表头/起始行；尚未完成四表全量去重，因此本轮新材料**未分配正式S/C/Q/CV编号**，也未改动chronology及成熟中文历史正文。写入前所知前次核验main提交：c238dd017816e65f92c07161a9b07aea262c846a；本次新提交SHA应以GitHub返回值及远程回读为准，不得误称文件可自含自身提交SHA。
