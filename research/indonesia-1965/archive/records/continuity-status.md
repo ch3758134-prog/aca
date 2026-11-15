@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-15 18:50 CST｜1995—1996年1965政治犯名册的版本校正与1963反颠覆法文本
+
+本次已读取AGENTS、goal-continuity、stage-access、续接状态、chronology；四正式CSV读取表头与开头记录，**尚未全表去重，故不分配S/C/Q/CV正式编号**。直接打开Amnesty官方报告页面：1995-07-30 ASA21/036/1995 https://www.amnesty.org/en/documents/ASA21/036/1995/en/ （当时估计约27名与1965案相关者仍被拘押，五人面临死刑；7月28日政府宣布Subandrio、Omar Dhani、Sutarto获总统赦免）；1995-11-01 ASA21/055/1995 https://www.amnesty.org/en/documents/asa21/055/1995/en/ （明确承认7月原名单含已较早释放者并发布修订名单）；1996-07-31 ASA21/043/1996 https://www.amnesty.org/en/documents/asa21/043/1996/en/ （报告14名1965案长期在押者，其中五人仍在死刑判决下：Asep Suryaman、Sukatno、Bungkus、Nataneal Marsudi、Isnanto）。上述为Amnesty各时点的估算/追踪，**27到14不能直接解释为一年内释放13人**，需逐名比对死亡、释放、重新归类和名单校正。官方页面全文已开，所附PDF与名单尚未逐页核读。
+
+另直接打开1963年第11号总统决定印尼文转录 https://id.wikisource.org/wiki/Penetapan_Presiden_Republik_Indonesia_Nomor_11_Tahun_1963 ，第一条涵盖破坏国家意识形态、国家机关权威、造成广泛社会对立或扰乱重要生产流通等表述；转录文字存在排版/识别问题，尚未取得政府公报原件。国际特赦组织1992年 https://www.amnesty.org/ar/wp-content/uploads/2021/06/asa210091992en.pdf 附录指出1969年第5号反颠覆法源于1963年该决定，仍需核对印尼官方法令文本与废止沿革。不得把1963年制定时的政治目的与1990年代实际司法用途混为同一行为主体或单一动机。
+
+**精准未完**：①下载并逐页读取1995 ASA21/036与ASA21/055名单，逐名比对1996 ASA21/043及1998 Amnesty/HRW名单，形成姓名别名、判决、释放/死亡日期可检索索引；②核读1963 PNPS11/1963及1969 UU5/1969官方公报、1999废止法，分辨法条与实施；③查找Subandrio/Omar Dhani/Sutarto 1995-07-28赦免令及实际出狱记录；④轮换1967西加里曼丹Oeray声明、Usman Idris/Witono公告与地方军令；⑤轮换Gerwani/SOBSI/BTI基层原件及1996 PRD审判和1998后工会组织。正式CSV、chronology、成熟中文正文此次均未改，原因是缺少全表去重与名册原件；不得将候选当作已注册。最新已知上次提交SHA为ad0b1ca29c949b38f9f1482cd356b41e4fe142a6（来自前次回报，**本次未独立核验为写入前main HEAD**）；本次写入提交SHA以GitHub返回和回读为准。GOAL/G1—G10持续OPEN。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 研究续接｜1995政治犯法制与1967西加里曼丹地方原件
 
 本次正式登记S937、C1636—C1637、Q406、CV425；chronology已补1994—95事件；证据为Amnesty 1995原PDF pp1—8 https://www.amnesty.org/en/wp-content/uploads/2021/06/asa210011995en.pdf 。约350人是1994年末印尼及东帝汶合计估算，非1965 PKI残余人数。另一链直接复核Tanasaldy 2012全文可见部分，确认S383/C669—C677已有记录，不重复编号；尚无1967地方原令。最后本次已获chronology写入提交719efa8eef6fe24ac5b205dd44d7c1713845da86；本状态文件自身提交以后续响应与回读为准。
