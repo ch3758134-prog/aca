@@ -2677,3 +2677,7 @@ G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q
 ## ONGOING｜2026-11-15｜Langsa 148名Baperki成员附件及1998附表1.3
 
 已读取G1—G10审计、授权/GOAL、正式四CSV、chronology及既有续接。对Jess Melvin 2013开放全文中1965-10-18 Langsa Baperki声明的148名成员附件作原件追索定位：当前只读到论文转录，附件未取得；另直接阅读1998 AI/HRW联合报告HRW网页附表1.3，明确其为“在审/待撤诉”而非在押者名单。详细来源级别、姓名与下一行动已记global-gap-tracker首条。未新增S/C/Q/CV，未改chronology/HTML，不能当成正式新事实并库。下次先追Langsa声明附页和1998附表1.4、1.6、1.7；再转Flores军函/主教信、西加里曼丹原命令、1923 VSTP传单与1998后工会档案。长期GOAL和G1—G10仍OPEN；本次主线更新提交11f80bb9744826e9296aa936ad35a5fcfa95d8fd，最终HEAD以本次续接提交为准。
+
+## ONGOING / GOAL仍进行｜2026-11-15 12:53 PST｜West Kalimantan军报原件定位与Dita赦免续查
+已读G1—G10完整性审计、规则、四正式CSV、chronology和缺口总账；当前正式末号S943/C1644/Q410/CV428。本次新增跨G4/G5/G9原件线索：Davidson/Kammen 2002可阅读全文注49精确引Witono 1967-12-04 *Laporan Pang Dam XII/Tandjungpura Tentang Gerakan Suku Dayak Terhadap GTK di Kal-Bar (II)* p.3（原件未读）；HRW 1997原报告全文回顾1967军方约300死、逾55,000华裔流离的口径；松村2015仅打开期刊摘要，所记10月动员与其他8月21日说法待核。跨G6/G7直接重核BPK 68/1999法律目录与Amnesty 1999-07-04出版页，官方PDF、23/1999关系和Dita出狱凭证仍缺。详情及链接在global-gap-tracker.md首条，提交3cccd27d5becb6b726d836a8eb5b0411c404d223。未全表去重，不新增S/C/Q/CV；chronology与中文HTML未改，G1—G10全部OPEN。
+精准续查：①查Witono 1967-12-04报告原卷及Angkatan Bersenjata 1967-09-21；②查RRI Pontianak 1967-08—10广播与Oeray原声明，核日期冲突；③读松村2015 PDF注释并逐地核Sambas/Mempawah/Bengkayang难民记录；④取Keppres 68/1999官方PDF及23/1999原件、1999-07-05 Tangerang出狱簿；⑤轮换1923 VSTP原报、Flores B.061/III/1966和SOBSI/BTI/Gerwani基层档。此为单次执行边界，非研究完成。
