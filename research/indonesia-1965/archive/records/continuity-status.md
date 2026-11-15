@@ -1,3 +1,20 @@
+## ONGOING / GOAL仍进行｜2026-11-15 10:49 CST｜BTI农业人物链跨1965断裂及年代冲突核查
+
+已回读AGENTS、goal-continuity、stage-access、正式source-register/claim-ledger/search-log/coverage-matrix及archive/records/chronology.md；继续沿BTI农业技术人员追索。实际打开/检索GerakIngatan公开专题及原刊馆藏记录（下列“原刊”均为馆藏目录/策展文字，未逐页读取图片正文）：
+
+- https://gerakingatan.omeka.net/exhibits/show/bti-dan-para-ilmuwannya/jagus-dan-penemuan-penempuan-y ：策展叙述称Jagus曾在Klaten遭拘押，研究中心JLPKPP被毁、研究记录遭扣押，1975年去世；**此为后世策展叙述，不是已经核对的1965年拘押令、没收清册或死亡登记**。须与地方行政、家属访谈、农业部门档案核验，不能把所有BTI农业研究者遭遇一概而论。
+- https://gerakingatan.omeka.net/items/show/62 ：《Suara Tani》1960年10月第10期第3页馆藏摘要明确写代表团**9月19日出发**赴中国，成员Jagus、Sobandi、Sabar Sitepu；上述专题却写**10月19日出发**并称参加10月1日国庆。两者存在明确日期/事件顺序冲突，必须回查原刊扫描、签证/接待记录；**不能把10月19日当作已证实日期**。
+- https://gerakingatan.omeka.net/items/show/59 ：1960年5月《Suara Tani》Jagus人物专访目录提及其回应稻种稳定性批评。这是对“成功推广”叙述的**同期争议线索**，不能用策展产量数字直接认定品种稳定性。
+- https://gerakingatan.omeka.net/items/show/55 ：1960年1月《Suara Tani》关于Krisman肥料的馆藏摘要自称增产50%，**同时**指出Bogor实验室不予认可、政府部门阻碍使用；两个相反评价均须保留，需独立农学试验/官方记录核对，不能将宣传数字当作实测统计。
+- https://gerakingatan.omeka.net/items/show/194 ：1982—1985年Suparna Sastra Diredja参与创办的荷兰SBKSI工人团结材料目录，指向IISH Suparna Sastra Diredja Papers inventory 170；可用于追查1965后流亡劳工网络，但目录不证明成员名单、行动规模。
+- https://gerakingatan.omeka.net/items/show/63 ：1964年1月15日爪哇文《Mekar Sari》Jagus报道馆藏（莱顿大学图书馆来源），为独立于《Suara Tani》的跨语言同期核验入口；尚未读取原刊图像。
+
+**本次重要反证与错误修正**：同一策展专题和1960年10月原刊目录关于赴华日期分别为10月19日与9月19日，且10月19日与“参加10月1日活动”的叙述次序不符。记录冲突而非择一断言。关于1958年农业研讨会是否举行仍OPEN；关于Jagus遭拘押及研究中心遭毁，需追查1965—1975地方证据链。
+
+本次仅形成续接状态：正式CSV虽已读取，尚未完成上述候选来源的全表URL/题名/档号语义去重及S/C/Q/CV登记，故不虚构编号；chronology和中文成熟正文未改，不把策展介绍直接升级为确定史实。
+
+**下次精准行动**：①目视《Suara Tani》1960年10月第10期第3页原图，核9月19日/10月19日及赴华行程，查中方1960年接待/国庆记录；②核1960年5月第5期第5页Jagus专访、1960年1月第1期第2页Krisman报道，寻找反对评价及农学试验；③取1964年1月15日爪哇文《Mekar Sari》第3—4页及地方拘押、JLPKPP没收/关闭档案，重建1960—1975人物链；④查IISH Suparna Sastra Diredja Papers inventory 170的1982—85 SBKSI章程/成员/活动，与1970—98劳工史对照；⑤完成正式四CSV去重登记及chronology，证据成熟后补连续中文正文，并轮换1965—68地方军政镇压与1998—2026后续。**GOAL及G1—G10永久OPEN**。本文件不能预先自引用其最终提交SHA；以提交返回及独立main回读的SHA为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 09:51 CST｜BTI农业技术组织链与chronology路径纠正
 
 已读取AGENTS、goal-continuity、stage-access、正式四CSV及续接记录，**确认chronology真实路径为 archive/records/chronology.md**（此前反复记为“未定位”属于错误，已纠正）。正式source-register当前末尾S930；按来源URL查找，GerakIngatan Jagus/BTI农业专题未见现成匹配条目；本次未完成全表语义去重，故不冒用编号。
