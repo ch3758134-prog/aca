@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-17 04:49 CST｜亚齐1965年Baperki军事命令的日期悖论复核
+
+本次核实GitHub main写入前HEAD：`35b12b635ffbc66f61258943c863be82561c44d6`（通过compare_commits获取base_commit）。读取AGENTS、goal-continuity、stage-access、续接状态、chronology与四份正式CSV首段；claim-ledger.csv读取仍返回空文本，blob SHA `055d63973823a3b9a5d70e8976ab40aa7f8c5713`，因此不能声称四表全量去重或注册新S/C/Q/CV编号。
+
+本次英文/印尼语混合检索：`Jess Melvin Aceh 1965 Baperki Langsa 18 October 148 dissolution Ishak Djuarsa document`；`1965 Aceh military Baperki Langsa Jess Melvin 2013 PDF`。实际打开并核对Jess Melvin 2013年论文全文页面 https://journals.sagepub.com/doi/full/10.1177/186810341303200304 及其PDF入口 https://journals.sagepub.com/doi/pdf/10.1177/186810341303200304 ，另打开其2018年著作可访问PDF https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf 。两份著作同属Jess Melvin研究链，不能算独立作者交叉验证；文中引用的`Pernjataan 1965`、`Chronologis 1966`、`Surat Keputusan 1965`原始档案影像仍未独立核读。
+
+重要未闭合矛盾：Melvin论文指出Ishak Djuarsa于1965-10-29发布冻结包括Baperki在内组织的命令，称追溯1965-10-20生效，但该命令又要求相关组织领导人**最迟1965-10-25报到**。命令公布日期晚于所列截止日期，需核对签署页、公布日期、修订/补发可能性和军方档案转录，不能把10月25日解释成已经证实的实际执行截止日。Melvin转引的1965-10-18 Langsa Baperki声明称148名会员退会并解散，引用的所谓苏加诺广播被Melvin否定；本次没有取得原始148人名单或苏加诺广播音档，不能断言148人实际全部签名，也不能把军方对Baperki的指控当作组织隶属事实。论文还区分1965年10月针对Baperki的暴力与1966年5月至8月针对亲北京华人社群的强制迁移；不得把族裔、政治组织成员和受害对象混为同一集合。
+
+精准续查：①定位`Surat Keputusan 1965`原件影像、发文号、签署日期及10月25日追溯截止的法律/行政解释；②取得`Pernjataan 1965` Langsa声明原文及附录148人名单，区分名册人数、签名和实际退会；③取得`Chronologis 1966`军方逐日记录，复核10月8/9/14日Banda Aceh、Sigli、Kuala Simpang、Pulo Tiga事件及人员伤亡；④检索苏加诺1965年10月广播稿、RRI录音和总统档案，验证声明所引讲话是否存在；⑤用Git raw/分段方案取得claim-ledger全表并做四表去重，随后才更新正式台账、chronology和成熟中文连续正文；同时继续SOBSI/BTI/Gerwani、1970—1998及1998—2026链条。
+
+本次尚未完成正式四表并库、chronology或成熟正文更新；不建旧式列表HTML，不替作者作政治判断。GOAL及G1–G10继续OPEN。提交自身SHA需由GitHub写入响应及随后main HEAD核验确定，不能在同一提交正文预先自引用。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 02:49 CST｜VSTP 2011专著可访问范围核验与证据依赖追索
 
 本次核实 GitHub main 写入前 HEAD：`c14dde4c3eb6e78e6174dd8558c779779876ebc5`；读取AGENTS、goal-continuity、stage-access、续接状态、四份正式CSV的首段与chronology首段；claim-ledger.csv仍返回空文本，blob SHA 055d63973823a3b9a5d70e8976ab40aa7f8c5713（仓库目录标示约1.36MB），所以**未完成全量去重，不得新造S/C/Q/CV编号**。chronology路径确认为archive/records/chronology.md。此处的研究记录不是正式台账登记。
