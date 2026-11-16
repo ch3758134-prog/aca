@@ -2301,3 +2301,14 @@ UNHAS论文附录公开重现ANRI-AKB No.59（Hasan 1949-11-17发言）与No.60�
 ANRI《比马王室档案目录》No.280是1948-05-05学校/学生/教师人数统计一张；No.279记1943-09-21教育部门年报。ANRI 2015教育史料集重印的No.S90则标记1943-05-21，范围为Sekolah Rakyat I，报43所、105名教师。不得把这份人民学校统计当作Kopschool存续证据；No.279与S90档号对应尚待核对。
 
 **原件追索：**取Tajib《Sejarah Bima Dana Mbojo》1995第288–293页，查M. Hilir Ismail 2002/2004/2008版及2019访谈录，向ANRI索取Nos.279–280及S90原件，搜索1916–1922殖民教育部门登记和学校教师薪册，获取Fitria 2010论文全文；分别追Sitti Beda Seri和“来自望加锡的Siti”个人证据。GOAL保持OPEN；未改主线/HTML。
+
+
+## ONGOING / GOAL仍进行｜2026-11-16｜G4/G5 Aceh全文复核与G8美国1965年12月同期电报
+
+**审计基线：** 已重新读取completeness-audit-2026-11-09.md及AGENTS、stage-access、goal-continuity和滚动状态。G1—G10均OPEN；本次新增核验与先前1923年VSTP线索属不同G项，避免把单一地区或时代误当全域。
+
+**G4/G5/G9｜Aceh，1965-10至1966-08，Baperki、军区、华裔组织：** 本次直接打开Jess Melvin (2013)《Why Not Genocide? Anti-Chinese Violence in Aceh, 1965–1966》期刊**可读完整HTML正文**（此前状态误记为仅摘要/搜索片段，现予纠正），https://journals.sagepub.com/doi/10.1177/186810341303200304 。正文引1965-10-18 Langsa Baperki声明，述10-11 Kodim-0104 Iljas Mahmud会见，148人宣布退出、组织解散；引1966军方《Chronologis》称10-14 Kuala Simpang/Pulo Tiga发生针对办公室及BTI房屋的袭击，南Aceh Blang Pidie/Sama Dua同日各有死者；文章并载1966-05-08驱逐令、要求华侨1966-08-17前离省的过程。**证据层级：研究全文直接读；被引用1965声明原件/148人名单/1966军方年报/驱逐令原件未取得。** 148为声明中成员人数，绝非死亡数。军方声称的示威人数、死者身份及数量须与名册和地方报告交叉，不能视为独立统计。研究者对假冒苏加诺广播及三波迫害的判断与原始记载分开；与Melvin 2018书同源不能算独立印证。新发现该网页提供全文而非仅摘要，纠正访问等级是实质证据治理进展。
+
+**G8/G4｜1965-12-21美国驻雅加达使馆Airgram A-408（Joint Weeka No.48）：** 直接打开美国国家安全档案馆原始文件馆藏介绍及**原电报OCR转录**：https://nsarchive.gwu.edu/document/15720-document-24-airgram-408-joint-weeka-no-48 与 https://nsarchive.gwu.edu/media/15720/ocr 。馆藏为RG84 Entry P339 Jakarta Embassy Files Box10 Folder12-POL2-1；馆方称当时使馆报告全国至少10万人死亡、巴厘至少1万人，并关注军方扩权。**访问等级：馆藏页及OCR已打开，OCR严重乱码，尚未逐页核对PDF扫描图像**；上述数字只能标为1965年12月使馆当时估计/馆方介绍，绝非后来确认的死亡总数；不能把美国使馆知情推论为该电报本身证明美国提供武器、批准杀戮或造成具体死亡。与Melvin文中转引美方电报须核是否同卷不同文件。
+
+**跨G续接：** G1继续1923-05-01 Semarang警察密报原件及VSTP传单；G2查SOBSI/BTI/Gerwani地方基层账簿；G3核1965-10-11所谓苏加诺广播与真实RRI稿；G4/G5查Aceh声明附名单、1966-05-08驱逐令、北苏门答腊与巴厘同期原件；G6查拘押释放；G7查工会登记；G8核A-408扫描、英澳中苏相应外交文书；G9连接Langsa/Kuala Simpang/Pulo Tiga/Blang Pidie/Sama Dua人物地名；G10正式CSV去重、主时间线与中文连续正文尚未在本次写入。下一行动先从馆藏页点开A-408 PDF核实际文字，再对照Melvin全文脚注定位Langsa声明原件，继而切换另一省份独立档案。**长期GOAL未完成。**
