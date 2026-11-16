@@ -1,5 +1,14 @@
 
 
+## ONGOING / GOAL仍进行｜2026-11-16 19:00 CST｜A-408第4—6页原扫描补读与巴厘同期报纸馆藏
+
+本轮直接打开美国驻雅加达使馆1965-12-21 A-408原始扫描第4—6页（PDF页索引3—5）：https://nsarchive.gwu.edu/sites/default/files/documents/4107034/Document-24-Airgram-A-408-Joint-Weeka-No-48-from.pdf 。第4页记录苏加诺经济措施（Tjipanas会议、货币1000旧盾兑换1新盾的宣布）及军方与经济政策关系，属于美使馆同期观察，不证明经济政策执行成效；第5页记12月17日妇女组织会议、美国与印尼关系气氛的使馆判断，并开始记述苏哈托12月13日宣布BPI转隶KOTI下属国家情报指挥机关；第6页延续BPI转隶，记12月7日Umar Wirahadikusumah出任KOSTRAD指挥官及军方、空军人员安排。**尤其BPI旧机构与新情报指挥体系的关系须与印尼正式任命令核对，不可将使馆报道当作完整法律效力证明。** 第7页为馆方附页，不是使馆正文。以上是扫描逐页阅读而非OCR转录；人名拼写及任命细节仍需另一原件交叉核实。
+
+跨来源新增可追原始报刊馆藏：美国国会图书馆目录 https://www.loc.gov/item/sn96021765/ 记登巴萨《Suara Indonesia》1965-12-11至1966-01-04亦以《Suluh Indonesia. Edisi Bali》为题，1966-01-05至05-31仍以此题出版；馆藏为缩微胶片，**本轮仅打开目录，未取得任何一期报纸全文**。该报可用于检验A-408对巴厘岛12月死亡估计、军队到达、地方政治组织声明及货币改革的同期公开记录；但报纸审查与政治压力亦须纳入来源批判。另ANRI KOTI目录 https://mowid.anri.go.id/downloads/reports/non-aligned-movement-archives-itemList.html 仅提供目录层线索，不是已读命令原件。
+
+本轮已读取AGENTS、goal-continuity、continuity；四CSV及chronology尚未完成本轮全量读取与去重，因此**未新增正式S/C/Q/CV、未更新chronology和中文正文**。此为待并库原件复核，不冒称完整交付。精准未完：①四正式CSV全量比对A-408 URL及BPI/KOTI/KOSTRAD、LoC Bali报纸目录后按现有最大编号并库；②调1965-12-11至1966-01-04《Suluh Indonesia. Edisi Bali》缩微胶片指定日期原版；③找1965-12-13 BPI转隶KOTI及1965-12-07 KOSTRAD任命的印尼原始命令，交叉核验第5—6页；④复核A-408第1—3页估计来源及巴厘地方死者名单、军队抵达时序；⑤继续1923 VSTP原始警察报告与Aceh Langsa Baperki声明/军方年报原卷。GOAL与G1—G10全部OPEN。提交前基线以上游main为准；本次提交自身SHA无法在同一提交正文中自引用，必须用写入返回值及远端HEAD回读核验。
+
+
 ## ONGOING / GOAL仍进行｜2026-11-16｜Aceh全文访问级别纠正与美使馆A-408电报
 
 已重读G1—G10审计及授权规则。G4/G5：Jess Melvin 2013年《Why Not Genocide?》现已直接打开完整期刊HTML正文（此前仅摘要状态作废）；正文转引Langsa 1965-10-18 Baperki声明、1965-10-14袭击和1966年驱逐令，但军方年报/声明/名单仍未读原件。G8/G4：直接打开美国国家安全档案馆1965-12-21 Airgram A-408馆藏页及OCR；馆方介绍使馆当时估计全国至少10万、巴厘至少1万死者，**不等于独立证实**；OCR严重乱码，须查扫描页。详细证据层级、URL、阻碍及G1—G10横向缺口已补入global-gap-tracker.md。正式CSV和chronology及中文历史正文未在此次改动；不得宣称新增正式编号。
