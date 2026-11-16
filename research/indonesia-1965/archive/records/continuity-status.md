@@ -3230,3 +3230,18 @@ Siti Maryam独立履历补入出生/排行争议、学习与公务员/议会履�
 **需要核对的关键区分：** Baperki是公民身份组织，不应仅因军方将其列入所谓PKI外围组织就断言其为PKI组织；Baperki、Asosiasi Huakiao及华人社群内部不同政治立场不可混同；10月18日声明是在压力下产生的证据线索，不可据此推定148人均自由自愿退出或每人都参与政治行动。军方报告的“群众示威”及“军方制止”需用地方证人、受害者及独立同期材料反证。
 
 **精准未完事项：**①获取Langsa 1965-10-18《Pernjataan》签署页与148人附件，核人名、职务、签署程序和存档位置；②取得Kodam-I/Aceh《Chronologis 1966》10-08/09/11/14逐日原件与Kodim-0104值班/命令档，比较Melvin引文；③取得Ishak Djuarsa 1965-10-29签署且追溯10-20的《Surat Keputusan》全文，核法定授权、执行日期、对象与报告义务；④用ANRI、地方报纸和口述对照苏加诺1965-10-03、10-14原始广播文本，明确虚构广播的传播者与传播路径；⑤修复claim-ledger全文访问，四表全量URL/标题/主张去重后正式登记、更新chronology和中文连续正文，并继续1970–1998及1998–2026组织链。GOAL及各子目标OPEN；此次只作可续接核验记录，不称穷尽。
+
+
+## ONGOING / GOAL仍进行｜2026-11-17 06:54 CST｜亚齐华人社群内部组织分化及1966年迁移证据链复核
+
+执行前读取AGENTS、goal-continuity、stage-access、chronology与四份正式CSV的表头/起始段，另回读本续接文件。正式claim-ledger.csv仍返回空字符串（blob SHA 055d63973823a3b9a5d70e8976ab40aa7f8c5713），故不能宣称完成四表全量去重，亦不抢占正式S/C/Q/CV编号；本次未更新chronology及成熟中文正文。写入前main与前次已核实提交6416ca2cffd5e80d40063db902c01b0fc6b74d97的比较状态：ahead，ahead=1, behind=0。本条是接力研究笔记，不是正式来源登记。
+
+实际打开Jess Melvin, “Why Not Genocide? Anti-Chinese Violence in Aceh, 1965–1966”, Journal of Current Southeast Asian Affairs 32(3) (2013), 63–91的出版者开放全文 https://journals.sagepub.com/doi/full/10.1177/186810341303200304 （另核对期刊原站目录 https://journals.sub.uni-hamburg.de/giga/jsaa/article/view/708/ ）。这与此前已研究的Melvin论文是**同一来源，不得重复登记**；原始访谈Ho/Xie/Wak (2011)、Asan (2011a)、Coppel (1983)及军方Chronologis (1966)本次未取得原件。
+
+新聚焦的组织/人物链：Melvin论文依据其所引访谈记载Ho Fui Yen、Xie Jie Fang（均1946年生）在棉兰接受师资培训后回班达亚齐Peunayong的Asosiasi关联学校任教，1965年10月后学校关闭、家人被迫离开；Wak Tin Chaw之父Wang经营餐馆Hap Seng Hing，论文据访谈称其为Asosiasi成员且为反日地下网络提供会面空间。Asan约1932年生，论文据其访谈称1957年在Sigli加入PKI，之前曾任Asosiasi秘书并参与Baperki；因此Asosiasi、Baperki、PKI在个人经历中有交叉，**不等于三个组织具有同一指挥体系或全体华人同属PKI**。Melvin另区分亲北京与亲国民党社群，反证将族裔身份直接等同政治归属的叙事。上述具体传记均为论文转述口述，须获取访谈原稿并交叉核对姓名拼写、学校、组织职务和迁徙路线。
+
+论文据Coppel (1983)描述约一万人离开亚齐、其中约四千人经Belawan港乘Kuang Hua四航次撤离，不能把两组数字相加；其所引至少304名交给北亚齐军方的华人去向不明，不能擅写为死亡人数。Melvin提出军方政治目的的解释属于研究者因果判断，须与具体命令、执行和反证分开。此轮未获取1966年5月8日驱逐令原件、Belawan船舶清单、304人交接名单。
+
+下一次精准动作：①检索Ho Fui Yen、Xie Jie Fang、Wak Tin Chaw及Asan 2011访谈原件（论文脚注和附录），建立人物—学校—Asosiasi—Baperki—PKI的逐条来源关系；②查1966年Kuang Hua光华轮Belawan四次靠港日期、船舶及移民/乘客档案，区分船次、人数、目的港；③追索1966年北亚齐军方304人交接清单、拘押地点、后续去向及生还证词；④取得1966-05-08 Ishak Djuarsa驱逐令与1966-04-24军方会议原件，并与Mokoginta 1966-04-21讲话交叉核验不同层级政策；⑤采用Git blob/raw或分片获取claim-ledger.csv全文，四表去重后将已核事实正式并库、更新chronology及成熟中文叙述，同时轮换SOBSI/BTI/Gerwani、1970–1998及1998–2026链条。
+
+GOAL及G1–G10保持OPEN。不重建列表式旧HTML、不替作者政治判断。提交自身SHA以GitHub写入返回及随后main核验为准，同一提交文本无法预写自身SHA。
