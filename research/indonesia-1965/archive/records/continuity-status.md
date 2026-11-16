@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-17 01:57 CST｜SCS企业档案入口与1923年跨地区罢工追索
+
+已读取AGENTS、goal-continuity、stage-access、continuity-status、chronology及正式四表起始结构；claim-ledger读取仍为空（blob SHA 055d63973823a3b9a5d70e8976ab40aa7f8c5713），未能完成四表全量去重，故不抢占S/C/Q/CV编号，也不改chronology及成熟正文。此前已登记Ingleson为S913。
+
+本次实际打开日惹加查马达大学（UGM）2024年历史学硕士论文目录及摘要：Ninda Lutfianti, *Sejarah Perusahaan Angkutan Trem Semarang-Cheribon Stoomtram-Maatschappij (SCS) 1895-1942*, https://etd.repository.ugm.ac.id/penelitian/detail/234894 。摘要明确称研究使用SCS公司年度报告Verslag、殖民政府Staatsblad与Statuten，并说明SCS货运与沿线糖厂、港口运输及支线扩张的关系。**访问级别仅为大学馆藏页/摘要，未打开论文正文或其引用的原始公司档案。** 此线索对解释1923年SCS停工的企业利益与运输网络有价值，但不能证明任何1923年具体车次或出勤率。
+
+另实际打开印尼铁路爱好者组织IRPS 2021-11-14转载的Petrik Matanasi/Tirto历史文章：https://irps.or.id/2021/11/mei-1923-aksi-mogok-buruh-kereta-api-yang-bikin-sewot-pemerintah/ 。文章援引《Kaoem Moeda》1923-05-12、《Darmo Kondo》1923-05-09、《Sin Po》1923-05-28，提供跨地区军警调动、不同岗位与罢工规模的**原报定位线索**，并称Atjehtrem于1923-05-12出现罢工、1923年7月棉兰铁路工人亦罢工。原报尚未实际打开，文章为转引且由IRPS转载Tirto，不能作为两份独立证据；尤其不得将《Sin Po》所引约8000人等同已核全爪哇精确人数。两份材料均须与既有正式台账URL/标题去重后才可登记。
+
+精准续查：①从UGM目录进入PDF/书目，追索SCS 1922–1924 Verslag与1923年五月逐日车次、员工和罢工解雇统计；②调《De Locomotief》1923-05-09/12与殖民驻扎官van Gigch 1923-05-31报告，分开到岗率、实际开行、岗位瓶颈；③调《Kaoem Moeda》1923-05-12、《Darmo Kondo》1923-05-09、《Sin Po》1923-05-28原版，逐一验证军警、逮捕及参与人数；④查Atjehtrem 1923-05-12与Medan 1923年7月罢工的原报、工会组织及殖民铁路公司档案；⑤解决claim-ledger 1MB级文件读取与四表全量语义去重，再正式并库并扩写连续中文叙述，同时恢复1965—1968地方军政与群众组织证据链。
+
+本次无原始公司账簿或报纸影印原件核读，不虚构证据等级；GOAL及G1—G10保持OPEN。写入前main状态仅以本次GitHub读取为准，最终提交SHA由写入返回值确认，提交不能在自身文本中包含自己的SHA。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 00:54 CST｜1923铁路罢工二次文献依赖核查及chronology路径纠正
 
 本次直接读取AGENTS、goal-continuity、stage-access、正式source-register/search-log/coverage-matrix全文以及chronology全文；claim-ledger.csv的GitHub fetch_file返回空内容（blob SHA 055d63973823a3b9a5d70e8976ab40aa7f8c5713，树目录显示文件约1.36MB），因此**不能声称四表全量去重完成**。确认chronology实际路径为 `research/indonesia-1965/archive/records/chronology.md`（此前误查研究根目录造成404）；正式来源S913已登记John Ingleson 1981《Bound Hand and Foot》，所以禁止重复创建来源。S913全文先前已核读，当前其引殖民报告的公司参与率与Yuliati的城市交通中断概述必须保留不同观察层次。
