@@ -1300,7 +1300,7 @@ Bima Today把联合通函的BKN编号写作“第7/2026号”；另一篇2026年
 本轮新增来源S1167–S1194、主张C2109–C2132、检索Q464–Q469、覆盖CV513–CV517。独立档案继续OPEN；没有形成作者政治判断。
 
 
-## GOAL持续开放｜G20｜IMPM人物身份链、干部活动与比马KUR案件人物/程序补档（2021—2026）
+## GOAL持续开放｜G20｜IMPM人物身份链、干部活动与比马KUR案件人物/程序补档（2019—2026）
 
 本批继续把组织、人物和具体事件各自建档。IMPM选举、干部训练编号、媒体职务与地方BPD任职按不同身份记录；Dena合作社建成活动与4月管理争议分开；BNI比马大案按调查进度记录，不同KUR投诉与Tambe/Woha法院案不互相拼接。
 
@@ -1351,3 +1351,53 @@ Intelmedia 2021年3月14日报道说，IMPM在Madawau交通局办公室举行大
 5. Tambe/Woha案最高法院5342 K/PID.SUS/2026及前序上诉裁判，继续与比马BNI大案分档。
 
 本轮新增来源S1195–S1199、主张C2133–C2144、检索Q470–Q474、覆盖CV518–CV522。个人角色和程序状态仍以公开来源所述范围为限；无定罪判断。GOAL继续OPEN。
+
+
+## GOAL持续开放｜G21｜Ncandi合作社向Dena营养服务点供货：独立合作社与地点辨析（2026）
+
+Kampung Media于2026年6月2日发布的报道引述NTB省合作社与中小企业服务局合作社发展负责人Rahmadin在RRI Mataram对话中的说法：全省截至当时有149个KDKMP已开始营业，另有51个完成门店建设；报道举出Madapangga的KDMP Ncandi作为MBG项目供货方，每周提供250公斤大米和30公斤水果，收货点为位于Dena村的SPPG Amanah Dena。[S1200]
+
+这条供货报道明确区分**供应合作社KDMP Ncandi**与**收货服务点SPPG Amanah Dena**。它不是“Dena村KDKMP向自己村内SPPG供货”的证据，也不能与2026年4月在Desa Dena发生的学生抗议、或2026年2月和7月关于Dena KDKMP门店建设/车辆交接的报道合并。对全省149家已运营的统计，页面没有附名单、逐家定义或营业账册；因此不能由总数推断Dena村合作社已经运营。[S1184;S1199;S1200]
+
+当前可确认的是一项经媒体转述省级官员的合作供货关系陈述；尚无KDMP Ncandi会员大会记录、合作社登记号、供货合同/订单、发票、交货单、SPPG采购或支付记录，也未听取该合作社、SPPG或学校的独立说明。**Ncandi合作社—Amanah Dena SPPG**作为独立事件词条留档，不能并入**Dena村KDKMP管理争议**。[S1200]
+
+### 下一步原件
+
+1. 取得RRI Mataram 2026-06-02节目音频/文字稿并核准Rahmadin对149家运营与51家门店的口径。
+2. 取得KDMP Ncandi登记、会员/管理名单及与SPPG Amanah Dena的合同、订单、发票、交货签收与付款记录。
+3. 分别确认SPPG Amanah Dena地址与采购主体；勿因供应地与交货点都在Madapangga而合并两套合作社记录。
+4. 对照Dena村KDKMP的AHU登记、会员、管理名单与实际营业账簿，独立核定其是否开始营业以及与4月抗议后续处理的关系。
+
+本条新增来源S1200、事实主张C2145–C2146、检索Q475、覆盖CV523。事件和组织继续分别OPEN。
+
+## GOAL持续开放｜G22｜Dena行政辖属、Farzadit地点标注与KDKMP钥匙交接（2021—2026）
+
+### 地点词条｜Desa Dena（Madapangga）与Farzadit游泳池
+
+BPS《Bolo District in Figures 2025》按2024年资料列出Bolo区14个行政村：Sanolo、Sondosia、Bontokape、Timu、Leu、Tambe、Rasabou、Rato、Kananga、Nggembe、Tumpu、Rada、Darussalam、Kara；表中没有Dena。BPS《Bolo District in Figures 2026》按2025年资料再次列出同样14村，也没有Dena。相对地，《Mada Pangga District in Figures 2025》按2024年资料把Dena列入Madapangga区11村之一。[S1201–S1203]
+
+比马县SI-KADES接口返回的Dena记录，行政编码为5206132006，隶属Madapangga；该接口本次只返回35条记录，不是全县完整名录，故只用于确认这一条记录。Dena村政府官网也自称Desa Dena、Kecamatan Madapangga、Kabupaten Bima。[S1204;S1205]
+
+同一地点Farzadit Family游泳池的地名记录互相冲突：印尼旅游部SISPARNAS页面将其写为“Desa Dena, Kecamatan Bolo”，并标注“Diverifikasi Dinas Pariwisata”，但页面没有给出核验日期或行政区依据；BimaNews 2021年3月报道也把该游泳池标为Dena-Bolo。IDN Times 2023年10月则称该游泳池位于Dena-Madapangga；RRI Mataram一则约于2026年8月发布的报道，转述Madapangga警区巡逻，把Farzadit泳池列在Desa Dena，并把另一处TWA Pemandian Madapangga列在Desa Ndano。[S1206;S1208–S1210]
+
+**现有BPS行政村名录和Dena村政府资料支持Desa Dena隶属Madapangga；现有材料没有证明Bolo区另有一个同名行政村。**Farzadit设施资料中重复出现的Bolo标注，可能是地点数据或报道中的误标；这一判断是基于跨源比对的推断，尚未取得该设施坐标与官方村界图的交叉核验，也未取得SISPARNAS录入表。
+
+### 事件词条｜比马县建城386周年KDKMP车辆钥匙交接（2026-07-05）
+
+Gentra News关于2026年7月5日比马县建城386周年活动的报道说，Dandim 1608/Bima Samuel Asdianto Limbogan在仪式上向“Desa Dena（Kecamatan Bolo）”和“Desa Pesa（Kecamatan Wawo）”代表象征性移交证书及KDKMP车辆钥匙。报道没有写出Dena代表姓名、合作社登记号，也未附交接单。[S1207]
+
+7月8日，EkbisNTB引述比马县合作社部门机构事务负责人Muhammad Tohir，称当时获得运营车辆的两家合作社为KDMP Desa Dena（Madapangga）与KDMP Desa Pesa（Wawo），钥匙在县建城纪念活动上象征性交接。报道没有附车辆收据或全体收件人名册。[S1199]
+
+这两篇报道对Dena的行政区标注相冲突。BPS在活动前可取得的Bolo 2025名录，以及活动之后出版、使用2025年数据的Bolo 2026名录，都没有Dena村；Madapangga名录和Dena村官网则都确认Dena属Madapangga。因此，Gentra文中的“Dena—Bolo”更可能是行政区标签误写；这是对报道地址的判断，不等于已经凭原始交接材料确认收件合作社身份。较强的定位是比马县Madapangga的Desa Dena，但签收主体仍须用合作社登记和车辆交接原件核实。[S1199;S1201–S1207]
+
+本地点词条、7月车辆交接事件、2026年4月7日Dena KDKMP治理争议，以及KDMP Ncandi向SPPG Amanah Dena供货，分别保留为独立记录。它们共享地名或项目名称，不据此推定组织、人员、资金或事件相同。
+
+### 下一步原件
+
+1. 调取2026年7月5日比马县建城386周年活动的车辆钥匙交接单、证书、车辆登记和具名收件人名单，核实Dena合作社AHU登记号。
+2. 获取比马县当前Kemendagri行政村代码与村界数据，检查2025年之后是否有村界变更或新设。
+3. 向比马县旅游部门索取Farzadit SISPARNAS资料的录入表、核验日期、坐标和边界依据。
+4. 对照Farzadit精确坐标与官方村界图；继续保留BimaNews/SISPARNAS与IDN/RRI所给不同地点标签。
+5. 分别记录Gentra和EkbisNTB的Dena标注；如出现更正稿，保留原文、修订稿、时间戳和编辑说明。
+
+本轮新增来源S1201–S1210、主张C2147–C2154、检索Q476–Q478、覆盖CV524。地点行政归属证据较强；交接事件的收件身份仍未由原始凭证核实。GOAL继续OPEN。

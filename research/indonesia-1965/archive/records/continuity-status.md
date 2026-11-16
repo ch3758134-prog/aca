@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-16 13:21 UTC｜Dena行政区核验与KDKMP车辆钥匙交接地址冲突
+
+BPS《Bolo District in Figures 2025》按2024年数据及《Bolo District in Figures 2026》按2025年数据都列出Bolo区14个村、没有Dena；Madapangga 2025年鉴将Dena列为该区11村之一。Dena村政府官网与比马县SI-KADES API返回的Dena编码5206132006同样指向Madapangga；API仅返回35条记录，因此不能据其缺项判断行政村不存在。相同的Farzadit泳池地点资料在SISPARNAS和BimaNews 2021中写Dena-Bolo，IDN Times 2023及RRI Mataram约2026年报道则写Dena-Madapangga。HJB 386车辆钥匙交接的Gentra稿写Dena-Bolo，EkbisNTB引述县合作社官员写Dena-Madapangga。现有行政名录支持Madapangga，Gentra的地址标签可能误写；具体收件合作社仍缺车辆签收单，保留报道冲突。新增S1201–S1210、C2147–C2154、Q476–Q478、CV524；G22继续OPEN。
+
+## ONGOING / GOAL仍进行｜2026-11-16 21:20 CST｜KDMP Ncandi供货与Dena村KDKMP主体分离
+
+新增一个与Dena村KDKMP不同的合作社事件：Kampung Media 2026-06-02转述NTB省合作社部门负责人在RRI对话中称，KDMP Ncandi（Madapangga）每周向位于Desa Dena的SPPG Amanah Dena供应250公斤大米和30公斤水果。供应方是Ncandi合作社，收货点在Dena村；没有合同、发票、交货签收或付款记录，本次不把它写成Dena村KDKMP的经营成果。页面所报全省149家运营/51家店面完工也没有逐家名单，不能推出Dena KDKMP运营状态。新增S1200、C2145–C2146、Q475、CV523；G21继续OPEN。
+
 ## ONGOING / GOAL仍进行｜2026-11-16 21:02 CST｜IMPM独立人物资料与比马KUR案卷状态补档
 
 本轮新增IMPM公开人员名录和2021年干部活动资料，分开记录Syuryadin／Surya Ghempar、Firdaus、Muhammad Firdaus、Wildan与BPD秘书“Suryadin”之间尚未解决的身份关系；更新Dena KDKMP从施工目标、阶段进度到7月县级合作社官员所述建筑完成与象征性交接运营车钥匙的时间线；这不证明已经实际营业或4月管理争议结案。另回查比马BNI KUR大案2019—2026调查程序：ANTARA记载2022年BPKP尚未收到正式损失审计请求，2025年警方案件报道又称审计已完成；Detail NTB在2026年11月称七份案卷退补复核、另两份补充中，并列出七名被报道为嫌疑人的身份职务及790/1,634借款人受询数。标题350亿、正文39,089,800,000“亿”的金额单位冲突保留待查。

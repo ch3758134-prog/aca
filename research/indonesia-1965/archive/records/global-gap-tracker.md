@@ -2461,3 +2461,21 @@ ANRI《比马王室档案目录》No.280是1948-05-05学校/学生/教师人数�
 6. **涉案人员独立词条**：七个姓名/职务只来自一篇地方报道转述检方；逐人查官方嫌疑人通知、起诉书与裁判，明确调查身份、职务任期及其程序结果。不得将“嫌疑人”写作“有罪”，也不得把同名人和其他KUR案参与者相互指认。
 
 新登记来源S1195–S1199、主张C2133–C2144、检索Q470–Q474、覆盖CV518–CV522。
+
+
+## GOAL仍开放｜G21 Ncandi合作社向SPPG Amanah Dena供货的原始凭证
+
+1. Kampung Media 2026-06-02文章把供应方写作Madapangga的KDMP Ncandi、收货方写作Desa Dena的SPPG Amanah Dena，数量为每周250公斤大米和30公斤水果；不能并入Desa Dena KDKMP的4月抗议或建筑记录。
+2. 取得RRI Mataram 6月2日对话音频/文字稿、Rahmadin引用的省级单位名册和营业统计口径；149家运营、51家门店完成目前只属于受访官员的全省统计。
+3. 调取KDMP Ncandi的AHU登记、会员/理事会名单、MBG/SPPG合同、订单、发票、交货和支付凭证；另取SPPG Amanah Dena登记及所在地。
+4. 对Desa Dena自己的KDKMP另取AHU登记、营业账册和成员名单。两地相同县/区或同属KDKMP项目不构成同一合作社的证据。
+
+本条新增S1200、C2145–C2146、Q475、CV523。
+
+## GOAL仍开放｜G22 Dena行政名录、Farzadit地点标注与KDKMP车辆交接原件
+
+1. BPS Bolo 2025（2024年资料）与Bolo 2026（2025年资料）均列出14个村，均无Dena；Madapangga 2025名录则列Dena。比马县SI-KADES响应中的Dena编码5206132006，隶属Madapangga；该接口返回35条，不能用缺项推断不存在。取得2026最新版Kemendagri全国行政村编码和村界，检查2025年后是否有变更。
+2. 2026-07-05 Gentra称Dena在Kecamatan Bolo；7月8日EkbisNTB引述比马县合作社部门官员称Dena在Madapangga。须调取HJB 386原始活动签到、交车证书、车辆登记和接收合作社AHU号，确认实际收件对象。此前的Dena KDKMP建成、四月听证及Ncandi-SPPG供货记录分别维护。
+3. Farzadit游泳池地点也出现Dena-Bolo与Dena-Madapangga两套标注。旅游部SISPARNAS页面与BimaNews 2021写Bolo；IDN Times 2023和RRI Mataram约2026年报道写Madapangga。需取得设施坐标、官方村界图和旅游部门SISPARNAS录入/核验表；在核实前不把数据库标签当行政归属证明。
+4. 保存全部版本并询问SISPARNAS、比马县旅游部门与Gentra编辑部是否有更正或行政区依据；任何更正保留原文与时间信息，避免把后来的版本覆盖旧报道。
+5. 本轮记录S1201–S1210、C2147–C2154、Q476–Q478、CV524。地址差异本身已被记录，交接身份和设施边界继续OPEN。
