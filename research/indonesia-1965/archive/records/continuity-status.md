@@ -1,3 +1,7 @@
+## ONGOING / GOAL仍进行｜2026-11-16｜VSTP 1923传单与Aceh 1965军方文书续接
+
+本次依照G1—G10完整性审计及项目规则开展不同G项核验：直接打开Dewi Yuliati 2010期刊出版页 https://journals.mindamas.com/index.php/tawarikh/article/view/376 ，其参考文献明确给出1923 VSTP原始传单的荷兰国家档案Inventory 144及1923-04-23《Sanget Penting》、1923-05-10罢工中央领导传单、1923-06-08驻扎官函附工会公报、《Sinar Hindia》5月5/8/12日报刊。**仅出版页与参考目录已读，原件未读**。另一链直接打开Jess Melvin 2018《The Army and the Indonesian Genocide》可检索PDF全文 https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf ，确认其Aceh军方档案及逐日章节、军方死亡图和军事年表图位置；**学术全文可访问，不等于独立取得3000页军方档案原卷**。详细证据等级及缺件见global-gap-tracker首条。尚未完成四CSV全量去重，未新增编号/chronology/中文正文。下一动作：Nationaal Archief inventory 144原传单；《Sinar Hindia》三期原报；Melvin第3—4章逐项军事命令及附件；不同地区Moncongloe/北苏门答腊拘押档案。G1—G10全部OPEN，长期GOAL未完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-16 13:47 CST｜2012年检方审查命令与退卷时间节点
 
 本轮读取main的AGENTS、goal-continuity、stage-access、continuity、chronology及四份正式CSV表头和前8行；四表未全量语义去重，故不虚构S/C/Q/CV登记，也不修改chronology或中文正文。印尼语检索并实际打开同期原文，新增一个可核验的**具体行政文书编号线索**：Rakyat Merdeka 2012-11-09报道 https://rmol.id/read/2012/11/09/84638/penyelesaian-kasus-ham-berat-ditargetkan-rampung-tahun-ini 称总检察长2012-08-01发布审查1965—66年调查报告的命令 **056/A/JA/08/2012**，组成12人审查组，由JAM Pidsus D. Andhi Nirwanto主持。仅已读同期记者报道，尚未取得该命令正本，不得将12人审查组说成正式刑事侦查组。该报道还记Effendi Saleh自述1969年被Koramil逮捕、因PKI指控被Unilever解雇并遭多年羁押；属个人同期转述，未得劳动/拘押原档。
