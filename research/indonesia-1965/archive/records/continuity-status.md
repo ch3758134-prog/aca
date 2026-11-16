@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-17 07:46 CST｜北亚齐1966年4月15—24日逐日事件与304人拘押链复核
+
+本次核读AGENTS、goal-continuity、continuity-status、chronology；使用英文检索并直接打开Jess Melvin 2013论文出版者全文 https://journals.sagepub.com/doi/10.1177/186810341303200304 。这是已在此前记录使用的同一研究，**不是独立新增来源**。此前已确认正式claim-ledger读取不完整，本次未完成四表全量去重，故不新增S/C/Q/CV号、不修改正式chronology或成熟正文，避免假定去重完成。
+
+新增逐日辨析（均为Melvin引用《Perkembangan 1966》军方记录，原件未直接核读）：1966-04-15 Bireuen Reuleut体育场举行华裔印尼公民效忠集会，随后反中华人民共和国示威游行至Djeumpa区公署，第三步兵营副指挥官代表当地Tjatur Tunggal接待；04-18 Bireuen示威转为拘集被称作“RRT Chinese”的人员，Jun Sin据记载遭殴打；04-19 Samalanga、Matangglumpangdua、Geurugok发生40间华人商店被占与人员被集中；同日Lhokseumawe约300名华裔印尼公民效忠集会后出现破坏商店的企图，北亚齐军方一度出面制止。次日学生与Lt Col Mohd. Sjakur冲突，学生Rusli AD被警棍击伤；军方警告射击中学生Iskandar死亡。随后发生攻击商店及向北亚齐军部抗议；当地Pantja Tunggal会议允许学生集中所谓“RRT Chinese”并移交军方，军方档案经Melvin转引记载304人被交北亚齐军事指挥官，**304人的去向未核实，不是死亡统计**。04-22暴力扩至Lhoksukon；04-23 Ishak Djuarsa赴Bireuen/Lhokseumawe；04-24在北亚齐会议要求调查相关暴力，部分学生被带往Banda Aceh讯问。军方制止商店袭击、警告射击致死与允许拘集移交必须分别分析，不能笼统归为单一行动。
+
+新核验问题：①获取《Perkembangan 1966》原件第1—5页，逐字核04-19/20具体日序、304人交接的原始措辞及负责单位；②核Bireuen Tjatur Tunggal、Pantja Tunggal与北亚齐Kodim之间的权责和04-19夜会议参加者名单；③核Jun Sin、Rusli AD、Iskandar的身份与医院/死亡登记，尤其避免将学生Iskandar之死与304人去向混同；④取得04-23/24 Djuarsa行程及讯问/逮捕学生的原始命令，区分惩戒与实际起诉；⑤通过Git raw或可分页方式完整读取正式四CSV，去重后补chronology和连续中文正文，并轮换SOBSI、BTI、Gerwani、1970—2026链条。GOAL及G1—G10保持OPEN；未建旧HTML。写入前main文件blob SHA：`c1b0a6186284d8050f10bd5d0d02038aef47b5e0`；提交后commit SHA以GitHub提交结果为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 05:53 CST｜亚齐1966年强制迁移、青年组织及军方差别行动的证据链复核
 
 本次读取main上的AGENTS、goal-continuity、stage-access、continuity-status、chronology及四份正式CSV起始行；claim-ledger.csv再次返回空文本（blob SHA 055d63973823a3b9a5d70e8976ab40aa7f8c5713），未能全量去重，不新分配S/C/Q/CV编号。公开网页直接打开Jess Melvin 2013论文出版者全文 https://journals.sagepub.com/doi/full/10.1177/186810341303200304 ，重点核对“Third Wave of Violence”“Flight from Banda Aceh”及脚注。该文是后出研究，转引1966年军方报告、Coppel 1983及2011年口述，不是本次独立取得的军方原件。
