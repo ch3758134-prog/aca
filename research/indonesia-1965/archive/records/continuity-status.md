@@ -1,3 +1,10 @@
+
+
+## ONGOING / GOAL仍进行｜2026-11-16｜Aceh全文访问级别纠正与美使馆A-408电报
+
+已重读G1—G10审计及授权规则。G4/G5：Jess Melvin 2013年《Why Not Genocide?》现已直接打开完整期刊HTML正文（此前仅摘要状态作废）；正文转引Langsa 1965-10-18 Baperki声明、1965-10-14袭击和1966年驱逐令，但军方年报/声明/名单仍未读原件。G8/G4：直接打开美国国家安全档案馆1965-12-21 Airgram A-408馆藏页及OCR；馆方介绍使馆当时估计全国至少10万、巴厘至少1万死者，**不等于独立证实**；OCR严重乱码，须查扫描页。详细证据层级、URL、阻碍及G1—G10横向缺口已补入global-gap-tracker.md。正式CSV和chronology及中文历史正文未在此次改动；不得宣称新增正式编号。
+
+**精确续接：** ① https://nsarchive.gwu.edu/document/15720-document-24-airgram-408-joint-weeka-no-48 点PDF逐页读A-408，分清美国使馆原文与馆方2017摘要；② https://journals.sagepub.com/doi/10.1177/186810341303200304 查脚注Pernjataan 1965和Chronologis 1966馆藏、Langsa148人名单；③追1966-05-08 Aceh驱逐令原扫描与地区实施；④跨地区追1965年12月巴厘地方军令及同时期报告；⑤回到1923-05-01 VSTP警察密报并核原件。G1—G10全部OPEN；长期GOAL未完成。
 ## ONGOING / GOAL仍进行｜2026-11-16｜比马女子学校与Sitti Beda Seri Yulianshe独立词条
 
 本轮只深化独立人物和学校事件档案；未改动主线chronology、连续阅读正文、HTML或作者立场文件。正式新增S1046–S1052、C1918–C1931、Q429、CV467，并扩展`standalone-person-event-dossiers.md`。
