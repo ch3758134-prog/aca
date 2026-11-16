@@ -2479,3 +2479,12 @@ ANRI《比马王室档案目录》No.280是1948-05-05学校/学生/教师人数�
 3. Farzadit游泳池地点也出现Dena-Bolo与Dena-Madapangga两套标注。旅游部SISPARNAS页面与BimaNews 2021写Bolo；IDN Times 2023和RRI Mataram约2026年报道写Madapangga。需取得设施坐标、官方村界图和旅游部门SISPARNAS录入/核验表；在核实前不把数据库标签当行政归属证明。
 4. 保存全部版本并询问SISPARNAS、比马县旅游部门与Gentra编辑部是否有更正或行政区依据；任何更正保留原文与时间信息，避免把后来的版本覆盖旧报道。
 5. 本轮记录S1201–S1210、C2147–C2154、Q476–Q478、CV524。地址差异本身已被记录，交接身份和设施边界继续OPEN。
+
+
+## ONGOING / GOAL仍进行｜2026-11-16｜G1三宝垄1918米价集会与1923罢工指挥链；G5/G6妇女证言及后续救济
+
+**G1｜中爪哇Semarang、1918—1923、Sarekat Islam/VSTP/PVH。** 直接打开Dewi Yuliati 2010论文全文转录（Academia网页标2016上传，文章本身TAWARIKH 1(2) 2010），https://www.academia.edu/72264436/Frustration_and_Aggression_as_the_Basic_Factors_of_Workers_Strike_A_Case_Study_on_Railway_Workers_Strike_in_Semarang_Central_Java_in_the_Colonial_Era ，文内印刷pp.186–187称1918-02-10 Semarang Sarekat Islam在Stadstuin举行米价会议，决议向总督提出限制米价、调整出口作物用地等要求；Semaoen与Kadarisman署名的要求据作者引1918-02-12《Sinar Djawa》。作者另引1923-05-05《Sinar Hindia》称Semaoen于1923-04-12与Staatsspoor交涉生活补贴、八小时工作制、调解委员会和最低日薪1盾；4月30日VSTP会议及4月29—30日泗水PVH会议被叙为罢工前组织节点。**访问等级：后出论文全文转录已打开，1918与1923报纸原版、PVH会议记录、Staatsspoor会谈记录未取得。** 因作者同时引用后出Blumberger与同期报刊，不能把文章中的每一日期当成已独立核准。作者的“挫折—攻击”心理解释不作事实定论。下一步精查1918-02-12《Sinar Djawa》影像、1923-04-12铁路谈判档及1923-04-29/30 PVH会议原记录，并与已登记VSTP文献去重。
+
+**G5/G6/G7｜全国女性幸存者、1965—2017及当代救济。** 直接打开印尼国家妇女反暴力委员会Komnas Perempuan 2007-09-03原机构报告发布页 https://komnasperempuan.go.id/laporan-pemantauan-ham-detail/laporan-pemantauan-ham-perempuan-kejahatan-terhadap-kemanusiaan-berbasis-jender-mendengarkan-suara-perempuan-korban-peristiwa-1965 ，该机构指出Gerwani及被认为与PKI有关联的妇女遭杀害、强迫失踪、任意拘押、酷刑、性暴力等，强调其调查不解决1965事件全貌；**本次打开的是机构发布页与概述，未取得附带报告PDF逐案全文**。再直接打开其2016-04-18声明（网页归档显示2017-10-18）https://komnasperempuan.go.id/pernyataan-sikap-detail/pernyataan-sikap-komnas-perempuan-terhadap-simposium-nasional-membedah-tragedi-1965 ，机构明确2007报告研究**122名女性**经历；122为报告涉及的女性样本，绝不是全国遇害、被拘押或性暴力人数。机构2017年度说明 https://komnasperempuan.go.id/siaran-pers-detail/siaran-pers-komnas-perempuan-laporan-tahunan-situasi-hak-asasi-perempuan-kemajuan-tantangan-pencegahan-dan-penanggulangan-kekerasan-terhadap-perempuan-tahun-2017 记2017年Medan、Padang、Solo、Bali、Yogyakarta及Jakarta幸存者聚会受阻，是**机构公开记录的当时判断**，需核各地警察记录和当事人证言。不可用全国样本代替各省地方原件。下一步取得2007报告全文、122人分省/年代/组织匿名编码、2017各地活动及限制的同期材料，避免泄露非公开受访者身份。
+
+**G1—G10横向保持OPEN。** G1殖民工会报刊与组织命令；G2 SOBSI/BTI/Gerwani基层；G3跨机关9—10月时序；G4 Aceh、Medan、爪哇、巴厘、Flores、Kalimantan、Sulawesi地方军令与名册；G5妇女/族群幸存者；G6监禁释放与流亡；G7改革后劳动及救济；G8英美澳中苏原始行动；G9人物地点组织索引；G10四CSV去重、严格chronology和连续中文HTML。**本条只记录访问分级明确的候选核验，不虚构新S/C/Q/CV编号；应在读取正式大CSV并去重后并库。** 下一接力先按两条链取原件，再切换巴厘/东爪哇地方档。长期GOAL未完成。
