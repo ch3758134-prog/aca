@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-16 10:xx CST｜FNPBI登记编号新证据与2001年劳工争议
+
+本次已读取AGENTS、goal-continuity、stage-access、continuity-status、chronology和正式四CSV的表头/起始记录。检索印尼语/英语，直接打开2001年工会登记办法官方地方政府保存PDF、2001-05-14 Hukumonline同期报道、SMERU研究机构2003年工作论文PDF入口和机构页面。GOAL与G1—G10持续OPEN。本次没有完成正式四CSV全量去重，未新增S/C/Q/CV正式编号，也未改chronology和中文成熟正文；下列是待并库原件，不得冒称正式注册。
+
+**新发现的关键登记证据：**SMERU研究所《The Practice of Industrial Relations in Indonesia》（Sri Kusumastuti Rahayu、Sudarno Sumarto，2003-03）原机构PDF https://smeru.or.id/sites/default/files/publication/practindustrel.pdf ，附录4第29项（PDF印刷页30）依据印尼劳动部2002年1月提供的名单，列FNPBI、负责人Dita Indah Sari、登记号 **191/FSP-GSBM/DFT/BW/X/2000**、企业工会数14。原始PDF已由检索系统解析并定位对应表格，仍需逐页人工核对编号中GSBM与FNPBI名称不一致的疑点，及从劳动部取得2000年原登记册；该行的14是企业工会数量，不可混同此前同期报道的14个省级分支。SMERU机构介绍 https://smeru.or.id/en/publication/practice-industrial-relations-indonesia 。该线索比先前“已获承认”当事人口述更接近可追踪的行政登记证据，但依然是转录表，不是原登记证。
+
+**已直接打开原件：**2001年KEP.16/MEN/2001工会登记办法的雅加达地方政府存档PDF https://selatan.jakarta.go.id/modul/nakertrans/uploads/default/files/kepmenakertrans-16-th-2001-ttg-pencatatan-sp.pdf ，第2条要求向县/市劳动机关书面通知并提交创始成员、章程和管理层名单；第3条要求登记册载明登记证编号及日期，并规定在收齐通知后21个工作日内登记或作出处理。此办法于2001年制定，不得反推2000年FNPBI初次登记程序已按该办法执行。另直接打开Hukumonline 2001-05-14同期报道 https://www.hukumonline.com/berita/a/fnpbi-tolak-revisi-kepmenaker-150-tahun-2000-hol2656 ：Dita以FNPBI主席身份反对KEP.78/2001对KEP.150/2000的修改，涉及解雇、罢工、停职和补偿规则。此为其公开主张，不是该修法全部实际后果的独立证明。2000-08-16 Green Left Dita声明 https://www.greenleft.org.au/2000/416/world/indonesia-dita-sari-new-labour-regulations-inadequate 搜索索引可见，但直接打开HTTP520，仍不得标为全文已读。
+
+**下一轮精准行动：**①逐页核SMERU附录4第29行及脚注、2002年1月劳动部名单来源，核对191/FSP-GSBM/DFT/BW/X/2000是否排版串行或确属FNPBI；②查劳动部2000年10月登记册/登记证、FNPBI全国与KOBAR、SBI地方登记及是否属于不同法律层级；③取得KEP.150/MEN/2000、KEP.78/MEN/2001原文与2001-05劳资争议案例，检验Dita具体指控；④取得1999年Bandung FNPBI成立大会、2000年7月大会原纪要并核14个省级分支与14个企业工会的不同口径；⑤轮换1967西加里曼丹Witono 11-17公告及省府迁徙卷、1966 Flores、1923 VSTP、SOBSI/BTI/Gerwani地方组织。**本次提交前所读main基线参照上一轮状态，最终提交SHA必须由提交结果单独核验，不能自包含。**
+
 ## ONGOING / GOAL仍进行｜2026-11-16 09:xx CST｜2000年工会法与FNPBI登记的同期交叉核验
 
 本次重新读取AGENTS、goal-continuity、stage-access、continuity-status、chronology开头及正式四CSV表头/起始行；写入前GitHub main HEAD经API核实为5d75a644b8f6a937c17fe3e6990135f5a18eb6d5。因四表全量URL/ID语义去重未完成，不擅自分配S/C/Q/CV编号，chronology及成熟中文正文暂不修改。GOAL与G1—G10持续OPEN。
