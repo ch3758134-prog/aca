@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-17 02:49 CST｜VSTP 2011专著可访问范围核验与证据依赖追索
+
+本次核实 GitHub main 写入前 HEAD：`c14dde4c3eb6e78e6174dd8558c779779876ebc5`；读取AGENTS、goal-continuity、stage-access、续接状态、四份正式CSV的首段与chronology首段；claim-ledger.csv仍返回空文本，blob SHA 055d63973823a3b9a5d70e8976ab40aa7f8c5713（仓库目录标示约1.36MB），所以**未完成全量去重，不得新造S/C/Q/CV编号**。chronology路径确认为archive/records/chronology.md。此处的研究记录不是正式台账登记。
+
+本次印尼语/英语/荷兰语组合检索：`1923 Semarang railway strike De Locomotief May 9 1923 Delpher newspaper`、`1923 VSTP railway strike Semarang SCS annual report 1923 original`；实际打开Diponegoro University的Sugiyarto《Gerakan VSTP Semarang (1908–1923)》大学馆藏页 https://eprints.undip.ac.id/39236/ ，并**点击、实际打开**其9页PDF https://eprints.undip.ac.id/39236/1/halaman_judul_GERAKAN_VSTP_SEMARANG.pdf 。PDF只含封面、出版说明、序言、目录、缩略语和术语表，**不含历史正文及原始档案**。封面/版权页确认2011年12月、CV Madina、ISBN 978-602-18928-9-3；序言第3—4页作者自述本书由1987年在UGM的学位论文部分扩展而成。这意味着该书与作者1987年论文可能材料重合，不能视为两条独立证据链。目录显示第III章VSTP在三宝垄的发展（私人铁路企业、激进化、劳资冲突和罢工准备），第IV章罢工经过、政府及公司应对、罢工后果；印刷页码129等仅为目录坐标，**不是本次已核读正文页**。本次发现的是可追索的完整书目与章节坐标，不是1923年事件新增已证实原始事实。
+
+另外打开原始发布者Tirto的2018-04-29 Petrik Matanasi文章 https://tirto.id/mei-1923-aksi-mogok-buruh-kereta-api-yang-bikin-sewot-pemerintah-cJAV ，核对此前IRPS 2021-11-14转载 https://irps.or.id/2021/11/mei-1923-aksi-mogok-buruh-kereta-api-yang-bikin-sewot-pemerintah/ 的来源关系：**同一文章的原发与转载，绝不能当作两份独立报道**。文章引用1923年《Kaoem Moeda》《Darmo Kondo》等，但本次仍未取得原报影印页。另见2016年Sindo报道网页搜索摘录 https://daerah.sindonews.com/berita/1105486/29/semaoen-dan-pemogokan-buruh-kereta-api-mei-1923 ，打开返回403，严格标为仅搜索摘要，不能引为全文核验。检索未取得1923年《De Locomotief》指定期号原件、SCS年度报告原件或逐日车次记录。
+
+精准续查：①在UNDIP馆藏的其他文件/实体目录及UGM学位论文库定位Sugiyarto 1987原论文或2011书第III/IV章可合法获取的正文，检查其原始档案脚注与公司统计；②Delpher/KB/Nationaal Archief查1923-05-09/12《De Locomotief》原报页，逐公司分开“到岗/罢工/实际车次”；③查SCS 1922–1924 Verslag及SJS/NIS经营、雇员与解雇复雇原始表；④查《Kaoem Moeda》1923-05-12、《Darmo Kondo》1923-05-09、《Sin Po》1923-05-28原版，并核查Tirto/IRPS材料上游依赖；⑤以Git blob/raw分段方案取得claim-ledger全文，四表去重后才正式登记并更新chronology和成熟中文连续正文；轮换恢复Aceh/巴厘1965–1968及SOBSI/BTI/Gerwani和1970–2026组织链。
+
+GOAL及G1–G10全部OPEN。未建旧式列表HTML、未替作者政治判断。**本记录写入前HEAD为`c14dde4c3eb6e78e6174dd8558c779779876ebc5`；本次提交自身SHA只能由GitHub写入响应与提交后HEAD核验确定，不可能预先在同一提交正文内自引用。**
+
 ## ONGOING / GOAL仍进行｜2026-11-17 01:57 CST｜SCS企业档案入口与1923年跨地区罢工追索
 
 已读取AGENTS、goal-continuity、stage-access、continuity-status、chronology及正式四表起始结构；claim-ledger读取仍为空（blob SHA 055d63973823a3b9a5d70e8976ab40aa7f8c5713），未能完成四表全量去重，故不抢占S/C/Q/CV编号，也不改chronology及成熟正文。此前已登记Ingleson为S913。
