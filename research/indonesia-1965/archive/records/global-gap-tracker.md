@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-16｜G4巴厘死亡估计的跨期口径与G1铁路工会的早期组织结构（本次核读）
+
+**授权与覆盖：** 已读取AGENTS、stage-access、goal-continuity、2026-11-09完整性审计G1—G10、continuity与长期缺口总账。正式四CSV及chronology的路径本次以旧假设位置访问均404，尚未定位实际路径并完成全量去重，故不占用S/C/Q/CV编号。G1—G10均OPEN；本次选择G4/G8巴厘与G1三宝垄两条不同年代证据链，不把任何一条视为全局完成。
+
+**G4/G8｜巴厘、北苏门答腊、Aceh、东/中爪哇；1965-10至1966-04；美国驻印尼使馆报告的估算差异。** 直接阅读美国国务院FRUS XXVI第162号编辑说明全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d162 。此为**官方编辑说明全文已读、所引使馆电报原卷未读**，不是直接逐页读电报。编辑说明列：1965-10-29电报1269报告Aceh反共暴力；11-08电报1374报告北苏门答腊与Aceh军方及IP-KI青年组织协同清洗；11-13电报1438及泗水171报告东/中爪哇夜间杀戮及Kediri/Pare数字（均为使馆当时收到的消息，非核准死者名册）。1966-02-25使馆A-527估巴厘死亡约80,000，1966-04-15 A-641明确承认全国总数不确定，难区分夸大和隐瞒，无法判断更接近10万还是100万。1970年Howland回顾所引军官分省数字（爪哇50,000、巴厘6,000、北苏门答腊3,000）与其个人估算105,000，**是另一套形成时间、来源和统计口径不同的估计，不可与A-527相加、平均或选一作为定论**。前次A-408（1965-12-21）巴厘至少10,000也是更早时点的使馆判断，三者并非相互独立的地方人口调查。具体待查原件：A-527、A-641、11月各电报扫描及巴厘1965-12地方报纸、军区拘押/死亡名册；阻碍：目前仅FRUS编辑摘述，缺独立逐县资料。此处也修正“使馆当时已有确定全国死者数”的误读。
+
+**G1｜1908—1923三宝垄VSTP及工人组织形成。** 直接打开Dewi Yuliati《Frustration and Aggression as the Basic Factors of Workers’ Strike》公开可读论文全文转录 https://www.academia.edu/72264436/Frustration_and_Aggression_as_the_Basic_Factors_of_Workers_Strike_A_Case_Study_on_Railway_Workers_Strike_in_Semarang_Central_Java_in_the_Colonial_Era （2010《TAWARIKH》论文的后上传转录，不是殖民报纸原件）。论文第181—183页引1908-11-16《De Locomotief》称1908-11-14三宝垄VSTP创立大会有63名欧洲铁路雇员；引Tichelman整理的1914-04-01成员数欧洲764/印尼701、1918-01-01欧洲558/印尼5341；并引McVey整理1921-10总数16975、1922-06总数7731、1922年末9607。**上述数字为论文转引统计，未取得原工会会员册**；但足以明确后续应分辨会员增长、下降和罢工动员，不能将1923罢工视作孤立事件。论文亦引用1918-02-12《Sinar Djawa》刊载Semaoen、Kadarisman署名的米价与土地种植诉求，属于可追索的早期工人—粮价—农地关系，报纸原件未读。继续追1923-05-01《Rapport-Secret》及1923-04-23 VSTP通告；作者与Ingleson若共享档案不能算两条独立原始佐证。
+
+**G2/G3/G5/G6/G7/G9/G10轮换提醒：** SOBSI/BTI/Gerwani基层原件、1965跨机关时序、妇女与华裔及土地/职业损失、拘押流亡、1998后工会/政党、地名人物关系、CSV去重与中文连续正文仍未闭合。下一接力优先①查正式CSV实际路径并核本条FRUS/Yuliati是否已登记；②读A-527、A-641原件并区分巴厘各月估算；③读1965年12月巴厘《Suluh Indonesia》原报；④取1918-02-12《Sinar Djawa》与1923-05-01警察密报；⑤切换Flores/Sulawesi军方命令及拘押名册。此次只更新长期缺口总账；未更新正式CSV、chronology、readable-history，不能称已完成正式证据并库。GOAL ACTIVE/OPEN。
+
 ## ONGOING / GOAL仍进行｜2026-11-16 06:55 UTC｜G1 1923警察密报原件线索与G4/G5 Aceh Langsa Baperki强制解体
 
 **已重新读取** G1—G10完整性审计、AGENTS、stage-access、goal-continuity、正式source/claim/search/coverage四CSV、chronology、长期缺口总账与滚动续接。正式末号仍S945/C1646/Q411/CV429；本次新线索仍需与现有全文语义去重，不擅自抢编号。
