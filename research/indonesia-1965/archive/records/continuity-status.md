@@ -1,3 +1,7 @@
+## ONGOING / GOAL仍进行｜2026-11-15 16:49 PST｜FNPBI登记争议与1967西加里曼丹省档案入口
+
+本次已读取AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10完整性审计、正式四CSV、chronology及两份滚动状态。发现FNPBI干部Romawaty Sinaga 2000-10-25署名同期全文 https://www.greenleft.org.au/2000/425/world/indonesia-militant-union-wins-legal-recognition ，其称劳工部承认FNPBI、此前Jabotabek（原KOBAR）登记被拒且影响收会费、West Java（原SBI）经抗争获登记；此为当事组织说法，尚无部令/登记证。另打开1998-07-01 PRD活动者Muhammad Ma'ruf访谈 https://www.asia-pacific-solidarity.net/news/1998-07-01/interview-indonesian-activist-muhammad-maruf.html ，其称PPBI 1994-10-22/23 Ambarawa大会组织工厂委员会；为当事人回忆非原始大会文件。跨地区直接打开KITLV出版社2012 Tanasaldy全书PDF https://library.oapen.org/bitstream/handle/20.500.12657/34518/1/421239.pdf ，其注117/118明确1967-11-17 Witono《Maklumat》私人收藏及省府1967年华裔迁徙卷的省长办公室馆藏；并打开西加里曼丹省档案馆 https://arsipkalbar.id/home ，尚未取得原件。证据分级和缺件见global-gap-tracker顶部。未完成正式CSV全量语义去重，不新增编号、不把档案目录当原件，不修改chronology/HTML。下一执行：①检索2000年FNPBI劳工部登记号、拒绝书和2000工会法；②找1999/2000 FNPBI大会决议与PPBI/KOBAR/SBI改组文件；③查1967-11-21《Pembangunan》原报与Witono 11-17公告；④查省档案馆Pontianak/Sambas华裔迁徙卷与Landak村名册；⑤轮换Flores Jan Djong死亡登记及G1 VSTP 1923原报。G1—G10继续OPEN，单次边界非完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-16 08:00 CST｜FNPBI同期报道日期冲突与组织活动续查
 
 本次重新读取 AGENTS、goal-continuity、stage-access、continuity-status、chronology，并读取四份正式CSV的表头/开头记录；未完成四表全量URL/ID去重，故不分配新S/C/Q/CV号，不修改chronology或成熟中文历史正文。长期GOAL与G1—G10继续OPEN。
