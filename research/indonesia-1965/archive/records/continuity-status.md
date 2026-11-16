@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-17 05:53 CST｜亚齐1966年强制迁移、青年组织及军方差别行动的证据链复核
+
+本次读取main上的AGENTS、goal-continuity、stage-access、continuity-status、chronology及四份正式CSV起始行；claim-ledger.csv再次返回空文本（blob SHA 055d63973823a3b9a5d70e8976ab40aa7f8c5713），未能全量去重，不新分配S/C/Q/CV编号。公开网页直接打开Jess Melvin 2013论文出版者全文 https://journals.sagepub.com/doi/full/10.1177/186810341303200304 ，重点核对“Third Wave of Violence”“Flight from Banda Aceh”及脚注。该文是后出研究，转引1966年军方报告、Coppel 1983及2011年口述，不是本次独立取得的军方原件。
+
+新增辨析：Melvin记录1966年初Banda Aceh亲北京华人住户遭红漆标记，随后遭学生行动团体KAMI/KAPPI参与的袭击与拘押（基于Ho Fui Yen、Xie Jie Fang、Wak Tin Chaw 2011口述）；同时记载军方负责人Ishak Djuarsa于1966-04-24在北亚齐会议要求调查部分暴力，1966-05-08下令“alien Chinese”于08-17前离开亚齐。**同一军方体系既曾支持/容许迫害，又在某些具体车队提供护送，并不意味着前期镇压被否定或所有军人行动一致。** 首批三卡车车队据口述在Meureudu遇袭企图，但护送士兵使其继续抵达Medan；随后更多车队出发。约10000离境和约4000乘Kuang Hua船撤离是Melvin转引Coppel 1983的统计，尚未取得运输登记和港口乘客名册。文章又称至少304名“RRT Chinese”被移交北亚齐军方，去向不明，**不能把304直接写成死亡人数**。此处可建立军方不同层级、KAMI/KAPPI、亲北京与亲国民党社群、车队/港口的关系链，但身份、时间、命令和人数需分别核实。
+
+对前一10月命令日期悖论继续保留：1965-10-29签发、追溯10-20生效、要求10-25前报到；本次仍未获得Surat Keputusan 1965原件。Melvin文章脚注23将登记报到与后续拘押/杀戮关联，但须查逐人登记与处置记录，不能将普遍过程直接赋予所有人。本文作者对暴力定性的论证属于研究解释，不替作者政治判断。
+
+下一次精准行动：①取得Kodam-I/Atjeh《Laporan Tahunan Lengkap: Tahun 1965》内《Chronologis Kedjadian2...》原件，逐日核军方部署和304人移交记录；②查《Perkembangan 1966》原件1966-04-24会议记录、05-08驱逐令签署页及实际执行机构；③查Meureudu护送车队的军方/警察记录、Belawan港Kuang Hua四航次名单及中国使领馆记录，区分约10000/4000统计口径；④核KAMI 1965-10-25与KAPPI 1966-02-09建团资料、Banda Aceh地方分会活动和口述中“1966年初”日期；⑤以Git blob/raw分段取得claim-ledger全文、四表去重后正式并库，补chronology及证据成熟的中文连续正文，并轮换SOBSI/BTI/Gerwani与1970—2026劳工、政治犯链。GOAL及G1—G10仍OPEN；未建旧HTML。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 04:49 CST｜亚齐1965年Baperki军事命令的日期悖论复核
 
 本次核实GitHub main写入前HEAD：`35b12b635ffbc66f61258943c863be82561c44d6`（通过compare_commits获取base_commit）。读取AGENTS、goal-continuity、stage-access、续接状态、chronology与四份正式CSV首段；claim-ledger.csv读取仍返回空文本，blob SHA `055d63973823a3b9a5d70e8976ab40aa7f8c5713`，因此不能声称四表全量去重或注册新S/C/Q/CV编号。
