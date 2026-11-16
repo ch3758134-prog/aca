@@ -1,3 +1,16 @@
+
+
+## ONGOING / GOAL仍进行｜2026-11-16｜G4/G6南苏拉威西原始调查摘要与G8英国档案卷号追索
+
+**核验范围与等级：** 本次已读取2026-11-09完整性审计、AGENTS、stage-access、goal-continuity、continuity及本总账；定位并检查正式四CSV和chronology，claim-ledger分段读取仍返回空，故没有抢注S/C/Q/CV号，也不宣称完整去重。G1—G10保持OPEN。以下两条来自不同G项的实质核验分别是印尼调查机构原文与英国外交档案的二级引证，证据级别不同。
+
+**G4/G6｜南苏拉威西Moncong Loe（1970—1978）：** 直接打开印尼国家人权委员会Komnas HAM《Ringkasan Eksekutif Hasil Penyelidikan ... Peristiwa 1965–1966》印尼语公开PDF全文（TAPOL镜像）：https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf 。开篇明确调查授权2008-06-01至2012-04-30，检查349名证人/受害者（原文p.1），这解决了此前新闻349/340/346争议中的**最终公开摘要采用的口径**，但不证明不同报道完全同口径。该摘要PDF印刷p.148（PDF可检索文字）明确引用证人D、BAP 269/BAP_TPPH 65/III/2009，称其1971年至1977年12月被关押Moncong Loe、从事开荒耕种；报告据多名证言称拘押者无薪修营房、设施、私人农地及约23公里Moncong Loe—Daya道路，描述每日半升米等口粮待遇；报告将至少1000名被视为PKI成员/支持者的平民置于1970—1978拘押机制的论证中。**准确归属：这是调查机构根据证言形成的调查结论，不是已直接阅读BAP笔录或军方原令；1000是该场所报告中的最低规模主张，不是死亡人数。** 原始证人BAP、营地编制、军方工程账、1970—1978逐年出入册仍缺。应把1965—66抓捕与1970年代劳动营持续制度分别建时间节点，不能因报告标题只写1965—66而抹去后续拘押。
+
+**G8｜英国IRD/FO档案追索：** 查得Matthew Jones相关研究《‘Keep the Indonesian Pot Boiling’: Western Covert Intervention in Indonesia, October 1965–March 1966》的公开引文与脚注（期刊网站正文访问403，故**只读到可检索脚注，不是论文全文，更不是TNA原件**）：https://www.tandfonline.com/doi/abs/10.1080/1468274042000283144 。脚注列TNA **FO 1101/5** Reddaway致Tovey备忘录1965-10-30、**FO 371/181455** Stanley致Cable记录1965-10-07及CRO致Canberra第2679号电报1965-10-13、**FO 371/181457** Murray与Mokoginta会谈记录1965-11-09、**FO 371/181530** Stanley致Reddaway第1460号电报1965-10-09；另一份可公开阅读但具有论辩立场的后出批评文献还列FO 1101/7 1965-12-17/20 Smith—Reddaway函：https://networkmyanmar.org/ESW/Files/Critique-IPT1965.pdf 。这些卷号只是**可核的馆藏定位线索**，不能凭脚注推断原件措辞、已送达的宣传品、接收者反应或对地方暴力的因果贡献。英国国家档案馆明确说明多数FO档案不能在线阅读，需要在Kew查阅或订复制件：https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/foreign-commonwealth-correspondence-and-records-from-1782/ 。
+
+**G1连续链与横向缺口：** 1923年VSTP铁路公司原始列车/员工记录与1914工会大会记录继续OPEN；G2 SOBSI/BTI/Gerwani/Pemuda Rakyat/LEKRA基层制度；G3 1965跨机关逐时；G4 Aceh、北苏门答腊、东中西爪哇、巴厘、Flores、西加里曼丹、Sulawesi逐县暴力；G5妇女、华裔与财产转移；G6监禁、流亡；G7 1998—2026工会政党幸存者；G8英美澳中苏；G9人物地名组织；G10正式去重、严格时间线和中文连续HTML，全部OPEN。此处未将原始报告摘要误称为完整900页调查卷，未把英方二手引文冒称档案原件。
+
+**精确接力：** ①在公开Komnas HAM摘要逐页提取Moncong Loe段落及证人BAP编号，并追原始笔录；②查军方1970—78营地、道路建设及释放登记；③用TNA Discovery逐卷核FO 1101/5、FO 371/181455、FO 371/181457并申请原件影像；④回查1923 VSTP原始会费与公司运行表；⑤修复claim-ledger全文读取与去重，成熟材料再并入正式CSV、chronology和中文连续正文。长期GOAL未完成。
 ## ONGOING / GOAL仍进行｜2026-11-16 UTC｜G4南苏拉威西调查样本口径、G8英国宣传原件追索
 
 **范围及访问等级：** 已重新读取main的AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10完整性审计、continuity及本总账；确认正式CSV与chronology位于 `research/indonesia-1965/archive/records/`，而非研究目录根路径。直接读取source-register、search-log、coverage-matrix开头及chronology开头；claim-ledger的GitHub读取仍为空（SHA 055d6397），因此本次**未做全量去重、未抢S/C/Q/CV编号**。当前研究不代表各G项闭合。
