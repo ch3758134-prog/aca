@@ -3195,3 +3195,16 @@ Siti Maryam独立履历补入出生/排行争议、学习与公务员/议会履�
 新增两个彼此独立的KUR司法/调查档案：Tambe/Woha 2021申请人涉及的Arif Rahman一审案（后续上诉/最高法院结果待核），以及ANTARA所报BNI Cabang Bima 2019–20、1,634名受益人、九名嫌疑人的大范围调查。没有材料证明其与Madawau 2021抗议是同一借款人或并案。
 
 形式台账新增来源S1167–S1194、事实主张C2109–C2132、检索Q464–Q469、覆盖CV513–CV517。主要缺口已列于global-gap-tracker：组织原件、各事件原始账册/会议记录、KDKMP人事与登记、法院后续裁判和BPKP审计。所有词条继续OPEN，GOAL持续进行。
+
+
+## ONGOING / GOAL仍进行｜2026-11-17 03:54 CST｜Aceh 1965年10月地方组织镇压的逐日证据链（待正式并库）
+
+本次重读main上的AGENTS、goal-continuity、stage-access、chronology，以及source-register/search-log/coverage-matrix开头与claim-ledger的访问状态；claim-ledger通过GitHub fetch_file仍返回空文本（blob SHA 055d63973823a3b9a5d70e8976ab40aa7f8c5713），因此不能声称四表全量去重，也不新造S/C/Q/CV编号。本次没有更新正式CSV、chronology和成熟中文正文，需在下一次优先解决。研究方向由1923 VSTP切换到1965 Aceh军政与地方组织链，避免研究连续性过度集中于单一年代。
+
+**直接打开并核读的全文（非同期原件）：** Jess Melvin, “Why Not Genocide? Anti-Chinese Violence in Aceh, 1965–1966”, Journal of Current Southeast Asian Affairs 32(3), 2013, https://journals.sagepub.com/doi/full/10.1177/186810341303200304 （全文网页；尤其“The Second Wave of Violence”“Intimidation of the Baperki Leadership in Langsa”“Djuarsa Freezes Baperki in Aceh”）；另打开Jess Melvin, *The Army and the Indonesian Genocide: Mechanics of Mass Murder*, Routledge 2018, https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf （可读书本全文，尤其第7章和所引Pernjataan 1965）。两者为**同一作者、共享档案材料**，不是两份独立证据。文章引军方《Chronologis 1966》及1965-10-18 Langsa Baperki《Pernjataan》，本次没有取得独立档案影印，不能将书中转录当作自行核读原件。
+
+**分层事实线索：** Melvin据军方编年称1965-10-08 Banda Aceh Baperki及华侨社团办公场所遭袭，10-09 Sigli的Baperki、PKI、Lekra、Pemuda Rakjat和Gerwani场所遭破坏；这些是军方材料经研究者转录的**事件报告**，非独立证实每一参与者。10-11东亚齐Kodim-0104指挥官Iljas Mahmud向Langsa Baperki干部说明军方关于G30S和Baperki的指控；10-18当地Baperki声明宣称148人退出并解散组织。声明中的苏加诺广播内容由Melvin对照总统10月3日及14日讲话指出并无对应广播，故绝不能写成苏加诺真实发布灭绝命令。10-14 Kuala Simpang/Pulo Tiga军方编年记载针对Baperki、BTI房屋的袭击；10-29军区指挥官Ishak Djuarsa签发追溯10-20生效的冻结令，所涉组织成员从政府机构排除及限行、报到条款，须逐条核对签署文本和发布时点。研究中的“genocide”定性属于作者的法律/历史论证，不替用户采用政治判断。
+
+**需要核对的关键区分：** Baperki是公民身份组织，不应仅因军方将其列入所谓PKI外围组织就断言其为PKI组织；Baperki、Asosiasi Huakiao及华人社群内部不同政治立场不可混同；10月18日声明是在压力下产生的证据线索，不可据此推定148人均自由自愿退出或每人都参与政治行动。军方报告的“群众示威”及“军方制止”需用地方证人、受害者及独立同期材料反证。
+
+**精准未完事项：**①获取Langsa 1965-10-18《Pernjataan》签署页与148人附件，核人名、职务、签署程序和存档位置；②取得Kodam-I/Aceh《Chronologis 1966》10-08/09/11/14逐日原件与Kodim-0104值班/命令档，比较Melvin引文；③取得Ishak Djuarsa 1965-10-29签署且追溯10-20的《Surat Keputusan》全文，核法定授权、执行日期、对象与报告义务；④用ANRI、地方报纸和口述对照苏加诺1965-10-03、10-14原始广播文本，明确虚构广播的传播者与传播路径；⑤修复claim-ledger全文访问，四表全量URL/标题/主张去重后正式登记、更新chronology和中文连续正文，并继续1970–1998及1998–2026组织链。GOAL及各子目标OPEN；此次只作可续接核验记录，不称穷尽。
