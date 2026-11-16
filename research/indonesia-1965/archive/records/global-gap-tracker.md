@@ -2533,3 +2533,16 @@ ANRI《比马王室档案目录》No.280是1948-05-05学校/学生/教师人数�
 **G3/G4｜东爪哇Kodam V Brawijaya军区档案馆藏路径：** 发现学术论文《Collaboration in Mass Violence: The Case of the Indonesian Anti-Leftist Mass Killings in 1965–66 in East Java》开放网页可检索正文段落：https://www.tandfonline.com/doi/full/10.1080/14623528.2020.1778612 。检索页面显示作者使用Malang的Brawijaya军事博物馆所藏1965—1968年军方行动报告、日记、无线电报与规定，涉及Surabaya、Malang、Mojokerto、Madiun四个Korem，Malang系列最完整；作者称馆藏须经Kodam的Bintaldam许可。**访问级别：搜索引擎提供正文摘录，直接打开出版社全文返回403；未阅读该论文完整正文，更未直接读军区档案。** 作者关于军方组织民间团体参与杀戮的论证只能归属作者，不可冒充已核军令。下一步追作者脚注中的军令日期/文号、博物馆藏号、Bintaldam访问手续，交叉核第183号电报的11月地方情势，分开军方命令、组织动员、具体行动与后果。
 
 **横向缺口与转换：** G1 1923 VSTP铁路罢工原报/警察密报继续OPEN；G2 SOBSI/BTI/Gerwani/LEKRA基层仍缺原件；G3 东爪哇军区逐日命令；G4 东爪哇本次补入同时Aceh/北苏门答腊/中西爪哇/巴厘/Flores/West Kalimantan/Sulawesi仍需轮换；G5 华商、Ludruk演员、工人职业/族群影响；G6 Moncong Loe及流亡；G7 1998—2026政党工会；G8 英美澳中苏介入；G9 具体人物地名组织；G10 正式CSV语义去重、统一chronology及中文连续历史正文均OPEN。**精确续接：** ①核183号电报扫描；②定位Kodam V原始文号；③追Kediri/Malang 1965-11-22/23同期报纸；④返回VSTP 1923殖民原件；⑤恢复claim-ledger完整读取后去重并正式入库。GOAL未完成。
+
+
+## ONGOING / GOAL仍进行｜2026-11-16｜G4/G6北苏门答腊Gandhi与G4中爪哇Klaten
+
+**入口及证据等级：** 已读G1—G10完整性审计、AGENTS、stage-access、goal-continuity、滚动状态、四个正式CSV入口及chronology。claim-ledger通过GitHub分段读取返回空内容，故本次不分配S/C/Q/CV编号。下列新核读与此前地区报告共享来源时不得重复登记为独立证据。
+
+**G4/G5/G6/G9｜北苏门答腊Medan、Jalan Gandhi—Suka Mulya—Tanjung Kaso（1965—1978）：** 直接打开Komnas HAM 2012调查执行摘要的TAPOL非官方英文译本PDF全文 https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20TAPOL%20translation.pdf ，印刷pp.9–13，特别是PDF文本行318–525。报告转录证人叙述：1968年7月至1972年12月Gandhi长期拘押、审讯殴打和电击；另有1975年逮捕及1976—78年Suka Mulya/Tanjung Kaso转押链，属于**不同证言**，不能机械拼成同一人连续经历。关于dibon夜间带走不归、1966-05-27有27人（含3名妇女）被押离、1967年约60人被转移后失踪，均为证人证言及调查机构初步结论，未见转押签收、死亡登记或逐人名册；27和60可能与其他段落所述60人重叠，禁止相加。报告还列出Elmut Tobing（Baperki）、Martin Saragih（CGMI）、Rumiati/Anuar Jampak/Ranos Sembiring（Gerwani）、Effendi（LEKRA）等具体失踪线索，身份及下落待核。1965年10月Belawan归港人员遭搜查、SOBSI Jalan Medan Binjai办公处被焚及主席/守卫遇害同样是证人叙述，尚无独立工会名册、警方火灾登记。此处读到**调查报告译文，不是原始BAP笔录**；应回对印尼文原版，警惕英文译文将不同证言连接造成时间错觉。
+
+**G4/G5｜中爪哇Klaten/Delanggu/Boyolali（1965）：** 直接打开Mathias Hammer 2013年开放获取研究全文 https://journals.sagepub.com/doi/full/10.1177/186810341303200303 。作者据2010年Klaten访谈及ISSI 2000–01年口述档案，重构军方在大规模拘押时依赖村级举报、民间组织提供身份信息及临时审查队筛选的机制；文中有Klaten铁路工人遇枪击、Delanggu麻袋厂工人被公开鞭打等**转引/口述主张**，不能把作者引用Gavi 1969、ISSI访谈当已独立读原件。文章明确承认KORAMIL与军方情报部门在具体处决名单形成中的作用尚不清楚，亦不应把地方举报等同军方完全失去指挥权。需要取得ISSI原访谈逐字稿、Klaten KODIM/KORAMIL登记、Delanggu工厂工会名册、地方审查委员会文书，区分谁举报、谁批准、谁执行及幸存者如何脱险。
+
+**G1持续链：** 1923-05-01 Gewestelijke Recherche秘密报告、1923-05-09铁路公司运行表及《De Locomotief》原版仍未取得；不得将2010年学者二次引用重复算独立来源。**G2**群众组织原件；**G3**1965跨机关逐时；**G4**各省县级证据；**G5**妇女、族群、财产；**G6**长期拘押/流亡；**G7**1998—2026；**G8**外国介入；**G9**人物地名组织；**G10**正式去重/时间线/中文正文均OPEN。
+
+**精确续接：** ①回核Komnas HAM印尼文原版Medan段与BAP编号，分离证人；②追Gandhi/Suka Mulya/Tanjung Kaso 1966—78转押名册及军区签收；③取得ISSI Klaten 2000–01原访谈与KODIM审查表；④追1923-05-01殖民警察密报及《De Locomotief》1923-05-09原版；⑤修复claim-ledger完整读取、去重后把成熟事实写入正式CSV、chronology与连续中文正文。长期GOAL未完成。
