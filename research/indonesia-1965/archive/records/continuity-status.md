@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-16 10:53 CST｜FNPBI登记表邻行异常复核
+
+本次重新读取AGENTS、goal-continuity、stage-access、continuity、正式四CSV的表头与起始记录及chronology；正式CSV仍未全表去重，**不分配S/C/Q/CV号、不声称并库**。直接打开SMERU 2003年3月研究原PDF https://smeru.or.id/sites/default/files/publication/practindustrel.pdf ，附录4印刷第30页（网页抽取第1069行），核实第29行FNPBI／Dita Indah Sari／191/FSP-GSBM/DFT/BW/X/2000／14；**紧邻第30行**另列Federasi Gabungan Serikat Pekerja Mandiri (GSBM)／Amran Simanjuntak／Kep.199/FSP-GSBM/DFT/BW/X/2000／22。两行共享GSBM字母段但流水号191与199不同；这不是简单跨行粘连可以直接修正的证据，既可能为原表誊写错误，也可能是行政登记编码沿用。研究报告附录注记原始来源为印尼劳动与移民部Employer and Employee Empowerment分局2002年1月数据（PDF第1079—1080行），并非研究人员直接提供登记证原件。14与22均是企业工会数，不是省分支数。已比对SMERU机构出版页 https://smeru.or.id/en/publication/practice-industrial-relations-indonesia 与另一转录版本 https://www.researchgate.net/publication/4801946_The_Practice_of_Industrial_Relations_in_Indonesia ：后者重复相同GSBM段，属同一研究的转载，**不算独立反证**。本次结论仅是“源PDF确实这样排印、错误或编码缘由未明”，不能将191号当已核对的FNPBI官方登记证。
+
+**精准未完事项：**①向印尼劳动与移民部Binawas/Employer and Employee Empowerment查2002年1月原始工会联合会名单第29—30行及原登记册191、199号影印，核FNPBI/GSBM编号；②查FNPBI 2000年10月登记证、地方KOBAR/SBI登记和拒绝函，区分全国联合会与地方企业工会；③核1999年5月Bandung成立大会、2000年7月第二次大会原始纪要及2001年会员数口径；④轮换1967年西加里曼丹10—11月地方文告和军令原件、1966年Flores B.061/III/1966；⑤追1923 VSTP原报、SOBSI/BTI/Gerwani基层档案与1998—2026政治犯及劳工后续。GOAL和G1—G10仍OPEN，不宣称穷尽，不替作者政治判断。**本轮提交的最终SHA需以GitHub写入响应和随后main回读为准；同一Git提交的文件不能自包含其自身SHA。**
+
 
 ## ONGOING / GOAL仍进行｜2026-11-15 18:53 PST｜G4/G6南苏拉威西军政命令与G2工会国际网络
 
