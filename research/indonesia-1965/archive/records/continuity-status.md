@@ -8,6 +8,28 @@
 
 **G1—G10横向未闭合：** G1殖民警察/工会原卷；G2 SOBSI/BTI/Gerwani基层；G3广播/军令跨机关时序；G4 Aceh/Medan/Java/Bali/Flores/Kalimantan/Sulawesi分县暴力；G5族群妇女及迁移财产；G6拘押流亡再组织；G7工会登记与当代政党；G8英美澳中苏实际行动；G9人地组织关系；G10正式CSV去重、严格时间线及连续中文HTML。此处为**检索及原件定位进展**，不冒充已经核实地方原件的实质历史定论。下一续接先核Melvin 2013全文与1965-10-18 Langsa原声明、Kodam-I年报；同时核1923-05-01警察密报，之后切换另一省份原件。GOAL OPEN。
 
+## ONGOING / GOAL仍进行｜2026-11-16 06:31 UTC｜比马Rukun Wanita的地方教材、1949年照片与PERWARI关系（独立词条）
+
+本轮只推进G9/G10的独立人物/组织条目；没有改主线chronology、连续阅读正文或HTML。先修复并完成与最新origin/main的合并，当前研究分支HEAD为 **206bb44fc065302614e720b3dd22771d76cc7523**，其中已包含当时远端main提交246d2b5；工作树内未跟踪的 `encyclopedia-index-evidence-audit-2026-11-15.csv` 未改动、未纳入本轮。
+
+**新增材料：**印尼国立伊斯兰大学马塔兰分校机构库提供比马市教育与文化局2021年初版《Bahan Ajar Muatan Lokal (Mulok) Kelas VI》全文。本轮下载可访问的58页压缩PDF，阅读印刷第12页及第48–49页书目，并查看第12页图像；机构库另列9MB高分辨率版本；浏览器访问超时，随后命令行虽收到7.8MB文件，但PDF解析报XRef无效且缺少trailer，故该版本无法读取。地方教材称Rukun Wanita于1949-09-11成立、苏丹后妃为保护人、S.B.S. Yulianche任主席、Siti Maryam列作“Ketua Muda Putri”，并称组织在1949年12月并入PERWARI。其同页两张图分别题为1949年成员合影和RW活动，但无摄影者、原始相册/底片号、提供者、地点或人物识别；精确图片标题/图搜未找到可比对的馆藏原件，Scribd结果只是同书转载。书目列有无页码的苏丹重要书信档案集，未说明该集与这段文字或照片的关系，不能称本段源自已核档案。
+
+与已登记S1025的1958年全国妇女运动纪念册对读：其1952年Kongres Wanita Indonesia名册分别列“Ikatan Wanita Bima”“Rukun Wanita Bandung”和“Perwari Jakarta”。三名条目不证明Bima组织的更名、并入或拆分。当前只可记录地方教材提出“RW Bima→1949年12月PERWARI”的说法，且1952名册存在“Ikatan Wanita Bima”名称；中间组织关系是待核假说。1944、1947、1949及LIPI 2020印作1984年的形成日期仍并列，未裁定组织创立、公开成立、改组、加入全国组织或印刷错误中的任何一种。
+
+正式新增 **S1037、C1898–C1901、Q426、CV464**；扩展 `standalone-person-event-dossiers.md` 中的Rukun Wanita独立事件条目及照片/合并说法的取件顺序。来源和完整限制见global-gap-tracker末条。GOAL、G1–G10保持OPEN，不替作者作政治判断。
+
+**下一步直接执行：**①追索教材团队第12页照片来源、原始相册/底片及编写工作底稿；②调取Taufan 2010《Demi Masa》相关页并检查其原始来源；③找1949—1952 Perwari中央/地方通讯、Bima RW章程/会议或资产转移记录、Kowani大会凭证；④按S991目录调ANRI-AKB第45、50、58–60、76项，判断议会故事与社团关系是否有相同人名/材料；⑤核查1958名册原印本与其他同源转录，不把重复转录计作独立证据。
+
+## ONGOING / GOAL仍进行｜2026-11-16 04:16 UTC｜Sikka人物与Malino独立词条补档
+
+本轮继续按独立百科词条搜集，不插入连续历史或主HTML；作者立场文件未读取、判断留白。新增并已阅读/检索：MaUmErE of Flores 2008 Don Thomas地方史摘录（明确转自da Gomes/Mandalangi 2003）；E.D. Lewis 2006 ANU章节关于Sikka/Nita/Kangae制度与1929整合；Lewis 2009 ANU章节中Kondi、Boer和《Hikayat Kerajaan Sikka》文本分析；ANU Malay Concordance Project对Kondi手稿转录的检索结果（估计页253，记Thomas 1909–1910助教、1912官署文书至1918、后任Mantri Belasting）；荷兰国家档案馆2.22.09 inv.10/23目录（四件合并Sikka/Nitta/Kangae与自治组织的备忘录/来函，原件未读）；Ons Land/KITLV Malino照片目录；FRUS 1946 d625/d626两份同期美国总领事电报；I Ketut Ardhana的2005年会议代表文章；官方Malino会议记录目录、Dutch archive d.157/71和Warners馆藏目录；Sikka 1933—39百科Nita可见片段；Atma Jaya Don Thomas书目记录。新增source S978–S990、claim C1749–C1767、search Q420、coverage CV445–CV449，并扩展独立人物/手稿/事件档案。
+
+**关键来源关系：**2008地方文章与Taniputera 2017均援引同一本2003年Don Thomas地方史书；Thomas出生/家庭及多项履历重复不能算独立来源。MCP的Kondi《Hikayat》转录第253页在本轮直接检索到1909—1910助教、1912—1918官署文书、1918年后税务任职序列；原手稿影像和地方史书编辑注释仍未读，且二者可能存在共同的手稿上游。Kondi、Boer手稿内部又同时包含神话/口述传统与后期文件，须逐段核，不把整部《Hikayat》视为单一档案。
+
+**Malino内容边界：**FRUS d625转报7月22日四项联邦决议，d626转报7月23日关于王国内合作期的不同意见；两份均为美国领事电报而非会议逐字记录。图像目录标注Thomas在会场；Ardhana名单援引Goudoever 1946 pp.26–60；会议原始记录、照片本身和签到册未取得。会议日期在书目、档案夹和电报中各有15—25、16—22、16—24及7月22/23决议日期，未用档案日期冒充正式开闭幕日。
+
+**后续原件任务：**①取阅Da Gomes/Mandalangi《Don Thomas》2003版第6页及编者注；②申请MCP手稿64影像、Kondi/Boer库存表、1909—1918学校和官署人员原始名册；③申请荷兰国家档案馆2.22.09 inv.10/23四份材料；④查Goudoever《Malino maakt historie》页26—60、逐日议程、签到册及KITLV 157718照片说明原档；⑤查Flores Federasi成立会议名单与会议纪要。现有著录仍只部分完成URL/内容层全量去重，GOAL及G1—G10继续OPEN，不能宣称穷尽，也不替作者作政治判断。
+
 ## ONGOING / GOAL仍进行｜2026-11-16｜VSTP 1923传单与Aceh 1965军方文书续接
 
 本次依照G1—G10完整性审计及项目规则开展不同G项核验：直接打开Dewi Yuliati 2010期刊出版页 https://journals.mindamas.com/index.php/tawarikh/article/view/376 ，其参考文献明确给出1923 VSTP原始传单的荷兰国家档案Inventory 144及1923-04-23《Sanget Penting》、1923-05-10罢工中央领导传单、1923-06-08驻扎官函附工会公报、《Sinar Hindia》5月5/8/12日报刊。**仅出版页与参考目录已读，原件未读**。另一链直接打开Jess Melvin 2018《The Army and the Indonesian Genocide》可检索PDF全文 https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf ，确认其Aceh军方档案及逐日章节、军方死亡图和军事年表图位置；**学术全文可访问，不等于独立取得3000页军方档案原卷**。详细证据等级及缺件见global-gap-tracker首条。尚未完成四CSV全量去重，未新增编号/chronology/中文正文。下一动作：Nationaal Archief inventory 144原传单；《Sinar Hindia》三期原报；Melvin第3—4章逐项军事命令及附件；不同地区Moncongloe/北苏门答腊拘押档案。G1—G10全部OPEN，长期GOAL未完成。
@@ -43,6 +65,7 @@
 **去重发现：**2024-09-05中苏拉威西1965受害者救济的450人/145户、79户住房未落实及4名教育待援事项，已在正式来源S450与检索Q254登记（原政府链接 https://sulteng.kemenkum.go.id/berita-utama/ditjen-ham-pastikan-pelaksanaan-inpres-nomor-2-tahun-2023-pantau-pemulihan-hak-korban-1965-1966-di-sulawesi-tengah ），此次另直接打开ANTARA 2024-09-05同期报道 https://www.antaranews.com/berita/4309963/pemerintah-komitmen-tuntaskan-pemulihan-korban-ham-berat-di-sulteng ，它转述同一官员及同一行政消息，**不算独立证据，也不得新增450受益人数**。另SMERU附录FNPBI与GSBM登记号异常的同源转载已在续接记录，仍无劳动部原登记证。四表中未找到Hukumonline该精确URL；但本轮未逐条比对2012调查事件全部相近事实主张，故不冒进分配新ID；正式编号仍止于S945/C1646/Q411/CV429。
 
 **精准未完事项：**①检索Komnas HAM 2012-07-20移交总检察院原始签收单、调查摘要第141—145页与检方后续退卷函；②核查2012新闻与已有S140/S859、全部相关C记录是否重复后再决定正式并库；③取得2002-01劳动部工会联合会登记原名单及FNPBI/GSBM 191/199两份登记证原影；④取得1967西加里曼丹10-31、11-03、11-06、11-17原始文告和1966 Flores B.061/III/1966；⑤轮换1923 VSTP原报、SOBSI/BTI/Gerwani基层史及2025—2026受害者认证和实际赔付的官方行政卷。未改chronology和成熟中文正文，因为本次发现仍以程序节点/既有事实的去重与核查为主，尚未形成新连续过程。GOAL与G1—G10永久OPEN。**本次写入前main HEAD：ddfd52076d3bdfa464b932d32ac9bd7b51da9a6b；本次提交的最终SHA由写入响应和提交后main回读确认，无法写入提交自身。**
+
 
 ## ONGOING / GOAL仍进行｜2026-11-16 10:53 CST｜FNPBI登记表邻行异常复核
 
@@ -2816,6 +2839,63 @@ G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q
 
 **G1—G10仍全部OPEN：** G1 VSTP 1923同期报刊；G2 SOBSI/BTI/Gerwani基层；G3 1965跨机关；G4/G5地方死亡与社会后果；G6监禁流亡；G7劳工组织；G8外国行动；G9地方人物索引；G10正式四CSV去重、chronology与连续中文HTML。此次新法律条款及学术数字先列候选核验，尚未对559k/1MB正式来源主张表完成语义去重，不擅自分配S/C/Q/CV；下一续接先核官方法律PDF与FNPBI登记簿，切换Flores B.061/III/1966原函及西加里曼丹地方原卷。单次执行边界，不代表GOAL完成。
 
+## ONGOING / GOAL仍进行｜2026-11-16 UTC｜人物与事件独立词条资料补齐
+
+已从最新GitHub main（`ddfd520`）检查后续提交并将其并入研究分支；本次没有改动HTML。只读检查百科重建分支后，发现Jan Djong尚无独立人物页面。因main已把S942–S945、C1643–C1646、Q410–Q411和CV428–CV429分配给其他研究，已对分支Maumere新增条目重新分配唯一编号：S946–S957、C1647–C1685、Q412–Q414、CV430–CV433。对S456及C631/C659/C824/C1056/C1057的版本冲突已逐项比对；保留主线较新的非锡卡记录，同时保留印尼语Komnas HAM原报告和Jan日期冲突等更完整核验说明。
+
+重新打开S947（Van Klinken 2013演讲）全文并读取其Jan Djong部分，新增C1686–C1696；复核S948（2015印尼语论文）的1953示威申请书目。新建`standalone-person-event-dossiers.md`，将Jan的姓名、个人履历、争议和1966死亡日期单独成档；另将1953-06-19 Maumere示威按参与者、行动、材料、来源链和原件缺口独立记录。此处“公民参与”是Van Klinken的解释，非示威者的已知自述。旧Maumere家属、证人、Heinrich Bollen和2017—2019仪式资料也转入独立底稿并已重新编号。
+
+S947仍是唯一完整讲述1948/1953/1954—1959人物过程的来源；示威申请只在书目出现，未见原件；没有同期报纸、法院、警方或议会记录交叉核验。Jan的具体出生村、党籍、任职、1957刑期及1959赦免需要原件；1966-02-09与1966-03-01死亡说法未裁断。后续优先取1953申请与地方政府/警方登记、1948和1957案卷、1959赦免、Kanilima及学校/议会记录、Jan的监所和教区死亡/埋葬资料。
+
+本轮完成的是独立人物/事件的事实底稿和编号去重，不是词条HTML或历史正文。GOAL和G1—G10仍OPEN。
+
+## ONGOING / GOAL仍进行｜2026-11-16 UTC｜锡卡人物与事件词条独立补深（不并入主线）
+
+本轮按“每个人物/每项事件可独立阅读”补档，没有改连续年表、连续中文阅读正文或HTML。完成Vincentius Bata da Costa（V.B. da Costa / Pak Sentis）、Don Josephus Thomas Ximenes da Silva、Paulus Sentis/Centis da Silva、Paulus Samador da Cunha四个人物词条；另建/补写1920—1923年王位/承认/加冕、1954苏加诺Ende访问及Thomas死亡、1954—1960继承与行政转制、1959—1960县长选举、1966-03-15 B.061/III/1966信件递交五个事件词条，并独立补充Sikka社会等级制度的学术描述。人物间同名“Sentis”没有合并：V.B. da Costa与Thomas之弟Paulus Sentis/Centis da Silva分开记录；“Sentis da Costa”对应V.B.的身份链接仍是推定。
+
+直接检查Konstituante.Net成员档案及RA14手写CV扫描、项目方法页；重新读Lewis 2006文章、Lewis 2009 ANU Press章节、Steenbrink 2008章节、ANRI 1922年K-74 item265/6目录、ANRI苏加诺访问照片目录、Sikka县政府官方网页；另看2023 SuaraSikka回忆、2010 Hekopung二手转述、2019 Ekorantt与2024 GoIndonesia地方历史。新增正式来源S958–S969、主张C1697–C1736、检索Q416–Q417、覆盖CV434–CV440。GoIndonesia材料复用既有S953，不重复注册。S284补入1954年照片条目1171—1179及“未具名Flores首长/博物馆所有者”限制；S456补入Prior论文pp.134—136及信件传递/停令的独立核查限制；修正S948来源依赖误指S943为S947。
+
+**保持开放的事实争议：** Thomas王位起点分别记1920、1922、1923（治权、档案声明/官方期间、加冕日期需区别）；退休日期1952或1953；死亡日期基本指向1954-05-18，但Lewis所给出生、死亡日期与其“59岁”相差约两个月；Lewis记Da Cunha于1959开始任职，地方官方叙述将投票/就职置于1960；县长票数官方页为9比5，地方博客引述Hekopung为9比8并称17人到会；任命、计票及族群动机均无原始议会记录。Thomas家族继承和社会等级论述主要是Lewis利用地方手稿、家谱及田野来源的研究链，不能用2008转述同一2003地方史的博客假装独立交叉印证。
+
+下一步优先索取ANRI RA14原始CV和议员出席册、K-74 265/6实体文件和公报、NIT/弗洛勒斯理事会与1958地方行政任命/薪册、Kondi/Boer/Pareira手稿和da Gomes/Mandalangi 2003地方史原书；再找1959议会点名/签到/选票/会议纪要、1960任命和就职书、Thomas教区/民事死亡及墓葬/旅馆记录、1954访问节目单/ANRI底片、B.061原件及V.B.差旅和内政部收件/后续军令。
+
+四CSV完成编号和引用检查后提交并推送研究分支。G1—G10继续OPEN，G9人物/事件索引仍长期补充；GOAL保持ACTIVE，不以本轮词条“写完”作为史料调查结束。
+
+## ONGOING / GOAL仍进行｜2026-11-16 UTC｜Paulus Samador da Cunha制宪会议履历原件链补充
+
+继续独立人物词条工作，没有更新主线年表和HTML。新发现Konstituante.Net第336号成员P.S. da Cunha档案页及所链接的ANRI RA14手写CV两页扫描；原表转录补出了Todabelu中等修院、Middelbare Bestuurschool Makassar，以及Nagekeo、Ngada、弗洛勒斯DPR/DPD和Ass. Wedana的履历顺序，并把制宪会议成员任期写为1956-11-15至1959-07-05。该履历与平台元方法页S960同一原件链，不计为两份独立证据。PDF两页均能打开，本轮只成功检查第二页图像；第一页截图超时，条目中按“数据库转录、原图待核”注明。新来源S970–S972、主张C1732–C1736、检索Q418、覆盖CV440。Sikka县政府网页的“1956–159”现在可与该履历转录对读，但仍待手写原件与正式会员名册核扫；2018地方媒体称出生村为Desa Sikka，CV只列Kabupaten Sikka，乡村级出生地仍是一条未核的地方报道。
+
+后续优先打开CV第一页高分辨率原图/实体RA14，核对“Ass. Wedana”任用词义、岗位与任期；查Todabelu及Makassar学籍、Nagekeo/Ngada payroll/personnel file、DPR/DPD任职和制宪会议出席册，以及出生/死亡登记。此前Thomas王位、退休、家族继承和Da Cunha地方选举票数冲突维持开放，不因这项新CV而顺势裁定。G1—G10与GOAL保持OPEN/ACTIVE。
+
+
+## ONGOING / GOAL仍进行｜2026-11-16 UTC｜托马斯与保禄·森蒂斯独立人物/事件资料补深
+
+继续用户指定的独立词条调查，条目独立于主线叙事。本轮打开1923年荷兰殖民年度报告原扫描、Taniputera 2017年《Ensiklopedi Kerajaan-Kerajaan Nusantara》锡卡条目、2016年文化遗产研究、2024年Sikka Bapelitbang/Undana地方政府报告、2018年Bosowa大学论文和2019年Ekorantt地方史述。新来源S973–S977、主张C1737–C1748、检索Q419、覆盖CV441–CV444。核到的高价值分歧包括Thomas 1921代理任命、1922声明、1923不同加冕日和Bapelitbang所记1925-11-14就任日期；1953与1954两种赴Ende/死亡叙述；“兄弟Paulus Sentis/Centis”与“姐妹Ratu Centis”称谓冲突；1958地方首长的D.P.C.、Paulus Sentis Simenes、Paulus Centis Ximenes姓名变体。
+
+1923殖民年度报告仅证明殖民行政文本怎样登记Thomas的职务和 *korte verklaring*，不是所指原件。2017百科的1953版本脚注引2003年Da Gomes/Mandalangi地方史p.27；2008博客也以同一书为来源却写1954年，不能计作独立印证。2016文化研究和2024地方政府报告的历史简介缺原始史料引注；2018本科论文的历史段无参考来源。原书、行政任命、仪式、登记和死亡/墓葬文件都未取得，全部冲突继续开放。
+
+资料底稿补充了独立Thomas、Sentis/Centis及1958交接事件条目，没有修改chronology、连续阅读正文或HTML，也没有替作者作政治判断。下一轮先追2003年地方史pp.6/27/43、ANRI K-74原件和1921/1923原始行政文书、1953/54行程与死亡登记、Sentis/Centis的教区/民事姓名及1958任命文件。GOAL和G1—G10仍OPEN。
+
+## ONGOING / GOAL仍进行｜2026-11-16 UTC｜比马、松巴哇、多姆普人物与事件独立词条补深
+
+本轮继续做独立百科式人物/事件底稿，不改连续历史年表、历史阅读正文或HTML。新增四个人物条目：苏丹穆罕默德·萨拉胡丁、苏丹穆罕默德·卡哈鲁丁三世、穆罕默德·塔朱尔·阿里芬·西拉朱丁、阿卜杜勒·马吉德·登·马图图（达都·兰加）；新增1945年比马《宣言》、1946年比马—多姆普治理提案和马利诺协商文件、1947年多姆普首长任命、1947年NIT议会议长交接、1950年三地要求并入共和国的多版本声明、1950—1958年地方制度转变等独立事件条目。每条自带身份、制度词义、事件背景及证据边界，不要求读者依赖主线。
+
+**本轮新证据：** ANRI 2021年《档案中的松巴哇县》第51页刊出1945年11月22日比马《宣言》认证副本；第50—51页刊出两份签署栏不同的1950年4月11日声明，第50页另刊4月13日第2226/PS号转呈函；第56页图注记三位苏丹于5月12日会见苏加诺。ANRI《比马王国档案清册》item 33确认1945宣言副本线索；item 36—38、116、119将1946治理提案及马利诺相关文件列为可调卷线索。ANRI RIS内阁清册item 168将4月13日、20日要求并入共和国的决议列档，底层文件未读。1950年材料不只一个日期或签名版本，尚不能合并成唯一文本。
+
+Dompu 2004年文化部研究书内含1947年东帝汶驻地官信件影印；转录区分1939年候任苏丹安排与1947年政府首长任命。2024年BPK官方法律页面提供1958年第69号法律文本，列松巴哇和多姆普为二级地区。1953年《Republik Indonesia: Propinsi Sulawesi》第155页照片题注称卡哈鲁丁于1947年5月27日宣誓任NIT新议长，而第132页叙述同日议长交接及32名反对派议员离场；议会原件缺失，程序先后开放。
+
+**冲突维持开放：** 萨拉胡丁出生日期1888年2月/1888年7月/1889年7月，继位与荷兰确认年份1915/1917，去世日期1951年7月11/12日；卡哈鲁丁三世任期末年1958/1959及NIT议会同日程序；多姆普塔朱尔出生记录未见、死亡年份1963/1964，苏丹名号/自治首长法律权限层次；1950年两份声明的签署人、日期与内阁档案13/20 April的关联。家族/王室传承资料可提供调查路径，但不作为原始登记的替代品。
+
+正式登记新增S991–S1009、C1768–C1816、Q421、CV450–CV458。S902已是萨拉胡丁2025年国家英雄授予的正式来源ID，本轮未重复建号。下一步取件：①ANRI K-74第33、36—38、41、43、48—49、54、68、71、74、116、119号；②RIS总统内阁item 168原卷；③多姆普1947驻地官原函与1939/1947决定、1958内政部任命；④NIT议会任命/誓词/逐字记录；⑤《1934年以后多姆普苏丹国史》2007年印本与达都·兰加2025年人物书；⑥松巴哇RVD NTT no.332及萨拉胡丁死亡/婚姻登记。资料边界仍开放，GOAL保持ACTIVE。
+
+## ONGOING / GOAL仍进行｜2026-11-16 UTC｜苏加诺1950年访问松巴哇—比马日期链
+
+继续补独立事件词条。ANRI《档案中的松巴哇县》印刷第74—82页及总统档案指南第516—529条均编录1950年10月30日苏加诺在松巴哇及周边努沙登加拉地点的照片；题注含抵达机场、卡哈鲁丁迎接、民众欢迎、接待和讲话，关联Kempen NTT照片号582、596、610、615等。图册与指南复用同一ANRI照片系列，不作为两份独立目击证词。指南又把松巴哇、马塔兰、瓦英阿普、古邦、恩德和毛梅雷等相距甚远的地点都列在10月30日之下，须查原底片时间、地区日志和总统行程，现阶段不据目录重建飞行顺序。
+
+比马访问日期分成两条后出材料链：Sulastri 2019年论文称11月3日；Unhas 2023年论文公开前置页图表目录称11月3日抵达比马港、11月4日在王宫，但全文请求返回401。比马市KIM Asi Mbojo 2022文章把讲话写作11月30日，网页没有同期出处，图片链接404。Museum Samparaja Bima提供、Wikimedia用户上传的图片页标题为11月30日，印尼语说明却为11月3日。尚不能判断是同一次访问的误记、11月两次访问，还是图片标题/说明错置。萨拉胡丁讲话只见后出摘录，没有查到原稿或速记。新增来源S1010–S1013、主张C1817–C1823、检索Q422、覆盖CV459；S284和S992已补充页码与照片组定位。
+
+下一步优先取件：①ANRI Kempen NTT原底片582/596/610/615及对照片题的原始收件登记；②总统府1950年10—11月行程/航班/访客簿；③Bima当地同期报纸和王宫接待簿；④Museum Samparaja照片原件、捐赠来源与原标签；⑤Unhas 2023论文完整开放文本及其图像来源。日期问题保持OPEN；此处属于人物/事件独立档案，不并入主线年表或HTML。
+
 
 ## ONGOING / GOAL仍进行｜2026-11-15 21:00 PST｜G1 VSTP原档定位与G4/G5 Medan证言分母核查
 
@@ -2825,6 +2905,44 @@ G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q
 
 **G1—G10均OPEN；治理：** G1殖民铁路档案、G2群众组织基层、G3跨机关时序、G4/G5省县命令及社会后果、G6拘押/流亡、G7当代劳工、G8外国干预、G9人地组织索引、G10正式CSV去重/严格时间线/连续中文HTML均未闭合。此次两条研究链获得全文与精确原件定位，但未完成四份正式CSV全量语义去重，不擅自占用S/C/Q/CV编号。下次直接执行：①查《Locomotief》1923-05-08原刊；②查Semarang Resident 1923-05-31殖民部卷V 24 August 1924-24；③核Komnas HAM 2012 Medan Gandhi章节页与人名；④追Astaman/ Sum arno Hasibuan证词原录；⑤轮换Aceh或Flores原始军事文书。长期GOAL未完成。
 
+## ONGOING / GOAL仍进行｜2026-11-16 UTC｜比马KNI、1945年升旗及人物独立词条补档
+
+在本地分支合并远端main 747afe3799f0374bce8823b78a8ea4c3629253fe 后，以正式四CSV核对末号S1013、C1823、Q422、CV459；不触碰未跟踪的索引审计文件。直接下载并全文检索官方仓储1980年《Sejarah Revolusi Kemerdekaan (1945–1949) Daerah Nusa Tenggara Barat》、1984年《Sejarah Pendidikan Daerah Nusa Tenggara Barat》及2015年《Sejarah Berita Proklamasi Kemerdekaan Indonesia》；下载1953年政府出版《Propinsi Sunda Ketjil》完整扫描，视觉核对印刷页137。补充重核2015书第384—385页注释及1980书第38、96页来源表。Hamzah 2016相关页面来自先前研究阅读；本轮shell重新取件HTTP 403。1977/78 Wacana书仅能检索书目引文，OPAC本次HTTP 503，书未读。
+
+**正式新增**：来源S1014–S1019；原子主张C1824–C1851；检索Q423；覆盖CV460；独立词条增补写入 standalone-person-event-dossiers.md。覆盖人物：伊沙克/伊沙卡·阿卜杜拉、H.M.塔耶卜·阿卜杜拉、H.伊德里斯·M.贾法尔及苏丹穆罕默德·萨拉胡丁；事件：比马KNI筹备与正式成立、10月31日升旗与11月1日各区执行、11月27日政府委员会、KNI拘押/API改组和后续逮捕/死亡记载。
+
+**保留的来源差异**：1953年政府书记9月17日筹备邀请和10月31日升旗；1980年官方地区史分列9月24日滕特筹备组、11月18日正式KNI比马，并把10月31日升旗会场写成王宫院内、估计两千人及次日各Jeneli执行。1953原句地点标点含混。两种记载不强行归并成一处仪式。1953书把KNI人员拘捕归于TKR及日本煽动、记伊沙克和阿明获释后建API；1980书另记1946年1月10日日本拘捕API负责人。拘押时序、伊沙克/伊沙卡身份和死因未解决。2015综述引用1953和1977/78地区史，非第三个独立来源；1980旗仪脚注引Thayeb未刊手稿，手稿未取得。1984书的Thayeb和Idris年龄比前书各大1岁，与不同访谈年份相容，不能算作确切出生日期。
+
+**材料与范围限制**：已读的是后出地方史、访谈衍生叙述和后期综述，不是1945年命令、会议记录、拘押簿、死籍、学校公证书或手稿原件。新材料只进入独立人物/事件词条及正式来源、主张、检索、覆盖台账；没有改写 chronology.md、连续阅读正文、HTML、actor-dossiers.md 或作者立场。政治分析和作者判断留待作者审阅后处理。
+
+**下一次直接取件**：①找到Thayeb两份未刊手稿和1979年访谈记录；②取1945年9月KNI邀请、正式会议名册、10月31日苏丹命令、照片原底片/题签及各Jeneli回报；③追TKR、日本方面及NICA对伊沙克、阿明、Thayeb的入出押与死亡登记；④取得1941年Muhammadiyah公证书和比马教师/会员档案；⑤查读Wacana 1977/78第182页、Kempen 1953第112页源料、M. Hilir Ismail 2004第177页和Hamzah 2016原PDF。长期GOAL保持ACTIVE/OPEN；本轮不是停止点。
+
+
+## ONGOING / GOAL仍进行｜2026-11-16 UTC｜G9 比马KNID拘押与1949年松巴哇议会独立词条
+
+本轮继续只补人物/事件独立档案；没有改动chronology、可读历史正文或HTML，也未触碰作者立场。更新正式ID前核对CSV末号：S1019、C1851、Q423、CV460；已在同一共享工作区的分支连续写入。
+
+**新增可读材料：** 取得并阅读Mia Rahmawati 2023年UNHAS论文公开的“Bab 1–2”33页及附录/书目40页。完整4MB论文仍返回HTTP 401，仅作为未读部分；附录第135–140页重现ANRI-AKB第59、60号文书，逐页检查影印件。直接原件尚未向ANRI调阅。另重开Susi Sulastri 2019论文第43–49页、Wacana等1980年地区史第58页，与1953年《小巽他群岛省》、既有争议记录对照。
+
+**新事实链与局限：** 5 Sep/17 Sep/24 Sep/18 Nov KNID日期和阶段并列；12月9日Cenggu拘押说法来自Rahmawati转引未取得的M. Saleh Bakry家族手稿；1953年记Raba未定日拘押，1980年记1946-01-10日方逮捕API干部，仍不能判断是多次事件还是来源分歧。KNID改组方面，Rahmawati称12月12日，Sulastri称15日；两者回引同一本Tajib 1995地方史，不能算独立佐证。
+
+ANRI-AKB No.60影印件记松巴哇岛议会首次会议在Bima于1949-02-26举行，标题为“第一届会议”，参会20人，17席民选/4席委任，哈桑经四轮选举为主席、曼查经两轮为副主席；该记录称当日就职。1980年志记2月18日就职，冲突待原始选举/任命/宣誓文件。No.60在17:30休会并安排次日9:00续会；论文书目列No.21为2月27日9:30—14:30，可能是续会档但未核原件。No.59影印件是Muhammad Hasan署名、Bima 1949-11-17的政治发言；发言称90%议员由选举产生，与同一记录17/21约81%不合。
+
+正式新增来源S1020–S1024，主张C1852–C1877，检索Q424，另加覆盖CV461；S994、S1011、S1014访问状态及CV460范围更新。未加入可读正文/HTML。
+
+**当前接力：** ①调取ANRI-AKB Nos.21/59/60原件及11 Dec 1948选举法规；②取得M. Saleh Bakry 1984手稿和Tajib 1995 pp.331–357；③找1945 KNI/KNID成立、拘押/释放、改组与API会议原始记录；④找选举认证、委任书、议会宣誓/续会记录及Muhammad Hasan NIT成员/投票资料；⑤以签名、人员册和家庭/就业文件核验Ishak/Ishaka、M. Tajeb/Tayib/Thajib/Thayeb、Idris Djafar、Hasan和Thomasowa的身份。长期GOAL仍OPEN。
+
+## ONGOING / GOAL仍进行｜2026-11-16 UTC｜G10 比马妇女组织与西蒂·玛丽亚姆独立词条
+
+本轮按“独立词条不受主线干扰”继续，只更新人物/事件dossier、台账、覆盖与检索日志；没有改动主线chronology、连续阅读HTML或作者政治判断。
+
+新增阅读与核查：1958年印尼信息部与Kongres Wanita Indonesia编印的《Buku Peringatan 30 Tahun Kesatuan Pergerakan Wanita Indonesia》，读前言、Perwari全国合并叙述与1952年组织名册；重开Sri Yanuarti 2012章节pp.136–138、Sulastri 2019 pp.48–49、Saidin Hamzah 2016论文p.52、Nur Fitriani 2023人物研究pp.94–106、LIPI 2020书p.50、Lombok Journal口述式人物文章；查ANRI比马档案目录S991第45、50、58–60、76项。后四类目录项仅为取件路径，尚未取得档案内容。另复查EFEO《Bo’ Sangaji Kai》出版目录、官方MK译者简介、Detik直接采访、Samparaja博物馆资料与Sila 2018田野文章。
+
+独立词条的关键发现：Rukun Wanita日期/发起者分别见1944年（Hamzah 2016论文）、1947年/9月11日（Yanuarti与Lombok Journal）、1949年/9月11日（Sulastri、Hamzah文章与2021年书）、1984年（LIPI 2020书页）。这些说法存在源头依赖、文本复写和可能的不同组织阶段；没有章程、创立会议或社团分支记录，不能做出和解结论。1952年妇女大会名册分别列Ikatan Wanita Bima、Persatuan Wanita Dompu与Persatuan Wanita Sumbawa；其对Rukun Wanita Bima身份的作用尚未判明。
+
+Siti Maryam独立履历补入出生/排行争议、学习与公务员/议会履历差异、档案保存与《Bo’ Sangaji Kai》共同编者记录。多篇后出作品明确引用Taufan 2010《Demi Masa》，该书本身本轮仍未取得。Siti Hawa Takalondondong的议会替代叙述尚只有一条后出章节，ANRI已发现可调卷宗编号但并未读取；不得称其为已确认议员。1949年会议记录无女性姓名不能排除更晚任命。
+
+新增来源S1025–S1036、主张C1878–C1897、检索Q425、覆盖CV462–CV463；更新S991、S994、S995、S1018来源说明。后续先取Taufan 2010与ANRI-AKB Nos.45/50/58–60/76，再找Kowani 1952会籍凭证、地方妇女社团和Perwari分支记录、个人出生/学校/任命档。GOAL继续OPEN。
 
 ## ONGOING / GOAL仍进行｜2026-11-16 15:00 CST｜2012检方退卷原函编号与2015宪法诉讼证据层级
 
