@@ -1,4 +1,12 @@
 
+## ONGOING / GOAL仍进行｜2026-11-16｜G1铁路工运原始传单目录与G4 Aceh军方档案研究
+
+**G1｜1923年VSTP三宝垄罢工：** 直接打开Dewi Yuliati (2010), TAWARIKH 1(2), pp.179–200的期刊出版页及完整参考文献目录 https://journals.mindamas.com/index.php/tawarikh/article/view/376 。参考文献明确列出荷兰国家档案馆原收藏编号**Inventory 144—VSTP Semarang 1923**，其中1923-04-23 VSTP《Sanget Penting》通告、1923-05-10罢工中央领导机构《Djangan Toendoek Kepala!! Awas, Awas!! Madjoe Teroes!! Djangan Moendoer!!》传单、VSTP《Makloemat》；以及1923-06-08三宝垄驻扎官致总督函所附VSTP中央理事会公报（Vb. 24 August 1924）。还明确列出《Sinar Hindia》1923-05-05、05-08、05-12期。**访问等级：期刊官方出版页及参考文献目录已打开；本次没有点击论文PDF，也没有取得上述1923年原始传单/报纸/档案影像。** 这些原始文书比只沿后出论文概括罢工更有价值：可比较工会4月预告、5月10日号召、5月后期对罢工失败的解释。不可把传单标题直接当作已经执行的组织命令。此前John Ingleson引殖民官员档案，需避免将引用同一档案的研究当独立佐证。
+
+**G4/G5/G9｜Aceh 1965—1966：** 直接打开Jess Melvin 2018《The Army and the Indonesian Genocide: Mechanics of Mass Murder》可检索书籍PDF全文 https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf ，目录确认其第3—7章分别按10月1—6日命令、Djuarsa 1—11日协调、10月7—13日公开杀戮、10月14日至12月23日镇压及Aceh公务员清洗组织；书中图0.1/0.2分别为军方死亡地点图与Kodam-I/Aceh事件年表影印。作者在导论记依据Banda Aceh前情报机关约3000页军方材料及70余次访谈。**访问等级：学术书籍全文PDF已打开，原始军事档案由作者收集和转录/影印，尚未独立取得完整原卷；图示/作者归纳不能自动证明全省每县死者统计。** 下一步逐页核书中1965年10月具体军事文书的签发机关、日期、收件人与附件，并寻求档案原卷、地方死亡/拘押登记，建立Aceh与北苏门答腊对照而非混用数字。
+
+**G1—G10横向状态：** G1 VSTP原传单与报刊、G2 SOBSI/BTI/Gerwani基层、G3跨机关时间、G4/G5 Aceh及其他省县、G6监禁与流亡、G7工会延续、G8外国政府行动、G9人物/组织/地点索引、G10正式台账去重/时间线/中文HTML均OPEN。本次未核全量CSV去重，未擅自新增S/C/Q/CV或改写连续正文。精确续接：①检索荷兰Nationaal Archief inventory 144及1923-04-23/05-10原件；②检索《Sinar Hindia》1923-05-05/08/12影像；③对Melvin第3—4章所引Aceh军令逐条建立文书链；④轮换SOBSI/BTI/Gerwani基层与Moncongloe原始拘押名册。GOAL未完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-15 18:53 PST｜G4/G6南苏拉威西军政命令与G2工会国际网络
 
 **G4/G6/G9｜南苏拉威西 Makassar—Pangkep—Pare-Pare—Bone—Jeneponto—Bantaeng—Gowa（1965—1978）**：直接阅读印尼国家人权委员会Komnas HAM 2012《Ringkasan Eksekutif Hasil Penyelidikan Tim Ad Hoc Peristiwa 1965-1966》原机构调查报告全文（TAPOL公开镜像 https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ，印刷页141—145，网页文本行6122—6294）。报告基于事后证人证言记1965-10-05起Kodim 1408/Makassar等在Makassar及多个县拘捕；明确引述**1965-10-18** Pangdam XIV、Pepelrada Brigjen Solihin发布的**KEP.024/10/1965/PDD/1965**，要求暂时解除PKI及其群众组织成员职务。报告称截至1966-03南苏拉威西约9,765人被拘捕/关押；该数为调查报告转述的地区累计口径，非逐人登记复核。报告还记录1970—1977年多处拘押点转往Gowa Moncongloe营、强制劳动以及1977-12-20 **SPRIN/802/TPD/XII/1977**将部分人由全面拘禁转为居家拘禁。**证据等级：已直接核读原机构调查报告全文；其引述的1965军令、1977释放命令原件、1966逐人拘押台账仍未取得；证人对具体军官行为的指称须保留为证言而非已司法认定事实。** 新增精确军令编号有助于把1965军事指挥与行政清洗连起来；不能把后来的证人证言当作1965同时期军事原档。
