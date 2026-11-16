@@ -1,3 +1,11 @@
+
+## ONGOING / GOAL仍进行｜2026-11-15 18:53 PST｜G4/G6南苏拉威西军政命令与G2工会国际网络
+
+**G4/G6/G9｜南苏拉威西 Makassar—Pangkep—Pare-Pare—Bone—Jeneponto—Bantaeng—Gowa（1965—1978）**：直接阅读印尼国家人权委员会Komnas HAM 2012《Ringkasan Eksekutif Hasil Penyelidikan Tim Ad Hoc Peristiwa 1965-1966》原机构调查报告全文（TAPOL公开镜像 https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ，印刷页141—145，网页文本行6122—6294）。报告基于事后证人证言记1965-10-05起Kodim 1408/Makassar等在Makassar及多个县拘捕；明确引述**1965-10-18** Pangdam XIV、Pepelrada Brigjen Solihin发布的**KEP.024/10/1965/PDD/1965**，要求暂时解除PKI及其群众组织成员职务。报告称截至1966-03南苏拉威西约9,765人被拘捕/关押；该数为调查报告转述的地区累计口径，非逐人登记复核。报告还记录1970—1977年多处拘押点转往Gowa Moncongloe营、强制劳动以及1977-12-20 **SPRIN/802/TPD/XII/1977**将部分人由全面拘禁转为居家拘禁。**证据等级：已直接核读原机构调查报告全文；其引述的1965军令、1977释放命令原件、1966逐人拘押台账仍未取得；证人对具体军官行为的指称须保留为证言而非已司法认定事实。** 新增精确军令编号有助于把1965军事指挥与行政清洗连起来；不能把后来的证人证言当作1965同时期军事原档。
+
+**G2/G8｜1947—1965 SOBSI—世界工联WFTU**：直接打开Vannessa Hearman 2024 Cambridge International Review of Social History文章 https://www.cambridge.org/core/journals/international-review-of-social-history/article/from-travel-to-imprisonment-remembering-cold-war-trade-unionism-and-the-world-federation-of-trade-unions-wftu-in-adam-soepardjans-prison-notebooks/5D2B6B5169AABB43099B9D1267190C86 的可读网页正文。文中据既有研究和注释记1953年Njono任WFTU执委、1957年任副主席，Ruslan Widjajasastra与Munir任WFTU总理事会成员，Tjugito 1953年任国际农业林业工会主席。**证据等级：学术文章可读正文，引用的WFTU会议决议、SOBSI代表任命书及Adam Soepardjan狱中笔记原件未核；这些人事关系为待交叉核验的学术叙述，不能推断基层工会财务或指挥关系。** 另Vannessa Hearman 2016论文 https://researchers.cdu.edu.au/en/publications/indonesian-trade-unionists-the-world-federation-of-trade-unions-a/ 此次仅核出版摘要，不能当全文。
+
+**登记与冲突：** 正式source-register已含Komnas HAM同一PDF的S140与S859，故不再重复注册；claim-ledger已有Moncongloe劳役/释放C629/C636/C637/C1527，不能重复为新发现。正式CSV尚未对1965-10-18军令条目完成完整去重，暂不分配新S/C/Q/CV。后续直接查Kodam XIV档案KEP.024/10/1965/PDD/1965原影、1966-03拘押统计分县表、1977 SPRIN原件、WFTU 1953/1957大会名册和SOBSI会议文件。G1—G10继续OPEN；G1 1923报刊、G3跨机关、G4/G5 Aceh/爪哇/巴厘/Flores/Kalimantan、G7工会改革、G8外国介入、G9索引、G10正式台账/中文正文仍未闭合。
 ## ONGOING / GOAL仍进行｜2026-11-16 10:xx CST｜FNPBI登记编号新证据与2001年劳工争议
 
 本次已读取AGENTS、goal-continuity、stage-access、continuity-status、chronology和正式四CSV的表头/起始记录。检索印尼语/英语，直接打开2001年工会登记办法官方地方政府保存PDF、2001-05-14 Hukumonline同期报道、SMERU研究机构2003年工作论文PDF入口和机构页面。GOAL与G1—G10持续OPEN。本次没有完成正式四CSV全量去重，未新增S/C/Q/CV正式编号，也未改chronology和中文成熟正文；下列是待并库原件，不得冒称正式注册。
