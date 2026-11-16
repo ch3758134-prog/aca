@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-16 UTC｜G4南苏拉威西调查样本口径、G8英国宣传原件追索
+
+**范围及访问等级：** 已重新读取main的AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10完整性审计、continuity及本总账；确认正式CSV与chronology位于 `research/indonesia-1965/archive/records/`，而非研究目录根路径。直接读取source-register、search-log、coverage-matrix开头及chronology开头；claim-ledger的GitHub读取仍为空（SHA 055d6397），因此本次**未做全量去重、未抢S/C/Q/CV编号**。当前研究不代表各G项闭合。
+
+**G4/G5/G6｜南苏拉威西Moncong Loe、Maumere、Medan、Bali及Buru（调查方法与地区样本）：** 直接打开2012-07-24《Republika》同期报道 https://news.republika.co.id/berita/m7nkvm/ditemukan-bukti-pelanggaran-ham-berat-di-peristiwa-1965 ，文中转述Komnas HAM调查于2008年6月至2012-04-30开展、**349名被调查证人**，并列Maumere、Kerobokan监狱、南苏门答腊、南苏拉威西Moncong Loe、Buru、Maluku、Medan Jalan Gandhi拘押点为重点现场。此前2012-01-18同期报道 https://news.okezone.com/read/2012/01/18/339/558890/komnas-ham-dituntut-selesaikan-kasus-ham-1965 称调查时已找到**340名证人**、67个疑似地点；2016-03-15《Koran Tempo》扫描剪报 https://perpustakaan.komnasham.go.id/dokng/files/kliping/Koran_Tempo%2C_15_Maret_20160002.pdf 的可检索文字称**346名证人/受害者**。这些数字存在报道时间与分类口径差异，**不可当成三批独立证人相加，更不可写为死亡人数**。本次读到的是新闻报道全文和报纸扫描的检索文字，不是Komnas HAM原始访谈/统计清单。2014年Komnas HAM执行摘要的馆藏目录 https://perpustakaan.komnasham.go.id/pustakawan/index.php/resource/detail/12127 可检索，但直接打开返回403；馆藏目录不是报告正文。下一步：逐页核Komnas HAM 2012原报告的Moncong Loe章节、证人统计表和地点记录，索取南苏拉威西地方军政拘押命令、监狱入出登记、幸存者访谈；分别查Maumere与Medan，避免以一个调查样本代表全国。
+
+**G8/G7｜1965英国秘密宣传与2021追责（独立年代/组织链）：** 直接打开2021-10-17《Observer》调查报道 https://www.theguardian.com/world/2021/oct/17/revealed-how-uk-spies-incited-mass-of-indonesias-communists ，记者Paul Lashmar、Nicholas Gilby、James Oliver援引英国外交部解密文件，记IRD在新加坡制作伪装为印尼流亡人士的通讯，面向印尼政治/军方人士，并涉及对印尼广播宣传；报道提到政治战协调人Norman Reddaway致驻雅加达大使函以及他事后对效果的评价。**已读新闻调查全文，未取得所引Foreign Office原卷、通讯原件、分发名单或收件反馈**；记者关于宣传“发挥关键作用”的因果解释不能自动升级为独立证实的地方杀戮因果链。直接打开Amnesty International Indonesia 2021-10-19声明 https://www.amnesty.id/kabar-terbaru/siaran-pers/ada-fakta-baru-buka-kembali-investigasi-tragedi-1965/10/2021/ ，核其要求重新调查、说明Komnas HAM 2012调查与刑事追责之间的断裂，并给出1965幸存者救济诉求。这是**机构2021年公开立场原文**，不是1965年英国行动原始档案；二者对英国行动的描述源于同一新闻揭露，不能算独立双证。下一步追英国TNA FCO/IRD档案号、通讯发行与收件链、Reddaway原函、英国驻印尼与新加坡通信，分离提议、制作、发送、阅读、地方影响；另核2023后实际补偿及刑事程序进展。
+
+**G1连续链保留：** 前一续查对1923-05-09 NIS/SJS/SCS“列车停运”与“员工参与率”已正确分离；待查《De Locomotief》1923-05-09/12、van Gigch 1923-05-31原报告及公司车次/人员册，不能用同作者两篇Yuliati研究制造独立双证。**G2**群众组织基层、**G3**跨机关逐时、**G5**性别族群、**G6**拘押流亡、**G7**当代组织、**G9**人地组织索引、**G10**正式台账去重/严格时间线/连续中文HTML均继续OPEN。未凭本次新闻报道改写中文正文。
+
+**精确接力：** ①核2012 Komnas HAM报告Moncong Loe及证人计数；②查Moncong Loe地方军政原令和拘押名册；③索英国IRD伪装通讯及Reddaway原函的TNA馆藏号；④继续1923铁路公司原始运营与人员统计；⑤修复1.36MB claim-ledger全文读取并去重后将成熟证据并入正式CSV、chronology及中文正文。长期GOAL未完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-16 06:55 UTC｜G1 1923警察密报原件线索与G4/G5 Aceh Langsa Baperki强制解体
 
 **已重新读取** G1—G10完整性审计、AGENTS、stage-access、goal-continuity、正式source/claim/search/coverage四CSV、chronology、长期缺口总账与滚动续接。正式末号仍S945/C1646/Q411/CV429；本次新线索仍需与现有全文语义去重，不擅自抢编号。
