@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-16 13:47 CST｜2012年检方审查命令与退卷时间节点
+
+本轮读取main的AGENTS、goal-continuity、stage-access、continuity、chronology及四份正式CSV表头和前8行；四表未全量语义去重，故不虚构S/C/Q/CV登记，也不修改chronology或中文正文。印尼语检索并实际打开同期原文，新增一个可核验的**具体行政文书编号线索**：Rakyat Merdeka 2012-11-09报道 https://rmol.id/read/2012/11/09/84638/penyelesaian-kasus-ham-berat-ditargetkan-rampung-tahun-ini 称总检察长2012-08-01发布审查1965—66年调查报告的命令 **056/A/JA/08/2012**，组成12人审查组，由JAM Pidsus D. Andhi Nirwanto主持。仅已读同期记者报道，尚未取得该命令正本，不得将12人审查组说成正式刑事侦查组。该报道还记Effendi Saleh自述1969年被Koramil逮捕、因PKI指控被Unilever解雇并遭多年羁押；属个人同期转述，未得劳动/拘押原档。
+
+直接打开Hukumonline 2012-11-09 https://www.hukumonline.com/berita/a/kejagung-kembalikan-dua-penyelidikan-komnas-ham-lt509d2d009bef4 和ANTARA 2012-12-14 https://www.antaranews.com/berita/348605/kejagung-belum-dapat-usut-kasus-ham-1965 ：前者同期记录检方将1965—66与1982—85 Petrus两案调查卷退回；后者记Basrief Arief称Komnas HAM未满足形式/实质补正要求，Otto Nur Abdullah称未看到正式回复、部分条件仅技术性，尸检文件可能无法取得。与前轮ANTARA 2012-12-20 https://sumbar.antaranews.com/berita/12465/komnas-ham-tunggu-surat-resmi-jaksa-agung 交叉后，形成2012-07首次移交→08-01检方审查命令（待原件）→11月退卷→12月初据称重交→12-14分歧→12-20仍等书面回复的程序节点。**不能把公开报道中的各方陈述当作原始退卷函或确认已进入司法侦查。**
+
+**精确未完事项：**①全文去重四份正式CSV中056/A/JA/08/2012、Andhi Nirwanto、Effendi Saleh、2012-11-09 Hukumonline及两条ANTARA URL，按正式最大ID登记并更新chronology；②向印尼检察总署档案/信息公开系统追2012-08-01第056/A/JA/08/2012号命令正本及12人组名单、职权；③取得2012-11退卷函、六页补正指示、12月初重交签收及2013正式复函，区分审查与侦查；④追Effendi Saleh的Unilever人事与1969 Koramil拘押记录，独立核证职业剥夺链；⑤转回1967西加里曼丹地方文告、1923 VSTP、SOBSI/BTI/Gerwani基层档案和Moncongloe营地名册。GOAL及G1—G10保持OPEN；提交SHA以本轮写入返回值及main回读为准，不可能在同一提交内容中自引用其SHA。
+
 ## ONGOING / GOAL仍进行｜2026-11-16 12:48 CST｜2012年Komnas HAM调查卷退回与补正程序链
 
 本轮已读取AGENTS、goal-continuity、stage-access、continuity、chronology及四份正式CSV的表头/首批记录；并针对上一轮2012-07-20调查卷移送继续印尼语/英语检索和打开原文。**新证据：**ANTARA 2012-12-20同期报道 https://sumbar.antaranews.com/berita/12465/komnas-ham-tunggu-surat-resmi-jaksa-agung 已直接打开全文。报道引述Komnas HAM调查负责人Nur Kholis称：检察机关此前以形式和实质条件不足退回调查卷，委员会声称已补正调查员宣誓、讯问笔录编号等要求并于2012年12月初再次送交；总检察长Basrief Arief在12月14日表示补正仍不充分；截至12月20日Nur Kholis表示尚未收到正式书面回复。这是**双方公开表述存在程序争议**的同期报道，不是原始退卷函、送达回执或法院裁判；不能写成检方已正式接受补正或案件进入起诉。与2012-07-20首次移送及7月23日公布调查结论是不同节点。
