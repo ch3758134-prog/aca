@@ -2546,3 +2546,14 @@ ANRI《比马王室档案目录》No.280是1948-05-05学校/学生/教师人数�
 **G1持续链：** 1923-05-01 Gewestelijke Recherche秘密报告、1923-05-09铁路公司运行表及《De Locomotief》原版仍未取得；不得将2010年学者二次引用重复算独立来源。**G2**群众组织原件；**G3**1965跨机关逐时；**G4**各省县级证据；**G5**妇女、族群、财产；**G6**长期拘押/流亡；**G7**1998—2026；**G8**外国介入；**G9**人物地名组织；**G10**正式去重/时间线/中文正文均OPEN。
 
 **精确续接：** ①回核Komnas HAM印尼文原版Medan段与BAP编号，分离证人；②追Gandhi/Suka Mulya/Tanjung Kaso 1966—78转押名册及军区签收；③取得ISSI Klaten 2000–01原访谈与KODIM审查表；④追1923-05-01殖民警察密报及《De Locomotief》1923-05-09原版；⑤修复claim-ledger完整读取、去重后把成熟事实写入正式CSV、chronology与连续中文正文。长期GOAL未完成。
+
+
+## ONGOING｜2026-11-16｜G4/G6 Moncong Loe释放命令与G2/G6 SOBSI国际工运笔记
+
+**审计与访问：** 已重新读取G1—G10完整性审计、AGENTS、stage-access、goal-continuity及滚动状态；核查正式source-register/search-log/coverage-matrix/chronology开头。claim-ledger分段读取仍返回空，故不新增正式S/C/Q/CV编号。既有Moncong Loe材料已登记，本条只补此前未明确核验的**释放令编号和具体分组**；同源TAPOL译本与Komnas HAM印尼文报告不可计作两份独立证据。
+
+**G4/G6｜南苏拉威西Moncong Loe释放制度：** 本次直接打开Komnas HAM 2012执行摘要的TAPOL非官方英译PDF全文 https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20TAPOL%20translation.pdf 。报告记载证人A自1970年9月拘押至1977-12-20，称同批释放466人；证人B自Majene监狱转押、1977-12-20依**SPRIN/802/TPD/XII/1977**由完全拘押转为居家拘押；证人C的Teperda Sulselra 1974-08-08释放证明标C3；证人D释放证明标B2，并提及南苏拉威西PKI干部Mukhlis。**这是调查报告转录证词和文书内容，不是已经独立核读释放令原件**。须核原令签署机关、签署日期、附件名册、466人范围以及释放后监督；不可将“释放”写成获得完整自由。报告同样记录调查349名证人/受害者，这是调查样本而非拘押或死亡总数。
+
+**G2/G6｜SOBSI—世界工联WFTU跨国干部与监禁记忆：** 直接打开Cambridge Core《From Travel to Imprisonment: Remembering Cold War Trade Unionism and the World Federation of Trade Unions (WFTU) in Adam Soepardjan's Prison Notebooks》可检索HTML全文 https://www.cambridge.org/core/journals/international-review-of-social-history/article/from-travel-to-imprisonment-remembering-cold-war-trade-unionism-and-the-world-federation-of-trade-unions-wftu-in-adam-soepardjans-prison-notebooks/5D2B6B5169AABB43099B9D1267190C86 。论文明确列Njono在1953年任WFTU执行委员会委员、1957年任副主席，Ruslan Widjajasastra和Munir为总理事会成员，Tjugito于1953年任国际农林工会主席；估计1950年代末SOBSI会员至少180万—240万，属学者转引Tedjasukmana/Hindley口径，不能视作会员册核算。**访问等级：后出学术论文网页正文已打开，Adam Soepardjan笔记手稿、WFTU会议记录及SOBSI分会会员册未取得**；须追笔记原件馆藏、1953/1957 WFTU会议名册与SOBSI产业分会原始统计，核不同人物的具体任期和代表资格，不能以国际职务代替基层组织运行。
+
+**跨G项续接：** G1 1923 VSTP殖民警察与工会原件；G3 1965跨机关逐时；G4 Aceh、Medan、Java、Bali、Flores、Kalimantan、Sulawesi原始军令与名册；G5性别族群；G6释放后监督/流亡；G7当代工会政党；G8外国实际交付；G9人物地名组织索引；G10正式台账去重、按事件日期统一chronology、连续中文HTML均OPEN。下一步先核SPRIN/802/TPD/XII/1977与Teperda Sulselra 1974-08-08原件，再追SOBSI/WFTU档案；轮换West Java/Cirebon与Aceh地方执行文书。GOAL ACTIVE，未完成。
