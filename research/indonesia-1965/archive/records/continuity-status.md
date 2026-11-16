@@ -1,5 +1,16 @@
 
 
+## ONGOING / GOAL仍进行｜2026-11-16 19:57 CST｜VSTP组织制度原文研究与巴厘报刊出版主体交叉核对
+
+本次已重新读取 AGENTS、goal-continuity、stage-access、continuity，以及四正式CSV和chronology的开头/结构；**未完成四表全文去重**，因此不分配S/C/Q/CV号、不宣称正式并库，也未修改chronology及中文连续正文。研究范围为公开可访问的印尼语、英语资料，直接打开下列全文，区分原件、后出研究与馆藏目录。
+
+**G1｜VSTP组织史可追溯的原始引用。** 直接打开 John Ingleson, “Bound Hand and Foot: Railway Workers and the 1923 Strike in Java”, Cornell eCommons期刊全文PDF：https://ecommons.cornell.edu/bitstream/1813/53721/1/INDO_31_0_1107015193_53_87.pdf ，印刷第53—57页。研究明确区分1908年VSTP由63名欧洲铁路雇员成立、1913年10月中央执行部决定积极招收印尼工人、1914年2月大会保留七席中三席给印尼人的制度变化；引用1914-07-30《De Volharding》与Sneevliet 1919《Tien Jaren VSTP》。文中引1913年末1242人（欧洲673、印尼569）、1915年1月2292人（印尼1439）、1920年6494人（欧洲236），以及1923年5月约13000人（引用1926年《Si Tetap》）。**这些是学者据旧报刊与工会文献重建的数据，尚未独立打开1914年大会记录及旧报原版；数字不得冒称已核工会名册。** 第56—57页同时讨论会费实际缴纳率和地方分会相对自主性，有助于解释组织运作而非只写领袖思想。特别注意 Ingleson 与Yuliati对1923罢工可能共同使用殖民档案，不能当独立双证。印尼语铁路遗产协会转载的2021年文章 https://irps.or.id/2021/11/mei-1923-aksi-mogok-buruh-kereta-api-yang-bikin-sewot-pemerintah/ 直接打开检索文本，称1923-05-08 Semaoen被捕，引用《Darmo Kondo》1923-05-09；仍须查原报。
+
+**G4/G9｜巴厘报纸馆藏与出版机构关系。** 直接打开印尼教育部语言机构《Bali Post》百科词条 https://ensiklopedia.kemendikdasmen.go.id/sastra/artikel/Bali_Post ，称《Suara Indonesia》1948-08-16创刊，Ketut Nadha参与创办；1965-05-02出版主体转为Gesturi基金会（称公证第104号），1966年因出版物组织挂靠要求改名《Suluh Indonesia》，随后1966年6月至1971年5月用《Suluh Marhaen》巴厘版名称；并列1973、1974年出版机构变更公证号。美国国会图书馆目录 https://www.loc.gov/item/sn96021765/ （本次检索结果可见，**直接打开返回403**）则列《Suara Indonesia》1965-12-11至1966-01-04也用《Suluh Indonesia. Edisi Bali》，1966-01-05至05-31续用，及缩微胶片馆藏。两者对**更名精确时序**的概括存在差异，可能涉及报头、登记主体、正式出版名的不同层次，必须查1965-12-10/11及1966-01-04/05原报、出版许可、公证卷；不能从百科词条推断1965年12月报纸的政治立场或具体新闻内容。教育部词条是后出机构性二手叙述，公证第104号原件未读。
+
+**精准续接（按价值排序）：**①全文比对正式四CSV中的Ingleson PDF、VSTP 1908/1913/1914组织章程及1965巴厘报纸名称/公证号，确定是否已有同源S/C；②打开Ingleson全文1923-05-08至05-31章节，逐条列原始报刊与公司/警察/总督档号，追1923-05-01《Rapport-Secret》和1914-07-30《De Volharding》原件；③取LoC缩微胶片1965-12-10/11、1966-01-04/05原版并查报头、出版者、地方报道；④查1965-05-02公证104号、1966报刊挂靠命令及1965年12月地方军政命令，避免把出版改名推作屠杀因果；⑤回到Aceh Langsa 1965-10-18 Baperki原声明/148人附件与Kodam-I年报、SOBSI/BTI/Gerwani基层文献及1998年后工会组织的长期纵横调查。GOAL/G1—G10继续OPEN；提交前主线必须再次核对，提交SHA以GitHub写入返回值和远程HEAD核验为准，不能在同一提交自引用。
+
+
 ## ONGOING / GOAL仍进行｜2026-11-16 19:00 CST｜A-408第4—6页原扫描补读与巴厘同期报纸馆藏
 
 本轮直接打开美国驻雅加达使馆1965-12-21 A-408原始扫描第4—6页（PDF页索引3—5）：https://nsarchive.gwu.edu/sites/default/files/documents/4107034/Document-24-Airgram-A-408-Joint-Weeka-No-48-from.pdf 。第4页记录苏加诺经济措施（Tjipanas会议、货币1000旧盾兑换1新盾的宣布）及军方与经济政策关系，属于美使馆同期观察，不证明经济政策执行成效；第5页记12月17日妇女组织会议、美国与印尼关系气氛的使馆判断，并开始记述苏哈托12月13日宣布BPI转隶KOTI下属国家情报指挥机关；第6页延续BPI转隶，记12月7日Umar Wirahadikusumah出任KOSTRAD指挥官及军方、空军人员安排。**尤其BPI旧机构与新情报指挥体系的关系须与印尼正式任命令核对，不可将使馆报道当作完整法律效力证明。** 第7页为馆方附页，不是使馆正文。以上是扫描逐页阅读而非OCR转录；人名拼写及任命细节仍需另一原件交叉核实。
