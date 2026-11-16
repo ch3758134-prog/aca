@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-16 12:48 CST｜2012年Komnas HAM调查卷退回与补正程序链
+
+本轮已读取AGENTS、goal-continuity、stage-access、continuity、chronology及四份正式CSV的表头/首批记录；并针对上一轮2012-07-20调查卷移送继续印尼语/英语检索和打开原文。**新证据：**ANTARA 2012-12-20同期报道 https://sumbar.antaranews.com/berita/12465/komnas-ham-tunggu-surat-resmi-jaksa-agung 已直接打开全文。报道引述Komnas HAM调查负责人Nur Kholis称：检察机关此前以形式和实质条件不足退回调查卷，委员会声称已补正调查员宣誓、讯问笔录编号等要求并于2012年12月初再次送交；总检察长Basrief Arief在12月14日表示补正仍不充分；截至12月20日Nur Kholis表示尚未收到正式书面回复。这是**双方公开表述存在程序争议**的同期报道，不是原始退卷函、送达回执或法院裁判；不能写成检方已正式接受补正或案件进入起诉。与2012-07-20首次移送及7月23日公布调查结论是不同节点。
+
+**原件交叉核验：**已直接打开Komnas HAM《Ringkasan Eksekutif Tim Ad Hoc Peristiwa 1965-1966》印尼文公开PDF https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ，开篇记调查组任务期2008-06-01至2012-04-30、询问349名证人/受害者，并说明地域、预算、记忆及创伤局限。另直接打开委员会自刊《Wacana HAM》2012年第2期 https://www.komnasham.go.id/files/20120621-wacana-ham-edisi-2-tahun-2012-%24CP6RA3.pdf ，确认机构自述已完成调查报告。注意349名受询人、新闻所称约340份BAP、以及媒体报道的其他证人数字**分母不同，不应合并**。另重开Taufik Ahmad 2010年Moncongloe原文 https://www.insideindonesia.org/editions/edition-998/survival-through-slavery ，与调查摘要的Moncongloe章节对照；作者的访谈/历史叙述不能代替营地原始名册。
+
+**正式登记限制：**本轮四份CSV仅读取表头/首批记录，未完成全量去重，故不新增S/C/Q/CV编号，不改chronology或中文连续正文；避免与已登记2012调查摘要重复。本次更新仅保存可续接的来源定位与证据界限，尚未完成用户要求的完整正式并库。
+
+**下轮精准行动：**①对正式四CSV全文搜索ANTARA 2012-12-20 URL、Basrief Arief、Nur Kholis、退卷与补正，查重复后登记；②查2012年7—12月检察机关原始退卷函、补正指示、12月再次送达回执及2013年复函；③核Komnas HAM公开摘要Moncongloe章节的拘押人数、营地名称、军方机构与Taufik Ahmad 2010报道的差异；④找Moncongloe 1969—79营地及Nanga-Nanga移送名册，不能把42名转移当独立总人数；⑤轮换1923 VSTP原报、SOBSI/BTI/Gerwani基层组织与1967西加里曼丹地方军政文书。GOAL及G1—G10永久OPEN。本次写入前已回读main上的continuity blob SHA cb278883676fd2ccf27523fada32f63f58b613ed；最终提交SHA以GitHub写入返回值和后续main HEAD为准，不能自引用写进同一提交。
+
 ## ONGOING / GOAL仍进行｜2026-11-16 11:50 CST｜Moncongloe劳役与Medan失踪者追查
 
 本次重读2026-11-09 G1—G10完整性审计、研究授权和规则、正式CSV及滚动状态，跨G4/G6南苏拉威西和G4/G5北苏门答腊开展核查。2010 Taufik Ahmad《Survival through slavery》开放全文已读，细节包括1969 Moncongloe营、营内846人及其他被分派军人家务、道路/农地强迫劳动、被拘者Anwar Abbas的抵抗叙述、1978—79释放和Nanga-Nanga 42人转移；原营地登记/道路地籍/释放清单未得，不能把报道统计当原始行政名册。北苏门答腊IPT 1965最终报告本次直接打开超时，仅搜索索引可见Astaman Hasibuan关于Sumarno Hasibuan失踪及Medan拘押地点的证言；不可将索引当已读全文，也不可将失踪推断为死亡。细节、来源等级及G1—G10覆盖更新于global-gap-tracker.md。正式CSV和chronology本次未更新，未进行全表语义去重或分配新编号；中文连续HTML未达到可增写的地方过程证据成熟度。
