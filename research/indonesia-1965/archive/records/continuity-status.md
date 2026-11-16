@@ -2736,3 +2736,12 @@ G1—G10全部OPEN。正式CSV全表去重尚未完成，本次不分配新S/C/Q
 
 ## ONGOING / GOAL仍进行｜2026-11-15 15:57 PST｜Flores死亡日期冲突与1999 FNPBI纲领核查
 重读G1—G10审计、项目授权/长期GOAL、正式台账及滚动总账。直接打开Prior 2011原论文PDF页125—127，发现Boumans回忆所记Jan Djong 1966-02-09死亡与其他后出人物记录1966-03-01不一致；2月20日Wair-ita行动和2月27日Sikka DPRD-GR会议仅为论文引述七年后参与者回忆，未得会议/监狱原件。1999-05-26 Max Lane FNPBI报道索引显示5月14—16日Bandung大会代表团体及具体纲领，但出版页再次HTTP520，不能标为全文已读。详见global-gap-tracker末尾。本次无新正式S/C/Q/CV，不改chronology/HTML；所有G项OPEN。下一动作：①查Jan Djong死亡登记及家属/墓碑；②查1966-02-27 Sikka DPRD-GR会议记录及参与者手稿；③找B.061/III/1966原影和Manek信；④找Green Left Weekly 362期纸刊与FNPBI大会原决议；⑤切换1967西加里曼丹Witono军报/广播原件。研究继续，单次边界不代表完成。
+
+
+## ONGOING / GOAL仍进行｜2026-11-15 17:50 PST｜G7 工会登记法律机制与G4/G5西加里曼丹逐村死亡数口径
+
+**G7 1999—2000 FNPBI/劳动部登记链（Jakarta、Jabotabek、West Java）：** 本次直接打开印尼劳动部JDIH官方《Undang-undang Nomor 21 Tahun 2000 tentang Serikat Pekerja/Serikat Buruh》法律目录及条款官方摘要 https://jdih.kemnaker.go.id/peraturan/detail/32/undang-undang-nomor-21-tahun-2000 ，确认2000-08-04签署公布、LN 2000 No.131/TLN 3989；官方摘要明确第18条书面登记通知、第25条登记后集体协议及争议代理权限。另打开全文数字转录 https://law.crpg.info/peraturan/uu/21/2000 ，核第18条附件（创办人名单、章程、管理层）、第20条21工作日登记及14工作日通知延期理由、第22条登记簿应公开、第25条已获登记号码者的权利。**证据级别：官方JDIH元数据/摘要已直接打开；逐条文字取自第三方全文转录，尚未逐页核官方法令PDF，不能冒充官方PDF全文。** 这使FNPBI干部Romawaty Sinaga 2000-10-25自述的KOBAR/Jabotabek拒绝登记、西爪哇SBI抗争有可检验的行政过程：追登记通知日期、创办人名单、机关登记簿、拒绝/延期书及证号；法条本身不能证明FNPBI曾申请或政府确曾拒绝。**法律时序限制：** 2000-08-04法律不得倒用于解释此前1999年5月成立大会的法律地位，也不能据2026网站现行状态推断2000年的具体实施细则。
+
+**G4/G5/G9 不同地区链（1967 West Kalimantan，Landak/Senakin/Darit/Sebadu，Kodam XII、Dayak与华裔居民）：** 再次直接打开KITLV/OAPEN 2012 Taufiq Tanasaldy学术全书 https://library.oapen.org/bitstream/handle/20.500.12657/34518/1/421239.pdf ，第138—139页前后记述10月中旬已有零星杀戮，10月28日后加剧，11月上中旬Senakin、Darit、Sebadu三处袭击合计210死，并引1967年省府迁徙报告《Pengungsian orang2 Tjina...》及Davidson 2002:156；11月17日Witono公告被书中描述为要求停止示威。**证据级别：学术原书全文已打开，210是学者依所引地方报告和研究的数字，不是本次已取得的1967死亡名册；不能分配成三村各自死者数，更不能把军方11月17日停止命令当作已经执行成功。** 与早前HRW 1997转述军方全省约300死的口径不可简单相加或互相替代。**缺件/行动：** 1967省府原调查卷p.82、三村逐人名单与医院/迁徙登记、1967-11-17《Maklumat》原影及《Pembangunan》11月21日原刊、军方行动日志；须逐村复核死亡日期、身份和迁移去向。
+
+**G1—G10仍全部OPEN：** G1 VSTP 1923同期报刊；G2 SOBSI/BTI/Gerwani基层；G3 1965跨机关；G4/G5地方死亡与社会后果；G6监禁流亡；G7劳工组织；G8外国行动；G9地方人物索引；G10正式四CSV去重、chronology与连续中文HTML。此次新法律条款及学术数字先列候选核验，尚未对559k/1MB正式来源主张表完成语义去重，不擅自分配S/C/Q/CV；下一续接先核官方法律PDF与FNPBI登记簿，切换Flores B.061/III/1966原函及西加里曼丹地方原卷。单次执行边界，不代表GOAL完成。
