@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-16 11:50 CST｜Moncongloe劳役与Medan失踪者追查
+
+本次重读2026-11-09 G1—G10完整性审计、研究授权和规则、正式CSV及滚动状态，跨G4/G6南苏拉威西和G4/G5北苏门答腊开展核查。2010 Taufik Ahmad《Survival through slavery》开放全文已读，细节包括1969 Moncongloe营、营内846人及其他被分派军人家务、道路/农地强迫劳动、被拘者Anwar Abbas的抵抗叙述、1978—79释放和Nanga-Nanga 42人转移；原营地登记/道路地籍/释放清单未得，不能把报道统计当原始行政名册。北苏门答腊IPT 1965最终报告本次直接打开超时，仅搜索索引可见Astaman Hasibuan关于Sumarno Hasibuan失踪及Medan拘押地点的证言；不可将索引当已读全文，也不可将失踪推断为死亡。细节、来源等级及G1—G10覆盖更新于global-gap-tracker.md。正式CSV和chronology本次未更新，未进行全表语义去重或分配新编号；中文连续HTML未达到可增写的地方过程证据成熟度。
+
+下一续接直接执行：①查Moncongloe 1969—79入出营及Nanga-Nanga 42人移送原册；②查Daya—Moncongloe道路工程和军方分地登记；③重试IPT 1965完整报告并找Astaman Hasibuan原证词、Mahmilub传唤及Medan Kodam监押记录；④交叉核Komnas HAM 2012 Medan Gandhi和Makassar章节是否复用相同证言；⑤转换G1 1923 VSTP同期报刊与G2 SOBSI基层资料，持续G8外部行动和G10正文整理。已写总账提交0105342100c00b911f908b814c48683f38fc271c。GOAL/G1—G10全部OPEN，单次执行边界不是历史完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-16 11:46 CST｜正式台账全表去重核查与2012司法调查节点复核
 
 **本次核对范围：**读取main的AGENTS、goal-continuity、stage-access、continuity、chronology及四份正式CSV全文（source-register约940行、claim-ledger约1645行、search-log约413行、coverage-matrix约430行）。检索印尼语/英语，直接打开2012-07-24 Hukumonline同期报道 https://www.hukumonline.com/berita/a/komnas-ham-nyatakan-ada-pelanggaran-ham-berat-lt500e667c540ba/ ，文章第124—139行记Komnas HAM调查小组负责人Nur Kholis称2012-07-20将1965—66调查卷移交总检察院、7月23日公布结论，约340份讯问记录和数百证据材料，调查称10类危害人类罪中发现9类的证据。**这只是当时新闻对调查机关声明的同期记录，不能等同检察机关受理确认、起诉或法院判决**；须核Komnas HAM 2012原调查、Kejaksaan Agung收件登记和后续补卷往返。
