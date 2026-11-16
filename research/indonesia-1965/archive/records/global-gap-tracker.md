@@ -2287,6 +2287,17 @@ UNHAS论文附录公开重现ANRI-AKB No.59（Hasan 1949-11-17发言）与No.60�
 - **发现了1952年组织名称的同期近邻参照。** 印尼信息部1958年出版的妇女运动纪念册列出1952年妇女大会所属组织，包括Persatuan Wanita Sumbawa、Persatuan Wanita Dompu、Ikatan Wanita Bima；名单另有Rukun Wanita Bandung。它证明名册采用了哪些名称，不证明Bima RW与Ikatan Wanita Bima相同或不同。纪念册前言明确说明编印时间短、早先材料遗失，因此名单遗漏不能证明某组织没有参加。新增S1025、C1881–C1882。
 - **Rukun Wanita日期/发起者存在实质矛盾。** 1944-09-11（Saidin Hamzah 2016论文，称苏丹后妃及子女发起、后来成为PERWARI）；1947/09-11（Sri Yanuarti称Siti Maryam推动，Lombok Journal不具名作者给出精确日）；1949-09-11（Sulastri/Hamzah文章/2021书称后妃Siti Aisyah发起并列出职员）；LIPI 2020书页印作1984。重复的1949文本不算多重独立证据，后两种早年回忆也可能共用Taufan 2010。尚无社团创立记录、章程或分支转移文件。新增S1026–S1027、S1030、S1032、S1036，C1878–C1887。
 - **组织名称需拆分。** 后出资料把1938 Aisyah/Aisyiyah Bima与Rukun Wanita分开叙述。全国PERWARI在1958年纪念册的历史中被描述为1945年Perwani与Wani合并而成；这不排除比马RW后来加入或改组，但本轮没找到本地分支往来或转移文件。1952名册中Bima使用“Ikatan Wanita Bima”，不能据相近功能合并为同一团体。
-- **议会女性席位仍是单一后出叙述。** Yanuarti称Siti Maryam拒绝进入松巴哇岛DPRD并建议Siti Hawa Takalondondong代替；没有日期、任命书或议会记录。ANRI目录S991第45、50、58、59、60、76项给出了下一步可调卷宗的编号；目录不是档案全文。1949 No.60影印名册没有列女性，但不能排除其后改任。C1866年龄25岁门槛与Maryam按常用生日在1947/1949为20/22岁的计算值得核法令适用范围，不足以单独否定该故事。
+- **议会女性席位仍是单一后出叙述。** Yanuarti称Siti Maryam拒绝进入松巴哇岛DPRD并建议Siti Hawa Takalondondong代替；没有日期、任命书或议会记录。ANRI目录S991第45、50、58、59、60、76项给出了下一步可调卷宗的编号；目录不是档案全文。1949 No.60影印名册没有列女性，但不能排除其后改任。C1866年龄25岁门槛与Maryam按常用生日在1947/1949为20/22岁的计算值得核法令适用范围，不足以单独否定该故事。 Sumiyati 2020（S1044）另报Pulau Sumbawa 21席与Bima王国本地议会20席两种构成，但未列姓名、精确成立日期或直接案卷号；少数群体委任席不等于女性保障席，更不能据此认定Siti Hawa当选/受委任。新增C1912–C1913、Q428、CV466。 另以官方《第69号法律》（S1045）确认1958年分别设立Bima、Dompu、Sumbawa Daerah Tingkat II，并规定旧区域DPRD解散及Swapraja代表机构临时过渡；它不证明1949同名议会机构的连续性。新增C1914–C1917。
 - **Siti Maryam人物条目加深。** 增补出生、排行矛盾、学校与学位、地方行政/议会职务、组织活动、档案保护与《Bo’ Sangaji Kai》编者身份；把Taufan 2010标记为关键但未取得的二手传记依赖源。Sila 2018的田野研究独立说明Maryam如何参与手稿收藏与历史解释；不替其口述的早期苏丹史作真伪裁决。新增S1028–S1035，C1888–C1897。
 - **本轮范围与剩余工作。** 新增检索Q425、覆盖CV462–CV463。人物与事件材料只追加在`standalone-person-event-dossiers.md`及后台账册，没有改动主线chronology、连续阅读正文或HTML。下一批优先取Taufan 2010和ANRI-AKB第45/50/58–60/76项，搜妇女大会原始会籍凭证及本地社团文件，查Maryam与Siti Hawa等人的任命/人员档案；长期GOAL保持OPEN。
+- **2014–2019年独立人物/事件补深。** Kahaba同期报道（S1038–S1042）记录玛丽亚姆2014年作为传统委员会负责人的FKN IX发布会、等待经费的准备阶段及9月6–9日活动；6月和7月报道的款项数字来源/阶段不同，原始APBD、拨款和决算未得。同期新闻另记2017年3月18日死讯和次日葬礼；关于终年89岁10个月的报道与日期计算不合。印尼内阁秘书处S1043公布其2019年追授Bintang Mahaputera Naraya，原Keppres及个人授勋说明未取。新增C1902–C1911、Q427、CV465。继续查政府预算/会务记录、总统令、民事登记及Siti Hawa人员档案；这批材料只充实人物及独立事件词条，不进入主线chronology/HTML。
+
+## 本轮补档｜2026-11-16｜比马女子学校与Sitti Beda Seri Yulianshe人物身份
+
+1921年殖民年报（S1049）称苏丹三名女儿就读比马未具名私立女校；报告不提供校名、举办者或开办年。后出材料分别提出1916年王室出资的“Meisyes School Puteri Bima”（Mukhlis 2020转引Tajib 1995）、1921年荷兰设立的Meisjesschool（1991地方史）、1922 Kops School/Kopschool（1984、2016等）、1922“学校烹饪/Kok School”（Mukhlis 2020）及未具名女子职业学校（2021比马教材）。资料没有证明它们是同一学校。注意殖民年报描述的是报告时已有学生在读，不能据此推出1921建校。
+
+1984地方教育史第10页首次给到较完整人员名“Sitti Beda Seri Yulianshe”，只称女子Kops School教师。Fitria 2010论文摘要、Sulastri 2019和Alauddin University Press 2021书称缩写名SBS Yulianche负责Kopschool；2016论文称SBS Yulianche来自爪哇、在HIS任教，同时另称来自望加锡的“Siti”管理Kopschool。身份可能一致，但证据不足，原始来源和个人档案未发现。精确全名及异写搜索未找到出生/亲属/教育/任职档案。新建C1918–C1931、Q429、CV467。
+
+ANRI《比马王室档案目录》No.280是1948-05-05学校/学生/教师人数统计一张；No.279记1943-09-21教育部门年报。ANRI 2015教育史料集重印的No.S90则标记1943-05-21，范围为Sekolah Rakyat I，报43所、105名教师。不得把这份人民学校统计当作Kopschool存续证据；No.279与S90档号对应尚待核对。
+
+**原件追索：**取Tajib《Sejarah Bima Dana Mbojo》1995第288–293页，查M. Hilir Ismail 2002/2004/2008版及2019访谈录，向ANRI索取Nos.279–280及S90原件，搜索1916–1922殖民教育部门登记和学校教师薪册，获取Fitria 2010论文全文；分别追Sitti Beda Seri和“来自望加锡的Siti”个人证据。GOAL保持OPEN；未改主线/HTML。
