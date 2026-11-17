@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-17 20:53 CST｜ANRI BTI专门目录再核：土地分成、被捕农民、Bandar Betsy案件卷宗
+
+本次已读取main的AGENTS、goal-continuity、stage-access、continuity-status及正式source-register/search-log/coverage-matrix的当前版本；claim-ledger.csv即使请求首12行仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713）；chronology.md猜测路径404，需定位真实路径。main提交前HEAD为5356c179270acb70f202ca1f01d50778024d0930。正式source-register已将2025年ANRI专门目录登记为**S133**，本轮发现的同一PDF不重复登记为新来源；仍未实现正式四表全量语义去重。本次未擅改正式S/C/Q/CV、chronology或中文连续正文。
+
+实际打开ANRI 2025年《Inventaris Arsip Organisasi Kemasyarakatan Barisan Tani Indonesia 1947–1965》210页官方目录全文 https://anri.go.id/download/ra-112.-inventaris-arsip-barisan-tani-indonesia-19471965-1770710472 ，核读PDF页105—112（印刷98—105页），取得更精准的**原件取件定位**：No.300西爪哇佃农分成法执行往来函件（1955-06-11至1964-10-29，一卷，留底/抄本/副本），No.302有关1960年第2号分成法的函件（1960-07-18至1962-10-25，2页抄送），No.303南楠榜BTI地方组织1960-10-28向南苏门答腊BTI报告执行情况（2页），No.305 Gedongtataan地方组织1961-11-13要求成立分成法执行委员会（1页），No.306西亚齐BTI地方组织1962-01-27致县长及Seunagan Jeram行政官要求设分成合同审议委员会（2页）；No.219（PDF页85）1964-11-04至12日因土地争端与分成法被拘押或判刑农民人数表及Pemalang、Klaten报告（8页原件）；No.220 Boyolali Ketaon村农民遭枪击事件函件（1964-11-24至1965-01-09，一卷）；No.326（PDF页112）1962-12至1965-08-09 Bandar Betsy案卷，包含Pematang Siantar地方法院复审笔录、辩护组调查报告、BTI/SARBUPRI/学者团体声明及检方论告副本。No.326较先前KOTI 600/601目录可构成同一案件不同文件种类的互证线索，但档案原件未读，不能声称已经确认判决内容或个人结局。ANRI目录说明该批文件系1965年后从PKI及关联群众组织办公室查扣、后由KOTI/国家秘书机构转入ANRI；档案保存链条存在查扣与整理过程，必须考虑缺卷和选择性留存。以上只证明目录存在相应卷宗，不证明目录描述的事件细节已经由本轮独立核实。
+
+精准续查：①向ANRI按**BTI专门目录No.300、302**索原件并检查是否包含1960-08-07 Cirebon 5256/Pem 28/60及《Suara Tani》同期报道；②索**No.219、220**的名单、警方及县级记录，逐人追查被捕、审判、枪击与后续结果，区分报告与司法事实；③索**No.326**与KOTI 600/601，核对Bandar Betsy案法院复审、检方文书、辩护团与农民组织陈述，查原始日期及当事人身份；④索**No.303、305、306**并对照地方政府分成委员会记录，研究组织诉求与行政执行之间差异，尤其西亚齐1962年组织链；⑤定位chronology实际路径并通过Git blob/raw或本地克隆恢复1.36MB claim-ledger全文，正式四表去重后登记本轮新证据与成熟正文，同时轮换Gerwani/SOBSI、1965—68镇压及1970—2026社会运动。GOAL与G1—G10始终OPEN。本次提交SHA由GitHub写入返回及main回读确定，不在提交自身虚构SHA。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 19:54 CST｜ANRI KOTI原始档案目录：BTI、SOBSI与1965年组织清理的可请求卷宗
 
 本次回读main AGENTS、goal-continuity、stage-access、continuity-status、四份正式CSV首行；claim-ledger.csv的GitHub fetch_file仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），chronology.md所试路径404，故不能完成全量语义去重、正式S/C/Q/CV登记或安全修改chronology及成熟中文连续正文。本条为待并库的**档案目录发现**，不冒充原件全文。写入前main HEAD核实为 `49853b7fc9fa30fedd3f4074da53468059a7e944`。
