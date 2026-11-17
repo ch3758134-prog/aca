@@ -2680,3 +2680,16 @@ ANRI《比马王室档案目录》No.280是1948-05-05学校/学生/教师人数�
 **G4/G9｜东爪哇军区命令的另一独立研究链：** Grace Leksana 2020年同行评审论文《Collaboration in Mass Violence》在期刊公开检索正文 https://www.tandfonline.com/doi/full/10.1080/14623528.2020.1778612 记载Brawijaya军区博物馆藏1965—68四个Korem的行动报告、日报、无线电报；Malang Korem 083的拘押数从11月初2472至12月初6259、12月底4431（均为研究者依据军方记录整理的时点拘押量，不是累计死亡）。论文指出1965-10-21东爪哇军区Pancasila Operation指令与地方群众组织动员有关。**本次期刊正文直接打开403，只读到检索系统呈现的文章正文摘录，未读取全文，更未核Brawijaya馆藏原件。** 应以Malang Brawijaya Museum Inventaris 316-a的Prinmin 57/1965、Korem 083逐日表、Kediri Kodim 0809名单为具体调卷入口；不得把研究者对指令因果效果的解释视为原令已核。
 
 **G1—G10仍OPEN，下一精准续接：** ①国家安全档案馆第9件1290原始影像逐页核PERBUM及Shell/Stanvac/PURSI姓名与人数；②第15件183电报扫描校OCR，索铁路5站日运行表及职工名册；③取Brawijaya Museum Inventaris 316-a、Korem083拘押日报与1965-10-21命令原件；④与1977 Amnesty工会政治犯名单逐人核职业、逮捕、转押；⑤用Git blob/clone解决claim-ledger大文件读取后正式去重并库、chronology按事件日期归并、连续中文正文。其余G1早期组织、G3跨机关、G5妇女族群、G6监禁流亡、G7当代、G8英澳中苏、G9索引、G10归档均保持未结，不以本条代替全面覆盖。长期GOAL未完成。
+
+
+## ONGOING / GOAL仍进行｜2026-11-17｜重要地理纠错：1290电报实际调查南苏门答腊Palembang；东爪哇军事动员原文线索
+
+**必读审计与规则：** 已重新读取2026-11-09 completeness-audit、AGENTS、stage-access、goal-continuity、continuity-status及正式台账入口。G1—G10均继续OPEN。以下为候选核验，未取得正式claim-ledger完整内容前不冒用S/C/Q/CV号。
+
+**G2/G4/G8｜纠正上一条严重地区误标。** 这次实际打开美国国家安全档案馆1965-11-01使馆1290号电报的**原件公开OCR全文** https://nsarchive.gwu.edu/media/15705/ocr ，并与馆方第9件介绍 https://nsarchive.gwu.edu/document/15705-document-9-telegram-1290-american-embassy 对照。馆方介绍把事件概括为**North Sumatra**，但电报第一段明确写美国劳工参赞于**10月28—29日访问Palembang, South Sumatra（南苏门答腊巨港）**；后文具体指向**Sungai Gerong、Pladju/Plaju炼厂、Prabumulih油田及PUSRI化肥厂**。因此上一条总账把600人、PERBUM、Shell/Stanvac、PUSRI拘捕直接定位为**Medan/北苏门答腊**是错误的，现明确撤销该地理归属；馆方概述与电报本体冲突时，优先按电报具体地名记录，北苏门答腊另行调查，不得将这批数值转移至Medan。
+
+电报原文记载（均为使馆转述，未取得企业或军警名册）：据报约**600名**被标为共产主义者者被关押；Stanvac约**30名印尼员工**被军方带走，含PERBUM领导层；Shell Pladju及Prabumulih约**24名PERBUM成员**被捕；PUSRI约1300名印尼劳工中**15名SOBSI干部**被捕。30、24、15与600的统计边界/重叠关系未清楚，不能相加当作总拘捕数。电报还转述Ibnu Sutowo考虑将Stanvac约3500员工中至少1000名所谓冗员调到厂外劳动项目；**这是考虑中的方案，非已执行调动**。Shell管理层否认Ibnu所称炼厂火灾系破坏活动，须并列呈现相互矛盾的当时判断。来源级别：同时代外交电报公开OCR全文已读；原始影像仍需校字；拘捕和公司情况大多为受访企业经理及军方转述，不是独立核验。待查：Palembang厂级工会名册、1965年10—11月人事档、当地军方拘押登记、炼厂事故记录、所有权转移档案。
+
+**G4/G5/G9｜东爪哇另一链。** 直接打开Grace Leksana《Collaboration in Mass Violence》（2020）期刊网页可检索的**正文段落** https://www.tandfonline.com/doi/abs/10.1080/14623528.2020.1778612 。研究引用Brawijaya军区档案，称1965-10-21 Basuki Rachmat设立Pancasila Operation；研究转引命令要求各营每六小时向泗水联合指挥所报告，并允许使用明确支持军队的地方民间力量。文章还提及10月23日Banyuwangi地方军政会议、11月16日Korem报告的田中遗体和11月30日解散组织须由Dandim接受并有Panca Tunggal见证的无线电报。**访问等级：学术文章网页正文片段已读，不是1965年军区命令原件；军区文件编号、全文及签发机关仍需调Brawijaya Museum原件核验**。特别区分命令的措辞、作者对暴力升级的解释、具体地方执行之间的证据层次。
+
+**横向覆盖：** G1早期工运原报；G2产业工会基层；G3跨机关指令；G4南苏门答腊与东爪哇已深化但Aceh/北苏门答腊/中西爪哇/Bali/Flores/Kalimantan/Sulawesi仍不均；G5受害者职业与族群；G6拘押转押；G7改革后工会；G8国际干预；G9地名与人名消歧；G10正式台账/时间线/中文正文未闭合。**精确续接：** ①校1290电报影像、核巨港厂级拘捕簿；②检索真正北苏门答腊Medan 1965年军警原始记录，勿套用巨港数值；③调1965-10-21 Pancasila Operation命令及六小时报告原件；④查Korem 083、Banyuwangi的11月原始报告；⑤解决claim-ledger大文件读取及去重，按正式最大编号并库、更新chronology和成熟中文正文。GOAL仍进行。
