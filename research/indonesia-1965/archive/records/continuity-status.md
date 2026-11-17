@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-17 11:51 CST｜1998年工会法律转折的原件与登记日期再核
+
+本次依授权读取main的AGENTS、goal-continuity、stage-access、continuity-status、chronology及正式source-register/search-log/coverage-matrix，claim-ledger.csv仍通过GitHub fetch_file返回空字符串（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），不能完成四表全量去重；不新建S/C/Q/CV编号，不改已登记事实的编号。研究范围轮换至1970—1998工会组织史，GOAL及G1—G10保持OPEN。
+
+印尼语/英语检索：`Indonesia SOBSI FBSI 1973 1985 SPSI labor unions history primary decree`、`Indonesia 1998 trade union freedom ratification ILO convention 87 presidential decree 83 1998`。实际打开印尼国家法律机构BPHN的总统决定第83/1998号PDF全文 https://bphn.go.id/data/documents/98kp083.pdf ，核对第一条批准ILO第87号公约、第二条英文文本解释优先、第三条1998-06-05国内生效及公约第2—4、15条；与ILO 1998-06-10公告 https://www.ilo.org/resource/news/indonesia-pledges-respect-trade-union-rights-ratifies-key-ilo-convention-no 和法律数据库 https://peraturan.bpk.go.id/Details/59198/keppres-no-83-tahun-1998 对照。ILO NORMLEX动态页面和结社自由案例页面直接打开发生重定向失败，搜索索引内容仅供定位。经正式source-register与chronology全文URL/关键词比对，**本次发现的总统决定全文、ILO公告及国内批准/国际登记/生效日差异均已在S477、S480、S482—S483及chronology登记，不可重复宣称新发现**。另搜索到ILO 1998年国际劳工大会讨论对1998-05-27 PER-05/MEN/1998取代PER-03/MEN/1993、SBSI登记的政府陈述；source-register已存S484，仍缺1998部长规章签署原件与SBSI具体登记凭证。公开资料中关于1973 FBSI、1985 SPSI的概括是后出论述，不等于组织大会、章程和基层名册原件。
+
+本次无新增可安全正式并库的独立原始事实，故不制造重复记录、chronology或拼贴式中文正文。精确未完事项：①取印尼劳工部JDIH的PER-05/MEN/1998与PER-03/MEN/1993签署文本及实施通知，区分法律许可和实际登记；②取SBSI 1998年首批登记回执、地方分会及工厂工会登记台账，与ILO 1998会议中政府陈述交叉核验；③取1973 FBSI成立大会、1985 SPSI章程修改及1987登记规则原件，追踪SOBSI被镇压后国家认可工会的组织替代而非假定人员继承；④以Git原始blob/本地分块方式恢复claim-ledger全文并对四表做完整ID/URL/事实语义去重；⑤交替返回1966北亚齐《Perkembangan》页1—5及304人移交名单、SOBSI/BTI/Gerwani基层组织、1998后工会/农民组织连续性。写入前main HEAD（compare main/main）`612e81c99b030ffda10868b1db0ec091b31ae97e`；本次提交自身SHA以GitHub写入返回值及随后main回读为准，不在提交正文虚构自引用。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 10:54 CST｜北亚齐原件追索的外部独立性检查
 
 本次读取main的AGENTS、goal-continuity、stage-access、continuity-status、chronology和四份正式CSV的起始行。claim-ledger.csv通过GitHub文件接口分页读取仍返回空字符串（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713）；因此未完成全量去重，不新增S/C/Q/CV正式编号，不把状态文件当作正式证据登记。GOAL继续OPEN。
