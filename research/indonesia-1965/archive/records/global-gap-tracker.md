@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-17 UTC｜G4/G5 Flores地方名册机制与G4/G6西加里曼丹军方行动链
+
+已重读G1—G10完整性审计、AGENTS、stage-access、goal-continuity、continuity-status、正式四CSV表头及chronology入口。claim-ledger.csv分段读取仍为空，blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713；没有完成全量去重，不占用正式S/C/Q/CV编号。G1—G10全部OPEN，缺口总账不能代替正式证据台账与中文连续正文。
+
+**G4/G5 Flores—Maumere（地方行政—军警—处决链，来源级别：Komnas HAM 2012年印尼语调查执行摘要全文已读；原始BAP未读）。** https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf 印刷第117—121页：调查摘要转述证人Yakobus Heret称Flores Timur kampung附近有约84名被捆绑者被卡车运到预挖坑边并杀害，36人据称来自监狱；证人声称遭胁迫亲手杀害10人、其兄杀害1人。另在Geliting警署段落，证人称Way Gete有28名男子、Liang有9人被捕，县政府提供的名单附有由Sikka县长Ps. Dakunya签署的转送函，KOMOP指挥官Sumarno参与押送安排。摘要脚注标BAP/35/BAP_TPPH 65/VIII/2008（印刷120页）；Wairita海滩证言标BAP 25/BAP_TPPH 65/VIII/2008（印刷117页）。这为从地方政府名单→KOMOP逮捕→警署拘押→死亡事件的核查提供了明确行政链，但原始名单、签字函、BAP、军事命令、墓地调查均未直接取得。约84人是该证言所述单一事件，不可与Geliting证人估算约500人及其他Maumere统计直接相加；报告在同段有约84/85的证词表述差异。行动：索Sikka县府1965—66名单与Ps. Dakunya转送函、BAP35/BAP25、KOMOP Sumarno职务和军令、Wairita及Geliting地点核实。阻碍：原始笔录及地方机关档案未公开可读。
+
+**G4/G6 West Kalimantan（跨时期另一地方缺口，来源级别：Davidson与Kammen 2002年学术论文可读全文，军方原件未读）。** https://www.academia.edu/103702836/Indonesias_Unknown_War_and_the_Lineages_of_Violence_in_West_Kalimantan 《Indonesia》73 (2002) pp.53ff.，作者分析1966—1976 PGRS/Paraku与军方冲突、1967年对乡村华裔居民的驱逐，以及1997/1999暴力的历史关系。文内脚注定位到Kodam XII/Tanjungpura准将A.J. Witono于1967-12-04编《Laporan Pang Dam XII/Tandjungpura Tentang Gerakan Suku Dayak Terhadap GTK di Kal-Bar (II)》，另引1967-09-21《Angkatan Bersenjata》与1968-01-12同报有关军方是否动员达雅克人的互相冲突叙述。学术文章是后出研究，军方报告与同期报纸原版尚未直接读取，不能把作者对军方动员和族群暴力的解释冒充原件已证。行动：取得Witono 1967-12-04原报告、两期《Angkatan Bersenjata》扫描、1967年10—11月Mempawah/Bengkayang逐村迁移与死亡登记，区别PGRS战斗人员、普通华裔居民、达雅克地方组织。阻碍：原军方档案/地方人口名册未获得。
+
+**G1—G10横向保持OPEN：** G1 1923 VSTP原刊与殖民警察密报；G2 SOBSI/BTI/Gerwani/Pemuda Rakyat/LEKRA基层；G3 1965跨机关时间；G4 Aceh、苏门答腊、爪哇、巴厘、Flores、西加里曼丹及Sulawesi逐县；G5妇女与族群；G6监禁流亡；G7改革后劳工政党；G8英美澳中苏；G9人物组织地点索引；G10去重、统一时序与连续中文正文。精确续接：①取得Sikka名单与BAP35/BAP25；②取Witono军方原报告及同期报纸；③核1977年AI工会政治犯报告原PDF；④取Aceh驱逐原令与1923 VSTP原报；⑤用Git clone或Git blob解码claim-ledger完成正式去重、chronology及中文历史正文。GOAL仍进行。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 UTC｜G6布鲁岛释放与G2工会政治犯来源入口（未完成）
 
 已重读2026-11-09 completeness-audit G1—G10、AGENTS、stage-access、goal-continuity、continuity-status及正式四CSV表头和chronology起始段。claim-ledger.csv 仍返回空正文（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），本次不占用S/C/Q/CV正式编号。G1—G10全部OPEN，地域与年代覆盖不得由本条替代。
