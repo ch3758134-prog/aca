@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-17 21:51 CST｜Gerwani跨组织协作的同期名册与1954年国际联系
+
+本次核读main AGENTS、goal-continuity、stage-access、续接状态及正式source-register/search-log/coverage-matrix；正式claim-ledger.csv请求首行仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713）。当前正式source-register最大编号S1210（存在并行写入风险）；1958年妇女运动纪念册已登记S1025，1954年9月Darmini致国际妇联刊物的信已登记S932，故本次不重复登记。chronology实际路径未定位，未完成四表全量去重，未改正式CSV、chronology或中文连续正文。提交前观察到main最新SHA dd2179be53075ec08c1d3d07cca6f74053db2776。
+
+**新核读的原始文献具体页**：打开1958年《Buku Peringatan 30 Tahun Kesatuan Pergerakan Wanita Indonesia》Wikisource已校对第385影印页（书内印刷第369页），https://id.wikisource.org/wiki/Halaman:Buku_peringatan_30_tahun_kesatuan_pergerakan_wanita_Indonesia.pdf/385 。书内列明1957年12月至1960年印度尼西亚妇女大会秘书处职位：Maria Ullfah Santoso为主席，Rohana Zainal Abidin Achmad（GPII Putri）副主席，Maria Muharam Wiranata Kusuma（Bhayangkari）第一书记，Tjitjih Sujud（Perwari）第二书记，**Mudikdio（Gerwani）第一司库**，Artinah Sjamsuddin（Muslimat）第二司库，Wuwungan（PWKI）助理。这是1958年近同期出版的跨组织机构职务名册，说明Gerwani代表参与妇女大会秘书处，并与穆斯林、警察眷属等组织代表同列；**不证明1957—1960整个任期每人持续实际履职，也不证明这些组织在所有政治议题一致**。应对照会议记录、会费/财政账簿、各组织任命文件。
+
+**新原文入口**：实际打开Gerwani数字文献馆藏目录 https://gerwani.logosid.app/teks ，可见1954年1月《Women of the Whole World》执委会增刊第34页Darmini署名发言的数字转录摘要：她报告Gerwis在1953年世界妇女大会前约37000会员、1954年第二届大会前55049会员与163个分支，称1952年铁路工人妻子联盟加入、1953年8月PERWIN加入，并报告在占碑油区争取同工同酬、社会保险等行动。**本次只打开数字馆藏索引所显示的长摘要，尚未打开该单篇全文或原刊影印，数字馆藏转载的组织自报人数也未独立核验**。需将1954年1月文献与已登记S932（1954年9月信件）严格区分。与同期1958年跨组织秘书处名册可构成不同年代组织合作路径的研究问题，但两份材料不能互证1954会员数。
+
+精准续查：①打开Gerwani馆藏1954年1月Darmini单篇全文，定位原刊影印及原文页，核55049与163分支的统计口径；②查1958年纪念册第369页对应原始Kongres Wanita Indonesia秘书处任命、会议及财政账册，追Mudikdio的具体职责；③查1952年铁路工人妻子联盟、1953年PERWIN加入Gerwis的双方文件，核成员与地方支部变化；④继续向ANRI索BTI No.326与KOTI 600/601 Bandar Betsy案件卷宗，核各方陈述；⑤解决claim-ledger Git blob读取与chronology路径，四表语义去重后正式并库，继续1965—68地方镇压和1970—2026组织史。GOAL与G1—G10保持OPEN。最新提交SHA以写入返回和远程main回读为准，不在提交内虚构自引用SHA。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 20:53 CST｜ANRI BTI专门目录再核：土地分成、被捕农民、Bandar Betsy案件卷宗
 
 本次已读取main的AGENTS、goal-continuity、stage-access、continuity-status及正式source-register/search-log/coverage-matrix的当前版本；claim-ledger.csv即使请求首12行仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713）；chronology.md猜测路径404，需定位真实路径。main提交前HEAD为5356c179270acb70f202ca1f01d50778024d0930。正式source-register已将2025年ANRI专门目录登记为**S133**，本轮发现的同一PDF不重复登记为新来源；仍未实现正式四表全量语义去重。本次未擅改正式S/C/Q/CV、chronology或中文连续正文。
