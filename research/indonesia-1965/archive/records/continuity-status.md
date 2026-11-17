@@ -1,3 +1,17 @@
+## ONGOING / GOAL仍进行｜2026-11-18 07:51 CST｜1954年Gerwis第二次大会72页纪念册：直接核读组织转型及劳动部长讲话
+
+**本次新进展（不同于此前仅见1954年干部发言转录）**：找到《Kenang-kenangan Kongres Gerwis ke-2, 25–31 Maret 1954》的72页OCR阅读入口 https://pustaka.taratsa.id/read/618/ocr/pdf/ ，对应馆藏 https://pustaka.taratsa.id/book/kenang-kenangan-kongres-gerwis-ke-2-25-31-maret-1954-unknown/ ，同时有原始PDF按钮；实际打开OCR全页文本，核读大会后DPP Gerwani前言及1954-03-15劳动部长Prof. Abidin致大会讲话，**尚未逐页核对原始PDF影印，OCR错误需标记**。纪念册前言明确1954-03-25至31第二次大会决定Gerwis改名Gerwani、修订组织路线以扩大群众基础；称201个分支中143个派代表、代表和观察员合计不少于350人，数字为大会主办方自述，不是独立会籍统计。该书同时收录大会决议、组织章程、中央领导名单、工会中央局SOBSI致辞，可建立1954年真实组织结构和劳工联系，但**目录出现不等于全部章节逐页核读**。
+
+**劳动与法律交叉线索**：劳动部长Prof. Abidin署1954-03-15的讲话（同册OCR约第307—400行）描述烟草、茶、橡胶、纺织、蜡染、卷烟等行业女性劳动；提出男女工资差异、工会与劳动监察合作；并列1951年第1号劳动法关于月经、分娩休息和哺乳的条款。他特别指出第7和9条当时尚未实施，夜间劳动暂循1925年第647号殖民条例等规定。**此为当时劳动部长在大会纪念册中的说法，工资表OCR明显错栏，不能引用其具体金额；法律生效与实施情况仍须核1951法原文、实施令及劳动监察档案**。讲话也声称Gerwis有劳动宣传贡献，不能据此直接推断某厂工人已获改善。它为1955年Sumarni Werdojo农村女工组织方法及1961年农村妇女研讨会提供有时间先后的政策背景，而非实施因果的独立证明。
+
+**本次检索与来源级别**：印尼语/英语检索 `Kenang-kenangan Kongres Gerwis ke-2 25-31 Maret 1954`、`Gerwani SOBSI kongres 1954`；打开2026-09-18档案导航 https://19651966perpustakaanonline.wordpress.com/2026/09/18/dari-gerwis-menjadi-gerwani-kenang-kenangan-kongres-gerwis-ke-2-25-31-maret-1954/ 、Pustaka Taratsa馆藏页及72页OCR正文。档案导航是现代索引；纪念册是1954年同期组织出版物的数字OCR，原印本图像尚未人工核对。ANRI KOTI官方目录 https://anri.go.id/download/inventaris-arsip-tekstual-komando-operasi-tertinggi-19631967-1586226436 亦重新打开，确认KOTI 746所记1964-09-10 Gerwani雅加达地方机关支持SOBSI第四届大会的指示属于**目录记录而非指示正文**，不能由1954年SOBSI致辞直接推断1964年执行链。
+
+**正式并库限制**：已读AGENTS、goal-continuity、stage-access、正式四CSV开头与chronology真实路径。Git树确认claim-ledger.csv为1,358,257字节，但fetch_file返回空正文，source-register等仅取得前8行；故本次不能完成四表全量去重，不占用正式S/C/Q/CV号，不将待核OCR当成已经核实的原始影印。chronology位于`archive/records/chronology.md`，此路径已经确定，不能再写成“未定位”。历史正文须待组织章程/决议逐页与其他来源交叉后写成连续段落，不制作旧式列表HTML。
+
+**精准未完**：①下载并逐页核对1954年72页原始PDF：大会前言、SOBSI致辞、1954-03-15劳动部长讲话、决议、Gerwani章程、中央干部名单，保留原印页码；②查1951年第1号劳动法及1925年第647号、1941年第45号劳动条例原文，区分法条通过、生效、实施及工厂监察；③核大会自报201/143分支与350名参与者的签到、地方分支及财政记录，并对比1954 Darmini会员数口径；④调ANRI KOTI 746一页原件和SOBSI第四届大会文件，建立1954—1964两组织关系变化而非简单连续推断；⑤通过可分块Git blob或完整仓库读取四表，语义去重后更新source-register/claim-ledger/search-log/coverage-matrix、chronology及成熟中文正文，轮换1965—1968地方镇压与1970—2026劳工/学生组织。GOAL及G1—G10永久OPEN。本段提交SHA以GitHub写入返回和远程HEAD回读为准；文件不伪造自身提交SHA。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-18 06:46 CST｜ANRI KOTI 739/740/746 精确原件定位与1964年全会日期约束
 
 本次已读 AGENTS.md、goal-continuity.md、stage-access.md、既有continuity-status.md；通过GitHub树确认正式 chronology 实际路径为 archive/records/chronology.md（之前多轮“无法定位”已纠正）。已读取正式source-register、search-log、coverage-matrix开头并取得各blob SHA；claim-ledger.csv仍返回空正文（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713，Git树标示1,358,257字节）。因此不能声称四CSV已全量去重，也不擅自分配正式S/C/Q/CV编号。
