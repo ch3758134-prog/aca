@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-17 UTC｜G6布鲁岛释放与G2工会政治犯来源入口（未完成）
+
+已重读2026-11-09 completeness-audit G1—G10、AGENTS、stage-access、goal-continuity、continuity-status及正式四CSV表头和chronology起始段。claim-ledger.csv 仍返回空正文（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），本次不占用S/C/Q/CV正式编号。G1—G10全部OPEN，地域与年代覆盖不得由本条替代。
+
+**G6，1977—1978释放的连续研究链，访问级别：当时新闻全文+原始外交电报公开转录。** Hamish McDonald 1977-12-21 Washington Post 现场报道 https://www.washingtonpost.com/archive/politics/1977/12/21/indonesia-frees-10000-jailed-since-65-revolt/f81cc0ed-a627-4bea-b67d-15c6f6f41fe9/ ：记者在Buru观察1977-12-20释放仪式，报道获释者宣誓及离岛运输，并描述其后居家拘束。报道所说“10000获释”是全国宣布的阶段数量，不是记者现场逐一清点的布鲁岛人数。报道所引1978/1979计划不能当作已执行。1978-05-09美国驻雅加达使馆电报6004（FRUS 1977–1980 XXII doc 208）https://history.state.gov/historicaldocuments/frus1977-80v22/d208 全文已读：澳方记者听闻8月17日最多释放5000人（布鲁岛最多2000）；Sudharmono对美使表示原则同意但未最终定案；另一军方消息源称全年分四批共10000。**这是计划、外交转述与内部消息，不能写成1978年实际释放人数。** 需核印尼政府1977-12-20、1978-08-17逐批释放名单、运输船名册、Buru各Unit人数与居住监督命令，及1978年底实绩。地区覆盖：Buru/Maluku、Surabaya、全国；组织：政治犯/军方/外交部门。阻碍：名单与军令未取得。
+
+**G2/G6，不同组织链：1977年工会政治犯。** 打开 Amnesty International 历史资料平台 https://www.indonesia1965.org/political-prisoners-in-indonesia-trade-unionists-1977/ ，页面可见1977年原始背景报告标题及SOBSI、Sarbupri、SBKA、SB Postel、SB Pekerjaan Umum、Gerwani、BTI等主题标签，但报告正文由iframe承载，本次网页提取未见原文；**访问等级仅馆藏条目/元数据，绝不能声称读过报告**。下一步获取嵌入PDF原件，提取具体被拘工会干部姓名、拘押地、工会职务及案件日期，与1977—1978释放名单交叉核验。地域：跨地区待定；年代1950—1978；缺失原件：报告PDF、工会会员册、释放登记。此条与G6外交电报不能相互代替。
+
+**补充法律入口：** 印尼最高法院JDIH公开目录列1977-09-05 SEMA 03/1977《关于优先调查审理G.30.S/PKI及颠覆案件》，https://jdih.mahkamahagung.go.id/index.php/legal-product/sema-nomor-03-tahun-1977/detail 。本次目录可检索但打开页面失败，尚未读取69KB附件；不得推定实际司法执行。
+
+精确续接：①取FRUS 208脚注所列Carter Library Mondale Papers Box 130原电报扫描，并核1978释放实际结果；②获取1977年AI工会政治犯报告iframe/PDF原件与名册；③查SEMA 03/1977附件原文及具体案件适用；④以Git blob/raw分段解决claim-ledger全文读取、去重并正式并库及更新chronology；⑤轮换Aceh 1966驱逐原令、Bali各县及Flores/West Kalimantan地方原件，继续G1—G10与中文连续叙事。没有将搜索摘要或二手转述冒充原件，未建旧HTML。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 UTC｜G4巴厘估计数来源依赖、G5幸存者个案及G10出版元数据纠错
 
 **治理检查：** 本次直接读取 `completeness-audit-2026-11-09.md` 全部G1—G10及AGENTS、stage-access、goal-continuity、continuity-status；正式四CSV表头/起始记录、chronology起始段已读取。正式claim-ledger.csv通过fetch_file仍返回空内容（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713）；没有完成原子主张全表去重，因此本条仅为候选核验与访问等级纠错，不造新S/C/Q/CV编号。G1—G10继续全部OPEN；不同研究链应继续轮换，尤其Aceh、Flores、Kalimantan、工会组织、流亡及当代政治。
