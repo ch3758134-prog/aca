@@ -4,6 +4,19 @@
 
 - [苏加诺时代以来的印度尼西亚左翼：组织、权力与政治断裂（1945—2026）](sukarno-left-mainline-1945-2026.html)：以苏加诺时期政治结构为叙述轴，从1945共和国建国和1948左翼受挫写到1951年艾地与卢克曼、尼约托、苏迪斯曼的具体党务重建，再叙述SOBSI、BTI、Gerwani、LEKRA及1955选举、国家军队资源、1965年9月至1966年执行机构命令、地区暴力、1966—68权力转移和1990年代以后独立工会与幸存者权利。正文要求交代人物职务、真实行动和机构执行，拒绝“领导人决定”“军方行动”之类无主体概括，保留具体来源注释。这是持续修订的成熟局部，不表示相关原件已全部完成核验。
 
+## 2026-11-16：新增史料正式写入阅读版HTML
+
+现有两份苏加诺时代连续主线已补充2026-11-15 Codex研究分支及 main 随后新增的已核学术原文和人权报告事实；重点涉及亚齐1965—66军区/Baperki/驱逐、弗洛勒斯马乌梅雷KOMOP及教区人员、1923年铁路罢工各公司参与和解雇差别、1995—98年1965旧案长期政治犯、PRD/PPBI/SMID的人员判决与失踪调查。
+
+新长篇：
+- [亚齐：1965年党派清查与1966年驱逐](encyclopedia/regions/aceh.html)
+- [弗洛勒斯：1966年马乌梅雷与教区](encyclopedia/regions/flores.html)
+- [Baperki组织史](encyclopedia/organizations/org-baperki.html)及[夏沃·约·灿人物页](encyclopedia/people/person-siauw.html)
+- [1995—1998年政治犯、PRD、失踪者](encyclopedia/events/event-prisoners-1995-1998.html)
+- [1923年铁路罢工](encyclopedia/events/event-vstp-1923.html)
+
+仅对正文已显示的来源层级负责；仍未取得的军令签署原件、华裔居民名册及个别法庭卷宗不写为已经证实。长期GOAL仍OPEN。Codex研究分支 `research/sukarno-evidence-codex-20261115` 未被改写，main的并行研究台账亦未覆盖。
+
 ## 新版：独立百科词条与1965年历史阅读（阶段稿）
 
 - [新版人物与事件百科入口](encyclopedia/index.html)
