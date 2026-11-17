@@ -1,3 +1,17 @@
+## ONGOING / GOAL仍进行｜2026-11-18 06:46 CST｜ANRI KOTI 739/740/746 精确原件定位与1964年全会日期约束
+
+本次已读 AGENTS.md、goal-continuity.md、stage-access.md、既有continuity-status.md；通过GitHub树确认正式 chronology 实际路径为 archive/records/chronology.md（之前多轮“无法定位”已纠正）。已读取正式source-register、search-log、coverage-matrix开头并取得各blob SHA；claim-ledger.csv仍返回空正文（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713，Git树标示1,358,257字节）。因此不能声称四CSV已全量去重，也不擅自分配正式S/C/Q/CV编号。
+
+**新发现，直接打开的ANRI官方馆藏目录**：https://anri.go.id/download/inventaris-arsip-tekstual-komando-operasi-tertinggi-19631967-1586226436 （KOTI 1963—1967，PDF目录正文条目739—746）。卷宗739：1963-10-03与1964-01-11，Gerwani中央秘书长向各地发出全国儿童教育会议决定，原件7页；卷宗740：1964-01-18至03-03，Gerwani中央领导委员会第三次全会档案，副本一卷；卷宗741：1964-01-23，Gerwani雅加达地方机关支持工人接管Unilever、Shell等英国资本企业行动的声明，原件1页；卷宗746：1964-09-10，Gerwani雅加达地方机关要求成员支持SOBSI第四届大会的指示，原件1页。卷宗742（1964-02-03，5页副本）涉及雅加达地方工作会议闭幕讲话；卷宗745（1964-07-20，19页副本）为妇女共产党员教育材料。以上仅为馆藏目录已读，**所有卷宗正文未读**，不可写成行动已经实施或参加人数已核。
+
+**与前次Umi Sardjono报告的交叉检验**：Clarivate馆藏书目 https://search.alexanderstreet.com/preview/work/bibliographic_entity%7Cbibliographic_details%7C3366026 明确为1964年第三次DPP全会31页报告；ANRI 740的1964年初档案日期范围与报告开篇“迎接1964新年”大体相容，但不足以判定会期，也不能消除第三方OCR出现“14 Desember 1964”的内在矛盾。该异常仍须取得31页影印和740卷宗逐页检查，不得擅自更正年份。另739可用来核验前次报告中的1963年9月儿童教育会议及1374所TK Melati自报数字；746可将Gerwani/SOBSI的具体联系由一般组织叙述推进到可调取的指示原件。
+
+**本次实际提交**：chronology.md新增1963—1964年三个档案定位节点，提交SHA 6cdba4ddcf0268a35b76f47ed2708c41b9c041bf。未改正式CSV及中文成熟正文，因缺少全量去重和卷宗原件；不得冒充完成。此续接文件自身提交SHA以GitHub写入响应和main HEAD回读为准，避免提交内自引用。
+
+**下次直接执行**：①调ANRI KOTI 740原件并与Umi 31页报告逐页比对，解决“14 Desember 1964”及万隆会场/雅加达出版地；②调739七页儿童教育决议，核TK Melati机构数字、分支实施和日期；③调746一页Gerwani—SOBSI指示及SOBSI第四届大会记录，识别具体干部与实际合作；④调741企业接管声明，与企业/工会/政府记录交叉验证；⑤用Git blob分块或仓库完整克隆读取claim-ledger全量，检查正式四表与chronology重复并成熟后撰写连续中文正文，随后轮换1965—1968地方镇压及1970—2026劳工学生运动。G1—G10及总GOAL均OPEN。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-17｜1996年PRD镇压的不同统计口径及9月释放更新；Moncongloe全文访问限制
 
 已读G1—G10审计、AGENTS、授权/GOAL及正式source-register、search-log、coverage-matrix、chronology。claim-ledger接口仍返回空正文，blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713，未擅分配S/C/Q/CV。已更新同一global-gap-tracker.md，详情及原始链接见其中最新追加条。
