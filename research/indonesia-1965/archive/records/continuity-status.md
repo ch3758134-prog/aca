@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-17 23:55 CST｜1961年妇女组织活动同期交叉观察
+
+本次核读main的AGENTS、goal-continuity、stage-access、continuity-status及四份正式CSV的首段。claim-ledger.csv仍返回空正文（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），未能全量去重；chronology仍待仓库树定位。本轮不占用正式S/C/Q/CV号、不改正式台账及中文正文，以免与并行研究冲突。写入前main HEAD=6a9ffa4fae1d691bef85d57d1d2ecedc3756068d。
+
+**新实际核读的同期文章数字转录**：Hurustiati Subandrio，《Djedjak-langkah Wanita 1961》，《Api Kartini》1961年第3年第1期第8页，https://gerwani.logosid.app/teks/49 。文中明确称Gerwani于1961-01-17至20在雅加达Gedung Wanita组织全国农村妇女研讨会；同段并列报道Wanita Demokrat Indonesia在1月15日的家庭福利讨论、Bhayangkari在1月4至7日于三宝垄举行会议、Persit在马格朗开会、1961-02-06至08拟于雅加达举行印尼妇女大会。作者强调土地改革、婚姻法与跨组织妇女团结。**访问级别仅为数字转录而非原刊影印；这是同期刊物作者的叙述，未独立核对研讨会出席表、决议和地方落实。** 文章把已举行的1月活动与拟举行的2月大会混列，不能把2月大会写为已发生。该文与Suharti 1956自述不构成同一事件的独立佐证。
+
+本轮英/印尼语查询：`Gerwani Suharti 1956 Let Us Respect All Opinions Palembang women's congress 1955 archival`、`Gerwani 1955 Palembang kongres perempuan Indonesia piagam hak wanita resolusi`；实际打开上述《Api Kartini》单篇原文转录及数字馆藏首页。首页称已有41卷《Api Kartini》1959—1964开放，https://gerwani.logosid.app/ ，但未取得卷册原页，不可宣称已阅41卷。此前1954、1956年自述仍待异立场会议记录交叉核验。
+
+**精准续查**：①从41卷馆藏寻找1961年第1期原刊影印第8页与1961-01-17至20研讨会报告、参与单位名单，核Hurustiati署名及文章完整性；②找1961-02-06至08印尼妇女大会实际会议记录，分开会前计划与实际决议；③核Gerwani农村妇女研讨会与BTI土地改革、县村组织是否存在实际人员/项目联系，不从议题相同推断组织控制；④用Git树或完整克隆定位chronology，修复1.36MB claim-ledger读取并对四表去重后正式登记、成熟后更新中文连续正文；⑤轮换ANRI KOTI 16/31、BTI 219/326、北亚齐304人、1970—2026工会学生组织原件。GOAL及G1—G10持续OPEN；未建旧HTML，不替作者政治判断。此文件不能在同一次提交内准确自引用提交SHA，实际SHA以写入响应与main回读为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 22:53 CST｜Darmini 1954原文与Suharti 1956妇女组织协作叙述
 
 本次已读取main AGENTS、goal-continuity、stage-access、continuity-status及正式source-register、claim-ledger、search-log、coverage-matrix的起始行；chronology.md在研究根目录仍404，须通过仓库树定位。claim-ledger首行依旧为空（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），无法验证四表全量语义去重，故本次不创建S/C/Q/CV正式编号，不修改正式CSV、chronology及成熟中文正文。写入前观察到main最新提交 a5a49360569432d9ad18a6b881b2e6846adb57bb，须在写入后回读确认。
