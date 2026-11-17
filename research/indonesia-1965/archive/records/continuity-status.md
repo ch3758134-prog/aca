@@ -1,3 +1,11 @@
+## ONGOING / GOAL仍进行｜2026-11-17 08:55 CST｜1966年北亚齐军方记录的内部日期冲突待核
+
+已读取main的AGENTS、goal-continuity、stage-access、续接状态、chronology及四份正式CSV首段；claim-ledger通过分段读取仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），故不能声称四表全量去重，本轮不虚构S/C/Q/CV编号、不改正式chronology或成熟正文。直接打开Jess Melvin 2013年论文出版者全文 https://journals.sagepub.com/doi/full/10.1177/186810341303200304 ，并查阅期刊原刊元数据 https://journals.sub.uni-hamburg.de/giga/jsaa/article/view/708/ 和Melvin 2015年关于军方档案取得经过的说明 https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide 。后两者不是1966年事件的独立同期证明。
+
+**新发现的文本内部日期疑点**：Melvin“Escalation of Violence in North Aceh”一节先记1966-04-19 Lhokseumawe效忠集会及翌日学生与Mohd. Sjakur冲突，随后却将来自Bireuen的KAPPI代表团被北亚齐Pantja Tunggal扣留写为“On the evening of 18 April”，并接续一场通宵会议、授权拘集及304人移交。此处叙述的事件顺序与4月18日的日期存在潜在倒置；不能未经原件核对就把304人拘集、通宵会议或学生冲突机械固定为4月18、19或20日。可能是不同事件交错叙述、转录错误或原档日期错误，均尚未证实。论文所引《Perkembangan 1966》1—5页仍未取得。304为被移交人数，不是死亡人数；Melvin的因果和法律定性属于作者解释。
+
+精准未完事项：①取得《Perkembangan 1966》1—5页影像，核对“18 April”及304人移交前后的逐日日期；②检索北亚齐Pantja Tunggal会议纪要、Bireuen KAPPI代表团及Lhokseumawe医院学生Rusli AD、Iskandar记录；③核查军区Ishak Djuarsa 4月23—24日调查命令与5月8日驱逐令原件；④用Git blob/raw或其他分页手段完成claim-ledger及四表全量去重，随后正式并库与chronology修订；⑤并行转入SOBSI、BTI、Gerwani基层及1970—2026劳工/政治犯组织链，形成有足够独立证据的连续中文历史正文。写入前状态文件blob SHA：205efa52d5042323a4ab24f0aee0d61c2c56d914。最新提交SHA以GitHub写入响应和main核验为准；GOAL及子目标保持OPEN。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 07:46 CST｜北亚齐1966年4月15—24日逐日事件与304人拘押链复核
 
 本次核读AGENTS、goal-continuity、continuity-status、chronology；使用英文检索并直接打开Jess Melvin 2013论文出版者全文 https://journals.sagepub.com/doi/10.1177/186810341303200304 。这是已在此前记录使用的同一研究，**不是独立新增来源**。此前已确认正式claim-ledger读取不完整，本次未完成四表全量去重，故不新增S/C/Q/CV号、不修改正式chronology或成熟正文，避免假定去重完成。
