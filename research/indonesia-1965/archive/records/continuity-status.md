@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-17 18:49 CST｜1960佃农分成法官方PDF原件与《Suara Tani》2026研究新入口
+
+本次回读main的AGENTS、goal-continuity、stage-access、continuity-status及四正式CSV首段。claim-ledger.csv首8行仍为空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），未完成正式全量去重；chronology.md在所试路径返回404，尚需定位实际chronology文件路径。本条为**待正式并库的续接记录**，不占用S/C/Q/CV编号。
+
+**取得前轮未能打开的官方原件**：实际打开印尼审计机关BPK托管的1960年第2号《Perjanjian Bagi Hasil》PDF全文（15页，含说明）：https://peraturan.bpk.go.id/Download/40560/UU%20Nomor%202%20Tahun%201960.pdf 。第3条（PDF第2页）规定地主与耕作者须在村长面前、双方见证人参与下书面签约，乡级Camat批准；第4条（PDF第2页）水田最低三年、旱地最低五年；第7条（PDF第3页）由县级Bupati根据作物、土壤、人口、天课、经济与习俗决定分成比例，并将决定通知地方日常行政机关和地方议会。第11条（PDF第4页）规定既有分成协议须在下次收获时调整；第14条（PDF第5页）在地主拒签且土地未另行耕种时，Camat可应村长建议代地主签约。法律说明第6—7页承认耕作者在土地稀缺、书面协议缺失下的弱势地位。上述属于**法律文本已直接核验**，但不能据此证明Bogor/Cirebon具体县决定或村庄执行。与前轮非官方OCR转录为同一法条来源，**不是两份独立证据**。
+
+**新的研究取件入口**：实际打开UIN Sunan Gunung Djati Bandung数字库 https://digilib.uinsgd.ac.id/140381/ ，Pinanti Arumndani于2026年提交《Reforma agraria tahun 1960 dalam pemberitaan surat kabar Suara Tani (1956-1963)》。公开摘要称研究利用1956—1963年BTI机关报《Suara Tani》，并以《Bintang Timur》(1959)、《Merdeka》(1960)、《Duta Masyarakat》(1965)及《Minggu Pagi》(1965)比较。该库第I章及目录可公开取件，第二至四章、书目仅注册用户，附录仅馆员可访问；本次只核读馆藏页面和摘要，**未取得原刊、论文受限章节或附录**。该研究为2026年后出二手研究，不是1960年当事文献，比较报刊仅提供反证检索方向。
+
+本轮检索原文包括“Suara Tani 1960 8 12 Barisan Tani Indonesia digital archive pdf”“UU No 2 Tahun 1960 bagi hasil pasal 7 pdf peraturan bpk”。已打开BPK官方PDF及UIN数字库，前轮Perpusnas 2619271馆藏访问403尚未解决。可执行续查：①从UIN公开目录与第I章提取引用、请求受限书目及附录以锁定《Suara Tani》XI/8与XI/11的页码/馆藏；②查《Bintang Timur》1959、《Merdeka》1960及地方报纸对BTI分成请愿的不同叙述；③向Cirebon JDIH/档案馆核5256/Pem 28/60原件、县级通知与BPH/DPRD收文；④用Git原始blob或本地仓库获取claim-ledger全量，定位chronology实际路径，完成四表去重和正式登记后才修订中文连续正文；⑤轮换北亚齐304人移交、SOBSI/Gerwani基层、1970—2026组织链，避免单线停滞。GOAL及G1—G10持续OPEN；不建旧列表HTML，不替作者判断。
+
+写入前continuity blob SHA：9710296eef7b0cc4f7ae22bfa09c3c97d38e8e90。本提交的实际SHA须由GitHub写入响应和随后main回读验证，单一提交不能自引用自身SHA。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 17:52 CST｜BTI原刊馆藏入口与1960年佃农分成法定权限
 
 本轮回读main的AGENTS、goal-continuity、stage-access、continuity-status、四份正式CSV首段与chronology首段；claim-ledger.csv 1—12行仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），无法完成四表全量去重，故本条仅为待并库研究记录，不占用S/C/Q/CV正式编号。写入前main HEAD经compare main...main确认：70b9e77d69e139719e043d3541c872abb74f25df。
