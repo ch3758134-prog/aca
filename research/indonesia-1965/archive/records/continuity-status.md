@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-17｜1996年PRD镇压的不同统计口径及9月释放更新；Moncongloe全文访问限制
+
+已读G1—G10审计、AGENTS、授权/GOAL及正式source-register、search-log、coverage-matrix、chronology。claim-ledger接口仍返回空正文，blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713，未擅分配S/C/Q/CV。已更新同一global-gap-tracker.md，详情及原始链接见其中最新追加条。
+
+**已核来源**：HRW 1996年8月同期调查报告全文 https://www.hrw.org/legacy/reports/1996/Indonesi2.htm 记7月27日PDI总部突袭至少74人被捕、8月15日雅加达Metro Polda在押124人、当时至少17人失联；分母和时点不同，不得相加。Amnesty 1996-09-12同期紧急行动更新页面 https://www.amnesty.org/en/documents/asa21/064/1996/en/ 记39人获释（含巴厘28名被指PRD人员、Hendrik Dikson Sirait），并称部分保释仍面临指控；页面已读，PDF及释放簿未读。不同G项：Hasanuddin大学Moncongloe 2024论文仓储目录 https://repository.unhas.ac.id/id/eprint/49383/ 仍显示完整论文限制，前两章可下载；既有S679已登记，不冒充全文或独立原件。
+
+**续接位置**：①Amnesty 1996-09-12 PDF逐名与HRW 8月失联名册对表；②巴厘28名释放者及1996 PRD/PPBI审判原件；③Moncongloe论文全文访问实测及1969 KEP-007、1977 SPRIN-802；④Aceh/Flores/Java地方拘押与军令；⑤1920年代VSTP原刊及1998后工会基层。正式四表并库、按事件排序chronology和中文连续正文仍未完成。G1—G10全部OPEN，长期GOAL未完成。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-18 04:46 CST｜Umi Sardjono 1964年31页报告：发现可阅读全文的OCR及内部日期疑点
 
 本次遵照AGENTS、goal-continuity、stage-access及连续状态核读；正式source-register/search-log/coverage-matrix首段已读取，claim-ledger通过GitHub接口仍为空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713）；chronology真实路径未定位。不能进行正式四表全量语义去重，未擅占S/C/Q/CV编号，未宣称修改chronology或成熟中文历史正文。
