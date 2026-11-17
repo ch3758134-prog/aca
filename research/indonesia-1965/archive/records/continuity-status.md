@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-18 01:51 CST｜1961 Gerwani农村妇女诉求与1958妇女政治权利法原件核对
+
+本次读取main的AGENTS、goal-continuity及continuity-status。已实际打开印尼官方法规原文PDF https://www.peraturan.go.id/files/uu68-1958.pdf （《1958年第68号妇女政治权利公约批准法》，正文第1—4条、说明及签署页）；该法1958-07-17由苏加诺签署，1958-08-28公布，批准1952年联合国妇女政治权利公约并附保留。与印尼议会JDIH https://jdih.dpr.go.id/setjen/detail-dokumen/tipe/uu/id/1308 及BPK https://peraturan.bpk.go.id/Details/52837/uu-no-68-tahun-1958 的元数据独立核对年份。因此此前Gerwani 1961纲领数字转录中“UU 68/1959”应作为**转录或原印本待核的年份冲突**，不可按1959年正式法规登记。该法规定公共职务政治权利，不可直接推断农村女性已能担任村长、获得土地或参加土地改革委员会，须另核殖民时期村政条例和实施记录。
+
+另实际打开Maasje Siwi发表于《Women of the Whole World》1961年12月第12期第22页《The dream of an Indonesian peasant woman》数字转录 https://gerwani.logosid.app/teks/43 。作者再次记述Pabuaran村Djenab参加1961年1月Gerwani全国农村妇女研讨会，携幼儿、会议托儿、要求女性任村长、女性土地所有权和参加土地改革委员会，并称Umi Sardjono在会场发言。此篇与《Api Kartini》1961年第2期《Harapan Djenab》在人物和事件上高度重叠；虽为不同刊物，仍可能共享采访、组织宣传渠道，**不是两项完全独立的基层调查**；仅获得数字转录，未核原刊扫描或摄影说明。
+
+再打开三宝垄Diponegoro大学Risdha Nugroho Budiyanto 2009年学位论文PDF https://eprints.undip.ac.id/3197/1/Skripsi_Risdha.pdf ，该论文明确列出Gerwani在三宝垄1950—1965活动及1965后组织瓦解章节，列有受访者Heryani Busono、Tumini Khadim、Sumini等（正文前言）；为后出研究和访谈索引，不可将作者转述当作访谈录音已读。另见二手资料引《Harian Rakjat》1961-01-17/18/19的研讨会报道，应优先取同期报纸原页和会议决议。
+
+本次没有取得正式四CSV全量及chronology的可靠去重结果，不分配新S/C/Q/CV号、不修改成熟中文正文；以上为**待正式并库核读记录**。需改用Git tree/raw blob或本地完整克隆恢复1.36MB claim-ledger，定位chronology，先去重再登记。检索印尼语/英语关键词：`Gerwani seminar wanita tani 1961 Pabuaran Djenab`、`UU 68 1958 1959 hak politik wanita official`、`Gerwani 1961 seminar landreform village women`。
+
+精准未完：①取得《Women of the Whole World》1961-12原刊第22页影印、摄影及编辑来源，与《Api Kartini》Djenab采访比较，识别共用稿源；②取《Harian Rakjat》1961-01-17、18、19原报、研讨会签署决议和代表名册，核Umi Sardjono及各省代表；③核1958年第68号法附公约第III条、1950年代村政条例及实际女村长任职，区分政治权利法律与行政实施；④取Diponegoro论文引用的三宝垄Gerwani基层档案、采访原件并查独立反证；⑤恢复正式四表与chronology全量去重后修订历史时间线及连续中文正文，同时轮换ANRI BTI 219/326、SOBSI、1965—1968地方镇压和1970—2026工运。GOAL及G1—G10永久OPEN，不建旧式列表HTML，不替作者政治判断。此提交无法自引用自身SHA，准确提交SHA以写入响应与远程main核验为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-18 00:55 CST｜1961年农村妇女研讨会：Pabuaran村代表与Gerwani正式纲领交叉核对
 
 本次读取main AGENTS、goal-continuity、stage-access、continuity-status，正式source-register/claim-ledger/search-log/coverage-matrix首行；claim-ledger通过GitHub fetch_file仍返回空内容（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），chronology在研究根路径404，未能完成四表全量去重。写入前GitHub main HEAD=6049ce2c68e7e0b4730f83abf5f620d2cf1fa3ca；因此本次不占用正式S/C/Q/CV编号、不擅自修改时间线或成熟中文正文，以下均为待并库核读记录。
