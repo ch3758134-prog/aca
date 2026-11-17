@@ -1651,3 +1651,10 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 
 ### 1999年7月5日—2001年8月｜Dita Indah Sari出狱与FNPBI组织扩展（S944—S945；C1645—C1646）
 国际特赦组织1999年7月5日署期声明确认，该组织在当日得知劳工活动者Dita Indah Sari获释，同时仍称七名PRD及关联组织的良心犯在押。此处直接证据是**当日人权组织公开声明**，尚非Tangerang监狱释放登记；Amnesty网站目录显示7月4日，而原PDF内部明确署7月5日，暂以原件署期为准。2001年8月21日《Jakarta Post》采访（由APSN全文转载）记载FNPBI已有14个省级分支、约22000名成员，并称Dita在**2000年7月第二次代表大会**当选主席。第二次代表大会不能当作FNPBI成立日期；报道的规模数字也须等待工会名册与大会文件核对。两份来源显示从政治犯获释到工会领导工作的连续活动，但不能单凭它们证明PPBI与FNPBI组织合并的具体法律和内部程序。[S944; S945; C1645; C1646]
+
+
+### 1963—1964：Gerwani儿童教育会议与第三次中央领导全会（档案目录定位，原件待调）
+
+- **1963年10月3日及1964年1月11日（开放问题）**：ANRI《KOTI 1963—1967档案目录》卷宗 **739** 登记Gerwani中央秘书长致全国地方/分支组织关于全国儿童教育会议决定的信件，原件7页；此为馆藏定位，尚不能证明各地执行情况。来源：[ANRI KOTI目录，条目739](https://anri.go.id/download/inventaris-arsip-tekstual-komando-operasi-tertinggi-19631967-1586226436)。
+- **1964年1月18日至3月3日（开放问题）**：同一目录卷宗 **740** 登记Gerwani中央领导委员会第三次全会文件（副本，一卷）。这一馆藏日期区间支持全会材料属于1964年初，但不能直接确定会议逐日举行日期；需与Umi Sardjono同年31页报告原印本对照。来源：[ANRI KOTI目录，条目740](https://anri.go.id/download/inventaris-arsip-tekstual-komando-operasi-tertinggi-19631967-1586226436)。
+- **1964年9月10日（开放问题）**：同一目录卷宗 **746** 登记Gerwani雅加达地方领导机关要求成员支持SOBSI第四届大会的指示（一页原件），为妇女组织与工会联系的具体档案取件点；尚未核实指示内容和执行。来源：[ANRI KOTI目录，条目746](https://anri.go.id/download/inventaris-arsip-tekstual-komando-operasi-tertinggi-19631967-1586226436)。
