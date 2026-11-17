@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-17 UTC｜G4巴厘估计数来源依赖、G5幸存者个案及G10出版元数据纠错
+
+**治理检查：** 本次直接读取 `completeness-audit-2026-11-09.md` 全部G1—G10及AGENTS、stage-access、goal-continuity、continuity-status；正式四CSV表头/起始记录、chronology起始段已读取。正式claim-ledger.csv通过fetch_file仍返回空内容（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713）；没有完成原子主张全表去重，因此本条仅为候选核验与访问等级纠错，不造新S/C/Q/CV编号。G1—G10继续全部OPEN；不同研究链应继续轮换，尤其Aceh、Flores、Kalimantan、工会组织、流亡及当代政治。
+
+**G4/G8 巴厘估计数来源依赖再核：** 直接打开美国国务院FRUS XXVI第162号编辑说明全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d162 ，明确该条是编辑汇编、并非A-527原始扫描。编辑说明逐项引1965-10-27电报1215（中爪哇不确定事件性质）、1965-10-29电报1269（亚齐杀戮消息）、1965-11-08/13电报1374/1438及泗水171、1966-02-25 A-527（巴厘80,000估计）、1966-04-15 A-641（全国估算方法难题）、1970 Howland回顾。80,000为当时使馆估计；1970文中6,000为一名印尼军方中校向Howland提供的巴厘数字，不是独立人口调查；Howland全国105,000为其合成估计。**三种层次为编辑汇编→当时使馆估计→后来军方口头数据与外交官合成，不能当作互相独立的三次统计。** 需取得NARA RG59 POL 23-9 INDON的A-527、A-641原件、RG263 Howland原文与巴厘县级名册。不得把使馆所谓家族仇怨的因果解释当作当地已证事实。
+
+**G4/G10 Robinson章节版本及访问状态纠错：** 直接打开Cornell University Press经De Gruyter Brill展示的Geoffrey Robinson《The Post-Coup Massacre in Bali》章节正式书目页 https://www.degruyterbrill.com/document/doi/10.7591/9781501719370-008/html 。书目明确原刊于Daniel S. Lev、Ruth T. McVey编《Making Indonesia》**1996年**第118—143页；页面另显示©2018数字版版权。不可把2018误写为原始章节出版年。页面标示“Unlicensed Requires Authentication”“You are currently not able to access this content”，故**本次只读到书目/目录，不是章节全文**。搜索引擎曾展示章节正文摘录，但不得升级访问等级。需通过图书馆合法取得1996章正文、核其80,000估计的原始脚注；也须检查该估计与FRUS A-527是否共享上游，不能把Robinson章节与使馆电报自动算独立两证。
+
+**G5/G9 巴厘幸存者及地点线索（未核全文）：** 检索BBC News Indonesia关于Agung Alit、其父I Gusti Made Raka与Denpasar Tembawu墓地的2024年报道，搜索索引与非官方镜像显示父亲为教师，1971年家属尝试辨认遗骨而未能确定身份。BBC原站本次被robots限制，非官方镜像不作为可靠的独立原件；**仅作为待核访谈定位，不将个人细节登记为已证实事实**。需取BBC原报道可合法访问版本、Agung Alit访谈录音/文本、Tembawu墓地与地方死亡登记，并区分采访者报道、受访者记忆与可独立核验的1965事件。G5/G9覆盖为Denpasar个案线索，不能代表巴厘全省。
+
+**精确续接：** ①A-527/A-641原件与Robinson 1996章脚注依赖核对；②BBC原采访、Tembawu墓地证据与Jembrana/Buleleng等县的不同地方证据；③轮换G1 1923 VSTP原报、G2 SOBSI/BTI/Gerwani基层账册、G6监禁流亡及G7 2021后工会选举；④用Git blob分段/本地clone读取1.36MB claim-ledger，正式四表去重后再将成熟原子事实入库并按事件日期更新chronology和连续中文正文。尚无本次新增地方军令、原始采访或死亡名册，故不虚报正式台账与正文进度。长期GOAL未完成。
+
 
 ## ONGOING / GOAL仍进行｜2026-11-16 UTC｜G4巴厘死亡统计的跨时点冲突与G7工会法实际执行缺口
 
