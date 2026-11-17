@@ -2716,3 +2716,16 @@ ANRI《比马王室档案目录》No.280是1948-05-05学校/学生/教师人数�
 **G5/G10 跨地区证据等级（Komnas HAM 2012印尼语执行摘要全文已读，BAP/司法卷宗未读）：** https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf 明确该调查按2000年第26号法搜集足够初步证据，区别司法前调查门槛与法院最终证明；对杀害、拘押、强迫劳动、性暴力等的综合认定不可直接升级为每个个案已经司法认定。Flores BAP35/BAP25、Moncongloe营地名册仍待调取。该方法复核不能替代地方原件。
 
 **G1—G10仍OPEN：** G1 VSTP早期原报；G2 SOBSI/BTI/Gerwani基层；G3跨机关时序；G4 Aceh、苏门答腊、爪哇、Bali、Flores、West Kalimantan、Sulawesi；G5妇女族群；G6拘押流亡；G7改革后工会；G8英澳中苏；G9索引；G10正式CSV与中文连续正文。下一精确动作：①Medan第3号与Jakarta第191号原件；②Medan 1965-11报纸/拘押簿；③Flores BAP与Moncongloe名单；④定位chronology及完整claim-ledger后去重；⑤并库与正文续写。长期GOAL未完成。
+
+
+## ONGOING / GOAL仍进行｜2026-11-17｜Aceh军方动员与华裔受害者分期：不同研究链交叉核查
+
+**本次范围与证据级别。** 重读 `archive/records/completeness-audit-2026-11-09.md` G1—G10、AGENTS、stage-access、goal-continuity及continuity-status，检查正式四CSV入口。检索“Komnas HAM 2012 1965 1966 report Aceh killings page pdf”“Indonesia 1965 Aceh mass killings local military records 1965 1966 academic”；实际打开Geoffrey Robinson（2017）开放期刊**正文** https://www.tandfonline.com/doi/full/10.1080/14623528.2017.1393935 、Jess Melvin（2013）期刊页面可见**结论及脚注** https://journals.sagepub.com/doi/abs/10.1177/186810341303200304 ，及Melvin（2017）**开放PDF** https://www.tandfonline.com/doi/pdf/10.1080/14623528.2017.1393942 的可提取首页/摘要，出版社2018年著作页面 https://www.routledge.com/the-Army-and-the-Indonesian-Genocide-Mechanics-of-Mass-Murder/Melvin/p/book/9781138574694 的**书目/目录**。没有打开Banda Aceh原军方档案的3000页原件；不能称原军令已核读。
+
+**G4｜Aceh 1965年10月地方组织和军方：** Robinson正文引述研究资料，称Front Pembela Panca Sila于1965-10-06在Banda Aceh成立、西Aceh稍后成立，Pembela Rakyat于10月上半月在南Aceh成立；又引John Bowen对Takengon的口述：军方拘捕杀戮，并动员年轻人参与拘捕。Robinson提出军区指挥官Ishak Djuarsa赴各地动员与暴力爆发的时序联系。**级别为开放学术正文转引地方研究/证词，不是组织成立证书、Djuarsa行程令、拘押或死亡名册。** 不能将Takengon个案等同Aceh全省，或把“军方领导”的学术综合判断当作已逐县核验的原始命令。应核取原档案：1965-10-06组织成立文件、Ishak Djuarsa 10月1—11日巡行记录、Takengon监狱和转运记录、Aceh Barat/Selatan的军区及民兵名册。
+
+**G5（与G4不同受害群体机制）｜Aceh华裔1965—1966：** Melvin（2013）期刊可见结论将1965-10-01至1966-08-17的暴力区分政治身份指控、Baperki成员受害、针对亲北京社群的后期暴力及北Aceh集中移交军方/驱逐安排；作者对某些杀戮规模与法律上“genocide”分类**明确提出需进一步调查的条件**，不得将法律分类或尚未证实的处决升级为定论。2017开放论文摘要称其研究基于Banda Aceh前情报机构档案，并提出军方有组织实施的论证；2018出版社目录按10月1—6日、10月1—11日巡行、10—12月杀戮、1966年1—8月反华暴力及1967年3月前公务员清洗分章，**目录仅用于寻找档案，非逐章已读证据**。需分别查Baperki登记、北Aceh军方移交/驱逐令、华裔家庭口述及印尼/中国领事记录，分清被捕、被逐、死亡数字和不同受害者身份。
+
+**依赖与反证：** Robinson引用Melvin的Aceh研究，二者关于Djuarsa/军方动员的重合部分**不能算两条独立原始证据**；Melvin2013、2017与2018书亦属同一作者研究链。比较其引证的具体原军方文书、Bowen访谈和非同源地方档案后再升级主张。军方意图、民兵实际行为、族群身份动机、驱逐与杀戮分别登记。
+
+**G1—G10缺口横向状态（全部OPEN）：** G1 1923 VSTP报纸原版未得；G2 SOBSI/BTI/Gerwani基层档案及产业/土地执行缺；G3 1965跨机关逐时命令缺；G4 Aceh深化为学术全文但原军令未得，Medan、Java、Bali、Flores、West Kalimantan、Sulawesi仍需地方原件；G5 Aceh Baperki及华裔移交/驱逐原件未得，妇女受害亦缺；G6 1977工会政治犯的司法与释放记录缺；G7 1998—2026工会政党执行材料缺；G8 英美澳中苏批准—交付—效果链不齐；G9 Aceh县/组织/人员名录待标准化；G10 正式claim-ledger读取仍异常（首段空返回），chronology实际路径未定位，未分配S/C/Q/CV编号，未更新中文正文。下一精确行动：①Melvin2017 PDF正文逐页提取军方文件号；②寻找Djuarsa巡行及Front Pembela Panca Sila成立原件；③北Aceh华裔移交/驱逐令与Baperki名册；④与Medan/Palembang严格分区；⑤解决CSV/chronology路径并库后再写连续历史章节。长期GOAL未完成。
