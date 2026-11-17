@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-17 12:47 CST｜1998年工会登记改革：同期ILO报告与1999年基层访谈的实施差异
+
+本次读取main的AGENTS、goal-continuity、stage-access、continuity-status及四份正式CSV首段和chronology首段；大型claim-ledger.csv通过fetch_file(1–15行)仍返回空内容，blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713，未能全量去重，故不分配S/C/Q/CV新编号，不把本记录冒充正式登记。检索英语/印尼语：`site:jdih.kemnaker.go.id PER-05/MEN/1998 serikat pekerja`、`ILO 1998 Indonesia trade union registration PER-05 MEN 1998 SBSI`，实际打开ILO 1998年6月理事会第272届结社自由委员会310次报告Case 1773全文 https://webapps.ilo.org/public/english/standards/relm/gb/docs/gb272/gb-5.htm （重点第439–473段）和Michele Ford 2000年澳大利亚国立大学公开全文《Indonesian trade union developments since the fall of Suharto》 https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/1138d0c5-5943-42b5-8876-873482e967e7/content （PDF印刷第4–7页）。另打开ILO 1998年第86届国际劳工大会政府代表发言 https://webapps.ilo.org/public/english/standards/relm/ilc/ilc86/com-apd4.htm 。Kemnaker JDIH目录 https://jdih.kemnaker.go.id/peraturan?hal=29&jenis%5B0%5D=8&keyword=&nomor=&sort=relevansi&status=&tahun=&terjemahan= 可打开，但本次未定位PER-05/MEN/1998签署PDF；ILO NORMLEX个案动态页重定向失败，改用同期ILO静态原文。
+
+**关键辨析**：ILO第310次报告第455–458段记载旧PER-03/MEN/1993全国工会登记门槛：100个厂级单位、25个县级、5个省级，或全国至少10000会员；第2(c)款要求SPSI推荐，ILO委员会批评该制度阻碍独立工会并要求SBSI登记。此为1998年6月委员会对旧制度的审查，不得误读为1998年5月27日新规仍保留这些数字。1998年大会上印尼政府代表称PER-05/MEN/1998废止1993旧规并允许SBSI获承认；这是政府陈述，不是SBSI登记回执。Ford 2000年论文依据1999年2–4月访谈称新规第3条要求申请者提交成员姓名，部分工会遭拒绝登记、干部被解雇，且FSPSI已存在的厂内仍出现第二工会登记障碍。ILO后来个案摘要所述“不再要求向雇主提交成员名册”与Ford所述“向劳工部提交会员名单”可能并不矛盾，必须分清提交对象；尚缺PER-05/MEN/1998原文和具体拒绝登记决定，不能判定政府陈述真伪或普遍执行效果。
+
+另有可追索人物/组织线：ILO报告第466段记1996-07-08泗水行动中PPBI的Dita Sari、STN的Coen Pontoh被捕，报告称1997-04-22分别判四年、六年；须核法院判决、后续释放及组织角色，不把ILO委员会转引当成已读判决。第441–442段记1998年3月SBSI Farah Diba、Yudi Rahmat、Yudi Hermanto等被捕指控，第470段称1998-05-25 WCL通报Muchtar Pakpahan获释；被捕与释放名单仍需警方、律师、工会档案核对。Ford第6–7页还记录1999年KOBAR关联工厂工会会员每月缴500印尼盾会费的访谈、Billion Knitting厂独立工会及1998年10月17名工人因组会被解雇的媒体报道，均为可追原始访谈/厂方记录的线索，不能当独立审计事实。
+
+精准未完：①取PER-05/MEN/1998、PER-03/MEN/1993签署扫描，逐条对照成员名单提交给谁及登记审查权；②取1998–1999 SBSI及工厂工会登记/拒绝决定和1998年政府提交ILO的原始书面说明；③取1996-07-08 Dita Sari/Coen Pontoh案1997-04-22法院判决、1998释放及PPBI/STN基层组织材料；④取Ford所引1999年KOBAR、Billion Knitting工会访谈、工资扣会费及解雇申诉原件，连接1998改革与工厂现实；⑤解决claim-ledger Git blob/raw分块读取并完成四表语义去重，才正式并库、修订chronology及成熟中文连续正文；并轮换1965–68亚齐、SOBSI/BTI/Gerwani及1998–2026。GOAL和G1–G10持续OPEN，不建旧式列表HTML、不替作者判断。写入前核实main HEAD：`bc9b5f5b3a20c38cee62d8bff6fe1586a9ab3c1f`；本次提交SHA以写入响应和提交后main回读为准，不能在同一提交内自引用。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 11:51 CST｜1998年工会法律转折的原件与登记日期再核
 
 本次依授权读取main的AGENTS、goal-continuity、stage-access、continuity-status、chronology及正式source-register/search-log/coverage-matrix，claim-ledger.csv仍通过GitHub fetch_file返回空字符串（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），不能完成四表全量去重；不新建S/C/Q/CV编号，不改已登记事实的编号。研究范围轮换至1970—1998工会组织史，GOAL及G1—G10保持OPEN。
