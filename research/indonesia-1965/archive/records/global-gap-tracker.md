@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-17 UTC｜G4/G5西加里曼丹1967—1997地方连续性与跨语种证据差异
+
+已读取完整性审计G1—G10、AGENTS、stage-access、goal-continuity、continuity-status及本总账；确认正式CSV实际在archive/records/下，研究状态在project/research-status.md。此前连续多次只改总账，正式原子主张、时序及中文正文仍未并库，不能声称归档完成。G1—G10全部OPEN。
+
+**G4/G5/G6，西加里曼丹1967→1996—1997（来源等级：HRW 1997年调查报告全文直接打开；它对1967年事件的叙述属于1997年的回顾，不是1967年同期原件）。** Human Rights Watch《Communal Violence in West Kalimantan》1997-12-01，https://www.refworld.org/reference/countryrep/hrw/1997/en/23874 ，正文第一节明确其研究人员于1997年1月和7月访问当地，调查1996年12月至1997年3月达雅克人与马都拉人冲突，报告估计约500人死亡、约20000名马都拉人流离失所，且提醒早期2000以上估计不可靠。其对1967年反华暴力回顾称约300人死亡、55000以上华裔居民迁移，军方宣称是自发反共行动，HRW认为军方故意煽动的解释广泛流传。**1967与1997数字分属不同事件、不同统计性质，不可相加；HRW对1967军方角色的判断不能代替Witono原始军令。** 同报告明确说对1997年冲突“操纵者”尚无硬证据，不能把1967年军方机制自动移植到1997年。报告又追溯1977 Samalantan与1979当地冲突、和平协定；1979协议原件在HRW采访时也未取得。地区：Sanggau Ledo、Samalantan、Pontianak、Bengkayang；年代1967—1997；组织/行动者：军方、达雅克社群、华裔居民、马都拉移民、地方警察。缺原件：1967年军区Witono报告、1997年死者/流离失所者名册、1979年Samalantan和平协定、军警部署和拘捕登记。行动：先分年分事件校准统计定义，再逐县核军警参与、土地占有、迁移后的商贸网络与各社群证词。
+
+**G4/G9，不同语种研究入口（来源等级：日本学术期刊官方摘要全文已读；论文PDF未读）。** 松村智雄《1967年「ダヤク示威行動」におけるインドネシア西カリマンタン州ダヤク社会のポリティクス》，《东南亚：历史与文化》44 (2015):45–63，DOI 10.5512/sea.2015.44_45，https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/ja/ 。摘要指出1960年代达雅克政治人物Oevaang Oeray与Palaoensoeka竞争、Oeray与Partindo的联系及其在1967年10月动员的解释，亦指出初期军方煽动未立即获得达雅克响应。**这仅是作者在摘要中的论证，不是已经核实Oeray亲笔宣言、地方会议记录或完整论文。** 下一步下载期刊PDF并追原始引用，核Oeray 1967年10月所谓“宣战声明”的日期、发布机关、原文和地方反对者，避免把达雅克社会写成单一行动主体。
+
+**横向G1—G10保持OPEN：** G1 VSTP原刊与1923报纸；G2 SOBSI/BTI/Gerwani基层；G3 1965跨机关时序；G4 Aceh、苏门答腊、爪哇、巴厘、Flores、Kalimantan、Sulawesi逐县；G5妇女与族群；G6拘押流亡及1970—1998；G7改革后工会政党；G8外国机关原始文书；G9地名人物组织索引；G10正式CSV去重、chronology与中文连续HTML。**精确续接：** ①取得Witono 1967-12-04原军报；②读松村2015论文PDF和原始脚注；③取1979 Samalantan协定；④对照Flores Sikka BAP35/BAP25；⑤使用Git clone/分段blob读取archive/records/claim-ledger.csv，核编号与重复，再正式更新CSV、chronology、project/research-status及readable-history。长期GOAL未完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 UTC｜G4/G5 Flores地方名册机制与G4/G6西加里曼丹军方行动链
 
 已重读G1—G10完整性审计、AGENTS、stage-access、goal-continuity、continuity-status、正式四CSV表头及chronology入口。claim-ledger.csv分段读取仍为空，blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713；没有完成全量去重，不占用正式S/C/Q/CV编号。G1—G10全部OPEN，缺口总账不能代替正式证据台账与中文连续正文。
