@@ -2705,3 +2705,14 @@ ANRI《比马王室档案目录》No.280是1948-05-05学校/学生/教师人数�
 **G4/G5/G9｜东爪哇另一链。** 直接打开Grace Leksana《Collaboration in Mass Violence》（2020）期刊网页可检索的**正文段落** https://www.tandfonline.com/doi/abs/10.1080/14623528.2020.1778612 。研究引用Brawijaya军区档案，称1965-10-21 Basuki Rachmat设立Pancasila Operation；研究转引命令要求各营每六小时向泗水联合指挥所报告，并允许使用明确支持军队的地方民间力量。文章还提及10月23日Banyuwangi地方军政会议、11月16日Korem报告的田中遗体和11月30日解散组织须由Dandim接受并有Panca Tunggal见证的无线电报。**访问等级：学术文章网页正文片段已读，不是1965年军区命令原件；军区文件编号、全文及签发机关仍需调Brawijaya Museum原件核验**。特别区分命令的措辞、作者对暴力升级的解释、具体地方执行之间的证据层次。
 
 **横向覆盖：** G1早期工运原报；G2产业工会基层；G3跨机关指令；G4南苏门答腊与东爪哇已深化但Aceh/北苏门答腊/中西爪哇/Bali/Flores/Kalimantan/Sulawesi仍不均；G5受害者职业与族群；G6拘押转押；G7改革后工会；G8国际干预；G9地名与人名消歧；G10正式台账/时间线/中文正文未闭合。**精确续接：** ①校1290电报影像、核巨港厂级拘捕簿；②检索真正北苏门答腊Medan 1965年军警原始记录，勿套用巨港数值；③调1965-10-21 Pancasila Operation命令及六小时报告原件；④查Korem 083、Banyuwangi的11月原始报告；⑤解决claim-ledger大文件读取及去重，按正式最大编号并库、更新chronology和成熟中文正文。GOAL仍进行。
+
+
+## ONGOING / GOAL仍进行｜2026-11-17｜Medan前后时序与Komnas证据门槛复核
+
+**必读：** 已重读G1—G10 completeness-audit、AGENTS、stage-access、goal-continuity、continuity-status及正式台账入口。claim-ledger分段仍返回空正文，未分配S/C/Q/CV号。chronology根路径404，待定位真实路径。
+
+**G4/G8 北苏门答腊（FRUS两份同期文件全文已读；原始附件/地方档案未读）：** 1965-08-03美国NSC Cooper/Thomson备忘录 https://history.state.gov/historicaldocuments/frus1964-68v26/d130 记载Medan美国领馆遇袭消息与美国使馆撤侨评估；脚注定位1965-07-30 Medan第3号电报（NARA RG59 POL 23-8 INDON）及7月31日雅加达第191号电报。1965-11-16 Medan第65号电报 https://history.state.gov/historicaldocuments/frus1964-68v26/d174 则记载11月14日Pemuda Pantjasila负责人对领事宣称杀害被捕PKI成员、当地报纸街头尸体报道及11月2日与PNI青年冲突；领事本人警告大规模杀戮报道可能夸大。**两份文书不同时间与性质，不能由7月领馆袭击直接推断11月杀戮因果；言论、报纸转述、领事推断分层。** Medan与此前纠正为Palembang/South Sumatra的第1290号电报严格分开。缺原件：Medan第3号及Jakarta第191号电报、11月地方报纸、军警拘押簿、Pemuda Pantjasila与PNI青年名册。
+
+**G5/G10 跨地区证据等级（Komnas HAM 2012印尼语执行摘要全文已读，BAP/司法卷宗未读）：** https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf 明确该调查按2000年第26号法搜集足够初步证据，区别司法前调查门槛与法院最终证明；对杀害、拘押、强迫劳动、性暴力等的综合认定不可直接升级为每个个案已经司法认定。Flores BAP35/BAP25、Moncongloe营地名册仍待调取。该方法复核不能替代地方原件。
+
+**G1—G10仍OPEN：** G1 VSTP早期原报；G2 SOBSI/BTI/Gerwani基层；G3跨机关时序；G4 Aceh、苏门答腊、爪哇、Bali、Flores、West Kalimantan、Sulawesi；G5妇女族群；G6拘押流亡；G7改革后工会；G8英澳中苏；G9索引；G10正式CSV与中文连续正文。下一精确动作：①Medan第3号与Jakarta第191号原件；②Medan 1965-11报纸/拘押簿；③Flores BAP与Moncongloe名单；④定位chronology及完整claim-ledger后去重；⑤并库与正文续写。长期GOAL未完成。
