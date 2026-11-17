@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-17｜G4/G6南苏拉威西Moncongloe与G4北苏门答腊Medan原始外交记录
+
+已核读completeness-audit-2026-11-09.md全部G1—G10及AGENTS、stage-access、goal-continuity、continuity-status；检查正式source-register、claim-ledger、search-log、coverage-matrix、chronology入口。claim-ledger.csv由GitHub fetch_file返回空正文（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），不能全表去重，本条是待并库证据，**不分配正式S/C/Q/CV编号**。
+
+**G4/G6/G5｜南苏拉威西1965—1978，来源等级：Komnas HAM 2012调查执行摘要印尼语全文直接核读，非1965军令原件/2008证人笔录原件。** https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ，印刷141—144页（网页抽取行6122—6280）。调查摘要称Kodim 1408/Makassar从1965-10-05开始逮捕，延至1968-09-30；1965-10-18 Pangdam XIV Hasanuddin Brigjen Solihin以Pepelrada身份发出No. KEP.024/10/1965/PDD/1965，要求暂时解除PKI及关联群众组织成员职务，随后军区指示政府机关监察相关雇员。摘要称截至1966-03南苏拉威西约9,765名成员/同情者被逮捕拘押；**这是调查报告的历史统计，不是本次独立核对的拘押名册，不能等同死者数**。报告列Makassar、Pangkep、Polmas/Wonomulyo、Pare-Pare、Bone、Jeneponto、Bantaeng及多处拘押设施，称1967—1968有重复拘捕。约1970-08至1977-12部分囚犯分批转往Gowa县Moncongloe营地；四男营一女营，初批40人被迫修建营房；证词称囚犯无薪修路约23公里、参与军区房屋建设和军人私人农地劳动。报告称1974-08-08开始释放，1977-12-20及1978-12另有释放；这为与Buru全国释放叙述比较提供独立地区链，但仍缺逐人释放令。**缺原件**：Solihin 1965-10-18签署命令、Kodim1408拘捕簿、各县监所转押簿、Moncongloe营地名册、军区工程账、1974/1977/1978释放令与证人BAP。行动：按Makassar—Pangkep—Polewali—Gowa重建命令/拘押/强迫劳动/释放链，区分调查者结论、证词与当时文书。
+
+**G4/G8｜北苏门答腊Medan，来源等级：美国驻Medan领馆1965-11-16同期电报公开全文直接核读（FRUS XXVI doc174），原件为外交报告而非印尼警方登记。** https://history.state.gov/historicaldocuments/frus1964-68v26/d174 。电报记载1965-11-14当地Pemuda Pantjasila秘书向领馆官员表示要杀害被抓PKI成员并拒绝在其濒死前移交当局；其他该组织人士亦作类似陈述。电报转述11月10日报纸所载北苏门答腊省议员遭打死、Medan街头五具尸体报道，以及该组织与PNI青年11月2日冲突。领事本人警告大规模杀戮报告可能夸大，且消息源存在删节。**能够直接证明领事报告了这些说法，不能据此独立证明具体死亡人数或所有组织成员一致行动。** 这条真正位于北苏门答腊，不能混入此前已纠正为南苏门答腊Palembang的1290号电报。缺原件：1965-11-10 Medan报纸、FNM-1515/1516、遇害省议员身份和死亡记录、Pemuda Pantjasila内部会议与军警行动日志。行动：核地方报纸、FNM电报及军警记录，分开PNI、Pemuda Pantjasila、军方和宗教组织。
+
+**G1/G2不同年代轮换：** 1923 VSTP大罢工的2021 IRPS转载 https://irps.or.id/2021/11/mei-1923-aksi-mogok-buruh-kereta-api-yang-bikin-sewot-pemerintah/ 引1923-02-02/03-07《Kaoem Moeda》及05-09《Darmo Kondo》；另 https://jabar.nu.or.id/sejarah/kaum-buruh-riwajatmoe-doeloe-pemogokan-bagian-2-iCCju 引1923-05-09《De Preanger Bode》126号。**本次打开的是后出文章，未取得报纸原版；不得升级为同期报道全文核验。** 需核报纸影像与VSTP会议记录。
+
+**G1—G10仍OPEN**：G1殖民工运与1948；G2产业工会、BTI、Gerwani、青年文化组织；G3跨机关逐时；G4 Aceh/苏门答腊/爪哇/巴厘/Flores/Kalimantan/Sulawesi逐县；G5族群妇女与幸存者；G6拘押流亡和新组织；G7改革后工会政治；G8英美澳中苏；G9人物组织地点；G10正式CSV、统一chronology与连续中文HTML。精准续接：①取得Solihin命令及Moncongloe营地释放原件；②Medan 1965-11-10报纸与FNM-1515/1516；③VSTP 1923同期报纸；④通过git clone/blob解码正式claim-ledger全量去重，并将本条证据写入正式四表、chronology、research-status和成熟中文历史正文。长期GOAL未完成。
+
 ## ONGOING｜2026-11-17 UTC｜G2/G6双份1977原始人权名单交叉核验、G4西加里曼丹日文研究访问复核（GOAL未完成）
 
 本次重新核读completeness-audit-2026-11-09.md的G1—G10及AGENTS、stage-access、goal-continuity、continuity-status、research-status，检查source-register、claim-ledger、search-log、coverage-matrix入口。正式claim-ledger.csv仍由fetch_file返回空正文（SHA 055d63973823a3b9a5d70e8976ab40aa7f8c5713），故未完成原子主张去重；**不占用新正式S/C/Q/CV编号**。本总账不是正式台账的替代品。
