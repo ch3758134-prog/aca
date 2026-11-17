@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-17｜西加里曼丹1967动员机制与1977工会政治犯原始名单交叉续查
+
+已重读AGENTS、stage-access、goal-continuity、continuity-status、completeness-audit的G1—G10及现有长期缺口总账；正式CSV和chronology在研究根目录路径不存在，仍需仓库树定位；不得从缺失路径推断文件缺失。此前记录claim-ledger大文件读取失败，本次未解决全表去重，未新增S/C/Q/CV编号。G1—G10均OPEN。
+
+**G4/G5/G9｜西加里曼丹，1967年10月动员转折：**重新核验松村智雄2015年论文官方J-STAGE出版页（摘要全文直接打开，论文正文在此前续查已取得但本次未逐页复核）：https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article 。摘要明确将军方早期动员未获达雅克村民响应、Oevaang Oeray在1967年10月发表对华裔的“宣战”声明、mangkok merah红碗在村落传递、随后驱逐迅速发生，列为不同阶段；并指出华裔商人离开后内陆基本生活品供应恶化，达雅克居民亦受影响。**这些是作者2015年的研究结论，不是本次取得的Oeray原声明、红碗参与者名单或1967年村级物价记录**。与Davidson/Kammen关于9—10月初跨族群pemabang团结仪式的先前线索构成重要局部差异：不能将全省达雅克人视为同时同意驱逐，也不能用后出两篇论文当两份独立军方原件。下一步核原声明准确日期、最早传碗村庄及传播方向、军方Witono/Ryacudu原件、商贸供应与迁移登记；明确PGRS/Paraku武装人员和普通华裔村民的身份区别。
+
+**G2/G6/G9｜1977年工会干部拘押，访问级别：国际特赦组织1977-09-23同期公开名单PDF原文直接检索，非印尼监狱原始档案。** https://www.indonesia1965.org/content/uploads/2023/08/ASA-21-09-77-Occupational-list-of-Prisoners-trade-unionists.pdf 。名单对Sri Ambar记载为SOBSI妇女部负责人、1950年代初以来的工运人士，称1966年被捕、审讯中遭酷刑、1975年以颠覆及企图恢复左翼运动罪被判15年，1977年拘押Bukit Duri监狱；对Sri Inte/Subianto记载为Cikupa橡胶厂Sarikat Buruh Intirub成员、1969年7月被捕、1977年关押Tangerang。这里能直接证明**国际特赦组织在1977年发布了这些个案主张**，尚未取得1975年判决、1966/1969逮捕文书、工会会员簿或监狱名册，不能将酷刑指控写成已由法院认定。该名单与同机构1977年议员名单不构成独立组织佐证。可进一步按工厂—产业工会—SOBSI全国妇女部门—拘押机构构建跨年代人物链，重点核Sri Ambar 1975判决与Cikupa工厂记录。
+
+**G1—G10横向缺口保留：** G1 VSTP与1948组织原件；G2 SOBSI/BTI/Gerwani及青年文化基层；G3 1965跨机关逐时；G4 Aceh、北苏门答腊、东西中爪哇、巴厘、Flores、Kalimantan、Sulawesi地方军警/民间记录；G5性别、族群、受害者/幸存者；G6监禁流亡及1970—1998再组织；G7 1998—2026工会与政党；G8英美澳中苏；G9人物地点组织；G10正式台账、统一chronology和中文连续正文。**续接动作：**①1967-10 Oeray原声明和传碗最早村级证词；②1967-12-04 Witono军报与1967-06-16 Ryacudu报告；③1975 Sri Ambar法院判决及1977 Bukit Duri监狱记录；④1969 Cikupa工厂与Sarikat Buruh Intirub名册；⑤定位四CSV及chronology实际路径并完成正式去重与成熟正文整合。长期GOAL未完成。
+
 ## ONGOING / GOAL仍进行｜2026-11-17｜G4/G5西加里曼丹日文学术全文取得；G2/G5 Gerwani农村妇女跨语种同源核对
 
 已重新读取 archive/records/completeness-audit-2026-11-09.md 全部G1—G10、AGENTS、stage-access、goal-continuity、continuity-status和research-status，检查四个正式CSV入口。claim-ledger.csv GitHub fetch_file仍为空（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713）；本次不冒用正式S/C/Q/CV编号，未完成全量去重。G1—G10保持OPEN。
