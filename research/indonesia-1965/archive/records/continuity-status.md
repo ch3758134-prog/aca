@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-17 10:54 CST｜北亚齐原件追索的外部独立性检查
+
+本次读取main的AGENTS、goal-continuity、stage-access、continuity-status、chronology和四份正式CSV的起始行。claim-ledger.csv通过GitHub文件接口分页读取仍返回空字符串（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713）；因此未完成全量去重，不新增S/C/Q/CV正式编号，不把状态文件当作正式证据登记。GOAL继续OPEN。
+
+多语检索原文查询：「Sofjan Ibr KAPPI Lhokseumawe 15 Juni 1966 Ramli Angkasah 16 Juni」「Indonesia 1966 Aceh KAPPI Perkembangan politik keamanan Ramli Angkasah 304」。未检索到可直接打开的1966-06-15 KAPPI来函、1966-06-16县长答复或《Perkembangan》原件。实际打开/检索全文页面：Jess Melvin 2013原刊 https://journals.sagepub.com/doi/full/10.1177/186810341303200304 ；Melvin 2017开放获取论文 https://www.tandfonline.com/doi/full/10.1080/14623528.2017.1393942 ；Melvin 2018专著PDF https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf ；另核读另一作者关于军方与反共群众组织合作的2017年研究 https://www.tandfonline.com/doi/full/10.1080/14623528.2017.1393935 。该篇可以提供军方—群众组织合作的全国机制比较，却未直接证实北亚齐304人移交的具体日期、个人结局或1966年6月县长往来公文；不可冒充本地事件独立印证。Melvin 2013、2017、2018共享同一研究者及亚齐档案材料，不可按三份独立原始证据累计。Melvin 2017明确说明其2010年从班达亚齐旧情报档案取得约3000页军方文件，属于原始档案保管和访问线索，而非本次已读取全部原件的证明。
+
+精准未完事项：①向亚齐省档案机构/北亚齐地方议会档案核索1966-06-15县长报告及《Perkembangan di Bidang Politik/Keamanan》页1—5的原始扫描，查4月18/20日倒序与304人移交的准确日期；②索Sofjan Ibr. 1966-06-15 KAPPI来函、T. Ramli Angkasah 1966-06-16答复，分别查具体问题、签发人和分送单位；③找军方拘押登记、转运、释放、死亡及迁移名册追踪304人的个体去向，禁止把移交人数写成死亡人数；④通过Git原始blob或本地分块下载恢复claim-ledger.csv完整内容，与source-register/search-log/coverage-matrix全量去重后才追加正式记录、chronology和成熟中文正文；⑤下一研究链轮换SOBSI/BTI/Gerwani基层资料、1970—1998劳工/政治犯/学生组织及1998—2026制度与组织史，不因亚齐个案停滞而忽略年代覆盖。
+
+本次研究没有取得新的1966年签署原件；新增价值是明确2017年另一作者论文的独立性边界及原件检索失败路径。写入前continuity blob SHA：e48221937c998a99e6986558cb282caf9d5071ec。本次提交SHA须以写入返回值及main回读为准，提交自身不能在同一提交内自引用。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 09:50 CST｜北亚齐1966年6月15—16日原始公文追索与日期校勘
 
 本次依main读取AGENTS、goal-continuity、stage-access、continuity-status、chronology及正式四CSV表头；claim-ledger.csv分页仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），不能完成全量去重，故不擅自分配S/C/Q/CV编号，不把本条冒充正式台账登记。研究规则授权公开来源核验，GOAL继续OPEN。
