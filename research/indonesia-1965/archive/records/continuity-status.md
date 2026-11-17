@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-18 03:54 CST｜1955农村劳动倡议与1964 Gerwani中央全会报告取件链
+
+本次读取main的AGENTS、goal-continuity、stage-access、continuity-status及正式source-register、claim-ledger、search-log、coverage-matrix的首段；claim-ledger GitHub接口仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），chronology路径仍未定位，未完成全量语义去重。提交前远程main HEAD=f15b34993ecab37bc7be658371cf421f251b0e62。为防止编号冲突，不擅分配S/C/Q/CV，不冒称已更新chronology及成熟中文正文。
+
+本次新增的**可精确取件的1964年组织原件线索**：实际打开Clarivate Alexander Street馆藏元数据 https://search.alexanderstreet.com/preview/work/bibliographic_entity%7Cbibliographic_details%7C3366026 ，列明Umi Sardjono署名《Madju Terus untuk Pengintegrasian Total Gerwani dengan Wanita Buruh Tani dan Tani Miskin》，1964年雅加达DPP Gerwani出版，31页，系Gerwani中央领导委员会第三次全会的总报告，涉及农村女雇工、贫农及国际妇女运动。**只读到馆藏说明，未读31页原件**；特别注意1964年DPP第三次全会与1956-06-16至19的另一第三次全会不能混同。此材料有望直接连接1955年Sumarni Werdojo关于十人劳动小组与BTI合作的倡议、1961年农村妇女研讨会和1964年实际组织政策，但目前**不能证明1955倡议在1964年已执行**。
+
+实际打开Gerwani数字文献馆藏 https://gerwani.logosid.app/teks ，可见1958-04-21 WIDF秘书长Carmen Zanti致函介绍Geeta Mukherjee依据Suwarti Bintang Suradi口述撰写Gerwani工作情况，内含种植园女工、经期假、产假、识字班、托儿与工会行动的组织叙述（目录页第79—92行）。此为转录的当时访谈转述，不能把其40,000种植园会员自报数字当独立统计。该馆藏目录另有关于1958年第68号妇女政治权利法的**正确年份**表述，说明此前1961纲领转录的“68/1959”须逐篇核原印本，不可一概推断整批文献错误。该站有大量已有来源，未完成正式source-register去重，不重复登记。
+
+本轮检索：印尼语“Sumarni Werdojo Bagaimana membela hak hak Wanita tani 1955 Gerwani BTI”；英语“Gerwani BTI women agricultural labor 1955 Sumarni Werdojo Harian Rakjat”；打开Clarivate馆藏页与Gerwani文献索引；对照2024 Diakronik转录 https://diakronik.com/kronik/bagaimana-membela-hak-hak-wanita-tani/ 。需区别1955年原报（未取得）、1958年访谈转述（仅馆藏数字转录）、1964年组织报告（仅书目元数据），不得把来源依赖误作独立互证。
+
+精准未完：①取得1964年Umi Sardjono 31页报告全文/影印、第三次中央全会日期与决议，定位其中BTI、工资劳动小组及妇女土地权具体段落；②查Gerwani数字馆藏1958-04-21 Geeta Mukherjee全文、原信扫描及种植园地名Tilayap是否转录误拼；③取《Harian Rakjat》1955-01-26第3页原版与Sumarni干部履历，并查BTI双方的地方联合劳动行动记录；④用Git tree/raw blob或本地完整克隆恢复claim-ledger 1.36MB全文、定位chronology并正式四表去重，随后登记事实及修订成熟中文连续叙事；⑤下一链轮换ANRI KOTI 16/31军政解职原件、SOBSI企业委员会与1970—2026劳工学生组织连续史。GOAL及G1—G10保持OPEN；此提交自身SHA以写入响应和远程HEAD回读为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-18 02:51 CST｜1955年Gerwani农村妇女组织方法：同期文章转录核读
 
 本轮读取main AGENTS、goal-continuity、stage-access、continuity-status及四正式CSV的首段；claim-ledger.csv仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），chronology仍未定位。写入前远程main HEAD=a631e30421ab38f6ebdfbde8743ea66ed9d4030f。因正式台账未全量读取和去重，本次不占用S/C/Q/CV编号、不声称更新chronology或成熟中文正文。
