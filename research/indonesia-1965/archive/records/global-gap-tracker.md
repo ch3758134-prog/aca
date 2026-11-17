@@ -1,3 +1,17 @@
+## ONGOING / GOAL仍进行｜2026-11-17｜南苏拉威西原始调查报告与北苏门答腊同期领事电报核验
+
+已读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09全部G1—G10、continuity-status、正式source-register/search-log/coverage-matrix及chronology入口。claim-ledger.csv当前GitHub读取返回空正文（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），故无法全量去重，不占用正式S/C/Q/CV编号。research-status.md此路径404；不得据此推断不存在其他路径。以下为**来源已实际打开的候选核验记录**，待正式并库。
+
+**G4/G5/G6/G9｜南苏拉威西，1965—1977，访问等级：印尼国家人权委员会2012年调查执行摘要PDF全文直接打开，非1965年军方命令原件。** https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ，PDF印刷页141—143（网页文本行6123—6242）。调查报告引述证人称1965-10-05起Makassar等地出现拘捕，1965-10-18第XIV军区司令Solihin以Pepelrada身份签发No. KEP.024/10/1965/PDD/1965，暂时停职PKI及关联群众组织人员；这是**调查报告对命令的描述**，尚未读取命令签署原件。报告称截至1966年3月全省约9,765人遭拘押，数字是该报告所载时点的拘押量，不是死亡数，也不能与其他时点人数相加。报告列Makassar、Pangkep、Polewali、Pare-Pare、Bone、Jeneponto、Bantaeng等地，并称1967—1968年仍有再拘捕。报告所述约1970年8月至1977年12月多批次向Moncongloe营转押，囚犯被要求建营房、开荒、修筑至Daya约23公里道路及军方建筑，证词描述强迫劳动。下一步调取Solihin签署命令原件、Kodim1408逮捕簿、Moncongloe转押名单、工程与土地档案；区分调查结论、证词、军方文件与个人实际经历。
+
+**G4/G8/G9｜北苏门答腊Medan，1965-11-16，访问等级：美国国务院FRUS正式公开同期领事电报全文，直接证明领事报告与其所记受访者言论，不自动证明每项杀戮事件。** https://history.state.gov/historicaldocuments/frus1964-68v26/d174 ，电报65号，NARA RG59 POL23-9 INDON。领事馆称两名Pemuda Pancasila人员分别向美方表示将杀害所抓获的PKI成员，11月14日Medan市组织秘书称将无视苏加诺呼吁并拒绝把活着的被拘者交给当局。电报另引述当地报纸关于11月10日一名北苏门答腊议员被打死的报道，并记录对PNI的敌意及11月2日青年团体冲突。领事Heavner明确承认大规模杀戮报告可能被夸大；领事信息来源部分删节。不能由此推断美方下达杀戮命令，亦不能将被访者威胁等同于独立核实的全部执行行为。下一步核1965-11-10 Medan原报、受害议员姓名、Pemuda Pancasila当地章程及军警拘押记录，并与地方证词交叉。
+
+**G6｜Moncongloe补充来源依赖：** Taufik Ahmad于2010-01-24发表《Survival through slavery》全文已打开 https://www.insideindonesia.org/editions/edition-998/survival-through-slavery ，称营地约1969年底建成并载859男/52女等数字，且描述军方强迫劳动；与Komnas HAM所述约1970年8月起转押的时间应按“建营”和“转押”分别核对，不得直接宣布矛盾或把两篇记载视为独立人数普查。该文章是后出研究/访谈报道，非营地登记原件。
+
+**G1—G10持续OPEN：** G1前史、G2群众组织、G3跨机关逐日、G4各省军民暴力、G5性别族群幸存者、G6监禁/流亡/再组织、G7当代政党劳工、G8外国介入、G9人物地点组织索引、G10正式台账和连续中文HTML。此处两条不同地区原件链只缩小局部缺口，不等于覆盖完成。下一精准续接：①Solihin KEP.024/10/1965/PDD/1965原件及签署附件；②Moncongloe 1970—1977分批转押/劳动项目账册；③Medan 1965-11-10报刊及被害议员身份；④FRUS d174引述的FNM-1515/1516及NARA原电报；⑤跨G项继续1920年代ISDV/SI组织档案与1990年代PPBI/SBSI工厂层级记录。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-17｜西加里曼丹1967动员机制与1977工会政治犯原始名单交叉续查
 
 已重读AGENTS、stage-access、goal-continuity、continuity-status、completeness-audit的G1—G10及现有长期缺口总账；正式CSV和chronology在研究根目录路径不存在，仍需仓库树定位；不得从缺失路径推断文件缺失。此前记录claim-ledger大文件读取失败，本次未解决全表去重，未新增S/C/Q/CV编号。G1—G10均OPEN。
