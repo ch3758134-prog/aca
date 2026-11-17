@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-17 09:50 CST｜北亚齐1966年6月15—16日原始公文追索与日期校勘
+
+本次依main读取AGENTS、goal-continuity、stage-access、continuity-status、chronology及正式四CSV表头；claim-ledger.csv分页仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），不能完成全量去重，故不擅自分配S/C/Q/CV编号，不把本条冒充正式台账登记。研究规则授权公开来源核验，GOAL继续OPEN。
+
+实际打开Jess Melvin 2018年专著可读PDF https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf ，直接核读正文及注释（PDF文本行1225—1228、4295—4317、6143—6174），并与同作者2013年原刊全文 https://journals.sagepub.com/doi/full/10.1177/186810341303200304 对照。**新增可精确请求的原件坐标**：北亚齐县长T. Ramli Angkasah提交DPRD-GR第一次全会的《Laporan Bupati Kepala Daerah ... April 1965 s/d Mei 1966》，附《Perkembangan di Bidang Politik/Keamanan: Mengenai Apel Setia WNI Keturunan Tionghoa dan Demonstrasi Para Pelajar/KAPPI ... mulai April 1966》，据书注形成于1966-06-15，页1—5为此前304人事件的关键上游；同书书目有**日期自相矛盾**：报告标题标会议“15 Juni 1965”，而报告覆盖至1966年5月，作者注校为“15 June 196[6]”。这应当核对封面、会议纪要与档案登记，不可默默改写原件。另发现KAPPI Lhokseumawe秘书Sofjan Ibr.于1966-06-15发文，以及县长T. Ramli Angkasah于1966-06-16所作《Tentang Pertanjaan2 Dari KAPPI Lhokseumawe》回复，均在Melvin专著注137—140、212定位；**这两份原件尚未直接取得**，不可据标题推断具体要求或答复内容。
+
+专著另引同一县长1966-06-15《Hansip/Hanra》材料，称1965年10月北亚齐民防组织与军方设防、布点和武器分配；正文列23营、95连、14182名成员，均属作者转录的行政报告数字，未取得人员花名册和武器收发原始记录，不能直接当独立审计统计。该报告与《Perkembangan》同属县长报告体系，不是两条独立作者来源。对1966-04-18与04-20叙事倒置和304人最终去向，现有两本Melvin著作不能独立解决；304是被移交人数，不是已证死亡数。书注还指出Coppel将约10000离开亚齐者视为外侨华人，Eric Morris认为也包括印尼籍华人，**国籍构成是待核争议**，不能用驱逐命令对象代替实际迁离人口。
+
+精准未完事项：①向亚齐省档案馆及北亚齐DPRD-GR档案索取1966-06-15县长报告原件、附件《Perkembangan》1—5页和会议封面，核“1965/1966”年份错误与4月逐日事件；②取Sofjan Ibr. 1966-06-15 KAPPI来函与T. Ramli Angkasah 1966-06-16逐条回复，核学生组织、军方、县政府的责任分界；③取Hansip/Hanra编制、武器发放和警戒岗日志，检验23营/95连/14182人数与实际活动；④查304人移交清单、军方拘押和释放/迁移/死亡档案，并分开华裔印尼公民与外国籍华人；⑤修复大型claim-ledger的Git blob/raw完整读取、四CSV去重后登记正式主张，更新chronology及证据成熟的中文连续正文，并轮换SOBSI/BTI/Gerwani和1970—2026组织链。此轮未取得1966年原始签署文件，不宣称交叉独立验证，不建旧式列表HTML，不替作者政治判断。写入前continuity blob 029caa9132d217f5ce9c08d9fe95db34af356442；本次提交SHA以写入返回及main HEAD核验为准，单一提交无法自引用自身SHA。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 08:55 CST｜1966年北亚齐军方记录的内部日期冲突待核
 
 已读取main的AGENTS、goal-continuity、stage-access、续接状态、chronology及四份正式CSV首段；claim-ledger通过分段读取仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），故不能声称四表全量去重，本轮不虚构S/C/Q/CV编号、不改正式chronology或成熟正文。直接打开Jess Melvin 2013年论文出版者全文 https://journals.sagepub.com/doi/full/10.1177/186810341303200304 ，并查阅期刊原刊元数据 https://journals.sub.uni-hamburg.de/giga/jsaa/article/view/708/ 和Melvin 2015年关于军方档案取得经过的说明 https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide 。后两者不是1966年事件的独立同期证明。
