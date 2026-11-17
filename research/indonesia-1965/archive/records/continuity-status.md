@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-17 22:53 CST｜Darmini 1954原文与Suharti 1956妇女组织协作叙述
+
+本次已读取main AGENTS、goal-continuity、stage-access、continuity-status及正式source-register、claim-ledger、search-log、coverage-matrix的起始行；chronology.md在研究根目录仍404，须通过仓库树定位。claim-ledger首行依旧为空（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），无法验证四表全量语义去重，故本次不创建S/C/Q/CV正式编号，不修改正式CSV、chronology及成熟中文正文。写入前观察到main最新提交 a5a49360569432d9ad18a6b881b2e6846adb57bb，须在写入后回读确认。
+
+**实际打开单篇全文转录**：Darmini，《Miss DARMINI of the G.E.R.W.I.S.》，《Women of the Whole World》1954年1月第十四届执委会增刊第34页，https://gerwani.logosid.app/teks/2 。她在报告中自称Gerwis会员从1951年第一次大会的6000人、1953年世界妇女大会时37000人增至1954年3月第二次大会前55049人、163分支；并称1952年铁路工人妻子联盟（10分支、4000会员）加入，1953年8月苏拉威西PERWIN加入。她还叙述占碑油区建立同工同酬与社会保险宣传委员会、苏门答腊和苏拉威西调查产假及怀孕解雇、1953-12-19举行声援越南会议。**证据级别是1954年同期刊物的2026年数字转录，尚未取得原刊影印；数字为组织者自报，未核会籍账册、加入双方文件、当地劳资与行政档案。** 与先前1954年9月Darmini信件（正式表S932）不是同一篇。
+
+**另一同期自述**：Suharti，《Let Us Respect All Opinions》，《Women of the Whole World》1956年6月第6期第8—9页，https://gerwani.logosid.app/teks/4 。文中自称Gerwani会员由281000增至565147；称1955年3月巨港妇女大会上Gerwani提出妇女权利宪章与和平议题并获一致通过；又称雅加达各组织妇女代表200人向总统提出生活必需品降价、反核武器、民主婚姻法诉求。**同为组织干部对国际读者的报告，尚未核巨港会议纪要、总统府收文、其他组织证言或会籍记录；不能视为独立证实。**
+
+**新增取件线索**：2026-03-26发布的印尼民间档案导航 https://19651966perpustakaanonline.wordpress.com/2026/03/26/diskriminasi-dalam-hak-hak-politik-perlu-diachiri-sekilas-kisah-siti-mudikdio-mudigdio-pengurus-gerwani-dan-anggota-parlemen-pertama-setelah-kemerdekaan/ 指向Mudikdio在1958-06-01至05维也纳第四届WIDF大会发言的馆藏说明，亦指向1974年1月《Tapol》3期；目前只核读导航页与摘要，未读1958演讲或1974原刊，且Mudikdio/Mudigdo/Mudigdio拼写需实体归一核查。1958年Kongres Wanita Indonesia名册仍由既有S1025支持，不把导航页当独立证据。
+
+精准未完：①取得1954年1月增刊第34页和1956年6月第8—9页影印、编者信息与上下文，核转录准确度；②查1952铁路工人妻子联盟与1953苏拉威西PERWIN双方加入决议、会员账册，区分并入与联盟；③取1955巨港Kongres Wanita Indonesia会议决议及1956年200人总统请愿原件，核参与者和诉求执行；④取1958维也纳WIDF第四届大会Mudikdio发言、1974《Tapol》3期原刊，追1958—1974人物轨迹；⑤用Git树或本地完整克隆定位chronology、读取claim-ledger完整内容并与正式四表去重，随后并库、更新成熟中文历史叙述，同时轮换1965—68地方镇压和1970—2026劳工学生链。GOAL及G1—G10持续OPEN；不建旧式列表HTML，不替作者政治判断。最新提交SHA以写入返回和远程main回读为准，不在同一提交中虚构自引用。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 21:51 CST｜Gerwani跨组织协作的同期名册与1954年国际联系
 
 本次核读main AGENTS、goal-continuity、stage-access、续接状态及正式source-register/search-log/coverage-matrix；正式claim-ledger.csv请求首行仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713）。当前正式source-register最大编号S1210（存在并行写入风险）；1958年妇女运动纪念册已登记S1025，1954年9月Darmini致国际妇联刊物的信已登记S932，故本次不重复登记。chronology实际路径未定位，未完成四表全量去重，未改正式CSV、chronology或中文连续正文。提交前观察到main最新SHA dd2179be53075ec08c1d3d07cca6f74053db2776。
