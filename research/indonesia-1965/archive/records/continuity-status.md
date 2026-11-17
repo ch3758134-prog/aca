@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-17 16:55 CST｜BTI在井里汶推动佃农分成规则的可追索个案
+
+本轮已核读main的AGENTS、goal-continuity、stage-access、continuity-status，正式source-register、claim-ledger、search-log、coverage-matrix和chronology的首行。正式claim-ledger.csv通过fetch_file限定1—8行仍返回空内容（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713）；不能声称四表全量去重，也不能擅自生成正式S/C/Q/CV编号。GitHub代码搜索“Tanah Bagi yang Tak Bertanah”“5256/Pem”“Suara Tani”均未返回匹配，**代码搜索无结果不等于正式台账无重复**。本段为待并库的原文核读与精准续查，不替代正式台账。
+
+本轮从1998—2001工会法轮换至1960—1965 BTI基层农民运动，印尼语/英语检索包括 `site:online.flipbuilder.com/STPNPress/lybq "BTI" "panitia" "bagi-hasil" "Cilacap" 1964`、`Indonesia PER-05/MEN/1998 peraturan menteri tenaga kerja serikat pekerja pdf`、`site:jdih.kemnaker.go.id "PER-05/MEN/1998" serikat`。实际打开印尼土地高等学校出版社STPN Press所刊《Tanah Bagi yang Tak Bertanah: Landreform Pada Masa Demokrasi Terpimpin 1960-1965》的逐页全文，第85网页页/书内印刷第79页：https://online.flipbuilder.com/STPNPress/lybq/files/basic-html/page85.html 。该书叙述BTI代表团不仅要求落实佃农分成合同，还要求农民组织参与决定分成比例的地方委员会。书中称1960-08-07，BTI代表团向Cirebon县长请愿后，当地签署编号`5256/Pem 28/60`的地区决定；在Cirebon Dalam湿田区规定maron即耕作者与地主各半，在Cirebon Pantai旱地地区地主得2/5、耕作者得3/5。书页脚注6指向同期《Suara Tani》1960年12月第XI年第11期。**目前直接核读的是STPN出版的后出研究，不是县长决定签署原件或《Suara Tani》当期期刊；不得把其叙述当成原始法令已核验。** 需特别核查决定的法规范畴（Perda还是县长决定）、文号空格/斜线、地区边界、实际执行与争议，不将分成规则的颁布等同落实。
+
+另一线索：印尼劳工部JDIH历史目录实际打开，检索1998法规未直接获得PER-05/MEN/1998签署全文；1998登记问题仍保持开放，不用2000年法律反推1998规定。https://jdih.kemnaker.go.id/peraturan?hal=7&nomor=Permenaker+No.+1+Tahun+1998+apakah+masih+berlaku&sort=terlama 。这份目录仅能作为检索路径，不能证明目标规章不存在。
+
+精准续查：①取得1960-08-07 Cirebon `5256/Pem 28/60`签署文件、发布机关及执行细则，核两地区分成比例；②取得《Suara Tani》1960年12月XI年第11期，核BTI请愿的参与者、日期、措辞与报道来源；③核STPN书第79页前后章节及其参考文献，追踪1961年Jember农民行动和不同县区执行差异，寻找地主/行政机关反证；④恢复claim-ledger Git原始blob完整读取，对四CSV、chronology进行语义去重后正式并库，再将有独立证据的农村组织过程写成连续中文正文；⑤轮换北亚齐1966年304人移交原始档、SOBSI/Gerwani基层及1970—2026工会和学生组织。GOAL和G1—G10永久OPEN，不建旧式列表HTML、不替作者政治判断。
+
+写入前核对main HEAD：`798f4281bb63dd600a2f7962ebfb28a24994e6b4`；最新提交SHA必须以本次写入返回及提交后HEAD回读为准，提交不能自引用自身SHA。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 14:50 CST｜2000年工会法签署文本核读及1998制度边界
 
 本次从main读取AGENTS、goal-continuity、stage-access、continuity-status及正式source-register、claim-ledger、search-log、coverage-matrix、chronology的起始行。claim-ledger.csv请求1—18行仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），四表全量去重无法核实；本轮不分配正式S/C/Q/CV号，不擅改chronology及成熟正文。此段是待正式并库的核读记录而非正式登记。
