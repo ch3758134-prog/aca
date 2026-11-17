@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-18｜G4 Aceh县级议会原件取件链与G1荷兰殖民报刊索引边界
+
+本次实际读取main的AGENTS、stage-access、goal-continuity、completeness-audit全部G1—G10、continuity-status、global-gap-tracker、chronology及source-register/search-log/coverage-matrix；claim-ledger.csv经GitHub读取仍为空正文（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），不能完成C编号去重，不新增正式S/C/Q/CV编号。research-status.md在archive/records路径404，不能断言其他位置不存在。前次已登记Jess Melvin相关研究，不重复把同书当独立新来源。
+
+**G4/G5/G9｜Aceh，1965—1967，来源级别：Jess Melvin 2018年Routledge专著正文与脚注已直接打开，书中引用的1965县议会记录/军方年度报告未直接取得。** https://www.routledge.com/the-Army-and-the-Indonesian-Genocide-Mechanics-of-Mass-Murder/Melvin/p/book/9781138574694 ，可阅读文本 https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf 。书中注101给出可精准取件的1965-10-11西亚齐Meulaboh县DPRD-GR特别会议记录，标题“Risalah Sidang Istimewa DPRD Gotong Royong Daerah Tingkat II Aceh Barat tanggal 11 Oktober 1965 ... G.30.S/PKI”；注102给出北亚齐县长T. Ramli Angkasah向1966年Lhokseumawe县议会全会提交的1965-04至1966-05施政报告，书中脚注日期显示“15 June 196[6]”，需要检查原件以确定是1966而非OCR/原印笔误；注103给出Aceh Besar被指G30S相关公务员清册“Bekas PNS yg terlibat G30S PKI Aceh Besar”，档案借阅控制号222/24。这些是**原件标题与馆藏定位的学术转引**，不是本次已经读到会议记录、县长报告、逐人清册。Melvin使用的Aceh军区1965年度完整报告与县级材料的来源关系须核，不得将同书多个脚注误算为已独立取得多份原件。行动：分别向Aceh政府档案馆/地方议会申请10月11日议事录、县长报告、222/24清册；按县/日期核实议员表决、拘押名单、职务剥夺与军方指令的连接。阻碍：原件尚未开放在线全文、书中部分当事人使用化名，不能据此复原实名关系。
+
+**不同G项G1｜殖民前史报刊，1810—1923，来源级别：荷兰国家档案馆官方目录与访问说明网页全文直接打开，目录中所指报纸正文未读。** https://www.nationaalarchief.nl/onderzoeken/archief/2.10.36.111 。馆藏号2.10.36.111是殖民部“Registers Indische Couranten”报刊文章索引，覆盖1810—1923，含Deli Courant、De Sumatra Post、De Locomotief等；馆方明确多数报纸实体在荷兰皇家图书馆而非该国家档案馆，且此索引馆藏完全公开。**关键范围边界：索引止于1923，不能直接用它检索1926—1927起义原报**。行动：用索引追1910—1923 ISDV/Sarekat Islam/早期工会及苏门答腊种植园新闻的日期和版面，再转荷兰皇家图书馆取得报纸原版；1926—27另查Delpher及殖民政府行政报告，不将报刊索引当新闻正文。阻碍：尚无具体报纸页码与独立核验的早期组织行动。
+
+**横向未结G1—G10：** G1前史原报/组织会议；G2 SOBSI/BTI/Gerwani/青年文化组织基层；G3 1965跨机关逐小时；G4 Aceh、北苏门答腊、东中西爪哇、巴厘、Flores、西加里曼丹、Sulawesi逐县；G5妇女族群幸存者；G6监禁流亡与再组织；G7 1998—2026工会与政党；G8英美澳中苏实际行动；G9实名、地名、组织索引；G10正式台账去重、事件排序chronology与中文连续正文。下次精确续接：①Aceh Barat 1965-10-11县议会原议事录；②Aceh Utara T. Ramli Angkasah 1966报告原件并核日期；③Aceh Besar档案222/24公务员名单；④荷兰2.10.36.111索引内1910—1923具体条目并追皇家图书馆报纸影像；⑤与ANRI KOTI 739/740/746的Gerwani组织原件并行续查。GOAL仍OPEN，不声称全量完成。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-17｜南苏拉威西原始调查报告与北苏门答腊同期领事电报核验
 
 已读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09全部G1—G10、continuity-status、正式source-register/search-log/coverage-matrix及chronology入口。claim-ledger.csv当前GitHub读取返回空正文（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），故无法全量去重，不占用正式S/C/Q/CV编号。research-status.md此路径404；不得据此推断不存在其他路径。以下为**来源已实际打开的候选核验记录**，待正式并库。
