@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-17 14:50 CST｜2000年工会法签署文本核读及1998制度边界
+
+本次从main读取AGENTS、goal-continuity、stage-access、continuity-status及正式source-register、claim-ledger、search-log、coverage-matrix、chronology的起始行。claim-ledger.csv请求1—18行仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），四表全量去重无法核实；本轮不分配正式S/C/Q/CV号，不擅改chronology及成熟正文。此段是待正式并库的核读记录而非正式登记。
+
+英语/印尼语查询：`Indonesia 1998 PER-05 MEN 1998 serikat pekerja pasal 3 text`、`site:ilo.org Indonesia 1998 trade union regulation PER-05/MEN/1998 registration`。**实际打开印尼地方政府法律文献站的2000年第21号《工会法》全文PDF** https://jdih.patikab.go.id/asset/files/21_TH_2000_SERIKAT_PEKERJA_ATAU_SERIKAT_BURUH.pdf ，核读第5—9、14、18—25、28、43、45—47条。第5条规定工会至少10名劳动者成立；第6条规定联邦至少5个工会；第7条规定总联合会至少3个联邦；第9条禁止雇主、政府、政党或其他方面干预自愿成立；第14条禁止同一工人在同一企业同时加入超过一个工会，**并非禁止同一企业存在多个工会**。第18条规定已成立工会向所在地劳工主管机关书面通知并附创始成员姓名、章程和负责人名单；第20条规定合规者21工作日内获得登记编号，暂缓登记应在14工作日内书面告知理由；第22条登记簿应公开；第25条列有获得登记编号后的集体谈判等权利；第28条禁止以解雇、降职、减薪、威胁等方式阻碍结社，第43条规定相应刑罚。第45条要求原已登记工会在法实施后一年内办理新登记编号。这些是**2000年立法文本规范，不是1998年PER-05/MEN/1998条文，也不能证明基层执行到位**。ILO Case 1773动态页 https://normlex.ilo.org/dyn/nrmlx_en/f?p=1000:50002:0::NO::P50002_COMPLAINT_TEXT_ID,P50002_LANG_CODE:2903023,en:NO 搜索索引显示政府对1998年法规的陈述，但本次实际打开遇重定向循环；不可标记全文核读。与Ford 2000访谈所述1999年基层登记障碍相对照，须进一步取行政个案。
+
+本次新辨析：此前“已存在FSPSI工会的工厂第二工会登记受阻”不能归因于2000年第21号法第14条，因为该条限制的是**同一劳动者的重复入会**，而不是工厂只能有一家工会。若基层机关据此拒绝第二工会，需要查拒绝决定、适用法规及日期；不能把2000年法律反投到1999年实地访谈。第18条的“daftar nama anggota pembentuk”（创始成员姓名）亦不能未经比对直接等同1998规章中被要求提供的全体会员名册。
+
+精准续查：①获取1998-05-27 PER-05/MEN/1998签署全文和第3条，核申请人、会员/创始人/干部名单及接收机关；②获取2001-02-15 KEP.16/MEN/2001签署PDF与2000法第18—25条逐项比对；③寻找1998—2001具体厂级工会申请、拒绝/暂缓、登记簿及雇主解雇争议，按事件日期与法律版本配对；④用Git原始blob或本地克隆读取1.36MB claim-ledger、四表去重后正式登记并更新chronology及成熟中文连续叙述；⑤交替追北亚齐1966《Perkembangan》1—5页与304人去向、SOBSI/BTI/Gerwani基层、1970—2026政治犯/工会/学生链。未创建旧式列表HTML，不替作者政治判断。GOAL及G1—G10保持OPEN。提交前continuity blob SHA：1faf56316c4348eac8a88564d9dff494871b0c4d。本次提交SHA以写入返回及main HEAD核验为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 13:51 CST｜1998—2001工会登记制度的文本层级与提交对象辨析
 
 本次读取main的AGENTS、goal-continuity、stage-access、continuity-status、正式source-register/search-log/coverage-matrix及chronology首段；claim-ledger.csv即使限定1—12行仍返回空文本（blob SHA 055d63973823a3b9a5d70e8976ab40aa7f8c5713），不能完成四表全量去重，不擅自分配S/C/Q/CV编号。未修改chronology或成熟中文正文。
