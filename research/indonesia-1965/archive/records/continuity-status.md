@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-18 04:46 CST｜Umi Sardjono 1964年31页报告：发现可阅读全文的OCR及内部日期疑点
+
+本次遵照AGENTS、goal-continuity、stage-access及连续状态核读；正式source-register/search-log/coverage-matrix首段已读取，claim-ledger通过GitHub接口仍为空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713）；chronology真实路径未定位。不能进行正式四表全量语义去重，未擅占S/C/Q/CV编号，未宣称修改chronology或成熟中文历史正文。
+
+**重要访问进展**：前次仅取得Clarivate Alexander Street 31页书目元数据 https://search.alexanderstreet.com/preview/work/bibliographic_entity%7Cbibliographic_details%7C3366026 。本次通过印尼语及英语检索找到Scribd所载同题31页材料 https://www.scribd.com/document/1020824310/Madju-Terus-Untuk-Pengintegrasian-Total-Gerwani-Umi-Sardjono ，实际打开可读取的网页OCR正文（页面约第79—124行，后续可逐段读取）。**访问等级为第三方上传的疑似原件OCR转写，尚未逐页核对影印与版本真伪，OCR多处乱码；不得等同于原件逐页核实。** 开头写Umi Sardjono代表Gerwani中央日常领导机关欢迎1964年新年，称DPP第三次全会在万隆而非雅加达举行；回顾1963年工作，提出1964年工作安排，主张土地改革、降低米价、妇女劳动与儿童教育。文中自报1963年9月全国儿童教育会议约200名代表、1374所TK Melati（幼儿园），均为组织报告自述而非独立统计。报告还声称支持设立土地改革法庭、重启停滞的土地改革委员会并纳入农民参与，必须与政府、BTI和地方执行材料核对。
+
+**关键文本异常**：OCR在报告讨论1963年妇女节/“ibu agung”争议时出现“14 Desember 1964”字样（网页约110行），与开篇“新年1964”及1964年度工作安排的时间语境冲突。可能是OCR错字、文件后改、日期并非同一事件或版本问题，绝不可自行改成1963。优先获取31页影印并核相应页码、出版题记、会议日期和是否为后期合订版本。Clarivate书目列出版地雅加达，不等于全会举办地雅加达；OCR称会场万隆，两者可同时成立，不能混同。
+
+独立旁证线索：数字转录《Api Kartini》1964年《TAVIP MENJIWAI 17 AGUSTUS '64》 https://gerwani.logosid.app/teks/64 （已实际打开），称Gerwani志愿妇女8月15日集会、17日参加独立纪念活动，文章自称超过700人宣誓，并涉及土地改革的总统讲话。仅是Gerwani关联刊物自述，未见原刊影印与其他组织人数核查，不可把它当作1964年全会报告的独立事实证明。
+
+本轮检索原文：`Gerwani Umi Sardjono 1964 Madju Terus pengintegrasian total wanita buruh tani miskin pdf`、`Gerwani 1964 third plenum Umi Sardjono report text`；已打开Scribd 31页OCR及《Api Kartini》单篇数字转录，检索到Clarivate书目和1955年Sumarni文章已有入口。下一精准动作：①逐页取得Scribd/馆藏影印，核“14 Desember 1964”及第三次全会确切日期、万隆地点和DPP出版地；②从31页报告提取妇女农业劳动、BTI合作、土地分配及TK Melati段落的准确页码，并与政府/工会记录交叉核验；③寻找1963年9月儿童教育会议原决议、1374所幼儿园名册、政府教育登记和1964年8月15—17日其他妇女组织报道；④通过Git tree/raw blob或完整克隆恢复claim-ledger并定位chronology，完成正式四表去重、时间线与成熟连续正文；⑤转入KOTI 16/31军政清理、SOBSI企业委员会、1970—2026劳工学生运动证据链。GOAL及G1—G10保持OPEN。最新提交SHA以写入响应及main回读为准，不在同一提交中虚构自引用。
+
 ## ONGOING / GOAL仍进行｜2026-11-18 03:54 CST｜1955农村劳动倡议与1964 Gerwani中央全会报告取件链
 
 本次读取main的AGENTS、goal-continuity、stage-access、continuity-status及正式source-register、claim-ledger、search-log、coverage-matrix的首段；claim-ledger GitHub接口仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），chronology路径仍未定位，未完成全量语义去重。提交前远程main HEAD=f15b34993ecab37bc7be658371cf421f251b0e62。为防止编号冲突，不擅分配S/C/Q/CV，不冒称已更新chronology及成熟中文正文。
