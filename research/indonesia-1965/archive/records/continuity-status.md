@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-17 17:52 CST｜BTI原刊馆藏入口与1960年佃农分成法定权限
+
+本轮回读main的AGENTS、goal-continuity、stage-access、continuity-status、四份正式CSV首段与chronology首段；claim-ledger.csv 1—12行仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），无法完成四表全量去重，故本条仅为待并库研究记录，不占用S/C/Q/CV正式编号。写入前main HEAD经compare main...main确认：70b9e77d69e139719e043d3541c872abb74f25df。
+
+本轮实际打开1960年第2号《Perjanjian Bagi Hasil》法律全文的非官方转录 https://peraturan.info/uu/1960/2/isi （页面警示OCR可能有错），并找到印尼审计机关BPK官方法规目录 https://peraturan.bpk.go.id/Details/51300/uu-no-2-tahun-1960 ，确认1960-01-07颁布生效；转录第3条要求书面佃农分成协议经村长见证、乡级机关批准，第4条规定水田最低3年、旱地最低5年，第7条明确分成比例由县级行政首长依作物、土地、人口、习俗等确定并通知地方机关。这给此前STPN Press研究所述1960-08-07 Cirebon县长分成决定提供了**独立法律权限背景**，但绝非该县决定已经签署或实际执行的独立证据。第7条原始PDF尚须对照校验。
+
+实际打开STPN Press研究的前一页 https://online.flipbuilder.com/STPNPress/lybq/files/basic-html/page84.html （书内78页），作者依据《Suara Tani》1960年8月第XI年第8期第3页，记1960-07-23 Bogor由BTI带领15个组织代表团要求县长确定分成比例、三名干部被警方扣留13天；这是**后出研究对党团期刊的转述**，未读1960年原刊、警方登记，不能当成独立确认。前次核读的下一页 https://online.flipbuilder.com/STPNPress/lybq/files/basic-html/page85.html （书内79页）所述Cirebon 5256/Pem 28/60和分成比例仍为后出研究转述。
+
+**新的可执行原刊取件入口**：2025-02-01建立的民间馆藏导航页 https://19651966perpustakaanonline.wordpress.com/2025/02/01/arsip-digital-majalah-suara-tani-majalah-resmi-barisan-tani-indonesia-bti/ 明确指向印尼国家图书馆Perpusnas《Suara Tani》1956—1962数字馆藏；点击实际跳至 https://opac.perpusnas.go.id/DetailOpac.aspx?id=2619271 ，本轮网页访问403，**只验证导航链接及目标馆藏路径，未取得或核读任何1960年期刊影印页**。民间导航页不能替代原刊，且其编辑立场不等于原始文献立场。此路径同时可能取得1960年8月、12月期，供独立核查Bogor与Cirebon行动的党团原始叙述，再寻警务/县政府对照。
+
+下一组精准事项：①尝试Perpusnas OPAC馆藏2619271的数字内容入口或馆员申请，分别取《Suara Tani》XI/8 (1960-08) 第3页与XI/11 (1960-12) 原刊页，核Bogor拘押与Cirebon法令；②下载BPK所附1960年第2号法律PDF原页，核第3、4、7条原文及解释；③向Cirebon地方档案/JDIH查5256/Pem 28/60签署、发布、通知BPH/DPRD及执行数据，特别分清Perda与县长决定；④查Bogor警方1960-07-23之后13天拘押登记及农民/地主相反叙述，避免仅用BTI机关刊物证明结果；⑤修复claim-ledger原始blob读取并做四表、chronology完整去重，再将成熟的佃农制度—BTI地方行动—行政回应写入中文连续正文，同时轮换SOBSI、Gerwani、北亚齐及1970—2026链条。GOAL及G1—G10继续OPEN，不建旧式列表HTML，不替作者政治判断。最新提交SHA以GitHub写入返回及随后远程HEAD核验为准，无法在本次同一提交中自引用自身SHA。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 16:55 CST｜BTI在井里汶推动佃农分成规则的可追索个案
 
 本轮已核读main的AGENTS、goal-continuity、stage-access、continuity-status，正式source-register、claim-ledger、search-log、coverage-matrix和chronology的首行。正式claim-ledger.csv通过fetch_file限定1—8行仍返回空内容（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713）；不能声称四表全量去重，也不能擅自生成正式S/C/Q/CV编号。GitHub代码搜索“Tanah Bagi yang Tak Bertanah”“5256/Pem”“Suara Tani”均未返回匹配，**代码搜索无结果不等于正式台账无重复**。本段为待并库的原文核读与精准续查，不替代正式台账。
