@@ -1,3 +1,21 @@
+## ONGOING / GOAL仍进行｜2026-11-17 19:54 CST｜ANRI KOTI原始档案目录：BTI、SOBSI与1965年组织清理的可请求卷宗
+
+本次回读main AGENTS、goal-continuity、stage-access、continuity-status、四份正式CSV首行；claim-ledger.csv的GitHub fetch_file仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），chronology.md所试路径404，故不能完成全量语义去重、正式S/C/Q/CV登记或安全修改chronology及成熟中文连续正文。本条为待并库的**档案目录发现**，不冒充原件全文。写入前main HEAD核实为 `49853b7fc9fa30fedd3f4074da53468059a7e944`。
+
+**本次新的实质性档案入口**：实际打开印度尼西亚国家档案馆ANRI公开PDF《Inventaris Arsip Tekstual Komando Operasi Tertinggi (KOTI) 1963–1967》，https://anri.go.id/download/inventaris-arsip-tekstual-komando-operasi-tertinggi-19631967-1586226436 ，并逐条核读目录编号。此PDF是**官方馆藏目录原件**，并非目录所述1946—1965年历史文件的影印全文。其所列档案具有独立保管与取件价值：
+
+- KOTI 581：1946-12-29至1947-01-01 BTI第一次大会关于财务、组织地位与两年计划的决议，4页复写本；可追1945成立后的实际制度与财源
+- KOTI 583：1955-04-14至1964-09-28西/中/东爪哇土地争端、租赁和种植园往来函件，1卷，含原件、抄本与副本；可与1960年Bogor/Cirebon请愿链对读，但目录没有点名5256/Pem 28/60
+- KOTI 585：1956-11-14 BTI干部职责与分工2页；KOTI 594：1963-01-22东加里曼丹BTI给中央关于《Harian Rakjat》报道的原函1页；KOTI 598：1965-02-25 Pasar Minggu农民与BTI就拟由AKRI使用耕地提出协商的草稿2页（破损）
+- KOTI 600：1965-05-31 BTI中央要求复审Bandar Betsy 23名农民案判决的声明；KOTI 601：1965-06-23中央向地方组织传送判决副本和法律办理材料的函件（破损），可检验组织法律支援网络
+- KOTI 607：1952—1964 SOBSI/BTI关于米价与粮食困难的联合声明；KOTI 624：1957-11-20餐馆/旅店/商店工会关于雅加达SOBSI会费的函件；KOTI 633：1960—1965 SOBSI参与企业委员会及国有项目私有化的函件；KOTI 621：1957—1965妇女工人组织联系函件
+- KOTI 16：1965—1966军方/平民处置协调及1965-10-26陆军指示的原件卷；KOTI 31：1965-11有关解职、停职与生产后果的原件卷。可用于连接1965后国家机构和生产单位清理机制，但不能未经取件就推断具体责任人或结果
+- **目录自身异常待核**：KOTI 590列BTI第六届全国大会开幕讲话为1965-07-23，而KOTI 591列同一届大会Aidit讲话为1962-07-25；须检查原件封面、是否不同大会或目录误录，不能擅自统一日期。
+
+本次同时实际打开STPN Press《Tanah Bagi yang Tak Bertanah》书内78—79页（https://online.flipbuilder.com/STPNPress/lybq/files/basic-html/page84.html 与 https://online.flipbuilder.com/STPNPress/lybq/files/basic-html/page85.html ）复核Bogor 1960-07-23、Cirebon 1960-08-07事件的二手转述。搜索另找到后出论文复述Cirebon同一文号，但未确认其具有独立原始资料，不能当交叉证实。UIN 2026论文公开摘要 https://digilib.uinsgd.ac.id/140381/ 仍是后出研究，未取受限正文及《Suara Tani》原刊。
+
+**精准未完及直接行动**：①向ANRI按KOTI 581、583、585、598、600、601索取影印及目录页/卷宗完整标识，优先检验BTI组织财务、土地诉讼与法律支援；②按KOTI 624、633、621索SOBSI会费收支、企业委员会代表产生、妇女劳工组织实际联系；③按KOTI 16、31索1965-10-26命令及1965-11解职原件，分辨指示/批准/执行与人员结果；④核KOTI 590/591大会年份冲突，并查Cirebon 5256/Pem 28/60及《Suara Tani》XI/8、XI/11原刊；⑤以Git raw/blob或本地克隆恢复claim-ledger全量、定位实际chronology、四表去重后正式登记，继而更新成熟中文连续叙述；同时轮换北亚齐304人去向、Gerwani与1970—2026组织史。未建立旧式列表HTML、不替作者作政治判断。GOAL与G1—G10持续OPEN。本次提交自身SHA须以写入返回和提交后main核验为准，不能在同一提交内自引用。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 18:49 CST｜1960佃农分成法官方PDF原件与《Suara Tani》2026研究新入口
 
 本次回读main的AGENTS、goal-continuity、stage-access、continuity-status及四正式CSV首段。claim-ledger.csv首8行仍为空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），未完成正式全量去重；chronology.md在所试路径返回404，尚需定位实际chronology文件路径。本条为**待正式并库的续接记录**，不占用S/C/Q/CV编号。
