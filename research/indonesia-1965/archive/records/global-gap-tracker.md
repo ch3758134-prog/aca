@@ -2729,3 +2729,14 @@ ANRI《比马王室档案目录》No.280是1948-05-05学校/学生/教师人数�
 **依赖与反证：** Robinson引用Melvin的Aceh研究，二者关于Djuarsa/军方动员的重合部分**不能算两条独立原始证据**；Melvin2013、2017与2018书亦属同一作者研究链。比较其引证的具体原军方文书、Bowen访谈和非同源地方档案后再升级主张。军方意图、民兵实际行为、族群身份动机、驱逐与杀戮分别登记。
 
 **G1—G10缺口横向状态（全部OPEN）：** G1 1923 VSTP报纸原版未得；G2 SOBSI/BTI/Gerwani基层档案及产业/土地执行缺；G3 1965跨机关逐时命令缺；G4 Aceh深化为学术全文但原军令未得，Medan、Java、Bali、Flores、West Kalimantan、Sulawesi仍需地方原件；G5 Aceh Baperki及华裔移交/驱逐原件未得，妇女受害亦缺；G6 1977工会政治犯的司法与释放记录缺；G7 1998—2026工会政党执行材料缺；G8 英美澳中苏批准—交付—效果链不齐；G9 Aceh县/组织/人员名录待标准化；G10 正式claim-ledger读取仍异常（首段空返回），chronology实际路径未定位，未分配S/C/Q/CV编号，未更新中文正文。下一精确行动：①Melvin2017 PDF正文逐页提取军方文件号；②寻找Djuarsa巡行及Front Pembela Panca Sila成立原件；③北Aceh华裔移交/驱逐令与Baperki名册；④与Medan/Palembang严格分区；⑤解决CSV/chronology路径并库后再写连续历史章节。长期GOAL未完成。
+
+
+## ONGOING / GOAL仍进行｜2026-11-17｜Bali 1965年12月同期电报与Aceh原军方档案目录定位
+
+**审计/范围：** 本次重新读取正式 `completeness-audit-2026-11-09.md`（G1—G10均未闭合）、AGENTS、stage-access、goal-continuity及最新总账。正式CSV入口已检查但没有完成全量去重；本条仅作来源候选，不抢占S/C/Q/CV编号。选择既有Aceh军方链G4/G5，另开不同地区Bali的G4/G8同期外交证据链；不是单项结案。
+
+**Bali，G4/G8，来源访问级别：同期美国使馆A-408电报公开OCR全文已打开，但OCR严重乱码；档案馆人工摘要和FRUS编辑注释全文可读，原始影像尚未逐页校读。** 1965-12-21美国驻雅加达使馆Joint Weeka No.48（A-408，RG84 Entry P339 Box10 Folder12-POL2-1）馆方说明使馆当时记录全国至少100,000人被杀，其中Bali至少10,000人。https://nsarchive.gwu.edu/document/15720-document-24-airgram-408-joint-weeka-no-48 ；OCR https://nsarchive.gwu.edu/media/15720/ocr 。这是**1965年使馆估计及馆方摘述**，非经人口登记验证的死亡数。美国国务院FRUS卷26第162号编辑注释 https://history.state.gov/historicaldocuments/frus1964-68v26/d162 进一步明确：1966-02-25雅加达A-527报告Bali约80,000人遇害且杀戮仍在继续；这一数字是不同日期的估计，不能与12月10,000相加，也不能视为已确认的最终总数。该编辑注释同时提示外交报告对地方冲突、家族仇杀的解释存在当时观察者的偏见和不确定性。**缺原件：** A-408扫描逐页校字、A-527原件、Bali县/村受害者登记、RPKAD/Brawijaya进入Bali的部队调动命令、PNI/PKI地方组织记录。**行动：** 对比11月底—12月初的驻外外交报告和军队部署日期，特别核实部队抵达前是否已有杀戮；不得把“军队到达才开始”写为确定事实。
+
+**Aceh，G4/G5/G9，来源访问级别：Jess Melvin 2018年著作可检索完整文本已定位并阅读目录、注释与档案出处段落；仍是作者转引，不是直接读到1965年军方原档。** 著作《The Army and the Indonesian Genocide》记载她所获Aceh军区年度报告与在Aceh省档案馆独立找到的文件互相吻合，并引述具体原件入口：1965-10-11 Aceh Barat DPRD-GR特别会议记录《Risalah Sidang Istimewa DPRD Gotong Royong Daerah Tingkat II Aceh Barat...》；北Aceh县长T. Ramli Angkasah关于1965年4月—1966年5月县政府工作的报告（书注所载会议日为1965-06-15，但覆盖至1966-05，**明显日期矛盾，应核为1966-06-15还是原件误印**）；Aceh Besar公职人员名单《Bekas PNS yg terlibat G30S PKI Aceh Besar》馆藏控制号222/24。公开书目 https://www.routledge.com/the-Army-and-the-Indonesian-Genocide-Mechanics-of-Mass-Murder/Melvin/p/book/9781138574694 。书中还列1965年军方事件年表与死亡分布图及1965-10-18—1967-03-31公职清洗文书表，构成军方命令—地方行政—人事清洗可核查链。**缺原件：** 三项地方会议/行政文书影像、年度军区报告、档案馆控制簿与被清洗人员身份对照；禁止把书中转录当作已独立核验的原始军令。**行动：** 按上述原印尼文标题和222/24调卷，先解决北Aceh报告日期内部冲突，再比对军方指令与地方行政落实。
+
+**G1—G10横向缺口：** G1 VSTP 1923原报；G2 SOBSI/BTI/Gerwani基层；G3跨机关逐时命令；G4 Bali/Aceh新增原件定位但其他省县仍不足；G5华裔/妇女/职业受害者与数字分母；G6拘押转押和1977工会政治犯；G7改革后工会/政党；G8外交文件与实际干预链；G9人名地名档案号消歧；G10正式CSV去重、chronology定位、中文连续正文尚未完成。**下一续接：** ①A-408扫描与A-527全文校对Bali时间和人数；②Bali军队调动与地方村名册；③Aceh Barat 1965-10-11会议记录；④北Aceh县长报告日期及Aceh Besar 222/24档案；⑤正式台账大文件读取、去重后将成熟证据并入时间线及中文正文。长期GOAL仍OPEN。
