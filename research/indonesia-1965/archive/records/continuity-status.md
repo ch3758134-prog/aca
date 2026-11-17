@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-18 02:51 CST｜1955年Gerwani农村妇女组织方法：同期文章转录核读
+
+本轮读取main AGENTS、goal-continuity、stage-access、continuity-status及四正式CSV的首段；claim-ledger.csv仍返回空文本（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），chronology仍未定位。写入前远程main HEAD=a631e30421ab38f6ebdfbde8743ea66ed9d4030f。因正式台账未全量读取和去重，本次不占用S/C/Q/CV编号、不声称更新chronology或成熟中文正文。
+
+本次印尼语原文核读新线索：Diakronik 2024-02-22刊载Sumarni Werdojo署名《Bagaimana membela hak-hak Wanita-tani》，注明原载《Harian Rakjat》1955-01-26第3页，并称保持原文词句及结构：https://diakronik.com/kronik/bagaimana-membela-hak-hak-wanita-tani/ 。已实际打开完整转载（网页第10—40行），**尚未取得1955年报纸原页**，因此属于可定位同期文章的现代转录，而非原版影印。作者主张Gerwani农村组织应先调查村庄生活、习俗、当地特殊条件和会员弱点；以水稻插秧、除草工资为例称男性Rp2、女性Rp1.50（这是文章举例，不能当作全国统计）；建议按约10人劳动小组分配轮值、协商最低工资、反对预支工钱压价（ngidjo tenaga），并提及可以同当地BTI合作。这里的BTI联系是作者提出的组织方法，**不证明某村实际建立联合机构或实施工资协议**。文章可作为1961年Gerwani全国农村妇女研讨会之前的组织思路前史，不能把1955主张直接写成1961落实。
+
+交叉检索：Diponegoro大学2009年Gerwani三宝垄研究全文 https://eprints.undip.ac.id/3197/1/Skripsi_Risdha.pdf 记载1961年4月Gerwani中央全会对1月研讨会和托儿活动的回顾，并指向《Harian Rakjat》1961-01-19；这是后出研究，不是全会原始记录。另见 https://gerwani.logosid.app/teks/49 的《Api Kartini》1961年第2期Djenab同期报道数字转录，能够对照组织诉求，但其与其他Gerwani关联刊物存在稿源依赖。反证方向：查同期非Gerwani报刊、村级工资与妇女劳动记录，验证建议是否实施及劳动关系实际情况。
+
+下一组精准行动：①取《Harian Rakjat》1955-01-26第3页影印核Sumarni署名、原版字词、版面与有无续篇；②追Sumarni Werdojo个人身份、Gerwani干部职务与1955年各地实际劳动小组记录，查十人小组与男女工资的地方独立证据；③检索1955—1961年BTI和Gerwani双方文件中的联合农村工资行动，区分倡议、合作和执行；④取《Harian Rakjat》1961-01-17/18/19及1961年4月Gerwani全会决议，复原1955组织思路到1961研讨会之间的连续行动；⑤修复1.36MB claim-ledger完整读取、定位chronology，四表语义去重后正式并库并更新成熟中文历史正文，轮换SOBSI、1965—1968地方镇压、1970—2026工运。GOAL与G1—G10保持OPEN。此提交自身SHA须以GitHub写入返回和远程main回读为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-18 01:51 CST｜1961 Gerwani农村妇女诉求与1958妇女政治权利法原件核对
 
 本次读取main的AGENTS、goal-continuity及continuity-status。已实际打开印尼官方法规原文PDF https://www.peraturan.go.id/files/uu68-1958.pdf （《1958年第68号妇女政治权利公约批准法》，正文第1—4条、说明及签署页）；该法1958-07-17由苏加诺签署，1958-08-28公布，批准1952年联合国妇女政治权利公约并附保留。与印尼议会JDIH https://jdih.dpr.go.id/setjen/detail-dokumen/tipe/uu/id/1308 及BPK https://peraturan.bpk.go.id/Details/52837/uu-no-68-tahun-1958 的元数据独立核对年份。因此此前Gerwani 1961纲领数字转录中“UU 68/1959”应作为**转录或原印本待核的年份冲突**，不可按1959年正式法规登记。该法规定公共职务政治权利，不可直接推断农村女性已能担任村长、获得土地或参加土地改革委员会，须另核殖民时期村政条例和实施记录。
