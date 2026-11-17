@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-18 00:55 CST｜1961年农村妇女研讨会：Pabuaran村代表与Gerwani正式纲领交叉核对
+
+本次读取main AGENTS、goal-continuity、stage-access、continuity-status，正式source-register/claim-ledger/search-log/coverage-matrix首行；claim-ledger通过GitHub fetch_file仍返回空内容（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），chronology在研究根路径404，未能完成四表全量去重。写入前GitHub main HEAD=6049ce2c68e7e0b4730f83abf5f620d2cf1fa3ca；因此本次不占用正式S/C/Q/CV编号、不擅自修改时间线或成熟中文正文，以下均为待并库核读记录。
+
+**新增同期报道数字转录**：《Api Kartini》1961年第3年第2期第8—9页《Harapan Djenab》，https://gerwani.logosid.app/teks/50 ，本次实际打开全文。记者采访来自西爪哇Pabuaran村的贫农妇女Djenab，她带着约10个月婴儿赴雅加达参加Gerwani中央理事会主办的全国农村妇女研讨会；报道描述村中妇女先接受走访、讨论后推派代表，会议提供临时托儿安排。报道称Djenab曾生育12名子女、6人夭折，家中一年一熟，孩子三人上学，并叙述她对农村托儿安排的愿望。以上为当时Gerwani关联刊物对一位受访者的报道，**未取得村籍、田亩、产量、出生死亡或参会签到原件，不可当作独立统计**。文中称研讨会提出女性土地权、分成法执行、粮食生产、教育文化和组织扩展，属会议决议的报道性概述，未取得签署决议原件。与前轮Hurustiati Subandrio《Djedjak-langkah Wanita 1961》同属《Api Kartini》系统，不是独立立场佐证。
+
+**另核读1961年Gerwani第四届全国大会正式纲领的数字转录**：《Program Gerwani》，署DPP Gerwani，标注1961-12-14至17雅加达大会通过，https://gerwani.logosid.app/teks/42 。纲领第11—15项要求妇女担任村长及地方职位、妇女以本人名义拥有土地、女性佃农代表进入分成法审议委员会和土地改革执行委员会；第7—8项要求产假与企业托儿设施。纲领说明段承认1957年后部分要求尚未实现，特别是妇女担任村长和婚姻法。**这可核实Gerwani公开提出了哪些制度诉求，不能据此断言政府已经实施或Gerwani对BTI存在指挥关系**。转录自身存在法规年份潜在不一致（说明段写UU 68/1958，纲领条款写68/1959），须查官方法律及原刊影印，不自行校正。
+
+本次检索：印尼语 `Gerwani seminar wanita tani 1961 Pabuaran Djenab Api Kartini`、英语 `Gerwani 1961 peasant women seminar land reform`；实际打开上述两份数字转录并与前轮1961年第1期第8页报道比较。访问等级均为2026年数字转录，不是原版扫描；两份材料均与Gerwani相关，来源依赖明显。
+
+**精准续查**：①取得《Api Kartini》1961年第2期8—9页影印与Djenab受访村Pabuaran的具体县区、村级妇女代表/土地登记记录，核姓名及量词bentel/gedeng；②取得1961-01-17至20全国农村妇女研讨会签署决议、出席名册及会后地方执行记录，区分组织宣传与现实效果；③取得1961-12 Gerwani第四届大会纲领原印本、会议记录及1960年第5号基本土地法第9条和妇女政治权利批准法准确年份，核转录；④用Git tree/原始blob或完整克隆定位chronology和恢复claim-ledger，正式四表语义去重后并库，再写农村妇女参与土地改革的连续中文历史正文；⑤轮换ANRI BTI 219/326、KOTI 16/31、SOBSI基层会费、北亚齐1966年304人及1970—2026政治犯/劳工/学生组织证据链。GOAL及G1—G10持续OPEN，不建旧HTML，不替作者政治判断。此文件无法在同一Git提交中自引用本提交SHA，准确SHA以写入返回及远程main核验为准。
+
 ## ONGOING / GOAL仍进行｜2026-11-17 23:55 CST｜1961年妇女组织活动同期交叉观察
 
 本次核读main的AGENTS、goal-continuity、stage-access、continuity-status及四份正式CSV的首段。claim-ledger.csv仍返回空正文（blob 055d63973823a3b9a5d70e8976ab40aa7f8c5713），未能全量去重；chronology仍待仓库树定位。本轮不占用正式S/C/Q/CV号、不改正式台账及中文正文，以免与并行研究冲突。写入前main HEAD=6a9ffa4fae1d691bef85d57d1d2ecedc3756068d。
