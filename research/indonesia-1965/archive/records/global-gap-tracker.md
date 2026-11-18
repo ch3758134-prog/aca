@@ -3537,3 +3537,16 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **不同G项G2/G8｜北苏门答腊，1965-11-01（国家安全档案馆印尼语专题说明直接阅读；电报1290原图/全文未核）**：https://nsarchive.gwu.edu/kedutaan-besar-mengikuti-berjalannya-pembunuhan-massal-di-indonesia-pada-tahun-1965 。档案馆说明将美国驻雅加达第1290号电报（1965-11-01，RG84 Entry P339 Box14 Folder4）定位为北苏门答腊油业工会PERBUM受打击的同期线索，转述使馆报告约600人已拘押、PERBUM领导层及Shell/Stanvac炼厂SOBSI干部被捕；同时提到PUSRI化肥厂干部。**仅证实档案馆如此介绍电报，不能将600当作独立核实总数，也不能默认PUSRI厂址位于北苏门答腊**。同页将Shell/Stanvac炼厂产权谈判与后来美国压力联系，但后者需要谈判备忘录、公司/印尼政府协议和电报正文核实，不以编辑说明定论。**缺件**：1290原文、PERBUM/SOBSI各厂干部名册、拘押名册、炼厂所在地与工会分会、公司产权谈判文书。**行动**：核电报1290扫描，逐厂拆分地点和组织，再与1965年前SOBSI会费/代表/工厂委员会及1966后人员变动相连。**阻碍**：当前只有编辑性介绍，未见厂级原件。
 
 **横向G1—G10保持OPEN**：G1早期组织与殖民原报；G2基层工农妇女青年文化组织；G3跨机关逐时命令；G4各省逐县暴力（Aceh、Medan、爪哇、巴厘、Flores、西加里曼丹、Sulawesi）；G5性别族群幸存者；G6监禁流亡再组织；G7改革后工会与政党；G8各国外部行动及企业交易；G9人物/组织/地点索引；G10正式台账去重、按事件时间排序的chronology及成熟中文HTML。下一续接精确入口：电报183原影印、11月22—23日Kediri/Malang地方报纸、东爪哇铁路5站记录、电报1290全文、PERBUM/SOBSI工厂干部名单。未修改正式CSV/chronology/HTML；GOAL未完成。
+
+
+---
+
+## ONGOING / GOAL仍进行｜2026-11-18｜重要地理纠错：电报1290实际报道南苏门答腊Palembang，不是北苏门答腊（G2/G4/G8/G9）
+
+**直接核读的原始文件OCR**：美国驻雅加达使馆1965-11-01第1290号电报，https://nsarchive.gwu.edu/media/15705/ocr （同期外交原件的公开OCR，尚未逐页核对影印；馆藏RG84 Entry P339 Box14 Folder4）。电报第一段明确写劳动专员1965-10-28至29访问的是 **Palembang, S Sumatra**；所称“约600名共产党人已被拘押”、Shell/Stanvac炼厂和PUSRI化肥厂SOBSI干部被捕，全部出现在**南苏门答腊巨港调查**中。电报并记Stanvac约30名印尼雇员被捕、包括PERBUM石油工会全部领导层；Shell Pladju炼厂及Prabumulih油田24名PERBUM成员被军队拘捕；PUSRI约1300名印尼工人中15名SOBSI干部被捕。**30、24、15属于不同企业/地点的报道，不能不经去重合计，也不能将600移植为北苏门答腊数字。** 美国国家安全档案馆2017年英文/印尼文编辑说明 https://nsarchive.gwu.edu/document/15705-document-9-telegram-1290-american-embassy 和 https://nsarchive.gwu.edu/kedutaan-besar-mengikuti-berjalannya-pembunuhan-massal-di-indonesia-pada-tahun-1965 将电报描述为“North Sumatra/Sumatra Utara”，与**电报原文地名直接冲突**。优先采信文件正文中的访问地点，正式标记编辑说明地理误述；先前本总账末段“北苏门答腊PERBUM”及前次用户汇报须据此更正。北苏门答腊Medan镇压应另查Medan领馆文件，不得以此电报代证。
+
+**新增原件层面的具体冲突与产业链**：电报第5页Shell管理方明确否认军方Ibnu Sutowo将炼厂火灾归因于破坏活动的说法，称生产未受影响、由Balikpapan炼厂承接；这是军方指控与公司当事方反证，不可写成已证实的工会破坏。电报还记军方考虑把Stanvac约3500工人中的至少1000人调往厂外劳动项目以便监督，**只是拟议，不是已经调走1000人**。另核对印尼国会法律数据库1963年第14号法律官方登记 https://jdih.dpr.go.id/setjen/detail-dokumen/tipe/uu/id/1420 ，确认1963-11-28批准国家石油企业与Caltex/Stanvac/Shell的工作协议；这是可继续追溯企业国有化、工会与军方管控的前史法律入口，当前仅官方法规元数据，未逐条读8页法条。
+
+**跨G项持续链 G4/G5 东爪哇**：再次核读1965-11-24美国驻泗水第183号电报OCR https://nsarchive.gwu.edu/media/15711/ocr ，5座车站因工人遇害/恐惧停运系领事引铁路负责人之言；25与29具河中尸体可能重复，Tulungagung 15000人属领事质疑的传闻。应以铁路停运日志、地方遇害者名单、11月22—23日报纸及军区交接命令进一步核验；不能以领事消息替代当地原件。
+
+**证据等级/覆盖/缺件/行动/阻碍**：G2/G8=1963—1965南苏门答腊Palembang、Pladju、Prabumulih、Sungaigerong、PUSRI、PERBUM/SOBSI、Shell/Stanvac、军方，原始外交电报OCR已读，厂级名单、军方拘捕令、火灾调查、企业交接原件未得；G4/G5=1965年11月东爪哇铁路与地方暴力，原始外交电报OCR已读，地方铁路/死亡登记未得。下一步：①核1290影印的地名、页码和数字；②查Pladju/Prabumulih/PUSRI 1965-10工会及拘押档案；③读1963年第14号法全文和1965-12 Shell交接协议；④核东爪哇铁路五站；⑤正式四表去重后纠正已有地理条目并更新chronology与成熟中文历史正文。正式台账路径已通过Git树确认在archive/records/，claim-ledger.csv读取首段仍为空，故不分配新S/C/Q/CV编号。G1—G10仍OPEN。
