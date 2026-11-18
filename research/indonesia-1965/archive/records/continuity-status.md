@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-19 07:48 CST｜南勿里达1968军事行动与粮食/土地/地方组织关系
+
+**本次基线**：GitHub main 在写入前与 e9396048dc4b396c0193c553eb2d683c1eebe44c compare identical；continuity-status原blob 593e51ce5e065dc8e531c94e3cbb5da5f32d1403。已读取 AGENTS、goal-continuity、stage-access、chronology 与四份正式CSV表头；source-register、claim-ledger可通过blob恢复，但未做全表去重，本次不占用正式S/C/Q/CV编号。
+
+**本次直接打开全文**：Vannessa Hearman, “Guerrillas, Guns, and Knives? Debating Insurgency in South Blitar, East Java, 1967–68”, Indonesia 89 (April 2010), pp.61 onward, https://www.researchgate.net/publication/259855251_Guerrillas_Guns_and_Knives_Debating_Insurgency_in_South_Blitar_East_Java_1967-68 ，网页公开文本已直接打开，研究论证与脚注可核读（并非其引用的原始访谈录音/军方档案）。文章pp.62–63记录Bakung/Suruhwadang的木竹住宅、油灯、木薯玉米主食及BTI/Lekra的地方存在；1955年PKI约85%选票是作者引用1969年军区史的数值，不能视作已查1955选举原表。文章脚注指向1971年IKIP Surabaya与Balai Penelitian Pendidikan对南勿里达儿童/寄养家庭的调查报告（pp.35–36），提供追查1968年行动后儿童安置与家庭迁移的具体原件入口。作者说明1969年军区《Operasi Trisula》既为详细作战资料又是新秩序政权叙事的一部分；军区资料和随后军史不能按多个独立证人计数。pp.66–67记载Banser成员作为hansip与军队行动的研究转述，指向Agus Sunyoto等1996年《Banser Berjihad Menumpas PKI》pp.161–180。作者还指向1968年《Skets Masa》特别报道及1969年军区原书，均待直接核读。
+
+**交叉检索与限制**：2015年Hearman “Sweet Potato Dreaming”期刊出版页 https://www.tandfonline.com/doi/full/10.1080/20549547.2015.11435413 已检索到摘要，但直接打开403；摘要指出军事行动对粮食种植消费及土地利用的影响，不能把摘要当作访谈全文。印尼文化部百科 https://esi.kemenbud.go.id/wiki/Peristiwa_Blitar_Selatan 检索摘要声称1968-07-03派Witarmin，与已记录5月18日任务指挥层日期明显不合；直接打开403，仅保留待核验线索。2022年detikJatim关于6月1日行动开始与2014研究6月5日封锁开始的差异继续OPEN。2010年Hearman文章对受访者关于是否武装抵抗的分歧并列讨论，不能把任一方的自述或军方定性直接写为无争议事实。
+
+**下一次精准执行**：(1) 在正式source-register与claim-ledger完整blob中检索Hearman 2010、2015及1971 IKIP报告、1969军区史和1996 Banser书，核对已有ID后登记；(2) 获取1971年儿童寄养调查pp.35–36及其样本/方法，核实儿童迁移与家庭生产的关系；(3) 获取1969年《Operasi Trisula》原书中村级代理干部与居民迁移表，核对72/234人数差异；(4) 获取Hearman 2015 pp.90–97与所引美国领事Kenney报告，查道路、搬迁、土地登记与粮食生产是否为不同阶段；(5) 核对1968年5—7月行动命令/日报及Banser征召名单，按正式四表去重后更新chronology与成熟中文历史叙述。GOAL/G1—G10继续OPEN；不替作者政治判断。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-19 06:55 CST｜南勿里达地方民兵、受害者身份与史料冲突
 
 **本次读取及Git基线**：已读取AGENTS.md、goal-continuity.md、stage-access.md、chronology.md及四份正式CSV的表头/片段；source-register与claim-ledger另通过blob成功读取全量（分别约915KB、1.81MB），但本次未安全完成全量逐行去重和正式编号写入。写入前main HEAD `f32451ea4c66170db2052778ed0ca2b48cf49f8f`；本文件原blob `26a3574e4f947d48074f02d29039f388070f27aa`。本条记录不得自称写入后commit SHA；以写入返回值和远程回读为准。
