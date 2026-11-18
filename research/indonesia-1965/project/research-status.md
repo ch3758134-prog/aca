@@ -1039,3 +1039,11 @@ Liem转引Brawijaya军史称南勿里达有234名ABRI村务代理；农民Ruslan
 后出叙述中的“2000人”与“第五力量”可能指不同时间、地点、统计类别。Humaidi和2012年作者在关键训练细节上共同引用Katoppo 1999 pp.29–36，不能当作独立互证；Rawabinong 200/26人则另涉Soedarmanto 2004传记及匿名“Bung So”。1994官方叙述把培训、28 August/28 September决定、四个营与G30S连接，但当前只见个人博客转录，原令、密电、名册和分队表缺失。
 
 已在独立事件词条中按法源、实际训练链、人数类别、Rawabinong和“Bung So”来源依赖展开；chronology补入1962法规和1965争议节点。ANRI no.257–259仍只读目录；ANRI官方LARISSA/邮件检索与复制流程已找到，但没有发送外部申请。未改HTML或作者立场文件。下一步优先取得ANRI原件、3月10日AURI指示及无线电收发簿、Halim训练/军械账、Katoppo和Soedarmanto原书，并核对军方审讯/庭审原件。
+
+## 2026-11-18 UTC｜第五力量总统公开表述、ANRI目录和KOTARI经济机构（ONGOING）
+
+新增S1452–S1458、C2743–C2754、Q557、CV632。ANRI总统讲话目录项750定位1965-05-31 Lemhannas讲话，项779–781分别定位8月17日三场活动演讲；这些是目录记录，不是讲话正文。BPIP托管的Unhan RI Press 2023年演讲话目把5月31日Lemhannas讲话列219、8月17日TAKARI列223。Wikisource的印尼文TAKARI转录显示，苏加诺称第五力量是自己提出的主张，但说作为最高统帅进一步考虑后再决定；他称ABRI为人民防卫核心，并称必要时可以由仍在生产的工农暂时携枪。这记录了公开思想与当时决策状态，不证明正式组建、训练、征召或发枪。TAKARI小册子书目页数冲突（Google Books 51页、CiNii 48页），需检查实体/扫描版本。
+
+第256号总统决定（31 Aug）成立KOTARI推进经济自力更生；第257号（2 Sep）任命Achmad Jusuf为参谋长；第258号（3 Sep）设财务、基础设施、生产、贸易和大众媒体五个部门；第259号（3 Sep）任命部门负责人，其中四名以准将或少将军衔列名。这显示KOTARI经济行政的军职—内阁交叠，但不作第五力量证据。演说中关于美国支持BPS和援助马来西亚的内容登记为苏加诺同时期指控，待美国政策档案、报刊和BPS原件逐项核验。
+
+本轮已更新独立事件词条、chronology、global-gap-tracker、continuity-status与research-status；未动HTML或作者立场。下一步优先取ANRI项750、779–781原件和31 May讲稿，核对TAKARI版本，再查各军种方案/KOTARI执行材料及美方BPS渠道档案。GOAL仍OPEN。
