@@ -1,3 +1,9 @@
+## ONGOING / GOAL仍进行｜2026-11-18｜G3广播命令与G4巴厘起始时点
+
+已按要求读取2026-11-09 G1—G10完整性审计、AGENTS、stage-access、goal-continuity，并读取现有正式四CSV、chronology、research-status及滚动缺口总账。当前轮换两链：1965-10-03 01:30苏加诺RRI讲话公开转录（全文打开，非录音原件）；巴厘1965年11月至12月杀戮起始与RPKAD抵达的时点争议（Robinson索引/脚注可见，全文403；1965-12-21 A-408目录/摘要可见，非电报全文）。证据和缺失原件详见global-gap-tracker.md 2026-11-18条目。未分配正式S/C/Q/CV编号，未把摘要冒充全文，正式CSV与中文HTML尚未并入。
+
+**精确续接**：①寻找1965-10-03 RRI广播录音、1965年10月3—4日印尼语报纸版面和苏加诺原始签署命令，核对Pranoto/Suharto职责；②取得Jenkins/Kammen巴厘RPKAD论文全文及所引11月地方暴力记录；③取得A-408原始扫描正文、核对12月21日死亡估计的来源链；④再轮换Flores/Sulawesi县级拘捕名单与1998后工会地方登记。所有G项仍OPEN；不能以本次提交作为完成节点。
+
 ## ONGOING / GOAL仍进行｜2026-11-18｜PP 53/1951公务员产假原文与地方档案线索（正式并库待核）
 
 本次重新读取AGENTS、goal-continuity、stage-access、正式source-register/search-log/coverage-matrix首段、claim-ledger读取尝试与chronology；claim-ledger虽返回blob SHA ce7e8d1e8d2069208f84f085e6160edb90631e18，但指定行范围仍返回空文本，不能完成全量语义去重，故未编造S/C/Q/CV编号。该缺口不应阻止其他时期研究；后续须采用分块/本地git或blob下载方法恢复正式并库。
