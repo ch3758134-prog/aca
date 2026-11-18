@@ -3272,3 +3272,14 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **不同G项G2/G6/G9｜国营企业劳工组织替代，1965-12-27 Surabaya，来源等级：同一同期领事电报OCR第2页，非工厂原始雇佣簿。** 电报第3段「Growth in Power of SARBUMUSI」称领事听闻国营企业应聘者须为退伍军人或NU工会联合会SARBUMUSI成员，而此前条件为退伍军人或SOBSI成员；另称SARBUMUSI对私企经营干预增加。**这是领事收到的未经具体工厂验证的用工准入传闻，不能据此断言东爪哇全部国企已经正式改制，更不能认定SOBSI成员一律被解雇。** 该线索把G2的SOBSI企业组织、G4镇压、G6之后工会代表权断裂连成可检验的具体企业问题。缺失：1965—1967 Surabaya国企招聘通知、SOBSI/SARBUMUSI工厂支部成员簿、退伍军人安置政策、企业董事会决议、工资名册及离职原因。行动：以泗水港口、国营铁路及国有化企业为入口，查地方报纸/企业档案中招聘资格的正式文本，按具体企业和月份对照工会成员变动；不把同一电报重复计作两份来源。
 
 **G1—G10全部OPEN：** G1早期组织及革命；G2基层工厂与妇女农民青年文化；G3跨机关逐时；G4各省县杀戮与财产；G5妇女族群幸存者；G6监禁流亡及组织重建；G7改革后工会政党；G8外国政策实际交付；G9地点人物工厂关联；G10正式四表去重、chronology按事件排序、中文连续HTML。**续接点：** 先核212号影印第2页SARBUMUSI段及Madiun段，再找1965—1967泗水国企招聘通知、Madiun军警转押簿；轮换Aceh县级议事录、Flores BAP及1998后工厂工会执行档案。长期GOAL未完成。
+
+
+## ONGOING｜2026-11-18｜G4/G5/G9 Flores Sikka县名单—KOMOP—Gelinting拘押链；G2/G6 Surabaya国企工会准入（OPEN）
+
+**治理与去重**：本次读取G1—G10审计、AGENTS、stage-access、goal-continuity、continuity-status、chronology、source-register、search-log、coverage-matrix和本总账。正式claim-ledger.csv GitHub读取空正文（本次blob 3ddc9e496a78762cf67a12209e12fb345ecccc6c），不新增正式S/C/Q/CV。Komnas HAM 2012报告已有正式S859；美国驻泗水212号电报已在此前总账记载，不另造独立来源。
+
+**G4/G5/G9｜Flores岛Sikka/Maumere，约1966年，来源级别：2012年Komnas HAM官方调查执行摘要印尼语全文已打开并精读印刷pp.117–121（https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ，S859）；摘要转录2008年证人BAP，非1966年军警原件、名单或法庭认定。** p.118–119记证人Yakobus Heret称Kampung Flores Timur一次约84名被绑人员送往预挖坑处，称其中36人来自监狱，另有山地抓捕者；其称自己被迫杀10人、兄长杀1人，拒绝将被指为PKI。p.120–121的另一证词（BAP/35/BAP_TPPH 65/VIII/2008）提供特别可检验的县级行政链：Way Gete 28名男子、Liang 9名男子据称被押往Maumere；证人称曾收到县政府名单及由Sikka县长Ps. Dakunya签名的附函，并受KOMOP指挥官Sumarno命令给被捕者戴手铐，随后送至包括Gelinting在内的警署。报告另引证人估算至3月15日Gelinting约500人被杀，**这只是证人估计，不是已审计死亡名册；84人、28人、9人、500人之间可能重叠，绝不可相加。** 调查机构据这些证词分析计划性和指挥关系，是机构的法律初步评价，不是已经作出刑事判决。这里出现县长签函→县政府名单→KOMOP押送→警署拘押的具体可检验链，较泛论宗教身份更有取件价值。**缺失原件**：BAP/35全文及Yakobus Heret BAP、Ps. Dakunya签名附函与县级名单、Way Gete/Liang逐人登记、KOMOP Sumarno命令及Gelinting羁押/死亡登记、现场考古及证人交叉询问；报告未直接给出每名受害者身份与具体死亡日期。下一步申请Komnas HAM BAP/35及相关证词可公开版本，向Sikka县档案/警署追名单和转押簿，逐人比对并区分Maumere县城、Flores Timur村与Flores Timur县的地名层级。
+
+**不同G项G2/G6｜Surabaya 1965-12-27，来源级别：美国领事同期电报212号OCR全文直接重开 https://nsarchive.gwu.edu/media/15722/ocr （馆藏 https://nsarchive.gwu.edu/document/15722-document-26-telegram-212-american-consul ）。** 第2页第3段称领事“we have heard”国营企业招工资格从退伍军人或SOBSI成员变为退伍军人或SARBUMUSI成员；第4段另记Madiun PNI内部HARDI/ALI派系、Madiun指挥官Hilly Soedjono和《Berita Republik》发行争议。**前者是未列具体企业的领事听闻，后者是领事转述12月27日报纸，两者不能证实某厂执行或全部PNI派系服从军方。** 缺失：国企招聘广告/董事会决议、SOBSI和SARBUMUSI工厂名册、12月27日当地原报及PNI地方函电。行动：从泗水港口/铁路/国有化企业选具体企业与月份检索；同一电报不重复计算独立证据。
+
+**G1—G10继续OPEN**：G1殖民与革命原报；G2基层工会妇女农民青年文化；G3跨机关逐时；G4 Aceh/Medan/爪哇/Bali/Flores/Kalimantan/Sulawesi县级；G5族群性别幸存者；G6监禁流亡再组织；G7改革后工厂与政党；G8英美澳中苏具体行动；G9人名/县村/组织关联；G10正式CSV去重、事件排序时间线和中文连续正文。未宣称全量完成。
