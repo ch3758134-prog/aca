@@ -3576,3 +3576,18 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **不同G项G6/G7｜全国，1998年结社权转折；来源等级：印尼劳工部公布总统令83/1998正式PDF全文可见、BPK官方法规登记直接核对，ILO 1998-06-10同期公告全文已读。** 原令：https://jdih.kemnaker.go.id/asset/data_puu/peraturan_file_74.pdf ，官方登记：https://peraturan.bpk.go.id/Details/59198/keppres-no-83-tahun-1998 ，ILO公告：https://www.ilo.org/resource/news/indonesia-pledges-respect-trade-union-rights-ratifies-key-ilo-convention-no 。第83号总统令1998-06-05签署、公布并生效，批准ILO第87号结社自由公约；ILO在6月10日公告中记载同日雅加达批准，劳工部长Fahmi Idris在日内瓦通知总干事。**总统令国内批准、ILO通知、联合国条约登记（UNTC显示1998-08-27）是不同法律/登记事件，不可混成一个日期**；不能从批准直接推断地方工会实际获登记。与此前1998—2000 SBSI登记争议、2000年第21号工会法相连，继续追地方行政执行。**缺件**：1998年ILO收文登记与生效口径、1998—2002各省工会登记簿、SBSI原始申请/拒绝函、1999年ILO第316/318号委员会完整报告及基层工厂证据。**行动**：对照ILO NORMLEX印尼条目核国际法生效日，取得SBSI登记档案与工厂案例；区分法律、行政实践和工人实际组织。**阻碍**：法律和ILO公告不包含地方执行名册。
 
 **滚动横向未结**：G1 ISDV/SI/1926—27及1948；G2 SOBSI/BTI/Gerwani/青年文化基层；G3 1965跨机关逐时；G4 Aceh、Medan、爪哇、巴厘、Flores、West Kalimantan、Sulawesi地方原件；G5性别、宗教、族群、幸存者；G6拘押、流亡、1990年代再组织；G7 1998—2026工会政党；G8英美澳中苏；G9人物地点组织索引；G10正式CSV去重、chronology和成熟中文连续HTML。**精确续接**：①Flores 1966-03-15军函原图；②1966-04-28主教函及1967-05-08会议记录；③Wolokoli 45人身份；④ILO NORMLEX 87号印尼生效条目与1998—2002 SBSI地方登记；⑤切回Surakarta 1965-10-23联合安全参谋部原令及Aceh县级材料。未声称正式CSV、时间线、中文正文已同步；GOAL未完成。
+
+
+---
+
+## ONGOING / GOAL仍进行｜2026-11-18｜G4/G5西加里曼丹1966—1967地方强制迁移与军方责任争议；G3/G4东爪哇1965-12-22外交电报（OPEN）
+
+**治理/证据级别**：本次重新读取main的AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09 G1—G10、continuity-status、本总账及正式source-register、search-log、coverage-matrix、chronology；claim-ledger.csv接口仍返回空正文，故不分配S/C/Q/CV编号、不宣称四表已同步。新资料先作可追溯核验记录，等待正式去重。G1—G10均OPEN。
+
+**跨地区高价值缺口G4/G5/G6/G8/G9｜西加里曼丹1966—1967；资料级别：Taufiq Tanasaldy《Regime Change and Ethnic Politics in Indonesia: Dayak Politics of West Kalimantan》（KITLV Press 2012）开放全文实际阅读，特别是印刷pp.140—146及脚注；学者转引地方文书、军方简报、报刊和访谈，非直接取得地方原件。** 开放全文 https://library.oapen.org/bitstream/handle/20.500.12657/34518/1/421239.pdf 。书中指出1966年4月底省内华校已关闭，1966年12月军方召集中华公会地方领导人赴Pontianak，计划驱逐却未如期实施；1967年初有约8000人被迫参与Singkawang—Seluas筑路、3000人Sanggau开垦、600人Semitau营房建设（书引Davidson 2008:61，数字尚无工地/劳役名单）。1967年1月边境5英里居住限制与首批5000人迁移为作者转引Van der Kroef；1967-02-17约545人被集中Pontianak等待遣返，因无船运而返村（脚注所引1981-12-14军区简报，尚未读原件）。1967年4月所谓遣返350000人属**政府计划**且作者指出1971年全省华人人口约226216，不能当成实施人数或可信地方人数。
+
+**1967年事件与反证**：书pp.139—146将1966-08-11印马结束对抗、1966-10军方反游击行动、1967-07-16 Sanggau Ledo军械库遭袭、1967秋针对华人暴力联系起来。书中明确质疑“军方从中央统一预先策划全部驱逐”的单线解释：Pontianak县长、军官Usman Idris在1967-11-09据《Pembangunan》要求把华人农民送回耕地；一些地方军人阻止暴力，另有Bengkayang地方军人鼓励驱逐的证词。军方角色必须按机关、地区、日期区分，不把局部鼓动等同全国统一命令，也不因局部阻止就否定暴力。书pp.145—147另列游击队与达雅克村民的冲突、1967-09-03 Tamu九人遇害等报道，需查原报和地方证人，不能自动接受任何一方政治归因。**缺失原件**：1967年《Pengungsian orang2 Tjina ... Kabupaten Pontianak dan Kabupaten Sambas》省长办公室藏本；1981-12-14 Pangdam XII/TPR军事简报；1967-11-17 A.J. Witono公告、1967-11-09《Pembangunan》、1967-09—11地方报刊；1969-04-22 S. Jacobus E. Frans Layang文书；工地劳动名单、村级驱逐/死亡/财产登记。**下一行动**：按书脚注与印刷页码向Pontianak省长办公室图书室、地方档案、教会和报馆逐件核影印，比较Usman Idris地方命令与Witono军令；逐县区分被杀、驱逐、集中、强制劳动及计划遣返。**障碍**：2012研究虽开放全文，但大多数地方原件未公开扫描，数字来自不同年份和作者，不可相加。
+
+**另一研究链G3/G4/G5/G8｜东爪哇与巴厘1965-12-22；资料级别：美国国家安全档案馆Document 25、泗水领事第203号电报的正式馆藏目录及编辑摘要直接核对，原始电报OCR页面已打开但本次未获得可逐行复核的正文。** https://nsarchive.gwu.edu/document/15721-document-25-telegram-203-american-consul ，馆藏RG84 Entry P339 Box14 Folder7。目录转述电报称东爪哇军方夜间将10—15名被拘押者交给穆斯林团体处决，并报告巴厘华人商店遭焚；**10—15是外交官记录的报告，不是逐夜已证实人数；“军方容许/组织”责任需要原件和县级记录核实**。下一步直接核电报PDF影印及OCR完整段落，再与此前11月24日第183号电报、地方拘押释放簿、东爪哇铁路停运、巴厘华商名册与报纸交叉；不以档案馆编辑性解释替代原电报或印尼军令。
+
+**横向接力**：G1殖民与革命组织；G2工农妇女青年文化基层；G3跨机关军令与司法；G4各省地方暴力；G5被害/强迫劳动/族群；G6拘押流亡及后续再组织；G7改革后劳工政党；G8外部行动及跨境游击；G9地名人物组织索引；G10正式CSV、chronology与成熟中文连续正文。精确下一步：①Pontianak省长办公室1967年《Pengungsian》原卷；②1981-12-14 Pangdam简报；③1967-11-09《Pembangunan》与Usman Idris命令；④泗水203号电报PDF及县级拘押名册；⑤恢复claim-ledger分片/完整读取后去重并库。长期GOAL未完成。
