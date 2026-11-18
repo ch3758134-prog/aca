@@ -1,3 +1,19 @@
+## ONGOING / GOAL仍进行｜2026-11-19 04:54 CST｜1968年南勿里达Trisula行动：511营研究全文核读
+
+**本次直接打开的印尼语学术全文**：Supriaji Kuntoro、Sumarno，〈Peranan Batalyon Infanteri 511/Dibyatara Yudha Blitar dalam Operasi Trisula di Blitar Selatan Tahun 1968〉，《AVATARA》2(3), 2014，印刷页609—623，PDF https://ejournal.unesa.ac.id/index.php/avatara/article/view/9243/9180 。直接核读第609—612页（PDF页1—4），包括研究方法与组织结构段落；并非1968年军令原件。论文引用军区历史部门1974年《Sam Karya Bhirawa Anoraga II》，并记录2014-07-16对退役511营军人Ruslan（曾任Bakung村代理村长）的访谈，以及地方参与者Fauzan访谈（PDF页610）；访谈录音/笔记尚未取得。
+
+**可追踪的组织与地方事实主张（仍属二手）**：该文印刷页612（PDF第4页）称东爪哇有八个Compro（委员会项目/据点），分别为Raung-Argopuro、Semeru Selatan、Malang Selatan、KKA（Kelud/Kawi/Arjuno）、Gunung Kendeng、Lawu、Benjeng、Blitar Selatan；将BAGITPROP（宣传鼓动机构）与Rewang关联，并区分DETGA游击分队与GERDA村级游击队，称前军官Pratomo参与军事训练。需核验组织内部文件、军区原档及独立研究；不能将论文沿用的军方“潜在威胁”“完全消灭”等判断当作事实。论文还指出南部地形交通困难、农业贫困与土地/牲畜分成关系，但其概括性描述及引用的2011年论文须独立复核。
+
+**反证及竞争解释入口**：Geoffrey Robinson等研究之外，Jess Melvin等地方史须具体比对；特别追查Annie Pohlman/Jess Melvin之外的Vannessa Hearman《Unmarked Graves》关于南勿里达平民死亡、强制迁移和战后重建的档案与访谈。2017年学术文章〈Contesting Victimhood in the Indonesian Anti-Communist Violence and Its Implications for Justice for the Victims of the 1968 South Blitar Trisula Operation in East Java〉可检索摘要及部分文本 https://www.tandfonline.com/doi/full/10.1080/14623528.2017.1393943 ，但本次直接打开403，不能称为全文核读。官方文化百科 https://esi.kemenbud.go.id/wiki/Peristiwa_Blitar_Selatan 亦403，仅检索索引。应比较军方“镇压武装据点”叙事与村民受害、村级行政替换、长期政治监控等记录。
+
+**登记与写作限制**：本次已读取AGENTS、goal-continuity、stage-access、续接状态、chronology及四正式CSV的可访问内容；claim-ledger.csv（blob 3d828e018fa05541e84866b5d77af0bde14f0764）接口返回空正文，无法安全核查C编号与重复记录。故新材料先在续接状态保留稳定URL/页码/访问级别，不冒用正式S/C/Q/CV号，也不将未登记二手论断写成确定的chronology或成熟中文正文。应优先恢复大CSV的Git blob分页/导出与正式台账去重。
+
+**精准未完事项**：①核读本论文第613—623页，逐项提取511营行动、命令号、日期及脚注原件出处；②找1974年军区史《Sam Karya Bhirawa Anoraga II》页74及PRINOP 01/02/1968、02/05/1968原令，核验军事指挥链；③取得Ruslan/Fauzan访谈记录与村民口述，区分战斗人员、村民及不同死亡人数口径；④取得Hearman《Unmarked Graves》南勿里达章节并核验当地政治与土地/劳工关系；⑤恢复claim-ledger全量读取后进行四表去重、chronology与中文连续历史正文，随后轮换SOBSI/BTI/Gerwani与1998年后劳工组织链。
+
+**写入前GitHub main HEAD**：待通过本次提交后回读确认；本文件不自指提交SHA。GOAL及G1—G10保持OPEN。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-19 03:47 CST｜香格里拉工会分裂及人数口径：2001年4月同期报道原文
 
 **本次直接打开的同期报纸转载全文**：《The Jakarta Post》2001-04-11《Shangri-La union executives resign after uncertain wait》，现存于 https://jawawa.id/newsitem/shangri-la-union-executives-resign-after-uncertain-wait-1447893297 （全文第9—65行）。记者采访SPMS副主席Denny Setiadi、Frits Risakota、财务Budi Susanto和员工Ismail，报道工人于2001-03-31分为约100名继续法律争取和约350名准备辞职的群体；Budi称补偿Rp300万—3000万。报道中Budi否认主席Halilintar Nurdin有关干部受管理层佣金诱导的指控，双方说法不可当作事实定论。酒店经理Wastu Widanto声称截至4月10日400名工人辞职，原参与罢工者579人；这一酒店方统计与工会干部所述350人不是同一口径，须按日期、劳动身份和统计对象核对。Ismail陈述为支付子女学费变卖家庭物品，属于同期当事人个人证言，不代表全部工人。原报由第三方转载，尚未取得报纸影印版。
