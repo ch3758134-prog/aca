@@ -1,3 +1,17 @@
+## ONGOING / GOAL仍进行｜2026-11-18｜A-408美国使馆原件影印核读：巴厘万人估计的证言层级
+
+本次按AGENTS、goal-continuity及stage-access授权继续调查；正式四CSV首段和chronology首段已读取，claim-ledger.csv通过GitHub读取返回空正文（blob SHA 3d828e018fa05541e84866b5d77af0bde14f0764），故没有擅自分配S/C/Q/CV编号或覆盖台账。优先追踪上轮尚未取得的1965-12-21美国驻雅加达使馆A-408原始扫描，而不是重复二手文献。
+
+**新取得并实际打开的原件影印**：美国国家安全档案馆所藏7页扫描，Airgram A-408, Joint Weeka No.48, 1965-12-21，RG84 Entry P339 Jakarta Embassy Files Box10 Folder12。原件 https://nsarchive.gwu.edu/sites/default/files/documents/4107034/Document-24-Airgram-A-408-Joint-Weeka-No-48-from.pdf ，档案说明 https://nsarchive.gwu.edu/document/15720-document-24-airgram-408-joint-weeka-no-48 。本次直接核读扫描第2、3页（文件页索引1、2）；网站OCR严重乱码，不据此逐字引用。第3页“PKI Repression”一节a称全国约100,000名PKI相关者死亡，属于当时使馆估计而非经独立人口统计核实的死亡人数；同页b明确标示消息来源为“一名可靠的巴厘消息人士”，报告巴厘约10,000名PKI相关者死亡，且包括省长Sutedja的父母和远亲，称Sutedja与妻子因示威者焚烧其住所而逃至雅加达。此处消息为使馆转述单一匿名地方来源，且亲属死亡、住所焚烧、迁移细节均须另找地方原件核对，不能当作独立核实事实。该报告不能单独确定杀戮的起始日、RPKAD部队到达日或最终死亡人数。第2页另记载12月10日Suharto获指定特别军事法庭成员的权力及12月14日宫廷人事公告，系当时使馆政治观察，需对照印尼正式法令。
+
+**反证与交叉**：John Roosa 2013论文第20页脚注依据12月10、11日《Suara Indonesia》报道推定RPKAD分别在12月7日、10日抵达；Geoffrey Robinson 2017年论文注15承认已有杀戮先于部队抵达，且其后明显升级。A-408证明截至12月21日使馆收到巴厘死亡人数估计，但不验证这些日期及因果关系。国家安全档案馆2017-10-17说明页是编者注释，与原件第3页证据层级不同。来源 https://www.oralhistoryforum.ca/index.php/ohf/article/download/528/606/528-Article%20Text-2157-1-10-20130822.pdf ; https://doi.org/10.1080/14623528.2017.1393935 。
+
+**下一步精准任务**：①逐页核读A-408其余扫描页，特别核对首末页签署和报告期间，避免OCR将1965误识为1968；②取得1965-12-10/11《Suara Indonesia》影印与Jenkins/Kammen 2012第99—102页，查12月7日前具体地点和目击证据；③查Bali 1965年12月地方报刊、警察与军区文件，验证Sutedja亲属死亡和住所事件；④追查使馆“reliable Balinese source”的身份/来源链以及不同死亡数字形成时点；⑤恢复正式claim-ledger完整读取、四表去重并库、chronology和成熟中文历史章节；同时轮换1970—2026劳工学生组织史。GOAL与各子项继续OPEN，不宣称穷尽。
+
+**Git追踪**：本节写入前远程文件blob SHA 3f2c65f4d76090f34074cdec1b3577dd96290c63；写入产生的commit SHA必须以GitHub返回值及随后main比较核实，不在提交正文预填自指SHA。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-18｜巴厘RPKAD抵达日期与屠杀先后：史学争议进一步定位
 
 本次重读AGENTS、goal-continuity、stage-access、continuity-status、chronology及四份正式CSV的首段；claim-ledger分段读取仍返回空文本（本次blob SHA 3d828e018fa05541e84866b5d77af0bde14f0764），因此未虚构S/C/Q/CV正式编号。发现已有另一研究者当日更新G3广播与G4巴厘线索，需在正式台账全量去重后合并，不覆盖其工作。
