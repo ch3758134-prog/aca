@@ -3469,3 +3469,14 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **延续G4/G5（1965年10月，亚齐Langsa与South Aceh；Baperki、Kodim-0104、地方华裔居民）**：重新核对已有正式来源**S612** Jess Melvin 2013论文出版页和可检索全文内容，https://journals.sagepub.com/doi/10.1177/186810341303200304 。作者转引**1965-10-18 Langsa Baperki领导人声明（Pernjataan 1965:1）**：声明叙述10月11日Kodim-0104指挥官Iljas Mahmud在军区食堂向其领导人解释G30S并指控Baperki关联；另转引1966年军方《Chronologis》称10月14日South Aceh Blang Pidie有五人遇害，其中四名华裔，Sama Dua另有十人遇害，其中四名华裔。**访问等级：S612既有学术转录；本次未直接阅读Pernjataan原纸或军方逐页原文；不能把两组数字加成全省死亡数，也不能独立认证名单、执行者和动机。**既有Q525曾目视检查军方年报部分页图，仍须具体比对原页和声明签名。**下一动作**：定位Pernjataan 1965影印、Langsa Kodim-0104 10月11日会议记录、10月14日两地死亡及财产登记；核对Baperki各人签署是否自愿、广播引文真伪、县级军警指令和受害者身份。两链不同年代/地区/来源层级，不将同一作者的论文与其转录当成独立证据。
 
 **续接精确位置**：先核对MR 510x/1919档案可申请性与馆藏目录；并回读S612、S855及Q525，寻找Pernjataan影印和《Chronologis》对应页。正式claim-ledger读取问题修复后再去重分配S/C/Q/CV并更新chronology及briefs/readable-history中文连续正文。G1—G10和总GOAL均OPEN；此记录不是阶段完成。
+
+
+## 2026-11-18｜G4/G3 亚齐军区原始档案取件路径；G7 2000年工会法实施边界（OPEN）
+
+**本次读取**：AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09（G1—G10）、continuity-status和本总账。研究根目录下chronology及四CSV直取404，尚未完成其真实路径的全表读取与去重；不得据此断言文件不存在。G1—G10均OPEN。
+
+**长期链 G4/G3（Aceh，1965—1967；Kodam-I/Kohanda Atjeh、Ishak Djuarsa、县政府）**：直接访问Jess Melvin《The Army and the Indonesian Genocide》2018年著作的可读引言文本（https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf），作者明确叙述其取得的1965年亚齐军区250页年度报告，内含89页镇压叙述、按县死亡统计地图、军区到村级的指挥组织图、武器和民兵分布表，以及10月1日至12月22日逐小时的21页年表。作者另在亚齐政府档案馆取得17个档案卷、约3000页复印件，其中1965年10月11日西亚齐地方政府特别会议卷有八份共21页文件，包含班达亚齐发出的行政命令；另有东亚齐Pantja Sila Defence Front成立及地方政府支持文件。**证据等级：已阅学者对原始档案的发现、内容及保存过程的直接叙述，未直接阅览250页军区年报或17卷原件；不能把作者概述升级为逐页军令核验。** 对照Routledge官方书目 https://www.routledge.com/the-Army-and-the-Indonesian-Genocide-Mechanics-of-Mass-Murder/Melvin/p/book/9781138574694 核对该书2018年出版及第三至第七章的时间主题。**缺件**：Kodam-I/Kohanda Atjeh 1965完整年度报告、1965-10-11西亚齐会议21页、东亚齐民兵成立/财政支持文件、各县拘捕死亡登记。**行动**：优先定位原件影印与页码，将10月1—11日军区命令和县级转发、民兵资源及执行区县逐日对照；与Langsa Baperki 10月18日声明和1966年军方年表交叉核对。**阻碍**：目前只有学者直接阅档叙述，未获取其引用档案的完整扫描；本次未重复声称首次发现档案。
+
+**不同G项链 G7（全国，2000年；工会、地方劳工部门、Wahid政府）**：直接核验印尼劳工部官方法规登记 https://jdih.kemnaker.go.id/peraturan/detail/32/undang-undang-nomor-21-tahun-2000 与BPK法规登记 https://peraturan.bpk.go.id/Details/44988/uu-no-21-tahun-2000 ：第21号《工会法》2000年8月4日制定、公布并生效，签署人为Abdurrahman Wahid。官方摘要记载工人可至少10人组建工会；第18条要求书面通知当地劳工主管机关取得登记凭证，第25条涉及已登记工会代表权。**证据等级：官方法规登记及摘要已阅，另定位政府法律PDF https://peraturan.bpk.go.id/Download/33380/UU%20Nomor%2021%20Tahun%202000.pdf；尚须逐条核对法条原文和地方执行材料。** 此法律与1998年ILO第87号公约批准/1999年生效是不同法律事件；不能将2000年成文法直接当作基层自由结社已落实。**缺件**：2000—2002各县工会登记簿、拒绝登记及申诉、企业集体谈判记录、旧工会改组证据。**行动**：逐条读第5、18、20、25及过渡条款，查劳动部实施规章与地方登记样本；与1996年ILO第1773号案件及SBSI基层组织衔接。**阻碍**：官方法规说明只证明法律设计，不证明厂级实践。
+
+**全局未闭合**：G1殖民原件，G2群众组织基层，G3跨机关命令，G4全国地方差异，G5幸存者及性别族群，G6拘押流亡再组织，G7改革后基层，G8外国档案，G9人物地点组织索引，G10正式CSV与统一chronology、连续中文正文均继续OPEN。正式S/C/Q/CV编号未新增，chronology与HTML未更新；后续先找真实台账路径并去重，不得以本总账替代正式并库。
