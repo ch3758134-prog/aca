@@ -1,3 +1,17 @@
+## ONGOING / GOAL仍进行｜2026-11-19 06:55 CST｜南勿里达地方民兵、受害者身份与史料冲突
+
+**本次读取及Git基线**：已读取AGENTS.md、goal-continuity.md、stage-access.md、chronology.md及四份正式CSV的表头/片段；source-register与claim-ledger另通过blob成功读取全量（分别约915KB、1.81MB），但本次未安全完成全量逐行去重和正式编号写入。写入前main HEAD `f32451ea4c66170db2052778ed0ca2b48cf49f8f`；本文件原blob `26a3574e4f947d48074f02d29039f388070f27aa`。本条记录不得自称写入后commit SHA；以写入返回值和远程回读为准。
+
+**本次实际打开材料及证据层级**：Vannessa Hearman (2019), “Perebutan status sebagai korban...”, 收于《1965 Pada Masa Kini》pp.101–130，大学机构书目及作者摘要已直接打开，章节全文未取得：https://researchers.cdu.edu.au/en/publications/the-struggle-for-status-as-a-victim-in-anti-communist-violence-an/ 。摘要称1966–68年为逃亡左翼提供支持的南勿里达村民，其受害者身份因军事/政府叙事与受害者层级而长期难获承认；两家地方NGO曾有限协助。此为作者研究摘要，非个案原始访谈。
+
+Erliana Riady (2022-09-30), detikJatim，《Sejarah PKI di Blitar Selatan: Pemberontakan, Penumpasan dan Rekonsiliasi》，全文已打开：https://www.detik.com/jatim/budaya/d-6322333/sejarah-pki-di-blitar-selatan-pemberontakan-penumpasan-dan-rekonsiliasi 。第157–176段叙述1968-05-18任务指挥部、1968-06-06空军Elang编组令（转引2004年空军史），并采访前Banser负责人Imron Rosidi（本人明确未亲历，转述前辈Khudori）与参与者Raban Yuwono；报道第186–198段引用Banser人士对Gus Dur时代以后村落和解的描述。新闻既转引军方出版物又含不同代际证词，不得把这些当成相互独立的1968年原始记录。
+
+**新的交叉核验与未解决冲突**：此前Kuntoro研究记1968-06-05封锁行动开始；2022报道称1968-06-01行动正式开始，可能分别指不同作战阶段，必须核对原始PRINOP及行动日报。此前Kuntoro的1968-05-18指挥部成立与新闻一致，但两者可能同依军区史，不能称独立确认。2022报道的约4000人被拘数字未给出名册或口径，不能与正式逮捕、羁押、审判人数混算。2022采访称Banser成员以Hansip制服协助军队，为此前军方研究的Hansip/Wanra参与提供一条具名但转述性的组织联系线索；需追村级征召名单、Banser地方记录及不同村民证词。印尼文化部百科《Peristiwa Blitar Selatan》检索命中但直接打开403：https://esi.kemenbud.go.id/wiki/Peristiwa_Blitar_Selatan ，只列为未读线索。
+
+**下一次可直接执行的精准事项**：(1) 获取1968-05至06月PRINOP及Satgas Trisula每日行动记录，拆分5月18日、6月1日、6月5日、6月6日阶段；(2) 取得2004《Sejarah Angkatan Udara Indonesia (1960-1969)》原页及1968-06-06 Elang编组命令；(3) 获取Hearman 2019章pp.101–130全文，逐一核对两家地方NGO名称、村民访谈日期和受害者身份机制；(4) 追Imron Rosidi/Khudori/Raban Yuwono与地方Banser、Hansip征召、村级代理干部名册的交叉证据；(5) 通过blob读取正式四表后按URL/题名/命题全量去重，再更新CSV、chronology及证据成熟的中文连续正文，避免重复编号。GOAL/G1—G10持续OPEN，不替作者作政治判断。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-19 05:51 CST｜南勿里达1967—1968军政接管与平民证词交叉核验
 
 **基线核验**：写入前GitHub main HEAD = `f5c53f7aa791f1f03af4be80ecaca89ea7f189fd`（compare identical）；本文件写入前blob = `8cf25375ed041e22a679b90200a2aefea4297094`。本轮新提交SHA应以GitHub写入返回和回读为准，不能预填自指SHA。GOAL/G1—G10继续OPEN。
