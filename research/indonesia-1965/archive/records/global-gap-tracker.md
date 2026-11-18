@@ -3443,3 +3443,16 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **G6/G7（1992—1998；SBSI、Medan、Lampung、Jakarta及工厂；来源级别：ILO结社自由委员会1996年11月第305号报告Case 1773官方全文，包含申诉、政府答复、委员会判断三层）**：直接打开 https://webapps.ilo.org/public/english/standards/relm/gb/docs/gb267/gb-7.htm ，核对第327—367段。SBSI 1996-06-11申诉称：1996年5月Medan PT Sarimorawa工人Aryanto被殴；6月1日Medan/Binjai工会招牌被毁、Lampung PT Tris Delata Agrindo七名工人被迫退会；6月初Mayasari Bakti工人及西雅加达工会干部遭拘捕。报告亦引用Southern Cross Textile 1992-11-23企业备忘录、1994 Medan事件、Marsinah死亡案件。委员会在第367段明确指出申诉方与政府叙述有重大差异，要求补充证据；第366段要求继续调查Marsinah被杀案。**上述暴力与强迫退会属于申诉指控，不能写成委员会已经查明；政府答复也不能当作事实终局。** 缺件：1996-06-11 SBSI原申诉附件、工厂备忘录影印、警方拘捕登记、政府原答复、后续ILO决定与地方判决。行动：沿Case1773历次报告和工厂/地名逐条核对，连接1998后登记与实际工会生存，而不把批准ILO公约等同基层自由。
 
 **G1—G10轮换**：G1殖民报刊/1926法院档；G2基层财务及上述名册；G3逐小时军令；G4 Aceh/Flores/Bali/West Kalimantan/苏拉威西逐县原件；G5性别与幸存者；G6工会与监禁流亡；G7基层工会/选举；G8外交军援执行；G9人地组织关联；G10正式四CSV、统一chronology、连续中文正文。此次研究目录根路径的四CSV及chronology均404，**未读正式账本、未分配S/C/Q/CV号，也未修改它们或中文HTML**。下一次先定位正式CSV的真实路径，再按最大号去重归档；不要将本段当正式证据登记。GOAL仍OPEN。
+
+
+---
+
+## 2026-11-18｜G2/G4/G5/G6/G9｜南苏拉威西青年组织、农会误认与Moncongloe拘押链（OPEN）
+
+**读取基线**：已重新读取G1—G10完整性审计、AGENTS、stage-access、goal-continuity及continuity-status；正式CSV与chronology在研究目录根路径404，未能安全完成正式编号/时间线写入。G1—G10均OPEN。
+
+**长期链（G6，南苏拉威西，1965—1978，军方/政治犯）**：直接打开Komnas HAM 2012年《Ringkasan Eksekutif》印刷146—155页，https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf 。147页证词B（BAP 267/BAP_TPPH65/III/2009）称参与修复Kodam XIV旧楼、Chandra Kirana大楼和Sungguminasa约100套军人住房，证词A（BAP 266）称替军官开辟4—6公顷私人土地。146页载1972年由Moncongloe向Kodim 1409/Gowa调派7名拘押者、另20人协作兴建Lonjo Bokok军人住房；1977-12-20 SPRIN/802/TPD/XII/1977将部分拘押者转为居家限制，署名Major CPM Idham Alam；报告同段误写“1970-12-20释放”，内部日期矛盾须保留。**证据等级**：2012年官方调查报告全文中转录证人陈述，非1972年工程调令或1977年签署原件；无独立项目财务、工资及土地登记。2010年Taufik Ahmad《Survival through slavery》全文 https://www.insideindonesia.org/editions/edition-998/survival-through-slavery 提供另一研究/访谈叙述，提及1969营地、859男52女、460公顷耕地及Daya—Moncongloe 15公里道路；其统计口径与官方报告的约23公里道路不同，**不能相互替代或相加**。应取得作者访谈底稿、营地清册、军区工程簿及1977年命令原件。
+
+**不同G项/地区链（G2/G4/G9，Pangkep/Wajo，1962—1965；Pemuda Rakyat、CGMI、BTI）**：同一Komnas HAM报告印刷154—155页，证人A（BAP 266）称1965年8月加入Pemuda Rakyat并由南苏拉威西上级任命Pangkep县负责人，1965年10月当地约40人，主要为SMEA/SMA学生；这是证人自述，不等于已核实会员名册。证人B（BAP 267）称1962年被列入Unhas的CGMI干部但未实际参加活动；证人D（BAP 269）称在Wajo技术学校任行政职务，因替其PKI成员上级R Ismoyo打字，拘押后被指控为县BTI书记。**关键反证问题**：档案中的“成员/干部”可能是被指控的身份而非真实任职，必须以组织任命、学校人事与拘押档案三方对照。此链可把1950—65群众组织和1965后被拘押身份判定连起来。缺Pangkep县Pemuda Rakyat名册、Unhas CGMI选举/任命文件、Wajo BTI名册、Sengkang拘押审查原件。
+
+**跨G轮换**：G1殖民期党工组织档；G3 1965-10跨机关军令；G4 Aceh/北苏门答腊/爪哇/巴厘/Flores/西加里曼丹/Sulawesi地方名单；G5性别族群证词；G6监禁与流亡；G7改革后工会登记；G8英美澳中苏外交军援原件；G9人物地点组织索引；G10正式四表与连续中文正文。**当前阻碍**：未取得正式CSV真实路径和全量编号，不新增S/C/Q/CV；此项仅更新长期缺口总账，未改chronology/HTML。下一步优先核对BAP 266/267/269、Kodim 1409/Gowa工程调派、SPRIN/802影印及地方组织名册，随后切换其他省与1998后组织史。GOAL仍OPEN。
