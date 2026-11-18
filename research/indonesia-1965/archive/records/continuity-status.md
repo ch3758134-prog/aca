@@ -1,3 +1,17 @@
+## ONGOING / GOAL仍进行｜2026-11-18 23:49 CST｜2001年香格里拉酒店工会争议的三方证据与司法结果待核
+
+**本次直接核读原始机构报告**：国际劳工组织结社自由委员会2002年6月第328次报告（GB.284/8）印尼Case No.2116，第325—370段，官方PDF https://webapps.ilo.org/public/english/standards/relm/gb/docs/gb284/pdf/gb-8.pdf （本轮实际打开并核对第367—370段，印刷pp.112—113）。第367段明确并列2001-08-25雅加达Shangri-La Hotel门前工会示威的双方说法：申诉方称8月17日已依法通知、18人示威被60名武装警员驱散、14人带往警局；政府称未依法预先通知。委员会**没有裁定通知手续争议**，但认为在和平性质未被争议的情况下，警力干预和短暂拘押似属过度，要求调查。第368段提到南雅加达地区法院判六名工会成员与一名IUF代表承担200万美元赔偿，申诉人上诉；委员会批评此类经济处罚限制罢工权，**并未确认上诉最终结局**。第370(a)段记载国家行政法院曾作复职裁判，酒店与P4P上诉最高法院，委员会要求提交判决并催促程序；不得写成工人最终实际复职。
+
+**交叉核验与局限**：委员会报告是对投诉方、政府方及委员会意见的正式原件，但不是示威现场影像、警方逮捕登记或法院判决书。2001-08-17通知回执、2001-08-25警局登记、南雅加达地院200万美元民事判决及后续上诉、行政法院复职裁判与最高法院终局文书均未取得。与1994—1999 ILO Case 1773不同，不应混为同案。此链可为1998后工会结社自由与罢工法律实践的历史连续正文提供材料，现不凭单份报告编造终局。
+
+**正式并库障碍**：本轮读取AGENTS、goal-continuity、stage-access、正式source-register/claim-ledger/search-log/coverage-matrix首段和chronology首段。claim-ledger.csv（blob 3d828e018fa05541e84866b5d77af0bde14f0764）分段读取返回空正文，未实现全量语义去重；故本次不分配新S/C/Q/CV编号，不修改chronology或成熟中文正文。后续应使用完整git blob/本地仓库读取并核对已有Case 2116记录后正式并库。
+
+**精准未完事项**：①检索并打开ILO Case 2116第326次报告321—362段，复原2000—2001酒店罢工、解雇与IUF介入顺序；②取得2001-08-17示威通知回执及8月25日警方值勤/拘押记录，裁定两方程序争议；③取得南雅加达地院200万美元判决及上诉终局、国家行政法院复职判决和最高法院结果；④恢复正式claim-ledger完整读取，对ILO Case 1773/2116及既有条目去重，正式四表登记后再更新chronology与中文连续历史正文；⑤轮换Gerwani/SOBSI/BTI组织基层、1965—68地方军政档案与2000—2026工会后续。GOAL及G1—G10继续OPEN。
+
+**写入前核验的main HEAD**：7f33fc233070e96f9195b10eb4d9fc14ff65ebd6；本轮提交SHA须以写入返回和远程main回读为准，不能在提交内容中预填自身SHA。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-18｜Sudjinah 1983释放性质的独立作者复核与证据边界
 
 **新核对的线索**：印尼语作者Edi Santana于2010-10发表的《Sudjinah, Ingatan Memecah Gelombang》 https://edisantana.blogspot.com/2010/10/sudjinah-ingatan-memecah-gelombang.html ，搜索索引明确称Sudjinah于**1983-08-17获得有条件释放（dibebaskan secara bersyarat）**，随后接受两年严格监督。这与Tri Joko Her Riadi 2020文章所记同日出狱、1985年正式释放文件及定期向Kodim报到在时间上相容，但不等于已验证两篇作者独立使用了原始释放令。**本轮尝试直接打开2010网页失败**，其具体句子只达到检索索引级，不能冒称原文核读；2020全文前轮已核读。本轮直接重开国际特赦组织1981《Prisoners of Conscience》PDF https://www.amnesty.org/en/wp-content/uploads/2021/06/act310051981en.pdf ，该组织当时只**预计**1983年获释，不能据此证明1983-08-17或有条件释放的法律性质。另2016 CNN Indonesia报道 https://www.cnnindonesia.com/nasional/20160929121612-20-162079/kisah-getir-aktivis-gerwani-dan-sidang-subversif/ 的索引提供Sulami/Sudjinah/Sri Ambar/Suharti四人刑期和SOBSI身份线索，但直接打开403，不升为全文证据。
