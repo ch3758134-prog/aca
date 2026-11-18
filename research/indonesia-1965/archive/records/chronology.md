@@ -135,14 +135,31 @@ Confidence guide: **High** = directly recorded or independently corroborated bas
 ## 30 September Movement, state violence and transfer of power
 
 - **30 September–1 October 1965:** A U.S. intelligence document dated 6 October identifies Untung, records Suharto as Kostrad commander assuming Army command, and advances an early leftist-coup hypothesis. It is evidence of what U.S. analysts believed at that date, not proof of PKI command or Sukarno's responsibility. [S026]
+- **Before 30 September 1965, PKI armed-line as described in later oral history:** Liem says the party had no plan for a party-led armed struggle and worked inside the existing political order; after the ban and repression, Sudisman shifted surviving cadres toward armed resistance during 1966. Distinguish this reconstruction from Fifth Force proposals, volunteer training and specific military experience. [S1317;S261;C2346]
+- **1965 G30S decision evidence (participant records read later):** Supardjo’s 1966 postmortem describes three leadership groups (Aidit, Sjam and Untung) and criticizes the “firecracker” strategy of expecting a Jakarta action to trigger regional and popular support. Roosa’s account of Iskandar Subekti’s 1986 analysis places Aidit and Sjam at the center of planning but does not establish a formal Central Committee resolution; the original PKI minutes and Supardjo manuscript remain unlocated. [S252; C2314–C2318]
+- **1965 G30S responsibility, additional retrospective account:** In a 2000 interview published by André Liem, Rewang said the PKI as an institution had not decided to launch the movement and recalled Politburo members as confused afterward. This differs in vantage point from Supardjo and Subekti; it is not a contemporaneous record and does not prove that no individual leaders knew. [S1317; C2320]
 - **October 1965:** One U.S. memorandum's statement that U.S. involvement had been limited to quiet assurances of non-interference is narrowly scoped; the same documentary record documents earlier covert action and later assistance. [S023–S027]
+- **10–13 October 1965, East Java:** Leksana’s reading of Brawijaya records reports that Panca Tunggal dismissed a 2,000-person religious demonstration in Pasuruan on 10 October; on 11 October Zeni Battalion 5 was instructed to work with Puterpra to control demonstrations and prevent destruction of property; a Pupelrada was established under Korem 083 in Malang on 13 October. These are regional orders and reports, not proof of uniform execution. [S295;C2569;C2573]
+- **21 October 1965, East Java:** The Pancasila Operation order attributed to Basuki Rachmat required six-hour situation reports to Surabaya and allowed pro-Army civilian forces to assist; Leksana says copies were sent to Korem 081–083 and other command recipients. [S295;C2331]
+- **26 October–27 November 1965, East Java:** Radiograms placed pro-Army organizations under Puterpra, authorized combative training and investigation teams, ordered Puterpra armed, assigned civilian auxiliaries resident-registration and operation tasks, and later called for mass movements to be stopped and directed through Hansip. The article cites T.702/1965 for both 23 and 27 November instructions; the serial/date conflict remains unresolved. [S295;C2332–C2333;C2570–C2571]
+- **26 October 1965, Central Java:** Hammer reports a Solo meeting chaired by Sarwo Edhie deciding to use pre-existing village guards and add newly recruited auxiliaries, with brief RPKAD training. This is a Central Java deployment account, not a uniform national template. [S139;C2572]
+- **14 October 1965, East Java:** Leksana cites Radiogram T.587/1965 instructing Kodim to investigate Gerwani and Pemuda Rakyat members for information on G30S; whether this order directly influenced killings is unclear. [S295;S1410;C2586]
+- **16 November 1965, Korem 083:** A military report recorded four killing cases, one with four bodies found in a rice field; the report often left the killers unidentified. This is the army report’s wording, not an established identification of perpetrators. [S1410;C2580]
+- **19–29 November 1965, South Malang:** A local Pancasila Operation order was dated 19 November; Leksana says the operation under Captain Hasan Basri began on 29 November in Donomulyo, over five weeks after the East Java-wide 21 October operation order. [S1410;C2582]
+- **30 November 1965:** A separate T.715/1965 radiogram reportedly required district military commanders to accept the “self-dissolution” of left organizations and to witness it with Panca Tunggal/National Front representatives. The approval rule complicates an unqualified claim that dissolutions were voluntary. [S1410;C2579]
+- **November–December 1965, Korem 083 detention log:** Leksana reproduces changing daily totals, including 2,472 on 4 November, 6,259 at noon on 12 December and 4,431 on 29 December. The log includes an unexplained 1,509 on 23 November and blank totals on 4 and 23 December; these are detention counts, not deaths. [S1410;C2577–C2578]
+- **4 December 1965, Korem 083:** A report to the Brawijaya commander said PKI in the Korem area had been “terminated.” This is a military status claim, not a death total; the South Malang operation continued into January 1966. [S1410;C2581–C2582]
 - **November 1965–June 1966:** U.S. documents record a covert procurement path for medical supplies and a communications system for anti-communist Army leaders. A follow-up reports partial assembly/use, not delivery of the entire network. Requests, approvals, purchases, shipments, receipt and effect require separate evidence. [S029–S033]
 - **December 1965 onward:** U.S. records document transfers of lists of suspected PKI and affiliated-organization members to Indonesian authorities. This establishes transfer, not the causal role of any particular name in a detention or killing. [S032]
-- **1965–1966 killings and mass arrests:** Scholarly estimates support a very large national death toll—commonly several hundred thousand—with substantial uncertainty and regional variation. Current review is abstract-level; exact totals, locations, state/Army direction, civilian participation and the timing of violence require local records and full methodological review. [S042–S044]
+- **1965–1966 killings and mass arrests:** Cribb’s full 2002 review describes estimates from 100,000 to two million and warns that individual evidence and demographic methods did not permit a precise national count; the commonly used several-hundred-thousand estimate remains approximate. Woolgar reports a secondary estimate of about 2,000 ethnic-Chinese victims against about 500,000 total, which yields only a rough derived ratio (about 0.4%), not a measured national ethnic proportion. No victim-level national ethnicity dataset was found in this pass; local patterns and later anti-Chinese discrimination varied by region. [S1311;S231;C2308–C2313] Ananta et al. report that the 1961 census did not collect ethnicity and the next postcolonial ethnicity census was 2000; this reinforces why later population tables cannot calculate victim shares. Cribb and Coppel’s approximately 2,000 Chinese-death estimate remains a scholarly estimate without a national victim roster. [S1318;S1322;C2340–C2341]
 - **11 March 1966–1967:** Supersemar document versions, chain of custody, subsequent orders and the legal transfer of authority remain unresolved here. The MPR database returned 403 and a repository PDF timed out. No authenticity verdict has been entered. [S054, S055]
 - **6 February 1967:** BPK and Wantimpres profiles date Sidarto's presidential-aide service to 1967–1968; Wantimpres gives 6 February 1967–17 March 1968. His 2024 oral-history account gives a less precise 1966–1968 range and a personal explanation for his appointment; no signed appointment order has been read. [S616; S618–S619; C1036]
+- **September 1967:** A CIA Directorate of Intelligence report discussed Indonesia’s proposed Fifth Force and Sukarno’s health as possible context but said confirming evidence for the speculation was lacking. Record this as an intelligence hypothesis, not a proven cause of G30S. [S1316;C2319]
+- **July 1967–January 1968, East Java:** Leksana’s Brawijaya-archive reconstruction reports a Java-wide commanders’ meeting in July, a provincial New Order guidance-team decree in September, a territorial chain of Korem/Kodim teams, replacement of village heads by military caretakers in former PKI areas and postponement of local elections. Original 316-b orders and local implementation records remain uninspected. [S1410;C2585;CV612]
 - **1967–1970:** Former aide Sidarto and Sukarno's son Guruh later described movement restrictions and family visits during Sukarno's restricted residence. Their memories are evidence of how two close witnesses recalled access controls, not a substitute for permits, guard orders or visitor logs. [S615–S616; C1037–C1038]
 - **After 1967:** Sukarno's isolation, death, medical care, posthumous memory and later political rehabilitation remain only partly researched. Some family and aide testimony is now read; clinical, guard, visitor and correspondence records remain open. No stopping date is imposed. (Coverage CV019, CV339.)
+- **1966-12 to 1968-09:** Following Sudisman’s arrest, Hearman’s oral-history reconstruction identifies an emergency Central Committee under Ruslan Wijayasastra, a Rewang-linked second-echelon network, and the South Blitar base. She describes Trisula as a military counterinsurgency that began in June 1968 and formally ended 7 September; village-level orders and party rosters remain missing. [S1310;C2293–C2300] Liem’s interviews add that armed-struggle start remained undecided, Kompro preparations and some cells were under construction, and some raids allegedly exceeded committee decisions. His chronology differentiates mid-1967 intelligence, a 20 February 1968 order, 5 May task-force formation and military-reported effective attacks from May to July; retain these stages alongside Hearman’s June start pending original orders. [S1317;C2321–C2328;C2337]
+- **1965–1969 regional comparison:** A 1968 U.S. NIE estimated very small post-purge PKI guerrilla groups relative to longer-standing CPM, CPB, CPT and Huk formations. These are contemporary intelligence estimates, not party censuses; the newer Philippine CPP/NPA formations belong to 1968–1969 and must not be conflated with the older PKP/Huk. [S1312–S1315;C2301–C2307] Additional bounded comparisons: the ECCC guide dates Cambodian armed-line adoption to 1965–66 and a CPK attack on police posts to 17 January 1968; Zeller stresses Vietnamese cadres and forces in Laos; Baird documents Hmong recruitment, training and limited central representation in the CPT. These are different organizations and source types, not a symmetrical regional dataset. [S1319–S1321;C2342–C2344]
 
 ## Evidence-handling rules for this chronology
 
@@ -1656,6 +1673,221 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 国际特赦组织1999年7月5日署期声明确认，该组织在当日得知劳工活动者Dita Indah Sari获释，同时仍称七名PRD及关联组织的良心犯在押。此处直接证据是**当日人权组织公开声明**，尚非Tangerang监狱释放登记；Amnesty网站目录显示7月4日，而原PDF内部明确署7月5日，暂以原件署期为准。2001年8月21日《Jakarta Post》采访（由APSN全文转载）记载FNPBI已有14个省级分支、约22000名成员，并称Dita在**2000年7月第二次代表大会**当选主席。第二次代表大会不能当作FNPBI成立日期；报道的规模数字也须等待工会名册与大会文件核对。两份来源显示从政治犯获释到工会领导工作的连续活动，但不能单凭它们证明PPBI与FNPBI组织合并的具体法律和内部程序。[S944; S945; C1645; C1646]
 
 
+## 2026-11-17续查新增时间节点｜组织路线、地下决策与土地案
+
+- **1950—1951年路线（由1963年报告回顾）：**艾地称党内曾讨论立即恢复武装斗争或先重建组织并保持合法地位；他把后者说成组织弱、地方支部受损和革命形势退潮下的决定。该日期是1963年公开报告对早期争论的回顾，不是1951年会议记录。[S1329;C2347]
+- **1963年2月10日：**艾地向第七届中央委员会第一次全体会议提交政治报告，公开说明中央委派省级委员、全国联络困难以及军队—人民联系和“一手枪、一手锄”政治口号。[S1329;C2348–C2349]
+- **1964年4月17—30日、1964年11月—1965年8月、1965年3—7月、1965年7月25—28日：**ANRI BTI目录分别列出要求解散Koramil/Pembina的文件、BTI成员训练文件、训练/武装农工往来以及Lubang Buaya/HANREV训练档案。上述是目录题名和档案日期，不代表已读卷宗或确认完成训练、武器交付。[S133;C110–C113]
+- **1966年9月：**政治局自我批评称领导层以组织程序不充分且缺少群众基础的方式介入九三〇，并承认政治局对组织错误负主要责任；同时把此前对苏加诺和和平路线的依赖作为失败教训。此为镇压中幸存党领导层的回顾性文本。[S1331;S261;C2350–C2352]
+- **1966年12月—1968年9月：**口述史记载苏迪斯曼被捕后形成不同幸存者网络，南勿里达是否正式发动武装斗争仍待决定；军方史与口述史对三叉戟行动前期侦察、命令、建制和主攻月份的划分不同，须保留并列日期，等待原令核准。[S1310;S1317;S1324;C2321–C2328;C2337;C2367]
+- **1945—1966年地方土地链（2025年研究回溯）：**南克卢山南坡种植园研究称战后占种、BTI/SARBUPRI组织、1964年SK49/SK50土地改革对象和1965年后驱逐组成连续争议线；其中行政计划与后续经营权需要地籍、签署决定和执行档案核实。[S1323;C2359–C2364]
+- **2011年9月19日：**宪法法院第55/PUU-VIII/2010号判决裁定种植园法第21条、说明及第47(1)–(2)项违宪；判决记录农民萨克里对1964年土地决定的援引，但没有裁定争议地权。[S1326;C2365–C2366]
+
+## 2026-11-17方法补记｜东爪哇地方人口变化、交通与暴力研究
+
+- **2010年1月24日：**Vannessa Hearman发表于《Inside Indonesia》的《Hunted Communists》依据雷旺口述记述，幸存干部转往南勿里达首先是寻找避难处；雷旺认为1966年后有组织武装抵抗很有限，到三叉戟行动时只训练出一支青年分遣队。此为同一作者研究线的补充，不是独立互证；军方人数为报纸转述。[S1334;C2372]
+- **2017年：**内政部图书馆目录登记《Saya Seorang Revolusioner》，并称其包含雷旺关于九三〇、南勿里达和政治局自我批评形成的见证。书本正文尚未取得，目录不能替代对当事人口述文本的阅读。[S1335;C2373]
+- **2017年12月11日在线 / 2017年第4期：**Siddharth Chandra在《Journal of Asian Studies》发表东爪哇人口统计研究摘要，利用人口普查数据估计暴力影响并与地方政治环境联系。档案先前将作者误记为Jess Melvin，本轮已更正；全文方法仍待读取。[S042;C027]
+- **2019年10月：**Chandra发表东爪哇道路与人口变化空间研究，使用1961、1971、1980年普查和1971年主干道地图，报告道路可达性和异常人口减少的相关关系。人口指标混合死亡、低生育和迁移，不能记作死者统计。[S1332;C2369–C2370]
+- **2023年：**Chandra与Zhang发表东爪哇民间组织空间研究。现可读摘要称其比较人口变化估计、陆军指挥中心及政治—宗教组织中心，以识别后续调查热点；研究方法不能证明具体组织或个人参与。[S1333;C2371]
+
+## 2026-11-17续查时间节点｜日惹军民协作个案（基于Winward回顾）
+
+- **1965年10月2日—4日：**Winward重建称NU、HMI、穆罕默迪亚和天主教党领导人建立KAP，24小时内与Kostrad接触；10月4日应苏哈托建议改称Front Pancasila。此为学术文章所引会议/访谈重建，未取得KAP原始会议记录。[S1336]
+- **1965年10月10日：**苏哈托宣布成立Kopkamtib；Winward将其描述为现有安全体系中的并行指挥链。[S1336;C2375]
+- **1965年10月17日—20日：**Winward称RPKAD于17日奉命进入中爪哇，20日抵达日惹；大型集会、反共名单宣传与大规模逮捕在当地军民协作中相继出现。[S1336;C2375–C2377]
+- **1965年10月22—23日及其后数日：**Winward称萨尔沃·埃迪请求动员、训练民间辅助队伍，数日后获准；其文章转述一名参与者称十名平民获枪并带队。原始授权、名单和武器凭证尚未取得。[S1336;C2378]
+- **1965年11月8日：**Winward称建立地区检察/分类队伍后，地区司令可任命人员参与被拘押者分类；相关成立令和名册待取。[S1336]
+- **1965年11月24日—1966年3月：**Winward称Surjosempeno下令停止义警行动，日惹一些非正式暴力仍持续至1966年初/3月；地方领导人被纳入清洗后的官僚体系，被作者解释为结束部分非正式行动的收编机制。命令原件、实施范围和个人任命表未核。[S1336;C2379]
+
+
+## 新增时间节点｜RAND印尼研究、使馆评估与地区反叛乱比较
+
+- **1961年3月20日：**NSC职员罗伯特·约翰逊把盖伊·保克三篇早期RAND论文的十页摘要送给罗斯托，供其考虑是否交肯尼迪阅读，并认为内容可能有助于苏加诺访美和印尼政策准备；约翰逊指出若干论证推测性强、证据偏印象。FRUS编者说明没有总统读过摘要的记录。[S1359;C2415]
+- **1964年11月：**保克《印度尼西亚共产主义前景》（RM-4135-PR）以美国空军Project RAND资助的研究备忘录出版。报告依据公开印尼材料讨论PKI群众政治和军方接触；其判断是分析者观点，不是党内会议原件。[S1357;C2410–C2411]
+- **1965年10月23日—28日：**FRUS后注记载雅加达使馆讨论如何在不暴露援助的情况下帮助陆军获胜；10月26日使馆电报对PKI高层参与提出强判断，同时承认关键事实未明、北京供枪未证实；编者注明10月28日CIA评估认为PKI成分参与，但领导层作用仍不清楚。[S1360;C2416–C2418]
+- **1966年1月14日（泰国比较）：**CIA副局长理查德·赫尔姆斯向国防部长麦克纳马拉概述美国支持的泰国反叛乱项目，包括民警、村庄通讯、安全道路和农村发展，并说明由特别反叛乱小组定期审查；此材料说明泰国渠道，不是印尼行动。[S1361;C2419]
+- **1969年2月：**保克《印度尼西亚共产党兴衰》（RM-5753-PR）出版。报告第61—62页把南勿里达选址、地下领导路线分歧和零星攻击写成一条解释链，并以纽约时报报道支持约2,000名地下党员/领导人被杀的估计；该数字不是名册核数，选址和决策也没有会议原件佐证。[S1358;C2412–C2414]
+
+
+## 1966年军法庭记录：温唐案
+
+- **1966年2月23日—3月5日：**《Perkara Untung》记录温唐在雅加达Bappenas的Mahmilub庭审日期。卷内同时收录检方材料、证人证词、被告辩护和判决；庭审日期可确认，庭审判断不能替代对案件证据及拘押环境的核验。[S1352;S1354;C2399]
+- **1966年庭审陈述：**尼约诺案的庭审问答记录其称8月28日政治局决定向苏加诺报告“将领委员会”威胁并请求预防措施；同卷判决引用其先前审讯供述，认定政治局一致支持先发军事行动。原始会议记录、信件和审讯记录未找到，故保留两种记录版本。[S1353;C2400–C2402]
+- **1966年温唐案庭审：**温唐称自己相信“将领委员会”策划政变，但没有具体书面证据，并把信息归于苏帕乔等来源。该证词证明他的庭审说法，不证明所谓政变计划真实存在。[S1354;C2403]
+
+
+## 亚齐军区年报与逐日附录补充｜1965年8—12月
+
+- **1965年8月1日、25日及10月：**年报称，KODAM-I/Iskandarmuda于8月1日被指定为“区域防御司令部A”，8月25日命令建立两个KOSUBDAHAN和八个KOSKEHAN；10月改名KOHANDA Aceh。**10月14日：**依据命令建立RUANG YUDHA（作战室），报告说通信已运作，但整体实施仍不完善。[S855;C2428]
+- **1965年10月1日起：**年报称KOHANDA兵力投入“镇压Gestok”的行动，重点为情报与领土行动，同时保留战术力量作打击部队；同一报告称情报岗位约七成配置、受训人员和反情报资源不足。这是军方自述，须与实际部署和行动日志对照。[S855;C2429]
+- **1965年10月4—25日：**年报记录Pepelrada筛查队、集会与示威许可要求，以及对铁路、邮电、电力和Tjot Girek工程等重要设施的监管命令；同时记载对PKI、Partindo、Baperki成员拘押、讯问、财产查封和账户冻结的指令。[S855;C2425–C2426]
+- **1965年10月6日—11月2日：**年报称全省出现反共集会、财产破坏和针对PKI/关联组织及Baperki头面人物的杀害，并按八个地区列出合计1,941人。年报紧接着称“民众”在行动中未遭受人员或财产损失；这是同一军方报告的统计口径与政治叙述，不是独立核实的死亡总数。[S855;C2420–C2421]
+- **1965年10月8—9日：**年报附录记载Banda Aceh的Baperki相关办公地点和住宅遭破坏，以及Sigli针对PKI、Lekra、Gerwani、Pemuda Rakyat等设施的集会和袭击；Melvin的论文转录同一附录，故两种呈现属于同一来源链。[S612;S855;C1030]
+- **1965年10月11日：**年报记载比鲁恩民众拘住PKI成员Aminuddin后由ABRI接手，称其受伤且被捆绑，并称另有三名PKI成员获ABRI救出；这是一项具体事件，不能据此推定全省军方立场一致。[S855;C2424]
+- **1965年10月14日：**年报记录南亚齐布朗皮迪五人死亡，其中四人标为华人、一人为印度尼西亚人，并称财物被取走；同日沙马杜阿另有十人死亡，其中四名具名死者标为华人。Melvin统计整份21页军方时间线列有21名华裔死者，同时警告未计入尸体未公开者。[S612;S855;C2422–C2423]
+- **1965年10月20日—11月27日：**年报称Pepelrada暂停PKI及相关群众组织活动的决定以10月20日为生效日；10月25日重要设施转入监管，11月10日冻结Baperki账户，11月27日另设Baperki财产监督小组。原始命令尚待调取。Melvin记载法令于10月29日签发、追溯至20日。[S612;S855;C2425–C2427]
+- **1965年11月22日—12月22日：**年报称Partindo Aceh于11月22日解散，12月20日宣布PKI及相关组织在亚齐全境被禁；其逐日Chronologis最后一项为12月22日的地方防务行动。[S855;C2420;CV575]
+- **1965年10月25日：**亚齐军方附录记载五名身份不明的白布蒙面者到达Banda Aceh一处与“Sinabang华人”有关的住处，报告称其疑似企图绑走住客但未成功；随后报告称他们在另一处拦查并抢走另一名华人的2,000盾。地名关系和指控未经独立核实。[S855;C2432]
+- **1965年12月6日：**亚齐军方附录称，一名27岁、来自Meulaboh的华裔印尼公民在比通哨所被哨所成员射杀。年报称他前一晚逃离哨所、使用两个姓名并企图夺枪；这是军方给出的事件解释，受害者身份和过程仍须独立核实，也未确认是否列入Melvin统计的21人。[S855;S612;C2431–C2433]
+
+
+## 2026-11-17续查（八）｜人物、决策与羁押时间补记
+
+- **1950—1955年：**TAPOL回顾穆尼尔1950年起全职参与SOBSI、1952年任副总干事、1953年进入WFTU总理事会，并称他1955年当选议员、短期参加制宪议会。Hearman的研究确认他与鲁斯兰均是PKI干部和国际工会领导人，但SOBSI职称随材料和翻译不同，逐年名册尚未取得。[S1363;S337;S845;C2449–C2452]
+- **1952—1965年：**TAPOL称鲁斯兰参加独立战争、指挥过Pesindo部队，1952年进入SOBSI领导层；Cornell档案指南列有他作为1953年WFTU大会报告人的记录。报告正文和SOBSI历届领导名单未读。[S1363;S1372;C2453;C2465]
+- **1961—1965年：**雷旺2011年访谈自述1961年任政治局候补成员、约1964年成为正式成员、1965年7月移居雅加达；Hearman将他列为1965年政治局成员。候补、正式任职及记忆日期需要党内名册核验。[S1362;S1310;C2434–C2435]
+- **1965年7月：**穆尼尔在1973年辩护词中回忆艾地曾在政治局报告有关“将军委员会”可能政变的信息，并说当时表示还需核实。这是穆尼尔的事后证词，不是会议纪要。[S1376;C2439]
+- **1965年8月27或28日：**穆尼尔称艾地向在雅加达的政治局与中央委员作简报，但没有作出决议、也没有与会者表态；他另称自己私下听艾地说政治局日常委员会支持年轻军官抢先阻止所谓政变，并私下听到艾地对“革命委员会”的解释。两类陈述须分开，不可压成一场会议或直接等同于全党正式授权。[S1376;C2438–C2440]
+- **1965—1968年：**TAPOL与Amnesty把穆尼尔、鲁斯兰的南勿里达捕获/入监日期写作7月14日；Hearman写7月13日。需要查捕获、正式登记与监狱收押的不同时间戳。[S1363;S1366;S1310;C2454]
+- **1966—1968年：**穆尼尔称地下重建以保护干部和家属、恢复农村党组织为目标，武装斗争条件尚未成熟；Hearman记录的南勿里达访谈也显示基地与武装队伍准备有限。军方正式“Trisula”行动的6月起始日期与穆尼尔回忆1月起围剿、4月决定自卫并突围，应分别保留。[S1376;S1310;C2443–C2447]
+- **1967年6月—1983年8月：**Amnesty报告称伊斯梅尔·巴克里于1967年6月被捕，1973年9月判无期，1978年改为按被捕日计算20年，最终于1983年8月释放；原判、减刑和监狱档案仍待调取。[S1364;C2455]
+- **1968年：**Hearman 2024年文章记载前SOBSI干部亚当·苏帕詹称Kalisosok监狱当年有500多名拘押者饿死；目前没有逐名清单和监狱死亡册可核总数。[S845;C2469]
+- **1973年3月2日：**穆尼尔在军事羁押场所完成《捍卫独立、民主与正义》辩护词。它是研究艾地—穆尼尔通讯、Biro Chusus、东爪哇任务和南勿里达路线的重要当事人材料，但原始庭审副本和记录链未核。[S1376;C2437]
+- **1973年4月12日—1984年10月：**Amnesty回顾称穆尼尔被判死刑，判决经高等法院和最高法院确认，总统拒绝特赦；原判决与上诉材料尚未找到。[S1366;C2456]
+- **1974年7月15日：**Amnesty称鲁斯兰被判死刑；同一报告对判刑法院的表格和正文写法互相冲突。[S1368;C2462]
+- **1982年9月1日：**英国TUC总书记Len Murray向苏哈托发电报，请求停止对穆尼尔和鲁斯兰执行死刑；AUEW主席Terry Duffy也致信苏哈托和安全恢复行动司令部负责人苏多莫。这是事后国际工会倡议。[S1363;C2459]
+- **1983年8月：**Amnesty年报记载伊斯梅尔·巴克里获释。[S1364;C2455]
+- **1985年5月14或15日：**Amnesty 5月急行动、8月跟进和联合国报告采用14日；Amnesty 7月较完整报告记载15日凌晨行刑，并称他在14日与家人会面。没有行刑原始记录，日期和家属探视细节保持并列。[S1365–S1367;S1375;C2457–C2458]
+- **1985年5—6月：**Amnesty报告荷兰、澳大利亚和欧洲共同体方面对穆尼尔行刑和后续死刑发出交涉；联合国报告同时收录印尼常驻团关于依法审判的说法。原始外交文书和政策效果未核。[S1366;S1375;C2460–C2461]
+- **1990年2月：**Amnesty列鲁斯兰约70岁并记录判刑法院名称冲突；这是近似年龄和二手案件摘要，不是户籍或判决原件。[S1368;C2462–C2463]
+- **1995年4月：**Amnesty称鲁斯兰在狱中去世，时年77岁，身体严重衰弱；没有找到确切死亡日和监狱死亡记录。[S310;C2463]
+
+
+### 跨国武装路线对照补记（各国组织不可按单一指标排序）
+
+- **1965年8月7日，泰国东北部班帕苏：**村庄研究将一场致命冲突作为当地后来纪念的“第一枪日”；这是一条地方记忆时间线，不等同于全国CPT武装活动唯一的起始日。[S1346;C2481]
+- **1967年，马来亚共产党：**Ong Wei Chong的工作论文称党开始准备重启武装斗争；所述判断依赖陈平回忆和安全部门材料，未见党内原件。[S1379;C2480]
+- **1968年1月1日，缅甸东北：**UCDP记载缅甸共产党部队自中国方向进入掸邦北部，开启新一轮边境军事扩张。该行动是在CPB此前长期武装斗争基础上的转变，不是一个原有公开群众党当年突然转入武装。[S1381;C2483]
+- **1968年6月1日，马来亚：**Ong记录CPM正式宣布恢复武装斗争；与南勿里达小规模武器准备应分别比较组织沿革、基地和后方，而非只比较当年人数。[S1379;C2480]
+- **1968年末，泰国：**Bergin回顾称CPT成立泰国人民解放军。其叙述来自反叛乱研究，不是CPT人员表或武器清册。[S1380;C2482]
+- **1968年12月26日，菲律宾：**新CPP重建大会通过党纲，主张农民军和农村根据地；该文本证明公开选择的战略路线。[S1344;S1345;C2486]
+- **1969年，菲律宾：**新人民军成立。组织成立时间与实际兵力、装备和控制范围应分别建档。[S1315;C2487]
+- **1969年起，缅中边境：**徐鹏利用云南边境档案研究CPB与边境县政府之间的援助、贸易和通行网络，并指出地方执行可能与北京政策变化不同步；这是境外组织的比较材料，不是中国援助印尼PKI的证据。[S1382;C2489]
+- **1967–1968年南勿里达：**Hearman所述三人细胞、有限青年分遣队和军方报告的少量缴获武器，与CPM、CPT和CPB的长期武装组织或边境基地形态不同；数字来源和单位仍有局限。[S1310;C2476–C2479]
+
+
+### 南勿里达地下重组的日期与决策补录
+
+- **1966年12月后：**雷旺在利姆访谈中回忆，苏迪斯曼被捕后，他建议幸存干部离开雅加达，到乡村重建组织；他说东爪哇联系人已经准备了一个村庄。该回忆说明迁移倡议和联络机制，不提供正式决议日期。[S1317;C2492]
+- **1967年1—2月：**Koran Sulindo转述雷旺2017年回忆录，称干部开始分批迁往南勿里达。回忆录全文和页码未核。[S1385;S1388;C2498;CV591]
+- **1966年底至1967年3月：**KontraS报告称穆尼尔和鲁斯兰先加入东爪哇区域委员会，随后于1967年3月与苏万迪前往南勿里达实施Kompro。该报道与更早的分批迁移说法可能描述不同人员和组织阶段。[S1384;C2491]
+- **1967年5月23日：**Koran Sulindo把紧急中央委员会成立日记为5月23日，并称鲁斯兰任主席兼组织负责人、雷旺负责Agitprop、穆尼尔负责Perjuta；Arah Juang也刊载相近日期和名单。来源链指向回忆录和后来的政治史文章，尚无同期会议记录。[S1385;S1387;S1388;C2498–C2499]
+- **1967年9月初：**KontraS报告称穆尼尔完成Perjuta构想，并将其传播至其他基地；原稿、分发记录和完整受众名单未见。[S1384;C2497]
+- **1967年后期至1968年初：**雷旺回忆说，正式发动武装斗争仍待基地成熟及全国会议审查，但在此期间地方已发生若干缴械和攻击行动；他称这些行动超出中央委员会已定程序。命令链和逐案责任未核。[S1317;C2494–C2495]
+- **1967年12月22日及其后：**Koran Sulindo称军方在抓捕Kusno/Yudo及普拉托莫后获得关键情报；讯问、情报传递和决策时间均待军方原卷核验。[S1385;C2502]
+
+
+### 2026-11-17 UTC续补｜南勿里达地下建设与Trisula捕获、审讯、撤离
+
+- **1966—1967年（日期分层）：**Liem记录幸存者在1966—67年聚集于南勿里达、准备工作在1967年初展开，同时把“Kompro正式形成”之官方说法列为1967年10月。KontraS把穆尼尔、鲁斯兰加入东爪哇委员会放在1966年底、二人赴南勿里达开始实施Kompro放在1967年3月；Koran Sulindo转述雷旺回忆录称迁移从1—2月分批开始。保留为避难者聚集、联系/先遣、开始准备、正式组建Kompro等不同阶段的争议，不择一日期。[S1317;S1384;S1385;S1388;C2491;C2504–C2505]
+- **1967年：**Liem转述雷旺称约9名CC成员、地区干部与其他党员参与项目委员会建设；三人细胞、支部联系和课程/训练计划出现在访谈重建中，但完整名单、细胞任务和学校开办证明缺失。委员会设想的全国会议和武装行动批准还未完成；具体成立日“1967年5月23日”仅见晚出回忆录转述。[S1310;S1317;S1385;S1387;S1388;C2506–C2511]
+- **1968年6月：**Hearman记录村庄居民被大规模迁至临时营地数日，并援引军史p.206称一次1968年6月22日至7月5日的迁离计划列出12个集合村；营地讲话、传单、对村民威胁和逼迫协助来自口述研究及军方材料，逐村人数仍无名册。[S1310;S1390;C2514–C2515]
+- **1968年6月12日：**Hearman称东爪哇CDB书记苏万迪被捕，随后在公开集会上劝人投降；有关其受虐待的说法在该文中只是受访者转述，照片只能显示其被缚接受讯问。[S1310;S1390;C2517]
+- **1968年7月13—21日：**Hearman按军史记鲁斯兰和穆尼尔7月13日被捕、雷旺7月20日被捕；TAPOL/Amnesty的穆尼尔/鲁斯兰记录用7月14日，Tirto称雷旺7月21日。捕获、军警登记、正式拘押、入监或通知家属可能是不同时间戳，目前未有原始登记簿。[S1310;S1363;S1366;S1386;S1390;C2519]
+- **1968年7月至8月：**Hearman转述Brawijaya军史把7—8月的捕获潮称为“tactical interrogations”带来被拘者合作；苏万迪被用于公开劝降是一个具体个案。术语本身不能证明讯问自愿；审讯卷和处理指令仍缺。[S1310;S1390;C2518]
+- **1968年8月底：**Hearman据雷旺口述说多名高级干部由东爪哇转押雅加达准备审判；每人确切转押日期、法院、羁押设施仍需用转押令和监狱账册核对。[S1310;C2520]
+
+
+### 2026-11-17 UTC续补｜东爪哇地方军事治理、Trisula战果数字与官方版本
+
+- **1967年起：**1999年印尼教育与文化部国家历史资料项目所编东爪哇省史记载，新任军区与省政府领导将恢复政府机关权威列为优先事项，部分暂缺或战略性的民政职位（包括村长、县长、校长等）曾由ABRI成员暂代。它没有给出完整任命名单；需逐村和逐机构核对，不能把“部分职位”扩大成全省所有地方政府均由军人接管。[S1392;C2521]
+- **1967—1968年：**同一省史称Kodam VIII/Brawijaya作为东爪哇地区Kopkamtib特别执行机构的核心，要求各Korem与民政部门开展情报及领土行动；书中将情报行动目的写为查明“残余”PKI力量，将领土行动目的写为恢复政府权威。这是后来的官方制度叙述，原始指令及地方执行报告尚未取得。[S1392;C2522]
+- **1967年末：**该省史声称东爪哇新型地下PKI建立若干Triko、Kompro、游击分遣队和村级游击组，并称Blitar Kompro已有两支Detga、17支Gerda、STPR及KKPR训练。此组织图与Liem/Hearman基于访谈所见的隔离、准备不均和领导权争论并存；尚无名册和课程记录证明这些单位都达到书面数量或全面运转。[S1310;S1317;S1392;C2524]
+- **1968年1—8月，泗水：**省史把“桑巴尔·拉加行动”（Operasi Sambar Raga）描述为独立的秘密行动，称其捕获712名被称作PKI残余者；其脚注指向Sketsmasa 1969年第三版《Operasi Trisula》第40—41页。这个数字属于泗水行动，不是Blitar Trisula拘捕数，不能相加或移作Blitar伤亡。[S1392;S1393;C2523]
+- **1968年5月至8月：**省史把Trisula划作侦察、摧毁、清剿/巩固等阶段，并称其历时约两个月；它归于Yasin在8月9日马朗新闻发布会的数字是850名“PKI被拘押者”、37支枪和4枚手榴弹。Liem所引1969年Brawijaya军史则说有效攻击从5月开始至7月，拘捕257人。两者统计期、地理范围和“抓获/拘押”口径没有得到原始记录解释，现阶段并列保留。[S1317;S1390;S1392;C2337–C2338;C2525]
+- **1968年9月7日—12月16日：**省史称战斗后又进行领土与民政巩固、复原，先至9月7日，之后开展至12月16日的领土建设阶段。因而村庄迁移、干部替换、登记和监控的后续过程不应被截在“Trisula两个月”这一作战口径之内；具体命令和执行范围待查。[S1392;C2526]
+- **1968—1969年，出版版本：**NII/CiNii目录记录Sketsmasa《Operasi Trisula》1968年第二版；1999年省史的书目却引用该书1969年第三版并给出第34、40—41页。两版尚未比对，不能将同一页码和内容默认一致。[S1391–S1393;C2528]
+
+
+### 统计口径与后续档案（新增核对）
+- **1968年2月13日：**纽约时报记者Philip Shabecoff报道的标题与日期，经Hearman 2010脚注核实。该论文把约1,000名“党员”被捕或杀害写在三苏拉叙述段落，却引这篇早于三苏拉数月的报纸；原报未读，暂列引注/时间范围异常。[S1310;S1397;C2532]
+- **1968年8月9日：**东爪哇1999年省史说雅辛在马朗记者会报告850名“PKI拘押者”、37支枪和4枚手榴弹；Amnesty 1984报告也转述雅辛称6—7月逮捕800余人、很多PKI成员被杀，但未报死亡数。二者可能来自同一官方公布，不构成独立核验。[S1392;S1395;C2525;C2531]
+- **1968年8月11日：**Hearman 2010称纽约时报给出的约2,000人数是前四个月“被杀或被捕”的党员合计；Hearman 2017脚注仍引该报，却将三苏拉结果写成2,000人死亡、另有数千人被拘押/迁离。原报无法访问，两种说法的定义差异未解；不能把后一表述当作原报直接证实的死亡数。[S1334;S1394;S1396;C2530]
+- **1969年6月29日：**学者引用美国驻泗水领事馆Airgram A-12，报告Kenney视察并建议“食物换工作”式援助；同一引注链描述道路旁迁村以加强政府控制。电报本身、援助审批和交付记录均未取得。[S1324;S1399;C2534–C2535]
+- **1969年10月1日（出版日期说法）：**Hearman称1969年Brawijaya军史为纪念四周年而加速在该日出版。没有检查军史扉页/版权页，故这是后来的学者对出版安排的陈述，不是已读原书的出版物证据。[S1310;S1390;C2529]
+- **1971年：**找到IKIP Surabaya等机构出版的南勿里达受害儿童寄养调查书目。研究者将其联系到行动后孤儿安置政策；报告正文及个案、家属同意和安置结果尚未取得。[S1394;S1400;C2536]
+
+
+### 南勿里达战后安置、食物和水源档案补录（新增核对）
+- **1969年收成（1970年政府调查回顾）：**Hearman 2015从一份政府调查转述巴贡与苏姆贝尔达迪两村人口合计2,538人；可供出售的红薯25吨、玉米12吨、稻米4吨。作者提醒这是市场销售作物统计，似未包括家庭自食的稻米和木薯；不能把它当全区总产量、营养总量或1968年人口的统计。[S1324;S1405;C2543]
+- **1970年：**社会调查队《食物不足与错误饮食调查》被Hearman用作南勿里达食物、饮水及生计证据，所读论文称调查家庭普遍负担不起茶、糖、咖啡，仍饮用未煮沸水。调查原件、抽样和问卷未取得，属于论文转述的政府调查内容。[S1324;S1405;C2542;C2544]
+- **1970年：**南勿里达儿童寄养试点另有IKIP Surabaya等机构的调查书目；它与食品调查是不同项目。1985年田野研究者Raharjo Suwandi说，该试点报告针对父母双亡儿童；报告与安置个案原件仍未查到。[S1400;S1401;C2539]
+- **1979年10月—1981年3月：**Raharjo Suwandi称这是其博士论文田野工作期，并注明1980年在Blitar进行田野。其论文第173—174页记录祖母与孙辈被分离的个案；这些是回顾性民族志材料，不是儿童安置总名册。[S1401;C2537–C2538]
+- **1969年6月29日美国领事Airgram A-12：**Hearman的引注给出文件日、号码和题名；NARA说明1967—1969 RG 59 Subject-Numeric文件中含airgram，按箱号清单查找，而清单在Archives II研究室。该信息提供可操作的档案路径，但尚未找到具体箱号或读到电报。[S1310;S1324;S1399;S1402–S1404;C2540–C2541]
+
+
+## 2026-11-17续查（十五）｜九三〇运动内部通报、公开声明与档案定位
+
+- **1965年9月26日：**CIA 1968年报告称苏迪斯曼主持的中央委员会秘书处被告知，可能在10月5—6日前发生军官行动，但尚无确定日期；佩里斯·帕尔德德按本人意愿被安排赴棉兰，后来据报告于9月29日获知时间安排、10月1日凌晨离开雅加达。这是报告基于审讯所得的事后重建，未见会议纪要、派遣函或棉兰接收记录。[S251;C2547]
+- **1965年10月1日：**康奈尔所收《革命委员会第一号决定》抄本列朱吉托为第14号、“共产党人”；美国使馆A-398另将朱吉托列为中央委员会成员。两者交叉支持其党内身份和被列名，不说明他是否事先知情、同意或参与行动。[S253;S189;C2546]
+- **1965年10月1日至6日：**CIA报告称苏瓦迪宁西在听到RRI公告后赴巴邻旁，向地区委员会传达苏迪斯曼的口头指示，并称她与当地领导会面、讨论争取群众组织支持及宣传；报告记有10月1、3、5、6日四次会议。该叙述主要据军方审讯，地方会议记录、旅行凭证及原始审讯卷未取得。[S251;C2548]
+- **1965年10月5日：**康奈尔编译本将政治局声明署日为10月5日，并称相同印尼语、爪哇语文本于《Ariwarti Waspada》10月8、9日刊出。文本称中央委员会不介入九三〇，并称被列入革命委员会的党员事前未获通知或征求同意。[S115;C087]
+- **1965年10月6日：**苏迪斯曼1967年法庭陈述称其坚持政治局“10月6日声明”。这与康奈尔所收5日文本及其8—9日刊期存在日期/文本身份差异，尚未找到10月6日原件，不能擅自认定为误记。[S260;C2552]
+- **1965年10月10日：**哈桑丁大学一篇后出论文引用另一份“政治局10月10日声明”，所引文字援引10月5日声明和10月6日内阁全会的苏加诺方针，反对挑衅、主张保持平静与团结。脚注把来源指向IISH旧网页；原件与胶片未取得，暂列独立文件线索。[S679;S1406;C2553]
+- **档案定位：**ANRI KOTI目录item 515描述RRI 10月1—3日广播新闻记录及革命委员会名单，但目录同时标注9月28日；另一部ANRI国防/安全指南列KOTI No.365（《Angkatan Bersenjata》10月1—11日报刊剪件）、No.366（10月时序记录）和No.369（收到的1日报纸/公告复印件）。这些都是可申请的案卷线索，不是已经读过的正文。[S228;S1352;C2545;C2551]
+- **决策层次：**苏迪斯曼在审判中不仅说少数政治局成员和少量地方干部收到消息，也自称个人赞成该行动；他解释失败与主观主义、力量判断和时机误判、脱离群众高潮及党内组织错误有关。这是被拘押者的事后自我分析，需同原始会议文件和不同来源对读。[S260;C2554–C2556]
+
+
+## 2026-11-17补充检索（十六）｜南勿里达地下领导层的授权边界与同期比较
+
+- **1966年12月后：**雷旺在安德烈·利姆的口述史章节中回忆，苏迪斯曼被捕后，他提议幸存领导人离开雅加达、下乡组织抵抗；提议获同意，东爪哇地区委员会已预备可作基地的村庄。此处是回忆中的决定及其执行背景；抵达、准备村庄、成立Kompro的日期在后出资料中并不相同。[S1317;C2559]
+- **1966—1968年，南勿里达及其他拟建基地：**利姆记录的雷旺说法把紧急中央委员会置于省级领导和Kompro之上；约九名中央委员、地区干部和各地干部参与，游击分遣队“开始”组建。采访者称领导层仍在讨论正式发动武装斗争的时间，计划等待全国会议评估政治局势和组织准备。[S1317;C2560–C2561]
+- **1967—1968年，南勿里达：**雷旺称解除种植园警卫武装、袭击被其称为旧日“刽子手”的行动越过Kompro/中央委员会既定方案；他把部分行动称为“武装宣传”，同时承认它们在具体意义上已是武装行动。领导层尚未完成全国会议和组织准备审查，地方行动、上级授权和军方对行动的界定必须分别核。[S1317;C2562]
+- **日期未定；后出日期说法为1967年5月23日：**后来的报道引雷旺回忆录，将紧急中央委员会成立日写作5月23日。利姆口述史章确认了组织层级和筹备，但未给出该确切日期；尚未读到回忆录相应页或当年会议文件。[S1317;S1385;S1388;C2564]
+- **1965年8月7日，泰国北部：**后出的泰国边境史研究据Saiyud 1986年军史第180页，将泰共游击队首次攻击安全部队定于该日。它显示泰共在G30S前已由地下/城市组织转入北部武装行动，但精确日期仍待核军史及当期警务记录。[S1408;C2565]
+- **1968年，东南亚比较快照：**美国NIE 50-68将CPM、砂拉越游击队、菲律宾Huk、缅甸白旗派、爪哇山区PKI活动者及老挝力量并列估算；这些是美国情报部门各自定义的不同兵力/组织口径，不是统一普查。其对PKI的描述是数百名活动者进入山地尝试建立此前欠缺的游击队。[S1312;C2566]
+
+
+## 2026-11-17补充检索（十九）｜地下领导分歧、区域族群记录与村庄反游击控制
+
+- **1965年10月14日，东爪哇：**Leksana称T.587/1965要求Kodim联合警察和Panca Tunggal调查Gerwani、Pemuda Rakyat成员关于雅加达志愿者训练以及地方知情/落实情况；命令对后续杀戮的直接影响未明。[S295;S1410;C2586]
+- **1965年10月14日，南亚齐：**Melvin转录的军方编年表分别报告布兰皮迪五死、其中四人被标作华裔，以及萨马杜阿十死、其中四名被标作华裔；萨马杜阿条目列出的四名死者均来自布兰皮迪。地点、籍贯及是否重复记录尚待核原件，不将4/5和4/10相加为唯一死者总数。[S612;S855;C2422;C2588]
+- **1965—1966年PKI幸存者群组：**Hearman将雅加达苏迪斯曼组与万隆伊斯梅尔·巴克里周围的群组区分开，雷旺靠近后者；对合法议会路线与依靠苏加诺的批评，不应被描述为所有地下领导人一致的结论。[S1310;C2587]
+- **1968年南勿里达：**Hearman称军方将被认为泄漏行动信息的Hansip换成Banser；Trisula又以军人代理村级行政、驻村部队、居民和牲畜登记、身份证核查、密集检查站及集会许可来控制区域。[S1310;C2590–C2591]
+- **1969年：**CiNii书目记录Guy Pauker的RM-5753-PR为美国空军Project RAND委托/资助研究；Hearman引用其对PKI地下领导人武装时机分歧的分析。报告本体未取得，不能据此断言Pauker使用了党内情报或参与了秘密行动。[S1310;S1411;C2592]
+
+
+## 2026-11-17续查（二十）｜苏贾伊飞行员回忆、苏哈托密令与军区整合
+
+- **1960年：**玛戈特·莱昂转述陆军航空司飞行员苏贾伊的回忆，说他获得赴美国陆军及美国空军飞行学校接受飞行训练的机会。回忆录原件未读，课程、实际就读时间、费用承担和项目性质待查；目前只能记为军方训练联系线索。[S1412;C2597]
+- **1964年8月：**同一回忆称印尼陆军紧急订购两架美国制造的双引擎Aero Grand Commander飞机，用来加强打击力量和指挥控制；陆军飞行员把飞机从美国飞回印尼，苏贾伊称自己驾驶第二架于8月下旬抵达雅加达。采购合同、付款、出口许可、机号和实际交付仍待查。这显示军贸/采购渠道，不等于美国在1965年行动中的秘密介入。[S1412;C2598]
+- **1965年10月1日起：**苏贾伊回忆称，他受命驾驶军方飞机，在雅加达与东、中、西爪哇军区之间多次往返，亲自递送苏哈托的机密命令和信息。莱昂称其文章提供了私下传令的细节；命令原件、飞行日志和收件回执尚未取得。[S1412;C2593]
+- **1965年10月上中旬：**据苏贾伊回忆，三名爪哇军区司令起初不清楚彼此是否同意，既反共又顾虑对苏加诺的忠诚。西爪哇司令阿吉反复问自己会否被捕、免职或降级。苏贾伊称到10月第三周三名司令才接受苏哈托的密令；精确协议日期及各人正式行动令未核。[S1412;C2594]
+- **1965年10月，西爪哇：**莱昂转述苏贾伊提及一种传闻：苏哈托允许阿吉继续与苏加诺保持良好关系，随后阿吉同意在西爪哇清剿PKI。原文将其标作传闻，尚无会谈记录或独立证人，不能写成已证实的交易。[S1412;C2595]
+- **1965年10月3日及11月：**苏贾伊还回忆称，他在10月初执行未开灯或缺少地面保障的秘密飞行，10月3日黎明前飞往刚被亲苏哈托力量重新控制的三宝垄；11月艾地被捕时又载苏哈托飞往三宝垄。具体飞行与行动目的需以军方飞行记录、三宝垄命令及艾地逮捕档案复核。[S1412;C2599]
+
+### 来源链与限度
+莱昂文章于2016年刊于《Inside Indonesia》，引用苏贾伊2009年6月29日发表于《The Global Review》的五部分回忆；当前只读到莱昂文章，未读到回忆五部分原文或密令原件。文章对“密令含有地方层级消灭PKI、并意图把苏加诺牵入事件”的表述是作者对回忆的解释，不能当作已检查的密令文本。[S1412;C2596]
+
+### 同期资料对照
+美国中央情报局1965年10月6日评估称，苏哈托在10月1日晚已在海军合作下接管陆军指挥，并判断陆军想趁势打击PKI、但若无苏加诺批准不愿采取决定性行动；同一文件把苏加诺的政治解决立场解释为对陆军上升的担忧及恢复PKI地位的愿望。前半与密令传递回忆形成可比的指挥背景，后半是美国情报对苏加诺动机的推断，不是中立的内心记录。[S026;C022]
+
+
+## 2026-11-17续查（二十一）｜CIA同期因果假说、苏加诺健康与军队指挥争执
+
+- **1965年8月（CIA于10月6日报告）：**CIA说有情报“可靠地报告”PKI曾检视一项应急方案：若苏加诺在随后数日或数周内去世，党内高层将隐蔽，青年组织和党内安全干部保护组织资产。备忘录没有给出报告人、会议信息或文件原件；这只是未具名情报内容，不能当作已证实的PKI书面计划。[S026;C2600]
+- **1965年9月30日至10月1日（CIA同期解释）：**CIA猜测苏加诺当晚显出病况以及对上述应急方案的“部分或混乱”了解可能影响了行动时机，并推测激进者认为杀死将领、快速宣布新政府可迫使苏加诺及全国接受结果。文件用了“可能”“似乎”等推测语气，没有列出直接证据或可识别的决策记录。[S026;C2601]
+- **1965年10月2日至3日：**CIA记录苏加诺广播称自己亲自负责陆军指挥、任命普拉诺托为行政负责人并委托苏哈托恢复安全；CIA又称10月3日KOTI广播仅称普拉诺托“协助总统”。这是当时关于正式职权的公开说法，不能直接证明具体部队由谁实际控制；广播原音和任命令仍待取。[S026;C2603]
+- **1965年10月4日：**CIA称苏加诺拒绝军方对九三〇领导者和PKI采取强硬措施，称应由自己处理政治解决；报告说将领会后情绪低落。后一描述是美国报告的转述性判断，不是心理测量或会议记录。[S026;C2604]
+- **1965年10月1日至6日：**CIA判断苏加诺的广播、萨布尔和中爪哇司令苏尔约苏姆佩诺被描述为亲苏加诺且亲陆军的立场，似乎削弱了翁通的追随者；同一报告说有关其余兵力的消息从110人到数个营不等，并承认报告混乱。不得把此范围当成经点名编制核实的兵力数字。[S026;C2605]
+- **1965年10月6日：**这份CIA评估判断艾地大概不会批准杀害将领或更换政府，同时允许“少数激进中央委员”可能赞同计划。该判断与后来被拘押者的陈述及党内自我批评并列保存：它记录美国情报部门当时的假设，不构成艾地无知或全党授权的证明。[S026;C2602]
+
+### 同期资料的内在不确定性
+该备忘录多次明确关键问题未决，并列出苏加诺事前是否知情、是否自愿赴哈利姆、翁通是否只是台前人物、不同计划是否缠绕等问题。其内容同时包含广播转述、未具名情报、来源属性不明的消息和分析假说；每条都需按各自证据类型使用。[S026;C2600–C2605]
+
+
+## 2026-11-17续查（二十二）｜西加里曼丹地下PKI与PGRS/Paraku的组织边界
+
+- **1965年10月16日至18日，西加里曼丹：**戴维森与卡门记载省政府冻结PKI及其附属组织活动、要求领导人报到；18日坤甸发生反PKI示威。该研究还称军区司令莱亚库杜当时不愿逮捕省党魁索菲安，并让他住进司令官官邸。两周后索菲安据称被送出坤甸并获释；原令、警卫/出入记录和获释文件尚未找到。[S232;C2611–C2613]
+- **1965年末或1966年初，坤甸—本卡扬一带：**区域研究称西加里曼丹PKI领导人赛义德·艾哈迈德·索菲安（Said Achmad Sofyan）及追随者从坤甸转移至其称为Bukit Bara的森林山区据点；作者给出的日期是“1965年末或可能1966年初”，地名在现有地图上无法确认，不能当精确迁移时间和坐标。[S232;C2607]
+- **1966年至1967年：**该研究把西加里曼丹抵抗力量分作四种来源：北加里曼丹人民军Paraku、砂拉越人民游击队PGRS、印尼志愿军，以及被取缔后的西加里曼丹PKI。对抗马来西亚的Konfrontasi结束后，它认为前两者与PKI/部分前志愿军形成两个大体不同、但有接触的集团：PGRS/Paraku以砂拉越为主要方向；PKI及部分前志愿军以西加里曼丹为主要方向。[S232;C2608]
+- **1966年至1967年4月，西加里曼丹：**该研究称PKI保留了城市地下网络，1967年4月在山口洋建立城市委员会，并在坤甸、三发等地招募、训练，推动城市网络与森林据点之间联络。相关组织名册与会议材料未见，现有叙述主要依赖军史、报刊和访谈。[S232;C2606]
+- **1967年4月，三高乐多分区：**戴维森与卡门记载索菲安一支PKI力量与PGRS/Paraku人员会面讨论联合攻势；他们转述一部军方历史称约30名PGRS成员因战略路线分歧离队加入索菲安，同时提醒军方文本可能将不同身份的叛乱者统称PGRS。人数和成员身份均未由党内或游击队名册确认。[S232;C2609]
+- **区域差异：**作者认为森林地形、农村华人聚居、达雅克地方社会对中央国家介入的抵抗、马来西亚边界及跨境游击队接触，共同增加西加里曼丹PKI的生存机会。此为区域因果分析，不可推广到南勿里达或全国地下网。[S232;C2610]
+
+### 组织边界
+这里的“共同抵抗”“会面策划攻势”和“同属一个组织”是三件不同事。该研究描述的PGRS/Paraku与PKI曾经接触并在局部合作，但目标方向、成立背景和编制不同。军方把复杂力量统称为亲华共产党叛乱的分类，也可能遮蔽地方出身与组织差异；反过来，区域研究对组织边界的重建仍需原始名册、指挥令和双方材料复核。[S232;C2608–C2609]
 ### 1963—1964：Gerwani儿童教育会议与第三次中央领导全会（档案目录定位，原件待调）
 
 - **1963年10月3日及1964年1月11日（开放问题）**：ANRI《KOTI 1963—1967档案目录》卷宗 **739** 登记Gerwani中央秘书长致全国地方/分支组织关于全国儿童教育会议决定的信件，原件7页；此为馆藏定位，尚不能证明各地执行情况。来源：[ANRI KOTI目录，条目739](https://anri.go.id/download/inventaris-arsip-tekstual-komando-operasi-tertinggi-19631967-1586226436)。
