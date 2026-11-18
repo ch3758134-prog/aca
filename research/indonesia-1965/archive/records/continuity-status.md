@@ -1,3 +1,19 @@
+## ONGOING / GOAL仍进行｜2026-11-18｜Sudjinah 1980—1985刑罚执行、出狱日期与组织关系核验（待正式并库）
+
+**本次实际核读与证据级别**：打开国际特赦组织《Amnesty International Report 1981》完整PDF（1981年出版，报告期1980-05-01至1981-04-30）https://www.amnesty.org/en/wp-content/uploads/2021/05/POL1000011981ENGLISH.pdf 。印尼段记载该组织1980年向苏哈托要求对Sulami等已判政治犯给予减刑/假释，并报告Sulami获得三个月减刑；此为当时人权组织的行动与消息记录，不等于官方司法档案。与已读国际特赦组织1981《Prisoners of Conscience》https://www.amnesty.org/en/wp-content/uploads/2021/06/act310051981en.pdf 对照，后者记载1980-02最高法院维持四名妇女刑期、1981-02 Sudjinah等转入Tangerang，且当时仅**预计**她1983年获释。
+
+**新核读的后续日期线索**：实际打开2020-05-10印尼语读书长文 https://bukusakuwartawan.wordpress.com/2020/05/10/memoar-wartawan-tentang-penjara-dan-pembuangan-4-sudjinah-dan-harapan-yang-melampaui-siksaan/ ，作者依据Sudjinah回忆录《Terempas Gelombang Pasang》(2003)及相关采访，明确声称Sudjinah于**1983-08-17**出狱，1985年才获得正式释放文件，此后向地方军区Kodim报到频率从每周降为每月。2024-02-28 BandungBergerak https://bandungbergerak.id/article/detail/159612/bunga-di-tembok-sudjinah-harapan-yang-melampaui-siksaan 复述同样日期和情节，且作者同为Tri Joko Her Riadi，**不构成独立交叉证据**。1981报告的“预计1983”与2020转述的“1983-08-17”可相容，但后者仍待2003回忆录原页、1983释放令/监狱出入登记核验，不可升级为司法原件确认。2020文还把1980/1981四人判决分期描述，与1981国际特赦组织对1980-02最高法院维持四人刑期的记载有冲突，优先保留并追查判决原件。
+
+**组织与行动链**：2020长文将Sudjinah列为Gerwani、Sulami为Gerwani书记、Sri Ambar Rukmiati为SOBSI相关干部、Suharti Harsono为BTI相关人员，称她们1966年参与地下通讯刊物PKPS（Pendukung Komando Presiden Sukarno）工作。此处为回忆录二次转述；尚未取得PKPS原刊、印尼检方起诉书和各组织任职文件，不能将四人共同被审判等同于同一组织身份或相同具体行动。继续区分1975一审、1980上诉裁判、1981转监、1983实际出狱、1985正式文件及后续监控六个不同节点。
+
+**正式文件与障碍**：已读取AGENTS、goal-continuity、stage-access和本状态，核对正式source-register/search-log/coverage-matrix首段；claim-ledger.csv经GitHub分段读取仍为空（blob 3d828e018fa05541e84866b5d77af0bde14f0764），无法安全全表去重，故本次未分配S/C/Q/CV正式编号、未修改chronology和成熟中文正文。须先修复全表读取并核实既有1980—1985条目；不以重复报道伪造独立来源。
+
+**精准未完事项**：①取得Sudjinah 2003《Terempas Gelombang Pasang》关于1983-08-17及1985文件的原页；②寻找1983 Tangerang监狱释放登记、司法部减刑/假释命令和1985正式释放函；③取得1980最高法院四人案件判决书、上诉检方文书，核对1980与1981年份冲突；④寻找1966年PKPS地下刊物、1975起诉书，区分Gerwani/SOBSI/BTI四人职务及行动；⑤用Git blob下载/分段工具完整读取claim-ledger后对四表去重登记，补chronology、研究状态与成熟连续中文正文，并轮换1965—68地方镇压及1998—2026劳工组织史。
+
+**Git锚点**：本次写入前continuity blob f7b067a4896d1c9fd99fe8e7c021c2e11ba60c1d；此前已报告提交3872b2155aab621578b2dbe697a14414d4bd4a4c，需以远程main HEAD核实。当前提交SHA由写入返回及远程比较确认，不能在同一提交中自指填写。GOAL与G1—G10继续OPEN。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-18｜巴厘地方受害者家属证言新线索及馆藏元数据复核
 
 **本次调查与证据级别**：以英文、日文、印尼文检索1965年12月巴厘《Suara Indonesia》、京都大学微缩胶卷、RPKAD及地方家庭证言。实际取得京都大学CSEAS英文馆藏说明 https://library.cseas.kyoto-u.ac.jp/en/cseas-library-collection/ ，其将报纸微缩资料单列、2026年7月清单仍作为下载入口；实际取得京都大学东南亚连续出版物数据库说明 https://library.cseas.kyoto-u.ac.jp/en/document-search/database/ ，明确该数据库是日本馆藏书目及所在地检索，不提供报纸原文的当然保证。美国国会图书馆《Suara Indonesia》 https://www.loc.gov/item/sn96021765/ 的搜索索引明确列出1965-12-11至1966-01-04兼用《Suluh Indonesia. Edisi Bali》，1966-01-05起另以该题名发行；本次直接打开仍403，故保持索引级，不提升原报核验等级。
