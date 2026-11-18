@@ -1,3 +1,19 @@
+## ONGOING / GOAL仍进行｜2026-11-19 05:51 CST｜南勿里达1967—1968军政接管与平民证词交叉核验
+
+**基线核验**：写入前GitHub main HEAD = `f5c53f7aa791f1f03af4be80ecaca89ea7f189fd`（compare identical）；本文件写入前blob = `8cf25375ed041e22a679b90200a2aefea4297094`。本轮新提交SHA应以GitHub写入返回和回读为准，不能预填自指SHA。GOAL/G1—G10继续OPEN。
+
+**直接核读与来源级别**：续读Supriaji Kuntoro、Sumarno（2014）《Peranan Batalyon Infanteri 511...》，印刷页614—618及后续，https://ejournal.unesa.ac.id/index.php/avatara/article/view/9243/9180 （2014学术论文，转述军区史/军人访谈，非命令原件）。直接打开André Liem《Perjuangan Bersenjata PKI di Blitar Selatan dan Operasi Trisula》，收入John Roosa、Ayu Ratih、Hilmar Farid编《Tahun yang Tak Pernah Berakhir》（ELSAM，2004），https://pustaka.taratsa.id/download/993/pdf/993.pdf ，印刷页183—184（后来的口述史研究，部分引1968军方出版物）。直接打开KontraS《Menyusun Puzzle Pelanggaran HAM 1965: Sebuah Upaya Pendokumentasian》，https://pustaka.taratsa.id/download/1016/pdf/1016.pdf ，关于Trisula的受访者证词及军队结构章节（后来人权组织访谈，不是1968法庭定案）。三个来源的政治/机构视角不同，且部分同引军方历史，不能算完全独立的三份当年证据。
+
+**已核读的具体节点**：Kuntoro等第614页引1967-10-12东爪哇军区司令KEP-002/10/1967与PRIN 752/10/1967，强调Korem/Kodim在地方政治与治安的协调责任；第616页记1968-04-15第511营在Bakung拘捕前军官Pratomo（别名Martotego/Seno），第616页引PRINOP 01/02/1968与02/05/1968，后者包括军人代理村干部及Kademangan指挥所。第616页称约72名代理村干部，源于BRIGIF LINUD 18；第616页还记1968-05-31 Lorejo、Kedung Banteng代理村干部遇害；第616—617页记1968-05-18在军区司令Jasin主持下成立Trisula任务指挥部，Witarmin任指挥官，1968-05-26/28完成侦察与汇报；第617页记1968-06-05开始封锁，Hansip/Wanra参与，三方向边界及有限通道；第618页描述pagar betis人墙、分区推进及空军支援。所有精确日期与军令号仍需原始文件核验。
+
+**关键冲突与反证**：André Liem第183页引用军区《Operasi Trisula》第243页，称军人代理村干部登记人数234，与Kuntoro第616页的约72人明显不同；可能是不同阶段、范围、编制或实际到岗口径，暂不能合并。Liem又称任务部队于1968-05-05组建，与Kuntoro的1968-05-18就职/成立日期不同；应查清“组建决定”与“就职”是否为两件事。KontraS的Lorejo受访者“HED”称1968年其丈夫被511部队枪杀、房屋被焚；“IBA”记1968-08-11被捕并经Bululawang、Suruhwadang、Lodoyo转押，后来遇到Gerwani同伴；另有Sarbuksi林业工人“XMTBF”讲述1965年拘押。此类匿名证词具有具体地点/经历但尚未取得采访录音、交叉证人或拘押名册，不能直接当作经司法确定的个案事实。KontraS亦引1968-06-06空军命令84/PO/1968与1968-07-10空袭，待核原件。
+
+**归档障碍**：正式claim-ledger.csv blob `3d828e018fa05541e84866b5d77af0bde14f0764` 本次按1—35行读取仍返回空正文；source-register/search-log/coverage-matrix可读首段，未能安全完成全量去重或分配新S/C/Q/CV号。故本轮只更新统一续接状态，未冒称已写正式CSV、chronology或成熟中文正文。应以GitHub原始blob分块/可下载原文件修复读取，再核查现有来源是否已注册。
+
+**精准未完事项**：①找1967-10-12 KEP-002/10/1967及PRIN 752/10/1967、1968年PRINOP 01/02/1968与02/05/1968原件及档案馆馆藏号；②核军区《Operasi Trisula》第243页，明确72与234名代理村干部的时点/范围及村名单；③核1968-05-05组建与05-18就职的两套日期，并取得Witarmin任务编组原令；④以Lorejo、Bakung、Suruhwadang村档、死亡/拘押登记交叉检验KontraS匿名证词，核空军84/PO/1968；⑤恢复正式CSV读取并去重、追加chronology与成熟中文连续正文，接着轮换SOBSI/BTI/Gerwani及1998年后组织链。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-19 04:54 CST｜1968年南勿里达Trisula行动：511营研究全文核读
 
 **本次直接打开的印尼语学术全文**：Supriaji Kuntoro、Sumarno，〈Peranan Batalyon Infanteri 511/Dibyatara Yudha Blitar dalam Operasi Trisula di Blitar Selatan Tahun 1968〉，《AVATARA》2(3), 2014，印刷页609—623，PDF https://ejournal.unesa.ac.id/index.php/avatara/article/view/9243/9180 。直接核读第609—612页（PDF页1—4），包括研究方法与组织结构段落；并非1968年军令原件。论文引用军区历史部门1974年《Sam Karya Bhirawa Anoraga II》，并记录2014-07-16对退役511营军人Ruslan（曾任Bakung村代理村长）的访谈，以及地方参与者Fauzan访谈（PDF页610）；访谈录音/笔记尚未取得。
