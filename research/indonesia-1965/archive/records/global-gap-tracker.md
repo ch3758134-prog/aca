@@ -3456,3 +3456,16 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **不同G项/地区链（G2/G4/G9，Pangkep/Wajo，1962—1965；Pemuda Rakyat、CGMI、BTI）**：同一Komnas HAM报告印刷154—155页，证人A（BAP 266）称1965年8月加入Pemuda Rakyat并由南苏拉威西上级任命Pangkep县负责人，1965年10月当地约40人，主要为SMEA/SMA学生；这是证人自述，不等于已核实会员名册。证人B（BAP 267）称1962年被列入Unhas的CGMI干部但未实际参加活动；证人D（BAP 269）称在Wajo技术学校任行政职务，因替其PKI成员上级R Ismoyo打字，拘押后被指控为县BTI书记。**关键反证问题**：档案中的“成员/干部”可能是被指控的身份而非真实任职，必须以组织任命、学校人事与拘押档案三方对照。此链可把1950—65群众组织和1965后被拘押身份判定连起来。缺Pangkep县Pemuda Rakyat名册、Unhas CGMI选举/任命文件、Wajo BTI名册、Sengkang拘押审查原件。
 
 **跨G轮换**：G1殖民期党工组织档；G3 1965-10跨机关军令；G4 Aceh/北苏门答腊/爪哇/巴厘/Flores/西加里曼丹/Sulawesi地方名单；G5性别族群证词；G6监禁与流亡；G7改革后工会登记；G8英美澳中苏外交军援原件；G9人物地点组织索引；G10正式四表与连续中文正文。**当前阻碍**：未取得正式CSV真实路径和全量编号，不新增S/C/Q/CV；此项仅更新长期缺口总账，未改chronology/HTML。下一步优先核对BAP 266/267/269、Kodim 1409/Gowa工程调派、SPRIN/802影印及地方组织名册，随后切换其他省与1998后组织史。GOAL仍OPEN。
+
+
+---
+
+## ONGOING / GOAL仍进行｜2026-11-18｜G1殖民时期Afdeeling B档案定位；G4亚齐Langsa原始声明链（均OPEN）
+
+**全局审计与现行约束**：本次重新读取completeness-audit-2026-11-09.md（G1—G10）、AGENTS、stage-access、goal-continuity、continuity-status，并定位正式四CSV及chronology实际路径均为research/indonesia-1965/archive/records/；正式claim-ledger.csv读取返回空文本，blob SHA 3d828e018fa05541e84866b5d77af0bde14f0764。未擅自编配C编号或覆盖任何正式台账。其余G2/G3/G5/G6/G7/G8/G9/G10仍按审计保持OPEN，尤其需恢复正式台账与中文连续正文并库。
+
+**不同G项高价值链G1（1919，西爪哇Preanger，Sarekat Islam的Afdeeling B）**：直接打开Cambridge Core上William A. Oates《The Afdeeling B: An Indonesian Case Study》（Journal of Southeast Asian History 9(1), 1968, pp.107–116）出版页的摘要和参考文献，https://www.cambridge.org/core/journals/journal-of-southeast-asian-history/article/abs/afdeeling-b-an-indonesian-case-study/00C5986FE19D8F6DA53771DA56B2E329 。出版页摘要确认研究对象为1919年Preanger发现的Sarekat Islam关联组织；其注释1给出可申请的荷兰殖民档案精确定位：Preanger驻扎官Jkr. De Stuers于1919-07-17在Bandung提交第72号“very secret”初步报告，归档**Verbaal 1919-10-11 No.27；Mail Rapport 510x/1919**。**访问等级：学术文章摘要与注释直接阅读；1919殖民报告原件、论文付费正文均未读。**不能把文章对组织性质的分析当作1919报告已证实内容，也不能由Afdeeling B名称直接推断后来PKI组织隶属。**下一动作**：用Vb. 11-10-1919 No.27、MR 510x/1919在荷兰Nationaal Archief殖民部档案目录查卷并申请扫描；查报告签名、附图、人员名单、地方SI会议及殖民警察行动；与1919年同期荷文报纸和印尼组织记录核对。阻碍：档案号目前为论文脚注转引。
+
+**延续G4/G5（1965年10月，亚齐Langsa与South Aceh；Baperki、Kodim-0104、地方华裔居民）**：重新核对已有正式来源**S612** Jess Melvin 2013论文出版页和可检索全文内容，https://journals.sagepub.com/doi/10.1177/186810341303200304 。作者转引**1965-10-18 Langsa Baperki领导人声明（Pernjataan 1965:1）**：声明叙述10月11日Kodim-0104指挥官Iljas Mahmud在军区食堂向其领导人解释G30S并指控Baperki关联；另转引1966年军方《Chronologis》称10月14日South Aceh Blang Pidie有五人遇害，其中四名华裔，Sama Dua另有十人遇害，其中四名华裔。**访问等级：S612既有学术转录；本次未直接阅读Pernjataan原纸或军方逐页原文；不能把两组数字加成全省死亡数，也不能独立认证名单、执行者和动机。**既有Q525曾目视检查军方年报部分页图，仍须具体比对原页和声明签名。**下一动作**：定位Pernjataan 1965影印、Langsa Kodim-0104 10月11日会议记录、10月14日两地死亡及财产登记；核对Baperki各人签署是否自愿、广播引文真伪、县级军警指令和受害者身份。两链不同年代/地区/来源层级，不将同一作者的论文与其转录当成独立证据。
+
+**续接精确位置**：先核对MR 510x/1919档案可申请性与馆藏目录；并回读S612、S855及Q525，寻找Pernjataan影印和《Chronologis》对应页。正式claim-ledger读取问题修复后再去重分配S/C/Q/CV并更新chronology及briefs/readable-history中文连续正文。G1—G10和总GOAL均OPEN；此记录不是阶段完成。
