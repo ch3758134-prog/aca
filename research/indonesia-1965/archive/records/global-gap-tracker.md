@@ -3430,3 +3430,16 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 6. 为检验苏加诺对BPS和马来西亚援助的指控，找出演说未指名的美国报刊原文，并与美国驻雅加达使馆/USIA关于BPS的文件、BPS自身成立与财务记录、美国对马来西亚援助项目的同期行政/军事记录核对。只有逐项查到人员、经费、设备、发布与接收记录，才判断介入操作机制。
 
 **下一轮可直接继续：**寻找31 May演讲的全文版本和来源；如果仍只能找到转引或目录，应清楚标作二手/目录线索，继续查ANRI和Unhan馆藏入口，不把后见概述冒充原文。该覆盖项仍为OPEN。
+
+
+---
+
+## 2026-11-18｜G2/G4/G9与G6/G7｜A-398中央委员地方职务表、ILO 1773号工会申诉（ONGOING）
+
+**审计及授权**：本次直接读取 `completeness-audit-2026-11-09.md` G1—G10、AGENTS、stage-access、goal-continuity、continuity-status；全部缺口仍OPEN。延续地方镇压链并从不同G项转入1990年代工会申诉。以下不把同一文件的多个段落算作独立来源。
+
+**G2/G4/G9（1965年5—12月，PKI中央与地方组织；来源级别：美国驻雅加达使馆1965-12-17 A-398原始文件公开影印全文，非PKI自行签署的组织名册）**：直接打开 https://nsarchive.gwu.edu/sites/default/files/documents/4107033/Document-23-US-Department-of-State-Airgram-A-398.pdf ，核读第1—6页。第1页使馆明确警告当时流传的所谓认罪供词存在伪造，特别指出Njono供词使用了1965年5月中央全会前的政治局名单。附件1列出使馆认为的5月后政治局与中央委员：Peris Pardede为政治局候补，Rewang为政治局正式成员；地方委员中有Aceh的Muhammad Samikidin、北苏门答腊的Djalaludin Jusuf Nasution、西加里曼丹的Sajid Ahmad Sofjan、南苏拉威西的Aminuddin Machlis、东努沙登加拉的Tobias Paulinus Rissi、巴厘的Kcut Kandel（原件拼写照录，需同印尼语原件核名）。候补委员表列SOBSI副主席Setijati Surasto及Gerwani主席Umi Sardjono。附件2题为截至1965-12-10领导人下落报告，区分reported dead、reported captured、believed arrested、conflicting reports，并引用1965-11-17《Sinar Revolusi》关于Rissi被捕及1965-12-01 Antara关于Jantje Suak被捕的消息。**这直接证明使馆当时持有的名单和传闻分级，不独立证明上述人员的实际任职或被捕、死亡事实。** 缺件：PKI 1965年5月中央全会原始决议/正式名册、上述两份同期报刊原版、各地军警拘押登记、人员别名校对。行动：将中央—地方委员和Gerwani/SOBSI关联按人物—地区—日期分别与地方原件对照；不得由委员身份推定个人参与9月30日行动。
+
+**G6/G7（1992—1998；SBSI、Medan、Lampung、Jakarta及工厂；来源级别：ILO结社自由委员会1996年11月第305号报告Case 1773官方全文，包含申诉、政府答复、委员会判断三层）**：直接打开 https://webapps.ilo.org/public/english/standards/relm/gb/docs/gb267/gb-7.htm ，核对第327—367段。SBSI 1996-06-11申诉称：1996年5月Medan PT Sarimorawa工人Aryanto被殴；6月1日Medan/Binjai工会招牌被毁、Lampung PT Tris Delata Agrindo七名工人被迫退会；6月初Mayasari Bakti工人及西雅加达工会干部遭拘捕。报告亦引用Southern Cross Textile 1992-11-23企业备忘录、1994 Medan事件、Marsinah死亡案件。委员会在第367段明确指出申诉方与政府叙述有重大差异，要求补充证据；第366段要求继续调查Marsinah被杀案。**上述暴力与强迫退会属于申诉指控，不能写成委员会已经查明；政府答复也不能当作事实终局。** 缺件：1996-06-11 SBSI原申诉附件、工厂备忘录影印、警方拘捕登记、政府原答复、后续ILO决定与地方判决。行动：沿Case1773历次报告和工厂/地名逐条核对，连接1998后登记与实际工会生存，而不把批准ILO公约等同基层自由。
+
+**G1—G10轮换**：G1殖民报刊/1926法院档；G2基层财务及上述名册；G3逐小时军令；G4 Aceh/Flores/Bali/West Kalimantan/苏拉威西逐县原件；G5性别与幸存者；G6工会与监禁流亡；G7基层工会/选举；G8外交军援执行；G9人地组织关联；G10正式四CSV、统一chronology、连续中文正文。此次研究目录根路径的四CSV及chronology均404，**未读正式账本、未分配S/C/Q/CV号，也未修改它们或中文HTML**。下一次先定位正式CSV的真实路径，再按最大号去重归档；不要将本段当正式证据登记。GOAL仍OPEN。
