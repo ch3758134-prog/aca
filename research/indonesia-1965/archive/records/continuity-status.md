@@ -1,3 +1,17 @@
+## ONGOING / GOAL仍进行｜2026-11-18｜巴厘地方受害者家属证言新线索及馆藏元数据复核
+
+**本次调查与证据级别**：以英文、日文、印尼文检索1965年12月巴厘《Suara Indonesia》、京都大学微缩胶卷、RPKAD及地方家庭证言。实际取得京都大学CSEAS英文馆藏说明 https://library.cseas.kyoto-u.ac.jp/en/cseas-library-collection/ ，其将报纸微缩资料单列、2026年7月清单仍作为下载入口；实际取得京都大学东南亚连续出版物数据库说明 https://library.cseas.kyoto-u.ac.jp/en/document-search/database/ ，明确该数据库是日本馆藏书目及所在地检索，不提供报纸原文的当然保证。美国国会图书馆《Suara Indonesia》 https://www.loc.gov/item/sn96021765/ 的搜索索引明确列出1965-12-11至1966-01-04兼用《Suluh Indonesia. Edisi Bali》，1966-01-05起另以该题名发行；本次直接打开仍403，故保持索引级，不提升原报核验等级。
+
+**新的地方证言追查入口**：发现2015-12-01《Jakarta Post》报道 https://www.thejakartapost.com/news/2015/12/01/taman-65-its-fight-turn-tables ，检索结果涉及Denpasar教师I Gusti Made Raka、其子Agung Alit、家属所述1965-12-15赴警局求保护、12月下旬失踪/据称被杀，以及Taman 65纪念活动。直接打开报道遭403，**所有上述具体细节均暂为搜索摘要线索，不是已阅全文，更不是独立证明**。另发现BBC News Indonesia 2024-10-07由Heyder Affan撰写的巴厘受害者家属调查，搜索结果涉及Agung Alit及I Gusti Made Raka；目前未核对BBC官方原文。两篇可能采访同一家属，不能计作相互独立的事件证明。其研究价值是连接1965年12月巴厘军队进驻、地方拘押、个人失踪及1998年后家庭纪念行动的可追查人名链，不能据此证明个案被谁处决。
+
+**技术失败与正式归档边界**：尝试直接下载京都大学2026年7月xls清单，运行环境DNS解析失败，未取得逐卷存缺；LOC与Jakarta Post直开403。已读取AGENTS、goal-continuity、stage-access、chronology、四份正式CSV元数据及可访问正文；正式claim-ledger.csv的GitHub读取仍为空（blob 3d828e018fa05541e84866b5d77af0bde14f0764），不能完成四表安全去重，故本次不创建S/C/Q/CV编号、不把检索摘要写进chronology或成熟中文正文。
+
+**精准未完事项**：①通过可用xls下载和读取环境核对MF-N||In||027逐期缺号；②取得1965-12-10/11《Suara Indonesia》版面并对照Roosa注51；③取得Jakarta Post 2015全文与BBC News Indonesia 2024官方原文，分清家属口述、记者重述、当时文书；④追查I Gusti Made Raka的学校/警局/拘押或死亡登记与Taman 65家属档案，核实1965-12-15及12月下旬时间点；⑤恢复claim-ledger完整读取并与source-register/search-log/coverage-matrix全表去重，随后推进chronology、专题和可读中文正文，同时轮换1968—2026劳工与学生组织史。
+
+**Git锚点**：写入前continuity blob 16eac3d574c91742787dcf89476bd5c4df3e03f4；已知上次main提交ec27bc995b58fb81587128d32ce463f749373509。新提交SHA须以写入返回和远程HEAD核验为准；本段不虚构自指SHA。GOAL与G1—G10继续OPEN。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-18｜京都大学原报目录下载障碍与替代检索入口
 
 **本次直接访问与新定位**：再次打开京都大学CSEAS图书室官方馆藏页 https://library.cseas.kyoto-u.ac.jp/collection/ ，确认其2026年7月更新的微缩资料清单链接实际指向 https://library.cseas.kyoto-u.ac.jp/wp-content/uploads/2026/07/microfilm2026.7.8.xls 。该链接为旧式Excel .xls文件，网页读取工具返回“Unsupported content-type: application/vnd.ms-excel”，容器下载亦失败，**没有读取清单内容，不能确认MF-N||In||027的逐期存缺**。另外实际打开官方电子资源页 https://library.cseas.kyoto-u.ac.jp/collection/database/ ，发现该馆提供免费开放的“東南アジア逐次刊行物総合目録データベース”，用于检索日本国内所藏东南亚报刊、杂志、官报的书目信息和所在；这构成与xls不同的可用检索入口，但尚未核对具体《Suara Indonesia》逐期记录。以上均为馆藏元数据，不是1965年报纸原文。
