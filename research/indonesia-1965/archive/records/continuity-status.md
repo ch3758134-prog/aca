@@ -1,3 +1,13 @@
+## ONGOING / GOAL仍进行｜2026-11-18｜Sudjinah 1983释放性质的独立作者复核与证据边界
+
+**新核对的线索**：印尼语作者Edi Santana于2010-10发表的《Sudjinah, Ingatan Memecah Gelombang》 https://edisantana.blogspot.com/2010/10/sudjinah-ingatan-memecah-gelombang.html ，搜索索引明确称Sudjinah于**1983-08-17获得有条件释放（dibebaskan secara bersyarat）**，随后接受两年严格监督。这与Tri Joko Her Riadi 2020文章所记同日出狱、1985年正式释放文件及定期向Kodim报到在时间上相容，但不等于已验证两篇作者独立使用了原始释放令。**本轮尝试直接打开2010网页失败**，其具体句子只达到检索索引级，不能冒称原文核读；2020全文前轮已核读。本轮直接重开国际特赦组织1981《Prisoners of Conscience》PDF https://www.amnesty.org/en/wp-content/uploads/2021/06/act310051981en.pdf ，该组织当时只**预计**1983年获释，不能据此证明1983-08-17或有条件释放的法律性质。另2016 CNN Indonesia报道 https://www.cnnindonesia.com/nasional/20160929121612-20-162079/kisah-getir-aktivis-gerwani-dan-sidang-subversif/ 的索引提供Sulami/Sudjinah/Sri Ambar/Suharti四人刑期和SOBSI身份线索，但直接打开403，不升为全文证据。
+
+**新增需要厘清的制度问题**：1983-08-17是实际离监日期、法定假释生效日还是独立日减刑后释放？1985年所谓“surat bebas resmi”是否解除假释、监视条件或仅补发证明？应取得1983监狱释放登记、司法部决定、1985文件原件和Sudjinah 2003《Terempas Gelombang Pasang》有关页；不可把1983离监等同于1985法律手续完成。2010与2020报道作者不同，但可能均依据2003回忆录，不能计作完全独立的原始事实证明。
+
+**正式台账限制与本轮访问**：已回读AGENTS、goal-continuity、stage-access、chronology及source-register/search-log/coverage-matrix首段；claim-ledger.csv首段读取仍为空（blob 3d828e018fa05541e84866b5d77af0bde14f0764）。无法安全全表去重，因此本轮不分配正式S/C/Q/CV编号，不把索引材料写入chronology或成熟中文正文。下一步优先通过git blob或本地完整仓库读取恢复正式四表并库，另轮换1965—68地方拘押、1998后劳工组织链。**GOAL与G1—G10保持OPEN**。上次已报告提交 e27d574e97023b7ce206c78367fff080f98e0a5e；本次新提交SHA以GitHub写入返回与main回读为准。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-18｜Sudjinah 1980—1985刑罚执行、出狱日期与组织关系核验（待正式并库）
 
 **本次实际核读与证据级别**：打开国际特赦组织《Amnesty International Report 1981》完整PDF（1981年出版，报告期1980-05-01至1981-04-30）https://www.amnesty.org/en/wp-content/uploads/2021/05/POL1000011981ENGLISH.pdf 。印尼段记载该组织1980年向苏哈托要求对Sulami等已判政治犯给予减刑/假释，并报告Sulami获得三个月减刑；此为当时人权组织的行动与消息记录，不等于官方司法档案。与已读国际特赦组织1981《Prisoners of Conscience》https://www.amnesty.org/en/wp-content/uploads/2021/06/act310051981en.pdf 对照，后者记载1980-02最高法院维持四名妇女刑期、1981-02 Sudjinah等转入Tangerang，且当时仅**预计**她1983年获释。
