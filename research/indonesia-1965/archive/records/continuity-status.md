@@ -1,3 +1,21 @@
+## ONGOING / GOAL仍进行｜2026-11-19 02:49 CST｜香格里拉劳资争议：2002年最高法院判决与2003年3月和解公告线索
+
+**直接核读的新完整原文**：Hikmahanto Juwana, *Dispute Resolution Process in Indonesia*, IDE-JETRO Asian Law Series No.21 (2003-03), https://www.ide.go.jp/library/English/Publish/Reports/Als/pdf/21.pdf ，第86页及劳动争议案例章节。该研究明确给出P4P决定编号 **602/358/63-5/IX/PHK/5-2001**（2001-05-01），并称其准许解除414名员工劳动关系；行政高等法院2002-03-26判决编号 **227/G/2001/PT.TUN.Jkt** 撤销该决定并命复职。报告另称2001-11-01南雅加达地方法院判七名工会干部赔偿约IDR20.7 billion。**414、此前ILO的580、工会争议中的606、2003年79是不同文件/程序/时间口径，须核查判决主文及人员名单，不能拼成单一人数。** 学术报告引判决编号但非判决原件。
+
+**直接核读的同期研究报告**：Bianca Kühl, *Social Standards in Indonesia – A Review of Existing Tools and Regulations* (2003-04), https://d-nb.info/1383730660/34 ，第8页载IUF在**2003-03-27**于其网站公布双方达成协议，称酒店撤回针对六名工会领导的民事索赔，工会撤回复职诉讼，未接受既有遣散款的成员获补偿。报告引用公告文字，但**IUF 2003-03-27原公告尚未取得**。这与Owens 2004称“2003年4月在最高法院阶段和解”可能是公告日与司法结案日之别，**不能直接断言矛盾或混同**。
+
+**同期印尼语报道新定位但访问受限**：Hukumonline 2002-12-23《Kasus Shangrila, MA Perkuat Putusan P4P tentang PHK》 https://www.hukumonline.com/berita/a/kasus-shangrila-ma-perkuat-putusan-p4p-tentang-phk-hol7125/ ，检索可见最高法院法官Paulus Efendi Lotulung、HM Laica Marzuki、Chairani A. Wani；报道称法院准许自2001-01-31起解雇79名员工，工会秘书**Odie Hudiyanto**与主席**Valentinus Wagiyo**表态申请再审。**网页直接打开403**，这些细节仅属索引线索，尚不能标为已核读原文。另Hukumonline 2002-09-04 https://www.hukumonline.com/berita/a/font-size1-colorff0000bmeski-menang-di-pt-tun-dan-ilobfontbrpt-dki-jakarta-kalahkan-buruh-shangrila-hol6368/ 记载赔偿上诉未获受理，亦仅检索索引，打开403。与Owens所称2002-08-27高院程序驳回可在日期上兼容，仍须判决书。
+
+**交叉核验及反证**：Owens 2004 https://law.unimelb.edu.au/__data/assets/pdf_file/0011/1680428/Owens.pdf 说2003-04和解79人未复职、四年基本工资补偿及撤诉，来源是Laksamana.net同期报道；Kühl 2003-04提供更早的2003-03-27 IUF声明线索，两者可能同源，不能作为独立司法证明。ILO Case 2116 2002报告 https://ilo.ch/public/english/standards/relm/gb/docs/gb284/pdf/gb-8.pdf 仍是此前程序阶段，不能据此推断最终和解。IUF 2001-07-11声明的镜像 https://www.hotel-online.com/news/jakarta-shangri-la-hotel-workers-continue-struggle-against-unfair-dismissal-july-2001/ 还显示SPMS经FSPM与IUF的组织隶属及当时对个别补偿协议的争论；须区别工会方立场与司法认定。
+
+**正式归档限制**：本次读取AGENTS、goal-continuity、stage-access、正式source-register/search-log/coverage-matrix首段、chronology准确路径 `archive/records/chronology.md`；claim-ledger.csv (blob 3d828e018fa05541e84866b5d77af0bde14f0764) 按行返回空文本。未完成四表全量去重，因此不分配正式编号，不覆盖正式CSV或改成熟正文。此次直接核读两份PDF，Hukumonline只索引可见，访问层级明确分离。
+
+**精准续查**：①找IUF官网2003-03-27声明原页或Wayback存档，核对谈判双方、79人、撤诉与赔偿；②找2002-12最高法院79人案件裁判编号、判决书及是否实际申请PK；③找P4P 602/358/63-5/IX/PHK/5-2001和PTTUN 227/G/2001/PT.TUN.Jkt判决原件，解释414/580口径；④找Laksamana.net《Quietly, Shangri-La Dispute Settled》原文及2003-04实际司法结案日；⑤恢复claim-ledger全量读取并做四表去重、chronology与成熟中文连续叙事，下一链轮换1965—1968地方拘押及1970—1998学生劳工组织。
+
+**Git基线**：本次写入前main相对ab610972dc7d98536c2bc639061347d105d0586c已前进1提交（修改global-gap-tracker）；本次提交SHA以写入返回与远程main回读为准，不在本文件自指预填。GOAL及G1—G10保持OPEN。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-19 01:48 CST｜2003年香格里拉工会争议和解的二手追溯证据
 
 **本次新取得并直接打开的全文**：Alexandra Owens, “Testing the Ratcheting Labor Standards Proposal: Indonesia and the Shangri-La Workers”, Melbourne Journal of International Law, Vol.5 (2004), https://law.unimelb.edu.au/__data/assets/pdf_file/0011/1680428/Owens.pdf ，正文第三部分第3节（网页解析行420—443，原PDF对应章节）。该文明确称**2003年4月**香格里拉酒店争议在印尼最高法院阶段达成和解，**79名工人无人实际复职**，据称每人获得约相当于四年基本工资的支付，酒店同意撤销损害赔偿民事诉讼。该说法引用当时Laksamana.net《Quietly, Shangri-La Dispute Settled》报道（文中注127—128），本轮**尚未取得这篇同期报道全文、和解协议或最高法院案件原件**，故应标为2004年学术论文对2003年结果的二手记载，不得升级为司法原始事实。论文另记载2002-08-27雅加达高院因程序理由驳回工会被告对赔偿判决的上诉（注121引用IUF 2002通告），该时间点亦待原件复核。
