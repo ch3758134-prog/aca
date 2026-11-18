@@ -1,3 +1,19 @@
+## ONGOING / GOAL仍进行｜2026-11-19 01:48 CST｜2003年香格里拉工会争议和解的二手追溯证据
+
+**本次新取得并直接打开的全文**：Alexandra Owens, “Testing the Ratcheting Labor Standards Proposal: Indonesia and the Shangri-La Workers”, Melbourne Journal of International Law, Vol.5 (2004), https://law.unimelb.edu.au/__data/assets/pdf_file/0011/1680428/Owens.pdf ，正文第三部分第3节（网页解析行420—443，原PDF对应章节）。该文明确称**2003年4月**香格里拉酒店争议在印尼最高法院阶段达成和解，**79名工人无人实际复职**，据称每人获得约相当于四年基本工资的支付，酒店同意撤销损害赔偿民事诉讼。该说法引用当时Laksamana.net《Quietly, Shangri-La Dispute Settled》报道（文中注127—128），本轮**尚未取得这篇同期报道全文、和解协议或最高法院案件原件**，故应标为2004年学术论文对2003年结果的二手记载，不得升级为司法原始事实。论文另记载2002-08-27雅加达高院因程序理由驳回工会被告对赔偿判决的上诉（注121引用IUF 2002通告），该时间点亦待原件复核。
+
+**与先前原件交叉及反证**：ILO 2002年第328次报告Case 2116第362—363段（https://webapps.ilo.org/public/english/standards/relm/gb/docs/gb284/pdf/gb-8.pdf）记载当时要求复职名单工会方81、政府方79（差2人为未继续上诉），2002-03-26行政法院推翻P4P准许解雇决定，酒店与P4P上诉最高法院；2002报告不能预见2003和解。Owens 2004所述79名未复职与ILO 2002时点79名持续上诉者在数量上相容，但**不能未经名单对照就证明为完全相同的79人**。ILO报告对损害赔偿仅有2001年判决与上诉在途；Owens对2003年撤诉的说法需要最终撤诉裁定核实。2001-11-17 Liputan6的约700人复职诉求与2002年79人诉讼持续者是不同时间/法律程序口径，不应视为互相排斥。
+
+**检索方法与访问层级**：2026-11-19使用英文检索“ILO Case 2116 Shangri La Indonesia 2003 2004 committee follow up reinstatement Supreme Court”，实际打开Owens全文并核对引文注127、128；另查ILO 328次报告英文/法文/西班牙文网页索引。法/西文本可辅助校核，但同一ILO报告的不同语种**不构成独立证据**。Owens论文亦大量引用ILO报告，不能将其对2000—2002事实的复述当作独立见证。
+
+**正式归档限制**：已读取AGENTS、goal-continuity、stage-access、续接状态及source-register/search-log/coverage-matrix正式CSV首段；claim-ledger.csv（blob 3d828e018fa05541e84866b5d77af0bde14f0764）按行仍返回空正文；chronology.md常规猜测路径不存在。尚不能全量去重，故**本轮未分配正式S/C/Q/CV编号、未改chronology或中文成熟正文**。本段仅作为可追溯的暂存研究证据，不能替代正式登记。
+
+**精准未完事项**：①检索并取得Laksamana.net《Quietly, Shangri-La Dispute Settled》2003同期原文、记者及发布日期，核对79人、赔偿、撤诉与SPMS书记Eddi Hudiyanto发言；②取得2003最高法院案件号、和解协议或撤诉裁定，区分最高法院裁判与当事人庭外和解；③取得IUF 2002-08-27通告和雅加达高院赔偿上诉判决，核对IDR20.7 billion / USD2.34m与早期ILO USD2m的汇率及请求金额；④从仓库树定位chronology准确路径，以可用git blob或分段下载恢复claim-ledger全文，核查现有ILO/Owens条目后再登记四CSV、时间线和中文连续历史章节；⑤转回1965—1968东爪哇地方拘押与PERBUM/SOBSI组织，以及1970—1998学生/劳工组织和1998—2026制度后续，避免单一酒店个案挤占全域调查。
+
+**写入前main HEAD**：2a8a42cb3f640be4763a030726bd13d761ebfcb6；本次提交SHA以GitHub写入返回及远程核验为准，不在提交自身正文中预填。GOAL与G1—G10始终OPEN。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-19 00:53 CST｜ILO 326次报告原件与2000年12月酒店罢工顺序
 
 **本次直接打开的原始机构报告**：ILO结社自由委员会第326次报告（GB.282/6，2001年11月），Case 2116第321—362段，https://ilo.ch/public/english/standards/relm/gb/docs/gb282/pdf/gb-6.pdf 。报告第327—330段记载申诉方称2000-12-22酒店员工罢工、2000-12-26凌晨约350名警察清场，约20名工会人士被拘押，其中包括IUF印尼代表Hemasari Dharmabumi；2001年1月管理层发出约400封涉及解雇的信件；2月20日工会财务Muhammed Zulrahman受到袭击的指控。此处人数和袭击为申诉材料所述，不能误称法院认定。第354—356段委员会对政府答复与申诉方材料交叉审视：政府称劳资争议委员会准许解雇580人，委员会认为没有证据表明罢工非法，并认为仅因占用酒店大厅导致经营损失不足以正当化解雇。此为ILO委员会的评价而非印尼法院终局判决。
