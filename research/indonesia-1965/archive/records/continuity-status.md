@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-18｜PP 53/1951公务员产假原文与地方档案线索（正式并库待核）
+
+本次重新读取AGENTS、goal-continuity、stage-access、正式source-register/search-log/coverage-matrix首段、claim-ledger读取尝试与chronology；claim-ledger虽返回blob SHA ce7e8d1e8d2069208f84f085e6160edb90631e18，但指定行范围仍返回空文本，不能完成全量语义去重，故未编造S/C/Q/CV编号。该缺口不应阻止其他时期研究；后续须采用分块/本地git或blob下载方法恢复正式并库。
+
+**新直接核读（条文转录和政府部门PDF，并非官报原始影印）：** PP 53/1951全文 https://peraturan.info/pp/1951/53/isi ；印尼卫生部人事网站所存重排PDF https://www.ropeg-kemenkes.or.id/ecpns-sub/documents/pp_53_1951.pdf 。1951-08-02签署、08-07公布生效；第1条适用于已婚、在国家机关固定或临时任职且至少工作一年、承诺休假后复职的女性公务人员；第2条规定产前1.5个月、产后或流产后1.5个月，医生证明必要时可再延长1.5个月；第3条规定休假期间全薪；第4条规定休假结束后六个月内未履行复职承诺者须返还休假期间所得。该条文对资格有婚姻、工龄和复职条件，不应概括成所有妇女一律无条件享有全薪产假。说明部分明确旨在统一1946年原行政区域与旧共和国区域的两套公务员规则，并非工厂雇主遵法证明。BPK官方目录 https://peraturan.bpk.go.id/Details/77661/pp-no-53-tahun-1951 确认LN 1951/74、TLN 142以及由PP 24/1976废止。另有Hukumonline元数据给出不同签署/生效日期（8月1/6日），暂以政府目录和条文转录8月2/7日为主，待官报影印裁定。
+
+**新地方档案定位（仅目录，未读卷宗）：** 日惹特区档案馆目录 https://arsip.jogjaprov.go.id/index.php/peraturan-tentang-pemberian-istirahat-karena-hamil-lembaran-negara-nomor-74-1951-peraturan-pelaksanaan-peraturan-pemerintah-nomor-53-tahun-1951-lembaran-negara-nomor-74-1951 列Bpad.Orla.T1.1.IV.14（卫生机关人事卷宗，1 bendel），标题同时含PP 53/1951与其执行规则。检索可见目录，但直接打开返回502，尚未看到卷宗内容；不能认定地方实际实施。该线索可转向地方公务员休假申请、工资表和人事处理，以检验制度进入基层的过程。
+
+**精准未完：** ①取得PP 53/1951 LN74/TLN142官报原影印，核对条款、日期与婚姻资格；②向日惹特区档案馆调阅Bpad.Orla.T1.1.IV.14，确认其中执行规则名称、发文日期和受文单位；③比对PP 4/1951与PP 53/1951在工厂女工和公务员上的适用差异，找1951—1955实际申请/拒付/处分记录；④用可分块完整读取的claim-ledger进行正式四表去重、登记、chronology及成熟中文正文更新；⑤下一链转1965—1968地方军政拘押命令与1970—1998工会重组档案，避免单一法规线索挤占整体调查。GOAL和G1—G10仍OPEN。提交前所见续接文件blob SHA：ff5c86f23f45e9cfad31aafbc8b397db0f02ac6e；本次提交SHA由GitHub写入返回值确认，下一轮须以远程main最新HEAD复核。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-18｜1951劳动法实施条例更正函与公务员产假制度区分（待正式并库）
 
 本次回读AGENTS、goal-continuity、stage-access、正式四表首段与chronology，核验开始时main HEAD=8eaed37a2b41ac32cff2f9d4eba5c6e273061e55。正式claim-ledger.csv（约1.74MB）通过GitHub fetch_file返回空文本；source-register/search-log/coverage-matrix首段可读，因此**未分配正式S/C/Q/CV编号，未声称完成去重**。
