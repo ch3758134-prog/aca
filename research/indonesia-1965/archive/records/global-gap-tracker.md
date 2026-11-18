@@ -3617,3 +3617,16 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **异地区G4/G5/G8/G9｜West Kalimantan，1967年9—10月；来源等级：Davidson与Kammen 2002论文开放全文直接阅读，所引地方报纸/军区文书原件尚未读。** https://www.academia.edu/103702836/Indonesias_Unknown_War_and_the_Lineages_of_Violence_in_West_Kalimantan ，论文印刷p.64、网页文本行95—98指出，在1967年9月与10月初，Mempawah Hilir、Mempawah Hulu、Bengkayang部分Dayak与华裔村民举行adat pemabang传统仪式，宣誓共同抵御村外敌人；作者称该时段未见Dayak对华裔报复的报告。这是对将1967全年描述成族群持续一致对立的重要**时间/地方反证**，但“不见报告”不等于绝无暴力，传统仪式记录也不能代表全省。论文脚注50应继续追其原始地方报纸或口述记录，并核参加村庄、主持人、日期和后续是否遭破坏。论文同页提及8—11月Mempawah—Sungai Duri沿海事件，作者对军方搜捕与PKI传单解释持不同判断；两者均须核当地警署、军区与Kompas原报，不能当定论。**缺件**：脚注50原始证词/报道、Witono 1967-12-04军区报告、1967-09—11县级治安记录、迁移和伤亡名单；阻碍是二手学术文本与军方政治归因，尚无地方原件。
 
 **全局轮换/精确续接**：G1取2020书参考文献所指1926荷兰审讯与逮捕原令；G2 SOBSI/BTI/Gerwani地方基层；G3 1965跨机关命令；G4 Aceh、Medan、Java、Bali、Flores、Kalimantan、Sulawesi逐县；G5女性/族群/宗教证言；G6拘押流亡和PRD前身；G7地方工会登记；G8外国提议—批准—交付—接收链；G9村庄和人物关系索引；G10正式CSV去重、统一时间线、成熟中文连续HTML。下一步直接查①本书1926年10月23日逮捕命令引文来源；②Davidson/Kammen脚注50的adat pemabang原件；③Witono 1967-12-04报告；④Aceh县级1965军令；⑤核正式台账重复后并入chronology及可读正文。**本条仅为长期缺口总账更新，不宣称正式CSV/chronology/HTML同步；GOAL未完成。**
+
+
+---
+
+## ONGOING / GOAL仍进行｜2026-11-18｜G4 Aceh 1965年10月Langsa Baperki受压与G2 Gerwani《Api Kartini》原刊入口（OPEN）
+
+**治理与去重**：已读取 main 的 AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09（G1—G10）、continuity-status；核对正式 source-register、search-log、coverage-matrix、chronology 的文件头和blob SHA，claim-ledger通过连接器仍返回空正文（本次blob 3d828e018fa05541e84866b5d77af0bde14f0764）。本次不擅自分配S/C/Q/CV编号；下列证据为待正式去重并库条目，不能声称CSV已更新。G1—G10均OPEN。
+
+**长期G4/G5/G9｜Aceh东部Langsa、Kuala Simpang、Pulo Tiga及南Aceh，1965-10-11至14；来源等级：Jess Melvin 2013开放期刊论文的网页搜索全文片段可见，期刊直接打开页面只显示摘要、参考文献，论文所引1965年10月18日Baperki声明与1966年军方《Chronologis》原件均未打开。** https://doi.org/10.1177/186810341303200304 。论文所引声明称Langsa Baperki干部在10月11日被Kodim-0104指挥官Iljas Mahmud召见，听到关于PKI与Baperki的指控及据称来自苏加诺的广播；Melvin明确指出该广播并未发生。论文转引军方1966年年报《Chronologis》称10月14日Kuala Simpang针对PKI/Baperki办公地点的集会和破坏，Pulo Tiga又有Pemuda Pancasila行动；军方记录称其阻止攻击外籍商铺。另据该军方年报，10月14日南Aceh Blang Pidie和Sama Dua发生死亡事件，包含华裔受害者，记录给出Hap Tjok、Min On、Bun Tok Seng、Sio Nam等姓名。**这些是学者转引军方材料及被胁迫声明，不是已独立核实的死亡/身份登记；15,000示威人数属军方记录而非独立计数；“军方制止”属军方自述。** 必须区分Baperki组织、PKI、华裔普通居民及不同群众团体，不能将军事定性当作组织同一性的证明。待取：1965-10-18《Pernjataan》完整签署页及8项决议、Kodim-0104会议记录、Kodam-I《Laporan Tahunan Lengkap 1965》中的《Chronologis》pp.7–8、地方警方死亡登记与受害者家属证词。行动：从论文脚注核对声明原件馆藏，再按10月11/14/18日逐日重建压力—声明—袭击关系，核实广播伪称的传播链。阻碍：期刊页面只暴露摘要/参考文献，搜索片段不能替代原件。
+
+**不同G项G2/G5｜1959—1964年Gerwani妇女组织刊物《Api Kartini》，来源等级：独立数字档案馆的逐年逐期目录页面已直接打开，单期影印正文未核。** https://gerwani.logosid.app/majalah 。目录现列1959—1964年共42个卷/期条目（部分为合刊），主页称41卷，存在网站内部计数差异，应以逐期实际影印为准。目录显示1964年第10期、1963年第1、2、3、4、5–6、9、11–12期等；网站声称保存数百篇待数字化一手文章，**目录存在不等于所有单期已逐页阅读或馆藏完整**。这一材料是研究Gerwani基层教育、婚姻法、女性劳动、国际联系及刊物编辑路线的可直接取件入口，优于重复依赖概述。行动：打开1963年第9期与1964年第10期原版，记录封面、目录、署名、页码、地方支部及原文；对照UNJ 2023学位论文摘要 https://repository.unj.ac.id/39239/ 所述1954年改名、识字班和TK Melati等主张，不能用该摘要直接证明具体支部开办日期。阻碍：本次只读目录未核扫描，尚不能引用任何期内具体活动。
+
+**G1—G10轮换与精确续接**：G1万丹1926殖民逮捕/警讯原件；G2优先核《Api Kartini》1963/1964原期；G3核Aceh军区指挥链与广播文本；G4取Langsa 1965-10-18声明及军区年报；G5核华裔受害者姓名与不同组织关系；G6监禁流亡及1970—98基层再组织；G7 2000工会法的地方执行；G8英美澳中苏具体行动证据；G9人物/地名原文拼写对照；G10正式CSV去重、chronology与中文连续正文。下一可执行动作：①取《Pernjataan》原签署页；②取Kodam-I《Chronologis》pp.7–8；③核1963《Api Kartini》9期影印；④核1964年10期及地方支部文章；⑤跨地区继续西加里曼丹Witono军区报告。长期GOAL未完成。
