@@ -1,3 +1,17 @@
+## ONGOING / GOAL仍进行｜2026-11-18｜巴厘RPKAD抵达日期与屠杀先后：史学争议进一步定位
+
+本次重读AGENTS、goal-continuity、stage-access、continuity-status、chronology及四份正式CSV的首段；claim-ledger分段读取仍返回空文本（本次blob SHA 3d828e018fa05541e84866b5d77af0bde14f0764），因此未虚构S/C/Q/CV正式编号。发现已有另一研究者当日更新G3广播与G4巴厘线索，需在正式台账全量去重后合并，不覆盖其工作。
+
+**实际打开的新增学术原文**：John Roosa, “Who Knows? Oral History Methods in the Study of the Massacres of 1965–66 in Indonesia,” *Oral History Forum* 33 (2013), 全文PDF https://www.oralhistoryforum.ca/index.php/ohf/article/download/528/606/528-Article%20Text-2157-1-10-20130822.pdf 。论文第20页脚注51引用1965-12-10和12-11《Suara Indonesia》两条当时报刊报道，指出一支RPKAD部队12月7日抵达巴厘，更多部队12月10日抵达；论文认为大规模处决被拘押者始于12月中旬。**这是Roosa对报刊与既有研究的转述，不是本轮已打开的1965报纸原版；不得将12月7日写成整个巴厘暴力的绝对起点。** 对照Geoffrey Robinson, “Down to the Very Roots” (2017), https://doi.org/10.1080/14623528.2017.1393935 ，其注15明确修正作者早期“RPKAD抵达后才开始屠杀”的判断：Jenkins/Kammen证实部分杀戮早于部队抵达，而外来部队部署后暴力显著加剧。此处须分别建模早期零星杀戮、部队抵达和大规模处决，不能强行合并为单一日期。Robinson期刊正文页面403，检索可见相关脚注；Roosa PDF全文已打开。
+
+**跨来源核查线索**：Roosa论文第8页叙述2000年Wonosobo附近Situkup乱葬坑发掘，援引前监狱守卫、挖坑者、失踪者家属证言与24具遗骸的法医证据；属于研究者对发掘报告的二手综合，原YPKP《Suara Kita》2001年第11、12期未打开，不能把24具遗骸推算为该地全部遇难人数。论文另指出1965-66杀戮调查需要区分目击、转述、执行者和家属的证词层级。
+
+**精准续接**：①寻找并打开《Suara Indonesia》1965-12-10 “Panglima Brigdjen Sjafiudin: G 30 S harus dipatahkan”与12-11 “RPKAD bantu penertiban di Bali”影印版面，核对部队人数、抵达地点与日期；②取得Jenkins/Kammen 2012论文第99—102页，区分12月7日前发生的具体杀戮地点与证据性质；③取得Robinson所引1965年巴厘地方报纸12月第二周原版及美国A-408电报原文，核查死亡估计来源和形成时间；④取得YPKP《Suara Kita》2001年1—2月两期原文与Situkup法医记录，核对遗骸、失踪人员及证人名单；⑤恢复claim-ledger全量读取后，去重正式登记并更新chronology、coverage和成熟中文正文，轮换1970—2026劳工学生组织。所有GOAL保持OPEN。
+
+**提交追踪**：本节写入前远程续接blob SHA 870e63f3ff10218c8933c0a9be31d6f9c5b6fd5d；本次提交SHA由GitHub写入返回记录，下一轮必须核对main HEAD，不能在同一提交正文中预写自身SHA。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-18｜G3广播命令与G4巴厘起始时点
 
 已按要求读取2026-11-09 G1—G10完整性审计、AGENTS、stage-access、goal-continuity，并读取现有正式四CSV、chronology、research-status及滚动缺口总账。当前轮换两链：1965-10-03 01:30苏加诺RRI讲话公开转录（全文打开，非录音原件）；巴厘1965年11月至12月杀戮起始与RPKAD抵达的时点争议（Robinson索引/脚注可见，全文403；1965-12-21 A-408目录/摘要可见，非电报全文）。证据和缺失原件详见global-gap-tracker.md 2026-11-18条目。未分配正式S/C/Q/CV编号，未把摘要冒充全文，正式CSV与中文HTML尚未并入。
