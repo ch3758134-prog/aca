@@ -1,3 +1,15 @@
+## ONGOING / GOAL仍进行｜2026-11-18｜京都大学原报目录下载障碍与替代检索入口
+
+**本次直接访问与新定位**：再次打开京都大学CSEAS图书室官方馆藏页 https://library.cseas.kyoto-u.ac.jp/collection/ ，确认其2026年7月更新的微缩资料清单链接实际指向 https://library.cseas.kyoto-u.ac.jp/wp-content/uploads/2026/07/microfilm2026.7.8.xls 。该链接为旧式Excel .xls文件，网页读取工具返回“Unsupported content-type: application/vnd.ms-excel”，容器下载亦失败，**没有读取清单内容，不能确认MF-N||In||027的逐期存缺**。另外实际打开官方电子资源页 https://library.cseas.kyoto-u.ac.jp/collection/database/ ，发现该馆提供免费开放的“東南アジア逐次刊行物総合目録データベース”，用于检索日本国内所藏东南亚报刊、杂志、官报的书目信息和所在；这构成与xls不同的可用检索入口，但尚未核对具体《Suara Indonesia》逐期记录。以上均为馆藏元数据，不是1965年报纸原文。
+
+**核验边界**：未读1965-12-10/11报纸扫描，未改变Roosa对RPKAD抵达日期的二手来源级别。正式claim-ledger.csv经GitHub按行读取仍返回空文本（blob 3d828e018fa05541e84866b5d77af0bde14f0764）；source-register/search-log/coverage-matrix首段可读取，无法安全做全表去重或增配C编号。本次不将目录记录误写为新的历史事实，不修改chronology或中文成熟正文。
+
+**精准续查**：①通过支持xls的网络下载通路取得microfilm2026.7.8.xls，查MF-N||In||027卷次和缺号；②进入京都大学开放逐次刊行物联合目录按Suara Indonesia、Suluh Indonesia. Edisi Bali及NCID AA12834930查各馆复制本；③核查KULINE、CiNii和LOC的1965-12-10/11逐期存藏及复制限制；④取得原报后逐页对照Roosa注51、Robinson关于12月前暴力和A-408使馆转述，区分军队抵达、拘押、杀戮；⑤用分段或可完整下载的方式恢复正式claim-ledger并与四表去重，随后更新chronology、专题和成熟中文历史正文，同时转入1970—2026组织史其他开放链条。
+
+**Git锚点**：本次写入前continuity blob 510d6ca3f67a99f9be62f7120bb93ddc98e76e10；此前已核验提交66fc64054d0bf452d3031135463da83dfc114733。新提交SHA以GitHub写入返回为准，不在本次文本虚构自指SHA。GOAL与G1—G10保持OPEN。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-18｜巴厘1965报纸馆藏复制路径与书目题名精确核验
 
 **本次核验的新进展（不等于已阅1965原报）**：实际打开京都大学东南亚地域研究研究所图书室的官方“蔵書紹介／資料種別案内” https://library.cseas.kyoto-u.ac.jp/collection/ ，2026年7月更新的微缩资料清单入口见网页第65—80行。馆方明确将 MF-N 分类为 Newspaper，并列有可阅微缩资料、2026年7月更新的“マイクロ資料リスト”；但此页未逐卷展示《Suara Indonesia》1965年12月10/11日是否缺号，亦未确认能否远程扫描。馆方公开联系信息：libinfo@cseas.kyoto-u.ac.jp，电话 +81-75-753-7306（第131—135行）。上轮CiNii NCID AA12834930、索书号 MF-N||In||027仍为定位依据，未取得胶卷原件。
