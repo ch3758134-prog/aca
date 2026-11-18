@@ -3283,3 +3283,22 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **不同G项G2/G6｜Surabaya 1965-12-27，来源级别：美国领事同期电报212号OCR全文直接重开 https://nsarchive.gwu.edu/media/15722/ocr （馆藏 https://nsarchive.gwu.edu/document/15722-document-26-telegram-212-american-consul ）。** 第2页第3段称领事“we have heard”国营企业招工资格从退伍军人或SOBSI成员变为退伍军人或SARBUMUSI成员；第4段另记Madiun PNI内部HARDI/ALI派系、Madiun指挥官Hilly Soedjono和《Berita Republik》发行争议。**前者是未列具体企业的领事听闻，后者是领事转述12月27日报纸，两者不能证实某厂执行或全部PNI派系服从军方。** 缺失：国企招聘广告/董事会决议、SOBSI和SARBUMUSI工厂名册、12月27日当地原报及PNI地方函电。行动：从泗水港口/铁路/国有化企业选具体企业与月份检索；同一电报不重复计算独立证据。
 
 **G1—G10继续OPEN**：G1殖民与革命原报；G2基层工会妇女农民青年文化；G3跨机关逐时；G4 Aceh/Medan/爪哇/Bali/Flores/Kalimantan/Sulawesi县级；G5族群性别幸存者；G6监禁流亡再组织；G7改革后工厂与政党；G8英美澳中苏具体行动；G9人名/县村/组织关联；G10正式CSV去重、事件排序时间线和中文连续正文。未宣称全量完成。
+
+## GOAL续查方向（二十三）｜南勿里达证言互证、食品管控与族群统计方法（2026-11-18 UTC）
+
+### 已重新打开的材料
+
+- André Liem, “Perjuangan Bersenjata PKI di Blitar Selatan dan Operasi Trisula,” in *Tahun yang Tak Pernah Berakhir*，全书OCR，当前重核印刷pp.173–184、195–199、212。Paijo与Maryono的访谈目录分别记为2001年3月；Maryono记得约40人中8人进洞、32人分两坑，忆及数名姓名，但身份归属不清。相互呼应提高了对这段具体口述的重视程度，不能把同一访谈工程中的两份回忆变成同期档案或法医确认。书中A. Harsono/Harsono话语引用自Jaringan Kerja Budaya的2000讨论汇编pp.128–129；本轮未拿到汇编和会议录音。
+- Vannessa Hearman, “Sweet Potato Dreaming,” pp.82–98。区别农学技术传播、军方“强迫供粮”指控、Jasin议会发言、村民撤离与饥饿、返村后财物损失和日常管制；后几项涉及匿名、回忆性口述。研究者对粮食供给和政治合法性的解释须作为作者分析保留。
+- Komnas HAM, 2012年《Ringkasan Eksekutif》印尼文全文。检查方法说明、区域Makassar华人段落及法律分类数字。没有全国族群表；访问限制和BAP缺失使349份调查证言不构成代表性抽样。
+
+### 不应再误写的口径
+
+1. Paijo和Maryono是两名受访者，但同一研究项目、同一后出书章；将其称作两条完全独立来源不准确。精确埋尸地点要在Bakung、Ngrejo、Luweng Tikus和“河边/洞穴”之间逐条核，不做未经证明的地名合并。
+2. 1965—1966约50万死亡、约2,000华人死亡相除约0.4%，只是两个估计的算术关系，不是全国实际受害者份额；本轮打开的Komnas HAM报告虽记录局地反华暴力，也不含个人级族群数据。不得倒推其他族群比例。
+3. 军方经NU当地盟友获取的“PKI征粮/纳税”说法是Hearman所引安全指控；不能把农业协作直接描述成强迫，也不能反过来否认可能存在个别征取。需要具名家庭、账簿、党令和军方情报原件。
+4. Zainab、Suginem均为化名；她们证言有助于复原地方生活和性别化权力关系，但当前没有对应营地名册、日报、住房财物清单、医学或司法记录。
+
+### 缺失材料与可执行请求
+
+①ISSI/OHP 1965调Paijo、Maryono、Rewang原始音频、逐字稿、访谈者和同意/匿名元数据；②取得Jaringan Kerja Budaya 2000讨论集与A. Harsono发言录音；③申请Kodim资金与车辆征用清单、村级投粮/生产记录；④调《Operasi Trisula》p.206及撤村令、Bakung营地登记、食品/医疗、返乡与每日报到簿；⑤取Jasin对省议会发言的原始速记/纪要及其报告附文；⑥申请Komnas HAM 349份BAP的公开或匿名访问条件，检索是否存在民族身份字段，并与YPKP、地方民事登记、墓葬和失踪名单逐人去重。无民族字段/未开放不等于事件无涉族群，仅说明比例不能计算。GOAL持续OPEN；见S859、S1317、S1324；C2356、C2514、C2516、C2673–C2684；Q550；CV625–CV626。
