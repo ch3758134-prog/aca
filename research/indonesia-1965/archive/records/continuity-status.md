@@ -1,3 +1,17 @@
+## ONGOING / GOAL仍进行｜2026-11-19 03:47 CST｜香格里拉工会分裂及人数口径：2001年4月同期报道原文
+
+**本次直接打开的同期报纸转载全文**：《The Jakarta Post》2001-04-11《Shangri-La union executives resign after uncertain wait》，现存于 https://jawawa.id/newsitem/shangri-la-union-executives-resign-after-uncertain-wait-1447893297 （全文第9—65行）。记者采访SPMS副主席Denny Setiadi、Frits Risakota、财务Budi Susanto和员工Ismail，报道工人于2001-03-31分为约100名继续法律争取和约350名准备辞职的群体；Budi称补偿Rp300万—3000万。报道中Budi否认主席Halilintar Nurdin有关干部受管理层佣金诱导的指控，双方说法不可当作事实定论。酒店经理Wastu Widanto声称截至4月10日400名工人辞职，原参与罢工者579人；这一酒店方统计与工会干部所述350人不是同一口径，须按日期、劳动身份和统计对象核对。Ismail陈述为支付子女学费变卖家庭物品，属于同期当事人个人证言，不代表全部工人。原报由第三方转载，尚未取得报纸影印版。
+
+**对旧证据链的实质修正**：此前414（P4P准许解雇）、580（ILO记录）、606（另一报道争议人数）、81/79（后续诉讼群体）不应被当作彼此冲突的同一时点总人数。此次2001-04-11报道揭示大量成员在P4P决定前已选择遣散/辞职，且工会内部存在路线与生计分歧；但还不能以此推定每个统计数字的精确转换关系。同期《Jakarta Post》2001-10-12报道镜像 https://jawawa.id/newsitem/shangri-la-rejects-hiring-ex-workers-1447893297 搜索可见606及81口径，本次直开失败，保持索引级。2003-03-27 IUF和解原公告仍未取得。另检索IUF旧站 https://pre2010.iuf.org/cgi-bin/dbman/db.cgi?ID=%2A&db=default&nh=7&sb=2&title=IUF&uid=default&view_records=1 ，可见2002年要求复职81人的组织声明，需定位原始发布时间和完整正文。
+
+**台账边界**：已回读AGENTS、goal-continuity、stage-access、continuity-status、chronology以及四份正式CSV首段；claim-ledger.csv blob 3d828e018fa05541e84866b5d77af0bde14f0764 仍按行返回空正文，无法核对现存C编号及重复来源，故不擅自创建S/C/Q/CV编号，不将未正式登记主张写入chronology或成熟中文正文。后续应通过Git blob原始读取或分段文件导出恢复台账，再正式入库。此次证据保存在统一续接状态，未建立列表式HTML。
+
+**精准续查**：①取得2001-04-11《Jakarta Post》原报及SPMS 2001-03-31/04-10成员名册、辞职补偿协议，核对100/350/400/579；②取2001-05-01 P4P 602/358/63-5/IX/PHK/5-2001裁决原文，区分414与580；③取2002年最高法院79人裁判、2003-03-27 IUF和解原公告和工会声明，查81到79的变动；④恢复claim-ledger全量并完成四表去重、chronology及成熟中文连续正文；⑤下一条独立证据链优先轮换1965—1968东爪哇/南苏拉威西军政拘押及1970—1998学生劳工组织。
+
+**本次写入前GitHub main HEAD**：cbd24766d7aa7e5eeb40ad98ae33c8a33d1a6fcb。本次新提交SHA以写入返回和远程回读为准，不能在同一提交自指。GOAL及G1—G10保持OPEN。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-19 02:49 CST｜香格里拉劳资争议：2002年最高法院判决与2003年3月和解公告线索
 
 **直接核读的新完整原文**：Hikmahanto Juwana, *Dispute Resolution Process in Indonesia*, IDE-JETRO Asian Law Series No.21 (2003-03), https://www.ide.go.jp/library/English/Publish/Reports/Als/pdf/21.pdf ，第86页及劳动争议案例章节。该研究明确给出P4P决定编号 **602/358/63-5/IX/PHK/5-2001**（2001-05-01），并称其准许解除414名员工劳动关系；行政高等法院2002-03-26判决编号 **227/G/2001/PT.TUN.Jkt** 撤销该决定并命复职。报告另称2001-11-01南雅加达地方法院判七名工会干部赔偿约IDR20.7 billion。**414、此前ILO的580、工会争议中的606、2003年79是不同文件/程序/时间口径，须核查判决主文及人员名单，不能拼成单一人数。** 学术报告引判决编号但非判决原件。
