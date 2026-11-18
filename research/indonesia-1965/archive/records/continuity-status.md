@@ -1,3 +1,17 @@
+## ONGOING / GOAL仍进行｜2026-11-18｜《Suara Indonesia》1965年12月原报微缩胶卷馆藏定位
+
+**新核实馆藏（仅目录，未阅原报）**：日本国立情报学研究所CiNii书目 https://ci.nii.ac.jp/ncid/AA12834930.amp 已直接打开，标识NCID AA12834930；京都大学东南亚地域研究研究所图书室馆藏《Suara Indonesia》微缩胶卷，索书号 **MF-N||In||027**，馆藏年份1964(5–12)、**1965全年**、1966(1–6)。该条目由美国国会图书馆复制服务发行，相关LCCN **sn96021765**；美国国会图书馆书目 https://www.loc.gov/item/sn96021765/ 的检索结果亦标示1965年12月11日至1966年1月4日曾兼用《Suluh Indonesia. Edisi Bali》名称。CiNii书目已实际打开；LoC详情本次打开遇403，故只按检索页书目记录。**不能据“馆藏1965全年”直接断言某日号完整存世，仍须向馆方核对缺号与影印服务。**
+
+**证据链意义**：Roosa 2013论文第20页注51（已打开全文，https://www.oralhistoryforum.ca/index.php/ohf/article/download/528/606/528-Article%20Text-2157-1-10-20130822.pdf）引用《Suara Indonesia》1965-12-10及12-11两期，作为RPKAD 12月7日及10日抵达巴厘的依据；目前仅有论文转述，**尚未读取报纸原版**。京都大学1965年胶卷为可操作的原报调取路径，亦可交叉核查Robinson所引1965-11-11、12-01、12-10号报道。注意12-11期可能出现《Suluh Indonesia. Edisi Bali》副题，检索时同时提供两种题名。
+
+**检索与访问限制**：2026-11-18用英语/印尼语检索“Suara Indonesia December 10 11 1965 RPKAD Bali Sjafiudin archive”，打开CiNii书目和Roosa全文；尝试直接打开美国国会图书馆书目403、Situs Ingatan chronology 502。尚无1965报纸扫描页，不能把二手转述升级为原始事实；claim-ledger.csv通过GitHub首段读取仍返回空正文（blob 3d828e018fa05541e84866b5d77af0bde14f0764），正式编号与四表去重仍阻塞。chronology和中文成熟正文不据目录单独改写。
+
+**下一次直接执行**：①打开CiNii所链接京都大学KULINE OPAC并查MF-N||In||027的胶卷卷次/缺号/复制政策，向馆方定位1965-12-10和12-11原版；②核对LoC LCCN sn96021765、OCLC 14341455与Washington馆藏可获取性；③逐页核对原报报道中的Sjafiudin/RPKAD抵达日期、发言者及报纸发行日；④把1965-11-11、12-01与12-10号同Roosa、Robinson和A-408比较，明确暴力、拘押与部队抵达各自时间；⑤恢复正式claim-ledger完整访问后按最新最大编号去重登记四表、chronology和成熟中文正文，轮换追查1970—2026劳工/学生组织史。GOAL及子项保持OPEN。
+
+**Git追踪**：写入前远程continuity blob SHA fd1e5cebfecf45cc522517f91e40f93b18e32b97；本次提交SHA以GitHub写入返回及main回读为准，不预填自指SHA。
+
+---
+
 ## ONGOING / GOAL仍进行｜2026-11-18｜A-408美国使馆原件影印核读：巴厘万人估计的证言层级
 
 本次按AGENTS、goal-continuity及stage-access授权继续调查；正式四CSV首段和chronology首段已读取，claim-ledger.csv通过GitHub读取返回空正文（blob SHA 3d828e018fa05541e84866b5d77af0bde14f0764），故没有擅自分配S/C/Q/CV编号或覆盖台账。优先追踪上轮尚未取得的1965-12-21美国驻雅加达使馆A-408原始扫描，而不是重复二手文献。
