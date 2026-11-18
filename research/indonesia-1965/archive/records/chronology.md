@@ -1901,3 +1901,37 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 ### Evidence-verified additions awaiting chronological consolidation (2026-11-18)
 - **1965-12-21 (received 1965-12-22), Surabaya / East Java / Bali:** U.S. Consulate Surabaya telegram No.203 reports an informant's allegation that the army transferred 10–15 detainees nightly to Muslim executioners despite a purported decline in indiscriminate killings. The telegram also records conflicting informants' claims about Chinese-owned shops burned on Bali, and relays a newspaper report of NU's Jombang conference. **Evidence: contemporaneous diplomatic cable OCR, not independent verification of killings or store losses; OCR/scan cross-check and local records needed.** https://nsarchive.gwu.edu/media/15721/ocr ; https://nsarchive.gwu.edu/document/15721-document-25-telegram-203-american-consul .
 - **2000-08-04, Indonesia nationwide:** Law No.21/2000 on workers' unions promulgated; Articles 5–7 set minimum 10 workers per union, five unions per federation, three federations per confederation; Articles 18 and 20 govern registration; Article 28 prohibits employer and other interference. **Evidence: official full legal text; statutory rights not proof of actual local implementation.** https://www.peraturan.go.id/files/uu21-2000.pdf .
+
+
+## 2026-11-18补录｜加托特·莱斯塔里奥（Gatot Lestario）与南勿里达地下领导链
+
+- **1951年起（后出履历）：**Hearman称莱斯塔里奥在谏义里Taman Siswa中学教历史；同篇记其早年教育、为阿米尔·谢里夫丁工作及在玛琅教育部门任职。学校、人事原件未取得。[S1417;C2638]
+- **1952年（后出履历）：**Hearman称他与普吉娅斯瓦蒂结婚，二人有Yanthi、Pradono两个孩子；民事和家庭原件未核。[S1417;C2639]
+- **1967—1968年，南勿里达：**Hearman记录受访者把莱斯塔里奥记作基地领导层联络人，并转述军方史料称他担任项目委员会书记；Muyatno称“Gatot Taryo”是Kompro负责人。两种姓名/职务可能指向同一人，但全名对应与组织层级尚未由原件证实。[S1317;S1417;C2633–C2634;C2651]
+- **1969年1月19日：**Hearman和Amnesty写他在雅加达被捕；TAPOL 66保留“雅加达或东爪哇”，TAPOL 70写他抵达雅加达后被捕。日期较一致，地点较可能为雅加达，但捕获记录未查到；相关研究引用军方史料，不能重复计作完全独立来源。[S1417;S1419;S1421;S1423;C2632–C2633]
+- **1975年末至1978年（审判日期争议）：**Amnesty 1984与Hearman将莱斯塔里奥在Blitar的审判置于1975年末；Manifold出版社2017年章节导言则写1978年。Hearman 2018另文明确将其妻普吉的审判记为1978年，因此导言可能混淆两人的审判年份，也可能与莱斯塔里奥转入Pamekasan监狱相混；没有法院卷宗或编辑底稿，仍不裁定。[S1417;S1420–S1421;S1425;C2642;C2644;C2652–C2653]
+- **1975年12月26日：**TAPOL称莱斯塔里奥在庭审上作出手写辩护词，约80页练习簿纸；1985年TAPOL 71只刊出选段。他承认有些PKI领导人无视组织程序参与缺乏群众基础的“军事冒险主义”，同时否认PKI作为组织策动G30S；并将南勿里达武装抵抗解释为镇压和非法化后的求生反抗。这是被告在死刑审判中的政治陈述，不能单独证明G30S决策链、地下组织运行或军方暴行的每一项细节。[S1426;C2654–C2656]
+- **1976年1月2日或1月9日：**Amnesty 1984报告及Hearman记1月2日死刑判决；TAPOL 70据其引述的印尼报纸写1月9日。判决日期需以法院卷宗和报纸原版确认。[S1417;S1421;S1423;C2643]
+- **1985—1986年：**TAPOL 76称荷兰文书《Indonesië: De waarheid omtrent 1965. Suharto staat terecht》收录莱斯塔里奥辩护词近乎完整、带大量注释文本。1986年6月5日总检察长第KEP-041/J.A/6/1986号决定禁止该书在印尼流通，并命令持有者/传播者交出、检察与警方等机关实施查扣；决定前言称书中指控攻击国家领导人/总统个人，可能扰乱公共秩序，并援引BAKIN首长1986年4月11日意见R/921/IV/1986/G。两页禁令扫描已逐页目视核对；它记录的是政府的法定理由和命令，不证明实际执行范围，也不是对书中事实主张的中立裁断。荷兰文全书和BAKIN意见本身尚未取得。[S1427–S1428;C2657–C2658;C2660]
+- **1982年8月5日：**刊出的书信节录中，莱斯塔里奥自述出生于1925年11月25日、来自特伦加莱克，妻子普吉生于1929年8月8日，二人都曾任教师；他对自己当时年龄的说法与出生日期不合。[S1420;C2636]
+- **1983—1985年：**Hearman据通信材料重建莱斯塔里奥与海外友人、贵格会、Amnesty和TAPOL间的书信联系；馆藏目录列出其书信复印件，但原信尚未调阅。[S1417–S1418;C2635;C2647]
+- **1985年7月1—3日：**Amnesty称收到莱斯塔里奥等三人在Pamekasan/Madura被处决的报告，日期范围为三日；出版的日记节录记具体处决日为7月1日，遗体次日移入监狱墓地。执行簿与墓葬记录未取得。[S1420;S1422;C2637;C2648]
+
+
+## 2026-11-18补录｜图书禁令的法律基础与行政操作渠道（1963–1989）
+
+- **1963年4月23日：**苏加诺签署《总统决定第4号》，授权总检察长以“扰乱公共秩序”为由禁止印刷品流通，允许检察、警方及其他维持公共秩序机关查扣；对指定外文印刷品可先行检查，邮政机关持有的境外禁书可以退回寄件地。法律说明把经印刷品输入的“外国影响”列为国家管理对象，并把损害革命、社会主义和国家领导层的信念纳入“扰乱公共秩序”的例示。法条记录制度授权，不证明每本进口书都经过检查；荷兰版辩护词实际进入印尼的路径未查明。[S1431;C2663–C2664]
+- **1986年2月27日：**《总统决定第10号》重新规定地方领导会议（Muspida）为地方政府、ABRI军官与其他国家机关的咨询协调论坛，负责协调地方机构、评估治安干扰并采取预防或应对措施；省级成员包括省长、军区司令、警察首长和高级检察官，县市层级包括地方首长、区级军事指挥官、警察与检察官。该决定取代1967年《总统训令第5号》，所以不能把地方协调机制的起点说成1986年。[S1432;C2666]
+- **1986年6月5日：**禁印阿姆斯特丹《Indonesië: De waarheid omtrent 1965》的KEP-041援引BAKIN首长4月11日意见R/921/IV/1986/G。[S1428;C2660]
+- **1986年6月18日：**禁印哈罗德·克劳奇《印度尼西亚的军人与政治》的KEP-044援引新闻部1986年5月9日建议第268/IJ/K/V/RHS/1986号，并以书中观点可能损害国家利益、削弱公众对国家领导人与政府的信任作为理由；命令持有者交书并授权检察、警方等机关查扣。两页官方扫描已逐页目视核对；未取得新闻部建议原件或查扣记录。[S1433;C2661]
+- **同一时期的不同进入渠道：**1999年ELSAM研究记述，图书禁令的提议有时由政府机关或社会团体启动；它称1986年6月国会第一委员会与BAKIN听证会上，委员会副主席鲁斯里·德萨（Rusli Desa）要求禁克劳奇著作。ELSAM称禁令约一个月后作出，但没有给出听证日期，而官方命令日期为6月18日，因此间隔仍待核；听证、BAKIN的在场和命令所引新闻部建议目前是不同的记录，不得合写成同一已证实操作链。ELSAM还根据禁书决定前言和相关制度文件描述政治安全协调会议、BAKIN、Bakorstanas、Bais ABRI、警方、宗教部及检察机关的意见流动；会议纪要和各部门呈文尚未取得。[S1430;S1433;C2662;C2665;C2669]
+- **地方和后续国家层级：**Keppres 10/1986提供了军政机关地方协调的正式框架；ELSAM称地方Muspida曾讨论所谓“危险书籍”，地方检察机关在某些个案中先于总检察长禁令采取行动，但本轮没有取得具体会议记录或地方查扣卷宗。[S1430;S1432;C2666–C2667] ELSAM把1988年Bakorstanas取代Kopkamtib及1989年总检察长设立跨部门“清理委员会”视为审书机制的后续制度化；清理委员会晚于1986年两项禁令，不能用来解释那两项决定的审批程序。1989年决定原件和会议资料尚未取得。[S1430;C2668]
+
+该组材料可重建当局有权力采取什么措施、命令前言公开点名了哪些意见来源，以及一项后来的研究如何追溯地方和中央的制度网络；还不能重建每个案件的完整传递、决策、执行和跨境物流。
+
+
+## 2026-11-18补录｜莱斯塔里奥辩护词的出狱、翻译与题名链（1975–1985）
+
+- **1975年12月26日：**莱斯塔里奥作出手写庭审辩护词；TAPOL 71于1985年刊出英文节译，称原稿近80页。Hearman 2016年文章后称前政治犯把辩护词副本带出监狱，随后出现荷兰文版。[S1417;S1426;C2654;C2670]
+- **1985年：**Hearman称荷兰文版由W.F. Wertheim作序、题作《Indonesië klaagt aan》，用名意在呼应苏加诺1930年辩护词。CiNii同时记录另一部1985年苏加诺辩护词印尼文版《Indonesia menggugat》（188页），异名也列《Indonesië klaagt aan》。两项书目证明存在同名/互文关系，不能据同名把两本书合为一件。[S1417;S1434;C2670–C2671]
+- **版本页数待核：**斯科特书目称其文收在《Indonesië: De waarheid omtrent 1965》pp.170–235；Ardjoeno Books的书商目录却把该书记为35页。该页数冲突未见实体书解决，莱斯塔里奥辩护词具体分页也未核。[S1429;S1436;C2672]
