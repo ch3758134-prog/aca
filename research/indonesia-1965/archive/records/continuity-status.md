@@ -4157,3 +4157,16 @@ BPK官方法规页 https://peraturan.bpk.go.id/Details/77661/pp-no-53-tahun-1951
 8月17日演说也记录了苏加诺关于美国支持BPS、美国援助马来西亚的公开指控；已明确登记为总统的政治表述，而非介入事实的独立证据。8月31日Keppres256、9月2日257和9月3日258–259建立并细化的是经济自力更生指挥机构KOTARI及其参谋系统，职权为经济建设；259号决定任命的五名部门负责人中四人以将级军衔列名，显示军职与内阁职务交叠，不能误作第五力量实施。
 
 **下一轮优先：**取ANRI 750、779–781原件与5月31日演讲全文；对读TAKARI不同版本；取服务军种方案、内阁/国防会议记录及训练和军械账；另查KOTARI预算和部门执行记录，并以同期美国/印尼文件逐项检验BPS和马来西亚指控。未修改HTML、人物/事件网页、作者立场文件；尚不作政治结论，GOAL保持进行中。
+
+
+## ONGOING / GOAL仍进行｜2026-11-18 19:49 CST｜1981年Sudjinah个案与1975年四妇女审判的司法后续
+
+已复核AGENTS、goal-continuity、stage-access、chronology及四份正式CSV的可访问片段；未打开作者立场。正式claim-ledger尚不能可靠全量读取，故本条是待正式去重的接力记录，不分配S/C/Q/CV编号，也不宣称更新chronology或成熟中文正文。
+
+**本次直接打开的同期来源：** Amnesty International, *Prisoners of Conscience* (1981), AI Index ACT 31/05/81, 印刷pp.9–10的Sudjinah人物专章，原件 https://www.amnesty.org/en/wp-content/uploads/2021/06/act310051981en.pdf 。与已记录的AI *Report 1975–1976* pp.132–135（https://www.amnesty.org/en/wp-content/uploads/2021/05/POL1000011976ENGLISH.pdf）对读。二者同属国际特赦组织出版物，不能当作完全独立的两条见证链。
+
+**新延伸的可核主张及来源限制：** 1981年出版物记载：雅加达地区法院1975年判Sulami二十年、Sudjinah十八年、Sri Ambar Rukmiati与Suharti Harsono各十五年；检方上诉要求更重刑罚，1980年2月最高法院维持原判。这是人权组织对司法进展的报告，尚非最高法院判决原件。报告称1979年11月司法部出台允许已判政治犯按普通刑事犯规则获得减刑/假释的规定；Sudjinah在1980年2月仅获三个月减刑，报告预计1983年释放，**预期释放日期不得写成已发生的释放事实**。同一来源报告1980年1月Bukit Duri政治犯翼关闭，1981年2月Sudjinah与另七名已判妇女转往Tangerang新女监；仍需监狱移交登记确认人数、日期与身份。该报告还述及Sudjinah 1954年赴东柏林参加国际民主妇联秘书处工作、1956年返印尼、1964年离开《真理报》记者助手工作；此为人物履历的机构转述，需Gerwani/WIDF档案与雇佣记录核对。报告记四人在狱中靠刺绣补贴生活、健康恶化，为当时组织所掌握个案，不能推为所有政治犯生活状态。文内对于Gerwani与PKI的正式组织关系明确区别于官方指控。
+
+**反证与来源依赖：** 2016-09-29 CNN Indonesia《Kisah Getir Aktivis Gerwani dan Sidang Subversif》https://www.cnnindonesia.com/nasional/20160929121612-20-162079/kisah-getir-aktivis-gerwani-dan-sidang-subversif/ 可直接阅读，复述四人刑期并引用Sudjinah/Sulami回忆及Ita Fatia Nadia访谈；它是后出记者整理，可能与AI及回忆录共享材料，不应以报道数量充当独立证据。1950年代组织职务、1975年罪名、1980年最高院裁决、狱中健康与出狱后的证言应分层。
+
+**精准未完事项：**①以Sudjinah、Sulami、Sri Ambar Rukmiati、Suharti Harsono姓名及1975雅加达法院案号检索原起诉书、判决和1980年2月最高法院上诉裁判；②检索1979年11月司法部减刑/假释命令编号及原文，核减刑资格和实际个案；③取得Bukit Duri 1980-01关闭、Tangerang 1981-02转监移交名册，验证另七人身份与待遇；④追查Sudjinah 1954–1956 WIDF东柏林工作和Gerwani教育文化职务的原始机关文件，并比对其2003年回忆录；⑤用完整Git blob或分片安全读取正式claim-ledger，逐项去重并库四CSV、chronology、研究状态与成熟中文连续历史正文，再轮换1965–1968地方军政镇压及1998–2026劳工学生组织链。GOAL与G1–G10保持OPEN，未穷尽。提交自身SHA由GitHub写入返回值及远程main核验确定。
