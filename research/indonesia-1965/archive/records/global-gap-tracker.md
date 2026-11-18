@@ -3550,3 +3550,16 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **跨G项持续链 G4/G5 东爪哇**：再次核读1965-11-24美国驻泗水第183号电报OCR https://nsarchive.gwu.edu/media/15711/ocr ，5座车站因工人遇害/恐惧停运系领事引铁路负责人之言；25与29具河中尸体可能重复，Tulungagung 15000人属领事质疑的传闻。应以铁路停运日志、地方遇害者名单、11月22—23日报纸及军区交接命令进一步核验；不能以领事消息替代当地原件。
 
 **证据等级/覆盖/缺件/行动/阻碍**：G2/G8=1963—1965南苏门答腊Palembang、Pladju、Prabumulih、Sungaigerong、PUSRI、PERBUM/SOBSI、Shell/Stanvac、军方，原始外交电报OCR已读，厂级名单、军方拘捕令、火灾调查、企业交接原件未得；G4/G5=1965年11月东爪哇铁路与地方暴力，原始外交电报OCR已读，地方铁路/死亡登记未得。下一步：①核1290影印的地名、页码和数字；②查Pladju/Prabumulih/PUSRI 1965-10工会及拘押档案；③读1963年第14号法全文和1965-12 Shell交接协议；④核东爪哇铁路五站；⑤正式四表去重后纠正已有地理条目并更新chronology与成熟中文历史正文。正式台账路径已通过Git树确认在archive/records/，claim-ledger.csv读取首段仍为空，故不分配新S/C/Q/CV编号。G1—G10仍OPEN。
+
+
+---
+
+## ONGOING / GOAL仍进行｜2026-11-18｜G3/G4中爪哇空军内部报告与G4/G5南苏拉威西同期外交证词（OPEN）
+
+**治理/全局**：本次重读 `completeness-audit-2026-11-09.md` G1—G10、AGENTS、stage-access、goal-continuity、continuity-status，核查正式source-register、search-log、coverage-matrix和chronology真实路径（均在 `archive/records/`）；claim-ledger API返回空正文（SHA存在），故不冒险分配S/C/Q/CV。前一长期链1290号电报的**Palembang南苏门答腊**纠错继续有效：档案馆编辑说明的North Sumatra与电报正文冲突，不得回退。
+
+**长期链G3/G4/G9｜中爪哇Surakarta/Solo，1965-10-22—29；AURI、RPKAD、陆军、警察**：直接打开印尼空军情报局1965-10-29原始印尼文报告PDF全文（`NO. 051/ch/pr/1/65`，正文标题明确为`IKHTISAR SITUASI DJAWA TENGAH`，https://nsarchive.gwu.edu/sites/default/files/documents/4107020/Document-10-Report-from-the-Director-of.pdf）。**重要元数据纠错**：国家安全档案馆目录将此件标题写作“situation in East Java”，但原件页首写的是**中爪哇**，实际地点Surakarta、Kartosuro、Boyolali等；必须以原件为准。报告第2项记10月23日成立由Sarwo Edhie上校主持、由陆军/RPKAD、空军AURI和警察AKRI组成的联合安全参谋部；第6项分别报告10月22日示威冲突死6伤35、10月23日Semu区14人遭绑架/杀害、10月24日Kartosuro 21名受害者、Benteng发现6具掩埋尸体。**这些是空军情报机关当时记录的数字，不是已独立证实的死者总数；不同类别和地点不可简单相加。** 第7—11项记10月22日空军提供一排及BT-13、Piper Cub各一架参与空中侦察和传单散发；10月23日空中侦察报告Panasan北方约5000人聚集；10月24日继续在Boyolali等地投传单，空军与地方警察共同执行巡逻。第12项记空军司令发出10月27日起生效的`OPERASI WASPADA PENDAHULUAN`命令，准备调PGT伞兵连、轻型战斗/轰炸机、运输机和侦察机。**命令列明的是准备/拟部署，不等于所有部队已经抵达或出击。** 该件是直接打开的当事机构同期原始报告（网页呈可抽取文本），不是单纯目录；仍需军令原签署页、联合参谋部日志、受害者名单及地方报纸交叉。**缺件/行动**：①寻找10月23日联合参谋部命令与Sarwo Edhie指挥日志；②按Semu、Kartosuro、Benteng查警署/墓葬登记；③取得10月27日`OPERASI WASPADA PENDAHULUAN`原命令与实际调机飞行记录；④把空军与RPKAD叙述交叉。**阻碍**：机构自报与死亡数字未经地方原件独立验证。
+
+**异地区G4/G5/G8｜南/东南苏拉威西，1965-11-10—12；Makassar、Bone、华商、军方、地方宗教人士**：直接打开美国驻雅加达1965-11-12第1425号电报公开OCR全文（https://nsarchive.gwu.edu/media/15708/ocr），第7段引用一位刚抵雅加达的苏拉威西新教人士报告：11月10日Makassar反华骚乱中约90%华人商店遭冲击并毁坏货物，军队据称阻止人群进入中国领馆；同一转述称Bone地区穆斯林冲入拘押营杀害约200名PKI囚犯。**这只是匿名转述经美国使馆再转述的同期情报，90%及200均未独立核实，不得列为已证实规模，也不能凭此断言军方策划骚乱。** 第7段同时记载关于中爪哇Aidit下落的互相冲突消息，说明同期情报存在明显不确定性。**缺件/行动**：①核1425原件扫描第7页和电报分发；②查Makassar 11月10—13日商会、警署、领馆及报刊，核商店数量/财产损失；③查Bone拘押营地点、死亡名单及军区记录；④与南苏拉威西Moncongloe后续监禁线区分年代与机构。**阻碍**：单一匿名转述、OCR噪声、缺印尼本地原件。
+
+**跨G项轮换与准确接力**：G1早期殖民与革命组织原件；G2 SOBSI/BTI/Gerwani/Pemuda Rakyat/LEKRA基层；G3上述10月联合安全指挥与空军部署；G4 Aceh、北/南苏门答腊、爪哇、巴厘、Flores、西加里曼丹、Sulawesi逐县核验；G5死者/被拘者及华商个人名单；G6长期监禁流亡和1990年代再组织；G7改革后工会；G8外国情报/公司介入；G9按省县纠正地名与人员组织；G10正式CSV去重、时间线和成熟中文连续正文。下次优先空军10月27日作战命令、10月23日联合参谋部日志、Makassar商会/警署记录、Bone拘押名册，以及1290电报Palembang厂级工会名单。未宣称已更新CSV/chronology/HTML；GOAL仍OPEN。
