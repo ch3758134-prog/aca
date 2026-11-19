@@ -1,3 +1,15 @@
+## 2026-11-19｜G4/G9巴厘1965年12月报刊原件定位与G5/G6中爪哇Bacem桥幸存者证词（ONGOING）
+
+**审计与治理**：已重新直接读取2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity及continuity-status最新可见段；本次未读取正式CSV全表，故不占用S/C/Q/CV编号，也不宣称已完成正式并库。已核对同一长期总账既有Robinson巴厘与南勿里达条目，避免将同一学术文献重复算成独立证据。G1—G10全部OPEN。
+
+**G4/G3/G9（巴厘，1965年12月；RPKAD、当地军区、报刊）：** 直接阅读John Roosa (2013), “Who Knows? Oral History Methods in the Study of the Massacres of 1965–66 in Indonesia”, *Oral History Forum* 33，开放PDF第20页脚注51及正文，https://www.oralhistoryforum.ca/index.php/ohf/article/download/528/606/528-Article%20Text-2157-1-10-20130822.pdf 。作者据同期《Suara Indonesia》1965-12-10报道“Panglima Brigdjen Sjafiudin: ‘G 30 S’ harus dipatahkan”及1965-12-11报道“RPKAD bantu penerbitan [sic] di Bali”，提出RPKAD一连于12月7日、增援于12月10日抵达的精确待核日期；并批评另一研究把抵达误记为12月12日。**证据等级**：已读2013学术论文全文及精确报刊书目，**未读1965两期报纸原版**；12月7/10是学者对原报的复原，不能直接登记为军方运输/登岛日志。此前Robinson 2017论文已明确更正“RPKAD抵达前绝无杀戮”的旧论断；因此需区分零星早期杀戮、被拘押者集中处决起点与外来部队抵达后暴力升级，不把这三种事件混为一谈。**缺件**：1965-12-10/11《Suara Indonesia》整页、运输日志、巴厘各县拘押登记与名单。**行动**：检索印尼国家图书馆/巴厘报刊馆藏两期原件，核对报道形成日、部队数量、地点和实际登岛日期，再与Jenkins/Kammen、Robinson分别对读；阻碍是原报尚未开放直接影印。
+
+**不同地区及G项链 G5/G6/G9（中爪哇Solo—Bacem桥，1965—1966与1998后幸存者记忆）：** 同一Roosa 2013开放PDF第22—24页直接读到Pakorba Sala幸存者口述研究的详细书目及转述：Hersri Setiawan编著《Kidung untuk Korban: Dari Tutur Sepuluh Narasumber Eks-Tapol Sala》（2006），所访Bibit据述1965年17岁、曾参加亲PKI青年文化活动，躲藏后为民兵提供线索，1966年曾目睹Bacem桥处决被拘押者并被要求将尸体推入河中。**证据等级**：已读Roosa学术文章对2006口述书的引述，**未取得Bibit访谈原录或2006原书全文**；其自述既含参与迫害又含目击，不能仅凭一人确定死亡人数、全部军方指挥链、受害者名单。此案例使1965后基层生存、协作与受害者身份的界限更复杂，需避免把所有见证人归入单一角色。**缺件**：2006年书pp.230起的原访谈、拍摄纪录片《Jembatan Bacem》(2013)访谈底稿、桥附近拘押地点与县军警名册、1998后Pakorba/YPKP地方组织档。**行动**：追查原书、纪录片和至少两名不同立场证人，再按拘押地—运送—处决—清理尸体逐点核对。阻碍是口述文本与行政原件尚未取得，不能写为独立已证事实。
+
+**跨G项未结轮换**：G1 Banten殖民审讯原件；G2 SOBSI/BTI/Gerwani基层记录；G3 1965跨机关命令；G4 Aceh/北苏门答腊/东中西爪哇/巴厘/Flores/西加里曼丹/Sulawesi逐县对比；G5妇女、族群与幸存者；G6 1968南勿里达、拘押与流亡；G7 1998—2026工会/政党基层；G8外部介入原件；G9人物—地点—组织索引；G10正式CSV、按事件时间排序的chronology和成熟中文HTML。**下一直接执行**：①取得1965-12-10/11《Suara Indonesia》；②核对Bacem桥Bibit原访谈；③取得南勿里达1971年儿童寄养调查；④对正式四CSV去重后更新统一时间线；⑤扩展北苏门答腊与Aceh县级命令。GOAL未完成。
+
+---
+
 ## 2026-11-18｜G4/G5/G6/G9｜西加里曼丹1967驱逐与1996—1997暴力的跨年代证据链（OPEN）
 
 **本次已读审计**：archive/records/completeness-audit-2026-11-09.md G1—G10全文，AGENTS、stage-access、goal-continuity、continuity-status；正式CSV/chronology在本次尝试的根目录及研究目录路径均404，不能假定已读取或修改。G1—G10继续全部OPEN。
