@@ -3802,3 +3802,14 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 - 1961人口普查官方目录可读但问卷/全文访问本轮遭403/503；无新证据证明其中收集了族群变量。既有方法研究S1318认为该次普查未收集族群，不能据人口数推算受害者族群分布。
 - 取得Melvin引用的Langsa Baperki原声明及148人名册、Aceh Utara县报告和304人名单、Djuarsa驱逐令、交通/港口登记与难民名册，分别确认拘押者后来命运和约10,000迁出估算。
 - 继续与家庭、墓地、民事死亡登记、区域受害者数据库连接，记录姓名、族群来源、政治组织、拘押/失踪/死亡/迁移、地点及去重规则。全国华裔约2,000人死亡估值与地区种族化暴力研究之间的争论仍开放；全国各族群百分比尚不可计算。[S612;S855;S1311;S1318;S1322;S1383;S231;C1030;C2310–C2311;C2340–C2341;C2374;C2422–C2423;C2875;C2877–C2879;CV645]
+
+
+## 2026-11-19｜G6/G4 南勿里达1968年Trisula日期及G4/G5 Flores原件缺口（ONGOING）
+
+已核读完整性审计G1—G10及AGENTS、stage-access、goal-continuity。研究目录下正式CSV和chronology尝试读取均404，不能分配正式S/C/Q/CV号；continuity-status连接器返回空正文，不能假定已掌握最新交接。须查明正式台账真实路径后再并库。
+
+**长期链 G6/G4（东爪哇Blitar Selatan，1967—1968）**：直接打开印尼文化部历史百科《Peristiwa Blitar Selatan》 https://esi.kemenbud.go.id/wiki/Peristiwa_Blitar_Selatan ，记述1967年5月开始侦察、1968年7月3日派Witarmin；直接打开detikJatim 2022报道 https://www.detik.com/jatim/budaya/d-6322333/sejarah-pki-di-blitar-selatan-pemberontakan-penumpasan-dan-rekonsiliasi ，转述1968年5月18日Satgas成立、6月1日正式行动及6月6日空军Elang命令。另定位公开研究PDF https://pustaka.taratsa.id/download/1016/pdf/1016.pdf ，检索可见文本记载6月8日至7月3日为正式战斗期，且把5月、6月与7月分成情报、战斗、行政不同阶段。**不同日期可能对应不同动作，尚不可任选一个作为唯一开始日**。媒体所引军史《Operasi Trisula》及PRINOP 02/05/1968、空军6月6日命令均未取得原件。应查命令签发/生效、侦察、封锁、战斗、扫荡、撤收各日期；核实Witarmin职务、Pratomo讯问来源及被捕者数量分母。来源等级：官方二次历史叙述全文网页；媒体转引全文网页；研究PDF仅搜索可见节选，非原军令。不得将军方有关受害者身份和组织责任的说法升级为事实。
+
+**异地区高价值缺口 G4/G5（Flores Maumere，1966年2—4月）**：检索定位John Mansford Prior 2011《The Silent Scream of a Silenced History: Part Two: Church Responses》 https://www.researchgate.net/publication/274532064_The_Silent_Scream_of_a_Silenced_HistoryPart_Two_Church_Responses ，当前只取得摘要：作者称Maumere杀戮发生于1966年2—4月，讨论当地天主教徒之间的暴力、军方推动与教会不同层级回应，并提出800—2000范围。**该范围是作者摘要主张，不是独立清点，不能写为核实死亡数**。需找论文Part One/Two开放全文、当时教区通信、荷兰传教士原始日记与采访、军方命令、受害者姓名及村庄名单；核对教会内部不同人员反应，避免将所有天主教徒作为统一行动者。阻碍：仅摘要，无地方原件。
+
+**续接位置**：①查1968年PRINOP 01/02、02/05、空军1968-06-06命令的原件与阶段日历；②获取Prior论文全文与Maumere教区/传教士同期记录；③定位正式四CSV及chronology实际仓库路径并按最新编号去重登记；④切换北苏门答腊/巴厘/West Kalimantan原始军区资料；⑤按证据成熟度扩充中文连续正文。G1—G10全部OPEN，长期GOAL未完成。
