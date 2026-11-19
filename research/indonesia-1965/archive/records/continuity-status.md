@@ -234,3 +234,18 @@
 **精确未完事项**：1. 核刊头“Th ke-VI”与1959创刊、1964年11—12月期及馆藏误标的书目关系；2. 直接核原刊第6—7、29—30页各组织代表致辞与正式会议结论，抽取有姓名/职务的关系并核反证；3. 找1964年Gerwani地方研讨会调查报告、代表名册及幼儿托育执行记录，检验“中央—地方”机制；4. 与1961年1月17—20日Gerwani农妇研讨及SOBSI女工原刊并列，避免将三类对象混为一个组织网络；5. 继续轮换1965年Aceh军政命令及1970—1998年拘押/劳工原件，并优先解决claim-ledger完整字节读取与正式表去重。
 
 本次写入前核对状态blob=a9c16b0068cdb7300317a87a67b8a65f1f5d3b6d；最终提交SHA必须以GitHub提交返回及下一次main HEAD为准，不能在自身提交正文预写。GOAL保持ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-20 06:47 CST｜Aceh 1965地方禁令的倒溯日期与执行顺序（ONGOING / GOAL仍进行）
+
+本轮在核读既有Gerwani 1964研讨会原刊后，转向Aceh地方镇压的**命令日期与实际执行顺序**，以免反复只追同一份妇女刊物。直接打开Jess Melvin发表于 *Journal of Current Southeast Asian Affairs* 的全文网页及PDF（https://journals.sagepub.com/doi/full/10.1177/186810341303200304；https://journals.sagepub.com/doi/pdf/10.1177/186810341303200304），复核作者引用的《Chronologis 1966》《Pernjataan 1965》与《Surat Keputusan 1965》。**访问级别：已读学术论文中原始文件的摘引，未直接阅读所引军方记录、地方决定原件或附表。**
+
+重要待核事实链：论文报告10月8日Banda Aceh已有Baperki办公处与商店遭攻击；10月9日Sigli袭击对象包括Baperki、PKI、Lekra、Pemuda Rakjat及Gerwani；10月11日Kodim-0104指挥官Major Iljas Mahmud约见Langsa Baperki领导层；10月14日Kuala Simpang与Pulo Tiga又发生针对组织办公处的攻击；10月18日Langsa Baperki成员声明退出及解散，声称附148人名单。**148是声明中的成员人数，不是死亡人数。** 作者进一步指出，Ishak Djuarsa以Pepelrada身份于**10月29日**颁布冻结包括Baperki在内组织活动的决定，声称**追溯至10月20日生效**，但要求有关组织负责人最迟**10月25日**向机关报到。这是值得优先核查的**签发日、追溯生效日与已过报到截止日三者错位**，不能在取得原件前擅自改写为10月20日签发，也不能仅凭论文判断地方实际收到命令的时间。作者另引受访者关于Jan Sun Ming遭殴打后失踪的回忆，须分别记录证词、未知施暴者、未知最终下落，不写成已确证死亡。
+
+交叉/反证：1964年《Api Kartini》原刊（https://pustaka.taratsa.id/read/1392/ocr/pdf/）的11月4—6日家庭妇女研讨会属于1965年镇压前组织活动背景，**不能用作1965年军令独立佐证**。Melvin论文中的《Chronologis》为军方自身编纂的事后记录，袭击者规模、军方所谓“制止”及地方民间组织参与须用同期报刊、当地证词、决定原件复核。此次也发现印尼国家雅加达大学2026年《Api Kartini》研究论文目录（https://repository.unj.ac.id/68003/），仅打开摘要，尚非全文证据。
+
+**正式并库状态：** 已定位并读取正式source-register.csv、claim-ledger.csv、search-log.csv、coverage-matrix.csv及archive/records/chronology.md；大表需完整去重，尤其不能重复分配已有S/C编号。本轮未安全完成新增主张的正式去重并库，故不宣称更新四表或chronology，也未新增阅读版HTML。此处仅保存待核原件链与具体核查问题。
+
+**下一次精准执行：** (1) 追索Melvin注释所指《Surat Keputusan 1965》影印第2—3页，确认10月29日签发、10月20日生效、10月25日报到三日期是否原件如此；(2) 追索《Chronologis 1966》第3—9页并逐项校对10月8、9、14日地点、组织与军方表述；(3) 获取《Pernjataan 1965》原件及148人附件，建立人员身份与后续下落待核表，不能推定受害人数；(4) 查印尼文1965年10月Aceh地方报纸、Pepelrada公告及口述资料，复核地方禁令实际传达日期；(5) 轮换SOBSI/BTI组织、Buru拘押劳动及1998后工会制度，待正式台账可安全去重时先更新正式CSV和chronology再写成熟中文正文。
+
+**写入前已核验main最新提交SHA：d707c5262e625bcdd31dc4f25948d4ebd52b29d5。** 本次提交生成的新SHA需在提交后另行核验；状态正文不能预知自身提交SHA。GOAL永久OPEN，未获用户终止指令。
