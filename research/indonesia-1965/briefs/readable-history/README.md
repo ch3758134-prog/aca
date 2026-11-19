@@ -4,6 +4,20 @@
 
 - [苏加诺时代以来的印度尼西亚左翼：组织、权力与政治断裂（1945—2026）](sukarno-left-mainline-1945-2026.html)：以苏加诺时期政治结构为叙述轴，从1945共和国建国和1948左翼受挫写到1951年艾地与卢克曼、尼约托、苏迪斯曼的具体党务重建，再叙述SOBSI、BTI、Gerwani、LEKRA及1955选举、国家军队资源、1965年9月至1966年执行机构命令、地区暴力、1966—68权力转移和1990年代以后独立工会与幸存者权利。正文要求交代人物职务、真实行动和机构执行，拒绝“领导人决定”“军方行动”之类无主体概括，保留具体来源注释。这是持续修订的成熟局部，不表示相关原件已全部完成核验。
 
+## 2026-11-19：新增研究史料写入中文历史正文
+
+本次读取main至更新时的最新研究记录，在百科研究分支补写了以下连续历史过程：
+
+- [南勿里达：Trisula、村庄、粮食及土地历史](encyclopedia/regions/south-blitar.html)
+- [1968年Trisula行动：地下党组织、军队命令与实际后果](encyclopedia/events/event-trisula-1968.html)
+- [Oloan Hutapea：具名政治活动与死亡日期冲突](encyclopedia/people/person-oloan-hutapea.html)
+- [巴厘岛：12月军事增援的不同来源时序](encyclopedia/regions/bali.html)
+- [布鲁岛：1978—1979年政治犯分批释放与获释后的限制](encyclopedia/events/event-buru.html)
+- [1998年工会结社权制度变化](encyclopedia/events/event-reformasi.html)
+- [2000—2003年雅加达Shangri-La酒店工会争议](encyclopedia/events/event-shangrila-2000.html)
+
+本次所有日期争议、证据接触层级和统计口径限制保留在相关历史章节，而非生造单一确定值。研究分支仅写HTML与阅读目录，不改main仍在更新的正式CSV、chronology或统一调查状态。主线已陆续纳入，GOAL继续ACTIVE/OPEN。
+
 ## 2026-11-16：新增史料正式写入阅读版HTML
 
 现有两份苏加诺时代连续主线已补充2026-11-15 Codex研究分支及 main 随后新增的已核学术原文和人权报告事实；重点涉及亚齐1965—66军区/Baperki/驱逐、弗洛勒斯马乌梅雷KOMOP及教区人员、1923年铁路罢工各公司参与和解雇差别、1995—98年1965旧案长期政治犯、PRD/PPBI/SMID的人员判决与失踪调查。
