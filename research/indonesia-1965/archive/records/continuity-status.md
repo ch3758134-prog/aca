@@ -30,3 +30,14 @@
 **精确未完事项：**（1）核对正式source-register/chronology现有KEP.16登记的完整定位与claim-ledger对应主张；（2）调取PER-05/MEN/1998和KEP.201/MEN/1999原件，核对被2001决定替换的具体条款；（3）取得至少两地2000—2002年县/市登记簿、重新登记号码及拒绝/补件记录，查第11条执行；（4）对照SBSI、独立企业工会的当事人文件和ILO申诉，区分规范开放与地方限制；（5）轮换Aceh 1965军区原件、南勿里达Oloan档案及SOBSI/BTI/Gerwani组织原件，保持跨年代连续调查。
 
 写入前核验远程main HEAD：`b21c0f78a5f256a00fbe443eb0042f6ab9ed0861`。此SHA是**本次写入前**基线；本次写入所生成的提交SHA应以GitHub提交结果及下一轮main HEAD核验为准（Git提交不能在自身正文预写自己的SHA）。GOAL始终ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-19｜G4 Aceh 1965-10-11县议会与G1殖民档案取件入口（GOAL OPEN）
+
+**治理**：本次重读G1—G10完整性审计及AGENTS、stage-access、goal-continuity；核对正式source-register、search-log、coverage-matrix、chronology真实路径均为`archive/records/`，不是研究目录根路径；claim-ledger.csv的GitHub接口仍返回空正文但有blob SHA，严禁覆盖或凭预编号分配C。既有Jess Melvin 2018已登记，不把同书不同搜索命中算新独立来源。
+
+**长期链G4/G3/G9｜西Aceh Meulaboh，1965-10-11**：再次核读Jess Melvin《The Army and the Indonesian Genocide》开放PDF第145页及第158页脚注69—83（https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf）。书中逐页引述西Aceh县DPRD-GR 10月11日特别公开会议的简要记录：会议约四小时，县军方、行政机关、Front Nasional及政党/群众组织代表参加；PKI及县议会“共产党组”代表Saidul列于六名缺席者，T.M. Yatim在2011-12-03访谈称Saidul后来被捕杀害；县议会在共产党组遭禁后余民族、宗教、职能三组。脚注83又指出会议讨论了县Front Nasional与各党/群众组织于10月8日形成的一份宣言，**作者未取得该宣言原件**。这提供一条更早的10月8日→10月11日组织和行政排斥链，但书中引述会议记录与Yatim晚年访谈属于不同证据类型；Saidul命运尚无羁押/死亡原件。**来源等级**：学术著作全文已核，原会议记录、10月8日宣言、签名及县政府原簿未直接打开；不能称已核军令或杀害执行链。取件：按书中印尼语全题`Risalah Singkat, Sidang Istimewa, Rapat terbuka, Dewan Perwakilan Rakjat Daerah Gotong Rojong Daerah Tingkat II Atjeh Barat, 11 October 1965`向Aceh地方档案核21页八件文件包及10月8日宣言；核Saidul拘押记录，按出席名单复原机关代表。
+
+**不同G项G1｜殖民劳动/通信/种植园制度的原始档案目录**：ANRI官方JDIH“Dokumen Langka”目录（https://jdih.anri.go.id/doklangka ，本次直接打开）列出`Archieven Cultures/Arsip Perkebunan (1816–1900) No. K.68`、`Post-, Telegraaf-, en Telefoondienst (1817–1950) No. K.89`和`Algemene Secretarie Serie Grote Bundel Telegram Gouvernement Secretaris (1887) 1892–1942 No. K.87g`。这是官方**目录级**证据，只能证明可申请的馆藏类别，不能推断某年PKI、ISDV或Sarekat Islam具体活动已在卷内。ANRI服务说明（https://www.anri.go.id/en/around-the-records-and-archives/archives ）提供按形成机关与媒介查阅finding aids的路径。取件：先申请K.68/K.89/K.87g详细inventory与逐件目录，再检索1910—1942工人组织、罢工、电报与殖民行政响应，随后对照荷兰报刊；不得用目录替代档案全文。
+
+**G1—G10总账仍OPEN**：G2 SOBSI/BTI/Gerwani基层；G3军政逐时；G4跨省镇压；G5妇女/族群幸存者；G6拘押流亡；G7当代基层工会；G8英美澳中苏具体行动；G9人地组织关系；G10去重并库与中文连续正文。本次仅更新滚动状态，未改正式CSV、chronology或HTML；下一接力优先取西Aceh 10月8日宣言和11日会议原影印，同时轮换G2 1954 Gerwani原章程及G8英澳原电报。GOAL未完成。
