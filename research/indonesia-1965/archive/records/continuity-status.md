@@ -177,3 +177,8 @@
 **精准未完（连续执行）**：①调取ANRI KOTI 727的1962-09-30信件影印、发件人签名和附件，查厨房盐实际交付；②取得《Harian Rakyat》1962-09-29、11-02原版及培训中心开闭幕、60名学员和赴伊里安四人名单；③核对1962合刊的1963-02-03许可日期是否为补印/晚发、与同年其他期刊刊头比较；④取ANRI Front Nasional 724、KOTI 733/736，核Gerwani与Front Nasional、军方训练的组织权限和地方执行；⑤解决claim-ledger原始字节读取、对四表全量去重并更新chronology及成熟中文叙事，随后轮换Aceh 1965军令、Moncongloe政治犯劳役、SOBSI/BTI和1998后劳工。**GOAL仍OPEN，不把本轮刊物/论文视为完整闭合证据链。**
 
 **本轮已核验的实际提交SHA（后续续接锚点）**：`aea43fd00944253705f05eba0f5ddc54cbbef0ae`；此为上一写入提交的真实SHA。由于写入此记录本身会产生新的Git提交，最终main HEAD仍须以本轮结束时远程查询为准，不可宣称文件内SHA与自身提交SHA相同。
+
+
+## ONGOING / GOAL仍进行｜2026-11-19 Flores原文及1966美国政策分歧接力
+
+已重读G1—G10完整性审计及授权规则、正式来源/检索/覆盖表与时间线；G1—G10均OPEN。直接打开Prior 2011《The Silent Scream》Part One **27页全文PDF**（https://repository.divinity.edu.au/divinityserver/api/core/bitstreams/662d52ff-005b-4845-918c-959a06ea50d0/content），不是此前仅摘要：p.123转引Kramer关于1965-12-26 Adonara/Wailebe两人遇害回忆；p.125转引Boumans关于1966-02-09 Jan Djong遭酷刑死亡；pp.125–126记Soemarno/KOMOP及1966-02-16 Suherman神学院讲话，800–2000为作者估计。原回忆录、军令、受害者名册仍未直接取得。异G项核读美国FRUS文208（https://history.state.gov/historicaldocuments/frus1964-68v26/d208）：1966-05-10 Lodge宣称越战坚定姿态促成印尼局势；1966-05-13 CIA OCI 0815/66则称未找到直接显著影响的证据；FRUS文215（https://history.state.gov/historicaldocuments/frus1964-68v26/d215）1966-08-01 Rusk简报记军方鼓励青年群体杀害PKI干部，30万为政策估计而非死亡登记。完整来源等级、反证、地点与行动见global-gap-tracker最新条。下一步：①Kramer/Wetzer/Boumans原手稿及页码；②Maumere KOMOP原命令与1966-02-16讲话；③Jan Djong及Wailebe受害者原始记录；④CIA OCI 0815/66与NSC 557原件；⑤正式claim-ledger读取修复后去重并库、统一时间线及中文正文。正式CSV与chronology/HTML本次未更新，GOAL未完成。
