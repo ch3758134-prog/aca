@@ -50,3 +50,14 @@
 本轮先前资料去重：2000年法和2001年决定均在已有研究中出现，故不分配新的S/C/Q编号，不覆盖未完整核读的正式CSV，也不把重复原件记作新增独立来源。未更新chronology及成熟中文正文，等待以县市工会登记案例补足行动与结果之间的叙事连接。
 
 **精准未完：** 1. 取得2000年第21号法印尼文官方刊本第20、22、25、45、47条，与NATLEX英文逐字核对；2. 取得PER.05/MEN/1998和KEP.201/MEN/1999原文，区分1998年登记制度与2001年重新通知；3. 查Surabaya和Medan 2000—2002年公开工会登记簿，寻找旧号、新号、退件、拒绝及异议；4. 对照SBSI、独立企业工会及ILO申诉的组织名称与实际登记事件，避免以全国汇总数代替地方核验；5. 轮换1965年Aceh军区材料、SOBSI/BTI/Gerwani基层组织史和南勿里达原始影像。写入前核验main HEAD：ce92e7e7914c56a6468445e408ba155b62ab0795；该值是提交前基线，提交后的最新SHA必须由远程HEAD核验，不可预写入自身提交SHA。GOAL始终OPEN。
+
+
+## 2026-11-19｜Aceh 1965原始记录转引复核与Gerwani《Api Kartini》新开放原刊入口（ONGOING / GOAL仍进行）
+
+已重读AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit G1—G10、continuity-status，检查正式source-register/search-log/coverage-matrix/chronology路径（均在archive/records）；claim-ledger.csv API返回空正文但blob存在，**不覆盖**。本次两条不同G/年代链均有可核的公开文字，未擅自分配S/C/Q/CV编号；未声称完成CSV/chronology/HTML并库。
+
+**G4/G5/G9：1965年10月东Aceh Langsa—Kuala Simpang—Pulo Tiga及南Aceh。** 直接打开Jess Melvin, “Why Not Genocide? Anti-Chinese Violence in Aceh, 1965–1966”可见的文章正文/索引段落（https://journals.sagepub.com/doi/10.1177/186810341303200304）。作者引用1965-10-18 Langsa Baperki领导人签署的《Pernjataan》：10-11傍晚在Kodim-0104军营食堂听少校Iljas Mahmud说明，涉及将Baperki与G30S/PKI并列指控；文中引述所谓苏加诺要求消灭PKI及关联组织的广播，并明确指出**苏加诺未作此广播**。这是作者对声明中政治威吓与错误归属的核查，不能将军方转述视作总统原话。作者又引《Chronologis 1966》记10-14 Kuala Simpang对PKI/Baperki办公地点的破坏，Pulo Tiga对办公室和BTI住房袭击；南Aceh Blang Pidie及Sama Dua发生杀人，作者列Sama Dua四名华裔死者Hap Tjok、Min On、Bun Tok Seng、Sio Nam。**来源级别**：学术文章公开正文直接核读、1965声明与1966军方纪事为作者转引；未取得原影印、地方死亡簿或独立旁证。文章对军方意图的推论是作者解释，不当作独立事实。**续接**：调取1965-10-18《Pernjataan》附148人名单与8项决议原影印，核Kodim-0104 10-11会议记录、1966《Chronologis》页7—8及南Aceh逐人死亡登记，查军方报告中“制止”行为的独立证词。
+
+**不同G项G2/G8/G9：1959—1964 Gerwani妇女报刊及跨国交流。** 直接打开2026年公开数字档案 https://gerwani.logosid.app/majalah ，其期刊目录目前列1959—1964《Api Kartini》**42个期号/合刊条目**（主页仍称41卷，需核目录计数及缺期；网站声称500+文本待数字化，非已可读数量）。直接打开原刊转录文章 https://gerwani.logosid.app/teks/57 ，署Fanny J. Edelman，标为《Api Kartini》1963，介绍阿根廷妇女组织如何与工会合作、为罢工者设食堂和募款、组织女农业劳动者、推动母婴保护、反核与支持古巴。**可直接证明的是1963年印尼妇女刊物传播了这套国际妇女工运经验和编辑框架；不能据此证明印尼Gerwani实际实施了阿根廷文中每项措施，也不能证明阿根廷事件全部真实。** 此处访问等级为网站原刊文本转录全文（未逐页比对扫描影像），目录是目录；跨国交流是文本传播而非已证实组织资金/指挥关系。进一步查每期封面、出版年月、原页码、编辑署名、与SOBSI/BTI合作的印尼本地报道，并核对1959—1964各期对幼儿园、妇女工人、土地纠纷、婚姻法的地方案例。
+
+**全局OPEN**：G1殖民及革命档案；G2妇女/工农/青年文化基层；G3跨机关逐时；G4 Aceh、苏门答腊、爪哇、巴厘、Flores、Kalimantan、Sulawesi；G5受害者与性别/族群；G6拘押流亡；G7 1998—2026组织；G8英美澳中苏；G9逐人逐地索引；G10正式去重并库和中文连续正文。下一执行优先①核《Api Kartini》1963原刊页码和印尼基层实践；②Langsa 1965声明及南Aceh死者登记；③轮换北苏门答腊/苏拉威西地方档案与外国电报；④定位可读取的claim-ledger原始内容后再正式去重追加；⑤把成熟的地方过程融入连续中文历史。GOAL仍未完成。
