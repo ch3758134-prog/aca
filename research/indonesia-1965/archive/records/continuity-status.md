@@ -151,3 +151,14 @@
 已直接打开《Api Kartini》1962年9—10月合刊第6—7页《Sedjenak di Training Centre Gerwani》：DPP Gerwani组织培训，来自Lombok的Asjah、Batak Karo的Rehulina、来自日惹的Rukinah、棉兰的Saniam、三宝垄的Darminah、雅加达的Martini等姓名和地区在原文出现；文章还称四名培训参与者参加Front Nasional Pusat第一期训练，配图题记称Ruslan Abdulgani授课。参与者谈到妇女教育、幼儿园、土地和家务负担以及西伊里安志愿服务。**证据级别**：同时代组织刊物报道的具体主张，不能直接证明实际培训完成、志愿者被派遣或其后个人履历。PDF第6—7页及全文 https://pustaka.taratsa.id/files/1385/pdf/1776740388-24394639/f78eaf1926dab49216be984b59f330b1/Api%20Kartini%20%281962%29%20No.%209-10%20-%20Majalah%20Api%20Kartini.pdf 。另刊物将合刊标1962-09/10但刊头许可标1963-02-03，出版时间需复核。下一步以以上姓名、DPP Gerwani训练中心、Front Nasional训练名册为精准检索词，交叉验证地方妇女组织和国家机构实际关系。
 
 本轮首次写入提交SHA：a6d173ea8cb14f7f92ce55c06027a747264edc34（该提交后又追加本段；本段自身提交SHA只能在写入后核验）。GOAL OPEN。
+
+
+### 2026-11-19｜G3/G4/G8 地理校正复核与G4/G5 Flores异地区缺口（OPEN）
+
+已重读AGENTS、stage-access、goal-continuity、2026-11-09完整性审计G1—G10、global-gap-tracker及正式chronology/四CSV表头；research-status.md在archive/records路径404。正式claim-ledger.csv读取返回空正文但有blob SHA，未覆写或分配编号。注意当前continuity文件存在标为2026-11-20的并行续查记录，本段不覆盖其结论。
+
+**长期链G3/G4/G8（南苏门答腊，1965-10-28—11-01）**：直接重开国家安全档案馆电报1290的原始外交电报OCR https://nsarchive.gwu.edu/media/15705/ocr ，首段清楚写“Palembang S Sumatra Oct 28-29”；电报正文依次列Stanvac约30、Shell Pladju/Prabumulih 24、PUSRI 15名工会干部或成员遭捕，并报告约600名被称为共产党者被拘押，企业人数可能包含在地区总数中。**新发现的来源内部矛盾**：同一档案馆2017年介绍页 https://nsarchive.gwu.edu/document/15705-document-9-telegram-1290-american-embassy 将此电报描述为“North Sumatra”，但电报正文具体地名和访问记录指向**South Sumatra**。因此应在来源注释明确“档案馆编者地理摘要错误/不匹配”，不能将其作为北苏门答腊证据。电报称Ibnu Sutowo考虑转移至少1000名员工，尚未证明实施；Shell管理层否认火灾系破坏，不能将军方指控写成事实。OCR仍待扫描影像逐页核对，劳工档案缺失；原电报与档案馆摘要属同一档案，非独立交叉证据。下一动作：取原扫描逐页比对并寻找Palembang厂工会/军警名册，另以Medan当地材料独立重建北苏门答腊。
+
+**异地区高价值链G4/G5（Flores/Maumere，1966-02—05）**：找到John Mansford Prior《The Silent Scream of a Silenced History》Part One（Exchange 40(2), 2011, DOI 10.1163/157254311X562017）及Part Two（Exchange 40(4), 2011, DOI 10.1163/157254311X600735）的学术摘要 https://www.researchgate.net/publication/274531247_The_Silent_Scream_of_a_Silenced_History_Part_One_The_Maumere_Massacre_of_1966 和 https://www.academia.edu/78584536/The_Silent_Scream_of_a_Silenced_History_Part_Two_Church_Responses 。摘要称Maumere地区1966年2—4月发生杀戮、约800—2000人死亡，并称军方煽动、地方天主教徒参与且受害者亦为天主教徒。**严格等级：学术摘要而非原论文全文、受害者名册或教区原始文书；800—2000是作者摘要所载估计，不能认定已核实人数。** 另找到Prior《Old and New Christianity in the Southeastern Islands》公开章节文字 https://www.academia.edu/52050226/Old_and_New_Christianity_in_the_Southeastern_Islands ，其叙述Keut、Wairklau、Wolokoli及神父Yosef Frederikus Pede da Lopez的抗议，但当前尚未取得军方书面威胁、教区日记和村级死亡名单。不可将教会、军方或族群视为统一行动者。下一动作：取得Prior两篇全文并核注释、Wolokoli 45人原始记录、教区书信与军方命令；按Maumere/Keut/Wairklau/Wolokoli逐地重建时间线，并与巴厘及亚齐的不同地方组织机制比较。
+
+**G1—G10总账未结**：G1殖民与1948原件；G2群众组织基层；G3逐日跨机关命令；G4全省县级差异；G5性别宗教族群与幸存者；G6监禁流亡重组；G7 1998后工会政党；G8外部行动交付；G9人物地名机构关系；G10去重正式并库、时间线及成熟中文HTML。此条为核验接力，尚未同步正式CSV/chronology/HTML，未声称全部完成。长期GOAL OPEN。
