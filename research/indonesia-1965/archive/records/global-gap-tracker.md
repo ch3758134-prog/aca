@@ -3656,3 +3656,18 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **不同G项/地区G4/G3/G9｜Aceh，1965—1967军方指挥和县级证据链；来源等级：Jess Melvin 2018著作的公开文本/脚注（研究者转引原军方档案，不是直接打开档案原件）。** https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf 。本次定位到具体档案标题：1965-10-11西Aceh Meulaboh县议会DPRD-GR特别会议记录《Risalah Sidang Istimewa ... Aceh Barat》；1966年北Aceh县长T. Ramli Angkasah关于1965-04至1966-05施政的县议会报告（书中脚注标题将1966年度会议误写为1965-06-15，须核原件日期）；Aceh Besar公职人员关联G30S名单《Bekas PNS yg terlibat G30S PKI Aceh Besar》，档案借阅控制号222/24。**目前只定位原件题名和索引，未阅读会议纪要/县长报告/名单，不能从题名推断具体杀戮人数或责任。** 与前次Langsa Baperki 148人附件属不同地方、不同机关链条，需建立地区区分并避免同一研究者多次转引计为独立证据。缺件：上述三份原件、Banda Aceh档案馆馆藏索引与可访问规则、军区年报原件、县级拘押与公务员除名记录。
 
 **精确接力**：①查ICRC 1971年5月刊pp.256–262全篇和1971访视档案目录；②核1977年12月20日布鲁岛释放名册与Namlea—泗水航运记录；③找1978—79实际释放的同期独立报道以区分计划与执行；④取Aceh Barat 1965-10-11县议会原记录、Aceh Utara 1966县长报告及Aceh Besar 222/24名单；⑤继续轮换北苏门答腊Medan与SOBSI/BTI基层、Gerwani原刊、1998—2026工会执行及英美澳中苏具体介入。GOAL未完成。
+
+
+---
+
+## ONGOING / GOAL仍进行｜2026-11-19 UTC｜G6/G8 布鲁岛1978释放计划与实际执行核对；G3/G4地域原件仍开放
+
+**审计**：本次重读 completeness-audit-2026-11-09.md 及 AGENTS、stage-access、goal-continuity；对照 source-register、search-log、coverage-matrix、chronology 的现有可读文本和本总账接力点。claim-ledger.csv 的 GitHub UTF-8 返回空正文（blob SHA 3d828e018fa05541e84866b5d77af0bde14f0764），未据此认定台账为空；不擅自占用S/C/Q/CV编号。G1—G10全部OPEN。
+
+**持续链 G6/G8｜1978年布鲁岛和全国政治犯释放；证据级别A（1978-05-09美国使馆原电报公开FRUS全文）**：https://history.state.gov/historicaldocuments/frus1977-80v22/d208 ，文书编号6004，1978-05-09 1035Z，段1—4。美国使馆称澳大利亚使馆转述两名澳大利亚记者听闻8月17日可能释放至多5000人，其中布鲁岛至多2000人；消息可能来自印尼外交部。国务秘书Sudharmono在5月9日对美国大使说原则上同意但尚非最终决定；使馆评论认为可能尚未获苏哈托最终批准。另一接近军方高层的消息源声称全年四阶段释放10000人。这是**方案、口头确认与使馆推断**，绝不能记作8月17日实际释放人数。原件保存于Carter Library Mondale Papers Box130，需核印尼政府最终批准文件和名单。
+
+**交叉证据级别A（国际特赦组织1979年度报告原版PDF全文，1978-05至1979-04覆盖期）**：https://www.amnesty.org/es/wp-content/uploads/2021/09/POL100011979ENGLISH.pdf ，Indonesia章（印刷p.92）。报告记1978年四期释放265（5月）、3921（7月）、1324（9月）、4288（11—12月），合计9798；并称截至当时自1975年12月以来已释放逾23000名政治犯。报告记1978年12月从布鲁岛释放4000人、岛上官方仍有5924人拘押，另有207名获释但曾有家属迁入岛上的人未被送回爪哇。**统计定义需保留**：9798是AI所报告的1978分期释放数，不等于美国使馆5月方案的10000，更不能把布鲁岛4000与全国9798再相加；“官方仍有5924”是官方口径的存量，不是独立普查。此报告直接反证将5月计划视为8月17日实施的错误，同时支持1978年确有后续释放。仍须逐期政府公报、船运清单、姓名登记、岛内剩余人口分母核对。
+
+**不同G项/地区轮换 G3/G4/G9｜Aceh、1965—66；本次未取得地方原件，维持明确缺口而不伪造新核实**：Meulaboh 1965-10-11 DPRD-GR特别会议、Aceh Utara县长T. Ramli Angkasah 1965-04—1966-05施政报告、Aceh Besar 222/24公职人员名单，均仍仅学术著作引注定位；Langsa Baperki 148人附件仍未读原件。需取得档案影印、县级拘押簿与逐人去向，不将研究者重复引文当独立原件。
+
+**G1—G10缺口轮换**：G1万丹殖民讯问/1948；G2 SOBSI/BTI/Gerwani原刊；G3军令跨机关；G4 Aceh/Medan/爪哇/Bali/Flores/Kalimantan/Sulawesi县级；G5性别/族群/强迫劳动；G6释放后限制与再组织；G7改革后工会登记；G8美国外交与澳大利亚消息传播（并续英中苏）；G9拘押者姓名/营地/船舶地点；G10正式CSV去重、按事件排序chronology和连续中文正文。**下一动作**：①核1978年四次释放的印尼政府公告及船运名单；②核美国使馆1978年5—12月后续电报是否追踪实际释放；③查1978年12月布鲁岛剩余5924人与207滞留者后续；④索取Aceh 1965县级原件；⑤以可分片方式完整读取claim-ledger后正式登记并更新chronology。研究仍OPEN。
