@@ -3671,3 +3671,18 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **不同G项/地区轮换 G3/G4/G9｜Aceh、1965—66；本次未取得地方原件，维持明确缺口而不伪造新核实**：Meulaboh 1965-10-11 DPRD-GR特别会议、Aceh Utara县长T. Ramli Angkasah 1965-04—1966-05施政报告、Aceh Besar 222/24公职人员名单，均仍仅学术著作引注定位；Langsa Baperki 148人附件仍未读原件。需取得档案影印、县级拘押簿与逐人去向，不将研究者重复引文当独立原件。
 
 **G1—G10缺口轮换**：G1万丹殖民讯问/1948；G2 SOBSI/BTI/Gerwani原刊；G3军令跨机关；G4 Aceh/Medan/爪哇/Bali/Flores/Kalimantan/Sulawesi县级；G5性别/族群/强迫劳动；G6释放后限制与再组织；G7改革后工会登记；G8美国外交与澳大利亚消息传播（并续英中苏）；G9拘押者姓名/营地/船舶地点；G10正式CSV去重、按事件排序chronology和连续中文正文。**下一动作**：①核1978年四次释放的印尼政府公告及船运名单；②核美国使馆1978年5—12月后续电报是否追踪实际释放；③查1978年12月布鲁岛剩余5924人与207滞留者后续；④索取Aceh 1965县级原件；⑤以可分片方式完整读取claim-ledger后正式登记并更新chronology。研究仍OPEN。
+
+
+---
+
+## ONGOING / GOAL仍进行｜2026-11-19 UTC｜G6 1979释放完成声明与实际迁徙限制；G4北苏门答腊1965-12-06军政控制原电报（OPEN）
+
+**前置审计**：本次读取 AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09 全部 G1—G10、global-gap-tracker、continuity-status（接口空正文）、正式 source-register/search-log/coverage-matrix/chronology 可读内容；claim-ledger.csv 当前 blob 3d828e018fa05541e84866b5d77af0bde14f0764 但 UTF-8 返回空正文，故不擅自新编 S/C/Q/CV。G1—G10 全部 OPEN。
+
+**持续链 G6/G5/G9｜1979年全国释放及Buru—Java、东加里曼丹、Sulawesi迁移；证据等级：国际特赦组织1980年年度报告原版PDF，印刷pp.200—203全文直接核读（机构同期汇总，政府数字与其独立获报信息分层）。** https://www.amnesty.org/en/wp-content/uploads/2021/05/POL1000031980ENGLISH.pdf 。报告称1979-04-27至11-21释放B类7135人；1979-12-20最后105名“不合作”者（包括Pramudya Ananta Toer、Rivai Apin、Karel Supit）据报获释。KOPKAMTIB指挥官Sudomo于1979-12-08称1975—1979共释放32989人；政府宣告B类释放计划完成，国际特赦组织12-21要求姓名名册但未获答复。**32989是官员报告累计，105是最后一组B类，不等于全体政治犯均已获释**。报告另列1979年末官方仍承认657名A类拘押者，且其获报至少2800名爪哇被拘押者下落/释放未明；两类数字不能机械相加或当成独立普查。
+
+**207人的追踪细化**：前次1979年年报记Buru的Savanajaya 207名已释放者未返Java；1980年年报进一步称1979年9月115个Savanajaya家庭自费赴Java，至少35名在岛上结婚者仍被以“移民”身份滞留。**207为原报告人数、115为家庭数、35为人数，不同分母不得相减**。同一报告转引Tempo对BTI前成员Kusdi在东加里曼丹Amborawang被KOPKAMTIB地方指挥要求留下的叙述；另称Sulawesi Kendari的Nanga-nanga有51名获释后迁居者未获身份证，难以合法迁离。Kusdi原话为二次引述，仍需Tempo原期、当地军令和身份证簿。释放后报告列举工作、旅行、出版、竞选、养老金/财产限制；这些是1980年人权机构观察与汇报，不等于每名获释者同样遭遇。**缺件**：1979-12-20释放名册及运输清单、Sudomo 12-08讲话原稿、Savanajaya 207人/115家庭/35人名单、Kusdi的Tempo原文、Nanga-nanga 51人身份证登记、1979政府减刑指令及A类监狱名册。下一步对照船运与地方户籍，分开“解除监禁—允许迁回—恢复就业/政治权利”。
+
+**异地区 G3/G4/G8/G9｜北苏门答腊Medan、1965-12-06；证据等级：美国驻Medan领事第183A号同期电报公开OCR全文直接阅读（影印未逐页复核）。** https://nsarchive.gwu.edu/media/15715/ocr ；馆藏 NARA RG84 Entry P339 Jakarta Embassy Files Box14 Folder7。电报称苏门答腊地区军队在PKI及盟友组织遭摧毁后强化行政控制：地方Pantja Tunggal机构由军事指挥官主持，北苏门答腊National Front经历清洗并由军官掌控，PWI记者协会被清洗、报纸发行需Mokoginta批准；领事称观察到部门负责人日常受军队指挥。电报又称8—15岁学生被要求参加军方控制的Pramuka、较低级学校学生组织遭禁，Hansip武装化正在扩展。**“Hansip将把军事指挥链延至每村”是领事对拟实行政策的推断，不是逐村执行已核实**；Mokoginta对功能团体取代政党的意见属于军官政治立场；领事认为苏门答腊将成“军队封地”属于判断。该电报的直接地点是Medan，**不可与此前被错误归为北苏门答腊、实为Palembang的1290号电报混并**。**缺件**：1965年11—12月Bukit Barisan及Mokoginta命令、Pantja Tunggal县级任命、PWI清洗名单、Pramuka学校执行记录、Hansip村级武装发放簿、PNI与宗教组织反证。应先核Medan与其他苏门答腊地区执行差异，再分析军事统治的全国性。
+
+**G1—G10轮换**：G1 1926万丹原档及1948组织；G2 SOBSI/BTI/Gerwani原刊与地方执行；G3军令跨机关；G4 Aceh/Medan/Java/Bali/Flores/Kalimantan/Sulawesi县村；G5族群/女性/释放家庭；G6拘押、身份及1970—98再组织；G7工会登记与选举基层；G8外交—军方—地方执行链；G9人名/营地/学校/军区地名索引；G10正式CSV去重、事件排序时间线、连续中文HTML。下一次可执行入口：①1979-12-20最后105人原始释放名单；②Savanajaya 115家庭船运、35人迁居记录；③Tempo的Kusdi采访原期；④Medan 1965-12军区命令与PWI清洗名单；⑤Aceh 1965县级原件与Gerwani刊物影印。GOAL仍OPEN。
