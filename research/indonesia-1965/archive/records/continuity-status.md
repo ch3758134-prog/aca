@@ -206,3 +206,18 @@
 **不同地区G4/G8：巴厘，1965-12至1966-02**。直接核读美国国务院FRUS卷XXVI文162编者历史注释（https://history.state.gov/historicaldocuments/frus1964-68v26/d162），其中引用1966-02-25美国驻雅加达A-527报告，称当时有人估计巴厘死亡约8万且杀戮未止；此为**FRUS编者对当时外交电报的转引**，尚未直接核A-527原扫描，更非死亡名册。Geoffrey Robinson研究公开脚注（https://doi.org/10.1080/14623528.2017.1393935）承认其早期“RPKAD抵达后才开始”判断需修正：Jenkins/Kammen提供军队抵达前数日已有杀戮的证据，但军队部署后规模显著加剧。**证据层级**：学术文章公开文字/FRUS编者注释，不把不同估算相加；必须分开暴力开始日期、军事增援日期、死亡人数估算及地区范围。
 
 **缺失原件与阻碍**：Medan 183A逐页扫描、Mokoginta命令及县级执行档、民族阵线/Pramuka/PWI清洗文件、Hansip武器移交表；巴厘A-527原电报、RPKAD部署记录、县级死亡与拘押簿、Jenkins/Kammen所引同期材料。OCR错字、外交观察位置偏差、军方与地方受害者材料不对称。**精确续接**：①核183A扫描原页与日期/人名；②检索Mokoginta的Pantja Tunggal与Pramuka命令；③取得A-527扫描并按巴厘县分解8万估算；④核Jenkins/Kammen军队抵达前杀戮原始依据；⑤解决claim-ledger全量读取后去重正式并库、chronology与成熟中文历史叙述。GOAL仍未完成。
+
+
+## 2026-11-20｜ONGOING / GOAL仍进行｜1964年Gerwani家庭妇女研讨会原刊进一步核读
+
+本次已核读AGENTS、goal-continuity、stage-access、统一状态与正式source-register/search-log/coverage-matrix/chronology（实际路径均为archive/records）。正式claim-ledger.csv的blob SHA为362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，但GitHub内容读取返回0字符；**禁止覆盖或猜测C编号**。在正式source-register全文中未检出本次原刊PDF的完整链接，也未检出研讨会篇名；尚须进一步检查是否存在别名/同刊其他URL，不贸然新分配S编号。
+
+**原件核读**：直接打开《Api Kartini》11—12月合刊PDF，馆藏文件名误标1963，但原刊目录、刊内1964年11月10日纪念文字与研讨会现场照片清楚指向1964年11月以后。原刊PDF https://pustaka.taratsa.id/files/1392/pdf/1776742781-25482708/9a7ed2b1b812ecf0985607c562220b41/Api%20Kartini%20%281963%29%20No.%2011-12%20-%20Majalah%20Api%20Kartini.pdf ，原刊第2—5页《Wanita Rumahtangga Berseminar Pertama Kali》及Sulami署名续文，第6页起大会致辞，第29页会议结论。刊头载“November–Desember, Th ke-VI”，但数字馆藏文件名年份与刊内日期矛盾，实际印刷发行日仍待核；不得直接引用“1963年第11—12期”作为真实刊期。
+
+**新的组织过程细节**：同期刊物称Gerwani中央领导委员会于1964-11-04至06在雅加达举行全国家庭妇女研讨会，20个一级行政区派代表，3个地区未派（含西伊里安）；Suharti Suwarto作中央主题报告，刊物第5页照片说明明确其为DPP Gerwani第二副主席。文章称中央与地方先做调查、地方研讨再汇总至全国会议，需找调查问卷、地方会议纪要及20地区代表名册核实。文章将家庭妇女与女工、农妇、已积极参与社会运动的妇女分开，并将家庭妇女按城市社会阶层、政治参与程度分类；强调家务劳动负担阻碍参与。Sulami署名文章提出家庭分工、共同承担家务与改善妇女营养的建议；此为组织刊物提出的分析与倡议，**不是政策落实或普遍家庭实践的证据**。刊内另有Perwari主席致辞，支持以托儿服务减轻母亲负担，显示不同妇女组织在此议题上的公开交流；尚不能证明双方共同执行项目。
+
+**交叉核验**：UNJ 2026学位论文官方摘要 https://repository.unj.ac.id/68003/ 仅证实研究者以1959—1964年《Api Kartini》为研究对象，并不独立验证此次研讨会20地区出席数；原刊报道和照片属于同一出版方，不计作两份独立旁证。此前状态已记载研讨会基本日期，本次新增地方调查→全国汇总的工作机制、Suharti的职务、Sulami署名与Perwari的托儿服务回应，避免将重复事件记作新独立发现。
+
+**精准未完事项**：（1）查《Api Kartini》原刊第29—30页会议决议，逐条核定与第2—5页倡议差别，并核出版许可/实际印行年月；（2）寻找1964年20地区代表名单、地方调查表与地方研讨会议记录，核三地缺席；（3）查Suharti Suwarto、Sulami、Perwari主席公开履历与其他报刊同日报道，独立核实职务及跨组织互动；（4）以安全的Git blob下载/分段读取恢复claim-ledger全文，随后对正式S/C/Q/CV全量去重、登记并更新chronology与成熟中文历史正文；（5）轮换1965—1968年Aceh军令与逐人记录、Moncongloe拘押劳动、SOBSI/BTI基层和1998年后工会登记执行链。GOAL始终ACTIVE / OPEN-ENDED。
+
+本轮写入前核验GitHub最近main提交为569fdeb5fa9c03df24790248edc583a919d67c2e；本次生成提交的最终SHA需以GitHub写入结果和后续HEAD复核为准，不能预写入同一提交正文。
