@@ -1,3 +1,18 @@
+# 2026-11-19｜历史百科全量资料HTML整合说明
+
+已以正式研究库main版本 `0e114579964ab74eb83db9598a80a52785bdd8dd` 读取：来源登记1504份、事实主张2877条、年代记录845项、独立人物/事件/组织调查355标题。为避免继续出现“只有几个新增专题”的问题，已经在阅读版增加可离线检索的四种完整索引及较大规模的具名人物和事件正文。
+
+- [研究资料总入口](encyclopedia/research-hub/index.html)
+- [来源1504份](encyclopedia/research-hub/sources/index.html)
+- [事实主张2877条](encyclopedia/research-hub/claims/index.html)
+- [年代记录845条](encyclopedia/research-hub/chronology/index.html)
+- [独立人物事件组织研究355条](encyclopedia/research-hub/dossiers/index.html)
+- [主历史人物索引](encyclopedia/people.html)｜[主历史事件索引](encyclopedia/events.html)｜[地区史](encyclopedia/regions/index.html)
+
+整理时区分：已写成熟中文独立史实的传记和事件、保留原文证据边界的调查资料、来源已读与只读目录、当时官方解释与可独立核实事实。长篇连续历史正文与上述资料索引相互连通；所有原研究的正式CSV仍保持main原件，不覆盖。
+
+---
+
 # 面向作者阅读的连续历史正文
 
 ## 苏加诺时代以来的左翼历史主线（新增）
