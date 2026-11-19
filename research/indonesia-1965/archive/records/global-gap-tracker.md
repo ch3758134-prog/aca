@@ -3944,3 +3944,14 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **不同地区G4/G8：巴厘，1965-12至1966-02**。直接核读美国国务院FRUS卷XXVI文162编者历史注释（https://history.state.gov/historicaldocuments/frus1964-68v26/d162），其中引用1966-02-25美国驻雅加达A-527报告，称当时有人估计巴厘死亡约8万且杀戮未止；此为**FRUS编者对当时外交电报的转引**，尚未直接核A-527原扫描，更非死亡名册。Geoffrey Robinson研究公开脚注（https://doi.org/10.1080/14623528.2017.1393935）承认其早期“RPKAD抵达后才开始”判断需修正：Jenkins/Kammen提供军队抵达前数日已有杀戮的证据，但军队部署后规模显著加剧。**证据层级**：学术文章公开文字/FRUS编者注释，不把不同估算相加；必须分开暴力开始日期、军事增援日期、死亡人数估算及地区范围。
 
 **缺失原件与阻碍**：Medan 183A逐页扫描、Mokoginta命令及县级执行档、民族阵线/Pramuka/PWI清洗文件、Hansip武器移交表；巴厘A-527原电报、RPKAD部署记录、县级死亡与拘押簿、Jenkins/Kammen所引同期材料。OCR错字、外交观察位置偏差、军方与地方受害者材料不对称。**精确续接**：①核183A扫描原页与日期/人名；②检索Mokoginta的Pantja Tunggal与Pramuka命令；③取得A-527扫描并按巴厘县分解8万估算；④核Jenkins/Kammen军队抵达前杀戮原始依据；⑤解决claim-ledger全量读取后去重正式并库、chronology与成熟中文历史叙述。GOAL仍未完成。
+
+
+## 2026-11-19｜ONGOING / GOAL仍进行｜巴厘报纸馆藏与Solo幸存者影像取件路径
+
+**审计与证据纪律：** 已重新读取2026-11-09完整性审计及AGENTS、stage-access、goal-continuity、continuity-status、正式source-register、search-log、coverage-matrix、chronology；claim-ledger仍为非空SHA却返回空正文，research-status.md路径404。G1—G10全保持OPEN。以下为对既有研究链的取件升级，不分配S/C/Q/CV编号；尚未改正式CSV、chronology或中文正文。
+
+**长期链G4/G8/G9｜巴厘1965-12军方增援日期：** 美国国会图书馆《Suara Indonesia》馆藏目录 https://www.loc.gov/item/sn96021765/ 已直接打开，书目注明该报1964-11-08至1966-06-16为日报；**1965-12-11至1966-01-04同时使用《Suluh Indonesia. Edisi Bali》名称**，1966-01-05至05-31亦以该名称出版，并明确有35毫米微缩胶卷。此是**官方报纸馆藏目录原文已读**，不是1965-12-10/11两期报纸正文，尚不能证实RPKAD登岛的12月10日或其他具体日期。新发现对检索非常关键：1965-12-11之后的同一报纸可能以Suluh Indonesia名义编目，检索必须同时用两种标题，且按微缩胶卷日期申请。缺件：1965-12-07至12-12逐日版面、RPKAD航运/部署命令、各县拘押簿；行动：向LOC按LCCN sn96021765和微缩胶卷询问12月10—12日具体卷/帧，并比对1965-12-11更名记载和研究引用；阻碍：当前仅书目，不是数字版原页。
+
+**不同地区G5/G6/G9｜中爪哇Solo的Bacem桥及1998后纪念实践：** 直接打开ELSAM与Pakorba Solo制作、Yayan Wiludiharto导演的《Jembatan Bacem》纪录片发布页 https://cinemata.org/Members/Perkumpulan_Elsam/videos/jembatanbacem 。页面标注2015-09-01发布，印尼语介绍记载幸存者家庭在长期沉默后举行爪哇习俗Sadranan悼念，并主张将桥作为公共记忆地点。**访问等级：影片制作方/发布平台的介绍文字已读，未观看影片或核验采访原片**；可以确认该组织以此方式公开呈现纪念行动，不能直接证明桥上每次处决或确切死亡数。并核读John Roosa 2013论文公开PDF https://www.oralhistoryforum.ca/index.php/ohf/article/download/528/606/528-Article%20Text-2157-1-10-20130822.pdf 第22—23页对Bibit访谈的转述：Pakorba选择口述而非挖掘河流下游已失踪尸体的坟墓，且注明Hersri Setiawan 2006《Kidung untuk Korban》p.230；**访问等级：学术全文已读/引用口述原书，未取得2006原访谈**。缺件：2006原书p.230起、影片完整影像/字幕/采访底稿、其他证人及羁押运输记录；行动：比对影片受访者与2006书证人，区分本人经历、他人转述、1998后纪念行为。阻碍：二次转述及影片页面不能替代独立访谈。
+
+**G1—G10轮换与接力：** G1殖民ISDV/PKI档案，G2工农妇青原刊，G3地方军政命令，G4跨省县级暴力，G5受害者/性别族群，G6拘押流亡，G7改革后工会政党，G8外国档案，G9人地组织对应，G10正式去重和中文叙事均OPEN。下一优先执行：①按LOC双报刊名索取1965-12-10/11版面；②取得Bibit 2006访谈原文及ELSAM影片；③轮换Flores KOMOP军令与北苏门答腊183A扫描；④解决claim-ledger接口空正文再安全并库；⑤按证据成熟度整合chronology和中文历史正文。长期GOAL未完成。
