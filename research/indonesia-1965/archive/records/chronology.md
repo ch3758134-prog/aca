@@ -1964,23 +1964,30 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 - **8 October 1965，英国信息行动：**Telegram 1863拟定公开与“黑色”宣传目标及渠道，并安排与吉隆坡方面讨论是否让某些马来西亚人员知情；不证明渠道实际执行。[S573;C977;C2708]
 - **11–13 October 1965，英国信息行动：**Hewitt的11日内部信明确把当前危机定为影响印尼政治的机会，同时承认局势事实仍不明；Wynne于13日将英语/印尼语特刊副本交IRD，完整15页现已逐页检查。同期FCO 168/2193组织图显示SEAMU与外交情报、心理战人员和宣传工作的拟定接口，但具体会议、广播、邮寄和受众效果尚无回执。[S572;S576;S577;S1440;C978;C980–C981;C2707]
 
-## 1965-05-31—09-03｜第五力量公开提案、总统决策保留与经济指挥机构（2026-11-18）
+## 1965-01-14—30｜第五力量主张进入公开报刊（原报待核）
+
+- **1月14日：**2025年UIN Sunan Gunung Djati学位论文的资料表列出《Warta Bhakti》当日条目，题名抄作“DN. Aidit dipanggil Presiden PKI usulkan 15 juta massa tani dan buruh dipersenjatai”，并称作者使用了国家图书馆微缩胶卷。美国国会图书馆的缩微目录显示该报系列覆盖至1965年10月2日，但目录不能证明1月14日具体一期现存或可调阅。[S1469;C2777] A.C.A. Dake另称Aidit会见苏加诺后接受广播采访，以“1,000万工人、500万农民”描述候选人群，注释指向同日《Indonesian Observer》；ISEAS目录列该报1954—1992年、MFM 20。两项是可调阅的二手定位；原报尚未直接检查，报道标题、采访先后和人数口径均待核。[S1459;S1468;C2771–C2773]
+- **1月14日：**《The Daily Iowan》转载的美联社报道确认CBS记者Bernard Kalb在雅加达采访苏加诺，话题是印尼退出联合国；这份报道没有提到Aidit。它支持Kalb当日在雅加达活动的背景，不证明另有Aidit采访。[S1471;C2776]
+- **1月15日：**同一学位论文列出《Harian Rakyat》Aidit广播讲话的题名；周陶沫经引Crouch称该报把“1,000万”与农民、“500万”与工人相连，与Dake从《Indonesian Observer》转引的构成顺序相反。需逐字对读两报，现阶段不能把两组数字合并。[S134;S1468;S1459;C2773–C2774]
+- **1月18日至30日：**论文目录还列出《Harian Rakyat》1月18日BTI表态、Antara同日关于Front Nasional及政党/群众组织/Golkar联合要求训练和武装“革命支柱”的报道，以及《Warta Bhakti》1月23日《Angkatan ’45 desak Buruh & Tani dipersenjatai》，《Harian Rakyat》1月26日Gerwani—BTI联合声明和1月30日Moch Munir讲话。这里记录的是论文列出的报刊题名和日期，不据标题推断组织已接受武装、批准编制或开展训练；原件待逐期核读。[S1468;C2771]
+- **后出的外国介入判断：**1968年4月9日CIA报告称北京“可能鼓励”了Aidit的1月14日提议，并推测Sukarno似乎拒绝；原文使用推测语气，所检句子没有附上联络记录。周陶沫的档案研究确认中方在1965年初公开/私下支持第五力量并继续谈武器，但没有证明中国使馆在1月14日前向Aidit下达或传递指示。前者是CIA分析判断，后者是中方往来与政策的后出研究，二者都不能直接闭合“北京促成该提案”的因果链。[S134;S1470;C2775]
+
+## 1965-01—09-21｜第五力量公开提案、民防训练与地方军事化（2026-11-19）
+
+- **1965年1月以后至7月（苏门答腊地区）：**哈罗德·克劳奇（Harold Crouch）称，苏门答腊跨区司令穆科金塔中将（Lt. Gen. Mokoginta）下令每个军区县（Kodim）建立一支由工人和农民组成的连；克劳奇称至7月北苏门答腊有4连完成训练、另有6连训练中。原命令、名册和人数口径尚未核实；这是军队地方单位训练线，不等于建立独立第五军种。[S1473;C2780–C2781]
+- **1965年3月10日（原令待核）：**1994年国家秘书处官方叙述的第三方转录称，空军司令奥马尔·达尼当天下令在各空军基地建立民防队（Hansip）；少校苏佐诺随后向各区域空军司令部发出编码无线电指示，要求组建教练队，并优先训练工农组织成员。1966年2月庭审中，苏佐诺称卢邦布亚具体课程是自己在副部长斯里·穆利约诺·赫尔兰邦基地防卫指示背景下主动发起，并说没有针对该课程的正式书面命令。两者可能分别指一般基地防卫政策与某一具体课程，不能在未见原令前直接判为相互否定。[S1451;S1353;C2779]
 
 - **1965年5月31日：**ANRI总统演讲目录第750号记载苏加诺在国家防卫学院（Lemhannas）所作讲座，目录称一张印尼文油印稿；2023年Unhan RI Press出版的演讲目录另列第219号。两者提供原件定位，未提供讲稿正文。[S1452;S1454;C2743–C2744]
+- **1965年5月31日：**A.C.A. Dake称苏加诺在Lemhannas向军种高级指挥官谈到周恩来武装人民的提议，要求认真考虑并提交意见；Dake把这一叙述注为同日Antara通讯。ANRI目录第750号定位到一页印尼文Lemhannas讲稿，但正文、通讯原文和服务军种答复均未取得。Ricklefs也将“命令四军种提交实施方案”记为5月31日，但该段没有找到精确注释；Peter Liang所引出处是1981年政府史第20–22页，尚未读到该页。[S1452;S1459–S1461;C2743;C2755;C2757–C2758]
+- **1965年6月1日（与前日日期关系未决）：**Komnas HAM回顾性摘要把总统要求四军种武装/训练第五力量的命令日期记为6月1日；Soedarmo与Ginanjar另称苏加诺当日要求领土指挥官认真考虑这一概念。二者未在所检段落给出可追到的同时期原件。Dake还记录Mortimer用6月1日并提到6月2日《Suluh Indonesia》。现有材料不能判定这是5月31日讲话的日期漂移、报刊日期，还是次日另一次指示。[S1459;S1462;S859;C2756;C2760–C2762;C2770]
+- **1965年6月2日：**Dake的注释把《Suluh Indonesia》2 June列为讨论该演说日期的来源线索；原报未调阅。Dake所引同日Antara与Suluh的关系、报道内容及两种日期指向仍待逐版对读。[S1459;C2756]
+- **1965年6月29日至7月1日：**周陶沫的研究称陆军报纸《Angkatan Bersenjata》连载三篇由Lapase上校撰写的“第五军不适合印尼客观条件”文章，论证包括印尼与中国政治结构不同、可以武装群众但不应将其编为独立军种；研究者把它解释为陆军阻挡第五力量提案的公开宣传行动。原报三期尚未取得。[S134;C2768]
+- **1965年6月29日：**周陶沫依据中国外交部档案会议纪要记载，解放军总参谋长罗瑞卿对访华的印尼志愿者代表团表示，中国民兵经验只能作为参考，印尼应按本国条件决定；该会谈纪要尚未直接查阅，代表团成员和具体任务须以档案核对。[S134;C2769]
+- **1965年7月5日：**苏佐诺在尼约诺案军事法庭称，卢邦布亚课程第一期于当日开始；克劳奇和安德森—麦克维的后出研究也把课程起点放在7月初，但各自引用不同报刊、庭审或“供述”材料，不能当作多份独立点名记录。现无完整签到、课程表或教练名册。[S1353;S1473–S1474;C2725;C2782–C2783]
 - **1965年8月17日：**《Tjapailah bintang-bintang dilangit! / Tahun Berdikari》在线转录中，苏加诺称第五力量是自己提出的主张；说将以最高统帅身份在进一步考虑后决定；将ABRI描述为人民防卫的核心，并称必要时仍在生产的工人、农民等可暂时拿枪。该段是总统公开表述，不是组建命令、征召名单、武器发放记录或训练完成证明。[S1453;C2745–C2747]
 - **同一演说的国际政治表述：**转录还记录苏加诺指称美国过早支持BPS，并把美国对马来西亚的援助称为对新殖民主义的积极支持。这些是总统当时的公开指控和框架；该演说没有给出可供独立核验的具体资金、人员或行动证据。[S1453;C2748]
 - **书目与原件定位：**ANRI目录把8月17日的三场活动分别列为第779—781号，包括学校学生晨歌、出版《20 Tahun Indonesia Merdeka》的活动、出版《古兰经》译本的活动；目录未说明哪一件等同于完整TAKARI小册子。Google Books列TAKARI 51页，CiNii列48页并注记其文字据第二版重印，需比对实体/扫描本。[S1452–S1453;C2743;C2752]
 - **1965年8月31日至9月3日：**第256号总统决定成立KOTARI，职责是以自力更生方式推进经济建设，直接由总统领导，使用既有政府部门作为执行机关；第257号于9月2日任命贸易部长兼任的准将Achmad Jusuf为参谋长；第258号于9月3日设财务、基础设施、生产、贸易和大众媒体五个政策部门；同日第259号任命部门负责人，其中四人以准将或少将军衔列名，财务部门由中央银行事务部长负责。这是经济指挥机构中军职官员与内阁职务交叠的证据，但不是第五力量的组建记录，也不足以单独判断其实际军事控制程度。[S1455–S1458;C2749–C2751;C2753–C2754]
+- **1965年9月21日（命令与执行待核）：**克劳奇称，空军副司令伊格纳修斯·德万托（Ignatius Dewanto）发现受训者多数来自纳沙贡中的共产主义团体，遂下令停止现有训练，并计划从10月1日起训练民族主义和宗教组织；克劳奇所引德万托证词（奥马尔·达尼案第三卷第47页）尚未取得。1994年国家秘书处叙述则称训练持续到九三〇事件发生。两者陈述的终点不同，可能涉及已开课程、停训命令或新一期计划；没有命令和课程簿，不能判定实际停训日期。[S1451;S1473;C2784–C2785]
+- **1965年9月26日（课程结束日期仍属后出报告）：**Ambarwulan与Kasdi 2012年章节称，德万托在9月初开会要求关闭卢邦布亚训练，课程实际到9月26日才结束；该段附近的脚注63在前一句“Bung So”后指向Soedarmanto 2004年哈里·占传记第106页；该脚注是否也支持德万托会议和闭营日期并不清楚，本轮未直接看到原页。作者还把闭营横幅“Tunggu Apa Lagi”（“还等什么？”）解释为PKI准备发动叛乱的信号；这是后出作者对一句横幅文字的解释；所检段落没有为横幅及其含义另列可核来源，不能当成PKI作战命令或参与者记录。日期另与克劳奇所引9月21日停训命令及1994官方史、安德森—麦克维所述训练延续时间并列待核。[S1475–S1476;C2785;C2788–C2789]
 - **证据边界：**“苏加诺说这是他提出的”不能抹去艾地、PKI或中国方面更早的倡议记录；“说将进一步决定”不能证明此前没有训练；KOTARI的总统令也不能用来证明武装提案已执行。31 May讲稿、原始TAKARI小册子与各军种方案仍待调阅。[S1452–S1457;C2745–C2751]
-
-
-### 1965—1980 evidence-linked chronology additions (2026-11-19; event dates, not investigation dates)
-
-- **1965-12-06 — Medan/North Sumatra, Army administration:** U.S. Consulate telegram 183A reports military officers heading district Pantja Tunggal, control of North Sumatra National Front and press/PWI, school youth regulation and proposed expansion of armed Hansip. Consular direct observations and military statements are distinct; village-wide implementation remains unverified. Primary contemporaneous OCR: https://nsarchive.gwu.edu/media/15715/ocr ; RG84 Entry P339 Box14 Folder7. **Not** the Palembang oil-union telegram 1290.
-- **1979-04-27 to 1979-11-21 — Indonesia:** Amnesty International 1980 annual report, printed pp.200–201, reports release of 7,135 B-category detainees. This is the organization's contemporary compilation, not an individually verified government roster. https://www.amnesty.org/en/wp-content/uploads/2021/05/POL1000031980ENGLISH.pdf
-- **1979-09 — Buru/Savanajaya to Java:** same report pp.201–202 says 115 families travelled to Java at their own expense; at least 35 former detainees married on Buru reportedly remained under 'transmigrant' designation. Do not subtract families from the previously reported 207 individuals. Original passenger lists missing.
-- **1979-12-08 — Yogyakarta:** KOPKAMTIB commander Sudomo reportedly stated 32,989 persons had been released in 1975–1979; this is an official cumulative claim, not independently counted. Amnesty International 1980 report pp.200–201.
-- **1979-12-20/21 — B-category release declaration:** Amnesty International 1980 report pp.200–201 says last 105 'uncooperative' detainees, including Pramudya Ananta Toer, Rivai Apin and Karel Supit, were released by Dec 20; government declared B-category release completed, while AI's Dec 21 request for named lists received no reply. Officially acknowledged A-category prisoners (657 at year-end) and other unaccounted detainees are not included in this declaration.
-- **1980 reporting on post-release controls — East Kalimantan/Sulawesi:** AI report pp.201–203 relays a Tempo account of former BTI member Kusdi prevented from leaving Amborawang, and says 51 former detainees in Nanga-nanga/Kendari lacked identity cards. Tempo original, local administrative orders and person-level lists still missing.
-
-**Source-access and uncertainty:** 1980 Amnesty report original PDF text opened; 1965 U.S. consular telegram public OCR opened, not the page-image verification. Distinguish official statements, institutional reports and the execution of local policies. All items remain open to original-register deduplication; no new S/C IDs asserted.

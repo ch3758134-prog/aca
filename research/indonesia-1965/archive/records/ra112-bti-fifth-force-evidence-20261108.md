@@ -70,3 +70,31 @@
 - S136 NSA Telegram 222: https://nsarchive.gwu.edu/document/15725-document-29-telegram-222-american-consul
 - S137 FRUS 232: https://history.state.gov/historicaldocuments/frus1964-68v26/d232
 - S138 Journal of Agrarian Change: https://onlinelibrary.wiley.com/doi/full/10.1111/joac.12506
+
+
+## 2026-11-19 UTC update｜May 31/June 1 date chain and contemporaneous press retrieval
+
+The 31 May Lemhannas item is catalogued by ANRI as no.750 (existing S1452/C2743), while the word-level claim that Sukarno asked the four services for plans is currently traced through Dake to an unseen Antara News Agency item, 31 May 1965 (new S1459/C2755). Ricklefs p.549 prints the same date and order but no pinpoint note was found (S1460/C2757); Peter Liang cites the 1981 state history pp.20–22 (S1461/S1465/C2758); Soedarmo and Ginanjar cite Ricklefs rather than an independent original for the same statement (S1462/C2759).
+
+A competing 1 June date remains live: Dake notes Mortimer p.382 uses 1 June and cites *Suluh Indonesia*, 2 June (C2756); Soedarmo/Ginanjar separately mention a 1 June emphasis to territorial commanders (C2760); Komnas HAM’s retrospective executive summary dates an order to 1 June and attributes differing service-chief reactions (S859/C2761–C2762). The last two passages do not identify an inspected contemporary source. Preserve the possibility that 31 May was a Lemhannas address and 1 June a separate instruction. Do not collapse proposal, order, plans, service response, training, formal unit creation, arms transfer and use.
+
+### Retrieval leads now verified at catalog level
+
+- A Scribd-hosted copy of a Perpusnas newspaper microfilm catalog with unauthenticated uploader/provenance lists English *Antara News Bulletin*: May 1965 reel **212/PN/M/94**, with a broader Jan 1965–Oct 1966 reel **75/PN/M/94**; it separately lists Indonesian *Warta berita*: Jan–Jun 1965 reel **120/PN/M/94** and Jul–Dec reel **121/PN/M/94** (S1463/C2763). This corrects the earlier shorthand that treated “Antara” as a single series: English News Bulletin and Indonesian Warta berita are separately catalogued. No film or dispatch has been examined.
+- ISEAS’s official Indonesia guide lists *Warta berita Antara* 1964–1993, MFM 200, and English *News bulletin (Antara Organization)* 1959–1994, MFM 1 (S1466/C2766). Its master list identifies call numbers/items for *Suluh Indonesia* (11), *Angkatan Bersendjata* (139/145), *Harian Rakjat* (4), *Warta Bhakti* (14/15), and Antara (1), but does not give issue coverage (S1467/C2767).
+- Antara’s official 2020 release describes Perpusnas digitization planning for Jan 1966–Dec 1985, with the 2020 agreement covering 1975–1985; this gives no evidence of 1965 digitization and does not prove no other copy exists (S1464/C2764).
+
+### Other new source-chain details
+
+Taomo Zhou’s accessible 2014 paper reports Lapase’s three-day *Angkatan Bersenjata* series opposing a separate Fifth Force (29 June–1 July) and cites Chinese MFA minutes for Luo Ruiqing’s 29 June statement to an Indonesian volunteer delegation that Chinese militia practice was only a reference and Indonesia had to adapt it locally (S134/C2768–C2769). These are statements in a scholarly reconstruction whose cited newspapers and archive minutes were not opened. Obtain the three newspaper issues and Chinese MFA files 105-01689-01/-02/-03 and 105-01694-02; distinguish public Army press argument, military-staff advice and arms procurement channels.
+
+### Priority next checks
+
+1. Inspect ANRI speech item 750; determine whether it identifies venue, audience, original date, attachment and any associated service proposals.
+2. Verify the Perpusnas microfilm identifiers against an official catalog. Inspect English Antara May 31 and Indonesian Warta berita May 31–June 2 separately; photograph mastheads and consecutive pages.
+3. Obtain *Suluh Indonesia* 2 June 1965 and Mortimer p.382; identify whether they report a 31 May address, a 1 June event, or both.
+4. Obtain *Angkatan Bersenjata* issues 29 June–1 July and *Harian Rakjat* 7 June; compare papers’ political positions and exact attribution, not merely later summaries.
+5. Inspect the 1981 government history pp.20–22 and its notes, then trace its source chain.
+6. Obtain Chinese MFA files 105-01689-02, 105-01689-01/-03 and 105-01694-02 plus the Air Force’s June/September requests and the four-service written plans.
+
+Formal records S1459–S1467, C2755–C2770, Q558 and CV632 were added/updated in this session. The specific historical date is unresolved; the user’s broader GOAL remains OPEN.
