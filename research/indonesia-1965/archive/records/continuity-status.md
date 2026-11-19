@@ -195,3 +195,14 @@
 **正式登记约束**：本次读取正式source-register、search-log、coverage-matrix及chronology开头并核SHA；claim-ledger.csv仍返回非空blob SHA但空正文，无法安全全量去重。故不预分配S/C/Q/CV，不覆盖四表或改写成熟历史正文；本条作为待并库的可核原刊发现。当前状态文件写入前blob SHA：`684db782fdc457cc615df981178256cc8ad8d3c2`；写入后GitHub返回的提交SHA应在下次读取main时核验，不能在同一Git提交正文预写自己的最终SHA。
 
 **精准未完事项**：1. 逐页核读1964年11—12月号第2—7、23、26、29页，建立Suharti Suwarto、地方代表、家务劳动/女工/农妇议程的原文定位及组织关系；2. 追查1964-11-04至06研讨会原始会议议程、签到表和决议，验证“20地区”数字；3. 核查该刊1963/1964馆藏编目、许可与印行时间，特别比较1962年9—10月号的1963-02-03许可信息；4. 获取ANRI KOTI No.727原影印与1962年《Harian Rakyat》9月29日、11月2日报道，独立核训练时序；5. 恢复claim-ledger安全读取后去重并入正式台账、chronology与成熟中文连续正文，轮换1965—68地方镇压及1970—98政治犯和工会证据链。GOAL永久OPEN。
+
+
+## 2026-11-19｜ONGOING / GOAL仍进行｜北苏门答腊1965-12-06军政接管原电报与巴厘证据层级
+
+**全域审计**：本次重读G1—G10完整性审计、AGENTS、stage-access、goal-continuity、continuity-status、global-gap-tracker及正式来源/检索/覆盖表、chronology开头。G1早期组织，G2基层工农妇女青年，G3跨机关时序，G4各省暴力，G5性别族群宗教与幸存者，G6监禁流亡再组织，G7改革后工会政党，G8外国介入，G9人地组织索引，G10去重与中文正文，全部OPEN。claim-ledger.csv的非空blob SHA仍返回空正文，未改正式CSV或擅配编号。research-status.md在archive/records/路径不存在。
+
+**长期地域链G3/G4/G5/G9：北苏门答腊Medan，1965-12-06**。直接打开美国驻Medan领馆致雅加达使馆第183A号电报OCR全文（https://nsarchive.gwu.edu/media/15715/ocr；RG84 Entry P339 Box14 Folder7）。报告称苏门答腊军方正在改组省/县政治机关；省军方司令Mokoginta指令县级军官担任Pantja Tunggal地方治理机构负责人；军方控制北苏门答腊民族阵线、清洗记者协会并对报纸出版实行额外审批；学校低于大学层次的学生组织被禁，8—15岁学生被要求加入军方控制的Pramuka；报告还称军方正在武装选定的Hansip地方防卫单位。**证据层级**：同期美国外交电报OCR原文已读，能直接证明领馆在1965-12-06如此报告，不等于所有措施已在全岛每县执行；特别是“延伸至每村”属于报告预测而非已核村级实施。领馆称北苏门答腊民族阵线成为军方工具及PNI受威胁，须取得地方命令、报社执照、学校与县级Pantja Tunggal名册核验。不能与先前第1290号电报Palembang（南苏门答腊）混淆。电报同源的2017档案馆介绍不构成独立佐证。
+
+**不同地区G4/G8：巴厘，1965-12至1966-02**。直接核读美国国务院FRUS卷XXVI文162编者历史注释（https://history.state.gov/historicaldocuments/frus1964-68v26/d162），其中引用1966-02-25美国驻雅加达A-527报告，称当时有人估计巴厘死亡约8万且杀戮未止；此为**FRUS编者对当时外交电报的转引**，尚未直接核A-527原扫描，更非死亡名册。Geoffrey Robinson研究公开脚注（https://doi.org/10.1080/14623528.2017.1393935）承认其早期“RPKAD抵达后才开始”判断需修正：Jenkins/Kammen提供军队抵达前数日已有杀戮的证据，但军队部署后规模显著加剧。**证据层级**：学术文章公开文字/FRUS编者注释，不把不同估算相加；必须分开暴力开始日期、军事增援日期、死亡人数估算及地区范围。
+
+**缺失原件与阻碍**：Medan 183A逐页扫描、Mokoginta命令及县级执行档、民族阵线/Pramuka/PWI清洗文件、Hansip武器移交表；巴厘A-527原电报、RPKAD部署记录、县级死亡与拘押簿、Jenkins/Kammen所引同期材料。OCR错字、外交观察位置偏差、军方与地方受害者材料不对称。**精确续接**：①核183A扫描原页与日期/人名；②检索Mokoginta的Pantja Tunggal与Pramuka命令；③取得A-527扫描并按巴厘县分解8万估算；④核Jenkins/Kammen军队抵达前杀戮原始依据；⑤解决claim-ledger全量读取后去重正式并库、chronology与成熟中文历史叙述。GOAL仍未完成。
