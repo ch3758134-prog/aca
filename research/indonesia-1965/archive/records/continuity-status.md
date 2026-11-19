@@ -61,3 +61,12 @@
 **不同G项G2/G8/G9：1959—1964 Gerwani妇女报刊及跨国交流。** 直接打开2026年公开数字档案 https://gerwani.logosid.app/majalah ，其期刊目录目前列1959—1964《Api Kartini》**42个期号/合刊条目**（主页仍称41卷，需核目录计数及缺期；网站声称500+文本待数字化，非已可读数量）。直接打开原刊转录文章 https://gerwani.logosid.app/teks/57 ，署Fanny J. Edelman，标为《Api Kartini》1963，介绍阿根廷妇女组织如何与工会合作、为罢工者设食堂和募款、组织女农业劳动者、推动母婴保护、反核与支持古巴。**可直接证明的是1963年印尼妇女刊物传播了这套国际妇女工运经验和编辑框架；不能据此证明印尼Gerwani实际实施了阿根廷文中每项措施，也不能证明阿根廷事件全部真实。** 此处访问等级为网站原刊文本转录全文（未逐页比对扫描影像），目录是目录；跨国交流是文本传播而非已证实组织资金/指挥关系。进一步查每期封面、出版年月、原页码、编辑署名、与SOBSI/BTI合作的印尼本地报道，并核对1959—1964各期对幼儿园、妇女工人、土地纠纷、婚姻法的地方案例。
 
 **全局OPEN**：G1殖民及革命档案；G2妇女/工农/青年文化基层；G3跨机关逐时；G4 Aceh、苏门答腊、爪哇、巴厘、Flores、Kalimantan、Sulawesi；G5受害者与性别/族群；G6拘押流亡；G7 1998—2026组织；G8英美澳中苏；G9逐人逐地索引；G10正式去重并库和中文连续正文。下一执行优先①核《Api Kartini》1963原刊页码和印尼基层实践；②Langsa 1965声明及南Aceh死者登记；③轮换北苏门答腊/苏拉威西地方档案与外国电报；④定位可读取的claim-ledger原始内容后再正式去重追加；⑤把成熟的地方过程融入连续中文历史。GOAL仍未完成。
+
+
+## 2026-11-19 23:46 CST｜劳工法规编号歧义核验（ONGOING / GOAL仍进行）
+
+本次已读AGENTS、goal-continuity、stage-access、统一续接、正式source-register/search-log/coverage-matrix、chronology前段；正式claim-ledger.csv的Git blob SHA为362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，但接口仍返回空正文，禁止覆盖或猜测C编号。GitHub正式chronology路径为archive/records/chronology.md，而非根目录chronology.md。
+
+**新增可核验的档案检索陷阱**：印尼劳工部官方JDIH目录直接打开 https://jdih.kemnaker.go.id/peraturan?hal=2&keyword=&nomor=&per_page=15&sort=relevansi&status=&tag%5B0%5D=kelembagaan-hi&tahun=&terjemahan= ，列出 **KEP-201/MEN/2001（2001-12-10，工业关系机构代表性）**；它与KEP.16/MEN/2001第11/12条提及的 **KEP.201/MEN/1999（工人组织）** 不同。二者虽共享201编号，年份与主题均不同，绝不可混为同一过渡法令。官方直接打开的2000年第21号法元数据 https://jdih.kemnaker.go.id/peraturan/detail/32 与2001年第16号决定元数据 https://jdih.kemnaker.go.id/peraturan/detail/316 再次确认2000-08-04、2001-02-15及登记法律框架；官方页面是法律登记与概述，非地方执行证据。1998 PER.05/MEN/1998及1999 KEP.201/MEN/1999原文仍未取得。检索了印尼语两个原法令编号，结果主要回流2001年第16号决定及2001年第201号异物；不得将回流结果当原件。
+
+**精准未完**：（1）从劳工部JDIH旧版法规及NATLEX索引按年份+标题定位1998 PER.05/MEN/1998原文；（2）以「Organisasi Pekerja」+「KEP.201/MEN/1999」定位1999原件，排除2001 KEP-201；（3）从县市劳动机关2000—2002登记簿寻找重新编号及补件、拒登个案；（4）安全读取claim-ledger完整字节并与正式S/C/Q/CV去重，之后更新chronology及成熟中文正文；（5）轮换1965亚齐军方原始《Chronologis 1966》及SOBSI/BTI/Gerwani基层档案。GOAL保持OPEN。写入前状态文件blob=f32b022f17598cdd0e0978ce2bbe0f244ce9dec1；本次提交SHA须由提交结果确认，提交前不可能写入自身SHA。
