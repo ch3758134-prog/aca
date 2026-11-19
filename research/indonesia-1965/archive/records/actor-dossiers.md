@@ -54,6 +54,8 @@
 
 ## D.N. Aidit, Sjam Kamaruzaman and Untung
 
+- Aidit’s 23 May 1960 speech excerpt in *New Age* publicly recalls a three-part lesson from 1945–48—rural guerrilla struggle, worker action in occupied towns and work within opposing armed forces—while also calling for a National Front and a broad mass party. Because the surviving item is an excerpt and does not document implementation, distinguish his strategic language from 1960s party practice and from actual military capacity. [S1484; C2806–C2807]
+
 - Current archive coverage has scholarly leads for PKI growth and ANRI's 2025 announcement of PKI archival materials, but no name-level Indonesian dossier yet. [S040, S053]
 - The early U.S. intelligence report names Untung as a leader in its initial account; this does not establish the full chain of command. [S026]
 - **Unresolved:** Aidit's exact movement and communications; PKI Politburo decisions; Sjam's identity, role and relationship to PKI/Army channels; Untung's unit and orders; source reliability of later trials/confessions and official biographies.
@@ -183,3 +185,37 @@ The early left had connections among ISDV/PKI, Sarekat Islam factions, youth org
 
 - **Suhandjo:** A-386 identifies him as coordinator of Catholic Party activities in the Pati residency, Central Java, and as the informant who described RPKAD cooperation with Catholic, IP-KI and NU groups in Kudus. He said he had furnished the Army a list of more than 200 Baperki members; a separate list of 20 leaders was reportedly awaiting intensive questioning. These are his statements as relayed in a U.S. cable, not independently confirmed actions or verified individual fates. His exact full name, office files and subsequent history are not established. [S151; C143; C648; C649]
 - **Robert J. Martens:** Signed the 10 December 1965 Embassy airgram A-386 as First Secretary. The document establishes his reporting role and what he transmitted to Washington; it does not identify him as the creator or supplier of Suhandjo's local list, nor establish CIA service. [S151]
+
+
+## Jusuf Adjitorop / Josef Simanjuntak — PKI海外代表团的身份与权限
+
+Hill根据阿吉托罗普自传称，他出生名为Josef Simanjuntak，曾在北苏门答腊地下组织工作；后为治病于1964年6月赴中国。其自传称政治局于1966年2月22日委托他领导海外中央委员会代表团。生日在自传与其入学证件之间有1918/1920两种记载；IISH Bundle IV、Item 23尚未直接调阅，故应保留日期差异。代表团随后承担PKI海外代表、通讯和出版职能，但没有证据证明其能指挥印尼国内各地的秘密组织。中国共产党作为东道方控制流亡者居住、工作和经费等重要条件；流亡者内部对阿吉托罗普召集干部赴华和代表团领导权有争议。Hill对国内紧急中央委员会的补充明确转引Hearman，不是另一个独立来源。[S1477;C2790–C2798]
+
+
+## Marshall Green｜美国驻印尼大使与对苏哈托的援助渠道
+
+- FRUS d155记录Green批准提供三部Motorola P-31手持电台，并称武官将于1965年10月14日秘密交给印尼陆军；同期电报描述10月13日Nasution联络官通过William Ethel提出需求。使馆电报写明计划交接，但当前未找到签收或序列号。[S431; C753]
+- 格林1987年口述称，他后来把使馆全部14部应急对讲机交给苏哈托；谈话上下文提到他记得的首次私下会面为1966年5月29日，然而没有说清14部电台哪天交接。这个陈述必须与1965年三部P-31电台分开。[S807; C1420]
+- 同一口述中，格林称美国提供了药品、印尼方面转售部分不需要的药品换取外汇；又以PKI规模、干部训练纪律、依赖苏加诺及中国关联解释党的崩溃，并回忆11—12个他称为“亲共”的营被调往外岛。以上分别是援助回顾、政治解释及部队调动线索，均无本段对应的账簿、单位名册或命令；格林的事后自述不能代替执行记录或独立因果证据。采访者Robert J. Martens曾任美国使馆政治官员，访问发生于1987年5月12日。[S807; C2816–C2820]
+- 格林还回忆1966年2月美国使馆估计死亡人数时没有可靠计数，300,000是国家小组成员猜测的平均值。他说这一估数本应附很宽的不确定区间；需要查找当时估数工作表和使领馆报告，不能把此段口述当成真实受害者人数。[S807; C2817]
+
+
+## Tarmudji (South Blitar Kompro; identity unresolved)
+
+- A translated Indonesian Army General Staff I/SUAD-I report dated 17 February 1968 attributes to captive Subandi the claim that Tarmudji, described as a former East Java CDB member, headed the South Blitar Kompro and its BAGOR section. The same report assigns Subandi to supplies/logistics and names Ucup, Parto, Suwarno and Sono in other functions. This is an interrogation-derived roster reproduced in an Embassy translation, not an independently checked appointment or party list. Section spellings vary within the translation, and no real-name key is supplied. [S1487;C2821–C2822]
+- **Unresolved:** full name, biography, dates of service, precise relation to Gatot Sutaryo and other Kompro accounts, detention/trial/fate, and whether the described roles were operational. Seek trial files, party lists, original SUAD-I papers and separate participant testimony. Do not merge namesakes based on the single name Tarmudji.
+
+## Subandi (captured South Blitar Kompro member, as reported in 1968)
+
+- The Embassy’s 28 February 1968 cover report says the attached SUAD-I account drew on interrogation of captured PKI members and captured documents. Its South Blitar special report identifies Subandi as the source for a Kompro leadership/role description and itself lists him as responsible for supplies and logistics. The record establishes what military intelligence attributed to a captive; it does not provide his full identity, capture circumstances, interrogation transcript, conditions, or the original document inventory. [S1487;C2821–C2822]
+- **Unresolved:** personal identity, organizational status, arrest/custody history, whether statements were voluntary or corroborated, subsequent fate and any testimony in a trial. Seek BAP/interrogation records, court docket, detention registers and independent co-cadre/local accounts.
+
+## 查禾多（Djawoto）—驻华大使与记者组织网络
+
+Zhou对亚非记者协会的研究称，查禾多自1963年任AAJA秘书长，1964年3月转任印尼驻华大使后不再积极参与记者组织工作。1966年4月16日，他在北京公开宣布自己自当日6时起不再担任大使，并称此前向雅加达请辞未获答复。辞职是否得到印尼政府正式接受、他何时完成使馆交接，仍需外交部公函和外交名册核验。[S1496;S1500;C2870]
+
+他在同一声明中称CIA等帝国主义力量推动印尼政治右转；这能证明他的公开政治判断，不能证明CIA具体行动、因果程度或证据来源。[S1500;C2871]
+
+## 伊布拉欣·伊萨（Ibrahim Isa）—亚非团结组织与流亡代表团
+
+Hearman将伊布拉欣·伊萨描述为1960—1965年亚非人民团结组织（AAPSO）驻开罗代表，1966年1月率亲苏加诺的印尼代表团赴哈瓦那参加三大洲会议，随后到北京并在PKI中央委员会海外代表团工作。该履历目前来自学术研究转述，个人档案、任命文书、代表团名册与行程记录尚未调取。AAPSO、AAJA与PKI海外代表团是不同组织，不能因其个人跨组织任职将它们写成一个机构。[S1503]

@@ -60,3 +60,8 @@
 平台：公开网络搜索，英文/印尼文；组合查询：`Indonesia PKI underground Blitar Selatan 1968`；`Indonesia political exiles China USSR PKI`；`Indonesia PRD 1996 HRW workers`；`Buru 1969 1977 Amnesty prisoners`；`MPRS XXV 1966 2003 still valid`；`2023 Jokowi victims 1965 recognition`。本批至少新增12条来源线索，区分全文/可见章节/摘要与官方法律引用。未读取受版权限制的整本著作，未下载原始军区卷宗；所有这些状态均不可升级为全文核实。
 
 **本批结论**：1965后研究已开出国内地下抵抗、流亡分裂、长期囚禁、1990年代新组织、1998后法律和记忆政治五条并行线；不宣称调查完成。下一批优先1966—1973详查，而非直接跳到今天。
+
+
+## 正式编号校正｜2026-11-19
+
+上文曾将Hill 2020、Hill 2014、Hill 2026和相关海外领导论断用S292–S294、C478作“预登记”。这些编号从未写入正式台账，且现已被其他材料正式占用：S292为TanahKita Soge冲突条目，S293为《Pikiran Rakjat》报纸史，S294为《Angkatan Bersenjata》馆藏目录；C478为Wangunwati土地合作社主张。因此，本文旧段中的这些方括号不得当作有效正式来源引用。Hill 2020本轮正式登记为S1477；Hill 2014与2026新书仍未正式登记。旧文字和候选痕迹保留以供追溯。
