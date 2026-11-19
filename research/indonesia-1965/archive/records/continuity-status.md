@@ -41,3 +41,12 @@
 **不同G项G1｜殖民劳动/通信/种植园制度的原始档案目录**：ANRI官方JDIH“Dokumen Langka”目录（https://jdih.anri.go.id/doklangka ，本次直接打开）列出`Archieven Cultures/Arsip Perkebunan (1816–1900) No. K.68`、`Post-, Telegraaf-, en Telefoondienst (1817–1950) No. K.89`和`Algemene Secretarie Serie Grote Bundel Telegram Gouvernement Secretaris (1887) 1892–1942 No. K.87g`。这是官方**目录级**证据，只能证明可申请的馆藏类别，不能推断某年PKI、ISDV或Sarekat Islam具体活动已在卷内。ANRI服务说明（https://www.anri.go.id/en/around-the-records-and-archives/archives ）提供按形成机关与媒介查阅finding aids的路径。取件：先申请K.68/K.89/K.87g详细inventory与逐件目录，再检索1910—1942工人组织、罢工、电报与殖民行政响应，随后对照荷兰报刊；不得用目录替代档案全文。
 
 **G1—G10总账仍OPEN**：G2 SOBSI/BTI/Gerwani基层；G3军政逐时；G4跨省镇压；G5妇女/族群幸存者；G6拘押流亡；G7当代基层工会；G8英美澳中苏具体行动；G9人地组织关系；G10去重并库与中文连续正文。本次仅更新滚动状态，未改正式CSV、chronology或HTML；下一接力优先取西Aceh 10月8日宣言和11日会议原影印，同时轮换G2 1954 Gerwani原章程及G8英澳原电报。GOAL未完成。
+
+
+## 2026-11-19 22:50 CST 续接｜工会重新登记的上位法来源校正（ONGOING / GOAL仍进行）
+
+本次直接核读ILO NATLEX保存的《2000年第21号工会法》英文全文（https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/57553/IDN57553%20Eng.pdf），以及《KEP.16/MEN/2001》印英对照原件（https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/71238/idn71238.pdf）。**关键校正：一年内重新登记的基本义务不是2001年部长决定首次创设；2000年法律第45条第1—2款已明确要求已有登记号的工会一年内申报新号码，逾期视为无登记号。**2001年部长决定第11条将该过渡规则具体适用于依据1998年PER.05/MEN/1998和1999年KEP.201/MEN/1999登记/通知的组织，并明确县市劳动主管机关、申请附件等实施程序。2000年法第22条第2款要求登记簿始终向公众开放；第25条将集体谈判等特定权利与登记号码相联，因而“登记号失效”与组织实际谈判能力的关系值得调查，但不能仅凭法律文字认定某组织事实上失权。法律英文全文开头有“as amended up to 1996”的显然不合年代的模板行，须优先核印尼文法定刊本；第20条第3款英文“no less than 14 days”也应与印尼文比对，不可直接引用为准确时限。两份均为**原件译文/对照全文已打开**，不等于地方执行档案已取得。
+
+本轮先前资料去重：2000年法和2001年决定均在已有研究中出现，故不分配新的S/C/Q编号，不覆盖未完整核读的正式CSV，也不把重复原件记作新增独立来源。未更新chronology及成熟中文正文，等待以县市工会登记案例补足行动与结果之间的叙事连接。
+
+**精准未完：** 1. 取得2000年第21号法印尼文官方刊本第20、22、25、45、47条，与NATLEX英文逐字核对；2. 取得PER.05/MEN/1998和KEP.201/MEN/1999原文，区分1998年登记制度与2001年重新通知；3. 查Surabaya和Medan 2000—2002年公开工会登记簿，寻找旧号、新号、退件、拒绝及异议；4. 对照SBSI、独立企业工会及ILO申诉的组织名称与实际登记事件，避免以全国汇总数代替地方核验；5. 轮换1965年Aceh军区材料、SOBSI/BTI/Gerwani基层组织史和南勿里达原始影像。写入前核验main HEAD：ce92e7e7914c56a6468445e408ba155b62ab0795；该值是提交前基线，提交后的最新SHA必须由远程HEAD核验，不可预写入自身提交SHA。GOAL始终OPEN。
