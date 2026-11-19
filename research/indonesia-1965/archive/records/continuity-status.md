@@ -131,3 +131,16 @@
 **G6/G9（南苏拉威西Moncongloe，1969—1977）**：直接打开哈桑努丁大学2024年Hendrawan Rahmat Wijaya学士论文馆藏页 https://repository.unhas.ac.id/id/eprint/49383/ 。摘要明确作者使用政府档案和幸存者访谈，讨论被拘押者在强制劳动与监视下的个人及集体生存策略；馆藏提供第1—2章PDF及参考文献PDF，全文条目显示曾限馆员访问至2026-05-08，当前是否实际解除需另点下载确认。**访问等级：官方大学论文摘要与可用章节目录，未读全文或访谈底稿**；不把摘要所称隐蔽抵抗写成已独立核实的具体事件。需下载可用章节，提取访谈对象/档案号，与Komnas HAM证人A54/B55及1977年SPRIN/802/TPD/XII/1977核对。
 
 **下一直接行动**：①核1290号电报PDF逐页与南苏门答腊工厂拘捕名单；②取《Api Kartini》1960年6月第6号原刊并核Sulami第6页；③取Wijaya论文开放章节及访谈/政府档案引注；④轮换Aceh、北苏门答腊、巴厘、Flores、西加里曼丹、爪哇各县同期原件；⑤恢复四正式CSV去重、统一chronology和中文连续正文。所有G项OPEN，长期GOAL未完成。
+
+
+## 2026-11-20 02:50 CST｜1962年《Api Kartini》原刊及妇女组织关系（ONGOING / GOAL仍进行）
+
+已重新读取AGENTS、goal-continuity、stage-access、统一状态及正式source-register、search-log、coverage-matrix、chronology（均在archive/records/）。claim-ledger.csv返回非空blob SHA但空正文，禁止覆盖。此前以研究根目录寻找CSV和chronology的404是假路径，不是资料缺失。
+
+**新核读原刊全文**：《Api Kartini》1962年9—10月合刊第IV年第9—10期，公开PDF https://pustaka.taratsa.id/files/1385/pdf/1776740388-24394639/f78eaf1926dab49216be984b59f330b1/Api%20Kartini%20%281962%29%20No.%209-10%20-%20Majalah%20Api%20Kartini.pdf 。刊头明确Jajasan Melati为出版者、Matraman Raya 51为编辑地址，Maasje Siwi为负责人，S. Asijah、Darmini、Parjani Pradono列编辑，S.K. Trimurti、Sulami、S. Hutapea等列协助人员；目录有“Sedjenak di Training Centre Gerwani”（第6页），提供训练机构的同时代文字入口。刊内还转载Hartini Sukarno访华讲话与Wang Guangmei答辞，证明该刊在1962年传播印中妇女外交话语，**不等于证明Gerwani直接指挥国家外交**。印刷期标1962-09/10，但刊头同时出现1963-02-03的许可日期，存在出版时点/扫描装订或后补信息的内部年代矛盾，必须核对原影印与其他馆藏，不可无说明地将所有刊头细节定为1962年原始状态。页面已实际打开、全文可检索；PDF文本可能含数字化转录错误。
+
+**独立研究入口**：雅加达国立大学2026年学位论文目录及摘要 https://repository.unj.ac.id/68003/ ，Raja Tunggul Kennedy Napitupulu研究1959—1964《Api Kartini》并以1961—1962《Trisula》比较Perwari。仅摘要及公开章节入口已核；正文第2—4章限制访问，不能称已读全文。另有1960年3月原刊馆藏商品元数据 https://warungarsip.co/produk/kliping/api-kartini-no-3-th-ii-maret-1960/ ，列编辑与协助人员；与1962刊头可核人员连续性，但商品说明不等于1960年全刊原文。
+
+**下一步精确执行**：（1）逐页核1962合刊第6页Training Centre Gerwani的人名、课程、地址、组织性质并寻找同期另一刊或个人证词；（2）核1962合刊刊头1963许可日期是否数字化混页、续期刊头或原刊印刷错误，查独立馆藏影像；（3）对照1960年3月《Api Kartini》刊头及1961—1962《Trisula》，区分编辑成员与Gerwani正式干部；（4）核1962访华讲话的中国同期报刊/外交档案，区分文本转载与实际访问日期；（5）修复claim-ledger完整读取后，按正式最大S/C/Q/CV去重登记并更新chronology与成熟中文连续正文；轮换Aceh 1965原件和1970—1998劳工政治犯链。
+
+本次新增来源未正式编号，正式四表、chronology及阅读版正文未修改，避免无依据并库。写入前状态blob SHA：e641128b5c982801446f1dde83edef8bd9d89eed；提交前参考main至少已领先a0305345两个提交，最新HEAD需以提交后远程比较确认。GOAL永久OPEN。
