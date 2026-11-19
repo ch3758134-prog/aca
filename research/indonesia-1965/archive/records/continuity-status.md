@@ -182,3 +182,16 @@
 ## ONGOING / GOAL仍进行｜2026-11-19 Flores原文及1966美国政策分歧接力
 
 已重读G1—G10完整性审计及授权规则、正式来源/检索/覆盖表与时间线；G1—G10均OPEN。直接打开Prior 2011《The Silent Scream》Part One **27页全文PDF**（https://repository.divinity.edu.au/divinityserver/api/core/bitstreams/662d52ff-005b-4845-918c-959a06ea50d0/content），不是此前仅摘要：p.123转引Kramer关于1965-12-26 Adonara/Wailebe两人遇害回忆；p.125转引Boumans关于1966-02-09 Jan Djong遭酷刑死亡；pp.125–126记Soemarno/KOMOP及1966-02-16 Suherman神学院讲话，800–2000为作者估计。原回忆录、军令、受害者名册仍未直接取得。异G项核读美国FRUS文208（https://history.state.gov/historicaldocuments/frus1964-68v26/d208）：1966-05-10 Lodge宣称越战坚定姿态促成印尼局势；1966-05-13 CIA OCI 0815/66则称未找到直接显著影响的证据；FRUS文215（https://history.state.gov/historicaldocuments/frus1964-68v26/d215）1966-08-01 Rusk简报记军方鼓励青年群体杀害PKI干部，30万为政策估计而非死亡登记。完整来源等级、反证、地点与行动见global-gap-tracker最新条。下一步：①Kramer/Wetzer/Boumans原手稿及页码；②Maumere KOMOP原命令与1966-02-16讲话；③Jan Djong及Wailebe受害者原始记录；④CIA OCI 0815/66与NSC 557原件；⑤正式claim-ledger读取修复后去重并库、统一时间线及中文正文。正式CSV与chronology/HTML本次未更新，GOAL未完成。
+
+
+## 2026-11-20｜《Api Kartini》1964年11—12月号的目录年代错误与Gerwani家务劳动议程（ONGOING / GOAL仍进行）
+
+**本次原刊核读**：直接打开Pustaka Taratsa所藏《Api Kartini》PDF（目录文件名误标“1963 No.11-12”）：https://pustaka.taratsa.id/files/1392/pdf/1776742781-25482708/9a7ed2b1b812ecf0985607c562220b41/Api%20Kartini%20%281963%29%20No.%2011-12%20-%20Majalah%20Api%20Kartini.pdf 。原刊内页刊头仅写“November–Desember, Th ke-VI”，而第1页社论明确回顾**1964-11-10**英雄日，第2页报道Gerwani中央领导机构在雅加达于**1964-11-04至06**举办全国家庭妇女研讨会，并有写明日期的现场照片题记。故外部文件名“1963”与内页实际内容不符，**不能将这份期刊定为1963年**；合理的工作编年为1964年11—12月，但最终印刷/发行日期仍待纸本版权页和馆藏核对。
+
+**组织行动的具体线索**：原刊第2页称研讨会有20个一级地方行政区代表到场，另有三个地区未到（含西伊里安）；该人数为组织刊物自报，非独立签到核实。Nj. Suharti Suwarto代表DPP Gerwani作主题报告；刊物把“家庭妇女”界定为不以社会生产或公共工作为主要职业、承担家务劳动的人群，并将工人、农民妇女与已参加社会运动者作为区别类别。此为组织在1964年如何界定新的动员对象的**同期自我陈述**，不能直接推论政策已执行、全国妇女态度或实际成员变化。目录另列第23页女工斗争、第26页农妇觉醒，提示可比较家务劳动、工资劳动和农村生产的组织分类。原刊同一页还提及Wanita Marhaenis、NU Muslimat、Pertiwi及军人家属组织举办训练，属于该刊陈述，待独立来源核验。
+
+**交叉核验与反证**：另直接打开《Api Kartini》1962年9—10月号：https://pustaka.taratsa.id/files/1385/pdf/1776740388-24394639/f78eaf1926dab49216be984b59f330b1/Api%20Kartini%20%281962%29%20No.%209-10%20-%20Majalah%20Api%20Kartini.pdf 。其刊头印有1963-02-03许可日期，不能由此直接确定1962年训练报道实际发行日期；1964号的“1963”目录标签错误进一步说明必须区分扫描件文件名、内页刊期、许可日期、文章所述事件日期与实际发行日。两份均为**同期刊物扫描全文已打开**，不是ANRI KOTI 727原档。
+
+**正式登记约束**：本次读取正式source-register、search-log、coverage-matrix及chronology开头并核SHA；claim-ledger.csv仍返回非空blob SHA但空正文，无法安全全量去重。故不预分配S/C/Q/CV，不覆盖四表或改写成熟历史正文；本条作为待并库的可核原刊发现。当前状态文件写入前blob SHA：`684db782fdc457cc615df981178256cc8ad8d3c2`；写入后GitHub返回的提交SHA应在下次读取main时核验，不能在同一Git提交正文预写自己的最终SHA。
+
+**精准未完事项**：1. 逐页核读1964年11—12月号第2—7、23、26、29页，建立Suharti Suwarto、地方代表、家务劳动/女工/农妇议程的原文定位及组织关系；2. 追查1964-11-04至06研讨会原始会议议程、签到表和决议，验证“20地区”数字；3. 核查该刊1963/1964馆藏编目、许可与印行时间，特别比较1962年9—10月号的1963-02-03许可信息；4. 获取ANRI KOTI No.727原影印与1962年《Harian Rakyat》9月29日、11月2日报道，独立核训练时序；5. 恢复claim-ledger安全读取后去重并入正式台账、chronology与成熟中文连续正文，轮换1965—68地方镇压及1970—98政治犯和工会证据链。GOAL永久OPEN。
