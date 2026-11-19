@@ -144,3 +144,10 @@
 **下一步精确执行**：（1）逐页核1962合刊第6页Training Centre Gerwani的人名、课程、地址、组织性质并寻找同期另一刊或个人证词；（2）核1962合刊刊头1963许可日期是否数字化混页、续期刊头或原刊印刷错误，查独立馆藏影像；（3）对照1960年3月《Api Kartini》刊头及1961—1962《Trisula》，区分编辑成员与Gerwani正式干部；（4）核1962访华讲话的中国同期报刊/外交档案，区分文本转载与实际访问日期；（5）修复claim-ledger完整读取后，按正式最大S/C/Q/CV去重登记并更新chronology与成熟中文连续正文；轮换Aceh 1965原件和1970—1998劳工政治犯链。
 
 本次新增来源未正式编号，正式四表、chronology及阅读版正文未修改，避免无依据并库。写入前状态blob SHA：e641128b5c982801446f1dde83edef8bd9d89eed；提交前参考main至少已领先a0305345两个提交，最新HEAD需以提交后远程比较确认。GOAL永久OPEN。
+
+
+### 2026-11-20 同轮深入：第6—7页培训班原文核读
+
+已直接打开《Api Kartini》1962年9—10月合刊第6—7页《Sedjenak di Training Centre Gerwani》：DPP Gerwani组织培训，来自Lombok的Asjah、Batak Karo的Rehulina、来自日惹的Rukinah、棉兰的Saniam、三宝垄的Darminah、雅加达的Martini等姓名和地区在原文出现；文章还称四名培训参与者参加Front Nasional Pusat第一期训练，配图题记称Ruslan Abdulgani授课。参与者谈到妇女教育、幼儿园、土地和家务负担以及西伊里安志愿服务。**证据级别**：同时代组织刊物报道的具体主张，不能直接证明实际培训完成、志愿者被派遣或其后个人履历。PDF第6—7页及全文 https://pustaka.taratsa.id/files/1385/pdf/1776740388-24394639/f78eaf1926dab49216be984b59f330b1/Api%20Kartini%20%281962%29%20No.%209-10%20-%20Majalah%20Api%20Kartini.pdf 。另刊物将合刊标1962-09/10但刊头许可标1963-02-03，出版时间需复核。下一步以以上姓名、DPP Gerwani训练中心、Front Nasional训练名册为精准检索词，交叉验证地方妇女组织和国家机构实际关系。
+
+本轮首次写入提交SHA：a6d173ea8cb14f7f92ce55c06027a747264edc34（该提交后又追加本段；本段自身提交SHA只能在写入后核验）。GOAL OPEN。
