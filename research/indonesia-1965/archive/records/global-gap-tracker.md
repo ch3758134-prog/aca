@@ -3885,3 +3885,14 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **异G链G7/G6（1994—1999，全国及Medan/东爪哇，SBSI与ILO）：** 直接检索ILO NORMLEX第1773号案件**1999年11月第318次报告**官方条目 https://normlex.ilo.org/dyn/nrmlx_en/f?p=NORMLEXPUB:50002:0::NO::P50002_COMPLAINT_TEXT_ID:2903024 ，搜索索引可见第220段列出先前审查的297、302、305、308、310、316次报告及其年份（1995、1996、1997、1998、1999）。直接打开该网址时发生重定向循环，**本次只能确认搜索索引可见的程序沿革，未核读第318报告实质裁断**，不可说1996年Marsinah/SBSI争议已经解决。1996年第305报告全文此前已核；它是同一案件的前一程序阶段，不是独立案件。下一步使用ILO其他官方静态报告或PDF逐段读取318报告第220段之后的政府答复、委员会结论及后续状态，再回溯1997年第308、1998年第310、1999年第316报告；与SBSI原始申诉、工厂和警方档案分层核验。
 
 **全局轮换：** G1殖民法院/1926报刊；G2 SOBSI/BTI/Gerwani基层原件；G3 1965跨机关命令；G4 Aceh/Medan/爪哇/巴厘/Flores/苏拉威西；G5受害者与幸存者逐人；G6拘押流亡与组织再生；G7工会实际登记；G8英美澳中苏；G9地点人物组织及统计口径；G10正式CSV、统一chronology与中文连续HTML。下一接力优先核省报告附录VI及ILO 318完整结论；不因本次核表而停止其他链条。GOAL仍OPEN。
+
+
+## 2026-11-19｜G7/G5与G4/G9｜ILO 1773号案第318次报告原文关键段与西加里曼丹村级差异（ONGOING / GOAL仍进行）
+
+本次重读2026-11-09 G1—G10完整性审计及AGENTS、stage-access、goal-continuity、continuity-status。正式四CSV和chronology在research/indonesia-1965/根路径仍404；未获取完整台账，故不分配S/C/Q/CV编号。此为对已有ILO与西加里曼丹条目的深化，不将同一来源重复登记为独立来源。
+
+**G7/G5，1993—1999，Marsinah、Dita Sari、SBSI/独立工会、政府、ILO**：已从ILO官方NORMLEX可检索的**第318次报告1999年11月第1773号案英文原文段落226—231**核对到此前因重定向失败未能取得的实质结论。报告§226记载**印尼政府1999-08-26答复声称**于1999-06-25请国家人权委员会调查1993年5月Marsinah死亡，调查队已两次到Surabaya，仍需时间；§227政府称1999-07-02签署第68号总统决定，Dita Sari于07-05无条件获释；§228—230委员会确认上述为政府报告，并**明确遗憾Marsinah遇害逾六年后才启动司法调查**，要求报告调查结果；§231建议仅要求继续通报、查清并追责，**未宣布凶手已查明或案情已解决**。第318次报告数据库显示Closed是程序状态，不能理解为Marsinah案侦破。来源：https://normlex.ilo.org/dyn/nrmlx_en/f?p=NORMLEXPUB:50002:0::NO::P50002_COMPLAINT_TEXT_ID,P50002_LANG_CODE:2903024,en （搜索索引可见§226—231完整关键段；网页直接打开仍重定向失败，访问级别为**官方原文检索片段/段落，不是完整页面稳定直读**）。需查1999国家人权委员会调查原报告、总统决定68/1999签署件、Marsinah司法案卷、Dita Sari实际释放及工会活动独立旁证。与1998年C87批准/1999生效的制度链分开，不据政府声明推定执行。
+
+**不同G项/地区 G4/G9，1967—1968西加里曼丹，华裔农村居民、达雅克村庄、军方**：补充核对Nancy Lee Peluso等关于Bagak村的研究公开文字《Rubber Erasures, Rubber Producing Rights: Making Racialized Territories in West Kalimantan, Indonesia》：作者指出部分村庄（包括Bagak）居民提前向华裔及Pantokng亲友示警，早期撤离较和平且该村未发生杀戮。这是**学术研究全文可见转录**，不是1967村委/警署原始记录；不能由一村推广整个西加里曼丹，也不能因某地和平撤离否认其他地区杀戮。来源：https://www.academia.edu/34204988/Rubber_Erasures_Rubber_Producing_Rights_Making_Racialized_Territories_in_West_Kalimantan_Indonesia 。与Davidson/Kammen所引1968省政府附录VI的营地/投亲存量统计交叉，提出**村级暴力程度、迁离方式与土地去向**必须分开记录。缺件：Bagak及邻村原始口述底稿、1967军区动员命令、村级土地交易/没收簿、1968省政府附录VI原件；行动：按村比较警告、撤离、死伤、土地接管及后来返回。
+
+**G1—G10保持OPEN**：G1殖民/革命原件；G2群众组织基层；G3跨机关1965命令；G4各省逐县暴力；G5妇女族群与幸存者；G6拘押流亡；G7工会及后1998政治；G8外国介入；G9人物地点组织索引；G10正式台账/chronology/中文连续HTML。续接：①调取1999 Komnas HAM Marsinah调查与第68号总统决定；②取得1967 Bagak原访谈/军区文书；③定位正式CSV真实仓库路径后去重并库；④继续Aceh/Flores原件及G2 Gerwani基层；⑤成熟后补写连续中文历史正文。未声称CSV/chronology/HTML已同步。GOAL仍未完成。
