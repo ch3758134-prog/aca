@@ -3824,3 +3824,18 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **行动机制。** Hearman报告约5,000士兵、3,000民兵及六营、三区部署，同时描述军方接管行政、登记人口、撤村筛查、拔除作物、村民巡逻、掩埋死者和拘押后强迫劳动。缺军令、营级人员表、民兵名册、营区/撤离清单、筛查/拘押记录、道路工程档案、死亡与埋葬登记；这些受害与控制类型应分开建账。[S1394;S1425;C2882]
 
 **待补个案与比较。** 取得普吉·阿斯瓦蒂（1978庭审、判刑、1989释放）、加托特·莱斯塔里奥（1985年7月执行）案件卷与家属资料；追1968年缅甸SNIE的源报告，并用缅共、中国、泰共、马共与菲律宾共产党自身材料验证美国估计，区分跨境庇护、资金/武器/培训、广播、组织统一和本土社会动员。全国受害者族群比例仍无逐名数据，局部亚齐记录不能外推全国。[S1311–S1315;S1380–S1382;S1486;S1511;C2883–C2885;CV645–CV646]
+
+
+## 2026-11-19｜G4/G5/G9｜Flores Maumere 1966—1969：教区内部文件与追责链（ONGOING）
+
+**全局审计**：本次直接重读 completeness-audit-2026-11-09.md G1—G10及 AGENTS、stage-access、goal-continuity、continuity-status；G1—G10 均 OPEN。正式四CSV与 chronology 在研究目录路径404，尚未找到真实位置，不能虚称已并库；本条不占用S/C/Q/CV号。
+
+**新增证据（G4/G5/G9，Flores/Sikka/Maumere）**：直接打开John Mansford Prior, “The Silent Scream of a Silenced History: Part One: The Maumere Massacre of 1966”, *Exchange* 40(2), 2011, pp.117–143的完整27页PDF，澳大利亚神学院机构仓储 https://repository.divinity.edu.au/divinityserver/api/core/bitstreams/662d52ff-005b-4845-918c-959a06ea50d0/content ，DOI 10.1163/157254311X562017。**访问级别：研究论文全文已读；所引1966—1969教区原信、会议记录、军方KOMOP原卷尚未取得影印**。该文比此前只读Part Two摘要显著深入：作者转引1966-02-20 Wair-ita初次“pacification”；1966-02-27 Sikka DPRD-GR内KOMOP、调查队、政党群众组织会议；1966-03-06 Bola约45人拘捕与神父Pede da Lopez向主教反映；1966-04-28 Gabriel Manek大主教致函讨论临刑者灵性照护（pp.128–138）。各日期应以文内原件引述与访谈出处区别标记，不能等同直接核实军方执行记录。
+
+**1967年地方内部争论（G5/G9）**：作者据教区会议记录记载1967-05-08 Ledalero神职会议上Hendrik Hermus质疑未追究杀戮责任便为天主教党竞选；1967-05-22及05-31、06-07、06-30教区会议与信件讨论地方天主教群众组织的失信及领导人是否更换；1967-11-10牧函拟于11-19宣读，呼吁为受害者祈祷并帮助遗属；1967-11-27 Hendrik Djawa仅限神职人员的通函反对否定KOMOP整体，仅承认实施中的“过度行为”。据文内脚注，Jakarta学生Paulus Weto、Ansel Dado要求调查并在军营前示威，随后遭拘押、送Kupang后返雅加达。上述均为**作者转引未公开教区私藏档案/口述，原件仍缺**，不应把作者对主教动机的解释当作档案事实。人物、组织、地点链：Gabriel Manek（Ende大主教）、Hendrik Djawa（Maumere教长）、Hendrik Hermus、Clemens Pareira、Paulus Weto、Ansel Dado、KOMOP、Sikka DPRD-GR、Ledalero、Bola、Wair-ita、Kanga'e、Kupang。
+
+**争议及下一动作**：作者估计1966-02至04死亡800—2000人，但未获逐村死亡名册，不可当独立点数。1965-12-06 Manek牧函支持“清洗”同时强调仁爱；后续有其私下反对任意杀戮的访谈记载，公开信与私人说法不能强行合一。优先获取Ignas da Cunha等《Berpastoral di Tengah Badai: Potret Gereja Maumere 1956-1969》(1999) pp.207–208、Hendrik Djawa 1967-05-31/06-07/06-30会议原件、1967-11-10/27通函、1966 KOMOP与Sikka地方议会记录、Weto/Dado拘押记录，并逐村对照受害者职业/土地财产变化。
+
+**另一G项/地区（G6，东爪哇南勿里达）**：直接核对2022-09-30 detikJatim地方报道 https://www.detik.com/jatim/budaya/d-6322333/sejarah-pki-di-blitar-selatan-pemberontakan-penumpasan-dan-rekonsiliasi ，报道援引军方史与2004年空军史：1968-05-18 Witarmin特遣队组建、1968-06-01所谓正式行动、1968-06-06 Suwoto Sukendar发布空中Elang特遣队命令；另一2022-09-29报道 https://www.detik.com/jatim/budaya/d-6321832/mengulas-film-penumpasan-sisa-sisa-pki-di-blitar-selatan-operasi-trisula 提到PRINOP 02/05/1968、SMN三村和Kademangan指挥所。**访问级别：新闻网页全文，军方命令/2004空军史未直接读**；PRINOP 02/05/1968是文书代号，不能自动解释为签发日；不同日期可能是组建、启动、空中支援。追索原军令、空军6月6日命令、行动日志、村庄人员清单，并与现有SUAD-I讯问报告相互检验，不能将军方指控独立确证。
+
+**轮换状态**：G1殖民期组织/1926万丹；G2 SOBSI/BTI/Gerwani/LEKRA；G3跨机关逐日；G4各省县；G5宗教性别与生计；G6拘押/流亡及Blitar；G7后1998工会政党；G8英美澳中苏；G9人物空间关系；G10正式CSV/chronology/中文连续HTML均OPEN。下一次先查正式CSV实际路径并完成去重入库，再取得Flores教区原件和Blitar军令，转入不同省份暴力与当代工会链。GOAL未完成。
