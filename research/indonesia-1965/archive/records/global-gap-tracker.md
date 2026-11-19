@@ -3851,3 +3851,14 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **对族群比例的约束：** S1512没有个人族群字段或受害者身份记录；其行政区总数无法给出中央爪哇或全国按族群的遇害比例。不得由所在省份或县份的死亡/人口估算推算“该地主要族群受害占比”。S231和S1322讨论华人估算和反华地域差异，但其约数亦非全国逐人数据库。CV626已增加此限制，另立CV633记录中央爪哇的人口估算和政治地域研究。
 
 **需继续取件：** ①核普查表和县市边界调整；②回看Hindley所引1955/1957选举表；③依北加浪岸、德马克、苏拉卡尔塔三群追RPKAD命令、地方军警日报、民兵/党派记录、拘押与埋葬登记；④以逐人来源字段构建族群受害证据表，公开记录缺漏和不确定性。GOAL保持OPEN。
+
+
+## ONGOING / GOAL仍进行｜2026-11-19｜G4/G5西加里曼丹村级驱逐与G6/G7九十年代工会案件
+
+**治理及访问：** 重读completeness-audit-2026-11-09 G1—G10、AGENTS、stage-access、goal-continuity及本总账最新段。以下不是新的正式S/C/Q/CV编号；未确认四表最新去重前不分配。G1—G10全部OPEN。
+
+**长期链G4/G5/G9（西加里曼丹，1967，达雅克社群、华裔居民、军方与地方政治人物）：** 直接打开Taufiq Tanasaldy, *Regime Change and Ethnic Politics in Indonesia: Dayak Politics of West Kalimantan* (KITLV, 2012)的公开全文文字页面 https://www.academia.edu/15049509/Regime_change_and_ethnic_politics_in_Indonesia_Dayak_politics_of_West_Kalimantan 。其1967年章节称10月19日Bengkayang的Samalantan开始传递“红碗”，10月下旬后杀戮加剧，11月上中旬Landak的Senakin、Darit、Sebadu三处袭击合计210人死亡，11月17日军区指挥官下令停止示威。**这四个日期和210数字属于作者依地方材料重建，非本次直接核对的死亡登记或军令；不可外推全省，也不可把每名死者身份推断为某族群。** 作者注释指向1967年西加里曼丹省长办公室馆藏《Pengungsian orang2 Tjina sebagai akibat gerakan2 orang Daya dalam daerah Kabupaten Pontianak dan Kabupaten Sambas》，这是重要的同期迁离登记取件目标；尚未取得原卷、逐村清单和统计分母。另打开松村智雄2015年日文学术论文官方J-STAGE摘要 https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/ja/ ：作者解释军方动员与Oevaang Oeray、Palaoensoeka的竞争，并指出华商被逐后内陆供应恶化。**摘要不是全文；作者解释不是军方命令或市场账本。** 需与此前Davidson/Kammen记载1967年9—10月Mempawah/Bengkayang跨族群和平誓约对读，避免将达雅克人或华裔居民视为统一阵营。缺件：1967省长办公室迁离报告及附件、11月17日军区停令、Samalantan红碗仪式当地证言、Senakin/Darit/Sebadu村级死亡/迁居记录、贸易粮食价格簿；障碍是原件未数字化及不同研究共享同一地方材料。
+
+**异G链G6/G7/G9（1993—1996，东爪哇Marsinah、Medan及SBSI）：** 直接打开ILO结社自由委员会1996年11月第305次报告（GB.267/7）第1773号印尼案件完整机构网页 https://webapps.ilo.org/public/english/standards/relm/gb/docs/gb267/gb-7.htm 。第366段明确表示Marsinah死亡情形仍未澄清，要求政府报告警方调查及追究凶手；第367段明确将SBSI 1996-06-11来文所称殴打、拘捕、强迫七名PT Tris Delata Agindo工人退出工会、Medan和Binjai工会标志遭破坏，与政府称多数事件和平解决且逮捕有刑事指控的回应并列，委员会要求投诉方补证。**ILO全文直接证明双方主张与委员会的未决结论，不证明所有指控已经查实；也不能据未决状态直接认定特定凶手。** 同时查国际特赦组织1995年原报告PDF https://www.amnesty.org/en/wp-content/uploads/2021/06/asa210291995en.pdf ，其关于Marsinah案的调查过程、被告称遭胁迫及Komnas HAM调查结论属机构当时报告，须追警方原卷、1994年Komnas HAM报告、法院判决、SBSI 1996年6月11日投诉全文及企业工资/工会会员登记。这里可将1993年东爪哇工厂劳资纠纷与1994年Medan工人动员、1996年国际申诉串为连续历史，而不能宣称它们与1940—60年代SOBSI存在已证实组织继承。
+
+**跨G待办/精确续接：** (1)索取西加里曼丹省长办公室1967年《Pengungsian orang2 Tjina...》原件及附件，逐县拆分迁离/死亡/安置；(2)找1967-11-17军区命令、Senakin/Darit/Sebadu村簿与1967地方报；(3)读J-STAGE松村论文PDF及注释，标注其与Tanasaldy、Davidson/Kammen的共源依赖；(4)核ILO第1773案后续第270届/其他报告与SBSI投诉、政府答复原件；(5)获取Marsinah案Komnas HAM报告、法院判决并核1993—1996劳工组织地理/人员联系。G1早期组织、G2群众组织、G3跨机关时序、G8外国介入、G10正式台账和中文连续正文继续轮换，未宣称全量完成。
