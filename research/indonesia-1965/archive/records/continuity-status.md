@@ -70,3 +70,18 @@
 **新增可核验的档案检索陷阱**：印尼劳工部官方JDIH目录直接打开 https://jdih.kemnaker.go.id/peraturan?hal=2&keyword=&nomor=&per_page=15&sort=relevansi&status=&tag%5B0%5D=kelembagaan-hi&tahun=&terjemahan= ，列出 **KEP-201/MEN/2001（2001-12-10，工业关系机构代表性）**；它与KEP.16/MEN/2001第11/12条提及的 **KEP.201/MEN/1999（工人组织）** 不同。二者虽共享201编号，年份与主题均不同，绝不可混为同一过渡法令。官方直接打开的2000年第21号法元数据 https://jdih.kemnaker.go.id/peraturan/detail/32 与2001年第16号决定元数据 https://jdih.kemnaker.go.id/peraturan/detail/316 再次确认2000-08-04、2001-02-15及登记法律框架；官方页面是法律登记与概述，非地方执行证据。1998 PER.05/MEN/1998及1999 KEP.201/MEN/1999原文仍未取得。检索了印尼语两个原法令编号，结果主要回流2001年第16号决定及2001年第201号异物；不得将回流结果当原件。
 
 **精准未完**：（1）从劳工部JDIH旧版法规及NATLEX索引按年份+标题定位1998 PER.05/MEN/1998原文；（2）以「Organisasi Pekerja」+「KEP.201/MEN/1999」定位1999原件，排除2001 KEP-201；（3）从县市劳动机关2000—2002登记簿寻找重新编号及补件、拒登个案；（4）安全读取claim-ledger完整字节并与正式S/C/Q/CV去重，之后更新chronology及成熟中文正文；（5）轮换1965亚齐军方原始《Chronologis 1966》及SOBSI/BTI/Gerwani基层档案。GOAL保持OPEN。写入前状态文件blob=f32b022f17598cdd0e0978ce2bbe0f244ce9dec1；本次提交SHA须由提交结果确认，提交前不可能写入自身SHA。
+
+
+---
+
+## 2026-11-19｜ONGOING / GOAL仍进行｜南苏拉威西国家调查原文与Gerwani原刊交叉链
+
+**审计与治理**：本次重读 `archive/records/completeness-audit-2026-11-09.md` 全文（G1—G10）、AGENTS、stage-access、goal-continuity、continuity-status，核查正式 source-register、search-log、coverage-matrix、chronology 的实际 `archive/records/` 路径。正式 source-register 已延伸至S1512，chronology亦已含大量新增S/C条目，不能采用2026-11-09审计中S367/C617的历史上限。正式 claim-ledger.csv 返回非空blob SHA但UTF-8正文长度为0，不能安全新增C编号或覆盖。此处为未分配编号的核验接力，待全表去重正式并库。
+
+**G4/G6/G9：南苏拉威西，1965—1979；直接核读国家人权委员会调查报告全文**。Komnas HAM, `Ringkasan Eksekutif Hasil Penyelidikan Tim Ad Hoc Pelanggaran HAM Berat Peristiwa 1965–1966`，PDF全文 https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ，报告印刷页约142—150，PDF可检索行6153—6518。该调查组2008-06-01至2012-04-30工作，访问349名证人/受害者（报告总述，非南苏拉威西单独样本）。南苏拉威西章节依据证人陈述称1965-10-05开始拘捕；1965-10-18第XIV军区司令Solihin以Pepelrada身份签发编号`KEP.024/10/1965/PDD/1965`决定，暂时解除PKI及相关组织成员职务，并指示调查与监督关联人员；至1966-03约9,765人被拘押。**9,765是调查报告所载拘押人数，不是死者数，且报告未提供可独立逐人核对的名册**。来源等级：国家法定人权调查机构公开**调查摘要全文直接核读**，但引用的1965军令原件、登记簿及证人BAP仍未直接核读；报告内事实应表述为调查发现/证人陈述。
+
+同一报告印刷页143—155记载Moncongloe营地（Gowa地区）从Makassar、Sengkang、Majene等监禁地点分批转移，约1970-08至1977-12，四栋男性和一栋女性营房，部分被拘者为军方工程和军人私人田地无偿劳动；提到1972年约100套军人住宅建设，以及1977-12-20编号`SPRIN/802/TPD/XII/1977`从完全拘禁转为居家限制的命令。报告一处误写“1970-12-20释放”而相邻语境及具体文书指向1977-12-20，必须保留文字矛盾，不擅自修正原文。报告列BAP 266—269/BAP_TPPH65/III/2009为证言原件线索。此证据将1965军区拘押和1970年代劳动剥夺直接连接，且可与Taufik Ahmad 2010年完整研究文章 https://www.insideindonesia.org/editions/edition-998/survival-through-slavery 交叉：后者记载1969年营地建设、859男52女及15公里道路；国家调查称转入1970年以后、23公里道路。**营地启用与建成、道路范围及统计口径有待核，不能假定两者独立使用不同原始访谈**。下一步调取KEP原件、BAP 266—269、SPRIN/802、军区工程账及地方拘押名单；核对Moncongloe/Moncong Loe、Gowa/Maros地名和路段。
+
+**不同G项 G2/G5：Gerwani原刊馆藏核对**。直接查看Warung Arsip公开馆藏/商品目录 https://warungarsip.co/produk/kliping/api-kartini-no-4-th-ii-april-1960/ 的可检索元数据，记录《Api Kartini》1960年4月第II年4号，28页，发行组织Gerwani、出版者Jajasan Melati，编辑署名Maasje Siwi、S. Sijah、Darmini、Parjani Pradono、S.K. Trimurti等。**访问等级仅目录/书目，网页直接打开被反机器人页拦截；未读28页原刊，不将名单自动视为全期正式编委任职证明**。另核对UNJ 2026年学位论文官方库摘要 https://repository.unj.ac.id/68003/ ，其研究以1959—1964《Api Kartini》与Perwari《Trisula》对照；仅摘要可读，不以论文摘要证明基层项目已经落实。此链应从1960年4月原刊目录与具体文章的图像、页码、署名入手，继而比对Gerwani/Perwari关于女性劳动、儿童照护和政治权利的不同主张与实际地方实践。
+
+**G1—G10全部OPEN**：G1殖民/革命组织；G2产业、妇女、农民、青年基层；G3跨机关逐日；G4地方暴力；G5性别/族群/幸存者；G6拘押、流亡、再组织；G7当代劳工政党；G8英美澳中苏；G9人员地点索引；G10正式CSV去重、时间线重整、连续中文HTML。**下次直接执行**：①查正式台账是否已含Komnas HAM 2012 PDF及Taufik Ahmad 2010并核S/C编号；②定位KEP.024/10/1965/PDD/1965原件；③查BAP 266—269/2009及SPRIN/802/TPD/XII/1977影印；④查1960年4月《Api Kartini》28页影像并与《Trisula》同期对照；⑤另轮换北苏门答腊/东爪哇或外部介入原件，避免单地区锁定。GOAL未完成。
