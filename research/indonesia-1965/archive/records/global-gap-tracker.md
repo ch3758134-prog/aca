@@ -3641,3 +3641,18 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **异G链G2/G5｜1959—1964 Gerwani《Api Kartini》及Perwari《Trisula》比较。** 新定位2026年印尼雅加达国立大学学位论文正式仓储目录 https://repository.unj.ac.id/68003/ ，题为《Perkembangan Majalah Api Kartini dalam Mempopulerkan Semangat Feminisme di Indonesia (1959–1964)》，作者Raja Tunggul Kennedy Napitupulu；2026-08-01入库。**本次只读官方论文元数据和摘要，未取得论文全文**。摘要声称以1959—64《Api Kartini》及1961—62《Trisula》为主要资料比较Gerwani与Perwari的社会、政治、国际联系；这些是论文作者的研究结论，不是已逐页核验的刊物事实。另核对Gerwani数字档案 https://gerwani.logosid.app/ ，主页显示41卷可免费阅读，但本次未逐期核对期号与版面。**缺件/行动**：下载论文全文核参考书目、刊期与页码；选取两组织同年同议题原刊影印，核托儿、工人/农民、议会及国际关系报道的具体作者、栏目、地区、日期；排查数字馆藏41/42卷计数冲突。**阻碍**：现有仅摘要及馆藏主页，无法独立确认具体刊物文章。
 
 **G1—G10仍OPEN及轮换**：G1 1926万丹与1948原件；G2刊物及SOBSI/BTI基层；G3跨机关命令；G4 Aceh及其他省军区/地方登记；G5族群妇女幸存者；G6监禁流亡与地下组织；G7当代工会/政党基层；G8英美澳中苏实际行动；G9人名地点机构关系；G10正式四表、按事件排序时间线、连续中文HTML。**下次直接执行**：①索取Langsa声明附页148人名单；②查1966《Chronologis》原卷与10-20命令；③取得UNJ论文全文及两种刊物对应原期；④轮换Medan县级原件或1970—98拘押/再组织链；⑤完整读取正式台账后再登记编号。GOAL未完成。
+
+
+---
+
+## ONGOING / GOAL仍进行｜2026-11-19 UTC｜G6布鲁岛1971国际红十字会实地记录与1977释放现场；G4亚齐军档可追索性（OPEN）
+
+**G1—G10审计**：重新读取 completeness-audit-2026-11-09.md、AGENTS.md、stage-access、goal-continuity、正式来源/检索/覆盖登记与chronology的可用部分；G1早期组织、G2群众组织、G3跨机关、G4地方暴力、G5性别族群、G6拘押再组织、G7当代工会、G8外国行动、G9索引、G10并库与正文均保持OPEN。claim-ledger.csv通过GitHub文件接口仍返回空正文，continuity-status同样为空；research-status.md当前路径404，不能据此宣称文件整体不存在。正式编号不新增，未声称CSV或统一时间线同步。
+
+**持续研究链G6/G9｜布鲁岛（Buru）、1971年1月27日至2月25日；来源等级：国际红十字委员会ICRC于1971年5月《International Review of the Red Cross》第11卷第122期pp.256–262同期机构活动报告；出版商网页直接打开并读取报告节选，非完整访问原始访视笔记。** https://doi.org/10.1017/S0020860400065190 。报告明确记ICRC医官Roland Marti与代表Bernard Daniel在上述日期访问印尼拘押设施，先到布鲁岛；当地被拘押者沿Apu河分为13个农业单位，访问团当时实际只看了其中3个单位，并私下访谈其自选拘押者；报告已转交拘押当局。**分母约束**：13是报告所说当时农业单位数，不是全岛永久营地数；3是该次访问所到单位数，不可推断其他10个单位条件；ICRC公布摘要不能替代未公开的保密访视报告，也不能据此证明虐待不存在。缺件：1971年访视全报告、13单位编号/地图、拘押者名单、当局答复、ICRC开放档案目录及1970年代后续探访记录。ICRC档案馆说明目前一般档案仅开放至1975年且须预约，1977年资料需另核开放规则：https://www.icrc.org/en/icrc-archives 。
+
+**同链1977年12月20日布鲁岛释放现场；来源等级：Hamish McDonald于1977-12-21在《Washington Post》发表的同期记者现场报道，网页全文直接阅读；政府宣布数字与记者亲见的程序须分开。** https://www.washingtonpost.com/archive/politics/1977/12/21/indonesia-frees-10000-jailed-since-65-revolt/f81cc0ed-a627-4bea-b67d-15c6f6f41fe9/ 。报道从布鲁岛记政府当日宣布释放约10,000名政治拘押者，为预计1978/1979再释放约20,000人的首阶段；记者现场观察到释放人员被点名、贴标签、经驳船转运、在Namlea附近集会宣誓忠于苏哈托并放弃追究政府、随后拟送东爪哇。报道又称释放后仍需六个月软禁与六个月原籍限制。**这些数字为政府释放口径，不等于记者独立清点；后两年数字是计划，不是已经释放。** 报道记前电影人Basuki Effendi仍为营内劳工，原《Bintang Timur》编辑Hashim Rachman据记者叙述在接受采访后被关禁闭；这类个人经历可追具体证词和档案，不能用一次受政府安排的访问代表全营。缺件：1977-12-20释放名册、具体船舶/抵达记录、宣誓表格、限制居住命令、1978—79实际释放清单及受访者后续口述。**需要核正地名**：原报拼写Namica、Surabeta等疑为排印/OCR异体，不直接据此标准化地点。
+
+**不同G项/地区G4/G3/G9｜Aceh，1965—1967军方指挥和县级证据链；来源等级：Jess Melvin 2018著作的公开文本/脚注（研究者转引原军方档案，不是直接打开档案原件）。** https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf 。本次定位到具体档案标题：1965-10-11西Aceh Meulaboh县议会DPRD-GR特别会议记录《Risalah Sidang Istimewa ... Aceh Barat》；1966年北Aceh县长T. Ramli Angkasah关于1965-04至1966-05施政的县议会报告（书中脚注标题将1966年度会议误写为1965-06-15，须核原件日期）；Aceh Besar公职人员关联G30S名单《Bekas PNS yg terlibat G30S PKI Aceh Besar》，档案借阅控制号222/24。**目前只定位原件题名和索引，未阅读会议纪要/县长报告/名单，不能从题名推断具体杀戮人数或责任。** 与前次Langsa Baperki 148人附件属不同地方、不同机关链条，需建立地区区分并避免同一研究者多次转引计为独立证据。缺件：上述三份原件、Banda Aceh档案馆馆藏索引与可访问规则、军区年报原件、县级拘押与公务员除名记录。
+
+**精确接力**：①查ICRC 1971年5月刊pp.256–262全篇和1971访视档案目录；②核1977年12月20日布鲁岛释放名册与Namlea—泗水航运记录；③找1978—79实际释放的同期独立报道以区分计划与执行；④取Aceh Barat 1965-10-11县议会原记录、Aceh Utara 1966县长报告及Aceh Besar 222/24名单；⑤继续轮换北苏门答腊Medan与SOBSI/BTI基层、Gerwani原刊、1998—2026工会执行及英美澳中苏具体介入。GOAL未完成。
