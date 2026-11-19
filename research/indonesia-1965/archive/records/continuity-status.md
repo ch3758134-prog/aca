@@ -103,3 +103,16 @@
 5. 轮换1965—1968 Aceh/南苏拉威西军区命令及1970年代Moncongloe拘押劳动原件，并在证据足够时写入连贯中文阅读正文；不建立旧列表HTML。
 
 本次写入前已检查远程近期main提交列表，最近提交 SHA：73205c60f0f7c6c3747b3afa6fd8769c16650e29。该SHA为提交前观察基线；本次提交SHA以写入结果及后续HEAD回读为准，无法预先写入自身提交。GOAL保持OPEN。
+
+
+## 2026-11-20 01:49 CST｜ONGOING / GOAL仍进行｜Gerwani前史原刊转录交叉核查
+
+本次按AGENTS、goal-continuity及stage-access授权重新读取正式source-register（截至S1512）、search-log（截至Q576）、coverage-matrix（截至CV647）及archive/records/chronology.md。正式claim-ledger.csv blob SHA为362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，但GitHub正文接口仍为空，未冒险覆盖；不预分配S/C/Q/CV正式编号。上一轮1958年Geeta Mukherjee资料在正式source-register中尚未按URL查到，但本轮首先调查另一条独立署名材料，避免把同一组织转述算成独立现场见证。
+
+**新增直接打开的当时发表文本（数字转录，不是原刊扫描）**：Sulami, “The Birth and Growth of the Indonesian Women's Movement (Part I),” *Women of the Whole World*, No.1, January 1959, pp.28–29，https://gerwani.logosid.app/teks/12 。文中回顾1912年Putri Merdika、1928年12月22—25日约30个妇女团体的大会、1930年3月22日Wanita Sedar成立、1935年妇女组织联合体改名、1938年讨论妇女选举权及1939年Batavia示威、1941年大会支持印尼议会诉求。这里是1959年妇女运动参与者对殖民时期组织史的**回顾**，不是1912—1941年会议原始记录；特别是“殖民政府接受1928年三项决议”必须区分接收请愿与实际实施。Sulami的Part III已经在正式来源表S462，Part I是不同刊期文本，不能冒充Part III内容，也不能凭同一作者把两者当成独立证人。
+
+**同期另一材料的交叉比较**：Geeta Mukherjee, “About the Movement of Indonesian Women,” WIDF, 1958-04-21函附1957-12柏林写作文本，https://gerwani.logosid.app/teks/8 ，全文转录已重新打开。其关于1957年会员662460、种植园“Tilayap”4万、Lamongan“Chapan”2.2万和253基层组织的数字均来自与Gerwani组织委员会主席Suwarti Bintang Suradi的交谈；尚无原刊扫描、会员名册或地方统计。Mukherjee与Sulami写作时间、对象、来源路径不同，能比较Gerwani如何建构妇女运动前史与基层动员，但不能相互独立验证具体会员数。
+
+**精准未完事项（优先顺序）**：（1）取得1959年《Women of the Whole World》No.1第28—29页原刊影像，逐行核对Sulami转录及1930/1935/1938会议名称；（2）追1928年12月大会会议记录、决议呈递与荷兰殖民政府答复，核实“接受”是否仅指收件；（3）检索1930年Wanita Sedar章程/成立公告与1939年Batavia示威当时报刊，核其与Gerwis 1950年六组织合并的实际组织连续性；（4）取得1958年Mukherjee原刊扫描、Gerwani 1957年报及Lamongan地方名册，确认Tilayap/Chapan拼写、分母和组织层级；（5）恢复claim-ledger可靠读取后，按正式最大ID及URL/标题/命题去重并入四表、chronology及成熟的中文妇女运动连续正文，继续轮换1965—1968地方军政、1970—1998拘押/劳工与1998—2026链条。
+
+**写入前已核对的文件blob**：status 2c06e7cc4568410755e7bd08e9dda902eb8f3980；source-register 7a88ed502d7d11b69e005c1d9ae206262c6fc9e2；search-log d84f3e80f35be09cdd97f634d28a2b38e3fa6e0a；coverage-matrix ac02cee1906aa96c516b30a9281fd4b072dc74fc；chronology 5067120cab37421e2ffd279a0752841c38b06fb1。上一轮已知main HEAD为d2bee909b0b3d57df65b2eed91ceb9780f40872e，须以本次提交结果及下一轮main回读验证为准；Git提交无法在自身文件中预先记录自身最终SHA。GOAL永久OPEN。
