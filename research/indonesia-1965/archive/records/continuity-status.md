@@ -85,3 +85,21 @@
 **不同G项 G2/G5：Gerwani原刊馆藏核对**。直接查看Warung Arsip公开馆藏/商品目录 https://warungarsip.co/produk/kliping/api-kartini-no-4-th-ii-april-1960/ 的可检索元数据，记录《Api Kartini》1960年4月第II年4号，28页，发行组织Gerwani、出版者Jajasan Melati，编辑署名Maasje Siwi、S. Sijah、Darmini、Parjani Pradono、S.K. Trimurti等。**访问等级仅目录/书目，网页直接打开被反机器人页拦截；未读28页原刊，不将名单自动视为全期正式编委任职证明**。另核对UNJ 2026年学位论文官方库摘要 https://repository.unj.ac.id/68003/ ，其研究以1959—1964《Api Kartini》与Perwari《Trisula》对照；仅摘要可读，不以论文摘要证明基层项目已经落实。此链应从1960年4月原刊目录与具体文章的图像、页码、署名入手，继而比对Gerwani/Perwari关于女性劳动、儿童照护和政治权利的不同主张与实际地方实践。
 
 **G1—G10全部OPEN**：G1殖民/革命组织；G2产业、妇女、农民、青年基层；G3跨机关逐日；G4地方暴力；G5性别/族群/幸存者；G6拘押、流亡、再组织；G7当代劳工政党；G8英美澳中苏；G9人员地点索引；G10正式CSV去重、时间线重整、连续中文HTML。**下次直接执行**：①查正式台账是否已含Komnas HAM 2012 PDF及Taufik Ahmad 2010并核S/C编号；②定位KEP.024/10/1965/PDD/1965原件；③查BAP 266—269/2009及SPRIN/802/TPD/XII/1977影印；④查1960年4月《Api Kartini》28页影像并与《Trisula》同期对照；⑤另轮换北苏门答腊/东爪哇或外部介入原件，避免单地区锁定。GOAL未完成。
+
+
+## 2026-11-20 00:50 CST｜G2 Gerwani 1957—1958基层组织机制（ONGOING / GOAL仍进行）
+
+本次重新核读 AGENTS、goal-continuity、stage-access、统一状态及正式 source-register/search-log/coverage-matrix/chronology。正式路径均为 archive/records/。claim-ledger.csv 返回 blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，但 UTF-8 内容仍为空，不覆盖、不猜测C编号。source-register已至S1512，chronology包含既有1950年代妇女组织叙述；本次没有为可能重复的材料擅自分配S/C/Q/CV编号。
+
+**直接核读的新具体线索**：Geeta Mukherjee署名《About the Movement of Indonesian Women》，1958-04-21 WIDF秘书长Carmen Zanti附函、正文署Berlin December 1957；现代逐字转录全文 https://gerwani.logosid.app/teks/8 。作者说明文章来自她与Gerwani组织委员会主席、制宪会议成员Suwarti Bintang Suradi的多次谈话。Suwarti据转述称，种植园区“Tilayap”有约4万成员；组织者从城镇派妇女到种植园讨论女工遭管理人员性骚扰、经期两日休假、产假与福利、识字课程，并逐渐培训当地女工成为干部；在Lamongan一处辖区称有2.2万成员及253基层组织，组织乡村识字教育并动员城镇教师假期授课。文本还描述Gerwani支持工会斗争、女性农民参与土地要求、婚姻与离婚权利争取。**这是1957年当事人口述经印度作者整理、1958年国际妇女组织发布的组织自述，现代转录全文已打开，但原印刷影像、组织名册、课程账簿、工会会议记录和地名未独立核验**；Tilayap可能是地名转录问题，严禁据此定位为确定县名。数字、措施和所谓取得的效果均应标注“受访者声称”，不可转成已独立证实的规模/结果。此来源不同于既有S458的Ratu Aminah Hidajat 1958演说和S932的Darmini 1954来信；是否已有别的S编号，需完整台账去重后才能新增。
+
+**证据链的解释价值**：材料提供城镇志愿教师→种植园妇女→基层干部训练，以及Gerwani—工会—农民家庭之间的可检验组织关系，能把1950年代社会组织结构与1965后遭禁、失业、拘押及妇女生活变化连接起来；但当前不能推断这些地方具体成员的1965年命运。
+
+**精准未完事项**：
+1. 在正式 source-register 全文中用标题、作者、URL、Suwarti、Geeta及转录变体去重，安全读取claim-ledger原始字节后才正式登记来源、原子主张、Q日志、覆盖矩阵和chronology。
+2. 取得WIDF 1958-04-21附函及Geeta Mukherjee文章原印刷影像，核对正文署期1957-12、发表/转发1958-04的时间层次和地名Tilayap（可试 Cilacap、Tjilatjap 等拼写，但不得预判）。
+3. 检索Lamongan 1955—1960 Gerwani地方支部、教师工会、识字班及女性劳动争议记录，核2.2万成员/253基层组织及种植园4万人说法。
+4. 用同期SOBSI产业工会档案和BTI地方农会材料交叉验证Gerwani参与罢工、土地要求的具体组织和行动，不把同一国际妇女联合会刊物的转载当独立旁证。
+5. 轮换1965—1968 Aceh/南苏拉威西军区命令及1970年代Moncongloe拘押劳动原件，并在证据足够时写入连贯中文阅读正文；不建立旧列表HTML。
+
+本次写入前已检查远程近期main提交列表，最近提交 SHA：73205c60f0f7c6c3747b3afa6fd8769c16650e29。该SHA为提交前观察基线；本次提交SHA以写入结果及后续HEAD回读为准，无法预先写入自身提交。GOAL保持OPEN。
