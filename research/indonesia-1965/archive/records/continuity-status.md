@@ -249,3 +249,14 @@
 **下一次精准执行：** (1) 追索Melvin注释所指《Surat Keputusan 1965》影印第2—3页，确认10月29日签发、10月20日生效、10月25日报到三日期是否原件如此；(2) 追索《Chronologis 1966》第3—9页并逐项校对10月8、9、14日地点、组织与军方表述；(3) 获取《Pernjataan 1965》原件及148人附件，建立人员身份与后续下落待核表，不能推定受害人数；(4) 查印尼文1965年10月Aceh地方报纸、Pepelrada公告及口述资料，复核地方禁令实际传达日期；(5) 轮换SOBSI/BTI组织、Buru拘押劳动及1998后工会制度，待正式台账可安全去重时先更新正式CSV和chronology再写成熟中文正文。
 
 **写入前已核验main最新提交SHA：d707c5262e625bcdd31dc4f25948d4ebd52b29d5。** 本次提交生成的新SHA需在提交后另行核验；状态正文不能预知自身提交SHA。GOAL永久OPEN，未获用户终止指令。
+
+
+## 2026-11-19｜ONGOING / GOAL仍进行｜西加里曼丹1967驱逐机制与1998工会公约日期分层
+
+**全域覆盖核对**：重读2026-11-09 G1—G10完整性审计、AGENTS、stage-access、goal-continuity、continuity-status及正式source-register、search-log、coverage-matrix、chronology。G1前史组织、G2工农妇青、G3跨机关事件、G4地区暴力、G5族群性别、G6监禁流亡、G7改革后工会、G8外部介入、G9人地组织索引、G10正式台账与中文正文均OPEN。正式claim-ledger.csv返回非空blob SHA但空正文，故不分配S/C/Q/CV、不覆盖正式CSV。
+
+**长期地区链G4/G5/G9｜西加里曼丹1967**：直接阅读HRW 1997《Communal Violence in West Kalimantan》公开报告网页 https://www.refworld.org/reference/countryrep/hrw/1997/23874 ，其中将1967-07-16 Sanggau Ledo空军基地军械库袭击（报告称3军官与1平民死亡）、随后两个月村长遇害、10月“红碗”动员、11月至少300死与55,000华裔离开内陆串成一个事后人权机构叙述。**访问级别：HRW报告正文已读，所引1967军方档案/地方受害者登记未读；300及55,000属于报告所引当时口径，不是独立核对的人口表。** 进一步直接打开松村智雄2015年日文学术论文的J-STAGE官方摘要 https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article ：摘要提出Oevaang Oeray与Palaoensoeka的达雅克政治竞争、Oeray的Partindo关联、1967-10的战争宣言和mangkok merah传播，指出驱逐后内陆贸易及生活用品供应下降。**访问级别：论文摘要，尚未读19页PDF全文；人物决策与军方挑动机制仅为作者研究解释，不能写成原始命令已经核实。** 重要反证路径：不能把全体华裔居民等同PGRS/PARAKU游击队；必须分开军方反游击战、地方领导人政治选择、族群驱逐、村级有无杀戮和后来1996—97冲突。
+
+**不同年代G7/G8｜1998—2000工会权利制度**：直接核印尼BPK官方Keppres 83/1998法律登记 https://peraturan.bpk.go.id/Details/59198/keppres-no-83-tahun-1998 ，确认1998-06-05国内签署/生效；ILO 1998-06-10新闻稿 https://www.ilo.org/resource/news/indonesia-pledges-respect-trade-union-rights-ratifies-key-ilo-convention-no 称1998-06-05雅加达批准，**但ILO NORMLEX正式国别批准表** https://normlex.ilo.org/dyn/nrmlx_en/f?p=NORMLEXPUB:11200:0::NO:11200:P11200_COUNTRY_ID:102938 将C087登记为**1998-06-09**。这不是应消除的日期“错误”：先区分国内总统决定日期、ILO新闻稿所称雅加达批准日、国际劳工组织正式登记日期，待查批准书交存凭证。另直接核印尼劳工部官方UU 21/2000法律介绍 https://jdih.kemnaker.go.id/peraturan/detail/32/undang-undang-nomor-21-tahun-2000 ，法律于2000-08-04颁布，介绍明确10人可组成工会、依第18条书面通知登记、第25条登记后的集体谈判等职能。**访问级别：官方法律元数据与条文概要；法律PDF全文尚未逐条审读。** 不能由法律生效推断工厂、县级实际落实；下一步需基层工会登记、企业拒绝承认及ILO监督案卷。
+
+**精确接力**：(1) 取得松村2015论文PDF第45—63页脚注和Oeray 1967-10宣言原件；(2) 找1967-07 Sanggau Ledo军警记录与10—11月村级迁移、死亡和物资登记；(3) 查C087交存书、ILO 1998-06-09登记依据及Keppres 83/1998原扫描；(4) 核UU21/2000第5、18、25条PDF原文及2000—2005地方工会登记实践；(5) 恢复claim-ledger完整读取后正式去重并库，统一chronology及成熟中文历史正文。长期GOAL未完成。
