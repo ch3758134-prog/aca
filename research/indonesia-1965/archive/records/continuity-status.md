@@ -273,3 +273,16 @@
 **下一次直接执行的精准事项**：（1）索取《Surat Keputusan 1965》完整3页影印，核签署日期、签发机关、10-20追溯条款、10-25报到条款和实际送达登记；（2）索取10-06 Pantja Tunggal/Front Nasional联合声明、地方党派信函，核签署人、军方参与与前后文本；（3）索取《Chronologis 1966》第3—9页及其死亡地图图例/逐县原表，分别核公开死亡、被拘、转运与处决口径；（4）索取Langsa 10-18《Pernjataan》及148人附页，核姓名与后续羁押/存亡，不将名单人数误写为死亡人数；（5）轮换G2 SOBSI/BTI基层原件及G6 Moncongloe营地拘押劳动原令，待正式台账可完整读取后去重并入chronology和成熟中文连续正文。**本轮未改正式CSV、chronology及阅读版HTML；GOAL保持OPEN。**
 
 本次写入前状态文件blob=73d2d90be546cbf8ede9c70fbfa31b58d27812c5；最终提交SHA以GitHub写入返回值和后续远程回读为准，不能在同一提交中预先写入该提交自身SHA。
+
+
+## 2026-11-19｜ONGOING / GOAL仍进行｜G4西加里曼丹与G7工会法权交叉核验
+
+已重新核读completeness-audit-2026-11-09.md的G1—G10，并检查AGENTS、stage-access、goal-continuity及正式source-register、search-log、coverage-matrix、chronology；claim-ledger.csv和global-gap-tracker.md虽有非空blob SHA但接口返回空正文，禁止覆盖或凭空分配编号。research-status.md在此路径404。历史完整性审计中的编号上限为2026-11-09旧快照，不能沿用。
+
+**G4/G5/G9：西加里曼丹1967年。** 直接打开松村智雄《Dayak Politics in Anti-Chinese Demonstration of 1967》J-STAGE期刊页面及全文摘要（2015, 44:45–63, DOI 10.5512/sea.2015.44_45，https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article）。论文摘要认为军方推动驱逐、Oevaang Oeray在1967年10月发表针对华裔的宣言，红碗动员随后扩散；还指出驱逐后内陆贸易和物资供应恶化。**证据等级：学术作者摘要已直接阅读，PDF全文链接可见但本次全文请求失败；不是1967年宣言、军令或受害者名册原件。** 作者对军方意图和Oeray动机属于研究解释，不应写成已取得军方命令或本人供词。新细化缺口：取得该文日文PDF第45—63页、其引用的Oeray宣言及军区档案，区分1967年7月基地遇袭、9月地方动员和10月驱逐；按县核实死亡、迁移和财产变动，避免不同估算混用。
+
+**G7/G8：1998年结社自由程序节点。** 直接打开ILO于1998-06-10发表的新闻稿（https://www.ilo.org/resource/news/indonesia-pledges-respect-trade-union-rights-ratifies-key-ilo-convention-no）：记载印尼在1998-06-05于雅加达批准第87号公约；劳工部长Fahmi Idris于1998-06-10在日内瓦正式通知ILO总干事。另直接核对ILO NORMLEX国别登记（https://normlex.ilo.org/dyn/nrmlx_en/f?p=NORMLEXPUB:11200:0::NO::P11200_COUNTRY_ID:102938）所列**1998-06-09**批准日期。三者可能分别涉及国内批准、国际登记及公开通知，不能无批准书交存凭证便声称矛盾已解决。**证据等级：ILO当时机构新闻全文+当前官方登记表；不是交存原件，不能推断基层工会自由已经落实。** 进一步追查1998年批准书交存、2000年第21号法与2001年KEP.16/MEN/2001重新登记规定在县市的实际执行。
+
+**G1—G10缺口总账的持续状态**：G1殖民组织原件未补；G2 SOBSI/BTI/Gerwani基层账簿和活动记录未补；G3军政逐时通信未补；G4各省县级命令/受害者名册不均；G5性别族群个案仍缺；G6流亡、拘押与工会替代组织链未贯通；G7法规与基层执行尚缺对照；G8英美澳中苏具体行动链待核；G9人物地名组织关系索引未完；G10正式主张CSV读取障碍、主时间线重排及中文连续HTML未完。各项均OPEN，不能以本次两个证据节点替代全面覆盖。
+
+**下次精确续接**：（1）通过J-STAGE PDF或其他合法镜像核读松村全文引文与脚注，追Oeray宣言；（2）取Witono《Laporan Pangdam XII Tanjungpura》及1967年各县移民登记；（3）取ILO第87号公约1998年批准书交存凭证，核6月5/9/10三日期；（4）检索至少两个县市2000—2002年工会登记及重新登记个案；（5）转向东爪哇/北苏门答腊原始地方军令和Gerwani/SOBSI组织文书。正式CSV、chronology及HTML本次未写入，需在可完整读取并去重后补并库。长期GOAL ACTIVE / OPEN-ENDED。
