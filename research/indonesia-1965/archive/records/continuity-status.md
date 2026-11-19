@@ -162,3 +162,16 @@
 **异地区高价值链G4/G5（Flores/Maumere，1966-02—05）**：找到John Mansford Prior《The Silent Scream of a Silenced History》Part One（Exchange 40(2), 2011, DOI 10.1163/157254311X562017）及Part Two（Exchange 40(4), 2011, DOI 10.1163/157254311X600735）的学术摘要 https://www.researchgate.net/publication/274531247_The_Silent_Scream_of_a_Silenced_History_Part_One_The_Maumere_Massacre_of_1966 和 https://www.academia.edu/78584536/The_Silent_Scream_of_a_Silenced_History_Part_Two_Church_Responses 。摘要称Maumere地区1966年2—4月发生杀戮、约800—2000人死亡，并称军方煽动、地方天主教徒参与且受害者亦为天主教徒。**严格等级：学术摘要而非原论文全文、受害者名册或教区原始文书；800—2000是作者摘要所载估计，不能认定已核实人数。** 另找到Prior《Old and New Christianity in the Southeastern Islands》公开章节文字 https://www.academia.edu/52050226/Old_and_New_Christianity_in_the_Southeastern_Islands ，其叙述Keut、Wairklau、Wolokoli及神父Yosef Frederikus Pede da Lopez的抗议，但当前尚未取得军方书面威胁、教区日记和村级死亡名单。不可将教会、军方或族群视为统一行动者。下一动作：取得Prior两篇全文并核注释、Wolokoli 45人原始记录、教区书信与军方命令；按Maumere/Keut/Wairklau/Wolokoli逐地重建时间线，并与巴厘及亚齐的不同地方组织机制比较。
 
 **G1—G10总账未结**：G1殖民与1948原件；G2群众组织基层；G3逐日跨机关命令；G4全省县级差异；G5性别宗教族群与幸存者；G6监禁流亡重组；G7 1998后工会政党；G8外部行动交付；G9人物地名机构关系；G10去重正式并库、时间线及成熟中文HTML。此条为核验接力，尚未同步正式CSV/chronology/HTML，未声称全部完成。长期GOAL OPEN。
+
+
+## 2026-11-20 03:46 CST｜ONGOING / GOAL仍进行｜Gerwani 1962干部训练与ANRI档案号交叉线索
+
+**写入前观察的最新main提交**：09cfbb1915ecbfe1167a979723ab7025a957963b（GitHub最近提交查询；最终提交SHA须以写入后查询为准）。本轮重读AGENTS、goal-continuity、stage-access、统一状态、正式四表路径及chronology前段。claim-ledger.csv的Git blob为362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，内容接口仍为空；正式source-register/search-log/coverage-matrix分段接口仅提供截取文本，不能据此声称已做全表去重，故未修改四表、未分配新S/C/Q/CV编号。
+
+**G2/G8新核验**：直接打开1962年《Api Kartini》第IV年9—10月合刊原刊数字PDF及其全文转录（https://pustaka.taratsa.id/files/1385/pdf/1776740388-24394639/f78eaf1926dab49216be984b59f330b1/Api%20Kartini%20%281962%29%20No.%209-10%20-%20Majalah%20Api%20Kartini.pdf），封面/刊头标1962-09/10，目录明确《Sedjenak di Training Centre Gerwani》在印刷页6—7。刊头却印有S.I.P.K.许可日期1963-02-03：这是原刊内部可直接核对的年代矛盾，不能凭刊期断言所有文章均在1962年10月以前印成或发行。文章提Asjah（Lombok）、Rehulina（Karo）、Rukinah（Yogyakarta）、Saniam（Medan）、Darminah（Semarang）、Martini（Jakarta）等学员；报道说四人参加Front Nasional Pusat第一期训练，属于当时刊物自述，不证明她们后来实际赴西伊里安。
+
+**新找到有档案号的第二层材料**：Dimas Dwi Kurnia，2019，《Peranan Gerwani dalam Pembebasan Irian Barat 1950–1963》，全文https://journal.student.uny.ac.id/index.php/ilmu-sejarah/article/download/14707/14270 ，引ANRI KOTI No.727，1962-09-30雅加达Gerwani地方机构致函支持训练中心厨房盐供应；另列ANRI Front Nasional No.724、KOTI No.733（1960—1962雅加达Gerwani活动）、No.736（1962-12-14 Gerwani地方会议报告）。文章还称训练中心1962-10-01开办、10-31结束、11-01结业，引用《Harian Rakyat》1962-09-29和11-02。**访问等级：2019研究论文全文已直接打开；ANRI No.727等及《Harian Rakyat》对应原件仍未打开，不能把论文引用视为直接档案核读**。研究摘要称结业后四名志愿者实际赴西伊里安，和1962合刊的“参加培训/报名志愿”不是同一事实层级，必须取得原始派遣名册及报刊后再断定。
+
+**另一跨年代校核入口**：1963《Api Kartini》Gerwani中央全会报道转录 https://gerwani.logosid.app/teks/58 ，称1963-01-06至10全会、培训中心60名来自各地学员及军方/政治人物讲课。该报道为组织自述的现代转录，待取得对应原刊页图；不能与1962合刊自动算作完全独立旁证。
+
+**精准未完（连续执行）**：①调取ANRI KOTI 727的1962-09-30信件影印、发件人签名和附件，查厨房盐实际交付；②取得《Harian Rakyat》1962-09-29、11-02原版及培训中心开闭幕、60名学员和赴伊里安四人名单；③核对1962合刊的1963-02-03许可日期是否为补印/晚发、与同年其他期刊刊头比较；④取ANRI Front Nasional 724、KOTI 733/736，核Gerwani与Front Nasional、军方训练的组织权限和地方执行；⑤解决claim-ledger原始字节读取、对四表全量去重并更新chronology及成熟中文叙事，随后轮换Aceh 1965军令、Moncongloe政治犯劳役、SOBSI/BTI和1998后劳工。**GOAL仍OPEN，不把本轮刊物/论文视为完整闭合证据链。**
