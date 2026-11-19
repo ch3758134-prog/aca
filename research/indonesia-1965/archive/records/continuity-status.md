@@ -260,3 +260,16 @@
 **不同年代G7/G8｜1998—2000工会权利制度**：直接核印尼BPK官方Keppres 83/1998法律登记 https://peraturan.bpk.go.id/Details/59198/keppres-no-83-tahun-1998 ，确认1998-06-05国内签署/生效；ILO 1998-06-10新闻稿 https://www.ilo.org/resource/news/indonesia-pledges-respect-trade-union-rights-ratifies-key-ilo-convention-no 称1998-06-05雅加达批准，**但ILO NORMLEX正式国别批准表** https://normlex.ilo.org/dyn/nrmlx_en/f?p=NORMLEXPUB:11200:0::NO:11200:P11200_COUNTRY_ID:102938 将C087登记为**1998-06-09**。这不是应消除的日期“错误”：先区分国内总统决定日期、ILO新闻稿所称雅加达批准日、国际劳工组织正式登记日期，待查批准书交存凭证。另直接核印尼劳工部官方UU 21/2000法律介绍 https://jdih.kemnaker.go.id/peraturan/detail/32/undang-undang-nomor-21-tahun-2000 ，法律于2000-08-04颁布，介绍明确10人可组成工会、依第18条书面通知登记、第25条登记后的集体谈判等职能。**访问级别：官方法律元数据与条文概要；法律PDF全文尚未逐条审读。** 不能由法律生效推断工厂、县级实际落实；下一步需基层工会登记、企业拒绝承认及ILO监督案卷。
 
 **精确接力**：(1) 取得松村2015论文PDF第45—63页脚注和Oeray 1967-10宣言原件；(2) 找1967-07 Sanggau Ledo军警记录与10—11月村级迁移、死亡和物资登记；(3) 查C087交存书、ILO 1998-06-09登记依据及Keppres 83/1998原扫描；(4) 核UU21/2000第5、18、25条PDF原文及2000—2005地方工会登记实践；(5) 恢复claim-ledger完整读取后正式去重并库，统一chronology及成熟中文历史正文。长期GOAL未完成。
+
+
+## 2026-11-20｜ONGOING / GOAL仍进行｜Aceh命令时序与军方公开杀害统计口径复核
+
+本轮重新读取AGENTS、goal-continuity、stage-access、统一续接及正式source-register、claim-ledger、search-log、coverage-matrix、chronology（正式目录均为archive/records）。正式claim-ledger.csv仍返回非空blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a、空UTF-8正文；为防损毁，本轮不覆盖四表、不虚构S/C/Q/CV编号。既有Jess Melvin研究已多次记入状态，不能当成新独立来源。
+
+**G3/G4/G5/G9：核读学术全文及作者对军方档案的公开说明**：Jess Melvin, “Why Not Genocide? Anti-Chinese Violence in Aceh, 1965–1966”, Journal of Current Southeast Asian Affairs 32(3), 2013, https://journals.sagepub.com/doi/full/10.1177/186810341303200304 （本轮直接打开全文）；Jess Melvin, “Documenting genocide”, Inside Indonesia, 2015-10-01, https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide （本轮直接打开全文及配图说明）。二者均出自同一研究者、共享档案链，不能算独立交叉证实。2013论文所引《Surat Keputusan 1965》第2—3页称Ishak Djuarsa于**1965-10-29**发布冻结PKI及所列组织（含Baperki）活动的命令，追溯自**10-20**生效，却规定负责人最迟**10-25**向Pepelrada/CPM/警方报到；这一「签发日晚于追溯生效日和报到期限」是文本内部可定位的日期矛盾，不可推断已在10-20实际公布或所有对象都已接获。该命令还援引**10-06**Pantja Tunggal/Front Nasional联合声明及地方党派信函作为权限来源；这些原件尚未直接取得，须核其签名、形成日期和传播过程。2013论文引用军方《Chronologis 1966》第3—4页称10-08 Banda Aceh及10-09 Sigli发生Baperki、PKI、Gerwani等机构遭袭；第7—8页涉及10-14 Kuala Simpang/Pulo Tiga以及Blang Pidie/Sama Dua。10-11 Langsa Kodim-0104会见与10-18《Pernjataan》亦为论文对原档案的转引。**这些日期不可因10-29追溯命令而被误写成10-29之后才开始的暴力。**
+
+**新补充的统计口径检查**：Melvin 2015文章称其所见军方「死亡地图」及流程图记录Aceh **1,941起公开杀害**；作者以假设公开杀害与秘密处决比例推算约10,000人，并明确说明该推算具有猜测性、需逐村调查。故1,941是作者报告的军方图表统计，不是已逐人核验死亡总数；约10,000不是原始军方名册精确计数。2013论文脚注又称《Chronologis 1966》记录华裔死者21人，但未包括未公开遗体，亦不能作为完整总数。2015文章展示军方地图照片（作者拍摄的档案影像），**仅照片及作者叙述可见，未直接打开地图原档、图例和逐县数字表**。两篇文章对组织与地区行动提供线索，但原始命令、人员名单、死亡登记和反证仍缺。
+
+**下一次直接执行的精准事项**：（1）索取《Surat Keputusan 1965》完整3页影印，核签署日期、签发机关、10-20追溯条款、10-25报到条款和实际送达登记；（2）索取10-06 Pantja Tunggal/Front Nasional联合声明、地方党派信函，核签署人、军方参与与前后文本；（3）索取《Chronologis 1966》第3—9页及其死亡地图图例/逐县原表，分别核公开死亡、被拘、转运与处决口径；（4）索取Langsa 10-18《Pernjataan》及148人附页，核姓名与后续羁押/存亡，不将名单人数误写为死亡人数；（5）轮换G2 SOBSI/BTI基层原件及G6 Moncongloe营地拘押劳动原令，待正式台账可完整读取后去重并入chronology和成熟中文连续正文。**本轮未改正式CSV、chronology及阅读版HTML；GOAL保持OPEN。**
+
+本次写入前状态文件blob=73d2d90be546cbf8ede9c70fbfa31b58d27812c5；最终提交SHA以GitHub写入返回值和后续远程回读为准，不能在同一提交中预先写入该提交自身SHA。
