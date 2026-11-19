@@ -3907,3 +3907,18 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **不同G项 G2/G8/G9｜1960年3月Gerwani《Api Kartini》：** 直接打开Warung Arsip第II年3号目录 https://warungarsip.co/produk/kliping/api-kartini-no-3-th-ii-maret-1960/ ，显示1960年3月、28页、出版方Jajasan Melati、编辑名单Maasje Siwi S、S Sijah、Darmini、Parjani Pradono、S.K. Trimurti。目录列第4页关于澳大利亚国际妇女节委员会邀请与和平友谊、第5页苏联赫鲁晓夫访印报道、第6页Clara Zetkin、第8页哥本哈根国际妇女会议、第14页婴儿健康、第19页Mapalus。**访问等级：馆藏商家目录及内容索引，未取得该28页原刊；标题仅证明目录所列题材，不能证明组织已经开展某项国际联络、活动或基层项目。**这给G8澳苏交流提供精确原刊页码入口，不是外国国家干预的证据。另核2026年UNJ学位论文官方摘要 https://repository.unj.ac.id/68003/ ，该摘要称对比Gerwani《Api Kartini》和Perwari《Trisula》，仍是学位论文摘要而非原刊页证。**缺件**：1960年3月原刊扫描第4—8、14、19页及编委页；澳大利亚邀请函、国际妇女会议代表名单、苏联访问同期官方行程、Gerwani地方会议/幼儿园记录。**行动**：先取原刊并核标题、作者、具体行动，再按澳大利亚/苏联/丹麦与印尼组织互证；不要从目录直接推断资金或组织控制。**阻碍**：原刊PDF在商家页面仅标示商品，尚未直接读取。
 
 **跨G1—G10滚动状态**：G1殖民组织/1926起义原件；G2群众组织基层及原刊；G3 1965跨机关时序；G4各省逐县暴力；G5性别族群幸存者；G6拘押与流亡/再组织；G7 1998后工会/党派；G8外国行动原件；G9人物—组织—地点关系；G10正式CSV、统一时间线及成熟中文历史正文，全部OPEN。本次没有声称修改正式CSV/chronology/HTML，也不分配未经去重的S/C/Q/CV编号。下一直接动作：①Komnas HAM摘要Moncongloe原笔录及1977 SPRIN；②Ahmad所引营地人数/土地簿；③《Api Kartini》1960-03第4—8页原刊；④澳大利亚国际妇女节邀请函；⑤核对正式来源台账去重后并库。
+
+
+---
+
+## 2026-11-19｜ONGOING｜G2妇女刊物、G3/G4/G8苏门答腊工厂镇压与G6拘押营新取件
+
+**审计与来源等级**：本次直接重读 `completeness-audit-2026-11-09.md` G1—G10、AGENTS、stage-access、goal-continuity及continuity-status。按G1早期组织、G2群众组织、G3跨机关时序、G4地域暴力、G5性别族群幸存者、G6拘押流亡、G7后1998工会政党、G8外部干预、G9地理人物组织索引、G10台账/中文叙事逐项保留OPEN。以下不冒充完成所有覆盖；本次正式CSV全量与去重未完成，未分配S/C/Q/CV编号。
+
+**G3/G4/G8长期链（南苏门答腊Palembang、Sungai Gerong、Pladju、Prabumulih；1965-10-27—11-01；PERBUM/SOBSI、军方、Shell、Stanvac、PUSRI）**：直接打开美国国家安全档案馆1965-11-01美国驻雅加达使馆第1290号电报的OCR原文（原始外交电报的机器识别转录，非仅编者摘要）：https://nsarchive.gwu.edu/media/15705/ocr ，原件页入口 https://nsarchive.gwu.edu/document/15705-document-9-telegram-1290-american-embassy ，馆藏RG84 Entry P339 Box14 Folder4。**重要地理校正**：此电报第一段明确写美国劳工参赞10月28—29日访问的是**南苏门答腊Palembang**，不能误记为北苏门答腊Medan。使馆报告称当地约600名被指为共产党者已被拘捕，含Shell/Stanvac炼厂及PUSRI化肥厂SOBSI干部；Stanvac方面约30名印尼雇员被拘捕，包括PERBUM干部；Shell Pladju及Prabumulih油田约24名PERBUM成员被捕；PUSRI约15名SOBSI干部被捕。**这些是不同企业/地区的报告子集，不能直接与600相加，也不是死亡人数**。电报称Ibnu Sutowo考虑将Stanvac约3500员工中的至少1000人转至炼厂外的临时工程，属于**被讨论的计划，不是已执行的转移**。电报又记载Shell管理人员否认Ibnu对炼厂火灾“破坏活动”的解释；双方说法冲突，不应把纵火指控当事实。**限制**：OCR明显有错字，仍需逐页核PDF影像；使馆信息大量来自管理层与军方，未获工人、工会拘捕簿及公司原始人事档独立核验。下一步：逐页核电报扫描、寻找PERBUM/PUSRI工会名册与1965-10—11拘捕登记、Shell/Stanvac工厂劳动档案、转移计划执行记录；再比较Medan/北苏门答腊独立档案，严禁跨省挪用。
+
+**不同G项 G2/G5（Gerwani《Api Kartini》1960年6月第II年6号）**：直接阅读Warung Arsip的期号目录及展示的当期短摘录 https://warungarsip.co/produk/kliping/api-kartini-no-6-th-ii-juni-1960/ 。书目称28页，目录第5页儿童教育、第6页Sulami《Sedjarah Perdjuangan jang Berkesan》、第8页东努沙登加拉地理、第10页婴儿人工喂养、第14—15页儿童教育与游戏、第17页母亲相关法律、第22页Sugiarti Siswadi小说。展示的编辑部摘录谈家庭生活成本上升、糖和煤油短缺。**访问等级：期号书目、目录、编辑部短摘录，未读取28页原刊全文；只能证明该刊编辑部曾刊出此段，不足以证明具体物价变化或Gerwani基层行动**。这为研究Gerwani怎样把经济生活、育儿、法律、国际政治并置提供可核页码，但须取得原刊影像，比较具体组织决议与地方实际。
+
+**G6/G9（南苏拉威西Moncongloe，1969—1977）**：直接打开哈桑努丁大学2024年Hendrawan Rahmat Wijaya学士论文馆藏页 https://repository.unhas.ac.id/id/eprint/49383/ 。摘要明确作者使用政府档案和幸存者访谈，讨论被拘押者在强制劳动与监视下的个人及集体生存策略；馆藏提供第1—2章PDF及参考文献PDF，全文条目显示曾限馆员访问至2026-05-08，当前是否实际解除需另点下载确认。**访问等级：官方大学论文摘要与可用章节目录，未读全文或访谈底稿**；不把摘要所称隐蔽抵抗写成已独立核实的具体事件。需下载可用章节，提取访谈对象/档案号，与Komnas HAM证人A54/B55及1977年SPRIN/802/TPD/XII/1977核对。
+
+**下一直接行动**：①核1290号电报PDF逐页与南苏门答腊工厂拘捕名单；②取《Api Kartini》1960年6月第6号原刊并核Sulami第6页；③取Wijaya论文开放章节及访谈/政府档案引注；④轮换Aceh、北苏门答腊、巴厘、Flores、西加里曼丹、爪哇各县同期原件；⑤恢复四正式CSV去重、统一chronology和中文连续正文。所有G项OPEN，长期GOAL未完成。
