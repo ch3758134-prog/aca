@@ -3708,3 +3708,14 @@ GOAL仍ACTIVE / OPEN。该材料扩展了区域地下运动比较，但其军方
 **不同G项/地区G4/G3/G9｜Aceh，1965—1967军方指挥和县级证据链；来源等级：Jess Melvin 2018著作的公开文本/脚注（研究者转引原军方档案，不是直接打开档案原件）。** https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf 。本次定位到具体档案标题：1965-10-11西Aceh Meulaboh县议会DPRD-GR特别会议记录《Risalah Sidang Istimewa ... Aceh Barat》；1966年北Aceh县长T. Ramli Angkasah关于1965-04至1966-05施政的县议会报告（书中脚注标题将1966年度会议误写为1965-06-15，须核原件日期）；Aceh Besar公职人员关联G30S名单《Bekas PNS yg terlibat G30S PKI Aceh Besar》，档案借阅控制号222/24。**目前只定位原件题名和索引，未阅读会议纪要/县长报告/名单，不能从题名推断具体杀戮人数或责任。** 与前次Langsa Baperki 148人附件属不同地方、不同机关链条，需建立地区区分并避免同一研究者多次转引计为独立证据。缺件：上述三份原件、Banda Aceh档案馆馆藏索引与可访问规则、军区年报原件、县级拘押与公务员除名记录。
 
 **精确接力**：①查ICRC 1971年5月刊pp.256–262全篇和1971访视档案目录；②核1977年12月20日布鲁岛释放名册与Namlea—泗水航运记录；③找1978—79实际释放的同期独立报道以区分计划与执行；④取Aceh Barat 1965-10-11县议会原记录、Aceh Utara 1966县长报告及Aceh Besar 222/24名单；⑤继续轮换北苏门答腊Medan与SOBSI/BTI基层、Gerwani原刊、1998—2026工会执行及英美澳中苏具体介入。GOAL未完成。
+
+
+## ONGOING｜2026-11-19｜G4巴厘同期报纸实体馆藏与G6南勿里达行动日期冲突（GOAL OPEN）
+
+**本次治理读取**：已读AGENTS、stage-access、goal-continuity、completeness-audit G1—G10及最新缺口总账；continuity-status、research-status、chronology和正式四CSV已尝试按main路径读取（部分截取），未取得可可靠去重的全量台账，故不分配S/C/Q/CV编号。本次新证据仅补同一长期缺口总账，不能宣称正式CSV或中文HTML已更新。
+
+**长期链 G4/G5｜巴厘1965年12月报纸实物定位**：美国国会图书馆官方报纸馆藏目录 https://www.loc.gov/item/sn96021765/ 已直接打开（馆藏目录级，不是原报全文）。其《Suara Indonesia》记录列明Denpasar出版、1964-11-08至1966-06-16日报、35毫米缩微胶片、1965-12-11至1966-01-04亦名《Suluh Indonesia. Edisi Bali》。与John Roosa 2013论文脚注51所列1965-12-10《Panglima Brigdjen Sjafiudin: G 30 S harus dipatahkan》、12-11《RPKAD bantu penerbitan [sic] di Bali》两篇报道形成可操作的实物索取入口，但馆藏连续日期**不证明特定单期或该报道已在胶片中**，尚未读到原版，RPKAD 12月7日与10日抵达仍为Roosa学术引述。**下一行动**：向LOC逐期核1965-12-10/11是否在卷、卷号/帧号及复制限制；获得两版原报后对照运输/军区日志，核查报刊自述、实际抵达和早期杀戮时间差。来源级别：官方馆藏目录；缺件：原报影印、军队日志、县级受害者记录。
+
+**不同G项 G6/G9｜1968南勿里达Operasi Trisula具体起始日冲突**：印尼文化部历史百科页面 https://esi.kemenbud.go.id/wiki/Peristiwa_Blitar_Selatan （政府历史叙述页面，非1968原始命令）称1967年5月起开展情报行动，并称1968-07-03由Kodam VIII/Brawijaya派Witarmin开展Operasi Trisula；2022-09-30 detikJatim报道 https://www.detik.com/jatim/budaya/d-6321832/mengulas-film-penumpasan-sisa-sisa-pki-di-blitar-selatan-operasi-trisula 转述《Operasi Trisula Kodam VIII/Brawidjaja》称存在命令“02/05/1968”，列531/Para、511、513、521、527营及Blitar、Tulungagung、Malang县军事单位。**日期与文书层级未解决**：02/05/1968可能是命令编号/日期，不能径写成5月2日行动开始；7月3日可能是派遣或行动阶段，须取得军区原书的命令影印、发布日、执行日及行动阶段定义。报道对地方居民和PKI地下成员的行为归责是其转述的军方叙事，不能作为独立证实。下一行动：查《Operasi Trisula》原书命令页和附录、1968年Kodam VIII/Brawijaya作战日记、Witarmin任命/行动日、Pratomo拘捕与供述原件；以县—村—行动单位—平民损失分别建表。来源级别：政府后出叙述与媒体转引，原令未读。
+
+**G1—G10轮换不关闭**：G1殖民时期组织原卷；G2工会农会妇女青年基层；G3跨机关命令；G4各省军警/受害者；G5族群女性幸存者；G6拘押/地下重组；G7改革后基层执行；G8外部国家原始档；G9人物地点组织；G10正式CSV去重、统一时间线与连续中文HTML。下一次优先执行：①LOC两期胶片核卷帧；②《Operasi Trisula》原书与1968军区命令日期；③北苏门答腊Medan 1965军区原令；④Gerwani《Api Kartini》逐期原刊；⑤正式台账可读后去重并库。GOAL仍OPEN。
