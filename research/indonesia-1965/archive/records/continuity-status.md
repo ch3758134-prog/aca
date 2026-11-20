@@ -362,3 +362,14 @@
 **G2/G6/G8/G9 SOBSI（不同G项/年代交叉链）**：直接打开Vannessa Hearman 2024开放全文PDF https://doi.org/10.1017/S0020859024000580 ，正文第12页及脚注62—63。Adam Soepardjan于1975—1976年在监禁中制作**三册**英文学习故事笔记，合计据研究所述39篇；IISG现存**第二册11篇、第三册13篇**，第一册据称15篇但**不在该馆藏**。第三册署1976年6月，描述1959年赴捷克斯洛伐克、WFTU布拉格总部和Terezín访问。档案为IISG **ARCH02469**，2002年由M.T.J. van den Bosch-Beeren女士捐赠。**核验级别**：学术全文及档案引注直接阅读，未直接阅手稿；39=15+11+13是研究的篇数口径，不代表馆藏有39篇可核；第一册缺失不能编造内容。下一步向IISG核取ARCH02469卷二/三逐页图像、2002入藏清单、第一册下落，及1959年WFTU/FDGB会议原始代表名单、行程和SBIM工会文件，区分狱中追忆与1959同期记录。
 
 **治理待办**：需在正式来源表去重后同步claim、chronology、coverage、search-log及中文连续正文；本次避免空正文覆盖，以上仅为带访问级别的滚动待并库事实。下次优先取得Aceh原令、IISG原手稿；并轮换West Kalimantan、Flores或G7当代工会实际执行记录，不把两篇学术全文当两份独立一手档案。
+
+
+## 2026-11-20 11:49 CST｜ONGOING / GOAL仍进行｜2023年国家承认与非司法补救执行链
+
+**本次实际打开的官方原始公开文本**：（1）2023-01-11总统在雅加达的PPHAM报告回应演讲全文，明确列出1965—1966事件及另外11类历史严重人权侵害，承认发生并表示遗憾，声明补救不排除司法途径：https://setkab.go.id/en/statement-of-president-of-the-republic-of-indonesia-on-the-report-of-team-for-non-judicial-resolution-of-past-gross-human-rights-violations-ppham-at-merdeka-palace-jakarta-january-11-2023/ ；（2）2023-05-02总统府对Inpres No.2/2023的官方说明，称19个部级机构被要求落实非司法建议，部长明确区分受害者补救与加害者司法追究：https://setkab.go.id/en/govt-to-follow-up-on-non-judicial-resolution-recommendations-of-past-gross-human-rights-violations/ ；（3）2023-06-27 Pidie/Rumoh Geudong总统现场讲话与问答全文，报告已开展培训、医疗保险、住房等援助；Akbar Maulana转述父亲在1999年Simpang KKA事件的经历，属于家属转述而非本人直接目击：https://setkab.go.id/en/remarks-of-president-of-the-republic-of-indonesia-after-the-launching-of-the-program-for-the-implementation-of-non-judicial-recommendations-on-past-gross-human-rights-violations-in-indonesia-at-rumoh/ 。三份均为政府同一发布体系，不是三项独立执行审计。2023年政治承认、行政指令、启动仪式、实际获得救济和司法责任是**五个不同层次**；不能以宣布启动证明全面落实，也不能把1999年KKA个案当作1965年受害者口述。
+
+**已执行写入**：archive/records/chronology.md新增2023-01-11、05-02、06-27三条有出处的历史节点，写入提交 `f190c961140d209e836ff6cb1c10d92d0cbd3918`；写入前chronology blob `9004da17933be12d87ee5ba13aa575dbcc30e1d5`。本次读取AGENTS、stage-access、goal-continuity、status及正式四CSV的表头/开头，并对source-register全量字符串检查三份官方原文URL（未见相同URL）；但正式claim-ledger仍是非空blob `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a`、正文空，故不覆盖任何正式CSV、不预占S/C/Q/CV编号。成熟中文正文仍待与1998—2026制度执行链整合，不创建旧式HTML。
+
+**精准未完**：（1）下载核读Inpres No.2/2023完整印尼文原令与附件、19机构职责及预算；（2）核PPHAM 2022完整报告及Komnas HAM 1965调查结论，区分国家承认的事件分类与调查具体事实；（3）索取2023—2026各地受益人分案名册、资金拨付及独立评估，尤其1965幸存者与1999年KKA案件不得混算；（4）检索2023—2026受害者团体及司法追诉进度，对照政府所称实施成果；（5）安全读取claim-ledger原始内容并完整去重，随后将本次三份官方文本正式并入四CSV、chronology关联ID、成熟中文历史正文，轮换1965地方军政与SOBSI/BTI基层档案。
+
+**HEAD交接**：本段写入前已确认chronology提交 `f190c961140d209e836ff6cb1c10d92d0cbd3918`，该SHA是已完成的前一提交；本状态文件自身提交最终SHA只能在提交后远程回读，下一次应以GitHub main当前HEAD为准。GOAL永久OPEN。
