@@ -323,3 +323,16 @@
 **不同G项 G1/G2/G6/G8/G9｜SOBSI—国际工会—监禁—1998后幸存者**：直接打开Vannessa Hearman, “From Travel to Imprisonment: Remembering Cold War Trade Unionism and the World Federation of Trade Unions (WFTU) in Adam Soepardjan's Prison Notebooks”, *International Review of Social History*, online 2024-11-18, 2026卷71增刊S34页159—181，开放全文 https://doi.org/10.1017/S0020859024000580 。作者据Soepardjan自传及档案记：1946-11-29 SOBSI成立、1947年Malang首次大会决定加入WFTU；Soepardjan在Surabaya Ngagel的Braat机械厂任SBIM基层主席，工厂1957年国有化后改称Barata；1959年4—7月代表SOBSI访问东德与捷克斯洛伐克，参加Leipzig化工石油工会会议及6月1—4日商业工会国际会议；1975—76年在押期间写旅行笔记；1978年出狱后居Kediri、1980年返回Surabaya；1998年后参与YPKP并向年轻工会活动者讲述劳工史。**来源等级**：研究论文全文直接阅读，个人自传及原手稿尚未逐页直接核对；不把1975年回忆当作1959年同期会议记录。作者明确标注IISG Amsterdam **Adam Soepardjan Papers ARCH02469**，尤其 *Travels Abroad by Bintang Karim* Books II/III；2000-10-24工会培训讲稿（脚注107）亦在该藏。另有1958-05-30《Bendera Buruh》VIII年第1/2号第1页反美国/台湾干涉报道（脚注56）。这些可把企业基层工会、国际网络、拘押与后改革时代幸存者行动接成单个人物可查链，但独立核验尚缺厂方/工会登记、会议名册、羁押与释放记录。
 
 **证据分歧及核验动作**：检索到一份印尼文二手论文摘录将SOBSI筹备日期写成1945-11-29，与Hearman所述1946-11-29不同；未找到筹备会议原始记录，**不得直接把1945/1946混作同一日期或裁定错误**。优先查1946年11月原报、SOBSI首届会议文书及1947年Malang大会记录；申请IISG ARCH02469目录/原手稿影像、1958《Bendera Buruh》版面、Braat/Barata 1957接管档案、Kalisosok监狱记录；并继续轮换Aceh、Flores、West Kalimantan与G7当代组织。对G1—G10仍以同一长期缺口总账要求维护：本次global-gap-tracker远程正文读取为空，未声称已同步该文件；正式CSV、chronology及中文连续HTML亦未改。GOAL ACTIVE / OPEN。
+
+
+## 2026-11-20 09:55 CST｜SOBSI 1946—1951组织分合与1977工会政治犯名单（ONGOING / GOAL仍进行）
+
+本次重新读取AGENTS、stage-access、goal-continuity、正式source-register、search-log、coverage-matrix、chronology与本状态；claim-ledger.csv仍为非空blob SHA `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a` 但fetch_file正文为空，**禁止覆盖或虚构C编号**。已查正式来源表：1977 Amnesty档案索引ASA-21-09-77已存在；1951 UN报告完整URL及文号未检出，但尚未完成异名/标题全量去重，不擅自分配S号。正式四CSV未改。
+
+**同期新原件**：联合国亚洲及远东经济委员会《Economic Survey of Asia and the Far East, 1950》，E/CN.11/307，1951-07-13，劳动运动章（印刷页99起），全文已打开：https://www.unescap.org/sites/default/d8files/knowledge-products/Economic%20survey%20of%20Asia%20and%20the%20Far%20East%201950.pdf 。报告将SOBSI成立放在1946年11月；1947年5月150万会员/28工会属于**声称**，不可当名册；报告还记1948年Madiun之后IKOS/POB/GASBRI分裂和1949年HISSBI/PSOBSI统一尝试，需工会原件核实。与Vannessa Hearman 2024全文所载1946-11-29成立、1947 Malang大会形成交叉参照，但联合国统计与后世论文并非两份独立会员核算。
+
+**1977同期人名原件**：Amnesty International 1977-09-23 ASA 21/09/77 《Political Prisoners in Indonesia — Trade Unionists》原PDF直接打开并核读名单：https://www.indonesia1965.org/content/uploads/2023/08/ASA-21-09-77-Occupational-list-of-Prisoners-trade-unionists.pdf 。报告记录Sri Ambar、Sjamsul Hadi Kastari、Kartina Kurdi、Kusnah、Satijah等人职业/工会联系及当时被拘押状态。报告内“believed/probably”必须保留；名单不是法院卷宗，也不证明这些人属于PKI或参与九三〇。文内BTI被笼统称为工会的分类需另核其农民组织性质。ILO关于SOBSI的网页检索到印尼政府历史叙述，但直接打开发生重定向循环，不能标记全文核验。
+
+**已落档**：chronology.md追加两段时间线及原文链接；第一笔写入提交 `28f4dea6357bc29a3dab2e13138be0b8f1c7d009`。本状态写入前已重新读取main分支版本及文件blob；最终HEAD需在本次状态提交后核验，**状态文件内的SHA仅指上一已确认提交，不可能预知包含自身的提交SHA**。
+
+**精准未完**：(1) 检索UN E/CN.11/307在正式source-register的异名/URL重复，安全登记并以claim-ledger完整可读为前提追加原子主张；(2) 追1947年Malang SOBSI大会章程与28工会会员统计原表，核查联合国1951报告的150万来源；(3) 查1948—1949 IKOS、POB、GASBRI、HISSBI、PSOBSI各派会议及干部名册，辨明分裂时间；(4) 逐人核1977 Amnesty名单与Buru、Plantungan、Bukit Duri等拘押簿、法院判决及释放记录，特别追Sri Ambar/Kartina Kurdi/Satijah；(5) 轮换Aceh 1965军方《Chronologis》原页、东爪哇Pupelrada 0825档案、Gerwani/BTI地方资料及1998后工会登记执行记录。GOAL永久OPEN，G1—G10未宣告关闭。
