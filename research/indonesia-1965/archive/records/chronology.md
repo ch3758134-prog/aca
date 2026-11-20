@@ -2053,3 +2053,8 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 ## 2026-11-09 — 对历史严重人权侵害案件司法衔接的机构争议（新增交叉核验）
 
 印尼政府传播机构报道，协调部长Yusril Ihza Mahendra在11月9日宣布拟由副部长Otto Hasibuan领导工作组，研究Komnas HAM初步调查与总检察院侦查之间反复退卷的问题，1965—1966年案件在其列；这证明**政府公开提出的工作组安排**，并不证明司法调查已经推进。当天晚间，Komnas HAM委员Amiruddin公开声明否认委员会参与该工作组的成立，称委员会全体会议未讨论该事项，并以独立机关地位反对加入行政部门主导的工作组。**冲突仍未解决**：政府会后说法与委员书面表态并列保留；需要工作组正式成立令、成员名册、Komnas HAM正式决议和检察机关文件，不能认定Komnas HAM已加入。政府原文：https://bakom.go.id/serius-tuntaskan-13-pelanggaran-ham-berat-pemerintah-bentuk-tim-khusus-koordinasi-kejaksaan-komnas-ham/ ；委员声明媒体全文转述：https://news.detik.com/berita/d-8745573/amiruddin-komnas-ham-tak-terlibat-dalam-tim-13-kasus-ham-berat-yang-dibentuk-yusril 。**访问等级**：前者政府原发新闻全文，后者记者转述委员声明（原始签发文件未取得）。正式S/C去重登记待claim-ledger读取恢复。
+
+
+## 2026年10—11月｜独立劳动保护法从议会表决到正式生效
+
+**2026年10月6日**，印尼国会在第九次全体会议批准《劳动保护法》草案。此事是回应宪法法院2024年10月31日第168/PUU-XXI/2023号裁决要求的独立劳动立法；议会通过与法令生效必须分开。**10月28日**，第27号《劳动保护法》正式签署、公布并于同日生效。印尼审计机关法律数据库记载法令编号为**UU No.27/2026**，国家公报2026年第179号，补充公报第7222号，全文176页；其撤销2003年第13号劳动法，以及2023年第6号《创造就业法》附件第四章有关劳动规定。法令概要说明覆盖非正规劳动、职业培训、禁止雇主扣押毕业证或个人文件，以及定期劳动合同期限调整；实施细则要求在公布后一年内制定。**11月9日**劳工部长Yassierli公开宣布可从政府法令网络取得法令。此链已核读官方法律数据库原始登记和摘要（S1513），尚未直接核读176页法律全文，具体条文解释与执行案例仍待核；尤其不能将生效等同于地方工人已实际获得保护。官方原件入口：https://peraturan.bpk.go.id/Details/359755/uu-no-27-tahun-2026-pelindungan-ketenagakerjaan ；政府法令PDF浏览入口：https://peraturan.bpk.go.id/Read/425330/UU%20Nomor%2027%20Tahun%202026.pdf ；11月9日部长发布：https://en.antaranews.com/amp/news/441251/indonesia-publishes-employment-protection-law-for-public-reference 。
