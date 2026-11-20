@@ -2066,3 +2066,16 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 - **1958 (printed compilation; constitution text of uncertain original adoption date):** A GERWANI constitution reproduced in *Buku Peringatan 30 Tahun Kesatuan Pergerakan Wanita Indonesia*, printed pp. 312–313, describes the organization as non-party, permits women members without political/religious/ethnic discrimination, requires dues and meeting participation, prescribes elected leadership, and specifies province, district, subdistrict and village (*ranting*) levels. This is evidence of written organizational rules, not evidence that every branch operated accordingly. Compare the 1954 congress record, later 1961 statutes and actual branch rosters before assigning an adoption date or claiming organizational autonomy in practice. [S1516; comparison S462] **Confidence high for reproduced text; open for adoption and implementation.**
 - **1959-03 (participant account published):** Gerwani activist Sulami published a retrospective in *Women of the Whole World* (No. 3, pp. 30–31), reporting that the 1954 Gerwis congress in Jakarta renamed the organization Gerwani and used committees for women/children rights, information/culture, organization and finance. She also reported 182 branches in 16 provinces and 642,460 members in January 1957, followed by approximately 700,000 members at the December 1957 congress. These figures and cross-party electoral candidacies are organizational self-report, **not independently audited counts**. [S462] **Confidence: high for published claims; open for actual numbers and practice.**
 - **1960-03 (periodical issue located; text not yet read):** The catalogue of *Api Kartini* No. 3, Year II identifies Jajasan Melati Gerwani as publisher and lists editors and contributors; its contents include International Women's Day, Clara Zetkin and international conferences alongside child health, food preparation and education (pp. 1–20). This establishes reported editorial scope, **not the content of uninspected articles or actual branch activities**. [S1517] **Confidence: high for catalogue metadata, open for full articles.**
+
+
+### 1965-10-08—18｜Aceh各地攻击与Langsa Baperki声明（校核续记；待并入严格时序主线）
+- **10月8日 Banda Aceh**：军方《Chronologis 1966》第3页经Melvin 2013全文（正式S612）引述：Baperki办公室及Pelangi商店等遭袭。是军方回顾性记载，尚无独立逐案受害者登记。
+- **10月9日 Sigli**：同一军方年表第4页经S612引述：商店及PKI、Baperki、LEKRA、Pemuda Rakyat、Gerwani办公处被毁；不可由办公处受损推断所有成员死亡。
+- **10月11日 Langsa**：据10月18日《Pernjataan 1965》经S612引述，Kodim-0104指挥官Iljas Mahmud召集Baperki领导人，转述有关G30S与Baperki的指控；所谓苏加诺广播灭绝命令的真实性遭作者否定，尚需原始广播记录。
+- **10月14日 Kuala Simpang / Pulo Tiga**：军方年表第7页经S612引述前地示威毁坏PKI/Baperki办公室、后地BTI房屋及Baperki办公处遇袭；示威人数约15,000是军方自报，不是死亡数。
+- **10月14日 Blang Pidie / Sama Dua**：军方年表第8页经S612引述前地5人遇害（其中4名华裔），后地10人遇害（其中4名华裔）；后者所列Hap Tjok、Min On、Bun Tok Seng、Sio Nam又被描述来自Blang Pidie，地点/籍贯和去重未核。不得合并为全Aceh统计。
+- **10月18日 Langsa**：Baperki领导人声明宣布148名列名成员退出并解散地方组织；148非死亡或拘押人数。**访问级别B**（学术全文直接核读；原件未本次逐页打开）；军方Chronologis数字为机构主张。原始扫描定位：S855 KITLV M m 941 N+，附件页3/4/7/8；另需声明原件及148人名单。
+
+### 2000-08-04—2001-02-15｜工会成立权与重登记过渡
+- **2000-08-04**：印尼第21号《工会法》公布；劳工部JDIH官方解释载第5条十人可组建工会、第18条向地方劳动机关书面通知登记、第25条已登记工会参与集体协商和争议处理（正式S611，官方法条与说明）。
+- **2001-02-15**：KEP.16/MEN/2001第11条要求此前依1998/1999登记办法成立的组织在新法生效后一年内重新通知；规则存在不等于县市执行或旧工会人员继承已证。缺地方登记簿、补件通知及新旧组织负责人比对。
