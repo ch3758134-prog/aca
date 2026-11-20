@@ -51,3 +51,12 @@
 **G2/G5（1960年Gerwani刊物；仅原刊目录C，未读正文）：** 重新打开已登记S1517的Warung Arsip《Api Kartini》1960年3月第II年第3期目录（https://warungarsip.co/produk/kliping/api-kartini-no-3-th-ii-maret-1960/）。目录称由Jajasan Melati Gerwani出版，28页；列出第4页国际妇女节澳大利亚邀请与Nj Arudji Kartawinata、Nj Hurustiati Subandrio、Nj Rusijati，第5页赫鲁晓夫访印，第14页婴儿健康，第17页Maasje Siwi S关于学习与假期，第19页Mapalus。目录仅证明**刊物标示这些文章与页码**，不能据此断言这些人实际参加活动、Gerwani在具体村庄实施医疗/教育或刊文政治立场。需要取得28页合法PDF并逐页转录第4、14、17、19页，核实作者署名、刊文具体内容、地方组织与实践记录；与Perwari等组织的同期刊物交叉。此刊已登记，禁止重复S编号。
 
 **G1—G10状态：全部OPEN。** 本次两链分别推进G8与G2/G5，不改变其他地区原件缺口；Aceh、北苏门答腊、东中西爪哇、巴厘、Flores、西加里曼丹、Sulawesi继续按总账补地方档。正式claim-ledger.csv仍返回零长度正文，未覆盖、未虚构C编号；CSV/统一时间线/中文正文仍待安全并库。下次优先按原件取得能力追1967年MAP交付台账、Api Kartini原刊，以及Aceh/东爪哇军令及县级登记。
+
+
+## 2026-11-20 续核｜G4/G5/G9 Flores与G8/G4巴厘外交估算（ONGOING）
+
+**Flores/Sikka/Maumere，1966年2月：S456，B级（本次直接重读开放学术论文PDF，原始回忆录和军令未取得）**。John Mansford Prior, *The Silent Scream... Part One*，2011，https://repository.divinity.edu.au/divinityserver/api/core/bitstreams/662d52ff-005b-4845-918c-959a06ea50d0/content ，刊页125—127、129及脚注28—33。论文转引Jozef Boumans 2005年回忆录：1966-02-09 Kewapante地区负责人Jan Djong据称遭酷刑死亡；02-16 KOMOP负责人Major Soemarno与LtCol Suherman在Ledalero神学院讲话；另转引一名参与者约1973年未刊回忆录：02-20夜Wair-ita首轮所谓“pacification”，02-27 Sikka DPRD-GR会议有KOMOP、调查组、政党及群众组织参加。论文描述KOMOP吸纳Pemuda Katolik、GAMKI、PNI青年及Ansor等，不可据此推定这些组织全体成员或教会整体有相同行动。作者给出的800—2,000死亡估计指Maumere 1966年2—4月，**不是Flores全岛已核死亡总数**；其中具体日期来自回忆录转引，尚需同期监狱簿、死亡登记、KOMOP命令及DPRD-GR会议原件核实。下一步按人核Jan Djong与02-20 Wair-ita被害者，取1970年代未刊参与者记录、Boumans回忆录第81—82页和Sikka会议纪要；与Ende/Bajawa/Adonara分开建地点索引。
+
+**Bali/全国外交统计，1965-12至1966-04：S401及既有FRUS来源，A（外交机关当时文书的公开档案说明）/B（编辑说明）**。美国国家安全档案馆 https://nsarchive.gwu.edu/document/15720-document-24-airgram-408-joint-weeka-no-48 明确定位1965-12-21使馆A-408，档案RG84 Entry P339 Box10 Folder12，馆方说明当时报告全国至少100,000、巴厘至少10,000人死亡。FRUS编辑说明 https://history.state.gov/historicaldocuments/frus1964-68v26/d162 则记1966-02-25 A-527对巴厘估计80,000，并记1966-04-15 A-641承认全国估算在100,000与1,000,000间极不确定。**不能把不同时间/来源口径相加，也不能将使馆估算等同地方死亡名册**；1965-12的10,000与1966-02的80,000是报告时间不同的估算，不自动证明逐月精确增加70,000。A-408 OCR可访问但质量差，待逐页影印核实数字、地理定义及信息来源；A-527、A-641原始电报待取。地方验证须结合巴厘县村埋葬记录、军区部署时间、PNI/PKI组织及幸存者口述，不能将宗教/家族冲突的使馆解释视为事实。
+
+**跨项继续**：G1殖民组织与流放、G2 SOBSI/BTI/Gerwani基层账册、G3总统/军区命令、G6拘押流亡、G7当代工会与幸存者、G8英美澳中苏、G9人物地点组织关联、G10正式CSV与连续中文历史仍OPEN。此次未覆盖零正文的claim-ledger.csv，未新增C/S编号；上述均沿用S456/S401。下一执行首先读取本总账与G1—G10审计，再优先取得Sikka DPRD-GR 1966-02-27会议原件及巴厘A-527全文，同时切换不同地区/年代高价值缺口。
