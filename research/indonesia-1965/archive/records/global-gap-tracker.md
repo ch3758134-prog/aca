@@ -73,3 +73,12 @@
 **跨项核验与缺口**：G2/G5追Bone的SOBSI地方负责人、Wajo/Sidrap BTI农民及Makassar被袭诊所，分别查工会干部名册、糖厂Arasoe雇员名册、地方报刊和Kodim档；G4查Bone/Watampone及Bantaeng受害者名册；G6查1969年911人入营、1977年12月20日释放与1978/1979转押批次是否同一统计口径，特别索取SPRIN/802/TPD/XII/1977原件和Moncongloe—Nanga-Nanga转押册；G9对人物/工厂/营地建立稳定地名映射。Komnas HAM摘要另提到Moncongloe证人B的1977-12-20释放令将全面拘押改为居家拘押，**释放并非自动恢复自由**。所有未读原始证词、命令、营册保持D级。
 
 **G1—G10均OPEN**；其余G1殖民组织、G3跨机关命令、G7现代工会、G8外部介入、G10 CSV/中文连续正文仍按上表保留。正式claim-ledger.csv读取仍为空文本（Git blob非空），不覆盖、不造C编号。本次不声称正式CSV、统一时间线或中文正文已同步。下次直接核2024论文公开章节、1977释放命令、1965 Bone/Arasoe糖厂地方记录，随后切换另一地区或G1/G7/G8高价值原件。
+
+
+## 2026-11-20｜G4/G9西加里曼丹1967地方行动与G6/G7 1996—1997后续暴力（ONGOING）
+
+**1967年西加里曼丹，G4/G5/G9（B：学术专著开放全文转录，非省长档案原件）：** Taufiq Tanasaldy, *Regime Change and Ethnic Politics in Indonesia: Dayak Politics of West Kalimantan* (KITLV Press, 2012), https://www.academia.edu/15049509/Regime_change_and_ethnic_politics_in_Indonesia_Dayak_politics_of_West_Kalimantan 。作者引述省长办公室机密报告《Pengungsian orang2 Tjina sebagai akibat gerakan2 orang Daya dalam daerah Kabupaten Pontianak dan Kabupaten Sambas》(1967，西加里曼丹省长办公室图书馆)：10月5—7日Landak/Air Besar的Tepo村已有华人住宅遭焚毁掠夺，早于常被引用的10月14日；10月13日起Bengkayang周边出现事件，10月18日Bengkayang城约收容1000名难民，10月19日Samalantan传递mangkok merah；11月上旬Senakin、Darit、Sebadu三地据作者引述合计210人死亡，11月17日地方军事指挥官下令停止示威。**全部日期及210人是作者对档案的转述，尚未直接读取原始省长报告，不得认定逐人核定数字。** 缺件：上述1967省长办公室原报告、10月5—7日警察/县政府日志、Senakin/Darit/Sebadu逐人名册、11月17日军令与送达登记。障碍：地点旧行政区划及难民人数与死亡人数混用风险；需要比较不同作者对军方动员与地方政治利益的解释。
+
+**1996—1997年后续冲突，G6/G7/G9（A：HRW 1997-12-01同期公开调查报告全文；其历史回顾不是1967原件）：** Human Rights Watch, *Communal Violence in West Kalimantan*, https://www.refworld.org/reference/countryrep/hrw/1997/en/23874 ，Summary与Background。该报告以1997年1月、7月实地访谈为基础，估计1996年12月至1997年初Dayak—Madurese冲突约500人死亡、约20000名Madurese流离失所；这是HRW当时估计，不是官方逐人核定。HRW回顾1967年约300人死亡、超过55000名华人流离失所，属于其历史综合，不是1967年现场原件；**1967年300与Tanasaldy提及的三个村210不是同一统计范围，绝不能相加。** 报告还要求公开1979年Samalantan和平协议原文，提供跨年代制度连续性取件目标。缺件：1979年协议原文、1996—1997县级死亡及迁徙登记、1997军警出勤和拘押记录；须将两场不同对象的冲突分开建表，不能简单认定同一动因或相同实施者。
+
+**下次精确续接：** (1) 搜索并取得1967年《Pengungsian orang2 Tjina...》省长办公室报告影印，逐条核Tepo/Bengkayang/Samalantan日期；(2) 寻找1967-11-17军令及Senakin/Darit/Sebadu死亡登记；(3) 取得1979 Samalantan和平协议；(4) 转向不同G项，继续核Moncongloe 1977 SPRIN/802/TPD/XII/1977释放令及名册、或G2 Gerwani《Api Kartini》1960原刊。G1—G10仍全部OPEN。本次不分配S/C/Q编号，正式CSV尚未安全并库；不能以学术转引充当原件。
