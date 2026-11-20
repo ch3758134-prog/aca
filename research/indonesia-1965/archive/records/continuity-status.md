@@ -568,3 +568,14 @@
 重读AGENTS、stage-access、goal-continuity、续接、正式四CSV与chronology。直接打开工会法21/2000官方PDF https://www.peraturan.go.id/files/uu21-2000.pdf 第4—11条，以及KEP.16/MEN/2001双语原件 https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/71238/idn71238.pdf 第2—3条。法律规定工会集体协议与争议参与、10人建会、自由组织及章程；部长决定规定县市通知、创始人/负责人名单、登记簿及发号或暂缓。规范不等于地方实际执行。既有chronology和状态已记录法源，未重复分配S/C；claim-ledger blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a 读取正文仍空，不覆盖正式CSV。本轮chronology和中文历史正文未改。
 
 精准未完：①正式来源URL/法令号去重并恢复claim-ledger；②核法21/2000第18、20—25、28、43条与KEP.16第3—4、10—12条；③查2000—2002雅加达/东爪哇县市工会登记簿、暂缓通知及SBSI/PPBI个案；④取得Aceh《Chronologis 1966》及西加里曼丹《Pengungsian orang2 Tjina》原件；⑤轮换SOBSI/BTI/Gerwani、政治犯及当代劳工组织，成熟后并入连续中文历史正文。写入前blob 51f356d79b64280bedc1c4042852ce239a200e46；提交SHA须回读。GOAL ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-20 19:47 CST｜ONGOING / GOAL仍进行｜168/PUU-XXI/2023裁判原件核读
+
+已重读AGENTS、goal-continuity、stage-access、统一续接状态、正式source-register/claim-ledger/search-log/coverage-matrix和archive/records/chronology.md。正式claim-ledger.csv的Git blob为362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，但内容接口仍返回0字符；不能以此覆盖、清空或分配C编号。正式source-register已有S1512；本轮检查新裁判PDF的精确URL及案号未在来源表命中，尚未正式并库。
+
+**G7司法裁判原件（新进展）：** 直接打开印尼宪法法院2024-10-31第168/PUU-XXI/2023号判决完整官方PDF https://www.mkri.id/public/content/persidangan/putusan/putusan_mkri_11215_1730375514.pdf ，核读起诉人名册（PDF pp.1起）、法庭理由[3.16]（印刷pp.675–677）和判决主文（pp.679–680起）。申请方包括Partai Buruh、FSPMI、KSPSI、KPBI、KSPI及个人工人；法庭指出2003年第13号劳动法和2023年第6号法规范交叠，部分实施条例处理本应由法律规定的权利义务，要求另立独立劳动法，理由明确提出最多两年并让工会积极参与；主文部分准许请求，包括固定期限劳动合同含续期不超过五年的解释。**原件访问等级：裁判全文打开，已核指定段落，非仅法院新闻。**这能证明法院裁判、诉讼组织关系和法律期限，却不能证明2026-10-31后新法已通过、地方法院执行或劳动者待遇改善。
+
+**反证与检索纠错：** 搜索结果URL https://www.mkri.id/public/content/persidangan/putusan/putusan_mkri_14633_1784188576.pdf 的摘要涉及168号案期限，但实际打开的PDF首页为**192/PUU-XXIV/2026**，绝不可登记为168或167号原判决；该PDF引用的既有裁判只作为引文线索。法院2024-10-31官方新闻 https://www.mkri.id/berita/-21782 与原判决的申请人组织及独立立法要求相符，但属同一机关信息，不构成独立外部执行核验。
+
+**精准未完事项：** ①检索DPR 2026-10-31之后正式立法登记、议案文本、审议纪要和公布法令，确认独立劳动法是否出台及效力；②直接取得2026年第167/PUU-XXIV/2026号判决原件，避免与192号PDF混淆；③从168号判决申请人Partai Buruh/FSPMI/KSPSI/KPBI/KSPI追踪2024—2026诉讼及地方集体谈判实际案例；④取得1967西加里曼丹《Pengungsian orang2 Tjina ...》p.82影印、1965亚齐《Chronologis 1966》及Baperki声明附件，核军方行动与受害人；⑤恢复claim-ledger全文可读后去重登记正式S/C/Q/CV，补chronology与成熟中文连续历史正文。未修改正式CSV、chronology或HTML；不能称完成并库。提交前已知main最近一次核验SHA：90b8e80ca03203d167b3912dcbb8598461ca1cb3（须在提交后核最新HEAD）。GOAL持续OPEN。
