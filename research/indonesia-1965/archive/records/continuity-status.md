@@ -579,3 +579,16 @@
 **反证与检索纠错：** 搜索结果URL https://www.mkri.id/public/content/persidangan/putusan/putusan_mkri_14633_1784188576.pdf 的摘要涉及168号案期限，但实际打开的PDF首页为**192/PUU-XXIV/2026**，绝不可登记为168或167号原判决；该PDF引用的既有裁判只作为引文线索。法院2024-10-31官方新闻 https://www.mkri.id/berita/-21782 与原判决的申请人组织及独立立法要求相符，但属同一机关信息，不构成独立外部执行核验。
 
 **精准未完事项：** ①检索DPR 2026-10-31之后正式立法登记、议案文本、审议纪要和公布法令，确认独立劳动法是否出台及效力；②直接取得2026年第167/PUU-XXIV/2026号判决原件，避免与192号PDF混淆；③从168号判决申请人Partai Buruh/FSPMI/KSPSI/KPBI/KSPI追踪2024—2026诉讼及地方集体谈判实际案例；④取得1967西加里曼丹《Pengungsian orang2 Tjina ...》p.82影印、1965亚齐《Chronologis 1966》及Baperki声明附件，核军方行动与受害人；⑤恢复claim-ledger全文可读后去重登记正式S/C/Q/CV，补chronology与成熟中文连续历史正文。未修改正式CSV、chronology或HTML；不能称完成并库。提交前已知main最近一次核验SHA：90b8e80ca03203d167b3912dcbb8598461ca1cb3（须在提交后核最新HEAD）。GOAL持续OPEN。
+
+
+## 2026-11-20｜G3/G4/G5/G9 西爪哇艺术家登记与中央清洗命令交叉核验｜GOAL OPEN
+
+已重读2026-11-09 G1—G10完整性审计及AGENTS、stage-access、goal-continuity；正式source-register/search-log/coverage-matrix/chronology均能读取，claim-ledger与global-gap-tracker仍返回非空blob但0字符，禁止覆盖。正式source-register已收Yosef Djakababa与Mathias Hammer两篇2013年论文；本次未重复编号。
+
+**西爪哇 Cirebon/Majalengka，1965—1966（G4/G5/G9）**：直接打开Laurie Margot Ross, “The Artist Registry: Tracking Itinerant Artists before and after Suharto's 1965 coup d'état in the Cirebon region, West Java”, *Indonesia and the Malay World* 39(114), 2011, pp.145–169，公开作者论文转录 https://www.academia.edu/919520/THE_ARTIST_REGISTRY_Tracking_itinerant_artists_before_and_after_Suhartos_1965_coup_d%C3%A9tat_in_the_Cirebon_region_West_Java 。作者在2005年于一个戏班负责人家中发现同一批成员的1965年及1966年两套艺术家身份证件，1965年卡与1966年卡可比较政权转换中地方职业登记和社会控制；论文称1965年3月已有登记，1966年另发新卡。两套卡属于作者现场见到的私人保存实物，**本次核读的是公开论文全文转录，不是卡片原件正反面影印或地方签发登记簿**。其研究地点包括Cirebon、Majalengka、Indramayu，艺人以流动演出兼稻作谋生，部分为女性面具舞艺人。不得据此直接认定每个艺人属LEKRA/PKI、被捕或遇害；优先核两卡具体字段、签发机关、持卡人名单及1966年限制执行。此链补足此前仅强调死亡数字而遗漏的职业/文化身份治理。
+
+**中央指令到地方执行（G3/G4，跨项核验）**：直接打开Yosef Djakababa, “The Initial Purging Policies after the 1965 Incident at Lubang Buaya”, *Journal of Current Southeast Asian Affairs* 32(3), 2013，开放论文全文 https://journals.sagepub.com/doi/10.1177/186810341303200302 。论文根据印尼大学法学院图书馆保存的命令与KOPKAMTIB命令汇编，区分1965-10-10 Pranoto Reksosamudro签发Kep-1146/10/1965（军队内部清洗）、同日KOTI无线电令T-0265/G-5/1965（组建调查队）及1965-11-15第22/KOTI/1965号指令（行政机关人员清洗）。这些是**学者核引原始文件的二级读取**，不是本次直接读军令原件；清洗指令不等于文件明示处决命令。研究提示苏哈托系统与苏加诺内阁主席团的指令并存，不应将全国各地行政决定合并成单一命令链。下一步核原令签署、收发时间、地方转发与Majalengka登记卡之间是否存在直接行政联系，**目前不存在已证实的因果接线**。
+
+**中爪哇 Klaten（G4对照）**：直接打开Mathias Hammer, “The Organisation of the Killings and the Interaction between State and Society in Central Java, 1965”, 同刊32(3), 2013开放全文 https://journals.sagepub.com/doi/10.1177/186810341303200303 。作者称2010年访谈47人，另用ISSI在2000—2001年完成的7份Klaten口述记录；讨论拘押设施与甄别小组依赖当地社会关系提供名单的机制。这是研究者基于访谈提出的机制解释，不能直接套用到西爪哇Cirebon，也不能把其摘要的约10万人当作逐人核实的中爪哇死亡总数。待核ISSI七份原始访谈与地方调查小组名册。
+
+**长期缺口总账待同步**：G1前史、G2基层工农妇女组织、G3跨机关时序、G4全国分省、G5性别族群职业、G6监禁流亡、G7当代劳动、G8外部干预、G9地点人物、G10台账与HTML均OPEN；本次优先推进G3/G4/G5/G9，下一续接轮换G1/G2/G6/G7/G8。源级别：Ross/Hammer/Djakababa开放论文正文；私人卡片、1965中央命令原件、ISSI访谈原件尚缺。阻碍：claim-ledger/global-gap-tracker空正文、未取得地方原件。正式CSV、时间线与中文正文尚未并库，不虚称完成。下一步先核卡片影印及地方文化部门档案，再核KOTI无线电令原件与地方转发，恢复台账安全写入并补连续中文正文。
