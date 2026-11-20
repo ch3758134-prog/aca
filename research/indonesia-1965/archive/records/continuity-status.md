@@ -403,3 +403,20 @@
 **当前正式归档阻碍**：本次确认正式source-register.csv/search-log.csv/coverage-matrix.csv实际位于research/indonesia-1965/archive/records/，内容可读；claim-ledger.csv及global-gap-tracker.md虽有非空blob SHA，但fetch_file返回空正文，不能安全覆盖；chronology.md未在假定路径定位。故本次不分配S/C/Q/CV，不宣称正式CSV并库或中文HTML更新。G1—G10仍OPEN。
 
 **精确下一步**：①索取Komnas HAM报告所引 **KEP.024/10/1965/PDD/1965**原件；②索取 **BAP 266—269/BAP_TPPH65/III/2009**及Moncongloe转押名册；③核查1966-03“9,765”统计的出具机构、覆盖县与重复计数；④核对Aceh Langsa 1965-10-18 Baperki 148人名单原附件；⑤定位chronology真实路径与完整claim-ledger的安全读取办法，恢复正式台账和中文连续正文同步。不得把调查总结等同于原始现场记录。
+
+
+---
+
+## 2026-11-20｜ONGOING / GOAL仍进行｜2023—2025非司法补救的法令与执行缺口
+
+**直接核读官方原件**：印尼2023年第2号总统指示六页PDF，https://peraturan.go.id/files/inpres-no-2-tahun-2023.pdf ，第1—5页：列19个部委/机构负责人；第一项要求恢复受害者权利并防止重犯；第二项分派内政部组织地方预算、人口登记和受害者核验，外交部核验海外受害者国籍资料，卫生部门医疗/BPJS，社会部门社会救助及养老，劳工部门职业培训，总检察长与Komnas HAM协调。直接证明的是**命令及职责分工**，不能推断落实人数或司法判决。BPK法规库 https://peraturan.bpk.go.id/Details/245515/inpres-no-2-tahun-2023-pelaksanaan-rekomendasi-penyelesaian-non-yudisial-pelangg 明确签署/生效日期为2023-03-15，注意不要将2023-01-11总统承认误当指示签署日。
+
+**执行情况的机构自报及其口径问题**：直接打开印尼人权部2025-10-09新闻 https://kemenham.go.id/publikasi/kemenham-ri-dorong-percepatan-pemulihan-korban-ham-berat-sesuai-inpres-nomor-2-tahun-2023 。秘书长Novita Ilmaris称约7,000名登记受害者中约600人已核验并获得补救；此数字涵盖该非司法补救项目所列12类历史事件，**不能写成1965—1966事件的专属受害者数或全部受害者总数**，也不是独立审计。报道还称新内阁与人权部设立使2023年指示的部门分工需要修改；仅能证明2025年10月修订讨论，不能证明修订已生效。
+
+**另一份已打开的政府规划原件**：人权部2025年第14号部长规章所附2025—2029战略规划PDF https://www.kemenham.go.id/storage/informasi-publik/file/68f0cd18051a4.pdf ，规划约第86页称截至2025年7月约7,000名对象中680人获落实（约10%），且2025-07-29以MHA-OT.02.02-05函请求总统修订指示。**2025年7月680人与10月新闻约600人的表面倒退不应自行解释**：可能为四舍五入、统计口径或更新差异，必须追两份统计表、定义和时间戳；也不能以规划目标替代实际效果。此处为官方自报间的反证/口径冲突。
+
+**去重与安全限制**：本次读取正式source-register、search-log、coverage-matrix、chronology；人权部2025-10-09新闻URL已在正式source-register中，禁止重新分配来源ID。2023指示PDF和2025战略规划PDF URL未见于正式source-register，但claim-ledger.csv接口返回非空blob SHA与0长度正文，故暂不新建S/C编号、不覆盖正式CSV；chronology已有2023年政策节点，避免无编号重复追加。本次仅记录原件与待并库的精确差异。
+
+**下一次可直接执行**：（1）获取并比对2025-07战略规划680人、2025-10新闻约600人的原始统计定义、覆盖12事件的分组表和去重规则；（2）查2023年第2号指示2025—2026正式修订文本、总统府JDIH生效日期及2025-07-29函复；（3）获取至少两省2023—2026预算、受害者核验及实际给付清单（匿名统计），分别辨认1965—1966群体；（4）恢复claim-ledger完整字节，检验正式S/C/Q/CV与新法令/规划URL的去重，再补正式chronology和成熟中文连续正文；（5）交替追查1965亚齐《Chronologis 1966》军令影印、SOBSI/BTI/Gerwani基层档案及Moncongloe转运/劳动名册。
+
+**写入前已回读main的状态文件blob**：`de694d68d5a7a7adb3503573de641acdd430ed28`。本轮最终commit SHA由GitHub写入结果确认；提交自身SHA不可能预先包含于同一提交的文件正文。GOAL永久OPEN。
