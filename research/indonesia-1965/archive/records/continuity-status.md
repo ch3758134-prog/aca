@@ -623,3 +623,17 @@
 **G10正式文件访问审计**：本次确认正式source-register.csv、search-log.csv、coverage-matrix.csv、chronology.md真实路径均为research/indonesia-1965/archive/records/；source-register最新可见S1513。claim-ledger.csv与global-gap-tracker.md通过GitHub文件接口返回非空blob SHA但空正文，故禁止覆盖或假造C编号。本次未改正式CSV和连续HTML；仍需修复大文件读取与安全并库，避免仅靠continuity-status代替正式总账。
 
 **精确续接**：（1）索取Museum Brawijaya Inventaris 316-a Radiogram T.715/1965影印并核11月30日收发机关与措辞；（2）查10月23日Pupelrada会议及11月16日Korem 083四案原始逐案登记，核具体地点、死者姓名与组织身份；（3）比对Amnesty 1977附录I、II与印尼原文Kopkamtib命令和1976年释放声明，追踪Buru逐人转押与1977—79释放登记；（4）按1995年ASA21/036及055逐人比较在押、获释、死亡与赦免日期；（5）跨项转查G1殖民流放报纸原刊、G2产业工会与G8外国档案，正式并库后再写连续中文历史正文。长期GOAL持续OPEN。
+
+## 2026-11-20 21:55 CST｜ONGOING / GOAL仍进行｜家政劳动者保护法律与司法反证
+
+本次重读 AGENTS.md、goal-continuity.md、stage-access.md、统一续接状态、正式四张CSV及chronology。先核对2026年第27号《劳动保护法》官方BPK与劳工部JDIH登记，并实际打开官方176页PDF（https://peraturan.bpk.go.id/Download/425330/UU%20Nomor%2027%20Tahun%202026.pdf）；该法已在S1513，不重复编号。
+
+随后追查独立的**2026年第2号《家政劳动者保护法》**：官方BPK法令登记 https://peraturan.bpk.go.id/Details/352436/uu-no-2-tahun-2026 ，并实际打开26页官方PDF https://peraturan.bpk.go.id/Download/416259/UU%20No.%202%20Tahun%202026.pdf 。2026-04-30签署公布生效。PDF第1—9页可直接核对第1条家政劳动者定义、第4—7条直接/中介招聘、第11—12条合同、第15—16条劳动权利与社会保险费用安排、第19条雇主义务。该法将家政劳动纳入专门法律保护，但保险费用依协议/合同的具体措辞存在现实争议；不能从法律生效推断实际覆盖。
+
+第二条证据链：直接打开宪法法院2026-10-29官方报道 https://www.mkri.id/berita/permohonan-uji-uu-pprt-tidak-memenuhi-syarat-formil-26058 及30页判决PDF https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_15190_1793244046.pdf 。家政劳动者Ferdinan Olla就第16条第2、3款社会保险费及第32条第4、5款工资调解提出违宪审查；法院因申请人未出席相关程序而不予受理，**不是对争议法条作实体合宪判断**。需逐页核对判决理由及主文；新闻中的当事人主张不等于法院认定。
+
+正式写入：source-register新增S1514（法律）与S1515（法院判决）；search-log新增Q577；coverage-matrix新增CV648；chronology新增2026-04-30和2026-10-29节点。成功提交SHA依次 ac34f2dd40eb862943206c25a7a405cb5787a7ef、6066df94334fe870e3ad5c4a33abbcb845a823b4、084562b94066cfbbb0804fd5da57f14a60822aab、fc0292c6f1cbaa3db2c2c44c4c6d57ad3a0e7356、89f6d66302440fec44b630826b130063df232608、c2112fb3580a2296cba697eb562fe8352ea8db51。最后一SHA为本次状态写入前的已知提交，不能预写状态提交自身SHA。正式claim-ledger.csv仍为非空blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a、读取正文为空，未覆盖或编造C编号；成熟中文连续正文尚未修改。
+
+**精准未完事项**：（1）逐页核对判决352/PUU-XXIV/2026主文、程序事实与第16/32条解释，标注准确页码；（2）取得JALA PRT、家政工人组织对2026年第2号法的2025—2026年原始声明、地方案例及其反对意见；（3）核对第2号法与第27号法适用关系、实施细则及至少两地RT/RW报告/社会保险参保记录；（4）解决正式claim-ledger空正文读取问题后，依正式最大C编号去重登记本次命题；（5）交替推进1950—1965 Gerwani/SOBSI/BTI组织基层资料和1965—1968 Aceh军方原件，不以当代法律专题取代核心历史链条。
+
+GOAL保持ACTIVE / OPEN-ENDED。
