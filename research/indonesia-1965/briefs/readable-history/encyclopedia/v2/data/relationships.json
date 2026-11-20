@@ -1,0 +1,2231 @@
+{
+  "method": "Extracted only from article hyperlinks; does not prove historical participation.",
+  "links": [
+    {
+      "from": "P-adam-soepardjan",
+      "to": "O-sobsi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-adam-soepardjan",
+      "to": "E-buru",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-ade-irma",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-ahmad-yani",
+      "to": "P-nasution",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-ahmad-yani",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-ahmad-yani",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-aidit",
+      "to": "O-sobsi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-aidit",
+      "to": "O-bti",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-aidit",
+      "to": "O-gerwani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-aidit",
+      "to": "O-lekra",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-aidit",
+      "to": "P-sjam",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-aidit",
+      "to": "P-supardjo",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-aidit",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-aidit",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-aidit",
+      "to": "O-pki",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-aidit",
+      "to": "E-pki-fifth-force-1965",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-aidit",
+      "to": "P-sudisman",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-aidit",
+      "to": "E-njono-trial-1966",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-allen-pope",
+      "to": "E-rebellion",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-allen-pope",
+      "to": "E-foreign-channels",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-allen-pope",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-amir",
+      "to": "E-madiun",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-amir",
+      "to": "P-musso",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-amir",
+      "to": "P-hatta",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-amir",
+      "to": "P-sjahrir",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-bambang-sugeng",
+      "to": "E-dutch-offensive",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-budiman",
+      "to": "E-prd-1996",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-darsono",
+      "to": "P-semaun",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-darsono",
+      "to": "P-sneevliet",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-darsono",
+      "to": "E-uprising",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-daud-beureueh",
+      "to": "P-kartosuwiryo",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-daud-beureueh",
+      "to": "R-aceh",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-daud-beureueh",
+      "to": "E-rebellion",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-dewi",
+      "to": "E-guided",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-dewi",
+      "to": "E-sukarno-dewi-letters",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-dita-sari",
+      "to": "P-marsinah",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-dita-sari",
+      "to": "E-prd-1996",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-dita-sari",
+      "to": "E-reformasi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-dita-sari",
+      "to": "E-union-structure",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-fatmawati",
+      "to": "E-wartime-mobilization",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-fatmawati",
+      "to": "E-1952",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-green",
+      "to": "P-martens",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-green",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-green",
+      "to": "E-foreign-1965",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-green",
+      "to": "E-trisula-1968",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-hariman-siregar",
+      "to": "E-malari",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-hartini",
+      "to": "E-1952",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-haryono",
+      "to": "P-ahmad-yani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-haryono",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-haryono",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-hatta",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-hatta",
+      "to": "P-sjahrir",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-hatta",
+      "to": "E-madiun",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-hatta",
+      "to": "E-election",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-hatta",
+      "to": "E-semaun-hatta-1926",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-kahar",
+      "to": "P-kartosuwiryo",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-kahar",
+      "to": "R-south-sulawesi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-kahar",
+      "to": "E-rebellion",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-kartosuwiryo",
+      "to": "P-kahar",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-kartosuwiryo",
+      "to": "P-daud-beureueh",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-kartosuwiryo",
+      "to": "E-diplomacy-revolution",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-ki-hadjar",
+      "to": "E-wartime-mobilization",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-ki-mas-mansyur",
+      "to": "E-wartime-mobilization",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-lukman",
+      "to": "E-1952",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-mallaby",
+      "to": "E-surabaya",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-mansergh",
+      "to": "E-surabaya",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-maraden-panggabean",
+      "to": "E-marsinah-suharto-heroes",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-marsinah",
+      "to": "E-marsinah",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-marsinah",
+      "to": "P-dita-sari",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-marsinah",
+      "to": "E-union-structure",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-marsinah",
+      "to": "E-reformasi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-martens",
+      "to": "P-green",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-martens",
+      "to": "E-foreign-1965",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-martens",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-musso",
+      "to": "P-amir",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-musso",
+      "to": "E-madiun",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-musso",
+      "to": "P-aidit",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-musso",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-nasution",
+      "to": "P-tendean",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-nasution",
+      "to": "P-ade-irma",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-nasution",
+      "to": "P-ahmad-yani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-nasution",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-nasution",
+      "to": "E-1952",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-nasution",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-nyoman-rai",
+      "to": "E-formation",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-oloan-hutapea",
+      "to": "E-trisula-1968",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-oloan-hutapea",
+      "to": "R-south-blitar",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-oloan-hutapea",
+      "to": "P-sudisman",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-oloan-hutapea",
+      "to": "O-pki",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-pakpahan",
+      "to": "P-dita-sari",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-pakpahan",
+      "to": "P-marsinah",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-pakpahan",
+      "to": "E-sbsi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-pakpahan",
+      "to": "E-reformasi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-pakpahan",
+      "to": "E-shangrila-2000",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-panjaitan",
+      "to": "P-ahmad-yani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-panjaitan",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-panjaitan",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-parman",
+      "to": "P-ahmad-yani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-parman",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-parman",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-pranoto",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-pranoto",
+      "to": "P-supardjo",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-pranoto",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-pranoto",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-putmainah",
+      "to": "P-tuti-gerwani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-putmainah",
+      "to": "O-gerwani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-putmainah",
+      "to": "R-south-blitar",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-rewang",
+      "to": "P-sri-kayati",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-roem",
+      "to": "P-van-roijen",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-roem",
+      "to": "P-sjafruddin",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-roem",
+      "to": "E-dutch-offensive",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sarwo-edhie",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sarwo-edhie",
+      "to": "R-central-java",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sarwo-edhie",
+      "to": "R-bali",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sarwo-edhie",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-schoonheyt",
+      "to": "E-sukarno-exile",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-semaun",
+      "to": "P-tan-malaka",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-semaun",
+      "to": "P-sneevliet",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-semaun",
+      "to": "P-darsono",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-semaun",
+      "to": "E-uprising",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-semaun",
+      "to": "E-vstp-1923",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-semaun",
+      "to": "E-semaun-hatta-1926",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-siauw",
+      "to": "O-baperki",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-siauw",
+      "to": "R-aceh",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-siauw",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-siauw",
+      "to": "E-aceh-1965-repression",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sjafruddin",
+      "to": "P-hatta",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sjafruddin",
+      "to": "E-dutch-offensive",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sjafruddin",
+      "to": "E-rebellion",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sjahrir",
+      "to": "E-three-july",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sjahrir",
+      "to": "P-hatta",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sjahrir",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sjahrir",
+      "to": "P-tan-malaka",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sjam",
+      "to": "P-aidit",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sjam",
+      "to": "P-supardjo",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sjam",
+      "to": "P-untung",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sjam",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sneevliet",
+      "to": "P-semaun",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sneevliet",
+      "to": "P-darsono",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sneevliet",
+      "to": "E-formation",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-soekemi",
+      "to": "E-formation",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-soengkono",
+      "to": "E-marsinah-suharto-heroes",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-soetardjo",
+      "to": "E-prewar-parliament",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-soetarto",
+      "to": "E-surakarta",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sri-kayati",
+      "to": "P-rewang",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sri-kayati",
+      "to": "O-lekra",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sri-kayati",
+      "to": "E-women-detainees",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sudarsono",
+      "to": "E-three-july",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sudirman",
+      "to": "E-three-july",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sudirman",
+      "to": "E-dutch-offensive",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sudisman",
+      "to": "P-aidit",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sudisman",
+      "to": "P-sjam",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sudisman",
+      "to": "P-untung",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sudisman",
+      "to": "E-madiun",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sudisman",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sudisman",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sudisman",
+      "to": "E-pki-autocritique-1966",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-suharto",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-suharto",
+      "to": "P-sarwo-edhie",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-suharto",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-suharto",
+      "to": "E-supersemar",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-suharto",
+      "to": "E-reformasi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-suharto",
+      "to": "R-south-blitar",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-suharto",
+      "to": "E-trisula-1968",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-suharto",
+      "to": "E-buru",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sukarno",
+      "to": "P-soekemi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sukarno",
+      "to": "P-nyoman-rai",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sukarno",
+      "to": "P-tjokroaminoto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sukarno",
+      "to": "P-hatta",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sukarno",
+      "to": "P-sjahrir",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sukarno",
+      "to": "E-madiun",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sukarno",
+      "to": "E-guided",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sukarno",
+      "to": "P-aidit",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sukarno",
+      "to": "E-land",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sukarno",
+      "to": "E-konfrontasi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sukarno",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sukarno",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sukarno",
+      "to": "E-supersemar",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sukarno",
+      "to": "E-pki-fifth-force-1965",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sukarno",
+      "to": "E-bima-republic-1945",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sultan-hb-ix",
+      "to": "P-roem",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sultan-hb-ix",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sultan-hb-ix",
+      "to": "E-dutch-offensive",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-supardjo",
+      "to": "P-untung",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-supardjo",
+      "to": "P-sjam",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-supardjo",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-supardjo",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-suprapto",
+      "to": "P-ahmad-yani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-suprapto",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-suprapto",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-suryo",
+      "to": "E-surakarta",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sutoyo",
+      "to": "P-ahmad-yani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sutoyo",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-sutoyo",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-tan-malaka",
+      "to": "P-semaun",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-tan-malaka",
+      "to": "P-sjahrir",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-tan-malaka",
+      "to": "E-uprising",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-tan-malaka",
+      "to": "E-three-july",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-tendean",
+      "to": "P-nasution",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-tendean",
+      "to": "P-ade-irma",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-tendean",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-thamrin",
+      "to": "E-prewar-parliament",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-tjokroaminoto",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-tjokroaminoto",
+      "to": "P-semaun",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-tjokroaminoto",
+      "to": "P-darsono",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-tjokroaminoto",
+      "to": "E-formation",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-tuti-gerwani",
+      "to": "P-putmainah",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-tuti-gerwani",
+      "to": "O-gerwani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-tuti-gerwani",
+      "to": "E-women-detainees",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-untung",
+      "to": "P-supardjo",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-untung",
+      "to": "P-sjam",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-untung",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-untung",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-untung",
+      "to": "E-pki-fifth-force-1965",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-van-roijen",
+      "to": "P-roem",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-van-roijen",
+      "to": "P-hatta",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-van-roijen",
+      "to": "E-diplomacy-revolution",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-widodo",
+      "to": "E-recognition",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-winata",
+      "to": "E-trisula-1968",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-winata",
+      "to": "R-south-blitar",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-winata",
+      "to": "P-rewang",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "P-yamin",
+      "to": "E-three-july",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-1952",
+      "to": "P-nasution",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-1952",
+      "to": "P-aidit",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-1952",
+      "to": "P-lukman",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-1952",
+      "to": "P-hartini",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-aceh-1965-repression",
+      "to": "O-baperki",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-aceh-1965-repression",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-aceh-1965-repression",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-buru",
+      "to": "E-surveillance",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-buru",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-buru",
+      "to": "R-south-sulawesi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-buru",
+      "to": "E-union-prisoners-1977",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-dutch-offensive",
+      "to": "P-sjafruddin",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-dutch-offensive",
+      "to": "P-sultan-hb-ix",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-dutch-offensive",
+      "to": "P-bambang-sugeng",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-dutch-offensive",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-dutch-offensive",
+      "to": "P-roem",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-dutch-offensive",
+      "to": "P-van-roijen",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-election",
+      "to": "O-gerwani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-election",
+      "to": "E-guided",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-election",
+      "to": "O-pki",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-foreign-1965",
+      "to": "P-green",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-foreign-1965",
+      "to": "P-martens",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-foreign-1965",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-formation",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-formation",
+      "to": "P-soekemi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-formation",
+      "to": "P-nyoman-rai",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-guided",
+      "to": "E-election",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-guided",
+      "to": "E-land",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-guided",
+      "to": "O-army",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-konfrontasi",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-konfrontasi",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-land",
+      "to": "O-bti",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-land",
+      "to": "E-land-court",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-land",
+      "to": "E-wangunwati",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-madiun",
+      "to": "P-hatta",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-madiun",
+      "to": "P-musso",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-madiun",
+      "to": "P-amir",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-madiun",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-malari",
+      "to": "P-hariman-siregar",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-marsinah-suharto-heroes",
+      "to": "P-maraden-panggabean",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-marsinah-suharto-heroes",
+      "to": "P-soengkono",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-marsinah",
+      "to": "P-marsinah",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-marsinah",
+      "to": "E-sbsi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-moncongloe-detention",
+      "to": "R-south-sulawesi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-moncongloe-detention",
+      "to": "O-sobsi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-moncongloe-detention",
+      "to": "E-buru",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-movement",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-movement",
+      "to": "P-sjam",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-movement",
+      "to": "P-untung",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-movement",
+      "to": "P-supardjo",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-movement",
+      "to": "P-ahmad-yani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-movement",
+      "to": "P-nasution",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-movement",
+      "to": "P-tendean",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-movement",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-movement",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-movement",
+      "to": "E-supersemar",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-movement",
+      "to": "P-aidit",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-new-order-politics",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-pki-fifth-force-1965",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-pki-fifth-force-1965",
+      "to": "P-aidit",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-pki-fifth-force-1965",
+      "to": "P-untung",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-pki-fifth-force-1965",
+      "to": "O-bti",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-pki-fifth-force-1965",
+      "to": "O-sobsi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-pki-fifth-force-1965",
+      "to": "E-njono-trial-1966",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-pki-fifth-force-1965",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-prd-1996",
+      "to": "E-prisoners-1995-1998",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-prd-1996",
+      "to": "P-budiman",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-prd-1996",
+      "to": "P-dita-sari",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-prewar-parliament",
+      "to": "P-soetardjo",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-prewar-parliament",
+      "to": "P-thamrin",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-prisoners-1995-1998",
+      "to": "E-prd-1996",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-prisoners-1995-1998",
+      "to": "E-reformasi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-prisoners-1995-1998",
+      "to": "E-surveillance",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-prisoners-1995-1998",
+      "to": "P-budiman",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-prisoners-1995-1998",
+      "to": "P-dita-sari",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-purge",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-purge",
+      "to": "E-buru",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-purge",
+      "to": "E-surveillance",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-purge",
+      "to": "E-foreign-1965",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-purge",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-purge",
+      "to": "P-sarwo-edhie",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-purge",
+      "to": "E-trisula-1968",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-purge",
+      "to": "R-south-blitar",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-purge",
+      "to": "R-aceh",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-purge",
+      "to": "R-flores",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-purge",
+      "to": "E-aceh-1965-repression",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-purge",
+      "to": "R-east-java",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-purge",
+      "to": "E-moncongloe-detention",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-rebellion",
+      "to": "P-allen-pope",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-rebellion",
+      "to": "E-guided",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-rebellion",
+      "to": "O-army",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-recognition",
+      "to": "P-widodo",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-reformasi",
+      "to": "E-shangrila-2000",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-reformasi",
+      "to": "E-union-registration-1998",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-reformasi",
+      "to": "E-prd-1996",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-reformasi",
+      "to": "E-union-structure",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-reformasi",
+      "to": "E-recognition",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-sbsi",
+      "to": "P-pakpahan",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-shangrila-2000",
+      "to": "E-reformasi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-shangrila-2000",
+      "to": "E-union-structure",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-shangrila-2000",
+      "to": "P-pakpahan",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-sobsi-1946-1949",
+      "to": "P-adam-soepardjan",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-sobsi-1946-1949",
+      "to": "O-sobsi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-sobsi-1946-1949",
+      "to": "E-madiun",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-sukarno-exile",
+      "to": "P-hatta",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-sukarno-exile",
+      "to": "P-sjahrir",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-sukarno-exile",
+      "to": "P-schoonheyt",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-supersemar",
+      "to": "P-sukarno",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-supersemar",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-supersemar",
+      "to": "E-new-order-politics",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-surabaya",
+      "to": "P-mallaby",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-surabaya",
+      "to": "P-mansergh",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-surakarta",
+      "to": "P-suryo",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-surakarta",
+      "to": "P-soetarto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-surveillance",
+      "to": "E-buru",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-surveillance",
+      "to": "E-reformasi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-surveillance",
+      "to": "O-gerwani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-three-july",
+      "to": "P-sudarsono",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-three-july",
+      "to": "P-yamin",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-three-july",
+      "to": "P-sudirman",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-trisula-1968",
+      "to": "P-oloan-hutapea",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-trisula-1968",
+      "to": "P-winata",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-trisula-1968",
+      "to": "R-south-blitar",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-trisula-1968",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-trisula-1968",
+      "to": "E-buru",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-union-prisoners-1977",
+      "to": "O-sobsi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-union-prisoners-1977",
+      "to": "E-buru",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-union-prisoners-1977",
+      "to": "P-adam-soepardjan",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-union-registration-1998",
+      "to": "E-shangrila-2000",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-union-registration-1998",
+      "to": "E-reformasi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-union-registration-1998",
+      "to": "E-union-structure",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-union-registration-1998",
+      "to": "E-sbsi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-union-structure",
+      "to": "E-shangrila-2000",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-union-structure",
+      "to": "E-union-registration-1998",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-union-structure",
+      "to": "O-sobsi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-union-structure",
+      "to": "E-sbsi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-union-structure",
+      "to": "E-reformasi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-uprising",
+      "to": "E-bovendigoel",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-vstp-1923",
+      "to": "P-semaun",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-vstp-1923",
+      "to": "P-sneevliet",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-vstp-1923",
+      "to": "P-tan-malaka",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-vstp-1923",
+      "to": "O-pki",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-wartime-mobilization",
+      "to": "P-ki-hadjar",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-wartime-mobilization",
+      "to": "P-ki-mas-mansyur",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-wartime-mobilization",
+      "to": "P-fatmawati",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-west-kalimantan-1967-expulsion",
+      "to": "R-west-kalimantan",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-west-kalimantan-1967-expulsion",
+      "to": "E-aceh-1965-repression",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-west-kalimantan-1967-expulsion",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-women-detainees",
+      "to": "P-tuti-gerwani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-women-detainees",
+      "to": "P-putmainah",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-women-detainees",
+      "to": "P-sri-kayati",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-women-detainees",
+      "to": "O-gerwani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-women-detainees",
+      "to": "E-surveillance",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "E-women-detainees",
+      "to": "R-south-blitar",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-army",
+      "to": "P-suharto",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-army",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-army",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-baperki",
+      "to": "P-siauw",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-baperki",
+      "to": "R-aceh",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-baperki",
+      "to": "O-pki",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-baperki",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-baperki",
+      "to": "E-aceh-1965-repression",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-bti",
+      "to": "E-land",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-bti",
+      "to": "E-wangunwati",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-bti",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-bti",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-gerwani",
+      "to": "P-tuti-gerwani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-gerwani",
+      "to": "P-putmainah",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-gerwani",
+      "to": "P-sri-kayati",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-gerwani",
+      "to": "E-women-detainees",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-gerwani",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-gerwani",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-koti",
+      "to": "E-surveillance",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-koti",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-koti",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-lekra",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-lekra",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-nu-ansor",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-nu-ansor",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-pki",
+      "to": "E-uprising",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-pki",
+      "to": "E-madiun",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-pki",
+      "to": "P-aidit",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-pki",
+      "to": "O-sobsi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-pki",
+      "to": "O-bti",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-pki",
+      "to": "O-gerwani",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-pki",
+      "to": "O-lekra",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-pki",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-pki",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-pni-partindo",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-pni-partindo",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-sobsi",
+      "to": "E-union-structure",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-sobsi",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-sobsi",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-sobsi",
+      "to": "P-adam-soepardjan",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-sobsi",
+      "to": "E-sobsi-1946-1949",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "O-sobsi",
+      "to": "E-union-prisoners-1977",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-aceh",
+      "to": "O-pki",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-aceh",
+      "to": "O-baperki",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-aceh",
+      "to": "P-siauw",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-aceh",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-aceh",
+      "to": "E-aceh-1965-repression",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-aceh",
+      "to": "R-south-sulawesi",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-aceh",
+      "to": "R-east-java",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-bali",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-central-java",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-east-java",
+      "to": "R-south-blitar",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-east-java",
+      "to": "E-trisula-1968",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-east-java",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-flores",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-flores",
+      "to": "R-aceh",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-jakarta",
+      "to": "E-movement",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-jakarta",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-north-sumatra",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-south-blitar",
+      "to": "P-oloan-hutapea",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-south-blitar",
+      "to": "P-winata",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-south-blitar",
+      "to": "E-women-detainees",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-south-blitar",
+      "to": "E-trisula-1968",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-south-blitar",
+      "to": "R-east-java",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-south-blitar",
+      "to": "E-buru",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-south-sulawesi",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-south-sulawesi",
+      "to": "E-moncongloe-detention",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-west-kalimantan",
+      "to": "E-purge",
+      "relationship": "hyperlink_reference_only"
+    },
+    {
+      "from": "R-west-kalimantan",
+      "to": "E-west-kalimantan-1967-expulsion",
+      "relationship": "hyperlink_reference_only"
+    }
+  ],
+  "unresolved": []
+}
