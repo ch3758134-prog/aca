@@ -699,3 +699,18 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 本轮已成功提交Q580、CV650及chronology 1961节点并纠正来源编号；最新**状态写入前**已知提交SHA：`8e5c39a98c783c6f216f3e493ce8bf5a5de2dec5`。状态文件自身提交SHA必须在写入后从API取得；无法预先写进自身。正式C表未写入；连续中文历史正文尚未更新（目前只验证纲领与制度，不足以证明具体地区执行）。本轮没有宣称穷尽。
 
 **下一次精准动作**：（1）取得1961年DPP Gerwani印刷《Program Perjuangan》及《Peraturan Dasar》逐页影像，校核转录与大会决议；（2）打开印尼UU 5/1960第9条、UU 2/1960分成租佃法、妇女政治权利公约批准法，纠正68/1958/1959并核法令实施日期；（3）搜Lamongan或种植园区1957—1964年Gerwani女农民土地证、landreform委员会名单、工会集体协议及托儿所账目，检验纲领与实践；（4）转回1965年Langsa Baperki声明148人附件、Kodim-0104与军方《Chronologis 1966》影印，逐人分开组织身份与遭遇；（5）继续寻找可安全读取claim-ledger.csv原始完整字节的途径，取得最大C号并去重，才允许登记原子主张。GOAL始终ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-21｜ONGOING / GOAL仍进行｜1961妇女组织跨团体协作与南苏拉威西拘押劳动
+
+本次先读取AGENTS、goal-continuity、stage-access、正式source-register/search-log/coverage-matrix、chronology前段和统一状态；正式claim-ledger.csv仍为非空SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但API返回零长度正文，禁止覆盖。GitHub main提交前HEAD=b07a31fe8d908b3dd39e3d37f8799634be0d8039。此次没有可靠完成四表全文去重及安全写入，因此新线索暂存状态，不分配S/C/Q/CV新号；chronology/成熟中文正文未修改。
+
+**1950—1961 Gerwani与其他妇女组织的并行活动，新增同时代原刊文字**：直接打开Hurustiati Subandrio署名《Djedjak-langkah Wanita 1961》，《Api Kartini》1961年第3年1号第8页的现代转录全文 https://gerwani.logosid.app/teks/49 。作者记述Gerwani于1961-01-17至20在雅加达Gedung Wanita举办全国农村妇女研讨会；同时并列Bhayangkari 1月4—7日三宝垄会议、Persit马格朗会议、Wanita Demokrat Indonesia活动及拟举行的全国妇女大会。文章提及土地改革、婚姻法、妇女劳动技能与西伊里安，说明当时妇女组织有重叠议题但并非单一组织。**访问等级：原刊全文的当代数字转录已读，原刊影印未逐页核对；会议是作者同时代报告，尚缺会议纪要、出席名单及地方后续执行。** 交叉线索： https://gerwani.logosid.app/teks/42 为1961-12 Gerwani纲领转录（已登记S459，不能重复登记）； https://eprints.undip.ac.id/3197/1/Skripsi_Risdha.pdf 为后来的学位论文，提及1961-01农村妇女研讨会，但其引用《Harian Rakjat》1961-01-19原报尚未核读。独立性不足，不把相同刊物网络转述当双重独立证据。
+
+**1965—1979 南苏拉威西：军方拘押与强制劳动链**：直接打开Komnas HAM 1965—66调查摘要 https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ，并直接打开Taufik Ahmad, “Survival through slavery”, 2010-01-24, https://www.insideindonesia.org/editions/edition-998/survival-through-slavery 。后者据其访谈/研究叙述1969年底Moncongloe集中营形成时约859男、52女从多处监狱转入，其中846人在营内，其余被安排为军人家务劳动；被拘者开垦土地、从事道路建设，1978年前多数获释，另42人转Nanga-Nanga至1979年获释。Komnas HAM摘要已记录1965-10-18 Solihin军区决定KEP.024/10/1965/PDD/1965及至1966-03约9765人拘押；**9765为省级阶段拘押数字，不是Moncongloe营内人数或死亡人数**。两份文献并非完全独立的人数复核，需核访谈原始记录、营地名册、土地与道路工程档案；2010文中受访者Anwar Abbas、Untung应作为个人追踪线索，不凭单篇报道定论。
+
+**反证/访问限制**：1961 Gerwani章程现代重排入口 https://kabe.drepram.com/works/peraturan-dasar-gerwani 已找到但直接打开失败，不能声称读取1961章程原印本。1958章程、1961纲领、1961刊物应按文献年份/版本分别处理；1961妇女活动不能推导为各组织均支持PKI。
+
+**精准下一步**：①查《Harian Rakjat》1961-01-19原报及1月17—20研讨会决议、出席代表名册，逐项核土地所有权/土地委员会主张；②查1961《Api Kartini》No.1原刊扫描第8页，核Hurustiati署名与日期；③从1961 Gerwani章程影印本核组织层级、会费、成员资格并与1958章程逐条比对；④索取Moncongloe 1969—1979原始拘押名册、Nanga-Nanga转押记录和道路工程记录，按人/日期拆解；⑤解决claim-ledger非空blob空正文问题后对四表全量去重并库，轮换Aceh Langsa 1965-10-18 Baperki名单及军区命令。GOAL持续OPEN，不以本轮节点完成为停止。
+
+**提交SHA规则**：本节写入时只能准确保存提交前HEAD=b07a31fe8d908b3dd39e3d37f8799634be0d8039；本节所在提交SHA须以GitHub提交结果及后续HEAD回读为准，不能在同一提交中自引用其SHA。
