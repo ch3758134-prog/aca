@@ -548,3 +548,16 @@
 **G3/G4/G8：1965年同期美国外交记录与地方暴力的关联。** 直接打开美国国务院FRUS编辑说明（官方开放全文）https://history.state.gov/historicaldocuments/frus1964-68v26/d162 。编辑说明精确定位1965-10-27使馆电报1215（RG84, Lot69 F42, POL23）、10-28电报1248及1255（RG59, POL23-9 INDON）；当时使馆仍无法判定地方暴力系地方PKI独立行动还是军方主动清洗。说明另引1966-02-25 A-527，称巴厘死亡人数估算达80,000。**访问级别：FRUS编辑说明全文已读，所引电报原件本次未读；80,000仅是使馆当时收到的估算，不是经过名册确认的死亡总数。** 另直接打开美国国家安全档案馆1965-12-22泗水领馆电报203档案说明 https://nsarchive.gwu.edu/document/15721-document-25-telegram-203-american-consul ，说明转述东爪哇军方夜间移交囚犯给穆斯林群体执行处决的传闻及巴厘华人商店遭焚；**本次只读档案馆说明而非电报影印，传闻不能直接升格为已证实的执行机制。** 取件号RG84 Entry P339 Jakarta Embassy Files Box14 Folder7。
 
 **精确续接动作：** 先取西加里曼丹1967年《Pengungsian orang2 Tjina ...》影印并逐项核村、日期、死者、迁徙人数及文件制作机关；并行核FRUS 1215/1248/1255和电报203的原文、来源转述层级及Aceh/巴厘/东爪哇对照；随后轮换G1早期组织、G2 Gerwani/SOBSI基层、G6政治拘押、G7当代工会与G10正式台账去重。完成原件核验后再安全更新正式source/claim/search/coverage、统一chronology及可读中文叙事；目前所有G项仍OPEN。
+
+
+## 2026-11-20｜跨G项实质核验续接（ONGOING / GOAL仍进行）
+
+**执行前治理：** 已重读AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09及正式source-register、search-log、coverage-matrix；正式claim-ledger与global-gap-tracker均返回非空blob SHA但正文长度0，禁止覆盖；chronology根路径404。来源登记已到S1512，Q576、CV647；旧审计的S367等仅为2026-11-09历史快照，绝不能继续从这些编号追加。G1—G10全部OPEN。
+
+**长期链G4/G5/G9 西加里曼丹（1967）：** 直接打开并阅读Taufiq Tanasaldy《Regime Change and Ethnic Politics in Indonesia》（2012）馆藏开放PDF（正式已登记S383），https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/82/94/2020718294/2020718294.pdf 。作者引1967年省长办公室馆藏《Pengungsian orang2 Tjina ...》p.82记述：99名游击队员投降，739名华裔志愿者仍留边境继续行动。**这两个数字的对象是边境武装/志愿者，不是1967年被驱逐平民或死亡人数**；同书又引10月19日Samalantan红碗动员、11月Senakin/Darit/Sebadu三地合计210死者的研究记录。访问等级：学术专著全文已打开，原1967年省政府文件仍未取得。不得把该书与同作者章节/论文视为独立档案佐证；需取得p.82原件、人员身份与统计形成过程，并与难民营登记、军区命令交叉核对。
+
+**不同G项G7 2024—2026劳动法与实际组织行动：** 直接打开印尼宪法法院2026-06-17官方英文新闻全文 https://en.mkri.id/news/details/2026-06-17/Court_Reminds_of_Two-Year_Deadline_to_Separate_Labor_Cluster_from_Job_Creation_Law ，确认167/PUU-XXIV/2026驳回Yoga Julianta就2023年第6号法加班同意与解雇保护条款的请求；法院指出拒绝加班、雇主施压属于执行问题，重申168/PUU-XXI/2023（2024-10-31）要求两年内将劳动规范独立立法，并陈述未按期分离时旧2003年第13号法与有关宪法法院判决的法律后果。与2024-10-31官方新闻 https://www.mkri.id/berita/kabulkan-sebagian%252C-mk-minta-uu-ketenagakerjaan-dipisahkan-dari-uu-cipta-kerja-21782 交叉核对；**新闻是官方对裁判的说明，不等于已经阅读167/168两份裁判全文，也不能证明2026-10-31之后立法是否实际完成**。缺件：两案判决原件、DPR立法进度、地方企业加班与解雇执行案例。
+
+**滚动缺口总账条目（不可替代不可读的正式总账）：** G4/G5/G9｜1967西加里曼丹｜来源S383学术全文/1967省档未读｜缺p.82及地方人口、军方与难民记录｜行动核原件分母、边境志愿者与平民分类｜阻碍原件未公开。G7｜2024—2026全国劳工｜来源官方法院新闻全文/裁判原文未读｜缺167、168裁判与2026-10-31后立法进度｜行动调原件并核工会实际执行｜阻碍立法进度尚未验证。G10｜全项目｜正式claim-ledger/global-gap-tracker内容接口空、chronology路径未定位｜行动Git tree/分段替代读取并去重｜阻碍不可安全覆盖。
+
+**下一次精确续接：** ①定位1967《Pengungsian ...》p.82与全表，核99/739统计对象；②查1967年10—11月Pontianak/Sambas迁徙原件与Senakin/Darit/Sebadu逐村名册；③下载MK 167/PUU-XXIV/2026及168/PUU-XXI/2023判决原文，对照加班、解雇及立法期限；④核2026-10-31以后DPR独立劳动法进展与工会组织反馈；⑤解决正式CSV空正文和chronology路径后再正式并库、按时间排序并完善中文连续历史。GOAL未完成。
