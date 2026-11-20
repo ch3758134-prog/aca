@@ -537,3 +537,14 @@
 **去重/访问界限**：正式来源表和chronology已经很大，须依上述URL、法令号和命题再核实是否已登记；本次不分配新S/C编号，不将当前接力说明当作正式台账并库。正式CSV与连续历史正文未修改，chronology未修改，尚待去重与证据链成熟后入库。没有取得2000—2002县市工会登记原簿，不能断言实施效果。
 
 **精准未完事项**：①取2000年第28号法附载Perpu 3/2000原PDF，逐条核2002-10-01日期及2002-09-27废止草案的立法结果；②逐条核21/2000第18、25、28、43条与KEP.16/MEN/2001第11条，追踪通知、登记、反工会报复刑罚与过渡机制；③取得至少两个县市2000—2002工会登记簿、企业工会通知/驳回文书与SBSI/PPBI个案，检验规范和实际执行差距；④轮换Aceh军方《Chronologis 1966》与Gerwani/BTI/SOBSI基层原件；⑤解决claim-ledger读取异常、正式四表去重后补chronology及成熟中文历史叙述，保留事件、组织、人物关系。GOAL永久ACTIVE / OPEN-ENDED，绝不因本次写入结束。
+
+
+## 2026-11-20｜G4/G5/G9 西加里曼丹地方原件定位；G3/G4/G8 美方同期判断的边界
+
+**已重新读取 G1—G10 完整性审计及 AGENTS、stage-access、goal-continuity；长期GOAL继续OPEN。** 正式来源表中已出现 `Pengungsian orang2`、Matsumura 与 Telegram 203，故不擅自分配重复S编号。claim-ledger和global-gap-tracker的fetch_file返回非空blob SHA但空正文，不覆盖；本条为滚动续接，尚未完成正式CSV/chronology/中文历史正文并库。
+
+**G4/G5/G9：1967年西加里曼丹。** 本次直接打开论文可见全文片段（不是原始档案）《The Decline of Dayak Political Movements (1960–1971)》https://www.academia.edu/88369262/The_Decline_of_Dayak_Political_Movements_1960_1971_ 。其中记述10月19日Samalantan开始传播红碗，10月28日以后杀戮升级，11月上旬Senakin、Darit、Sebadu三处袭击合计210人死亡，11月17日军方指挥官下令停止示威。**210是作者引述地方材料的三处合计，不是全省总死亡数。** 论文脚注115—116明确指向1967年地方文件《Pengungsian orang2 Tjina sebagai akibat gerakan2 orang Daya dalam daerah Kabupaten Pontianak dan Kabupaten Sambas》，收藏地点为Pontianak西加里曼丹省长办公室图书馆；未取得该档原件及逐县登记，所有日数与210人均须保持“论文转引”访问等级。论文还引1981-12-14军区在海军参谋学院简报《Briefing Pangdam XII/TPR di depan siswa Seskoal ... operasi penumpasan gerombolan PGRS/Paraku ...》，据称藏同一馆；这份事后军方叙述不能代替1967年即时命令。另核松村智雄2015期刊开放摘要 https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article ：其解释Oevaang Oeray与军方合作、十月宣言及红碗动员，但摘要不是独立原件。**待核：** 1967年原件全文与附表、三村死亡/迁徙名单、10月19日及11月17日原始军令、Oeray宣言影印、当地华裔及达雅克多方证词；不得把全体达雅克人或华裔人视作单一政治组织。
+
+**G3/G4/G8：1965年同期美国外交记录与地方暴力的关联。** 直接打开美国国务院FRUS编辑说明（官方开放全文）https://history.state.gov/historicaldocuments/frus1964-68v26/d162 。编辑说明精确定位1965-10-27使馆电报1215（RG84, Lot69 F42, POL23）、10-28电报1248及1255（RG59, POL23-9 INDON）；当时使馆仍无法判定地方暴力系地方PKI独立行动还是军方主动清洗。说明另引1966-02-25 A-527，称巴厘死亡人数估算达80,000。**访问级别：FRUS编辑说明全文已读，所引电报原件本次未读；80,000仅是使馆当时收到的估算，不是经过名册确认的死亡总数。** 另直接打开美国国家安全档案馆1965-12-22泗水领馆电报203档案说明 https://nsarchive.gwu.edu/document/15721-document-25-telegram-203-american-consul ，说明转述东爪哇军方夜间移交囚犯给穆斯林群体执行处决的传闻及巴厘华人商店遭焚；**本次只读档案馆说明而非电报影印，传闻不能直接升格为已证实的执行机制。** 取件号RG84 Entry P339 Jakarta Embassy Files Box14 Folder7。
+
+**精确续接动作：** 先取西加里曼丹1967年《Pengungsian orang2 Tjina ...》影印并逐项核村、日期、死者、迁徙人数及文件制作机关；并行核FRUS 1215/1248/1255和电报203的原文、来源转述层级及Aceh/巴厘/东爪哇对照；随后轮换G1早期组织、G2 Gerwani/SOBSI基层、G6政治拘押、G7当代工会与G10正式台账去重。完成原件核验后再安全更新正式source/claim/search/coverage、统一chronology及可读中文叙事；目前所有G项仍OPEN。
