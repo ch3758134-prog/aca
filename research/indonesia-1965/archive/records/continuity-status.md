@@ -386,3 +386,20 @@
 **G1/G2/G6滚动链继续开放**：Adam Soepardjan的IISG ARCH02469二、三册手稿、1959年SOBSI国际活动与1957年Braat/Barata企业接管文件仍是下一实物取件链；本次未取得新原件，不虚称核验。另G7 1998—2001工会法制及基层执行保持OPEN，不以法律文本替代工厂证据。G8外部行动与G9人物地理索引持续OPEN。
 
 **精确续接**：①索取Banda Aceh 1965-10-04两份Pantja Tunggal原件与10-11西亚齐Declaration No.4；②比对10-29决定签发/送达簿和10-25期限，核实倒置；③在Melvin档案脚注中定位1966年5—8月转移登记、港口或安置统计；④获取IISG ARCH02469手稿扫描并与1959年工会会议名册交叉；⑤恢复claim-ledger及global-gap-tracker的完整内容读取后去重并库，更新chronology和可读中文正文。G1—G10均OPEN；未声称本次完成正式CSV/HTML同步。
+
+
+## 2026-11-20 UTC 续接｜G4/G6 南苏拉威西军政拘押与Moncongloe劳动链（ONGOING）
+
+**已直接打开原始官方调查报告全文（不是搜索摘要）**：印尼国家人权委员会 Komnas HAM，《Ringkasan Eksekutif Hasil Penyelidikan Tim Ad Hoc Pelanggaran HAM Yang Berat Peristiwa 1965–1966》，公开PDF镜像 https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ，正文第141—155页，尤其PDF提取行6123—6270、6610—6647。此为**2012年前后官方事后调查总结**，包含证人证言与调查归纳，**并非1965年军令原件、监狱名册或2009年原始询问笔录**。调查组2008-06至2012-04询问349名证人/受害者（报告第1页），不是南苏拉威西地区人数。
+
+**G4 南苏拉威西**：报告第141—143页称，证人所述Kodim 1408/Makassar等从1965-10-05开始拘捕，延续至1968-09-30；1965-10-18第XIV军区司令Solihin以Pepelrada身份发布 **KEP.024/10/1965/PDD/1965**，涉及暂停PKI及关联群众组织人员职务；报告记至1966-03南苏拉威西约**9,765人被拘捕/关押**。这个数是报告中的地区累计拘押口径，**绝非死亡人数，也不代表完整去重人名登记**。需查该决定影印、发文簿、县级拘捕册与数字来源。报告列出Pangkep、Polewali/Wonomulyo、Pare-Pare、Bone、Jeneponto、Bantaeng等地，不得以Makassar代表全省。
+
+**G6/G5 监禁劳动链**：报告第143—145及154—155页称1970-08至1977-12不同拘押设施的囚犯分批迁往Gowa的**Moncongloe**；首批40人被要求修建营房。证词描述四座男营房、一座女营房、建设军人住房及从Moncongloe至Daya的23公里道路，并为军人私有农地无薪劳动。第154—155页列有具体**BAP 266/267/268/269_BAP_TPPH65/III/2009**编号；这是下一步索取原始证人笔录的定位。必须分别核对营区存在时段、迁入总人数、劳动工程量与强制性；官方总结内的证词不可被当作已独立核定的每一事实。
+
+**G2/G9 人物与组织交叉**：第154页一名证人称1965-08受任Pangkep Pemuda Rakyat县级负责人，约40名成员主要为中学生；另一人称曾被视为Wajo BTI秘书，仅因替上司打字的文件在其桌上而遭指控。这是证人叙述，需原始BAP和当时组织档案核实，不能把指控直接写为实际组织身份。
+
+**与当前Aceh链交叉而不混同**：Jess Melvin 2013公开期刊页面全文可见段落 https://journals.sagepub.com/doi/abs/10.1177/186810341303200304 ，引1965-10-18 Langsa Baperki声明及军方《Chronologis 1966》：148人系声明自报会员数，非死亡人数；1965-10-14 Blang Pidie与Sama Dua的遇害人数属于军方事后报告，需查原件及姓名。这与南苏拉威西官方调查的来源类型、地区、数字定义完全不同，不可相加或互证。
+
+**当前正式归档阻碍**：本次确认正式source-register.csv/search-log.csv/coverage-matrix.csv实际位于research/indonesia-1965/archive/records/，内容可读；claim-ledger.csv及global-gap-tracker.md虽有非空blob SHA，但fetch_file返回空正文，不能安全覆盖；chronology.md未在假定路径定位。故本次不分配S/C/Q/CV，不宣称正式CSV并库或中文HTML更新。G1—G10仍OPEN。
+
+**精确下一步**：①索取Komnas HAM报告所引 **KEP.024/10/1965/PDD/1965**原件；②索取 **BAP 266—269/BAP_TPPH65/III/2009**及Moncongloe转押名册；③核查1966-03“9,765”统计的出具机构、覆盖县与重复计数；④核对Aceh Langsa 1965-10-18 Baperki 148人名单原附件；⑤定位chronology真实路径与完整claim-ledger的安全读取办法，恢复正式台账和中文连续正文同步。不得把调查总结等同于原始现场记录。
