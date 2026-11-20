@@ -739,3 +739,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准未完事项**：1. 获取PP 224/1961官方颁布扫描逐条对照第8—9条，查OCR误差；2. 调取1961-01-05 Sekra 9/1/2联合指示原印本及县级收文；3. 寻找1961—65年两县Panitia Landreform Dati II委员名册、妇女委员、受地名单、地契与异议裁决；4. 对照BTI及Gerwani县/村组织参与土地分配、1965后撤销登记的具体档案；5. 获取Aceh Langsa 1965-10-18 Pernjataan及148人附件和Chronologis 1966原件，核个人身份与命令传递。
 
 **GOAL ACTIVE / OPEN-ENDED；无年代或完成节点终止。**
+
+
+## 2026-11-21｜1961年土地改革官方原文核读（ONGOING / GOAL仍进行）
+
+本次重读项目AGENTS、goal-continuity、stage-access、统一状态、正式source-register/claim-ledger/search-log/coverage-matrix与chronology。正式claim-ledger.csv仍为非空blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但正文接口返回0字节，未覆盖或编造C编号。正式source-register已存在S1519，故仅升级该行来源定位，不新增重复来源；search-log和coverage-matrix本次未增新编号。
+
+**原件突破**：直接打开BPK官方PP 224/1961全文 https://peraturan.bpk.go.id/Download/67646/pp%20no%20224%20tahun%201961.pdf ，核第1—15条及解释；BPK元数据 https://peraturan.bpk.go.id/Details/76714/pp-no-224-tahun-1961 确认1961-09-19签署公布、09-24生效，LN 1961/280。第8条第2款列明独立战争阵亡者的农民遗孀在同一分配优先组内获优先，不能泛化成所有妇女优先；第9条要求居住/耕作条件；第14条的临时耕作许可不等于正式所有权，第15条还要求缴纳土地价款。法令签署者为代理总统J. Leimena。法律文本可直接核，女性实际受地、Gerwani/BTI介入、县委员会性别构成仍未核实。此前二次OCR不是独立旁证。
+
+**本次已写入**：archive/records/chronology.md提交 e96505c4e64329d3f23a9d81d296fb035b1ba6ee；source-register.csv S1519更新提交 02caa948914710dd496eba26bbcad。状态写入前main HEAD已核为 02caa948914710dd496eba26bbe65a8cc26bbcad。本状态文件自身提交SHA无法在自身提交前写入，须以下方提交结果及下一轮HEAD复核为准。
+
+**精准续接**：①查1964年第41号修订条例BPK官方全文，逐条比较第8/9/14条是否变化；②寻找1961—65县级Panitia Landreform Daerah Tingkat II名册、妇女委员、受地决定及土地证，按姓名/村庄核实；③查Gerwani/BTI同期原刊报道与县级土地争议卷宗，区分诉求与实际行动；④回到Aceh 1965-10-18 Langsa Baperki《Pernjataan》148人名单及军方《Chronologis》原影印；⑤恢复claim-ledger完整字节并安全去重，随后补Q/CV/C和成熟中文连续正文。GOAL始终OPEN。
