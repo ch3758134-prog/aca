@@ -446,3 +446,20 @@
 **G1—G10总账式未结状态（全部OPEN）**：G1殖民1926—27起义/1948组织原件缺；G2 SOBSI/BTI/Gerwani及青年文艺组织基层名册与财务缺；G3跨机关1965-09—10逐时命令缺；G4 Aceh、Sumatra、Java、Bali、Flores、Kalimantan、Sulawesi等地方命令和姓名级死亡/拘押簿不均；G5性别/宗教/族群与幸存者访谈原件缺；G6长期拘押/流亡/重组名册缺；G7 1998—2026工会实际执行、政党地方票源与救济数据缺；G8美英澳中苏提议—批准—交付—效果档案链缺；G9人物任职与地点关系索引缺；G10正式claim-ledger读取异常、来源依赖去重及连续中文正文仍未解决。每项须在长期缺口总账中继续维护来源等级、年代、地区、组织、缺件、阻碍与行动；global-gap-tracker原文不可读，不能安全覆盖。
 
 **精确下一动作**：①从SVD Ende索取匿名*Menjaring Angin*约130页、1967八页*Ulasan Peristiwa*及Boumans pp.81–82原文，核1966-02-16/20/27会议与杀戮；②核Jan Djong 1966-02-09与03-01死亡日期冲突，查Sikka拘押/教区死亡簿；③取KOMOP Soemarno/Suherman命令、Sikka DPRD-GR 1966-02-27会议簿和被拘者名单；④取Moncongloe BAP266—269与SPRIN/802/TPD/XII/1977原件；⑤恢复claim-ledger/global-gap-tracker完整字节读取后去重并库，正式时间线与成熟中文历史正文同步。**本次尚未正式CSV/chronology/HTML并库；GOAL仍OPEN。**
+
+
+## 2026-11-20 14:55 CST｜ONGOING / GOAL仍进行｜2026年司法协调机制与行政补救分轨核查
+
+**授权与安全**：已读取AGENTS、goal-continuity、stage-access、统一状态及正式source-register、claim-ledger、search-log、coverage-matrix、chronology；正式claim-ledger blob=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但接口返回0字节，不覆盖、不生成C编号。正式source-register及chronology中未发现下列三个具体URL；这仅是URL级去重，尚不能视为主张级全量去重。本轮不动大型CSV与连续正文，避免伪造登记或不成熟叙事。
+
+**新核读原文A（2026-11-09，印尼政府新闻发布，全文直接打开）**：Badan Komunikasi Pemerintah RI, “Serius Tuntaskan 13 Pelanggaran HAM Berat, Pemerintah Bentuk Tim Khusus Koordinasi Kejaksaan-Komnas HAM”, https://bakom.go.id/serius-tuntaskan-13-pelanggaran-ham-berat-pemerintah-bentuk-tim-khusus-koordinasi-kejaksaan-komnas-ham/ 。协调部长Yusril Ihza Mahendra称Komnas HAM初步调查案卷被总检察院反复退回，存在程序障碍；政府会议同意**拟成立**由副协调部长Otto Hasibuan主持的工作组，研究两机构调查与侦查的衔接方式。报道列1965—66为13项未结案件之一。**证明层级**：政府对会议、拟设工作组与程序问题的公开陈述；不是已核验的工作组成立命令、调查权移交、正式起诉或法院裁判。需查成立令、会议纪要、法定权限及实际个案移交。
+
+**对照B（2026-09-24，ANTARA直接打开当事人访谈报道）**：https://www.antaranews.com/berita/5756952/komnas-ham-dorong-penuntasan-pelanggaran-ham-berat-lewat-pengadilan 。Komnas HAM委员Amiruddin Al Rahab称已完成17起严重侵害事件初步调查，后续侦查起诉由总检察院负责；KontraS代表Jane Rosalina Rumpia讨论法律与程序阻碍。**17起已调查与政府11月称13起未结不是同一分母，不能简单认定矛盾**；须逐案比对司法状态。
+
+**对照C（2026-10-21，ANTARA直接打开部长谈话报道）**：https://www.antaranews.com/berita/5802317/pigai-sebut-hak-7000-korban-pelanggaran-ham-berat-segera-dipulihkan 。人权部长Natalius Pigai称2023年第2号总统指示修订草案已送总统府，待签署及核验后方推进约7000名对象补救；报道回顾2025年约600名已受益说法。**拟修订不等于已签署；7000是跨12类事件对象，不是1965事件单独数字；“未开展补救”与此前600人已受益的措辞须按项目、日期及统计口径核对，不能简单判定全部零执行。**
+
+**跨来源关系**：2023总统承认/第2号指示、2025行政补救统计、2026拟修订与11月司法协调，是不同制度层次。官方报道只证明政府公开宣布的协调意图；Komnas HAM/民间代表谈话提供程序阻碍的独立视角，但不构成司法案卷原件。未找到可证明2026-11-09工作组已依法成立、修订指示已签署或1965案已起诉的原件。不得将计划写成执行。
+
+**下一轮精准未完**：①按“pokja Otto Hasibuan 9 November 2026 surat keputusan Komnas HAM Kejaksaan”查工作组成立令与成员、权限；②取Komnas HAM 17案逐案清单与政府13案逐案清单，做程序状态对照；③查2026-10-21后JDIH Setneg是否正式公布Inpres 2/2023修订及签署日；④索取2025—2026按12类事件分别统计的核验、受益、拒绝与重复记录，单列1965—66；⑤恢复claim-ledger完整内容后对上述URL、事实及已有chronology去重，正式并库并择成熟段落写入中文连续历史。
+
+**本次写入前已知基线**：status blob 2c3da98ea2f56d02f926999d013bf9ab67e86503；本次提交SHA由GitHub写入返回并于提交后单独核验，无法在同一提交文件内自指。GOAL继续ACTIVE / OPEN-ENDED。
