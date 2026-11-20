@@ -637,3 +637,18 @@
 **精准未完事项**：（1）逐页核对判决352/PUU-XXIV/2026主文、程序事实与第16/32条解释，标注准确页码；（2）取得JALA PRT、家政工人组织对2026年第2号法的2025—2026年原始声明、地方案例及其反对意见；（3）核对第2号法与第27号法适用关系、实施细则及至少两地RT/RW报告/社会保险参保记录；（4）解决正式claim-ledger空正文读取问题后，依正式最大C编号去重登记本次命题；（5）交替推进1950—1965 Gerwani/SOBSI/BTI组织基层资料和1965—1968 Aceh军方原件，不以当代法律专题取代核心历史链条。
 
 GOAL保持ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-20 22:53 CST｜跨期双链续查：1955 BTI/Gerwani与1960 Gerwani刊物、2006工会妇女（ONGOING）
+
+本次核读项目AGENTS、goal-continuity、stage-access、正式source-register/search-log/coverage-matrix/chronology；claim-ledger.csv blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a 仍由GitHub内容接口返回空字符串，禁止覆盖或凭空分配C号。正式来源表截至S1515、检索日志截至Q577、覆盖矩阵截至CV648。以原始URL字符串检索来源表，以下三项未找到相同URL，但**尚未正式并库**。
+
+**G2/G5：1955年8月15日《Harian Rakjat》1223号**，直接打开Warung Arsip书目及逐页目录：https://warungarsip.co/produk/kliping/harian-rakjat-15-agustus-1955/ 。第1页目录称BTI第一副总书记Hartojo批评Burhanuddin Harahap内阁无法满足农民要求；第2页目录记Pemalang的Gerwani儿童托管筹备委员会、Pemalang糖厂工人及Medan咖啡店拟罢工消息。**访问等级：馆藏销售页的书目和文章标题/页码，不是四页原报全文**；不能由标题断言委员会已经实际开办托儿所、罢工发生或BTI基层实际行动。下一步获取1955-08-15报纸影像逐篇核读、对应工厂及地方组织资料。
+
+**G2/G5：1960年3月《Api Kartini》第二年第3号**，直接打开Warung Arsip期号目录：https://warungarsip.co/produk/kliping/api-kartini-no-3-th-ii-maret-1960-2/ 。28页期号列有第1页国际妇女节50周年社论、第4页Arudji Kartawinata夫人/Hurustiati Subandrio/Rusijati谈澳大利亚妇女活动邀请、第6页Clara Zetkin、第8页哥本哈根国际妇女会议、第14页婴儿发育、第17页Maasje Siwi S谈假日与学习。目录显示Gerwani刊物将国际妇女网络、教育和家庭照护并列；**只能证明目录编排，未读原刊正文，不能据此判定参与者实际赴会、基层工作规模或编辑部观点一致**。须取得28页影像，并与1954年Gerwani章程和1960年6月号交叉核对。
+
+**G7/G9：ILO 2006年女性工会参与调查**，直接打开ILO出版的Annemarie Reerink《Report on a Survey of Women and Gender Issues in Trade Union Organisations in Indonesia》PDF：https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/---ilo-jakarta/documents/publication/wcms_117189.pdf 。第7页说明调查仅33名各级工会干部（男女），并非全国工会成员随机样本；第19—27页介绍法律与女性组织背景，第29页以后为问卷研究。报告强调妇女会员和领导比例不均衡，法律允许组织成立不能直接推断女性在谈判/领导层享有平等权。**访问等级：ILO正式研究全文已打开，已读前言、方法摘要和目录，详细样本表/访谈尚待逐页核验**。后续需提取参与工会名称、调查地点、性别分组、原始问卷与工会自身报告，对照2000年21号法及2001年16号决定。
+
+本轮不把目录条目或研究者调查意见写成已证实的基层行动。未更新正式CSV/chronology/成熟中文历史正文，原因是原报原刊尚未取得，ILO样本细节尚未核实；这些缺口不能假装已完成。精准续接：(1)获取1955-08-15《Harian Rakjat》四页原刊，核Pemalang托育、BTI Hartojo发言及糖厂工人报道；(2)获取1960-03《Api Kartini》28页扫描，核第4、6、8、14、17页原文及署名；(3)逐页抽取ILO 2006报告第29—65页样本表、组织及受访者观点并比对其他调查；(4)修复claim-ledger空内容读取，重新去重并登记正式S/C/Q/CV及chronology；(5)转查Aceh 1965年Langsa声明附件及军方Chronologis原件，避免长期偏向法律资料。
+
+**本段写入前已知GitHub文件blob**：7dabb567b77bccef478f4c4866f42b5484290d45。GitHub提交自身SHA只能在写入后产生，需在下次续接读取commit/HEAD并补记，不可预造。GOAL永久OPEN。
