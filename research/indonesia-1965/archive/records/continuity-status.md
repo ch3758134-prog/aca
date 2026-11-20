@@ -336,3 +336,16 @@
 **已落档**：chronology.md追加两段时间线及原文链接；第一笔写入提交 `28f4dea6357bc29a3dab2e13138be0b8f1c7d009`。本状态写入前已重新读取main分支版本及文件blob；最终HEAD需在本次状态提交后核验，**状态文件内的SHA仅指上一已确认提交，不可能预知包含自身的提交SHA**。
 
 **精准未完**：(1) 检索UN E/CN.11/307在正式source-register的异名/URL重复，安全登记并以claim-ledger完整可读为前提追加原子主张；(2) 追1947年Malang SOBSI大会章程与28工会会员统计原表，核查联合国1951报告的150万来源；(3) 查1948—1949 IKOS、POB、GASBRI、HISSBI、PSOBSI各派会议及干部名册，辨明分裂时间；(4) 逐人核1977 Amnesty名单与Buru、Plantungan、Bukit Duri等拘押簿、法院判决及释放记录，特别追Sri Ambar/Kartina Kurdi/Satijah；(5) 轮换Aceh 1965军方《Chronologis》原页、东爪哇Pupelrada 0825档案、Gerwani/BTI地方资料及1998后工会登记执行记录。GOAL永久OPEN，G1—G10未宣告关闭。
+
+
+## 2026-11-20 10:54 CST 续接｜SOBSI国际工会网络与政治犯手稿（ONGOING / GOAL仍进行）
+
+**本次核读全文**：Vannessa Hearman, “From Travel to Imprisonment: Remembering Cold War Trade Unionism and the World Federation of Trade Unions (WFTU) in Adam Soepardjan’s Prison Notebooks”, *International Review of Social History* (2024), DOI 10.1017/S0020859024000580，开放PDF：https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5D2B6B5169AABB43099B9D1267190C86/S0020859024000580a.pdf/from-travel-to-imprisonment-remembering-cold-war-trade-unionism-and-the-world-federation-of-trade-unions-wftu-in-adam-soepardjans-prison-notebooks.pdf 。正文第1—3页与注2明确：SOBSI金属工人Adam Soepardjan于1959年以WFTU关联组织代表身份赴东德和捷克斯洛伐克；1975—1976年在狱中制作笔记回忆经历。**可追溯原始手稿**：International Institute of Social History (IISH), Adam Soepardjan Papers, ARCH02469, *Travels Abroad by Bintang Karim*, Books II–III（研究论文注2）。本轮直接阅读的是2024研究论文，不是手稿影像；旅行与回忆的细节须以手稿逐页校验，特别区分1959年当时观察与1975—1976年追忆。
+
+**对照已读原件**：联合国1951年E/CN.11/307 *Economic Survey of Asia and the Far East 1950*（https://www.unescap.org/sites/default/d8files/knowledge-products/Economic%20survey%20of%20Asia%20and%20the%20Far%20East%201950.pdf）所载1946—1949年SOBSI及工会分裂，是较早的机构观察；国际特赦1977-09-23 ASA 21/09/77（https://www.indonesia1965.org/content/uploads/2023/08/ASA-21-09-77-Occupational-list-of-Prisoners-trade-unionists.pdf）列名工会干部及当时拘押地，属于组织搜集的个案报告。三者不同时间、不同资料机制，不能把工会组织规模、个案拘押和个人回忆混作相互独立验证的同一命题。1977文件明确区分SOBSI会员与PKI党员，不应把工会成员身份直接等同于政党成员或1965事件责任。
+
+**档案治理**：已检查正式source-register.csv、search-log.csv、coverage-matrix.csv及chronology.md；正式claim-ledger.csv返回blob SHA `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a`但UTF-8内容为空。2024研究论文的正式S编号及原文去重尚不能安全判定，本轮不虚构S/C编号、不覆盖正式CSV。现有chronology已含1946—1949与1977条目；本轮先在统一续接状态登记新增IISH手稿定位，不重复制造时间线条目。未生成旧式HTML。
+
+**精准未完事项**：（1）在IISH ARCH02469目录查Books II–III手稿的卷页、影像和访问限制，逐页核对1959旅行、1975—1976写作及别名Bintang Karim；（2）追查1959年WFTU、东德FDGB和捷克斯洛伐克工会的会议/邀请/旅费记录，验证代表资格、行程与政治联系；（3）查Adam Soepardjan拘押及释放档案，区分当事人回忆与外部登记；（4）按正式source-register和claim-ledger真实内容完成去重与可读性修复，再安全登记2024论文及原子主张；（5）交替返回1965—1968亚齐军方原令、SOBSI地方工厂委员会、BTI土地执行档案及1998后劳工组织变化，逐段推进成熟中文连续历史正文。
+
+**Git状态**：本轮写入前经GitHub提交检索核对main HEAD `9151d26b917708fdb1f06bf1067980d8c9d60f30`；本条记录的SHA是写入前基线，最终提交SHA须以写入返回值及随后远程HEAD核验为准。GOAL保持ACTIVE / OPEN-ENDED。
