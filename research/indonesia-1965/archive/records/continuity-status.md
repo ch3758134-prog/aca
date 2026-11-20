@@ -505,3 +505,18 @@
 **G1—G10动态缺口总览**：G1殖民时期组织与1948革命原件缺；G2工会基层及企业名册缺；G3 1965跨机关逐时链缺；G4 Aceh、北/南苏门答腊、三爪哇、巴厘、Flores、Kalimantan、Sulawesi各地命令/死亡拘捕簿严重不均；G5女性与族群个体证词缺；G6监禁转押释放及流亡名册缺；G7当代工会/政党地方实施缺；G8英美澳中苏行动提议—批准—交付—效果缺；G9地点—组织—个人索引缺；G10正式台账读取及中文连续正文缺。不能将本次两个报告覆盖全国。
 
 **精确续接**：①核S196第1290号电报原影印与11月1日北苏门答腊600名拘押的报告来源；②寻找PERBUM、Shell/Stanvac炼厂及PURSI分会干部名单与后续拘押/失踪登记；③取Komnas HAM关于Bingin Teluk—Belinyu—Kemarau的原印尼文对应页、2008—2012原始证人BAP及转押登记；④对照南苏门答腊各拘押地点与1975/1977离营名册，严格区分个人证词与总体统计；⑤修复claim-ledger/global-gap-tracker读取，按正式最大ID去重并库，逐章更新中文历史正文。未更新正式CSV/chronology/HTML；长期GOAL保持ACTIVE/OPEN。
+
+
+## 2026-11-20 16:53 CST｜ONGOING / GOAL仍进行｜1997—2000工会法改革的国际监督原件核查
+
+**当次授权与读取**：重读AGENTS、project/goal-continuity、project/stage-access、统一续接及正式source-register/search-log/coverage-matrix/chronology；claim-ledger.csv Git blob为362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，fetch_file仍返回空正文，不能覆盖或猜测C编号。正式资料在archive/records目录。
+
+**本轮直接核读新原件**：国际劳工组织专家委员会《Report III (Part 1A), 2000》，第238—239页，C98印尼部分，官方PDF https://webapps.ilo.org/public/english/standards/relm/ilc/ilc88/pdf/r3-1a-part2c.pdf （PDF文本行1916—1958）。委员会记载1998年8月ILO直接接触团协助印尼政府修订劳工法，引用1999年结社自由委员会第1773号案第316次报告第570—617段；其此前针对1997年第25号劳工法批评招聘及在职反工会歧视保障、雇主干预与集体谈判限制。政府向委员会表示1997年第25号法实施已推迟至2000-10-01、正接受ILO技术协助审查，工会法草案及劳资争议解决草案已提交内阁秘书处。**严格区别**：政府关于延期和提交草案的报告，不能单独证明最终法律生效或实际工会权利改善；2000年第21号工会法的最终文本须另行比对。来源为当时ILO监督机构直接原文，不是检索摘要。
+
+**交叉核对**：ILO NORMLEX 1999年第318次报告第1773号案英文检索结果 https://normlex.ilo.org/dyn/nrmlx_en/f?p=NORMLEXPUB:50002:0::NO::P50002_COMPLAINT_TEXT_ID:2903024 ，本次直接打开遇redirect loop，故仅可作检索索引；1999年第68号总统决定BPK官方元数据 https://peraturan.bpk.go.id/Details/58415/keppres-no-68-tahun-1999 已打开，证实1999-07-02签署/生效，与7月5日Dita Sari出狱相区别；该法令已正式登记S469/S487，不能重号。2000年ILO监督报告提供独立于1999个案审查的制度层面监督意见，但引用第1773案处存在来源依赖，不能将其视为独立重验全部案情。
+
+**正式登记边界**：本轮暂不更新正式四CSV、chronology或成熟中文正文：claim-ledger不可读，无法完成原子主张全量去重；先将新增原件定位和待并库事实留在统一状态，不虚报正式S/C/Q编号。此为待并库，不是已完成归档。此前状态多次出现相同主题，需先比对原文段落与已登记来源后再正式并库。
+
+**精准未完**：①对照ILO 2000专家报告第238—239页与正式source-register、chronology相关既有条目，决定是否确为新S及独立C；②取1997年第25号劳工法原文、延期施行的印尼法令和2000年第21号法最终文本，核2000-10-01究竟为当时计划还是实施日期；③查1998年8月ILO直接接触团任务报告和1999年第1773案第316次报告原文，核立法建议如何转入草案；④寻找2000—2002两县市实际工会登记、雇主报复与集体谈判记录，区别规范与执行；⑤轮换1965亚齐军方《Chronologis 1966》、SOBSI/BTI/Gerwani基层与1970年代拘押名册。GOAL仍ACTIVE / OPEN-ENDED。
+
+**写入前基线**：continuity-status blob c4136a5453a8ac3c69717688864ffd0d894b2493；最新提交SHA由本次写入结果返回，后续必须再核远程main HEAD。
