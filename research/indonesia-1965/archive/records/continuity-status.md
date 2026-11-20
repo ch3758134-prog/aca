@@ -652,3 +652,14 @@ GOAL保持ACTIVE / OPEN-ENDED。
 本轮不把目录条目或研究者调查意见写成已证实的基层行动。未更新正式CSV/chronology/成熟中文历史正文，原因是原报原刊尚未取得，ILO样本细节尚未核实；这些缺口不能假装已完成。精准续接：(1)获取1955-08-15《Harian Rakjat》四页原刊，核Pemalang托育、BTI Hartojo发言及糖厂工人报道；(2)获取1960-03《Api Kartini》28页扫描，核第4、6、8、14、17页原文及署名；(3)逐页抽取ILO 2006报告第29—65页样本表、组织及受访者观点并比对其他调查；(4)修复claim-ledger空内容读取，重新去重并登记正式S/C/Q/CV及chronology；(5)转查Aceh 1965年Langsa声明附件及军方Chronologis原件，避免长期偏向法律资料。
 
 **本段写入前已知GitHub文件blob**：7dabb567b77bccef478f4c4866f42b5484290d45。GitHub提交自身SHA只能在写入后产生，需在下次续接读取commit/HEAD并补记，不可预造。GOAL永久OPEN。
+
+
+## 2026-11-20 23:46 CST｜ONGOING / GOAL仍进行｜Gerwani基层组织章程原文
+
+本次重读AGENTS、stage-access、goal-continuity、正式四张CSV、chronology和续接状态。正式claim-ledger.csv blob仍为362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，接口返回零长度正文；禁止覆盖或虚构C号。直接打开1958年《Buku Peringatan 30 Tahun Kesatuan Pergerakan Wanita Indonesia》所载《Peraturan Dasar GERWANI》印刷页312—313的印尼语校对转录，链接：https://id.wikisource.org/wiki/Halaman:Buku_peringatan_30_tahun_kesatuan_pergerakan_wanita_Indonesia.pdf/328 及 /329；索引https://id.wikisource.org/wiki/Indeks:Buku_peringatan_30_tahun_kesatuan_pergerakan_wanita_Indonesia.pdf 标记1958年且警示PDF源文件有缺陷。章程第1条自称非政党妇女教育/斗争组织；第3条规定自愿入会及不分政治宗教民族；第4—5条规定选举、批评、会费、会议和课程；第9—10条规定领导选举与问责；第11—13条规定公开声明权限、组织工作部门和全国—省—县市—区—村ranting层级。**这些只能证明规范性组织结构，不能证明地方实际会费、干部选举或PKI关系的真实运作。**
+
+交叉核对已正式登记S462：Sulami于1959年Women of the Whole World第3期自述Gerwis 1950年成立、1954年改名Gerwani及基层工作；该回顾有组织立场，不能作为章程执行的独立审计。1954年第二届大会72页文件的Alexander Street书目可见但打开403；1961年Gerwani章程网页访问失败，均不冒称全文已读。Aceh 1965年Langsa Baperki原声明、军方Chronologis及1955年报刊仍待取得原件。
+
+正式写入S1516、Q578及chronology 1958组织章程节点；未修改claim-ledger、coverage-matrix及成熟中文正文（需先核章程形成日期及实际基层执行）。本轮已知提交：source-register 6723e7e93d0324f0f7575e687e55324919019c1a；search-log 66f97c83c8a1a25605df1c051e47e3df0e4f45d8；chronology 0e0ac37fde3638262831893895f44b40cf3d9ab9（本状态提交前最新已知SHA）。本状态提交自身SHA须由GitHub结果及下次HEAD读取确认，无法预写自身。
+
+精准未完事项：（1）取1958年汇编印刷312—320页原始扫描，核对Wikisource校对转录与章程成文/修订日期；（2）取1954年3月25—31日Gerwis第二届大会72页报告及1961年第四届大会章程，比较组织结构与政治关系；（3）取至少两地Gerwani ranting会费簿、干部选举和托育课程记录，核规范与实践差异；（4）修复claim-ledger大文件读取并去重补C主张，复查coverage-matrix G2/G5条目；（5）回到1965年Aceh Langsa《Pernjataan》148人附件与《Chronologis 1966》原件，核军政命令、名单和个人遭遇。GOAL始终ACTIVE / OPEN-ENDED。
