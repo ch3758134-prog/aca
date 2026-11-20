@@ -561,3 +561,10 @@
 **滚动缺口总账条目（不可替代不可读的正式总账）：** G4/G5/G9｜1967西加里曼丹｜来源S383学术全文/1967省档未读｜缺p.82及地方人口、军方与难民记录｜行动核原件分母、边境志愿者与平民分类｜阻碍原件未公开。G7｜2024—2026全国劳工｜来源官方法院新闻全文/裁判原文未读｜缺167、168裁判与2026-10-31后立法进度｜行动调原件并核工会实际执行｜阻碍立法进度尚未验证。G10｜全项目｜正式claim-ledger/global-gap-tracker内容接口空、chronology路径未定位｜行动Git tree/分段替代读取并去重｜阻碍不可安全覆盖。
 
 **下一次精确续接：** ①定位1967《Pengungsian ...》p.82与全表，核99/739统计对象；②查1967年10—11月Pontianak/Sambas迁徙原件与Senakin/Darit/Sebadu逐村名册；③下载MK 167/PUU-XXIV/2026及168/PUU-XXI/2023判决原文，对照加班、解雇及立法期限；④核2026-10-31以后DPR独立劳动法进展与工会组织反馈；⑤解决正式CSV空正文和chronology路径后再正式并库、按时间排序并完善中文连续历史。GOAL未完成。
+
+
+## 2026-11-20 18:53 CST｜ONGOING / GOAL仍进行｜工会登记规范复核
+
+重读AGENTS、stage-access、goal-continuity、续接、正式四CSV与chronology。直接打开工会法21/2000官方PDF https://www.peraturan.go.id/files/uu21-2000.pdf 第4—11条，以及KEP.16/MEN/2001双语原件 https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/71238/idn71238.pdf 第2—3条。法律规定工会集体协议与争议参与、10人建会、自由组织及章程；部长决定规定县市通知、创始人/负责人名单、登记簿及发号或暂缓。规范不等于地方实际执行。既有chronology和状态已记录法源，未重复分配S/C；claim-ledger blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a 读取正文仍空，不覆盖正式CSV。本轮chronology和中文历史正文未改。
+
+精准未完：①正式来源URL/法令号去重并恢复claim-ledger；②核法21/2000第18、20—25、28、43条与KEP.16第3—4、10—12条；③查2000—2002雅加达/东爪哇县市工会登记簿、暂缓通知及SBSI/PPBI个案；④取得Aceh《Chronologis 1966》及西加里曼丹《Pengungsian orang2 Tjina》原件；⑤轮换SOBSI/BTI/Gerwani、政治犯及当代劳工组织，成熟后并入连续中文历史正文。写入前blob 51f356d79b64280bedc1c4042852ce239a200e46；提交SHA须回读。GOAL ACTIVE / OPEN-ENDED。
