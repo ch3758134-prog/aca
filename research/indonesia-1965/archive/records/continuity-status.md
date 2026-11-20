@@ -592,3 +592,10 @@
 **中爪哇 Klaten（G4对照）**：直接打开Mathias Hammer, “The Organisation of the Killings and the Interaction between State and Society in Central Java, 1965”, 同刊32(3), 2013开放全文 https://journals.sagepub.com/doi/10.1177/186810341303200303 。作者称2010年访谈47人，另用ISSI在2000—2001年完成的7份Klaten口述记录；讨论拘押设施与甄别小组依赖当地社会关系提供名单的机制。这是研究者基于访谈提出的机制解释，不能直接套用到西爪哇Cirebon，也不能把其摘要的约10万人当作逐人核实的中爪哇死亡总数。待核ISSI七份原始访谈与地方调查小组名册。
 
 **长期缺口总账待同步**：G1前史、G2基层工农妇女组织、G3跨机关时序、G4全国分省、G5性别族群职业、G6监禁流亡、G7当代劳动、G8外部干预、G9地点人物、G10台账与HTML均OPEN；本次优先推进G3/G4/G5/G9，下一续接轮换G1/G2/G6/G7/G8。源级别：Ross/Hammer/Djakababa开放论文正文；私人卡片、1965中央命令原件、ISSI访谈原件尚缺。阻碍：claim-ledger/global-gap-tracker空正文、未取得地方原件。正式CSV、时间线与中文正文尚未并库，不虚称完成。下一步先核卡片影印及地方文化部门档案，再核KOTI无线电令原件与地方转发，恢复台账安全写入并补连续中文正文。
+
+
+## 2026-11-20 20:47 CST｜G7 劳工法从2024宪法裁决到2026正式颁布｜ONGOING / GOAL仍进行
+
+本轮已读 AGENTS、goal-continuity、stage-access、统一状态及正式四表与 chronology。核对正式 source-register 最大实际编号 S1512，确认 JDIH BPK 法令 URL 未登记。**新增 S1513**：印尼官方法令数据库 UU No.27/2026（2026-10-28制定、公布并生效），直接核读官方元数据、摘要及废止关系；PDF预览页打开但未取得176页可核读正文，不能声称已逐条读法。2026-10-06国会通过、10-28正式公布生效、11-09劳工部长公告分别有 ANTARA 报道与官方登记相互核对。官方登记 https://peraturan.bpk.go.id/Details/359755/uu-no-27-tahun-2026-pelindungan-ketenagakerjaan ；报道 https://en.antaranews.com/amp/news/441251/indonesia-publishes-employment-protection-law-for-public-reference 。已将过程与限制补入 chronology。正式 claim-ledger 非空blob仍读出空字符串，不覆盖或分配 C 编号；search-log、coverage-matrix和中文连续正文尚待安全并库。不能把新法生效视作实施成效。
+
+精准未完：（1）取得并逐页核读 UU27/2026 官方176页PDF，核对过渡条款、313条及实施细则一年期限；（2）追索2026-10-06 DPR会议正式纪要及不同工会/雇主组织提交的修法意见；（3）检索2026-10-28至今各省劳动监察、工会申诉与雇主执行的原始记录；（4）排查 claim-ledger 空正文原因并在安全读取后分配C编号，更新search-log/coverage-matrix和成熟中文正文；（5）下一链轮换Aceh 1965 Kodim-0104与Langsa Baperki声明原件，SOBSI/BTI/Gerwani基层档案及1970年代拘押档案。GOAL永久OPEN。**本轮写入前最近已知提交基线**：90b8e80ca03203d167b3912dcbb8598461ca1cb3（须以本轮实际提交SHA及最终main HEAD复核）。
