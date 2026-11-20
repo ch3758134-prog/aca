@@ -463,3 +463,16 @@
 **下一轮精准未完**：①按“pokja Otto Hasibuan 9 November 2026 surat keputusan Komnas HAM Kejaksaan”查工作组成立令与成员、权限；②取Komnas HAM 17案逐案清单与政府13案逐案清单，做程序状态对照；③查2026-10-21后JDIH Setneg是否正式公布Inpres 2/2023修订及签署日；④索取2025—2026按12类事件分别统计的核验、受益、拒绝与重复记录，单列1965—66；⑤恢复claim-ledger完整内容后对上述URL、事实及已有chronology去重，正式并库并择成熟段落写入中文连续历史。
 
 **本次写入前已知基线**：status blob 2c3da98ea2f56d02f926999d013bf9ab67e86503；本次提交SHA由GitHub写入返回并于提交后单独核验，无法在同一提交文件内自指。GOAL继续ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-20 续接｜2026-11-09司法工作组的机构参与争议（GOAL OPEN）
+
+**新增重要反证（印尼文，直接打开报道全文）**：印尼政府传播机构2026-11-09新闻 https://bakom.go.id/serius-tuntaskan-13-pelanggaran-ham-berat-pemerintah-bentuk-tim-khusus-koordinasi-kejaksaan-komnas-ham/ 引述Yusril Ihza Mahendra称协调会议同意由Otto Hasibuan领导工作组，探索Komnas HAM初步调查与总检察院侦查的衔接；但同日晚20:03，Komnas HAM委员Amiruddin通过公开书面声明（detikNews直接全文转述：https://news.detik.com/berita/d-8745573/amiruddin-komnas-ham-tak-terlibat-dalam-tim-13-kasus-ham-berat-yang-dibentuk-yusril ）明确否认Komnas HAM参与该工作组的成立，称全体会议未讨论，且以法定独立机关身份拒绝参加行政部门领导的工作组。他主张13案初查卷宗已移送检察总长，后续侦查属于检方职责。**证据层级**：政府新闻稿可证明政府当日公开计划及其陈述；媒体直接转述的委员声明可证明该委员的公开异议，尚非委员会正式会议纪要或书面决定原件。不可再不加限定地写“Komnas HAM已加入工作组”，更不能将工作组宣布等同于正式成立、跨机构共同办案或司法突破。需查2026-11-09之后是否有正式设立令、成员名册及机构正式回复。
+
+**跨年代回查（1999）**：直接打开BPK法律数据库 https://peraturan.bpk.go.id/Details/58415/keppres-no-68-tahun-1999 ，确认Keppres 68/1999于1999-07-02签署、生效，主题是给予Dita Indah Sari特赦；正式来源已存在S469（两页原文）、S487（BPK元数据），S489/S944（1999-07-05国际特赦组织同时代声明），故本次不重号。另打开第三方印尼法令转录 https://www.klaussa.com/peraturan/keppres-no-68-tahun-1999-memberikan-amnesti-kepada-dita-indah-sari ，第1—3项显示给予特赦、消除刑事法律后果、司法部长及总检察长执行；转录含OCR排版错误，不能替代已登记S469原件。法令日期与7月5日获释日期必须分开。此轮新增价值是与2026年“行政宣布与实际司法执行分离”作制度比较，而非把两个事件当作相同机制。
+
+**正式台账核查**：本轮直接读取source-register.csv（963568字符）、search-log.csv（390110字符）、coverage-matrix.csv（376389字符）、chronology.md；claim-ledger.csv返回非空blob `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a` 但空正文。已查2026-11-09 Amiruddin报道URL未见于source-register；BPK Keppres URL已登记S487。为防正式编号冲突，本轮不重写四表、不编造C编号。2026争议仍待正式登记及时间线并库。
+
+**精确未完**：（1）取得2026-11-09工作组设立令、成员名单、第一次会议纪要，核Komnas HAM是否实际列席；（2）取得Komnas HAM 2026-11-09全体会议记录/正式声明及Amiruddin原始书面文本，区别个人委员和机构正式决定；（3）逐案比对13案/17案统计、移送检察院日期及退卷文书，优先1965—1966；（4）核1999 Keppres 68的S469原件与Dita Sari 7月5日监狱释放记录；（5）下一轮轮换亚齐军方《Chronologis 1966》原页、Gerwani 1954章程原页、SOBSI/BTI地方组织和1970年代政治犯原始名册。
+
+**本次写入前GitHub main HEAD**：`b92996fa859146bf25ae6a43ddc6eea543ec6309`。最新提交SHA以本次写入返回值及后续HEAD核验为准；提交不能在同一提交的正文中自我引用。
