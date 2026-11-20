@@ -750,3 +750,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **本次已写入**：archive/records/chronology.md提交 e96505c4e64329d3f23a9d81d296fb035b1ba6ee；source-register.csv S1519更新提交 02caa948914710dd496eba26bbcad。状态写入前main HEAD已核为 02caa948914710dd496eba26bbe65a8cc26bbcad。本状态文件自身提交SHA无法在自身提交前写入，须以下方提交结果及下一轮HEAD复核为准。
 
 **精准续接**：①查1964年第41号修订条例BPK官方全文，逐条比较第8/9/14条是否变化；②寻找1961—65县级Panitia Landreform Daerah Tingkat II名册、妇女委员、受地决定及土地证，按姓名/村庄核实；③查Gerwani/BTI同期原刊报道与县级土地争议卷宗，区分诉求与实际行动；④回到Aceh 1965-10-18 Langsa Baperki《Pernjataan》148人名单及军方《Chronologis》原影印；⑤恢复claim-ledger完整字节并安全去重，随后补Q/CV/C和成熟中文连续正文。GOAL始终OPEN。
+
+
+## 2026-11-21 06:47 CST｜PP 41/1964官方原件与BTI/Gerwani土地链（ONGOING / GOAL仍进行）
+
+本次完整读取AGENTS、stage-access、goal-continuity、统一续接状态及archive/records下四张正式CSV和chronology。正式claim-ledger.csv Git blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，内容接口返回零字符；禁止覆盖、不得虚构C编号。写入前main HEAD 7794a5aa3af8571e889c863ef4b3140fa449870b。
+
+**直接核读原件**：BPK官方PP 41/1964五页PDF（https://peraturan.bpk.go.id/Download/62536/pp%20no%20041%20tahun%201964.pdf），第1—3页法条与第3—5页解释；BPK官方法令登记 https://peraturan.bpk.go.id/Details/72068/pp-no-41-tahun-1964 ，确认1964-11-23签署/公布/生效，Sukarno签署。第I条增设PP224/1961第3a—3e条：已报告迁离土地所在kecamatan满两年后一年内转让；未报告迁离者两年内转让；退休公务员/军人及继承者原则一年内迁居或转让，可申请部长延长；禁止新增异地农业土地权；违者援引原第3条第5—6款。第II条将landreform债券利息3%升至5%，受地者行政费用10%降至6%。说明称旧规执行有不足，这是国家机关的立法理由而非地方实际统计。与S1519 1961原条例交叉核对；另读White/Graham/Savitri开放研究 https://onlinelibrary.wiley.com/doi/full/10.1111/joac.12506 ，将BTI/Gerwani要求和国家法规分开。官方原件已读，地方名册未得；不能宣称受地妇女、特定村庄土地转移或行动后果已证实。
+
+**本轮登记**：S1520、Q582、CV652、chronology新增1964-11-23节点；claim-ledger保持原状。检索了PP41的印尼语/英语和BTI/Gerwani关系，交叉核对BPK原件、OCR转录和学术研究。尚未建立新的中文连续阅读章节，原因是地方执行链仍缺档案；不建旧式列表HTML。
+
+**精准续接**：（1）定位1964 PP41第III条下土地部长实施细则及县级Panitia Landreform Daerah Tingkat II会议记录；（2）取1961—65县级受地决定、女性委员名单、土地证和地税簿，按人名/村名交叉核对；（3）追BTI在Kulonprogo、Kediri等地具体农会组织、互助队、aksi sepihak与反证；（4）取Aceh 1965-10-08宣言、10-11 Meulaboh会议原件及10-18 Langsa Baperki 148人名单附页；（5）轮换1998后劳工组织及1965-1979拘押档案，继续推进成熟中文历史正文。当前GOAL ACTIVE / OPEN-ENDED，绝不视本次提交为完成。写入后提交SHA以GitHub提交结果及main HEAD回读为准，不能在同一提交中预写自身SHA。
