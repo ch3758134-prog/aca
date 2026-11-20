@@ -60,3 +60,16 @@
 **Bali/全国外交统计，1965-12至1966-04：S401及既有FRUS来源，A（外交机关当时文书的公开档案说明）/B（编辑说明）**。美国国家安全档案馆 https://nsarchive.gwu.edu/document/15720-document-24-airgram-408-joint-weeka-no-48 明确定位1965-12-21使馆A-408，档案RG84 Entry P339 Box10 Folder12，馆方说明当时报告全国至少100,000、巴厘至少10,000人死亡。FRUS编辑说明 https://history.state.gov/historicaldocuments/frus1964-68v26/d162 则记1966-02-25 A-527对巴厘估计80,000，并记1966-04-15 A-641承认全国估算在100,000与1,000,000间极不确定。**不能把不同时间/来源口径相加，也不能将使馆估算等同地方死亡名册**；1965-12的10,000与1966-02的80,000是报告时间不同的估算，不自动证明逐月精确增加70,000。A-408 OCR可访问但质量差，待逐页影印核实数字、地理定义及信息来源；A-527、A-641原始电报待取。地方验证须结合巴厘县村埋葬记录、军区部署时间、PNI/PKI组织及幸存者口述，不能将宗教/家族冲突的使馆解释视为事实。
 
 **跨项继续**：G1殖民组织与流放、G2 SOBSI/BTI/Gerwani基层账册、G3总统/军区命令、G6拘押流亡、G7当代工会与幸存者、G8英美澳中苏、G9人物地点组织关联、G10正式CSV与连续中文历史仍OPEN。此次未覆盖零正文的claim-ledger.csv，未新增C/S编号；上述均沿用S456/S401。下一执行首先读取本总账与G1—G10审计，再优先取得Sikka DPRD-GR 1966-02-27会议原件及巴厘A-527全文，同时切换不同地区/年代高价值缺口。
+
+
+## 2026-11-20｜G4/G6/G9 南苏拉威西拘押与 G2/G5 地方组织遭袭（ONGOING）
+
+**本次复核来源与层级**：直接打开印尼国家人权委员会Komnas HAM《1965—1966严重人权侵害调查结果声明》公开PDF（调查机构正式总结，A：委员会报告本身；不是证人原始笔录），https://www.stopimpunity.org/content/stopimpunity/eksekutif_summary_peristiwa_1965_4.pdf 。第II节列出Maumere、Denpasar Pekambingan、南苏门答腊Kemarau、南苏拉威西Moncongloe、Buru及北苏门答腊Medan Jalan Gandhi等调查地点。委员会称2008-06至2012-04共访谈349名证人/受害者；349是调查取证样本数，绝非死亡人数。Maumere Wairita至少15名被害者、Flores Timur事件约84名被押至现场者、Gelinting证人估计约500死者，**分别是不同地点/不同性质的证词数字，不能相加，84也不能未经原证词核定即视为死亡人数**。委员会的法律判断与个别证词须分开记录；缺件为349份原始证词、地点照片、死亡登记、执行机关文书。此项与前一续查S456 Flores回忆录形成交叉检查，但不能当作对全部数字的独立确认。
+
+**南苏拉威西（1965—1979）**：直接打开Taufik Ahmad 2010年《Survival through slavery》全文 https://www.insideindonesia.org/editions/edition-998/survival-through-slavery （B：研究者访谈/叙事，非营地原始登记）。文中称1965-10-05 Makassar医生Soenarso诊所遭袭，Bone、Wajo、Luwu、Bantaeng等地PKI、SOBSI、BTI及青年组织成员和被指控者遇害；1966年3月省内各拘押点有9,765人，**省级同时在押数不等于Moncongloe营内数、累计逮捕数或死亡数**。作者称1969年底Moncongloe收容859男、52女，共911人，其中846人居营，其余被派往军人住处劳动；数字属于同一作者描述，未由营册独立核验。文章称囚犯开垦土地、修Daya—Moncongloe道路，1978年前多数释放、42人转往Nanga-Nanga。具体可追人物Soenarso、Andi Mappa、Igo Garnida Heri Erianto、Anwar Abbas及兽医Untung；须核身份、职务、事件日期，避免仅凭同名建立关系。
+
+**新取件入口**：直接打开Hasanuddin大学2024年Hendrawan Rahmat Wijaya学位论文馆藏 https://repository.unhas.ac.id/id/eprint/49383/ （C：目录和摘要已读，章节PDF可下载但本次未读；全文链接标注限馆员访问）。作者声称结合政府档案和幸存者访谈研究1969—1977 Moncongloe劳动及隐性抵抗。需进一步打开第1—2章PDF，逐条检查注释所列原始档案/受访者访谈日期，申请全文及口述授权。**不可将馆藏摘要作为独立证明具体营地人数或劳动条件**。
+
+**跨项核验与缺口**：G2/G5追Bone的SOBSI地方负责人、Wajo/Sidrap BTI农民及Makassar被袭诊所，分别查工会干部名册、糖厂Arasoe雇员名册、地方报刊和Kodim档；G4查Bone/Watampone及Bantaeng受害者名册；G6查1969年911人入营、1977年12月20日释放与1978/1979转押批次是否同一统计口径，特别索取SPRIN/802/TPD/XII/1977原件和Moncongloe—Nanga-Nanga转押册；G9对人物/工厂/营地建立稳定地名映射。Komnas HAM摘要另提到Moncongloe证人B的1977-12-20释放令将全面拘押改为居家拘押，**释放并非自动恢复自由**。所有未读原始证词、命令、营册保持D级。
+
+**G1—G10均OPEN**；其余G1殖民组织、G3跨机关命令、G7现代工会、G8外部介入、G10 CSV/中文连续正文仍按上表保留。正式claim-ledger.csv读取仍为空文本（Git blob非空），不覆盖、不造C编号。本次不声称正式CSV、统一时间线或中文正文已同步。下次直接核2024论文公开章节、1977释放命令、1965 Bone/Arasoe糖厂地方记录，随后切换另一地区或G1/G7/G8高价值原件。
