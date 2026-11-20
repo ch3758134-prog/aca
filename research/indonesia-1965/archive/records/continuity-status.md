@@ -373,3 +373,16 @@
 **精准未完**：（1）下载核读Inpres No.2/2023完整印尼文原令与附件、19机构职责及预算；（2）核PPHAM 2022完整报告及Komnas HAM 1965调查结论，区分国家承认的事件分类与调查具体事实；（3）索取2023—2026各地受益人分案名册、资金拨付及独立评估，尤其1965幸存者与1999年KKA案件不得混算；（4）检索2023—2026受害者团体及司法追诉进度，对照政府所称实施成果；（5）安全读取claim-ledger原始内容并完整去重，随后将本次三份官方文本正式并入四CSV、chronology关联ID、成熟中文历史正文，轮换1965地方军政与SOBSI/BTI基层档案。
 
 **HEAD交接**：本段写入前已确认chronology提交 `f190c961140d209e836ff6cb1c10d92d0cbd3918`，该SHA是已完成的前一提交；本状态文件自身提交最终SHA只能在提交后远程回读，下一次应以GitHub main当前HEAD为准。GOAL永久OPEN。
+
+
+## 2026-11-20 03:50 UTC｜跨项续核：Aceh军政接管与G10来源独立性（ONGOING）
+
+本次重新读取G1—G10完整性审计、AGENTS、stage-access、goal-continuity、chronology及四正式CSV路径；research-status.md在archive/records下404。claim-ledger.csv与global-gap-tracker.md依然出现非空blob SHA但UTF-8返回空正文，禁止覆盖；source-register/search-log/coverage-matrix/chronology可正常读取。未擅自分配S/C/Q/CV编号，正式并库未完成。
+
+**G3/G4/G5 Aceh 1965-10，研究全文可见、原始档案经学术论文转引**：直接核读Jess Melvin, “Mechanics of Mass Murder: A Case for Understanding the Indonesian Killings as Genocide”, Journal of Genocide Research 19(4) (2017), 487–511的公开可见正文（https://www.academia.edu/125417223/Mechanics_of_Mass_Murder_A_Case_for_Understanding_the_Indonesian_Killings_as_Genocide；期刊PDF https://www.tandfonline.com/doi/pdf/10.1080/14623528.2017.1393942）。其脚注43定位1965-10-04 Banda Aceh《Pernjataan Pantja Tunggal Daerah Istimewa Atjeh》p.1；脚注44定位同日《Pengumuman: Peng. No. Istimewa P.T.》。前者记载地方Pantja Tunggal决议清除所谓九三〇运动及其支持者；后者要求民众协助。这是对**命令文本存在及作者引述内容**的核验，不是已直接打开原始军方文件，更不能推定所有民众自愿参与。论文进一步引用1965-10-11西亚齐DPRD II《Declaration No.4》，要求社会协助军方；作者同时援引2009年Ibrahim Kadir访谈（Takengon）与2011年T.M. Yatim访谈（Meulaboh），描述Djuarsa在地方公开会议的杀戮动员。口述为事后证词，不能与1965年原始命令计为两份独立同期文书。此链与上次发现的1965-10-29追溯生效冻结命令相连，待按签发日、公开日、送达日、实施日建立严格时间表。**缺件**：Pantja Tunggal两份10月4日原件影印、10月11日西亚齐会议记录/Declaration No.4、10月29日决定的签发簿与送达凭证、地方拘押/杀害名册。**阻碍**：原件目前只见学术转引。
+
+**G10 跨项实质核验（来源独立性与覆盖治理）**：直接核对Melvin 2018年Routledge专著出版商目录（https://www.routledge.com/the-Army-and-the-Indonesian-Genocide-Mechanics-of-Mass-Murder/Melvin/p/book/9781138574694）与其2017论文：二者都以同一批Banda Aceh原情报档案为核心，**不能当成两条独立原始证据**。出版商仅提供目录与介绍，不能将其称作专著全文。专著章节明确覆盖10月1—6日军方命令、10月1—11日Djuarsa巡视、10月14日后杀戮、1966年排华和1967年前公务员清洗；这是定位范围，不是对各章节全部事实的直接核验。另查2013年Melvin《Why Not Genocide? Anti-Chinese Violence in Aceh, 1965–1966》期刊可见正文（https://journals.sagepub.com/doi/abs/10.1177/186810341303200304）：10月29日命令声称10月20日追溯生效，10月25日前报到；这三个日期的逆序须作为文书内部异常保留，不推定真实送达日期。该文记述1966年5月8日至8月17日至少一万名华裔被迫转移，这是作者据资料所作数量判断，缺人口/船运/安置名册，不能视为独立核定统计。与G4地方暴力和G9地名人物索引直接关联。
+
+**G1/G2/G6滚动链继续开放**：Adam Soepardjan的IISG ARCH02469二、三册手稿、1959年SOBSI国际活动与1957年Braat/Barata企业接管文件仍是下一实物取件链；本次未取得新原件，不虚称核验。另G7 1998—2001工会法制及基层执行保持OPEN，不以法律文本替代工厂证据。G8外部行动与G9人物地理索引持续OPEN。
+
+**精确续接**：①索取Banda Aceh 1965-10-04两份Pantja Tunggal原件与10-11西亚齐Declaration No.4；②比对10-29决定签发/送达簿和10-25期限，核实倒置；③在Melvin档案脚注中定位1966年5—8月转移登记、港口或安置统计；④获取IISG ARCH02469手稿扫描并与1959年工会会议名册交叉；⑤恢复claim-ledger及global-gap-tracker的完整内容读取后去重并库，更新chronology和可读中文正文。G1—G10均OPEN；未声称本次完成正式CSV/HTML同步。
