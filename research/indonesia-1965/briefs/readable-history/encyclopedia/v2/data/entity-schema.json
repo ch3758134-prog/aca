@@ -1,0 +1,48 @@
+{
+  "schema_version": "2.0",
+  "governance": {
+    "source_repository": "ch3758134-prog/aca",
+    "original_assets_immutable": true,
+    "canonical_kind": "one historical entity per official biography/event/organization/region page",
+    "research_records_separate": true,
+    "confidence": [
+      "verified_primary",
+      "corroborated_secondary",
+      "single_source",
+      "conflicting",
+      "lead_only"
+    ],
+    "publication_status": [
+      "imported",
+      "editing",
+      "source_review",
+      "published"
+    ],
+    "mandatory_fields": [
+      "id",
+      "kind",
+      "name",
+      "title",
+      "aliases",
+      "path",
+      "source_path",
+      "status",
+      "summary",
+      "relationships"
+    ],
+    "claims_provenance_rule": "Every major contested claim must reference S/C original evidence or a directly linked, qualified historical source; numeric estimates specify definition, location, and date.",
+    "relationship_rule": "Only assert explicit typed relationships (participated_in, led, member_of, located_in, precedes, part_of, cites), not keyword matches."
+  },
+  "types": {
+    "people": "person",
+    "events": "event",
+    "organizations": "organization",
+    "regions": "region",
+    "study": "research-only",
+    "source": "source-only"
+  },
+  "known_limitations": [
+    "Imported legacy articles remain distinguishable from editorially reviewed articles.",
+    "Historical completeness and archival verification are not implied by a finished website."
+  ]
+}
