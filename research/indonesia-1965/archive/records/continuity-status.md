@@ -286,3 +286,18 @@
 **G1—G10缺口总账的持续状态**：G1殖民组织原件未补；G2 SOBSI/BTI/Gerwani基层账簿和活动记录未补；G3军政逐时通信未补；G4各省县级命令/受害者名册不均；G5性别族群个案仍缺；G6流亡、拘押与工会替代组织链未贯通；G7法规与基层执行尚缺对照；G8英美澳中苏具体行动链待核；G9人物地名组织关系索引未完；G10正式主张CSV读取障碍、主时间线重排及中文连续HTML未完。各项均OPEN，不能以本次两个证据节点替代全面覆盖。
 
 **下次精确续接**：（1）通过J-STAGE PDF或其他合法镜像核读松村全文引文与脚注，追Oeray宣言；（2）取Witono《Laporan Pangdam XII Tanjungpura》及1967年各县移民登记；（3）取ILO第87号公约1998年批准书交存凭证，核6月5/9/10三日期；（4）检索至少两个县市2000—2002年工会登记及重新登记个案；（5）转向东爪哇/北苏门答腊原始地方军令和Gerwani/SOBSI组织文书。正式CSV、chronology及HTML本次未写入，需在可完整读取并去重后补并库。长期GOAL ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-20 08:55 CST｜ONGOING / GOAL仍进行｜Aceh 组织标签与南苏拉威西拘押劳动链的跨区核验
+
+本次重新读取 AGENTS、goal-continuity、stage-access、统一状态，定位正式四表和 chronology 于 archive/records/。GitHub fetch_file 对大型CSV的按行截取不等于全量：本次读取 source-register/search-log/coverage-matrix 的首行样本和文件blob，未完成全表去重；claim-ledger.csv 仍有非空blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，但接口返回空正文，故不覆盖任何正式CSV、不猜测S/C/Q/CV编号。本轮研究结果先在统一状态保存，正式并库和中文连续正文仍是未完成事项。
+
+**G4/G5/G9 Aceh：新细化的是被攻击对象的组织类型，不能混同为同一政治组织。** 直接打开Jess Melvin 2013期刊开放全文 https://journals.sagepub.com/doi/full/10.1177/186810341303200304 ，核读其引《Chronologis 1966》第3—4页：10月8日Banda Aceh遭袭的对象包括Baperki办公室、Chung Hua Chung Hui办公室、IPETI运动场、Pelangi商店及Baperki领导人住处；10月9日Sigli被毁地点包括Baperki、PKI、Lekra、Pemuda Rakjat、Gerwani办公室及若干商店。**这并不能证明Chung Hua Chung Hui、IPETI、商店业主与PKI具有同一组织隶属关系。** 原始军方纪事尚未直接取得，当前可确认的是Melvin论文的逐段转引。文章另引1965-10-18 Langsa Baperki声明称10月11日Kodim-0104少校Iljas Mahmud会见当地领导人；声明中将所谓苏加诺号召消灭PKI的广播归于总统，Melvin脚注16依据当时讲话记录明确否认曾有该广播。下一步必须找10月3日和14日苏加诺广播原始记录，独立核实，而非仅引用同一作者二次转述。
+
+**G4/G6/G9 南苏拉威西：与Aceh相对照的另一种镇压—拘押—劳动路径。** 直接打开印尼国家人权委员会《1965—1966事件严重人权侵犯调查特别组执行摘要》印尼文PDF全文 https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ，及Taufik Ahmad于2010-01-24发表的《Survival through slavery》全文 https://www.insideindonesia.org/editions/edition-998/survival-through-slavery 。Ahmad明确记述Makassar医生Soenarso在1965-10-05诊所遭袭、Bone地区SOBSI负责人被杀、Watampone监狱约100名爪哇人（多数与Arasoe糖厂有关）遭杀害、Wajo—Sidrap交界BTI农民躲避追捕，以及Makassar Kodim 1408拘押场所；这些具体人物、职业和地点可用于逐人逐地检索，**约100及9,765均是作者叙述的统计，未获得逐人名册，不能直接定为最终数字**。Ahmad还写Moncongloe营地1969年底建成、859男52女、15公里Daya—Moncongloe道路；Komnas HAM报告另记1970年代转运、1977-12-20 SPRIN/802/TPD/XII/1977，前者营地建成和后者囚犯转运可能是不同节点，不能未经档案核对就说两者相互否定。两材料可能共享证人或资料来源，不能自动算独立统计复核。
+
+**证据限制与反证要求**：Melvin文章是研究者引用军方档案及口述，Ahmad是历史研究/访谈叙述，Komnas HAM是国家调查机构摘要；三者地域不同，不能互证具体人名或命令。国家调查报告中证人叙述、调查结论、1965年原军令与后续历史解释要分别标注。原始军方纪事、苏加诺广播文本、1965南苏拉威西KEP.024/10/1965/PDD/1965、1977 SPRIN/802及拘押名册均未直接取得。
+
+**下一轮直接执行的精准事项**：1. 取得Aceh《Chronologis 1966》第3—9页影印和10月8—14日逐地原始记载，核对Baperki、Chung Hua Chung Hui、IPETI及Gerwani被袭对象身份；2. 查1965-10-03与10-14苏加诺广播/讲话原始逐字稿，核所谓灭绝号召之伪；3. 查Bone SOBSI负责人、Watampone Arasoe糖厂工人、Wajo—Sidrap BTI成员的地方名册及死亡/失踪登记；4. 取Moncongloe营地1969—1971建设/转运账、1977 SPRIN/802原件及BAP 266—269，核人数、劳动道路长度、限制释放；5. 通过可靠全量GitHub blob或仓库clone解决claim-ledger读取并核对四表最大ID、URL/命题重复后更新正式CSV、chronology和成熟中文历史连续正文；另轮换G1殖民前史和G7 1998—2026工会组织。GOAL仍OPEN，不建立旧式列表HTML。
+
+写入前核验统一状态blob=72a96655904fdcca2663c9ae4feaa1a00cb44cb6；最终提交SHA必须在提交后回读GitHub确认，不能预先自指写入同一提交。
