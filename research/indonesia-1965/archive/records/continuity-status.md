@@ -351,3 +351,14 @@
 **Git状态**：本轮写入前经GitHub提交检索核对main HEAD `9151d26b917708fdb1f06bf1067980d8c9d60f30`；本条记录的SHA是写入前基线，最终提交SHA须以写入返回值及随后远程HEAD核验为准。GOAL保持ACTIVE / OPEN-ENDED。
 
 **续接提交回读**：本次首个状态归档提交 SHA `211df9f591254dc0bca11947e893e5a2cb6d6208`，已回读对应状态文件；后续校验性提交的最终HEAD仍需单独查询，不能把文件内SHA误称自身提交SHA。
+
+
+## 2026-11-20 UTC｜跨项核验：Aceh 1965-10-29命令的追溯效力与SOBSI狱中手稿卷次（ONGOING / GOAL仍进行）
+
+**读取治理**：已直接读取G1—G10完整性审计、AGENTS、stage-access、goal-continuity和当前统一状态；定位正式四CSV及chronology实际在archive/records/（根目录路径404不是文件缺失）。正式claim-ledger及global-gap-tracker返回非空SHA但空正文，不覆盖；本次不占新S/C/Q/CV编号。G1—G10仍OPEN。
+
+**G4/G5/G8 Aceh（持续链）**：直接打开Jess Melvin 2013开放期刊全文 https://journals.sagepub.com/doi/full/10.1177/186810341303200304 ，「Djuarsa Freezes Baperki in Aceh」段。作者据其引述的1965年《Surat Keputusan》称，Aceh军方负责人Ishak Djuarsa在**10月29日发布**冻结PKI及被归类关联组织（包括Baperki）的决定，文书声称**追溯自10月20日生效**；其中领导人须在**10月25日前**向Pepelrada/宪兵/警察报告，构成「发布日迟于所列报到截止日」的关键程序异常。文书还将成员排除出政府机构并限制离开所在地（后两项据作者所引《Chronologis 1966》）。**核验级别**：开放学术全文直接阅读、其中一手文书为二次引述；原决定影印、签发登记及执行回执未取得。不能断言10月25日时该决定已正式公布，更不能以文书条款证明全省执行。作者对军方压力及因果的解释须与文书事实分开。取件：1965《Surat Keputusan》第2—3页、Pepelrada签发簿、10月20—29日县级送达/自报记录，比较10月6日Pantja Tunggal声明及地方报纸。
+
+**G2/G6/G8/G9 SOBSI（不同G项/年代交叉链）**：直接打开Vannessa Hearman 2024开放全文PDF https://doi.org/10.1017/S0020859024000580 ，正文第12页及脚注62—63。Adam Soepardjan于1975—1976年在监禁中制作**三册**英文学习故事笔记，合计据研究所述39篇；IISG现存**第二册11篇、第三册13篇**，第一册据称15篇但**不在该馆藏**。第三册署1976年6月，描述1959年赴捷克斯洛伐克、WFTU布拉格总部和Terezín访问。档案为IISG **ARCH02469**，2002年由M.T.J. van den Bosch-Beeren女士捐赠。**核验级别**：学术全文及档案引注直接阅读，未直接阅手稿；39=15+11+13是研究的篇数口径，不代表馆藏有39篇可核；第一册缺失不能编造内容。下一步向IISG核取ARCH02469卷二/三逐页图像、2002入藏清单、第一册下落，及1959年WFTU/FDGB会议原始代表名单、行程和SBIM工会文件，区分狱中追忆与1959同期记录。
+
+**治理待办**：需在正式来源表去重后同步claim、chronology、coverage、search-log及中文连续正文；本次避免空正文覆盖，以上仅为带访问级别的滚动待并库事实。下次优先取得Aceh原令、IISG原手稿；并轮换West Kalimantan、Flores或G7当代工会实际执行记录，不把两篇学术全文当两份独立一手档案。
