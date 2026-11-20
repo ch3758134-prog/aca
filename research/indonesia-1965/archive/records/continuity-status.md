@@ -714,3 +714,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准下一步**：①查《Harian Rakjat》1961-01-19原报及1月17—20研讨会决议、出席代表名册，逐项核土地所有权/土地委员会主张；②查1961《Api Kartini》No.1原刊扫描第8页，核Hurustiati署名与日期；③从1961 Gerwani章程影印本核组织层级、会费、成员资格并与1958章程逐条比对；④索取Moncongloe 1969—1979原始拘押名册、Nanga-Nanga转押记录和道路工程记录，按人/日期拆解；⑤解决claim-ledger非空blob空正文问题后对四表全量去重并库，轮换Aceh Langsa 1965-10-18 Baperki名单及军区命令。GOAL持续OPEN，不以本轮节点完成为停止。
 
 **提交SHA规则**：本节写入时只能准确保存提交前HEAD=b07a31fe8d908b3dd39e3d37f8799634be0d8039；本节所在提交SHA须以GitHub提交结果及后续HEAD回读为准，不能在同一提交中自引用其SHA。
+
+
+## 2026-11-21 03:56 CST｜ONGOING / GOAL仍进行｜1960土地法与1961 Gerwani纲领的规范交叉核查
+
+已重新读取AGENTS、goal-continuity、stage-access、正式四CSV、chronology及本续接状态。正式文件实际路径均在archive/records/。写入前main HEAD=f925468e3af065dfd0401f40c2e85e265362a09e。source-register最大可见S1518、search-log Q580、coverage-matrix CV650；claim-ledger.csv blob=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，但GitHub内容接口返回空正文，仍不得覆盖、不得虚构C编号。
+
+**本轮原件核验与反证**：直接打开印尼国会法律库1960年第5号《基本土地法》官方登记 https://jdih.dpr.go.id/setjen/detail-dokumen/tipe/uu/id/1361 ，确认1960-09-24颁布、殖民土地法撤销和法律制度调整；另打开该法印尼语全文转录 https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_5_Tahun_1960 ，核对第9条第2款男女公民取得土地权利与收益机会平等。直接打开印尼最高法院JDIH 1960年第2号《分成耕作协议法》登记 https://jdih.mahkamahagung.go.id/legal-product/uu-nomor-02-tahun-1960/detail ，确认1960-01-07制定公布；BPK登记 https://peraturan.bpk.go.id/Details/51300/uu-no-2-tahun-1960 交叉核对。正式source-register已有S038登记第2号法；Gerwani 1961纲领已登记S459，不能为这两者重复分配来源ID。第5号法是否已另有S编号尚需全文去重；本轮未新增正式S/C/Q/CV，未修改chronology或中文正文，不能称正式并库。
+
+**新解释边界**：1961年Gerwani纲领要求妇女土地权利和落实分成耕作法，其诉求可放在1960年两部法律的规范背景下阅读；国家制定平等机会条款、组织提出诉求和地方女性实际取得土地证是三个不同的事实层级。第9条的平等机会文字不能证明1961年前后某县妇女实际获得个人土地证，也不能把组织主张误记为国家已经执行。需要从县级土地改革委员会名单、地籍登记、租佃合同与争议档案验证具体实施。
+
+**精准未完**：（1）在source-register中以1960年第5号法官方URL、法名和法条全文去重，核查已存S编号与主张；（2）取得第5号法官方PDF并逐页比对第9、17、19条与Gerwani 1961纲领原印本，查纲领所引妇女政治权利法68/1958与68/1959冲突；（3）取得1961—1965年Lamongan或其他可定位县级土地改革委员会女性成员名册、土地权属登记与租佃纠纷案，检验法律实施；（4）另线追1965-10-18 Langsa Baperki声明148人附件及Kodim-0104军方纪事原影印，区分名单人数与死者；（5）以Git blob或可靠原始字节方式修复claim-ledger读取，正式去重更新四CSV、chronology及成熟中文连续历史正文，并轮换1970—1998拘押劳工学生与1998—2026组织。提交前HEAD如上；本次最终commit SHA应以写入返回和后续HEAD核验为准，无法在同一提交正文中预知自身SHA。GOAL永久OPEN。
