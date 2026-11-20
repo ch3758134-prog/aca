@@ -676,3 +676,15 @@ GOAL保持ACTIVE / OPEN-ENDED。
 精确未完事项：（1）取得1954年Gerwis第二次大会决议及1957年Gerwani第三次大会会费/会员原簿，对照Sulami 1959自报数字；（2）取得1960年3月《Api Kartini》28页原刊，逐页核实栏目内容、作者身份及地方行动；（3）取得1961年《Peraturan Dasar Gerwani》原件PDF并与1958年S1516章程逐条比较；（4）寻找Perwari《Trisula》1961–1962原刊和UNJ论文可公开的参考文献，对比妇女组织竞争关系；（5）轮换1965年Langsa Baperki 148人声明附件与Kodim-0104军方《Chronologis》原件，另追SOBSI/BTI村厂级组织，完成正式C台账安全读取后再并库。
 
 GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一次成功提交，状态提交自身SHA须以API返回为准。
+
+
+## 2026-11-20 续接｜ONGOING / GOAL仍进行（Aceh地方与2000年工会制度）
+已重读AGENTS、stage-access、goal-continuity、**completeness-audit-2026-11-09 G1—G10**，以及长期缺口总账、正式source-register、search-log、coverage-matrix、chronology；正式文件实际位于**research/indonesia-1965/archive/records/**，并非项目根目录。research-status.md在本次所查archive/records路径不存在。claim-ledger.csv存在blob SHA但UTF-8内容返回空，禁止覆盖或伪造C编号。已检查正式来源S612/S855/S611，均已登记；不重复分配来源编号。
+
+**链一 G4/G5/G9 Aceh：** 直接核读S612开放学术全文，逐地复核10月8日Banda Aceh、9日Sigli、11日Langsa军方会见、14日Kuala Simpang/Pulo Tiga/Blang Pidie/Sama Dua、18日Langsa Baperki 148人解散声明；重点发现Sama Dua四名华裔死者被写为来自Blang Pidie，须拆分死亡地点、居住地与唯一身份。学术引文B，底层军方年表S855曾部分核读，但本次未逐页重开；非独立佐证。来源：https://journals.sagepub.com/doi/full/10.1177/186810341303200304 。
+
+**链二 G7/G6 工会法：** 直接打开劳工部官方JDIH第21号法说明与BPK元数据；核第5条十人组会、第18条地方登记、第25条登记后代表权及一年过渡规则，接续2001年KEP.16/MEN/2001第11条；法律规则A、县级执行D。来源：https://jdih.kemnaker.go.id/peraturan/detail/32 ; https://peraturan.bpk.go.id/Details/44988/uu-no-21-tahun-2000 。未把法律规范写成实际工会登记或SOBSI人员延续。
+
+**本次写入与验证待续**：global-gap-tracker提交f987c9fc267cb8dae4b1fa1776acdcddf895f800；chronology提交ee4158697a59762e74b31508337b587fa89e581f；本状态文件提交SHA需由本次写入结果确定。正式CSV未写入：均系已登记来源，claim-ledger正文无法安全读取；search-log与coverage-matrix亦未更新（归档债务未解除）。
+
+**下一次直接动作**：（1）核S855军方年表扫描页3/4/7/8与S612引文，确认Sama Dua四名死者身份、籍贯与地点，获取民事/墓地登记；（2）调取Langsa 1965-10-18《Pernjataan》签名和148人附件，逐人核后续遭遇；（3）查1998 PER.05/MEN/1998、1999 KEP.201/MEN/1999与2000—2002县市劳动局新旧登记簿，区分法规与执行；（4）修复claim-ledger大文件安全读取，核最新C号后再并库；（5）轮换G1殖民流放原名单与G8外交原电报执行单，避免只停在Aceh或工会法。G1—G10持续OPEN，GOAL未完成。
