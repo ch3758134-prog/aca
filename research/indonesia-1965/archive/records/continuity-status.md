@@ -492,3 +492,16 @@
 **全局缺口分流**：G1殖民/革命工人组织原件；G2本地Gerwani/SOBSI/BTI执行档案；G3跨机关逐时；G4 Aceh/苏门答腊/三爪哇/巴厘/Flores/加里曼丹/Sulawesi各县军令；G5女性与族群个体证词；G6监禁释放和流亡；G7工会登记与地方执行；G8英美澳中苏及妇女跨国联系；G9地点人物组织关系；G10正式CSV与可读中文正文。不能用一个地区或一个跨国刊物覆盖其他缺口。
 
 **精确续接**：1）调取《Api Kartini》1963年刊载Edelman文章的纸本页码/影印、核转录完整性；2）追阿根廷《Nuestra Mujeres》同年原刊和Fanny J. Edelman组织履历，区分作者宣称与可核实施行；3）取巴厘1965-12原报、RPKAD运输/部署档与A-527原扫描，明确不同估算的日期与来源依赖；4）轮换Flores SVD Ende原手稿和Moncongloe BAP 266—269；5）解决claim-ledger/global-gap-tracker内容读取异常后，以正式ID安全并库和续写中文连续历史正文。本次仅统一接力状态更新；GOAL仍OPEN。
+
+
+## 2026-11-20｜ONGOING / GOAL仍进行｜北苏门答腊石油工会与南苏门答腊拘押转运交叉核验
+
+**治理**：本次重新读取2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity、continuity-status，以及正式source-register、search-log、coverage-matrix、chronology。claim-ledger与global-gap-tracker仍是非空blob但fetch_file返回空正文，不得覆盖；此处为临时可读续接，非替代长期缺口总账。G1—G10全部OPEN。
+
+**G2/G4/G8，北苏门答腊油业工会（已登记S196，避免重复）**：直接打开美国国家安全档案馆2017-10-17公布的使馆文件汇编页面，文档9（1965-11-01使馆第1290号电报，原档NARA RG84 Entry P339 Box14 Folder4）编者说明载：美方报告当地“据称已有600名共产党人被关押”，并称PERBUM石油工会领导人及Shell、Stanvac炼厂与PURSI化肥厂的SOBSI干部被捕。这里600为美方转述的当时拘捕数，不是核实名册，也不是死亡数；“全部领导人”属于报告措辞，不可据此判定每名工会负责人身份及后果。此次核读的是汇编的文档说明，**没有重新打开第1290号电报原始影印**。出处 https://nsarchive.gwu.edu/briefing-book/indonesia/2017-10-17/indonesia-mass-murder-1965-us-embassy-files （Document 9）。下一证据节点：S196电报OCR/扫描逐句对照、PERBUM/SOBSI炼厂分会名册、Shell/Stanvac厂方人员记录、Medan拘押登记；将逮捕与1965年石油设施所有权谈判区分，不以时间邻近推定直接因果。
+
+**G4/G5/G6，南苏门答腊Kemarau与Bingin Teluk（不同地区的高价值缺口）**：直接打开Komnas HAM 2012调查执行摘要的TAPOL非官方英文翻译PDF全文，第3—4页记载：Bingin Teluk村证人称一批被带上驳船的人失踪；另一名Bangka被拘押者证称从Belinyu经船运到Kemarau岛，称一批112人（包括本人及妻子）转运，妻子于1975-12离开拘押，他本人于1977-12离开；另有证人所称南苏门答腊约30000人失踪，**仅为证人估算，绝非逐人核定死亡/失踪人数**。报告列Lubuk Linggau临时拘押点、Palembang军警机构与Kemarau营，提供可追的跨地点转押链。PDF：https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20TAPOL%20translation.pdf （英文非官方译本第3—4页；原印尼文、BAP笔录和转押名册尚未核读）。不得把“112人转运”解释为Kemarau全部囚犯；不得把证词当作法院认定。
+
+**G1—G10动态缺口总览**：G1殖民时期组织与1948革命原件缺；G2工会基层及企业名册缺；G3 1965跨机关逐时链缺；G4 Aceh、北/南苏门答腊、三爪哇、巴厘、Flores、Kalimantan、Sulawesi各地命令/死亡拘捕簿严重不均；G5女性与族群个体证词缺；G6监禁转押释放及流亡名册缺；G7当代工会/政党地方实施缺；G8英美澳中苏行动提议—批准—交付—效果缺；G9地点—组织—个人索引缺；G10正式台账读取及中文连续正文缺。不能将本次两个报告覆盖全国。
+
+**精确续接**：①核S196第1290号电报原影印与11月1日北苏门答腊600名拘押的报告来源；②寻找PERBUM、Shell/Stanvac炼厂及PURSI分会干部名单与后续拘押/失踪登记；③取Komnas HAM关于Bingin Teluk—Belinyu—Kemarau的原印尼文对应页、2008—2012原始证人BAP及转押登记；④对照南苏门答腊各拘押地点与1975/1977离营名册，严格区分个人证词与总体统计；⑤修复claim-ledger/global-gap-tracker读取，按正式最大ID去重并库，逐章更新中文历史正文。未更新正式CSV/chronology/HTML；长期GOAL保持ACTIVE/OPEN。
