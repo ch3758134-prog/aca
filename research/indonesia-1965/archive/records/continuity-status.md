@@ -688,3 +688,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **本次写入与验证待续**：global-gap-tracker提交f987c9fc267cb8dae4b1fa1776acdcddf895f800；chronology提交ee4158697a59762e74b31508337b587fa89e581f；本状态文件提交SHA需由本次写入结果确定。正式CSV未写入：均系已登记来源，claim-ledger正文无法安全读取；search-log与coverage-matrix亦未更新（归档债务未解除）。
 
 **下一次直接动作**：（1）核S855军方年表扫描页3/4/7/8与S612引文，确认Sama Dua四名死者身份、籍贯与地点，获取民事/墓地登记；（2）调取Langsa 1965-10-18《Pernjataan》签名和148人附件，逐人核后续遭遇；（3）查1998 PER.05/MEN/1998、1999 KEP.201/MEN/1999与2000—2002县市劳动局新旧登记簿，区分法规与执行；（4）修复claim-ledger大文件安全读取，核最新C号后再并库；（5）轮换G1殖民流放原名单与G8外交原电报执行单，避免只停在Aceh或工会法。G1—G10持续OPEN，GOAL未完成。
+
+
+## 2026-11-21 01:49 CST｜ONGOING / GOAL仍进行｜1961年Gerwani纲领交叉核验与去重修正
+
+已重读AGENTS、goal-continuity、stage-access、正式四张CSV、chronology和统一续接状态。正式claim-ledger.csv blob `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a` 仍返回零长度正文，故未覆盖、未编造C号。**重要去重纠错**：1961年Gerwani《Program Perjuangan》全文转录 https://gerwani.logosid.app/teks/42 已正式登记为 **S459**，不能再分配S1519。本次初步追加Q580/CV650/chronology时误写候选S1519，随后已逐文件纠正为S459并提交；source-register.csv保持原状。
+
+本次重新直接打开并核读S459全文（现代转录，非印刷影像），尤其纲领第6—15、20—21条：同值同酬、产假与经期假、厂矿托儿所、女农民个人土地所有权、分成租佃法执行、土地改革委员会中的妇女代表、粮食价格与分配。1961年12月14—17日第四届大会通过的纲领及其序言承认1957年第三届大会以来多数诉求尚未实现；这属于组织当时的政治要求和自我评估，不是工厂/村庄的实际执行证明。转录内部对妇女政治权利法号写作68/1958及68/1959不一致，需对照官方法律原文与印刷原件。交叉打开1954年Gerwis第二届大会纪念册馆藏页面 https://pustaka.taratsa.id/book/kenang-kenangan-kongres-gerwis-ke-2-25-31-maret-1954-unknown/ ，证实存在PDF/OCR入口，但本次未逐页复核其原始扫描。1961年章程 https://kabe.drepram.com/works/peraturan-dasar-gerwani 页面可检索但直接打开失败，不能称已读原件。
+
+本轮已成功提交Q580、CV650及chronology 1961节点并纠正来源编号；最新**状态写入前**已知提交SHA：`8e5c39a98c783c6f216f3e493ce8bf5a5de2dec5`。状态文件自身提交SHA必须在写入后从API取得；无法预先写进自身。正式C表未写入；连续中文历史正文尚未更新（目前只验证纲领与制度，不足以证明具体地区执行）。本轮没有宣称穷尽。
+
+**下一次精准动作**：（1）取得1961年DPP Gerwani印刷《Program Perjuangan》及《Peraturan Dasar》逐页影像，校核转录与大会决议；（2）打开印尼UU 5/1960第9条、UU 2/1960分成租佃法、妇女政治权利公约批准法，纠正68/1958/1959并核法令实施日期；（3）搜Lamongan或种植园区1957—1964年Gerwani女农民土地证、landreform委员会名单、工会集体协议及托儿所账目，检验纲领与实践；（4）转回1965年Langsa Baperki声明148人附件、Kodim-0104与军方《Chronologis 1966》影印，逐人分开组织身份与遭遇；（5）继续寻找可安全读取claim-ledger.csv原始完整字节的途径，取得最大C号并去重，才允许登记原子主张。GOAL始终ACTIVE / OPEN-ENDED。
