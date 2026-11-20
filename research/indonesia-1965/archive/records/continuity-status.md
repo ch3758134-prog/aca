@@ -766,3 +766,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 ## 2026-11-20｜ONGOING / GOAL仍进行｜西加里曼丹1968省政府报告原件定位
 已重读G1—G10 completeness-audit、AGENTS、stage-access、goal-continuity、正式四CSV（claim-ledger API仍为空正文）、chronology和缺口总账。直接核读Cornell公开原刊Davidson/Kammen 2002 [S232]，定位1968年10月17—18日总统访问用西加里曼丹省政府Progress Report附录VI：1967-11/1968-05/1968-08难民在册存量分别59,850/43,941/28,028；统计包含营内与亲属寄居两类，不能把存量减少解释为确定返乡。原刊同时提供1963—65 Konfrontasi志愿者训练与1965后反PGRS/Paraku军事目标转换的B级研究链；印尼原始军令、英国/马来西亚边境档案未取。与正式chronology现有[S232]数字去重，未再增加同一条。长期缺口总账提交72189a4ccd1d0db2b726fb9e4faf489af434143b，回读blob 3f4a50ee38b9a70462789391be1dd407abc8deac一致。
 下一次直接行动：①检索西加里曼丹省政府1968年总统访问Progress Report附录VI影印与各地营地登记；②对照1967—68 Pontianak、Singkawang、Mempawah救济和死亡登记；③调取Kolaga/Koanda/Kodam XII 1963—67训练与部队转向原始命令、英国Sarawak边境报告；④切换G1 1926—27流放原刊及G2 SOBSI企业基层档案；⑤处理claim-ledger原始blob读取障碍后再做正式C并库、成熟中文叙事。此次未更新正式CSV或中文HTML，不声称已完成。G1—G10全部OPEN。
+
+
+## 2026-11-21 07:51 CST｜1999年Dita Indah Sari特赦法令官方原件定位（ONGOING / GOAL仍进行）
+
+**核验基线**：已读AGENTS、goal-continuity、stage-access、正式四CSV首段、chronology首段与统一状态；正式文件均在archive/records/。claim-ledger.csv非空blob=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但正文接口仍为空，绝不覆盖。写入前独立查询main HEAD=50d3e1b84cbf4fabd267f68cafb0b8d8bea5fd79；此为写入前HEAD，不能冒充本次提交SHA。
+
+**G7：1998后劳工政治犯的法律处置**。本次直接打开印尼审计署BPK官方法律数据库 https://peraturan.bpk.go.id/Details/58415/keppres-no-68-tahun-1999 ，确认总统第68号决定（Keppres No.68/1999）正式题名《Memberikan Amnesti Kepada Dita Indah Sari》，1999-07-02签署、公布、生效，官方出处LN 1999 No.119；官方PDF预览入口 https://peraturan.bpk.go.id/Read/47909/Keppres_No_68_Th_1999.pdf 已打开但未能在预览器中逐页读取影像。另打开二次法规OCR转录 https://www.klaussa.com/peraturan/keppres-no-68-tahun-1999-memberikan-amnesti-kepada-dita-indah-sari ，可见决定正文：序言列1998-10-30司法部长建议、1998-12-07总检察长建议及1998-12-22最高法院院长建议；第一项向Dita Indah Sari给予特赦，第二项消除其刑事法律后果，第三项由司法部长与总检察长执行。二次OCR有错字，不能冒充官方PDF逐字核验。
+
+**交叉及反证边界**：与已在续接状态中登记的ILO结社自由委员会第318次报告第226—231段及理事会采纳记录交叉：印尼政府向ILO称Dita Sari 1999-07-05无条件获释。**1999-07-02是总统法律决定日期，07-05是政府向ILO报告的实际释放日期；法律给予特赦不自动证明狱方当日执行**。仍缺释放登记、当事人/律师直接记录及三份1998建议原文。此法令与ILO所报释放相互印证法定依据，但不是Marsinah案件已侦破的证据。
+
+**归档边界**：本轮只在统一状态保留官方定位与二次OCR访问等级；正式source-register尚未完成全表URL/题名去重，不分配S编号；正式Q/CV、chronology和中文正文均未更新，不虚称并库。下一轮先查该法令是否已有S/C，再安全登记。
+
+**精准续接**：（1）下载BPK第68号总统决定PDF并逐页核对1998三份建议的文号、日期及法律处分；（2）检索1999-07-05 Dita Sari监狱释放登记、PPBI/PRD当事人声明与同期报刊，独立验证执行日；（3）检索Komnas HAM 1999年Marsinah调查最终报告，分清特赦与凶案调查；（4）回到PP41/1964县级土地改革名册、BTI/Gerwani组织行动及Aceh Langsa 1965军方原件；（5）修复claim-ledger完整读取，按正式S/C/Q/CV去重后推进chronology及成熟中文连续历史正文。GOAL ACTIVE / OPEN-ENDED，G1—G10全部保持OPEN。
