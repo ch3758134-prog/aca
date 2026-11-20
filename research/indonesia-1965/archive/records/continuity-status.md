@@ -522,3 +522,18 @@
 **写入前基线**：continuity-status blob c4136a5453a8ac3c69717688864ffd0d894b2493；最新提交SHA由本次写入结果返回，后续必须再核远程main HEAD。
 
 **2026-11-20 16:53 本轮已核验研究提交**：`f196b14f6cdc7a59ec0dc6e58dd36fb5030efc73`；状态SHA写入后产生新的提交，最终HEAD需以GitHub回读为准。GOAL保持OPEN。
+
+
+## 2026-11-20 17:47 CST｜ONGOING / GOAL仍进行｜1997年劳动法延期与2000年工会法分轨复核
+
+**执行依据与基线**：本次重新读取AGENTS、stage-access、goal-continuity、continuity-status、正式source-register/search-log/coverage-matrix/chronology；claim-ledger Git blob为362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，读取正文仍为空，故不覆盖、不自造C编号。写入前远程最新提交（GitHub commit search）为 939b1e2757e4f5616d749920b2aa33416d49dc65；正式状态文件写入前blob 5d671db4207901ab5f4cabc2c98e759dd1bc9957。本次先做法规证据链并继续保持所有年代与G1—G10未闭合。
+
+**直接打开原件A**：印尼2000年第21号《工会法》政府公布PDF全文 https://www.peraturan.go.id/files/uu21-2000.pdf ，第5条规定至少10名工人可成立工会；第6条至少5家工会组成联合会；第7条至少3家联合会组成总联合会；第9条明确成立不应受雇主、政府、政党或其他方面干涉；第11条规定章程包含会员、领导与财务责任。劳动部JDIH https://jdih.kemnaker.go.id/peraturan/detail/32/undang-undang-nomor-21-tahun-2000 确认签署/公布日2000-08-04及法律状态。**这是法定权利与程序，不是企业实际组织成功或执法完成的证明**。
+
+**直接打开原件B**：印尼国会JDIH第28号法律（2000-12-20）正式条目及详细立法说明 https://jdih.dpr.go.id/setjen/detail-dokumen/tipe/uu/id/392 ：1998年第11号法曾把1997年第25号劳动法实施推至2000-10-01；2000年第3号紧急法令又将实施推至2002-10-01，后由2000年第28号法确认。说明提及2000-05-08总统致议会R.11/PU/V/2000新劳动法草案，尚未完成审议；2003年第13号法后来废止第28号法。**关键纠偏**：2000-10-01是曾经计划的实施日期，不得当作实际按期实施；工会法21/2000与劳动法25/1997是不同法源，不可混同。
+
+**交叉核验/反证入口**：劳动部法律研究PDF https://jdih.kemnaker.go.id/asset/data_artikel/info%20hukum%202-2003.pdf 另述2002年法案废止程序与法律效力争议，属于事后部门作者解释，不能替代正式公布公报及宪法法院判决。Hukumonline 2003-04-14报道 https://www.hukumonline.com/berita/a/pemerintah-dapat-tidak-mengundangkan-ruu-yang-disetujui-dpr-hol7812/ 提及2002-09-27议会批准废止草案但未公布，本轮打开返回403，仅搜索摘录，不作为已读全文证据。需原始议会记录/2002年国家公报独立核验。
+
+**去重/访问界限**：正式来源表和chronology已经很大，须依上述URL、法令号和命题再核实是否已登记；本次不分配新S/C编号，不将当前接力说明当作正式台账并库。正式CSV与连续历史正文未修改，chronology未修改，尚待去重与证据链成熟后入库。没有取得2000—2002县市工会登记原簿，不能断言实施效果。
+
+**精准未完事项**：①取2000年第28号法附载Perpu 3/2000原PDF，逐条核2002-10-01日期及2002-09-27废止草案的立法结果；②逐条核21/2000第18、25、28、43条与KEP.16/MEN/2001第11条，追踪通知、登记、反工会报复刑罚与过渡机制；③取得至少两个县市2000—2002工会登记簿、企业工会通知/驳回文书与SBSI/PPBI个案，检验规范和实际执行差距；④轮换Aceh军方《Chronologis 1966》与Gerwani/BTI/SOBSI基层原件；⑤解决claim-ledger读取异常、正式四表去重后补chronology及成熟中文历史叙述，保留事件、组织、人物关系。GOAL永久ACTIVE / OPEN-ENDED，绝不因本次写入结束。
