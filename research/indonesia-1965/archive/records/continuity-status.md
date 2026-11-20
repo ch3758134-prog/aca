@@ -479,3 +479,16 @@
 
 
 **2026-11-20 本轮提交接力SHA记录**：状态证据提交 `950ab12d237207a8e870078552d5ac9e6481472a`；随后chronology提交 `32e8473d67b3105035a5be783de281905beac0f7`。这两个均是已知真实提交，最后一次状态更新会生成新HEAD，须以远程核验结果为最终SHA。GOAL仍OPEN。
+
+
+## 2026-11-20 UTC｜G2/G8《Api Kartini》跨国妇女工会组织原文与G4巴厘估算来源审计（ONGOING / GOAL仍进行）
+
+**本次重新读取** AGENTS、stage-access、goal-continuity、2026-11-09完整性审计G1—G10、continuity-status、正式source-register/search-log/coverage-matrix/chronology；research-status不存在；claim-ledger虽有非空blob SHA，但接口仍返回空正文，故禁止覆盖和分配C编号。global-gap-tracker也有非空SHA而接口返回空正文，不可误判为空文件。正式CSV在archive/records/目录。所有G项仍OPEN。
+
+**长期证据链 G4/G8 巴厘1965年12月的不同来源估算**：重新直接打开美国国家安全档案馆2017年发布的使馆文件说明与美国国务院FRUS编辑说明。1965-12-21美国使馆A-408称全国至少10万人、巴厘至少1万人；1966-02-25 A-527后来估计巴厘8万人。这些是使馆在不同日期的报告估算，不能相减推算“新增死亡”。正式来源已有S401、FRUS相关S400，检索日志Q242/Q251/Q324/Q361已追过，**本次不重复登记**。具体缺件仍为巴厘地方死亡/拘捕登记、RPKAD部署原件、A-527完整影印及地方报纸原版。核验入口：https://nsarchive.gwu.edu/document/15720-document-24-airgram-408-joint-weeka-no-48 ；https://history.state.gov/historicaldocuments/frus1964-68v26/d162 。本次打开档案馆说明/FRUS页面，不声称重新核读A-408原影印。
+
+**不同G项 G2/G8：1963年Gerwani刊物刊载阿根廷妇女工会组织经验**：直接打开数字转录全文 https://gerwani.logosid.app/teks/57 ，题为《KEKUATAN BARU: Gerakan Wanita Argentina》，署Fanny J. Edelman，《Api Kartini》标1963年。文章叙述阿根廷妇女组织通过《Nuestra Mujeres》在工厂、街头及入户发行，支持罢工食堂、募款和劳工家庭；还提及1955年农妇会议、土地要求、儿童照护、对古巴声援等。**能确认的是1963年印尼妇女运动刊物传播了这些国际组织经验及其政治诉求**；不能从阿根廷作者的叙述直接证明印尼Gerwani在本地实行相同制度，也不能以阿根廷的组织成就数字作印尼统计。来源等级：历史刊物的当代文章**数字全文转录已读**，纸本影印、卷期页码、编辑删节和阿根廷方面独立原件未读。检索正式source-register未发现该篇URL或作者标题，暂不擅配S编号；应以最新正式台账再次去重后正式登记，并查刊物1963年原版及阿根廷工会档案。
+
+**全局缺口分流**：G1殖民/革命工人组织原件；G2本地Gerwani/SOBSI/BTI执行档案；G3跨机关逐时；G4 Aceh/苏门答腊/三爪哇/巴厘/Flores/加里曼丹/Sulawesi各县军令；G5女性与族群个体证词；G6监禁释放和流亡；G7工会登记与地方执行；G8英美澳中苏及妇女跨国联系；G9地点人物组织关系；G10正式CSV与可读中文正文。不能用一个地区或一个跨国刊物覆盖其他缺口。
+
+**精确续接**：1）调取《Api Kartini》1963年刊载Edelman文章的纸本页码/影印、核转录完整性；2）追阿根廷《Nuestra Mujeres》同年原刊和Fanny J. Edelman组织履历，区分作者宣称与可核实施行；3）取巴厘1965-12原报、RPKAD运输/部署档与A-527原扫描，明确不同估算的日期与来源依赖；4）轮换Flores SVD Ende原手稿和Moncongloe BAP 266—269；5）解决claim-ledger/global-gap-tracker内容读取异常后，以正式ID安全并库和续写中文连续历史正文。本次仅统一接力状态更新；GOAL仍OPEN。
