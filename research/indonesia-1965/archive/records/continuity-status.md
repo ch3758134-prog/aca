@@ -301,3 +301,14 @@
 **下一轮直接执行的精准事项**：1. 取得Aceh《Chronologis 1966》第3—9页影印和10月8—14日逐地原始记载，核对Baperki、Chung Hua Chung Hui、IPETI及Gerwani被袭对象身份；2. 查1965-10-03与10-14苏加诺广播/讲话原始逐字稿，核所谓灭绝号召之伪；3. 查Bone SOBSI负责人、Watampone Arasoe糖厂工人、Wajo—Sidrap BTI成员的地方名册及死亡/失踪登记；4. 取Moncongloe营地1969—1971建设/转运账、1977 SPRIN/802原件及BAP 266—269，核人数、劳动道路长度、限制释放；5. 通过可靠全量GitHub blob或仓库clone解决claim-ledger读取并核对四表最大ID、URL/命题重复后更新正式CSV、chronology和成熟中文历史连续正文；另轮换G1殖民前史和G7 1998—2026工会组织。GOAL仍OPEN，不建立旧式列表HTML。
 
 写入前核验统一状态blob=72a96655904fdcca2663c9ae4feaa1a00cb44cb6；最终提交SHA必须在提交后回读GitHub确认，不能预先自指写入同一提交。
+
+
+## 2026-11-20 UTC｜ONGOING / GOAL仍进行｜东爪哇军区档案与1926报刊交叉核验
+
+已重读G1—G10完整性审计及AGENTS、stage-access、goal-continuity、统一状态。正式source-register已登记Grace Leksana S295及Nobuto Yamamoto S369，不能重复新增S；正式claim-ledger.csv有blob SHA但正文读取为空，长期global-gap-tracker.md亦返回空正文，均不覆盖。正式CSV和chronology真实路径在archive/records/。
+
+**G4/G3/G9 东爪哇（全文直接核读学术论文，军区原件仍未直接打开）：**Grace Leksana, Collaboration in Mass Violence, 2021，开放PDF https://www.tandfonline.com/doi/pdf/10.1080/14623528.2020.1778612 ，印刷页72—75及脚注88—108明确引用Kodam V Brawijaya档案G30S/PKI tahun 1965，Inventaris 316-a，Malang军区博物馆保管，申请需经Bintaldam。文件线索：1965-10-11 Radiogram T.582/1965要求工兵第5营与Lawang Puterpra合作维持示威秩序；10-14 T.587/1965要求Kodim调查Gerwani/Pemuda Rakyat与雅加达志愿者训练关联；10-21 Perintah Operasi No.5 Pantja Sila第2—5页规定六小时情况报告及使用支持军方的民众力量；10-26 T.298/1965涉及地方亲军组织归Puterpra及调查队；11-30 T.715/1965规定左翼组织所谓自行解散须经Dandim/Pupelrada接受及Panca Tunggal见证。上述是论文对档案的转引，不等于本次直接阅读原始命令；10-11维护秩序命令不得误写为杀戮命令，11-30的程序规则也不能证明每县实际执行。取件需316-a原影印、文件收发簿、六小时报告及县级拘押/解散登记。
+
+**不同G项 G1/G9（研究全文与官方目录直接打开，历史报纸原版未读）：**Nobuto Yamamoto, Boven Digoel: Projecting a New Society, 2025，京都大学期刊开放HTML https://englishkyoto-seas.org/2025/04/vol-14-no-1-yamamoto-nobuto/ ，引用泗水Sin Jit Po于1926-12-03报道西苏门答腊共产党运动，12-24报道Kamang案件；后续追踪流放者审判、转运和Digoel。两期报纸仍未直接核读，作者对殖民审查制度的论述为研究解释。荷兰国家档案馆官方目录2.10.36.111 https://www.nationaalarchief.nl/onderzoeken/archief/2.10.36.111 直接打开，明确报刊索引止于1923年，不能把它冒充1926原报馆藏；其说明报纸多数应查荷兰皇家图书馆。须取1926-12-03/24 Sin Jit Po原版核版面、新闻来源，再查殖民当局流放名册。
+
+**全局缺口仍OPEN**：G1早期组织、G2工农妇女青年、G3跨机关时序、G4跨省镇压、G5性别族群、G6监禁流亡、G7当代劳工政治、G8英美澳中苏、G9人物空间、G10正式去重和连续中文正文。精确续接：①申请Brawijaya 316-a中T.582/T.587/T.298/T.715和Pantja Sila原件；②核东爪哇县级拘押/解散及六小时报告；③取Sin Jit Po 1926-12-03和12-24原报；④查1926—27流放名册及工会档案；⑤解决正式claim-ledger和总账正文读取异常后去重并库，并轮换西加里曼丹及1998后工会执行。此次未更新正式CSV、chronology或中文HTML，不宣称正式并库或GOAL完成。
