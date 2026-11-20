@@ -420,3 +420,14 @@
 **下一次可直接执行**：（1）获取并比对2025-07战略规划680人、2025-10新闻约600人的原始统计定义、覆盖12事件的分组表和去重规则；（2）查2023年第2号指示2025—2026正式修订文本、总统府JDIH生效日期及2025-07-29函复；（3）获取至少两省2023—2026预算、受害者核验及实际给付清单（匿名统计），分别辨认1965—1966群体；（4）恢复claim-ledger完整字节，检验正式S/C/Q/CV与新法令/规划URL的去重，再补正式chronology和成熟中文连续正文；（5）交替追查1965亚齐《Chronologis 1966》军令影印、SOBSI/BTI/Gerwani基层档案及Moncongloe转运/劳动名册。
 
 **写入前已回读main的状态文件blob**：`de694d68d5a7a7adb3503573de641acdd430ed28`。本轮最终commit SHA由GitHub写入结果确认；提交自身SHA不可能预先包含于同一提交的文件正文。GOAL永久OPEN。
+
+
+## 2026-11-20 13:53 CST｜ONGOING / GOAL仍进行｜Komnas HAM 2023年独立回应与受害者资格程序
+
+**本次基线与读取**：核读AGENTS、goal-continuity、stage-access、continuity-status及正式source-register/search-log/coverage-matrix/chronology；正式claim-ledger.csv blob=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，GitHub UTF-8读取仍为空正文，禁止覆盖和臆造C编号。正式四表未完成全量ID/URL去重，未并库；chronology和成熟中文历史正文未修改。本次状态文件写入前blob=887d123aa22ec7b0c97f3734667a5d8c787abbee。最终提交SHA由提交返回后核验，不能在该提交正文预先写入自身SHA。
+
+**新核读的机构原件（独立于总统府口径）**：印尼国家人权委员会Komnas HAM，2023-01-11新闻声明第01/HM.00/I/2023号，2页完整PDF已直接打开：https://www.komnasham.go.id/files/20230111-keterangan-pers-nomor-01-hm-00-%24QNCI.pdf 。p.1明确列出总统承认的12组事件（含1965/66），并欢迎承认；但其同时明确要求政治法律安全统筹部长协调Komnas HAM与总检察院的调查和侦查职责，以司法途径处理严重侵权（p.2，条d）。该声明还要求承认此前已经进入人权法院但未得到救济的受害者（Tanjung Priok、东帝汶、Abepura、Paniai），并明确允许个人向Komnas HAM申请受害者身份认定（p.2，条g）。署名主席Atnike Nova Sigiro。**证据级别**：国家人权委员会同时代原始机构声明已读；证明该委员会提出的法律与行政要求，不能证明协调已实施、司法案件已有结果或申请者已实际获得资格/补偿。此文是对总统公开讲话的独立机构回应，不是对具体历史死亡数的独立核验。
+
+**交叉核对**：2023-03-15 Inpres 2/2023政府原文 https://peraturan.go.id/files/inpres-no-2-tahun-2023.pdf 列19机构执行非司法建议；2025-10-10签署的《人权部长2025年第14号条例》附2025—2029战略规划全文 https://peraturan.go.id/files/Permenham-no-14-tahun-2025.pdf ，附录报告截至2025年7月约7000人中680人获得补救，并提到2025-07-29 MHA-OT.02.02-05向总统提出修订Inpres 2/2023建议。委员会2023年要求司法协调，与政府2025年统计的行政救济**是不同层次**，不能把680视作司法定罪、也不能归为1965/66专属人数。战略规划的修订建议不等于修订已获批准。另发现Komnas HAM 2022年4月12日通过第9号受害者权利恢复规范，官方目录 https://dataham.komnasham.go.id/home/data_detail/3cec07e9ba5f5bb252d12473f5f431e4bbb ，PDF入口 https://www.komnasham.go.id/files/1666764719-standar-norma-dan-pengaturan-nomor-%24JA5NXM.pdf 本次打开403，**仅目录已读，全文未读**。
+
+**精准未完事项**：①调取Komnas HAM 2023—2026受害者资格认定申请/批准/拒绝按事件和省份分列统计，查1965/66专属受益者；②检索Komnas HAM与总检察院2023—2026联合会议纪要、调查移交/退回函及诉讼进度，检验2023-01-11条d的执行；③取得2025-07-29 MHA-OT.02.02-05修订建议函和2026年有效Inpres版本，核提议是否正式颁布；④通过Komnas HAM替代镜像或纸本取得2022年第9号规范全文，核受害者资格/救济标准；⑤恢复正式claim-ledger字节读取，完成S/C/Q/CV去重并库、chronology与成熟中文历史正文；随后轮换1965—68地方镇压、SOBSI/BTI/Gerwani基层及政治犯档案。GOAL保持ACTIVE / OPEN-ENDED。
