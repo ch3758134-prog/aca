@@ -663,3 +663,16 @@ GOAL保持ACTIVE / OPEN-ENDED。
 正式写入S1516、Q578及chronology 1958组织章程节点；未修改claim-ledger、coverage-matrix及成熟中文正文（需先核章程形成日期及实际基层执行）。本轮已知提交：source-register 6723e7e93d0324f0f7575e687e55324919019c1a；search-log 66f97c83c8a1a25605df1c051e47e3df0e4f45d8；chronology 0e0ac37fde3638262831893895f44b40cf3d9ab9（本状态提交前最新已知SHA）。本状态提交自身SHA须由GitHub结果及下次HEAD读取确认，无法预写自身。
 
 精准未完事项：（1）取1958年汇编印刷312—320页原始扫描，核对Wikisource校对转录与章程成文/修订日期；（2）取1954年3月25—31日Gerwis第二届大会72页报告及1961年第四届大会章程，比较组织结构与政治关系；（3）取至少两地Gerwani ranting会费簿、干部选举和托育课程记录，核规范与实践差异；（4）修复claim-ledger大文件读取并去重补C主张，复查coverage-matrix G2/G5条目；（5）回到1965年Aceh Langsa《Pernjataan》148人附件与《Chronologis 1966》原件，核军政命令、名单和个人遭遇。GOAL始终ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-21｜ONGOING / GOAL仍进行｜Gerwani基层组织与刊物证据链
+
+已重新读取AGENTS、stage-access、goal-continuity、正式四表、chronology及本状态。原有S462已登记Sulami 1959全文转录，故没有重复注册。直接核读 https://gerwani.logosid.app/teks/14 的1959年文章转录：作者自述1954年Gerwis改名Gerwani，中央设置妇儿权利、信息文化、组织及财务委员会；声称1957年1月182支部、16省、642460人，12月约70万人。上述人数与组织活动是参与者公开叙述，缺独立名册、会费账、1954大会会议记录和1957选举官方数据，不能据此断定实际规模。
+
+直接打开 https://warungarsip.co/produk/kliping/api-kartini-no-3-th-ii-maret-1960/ 的1960年3月《Api Kartini》第3期28页刊物目录，定位编辑与作者、国际妇女节、Clara Zetkin、儿童健康、食品与教育栏目页码；没有取得付费原刊PDF，不能将目录当作全文。直接打开2026年雅加达国立大学论文 https://repository.unj.ac.id/68003/ 的馆藏摘要，作者比较Gerwani《Api Kartini》与Perwari《Trisula》，但核心章节限制访问；不能把摘要结论冒充核读正文。1961 Gerwani章程 https://kabe.drepram.com/works/peraturan-dasar-gerwani 打开失败（DisabledError）；Alexander Street 1960年Maasje Siwi书目页403。
+
+正式并库：source-register新增S1517–S1518；search-log新增Q579；coverage-matrix新增CV649；chronology新增1959-03及1960-03两个证据限定节点。最新成功提交（本状态文件写入之前）`5b2730f297b6465018c577e624b5757215df3d6b`。正式claim-ledger.csv仍返回blob SHA `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a` 但UTF-8正文空，禁止覆盖或虚构C编号。成熟连续中文正文未更新：此次证据不足以从组织章程直接复原具体基层执行。
+
+精确未完事项：（1）取得1954年Gerwis第二次大会决议及1957年Gerwani第三次大会会费/会员原簿，对照Sulami 1959自报数字；（2）取得1960年3月《Api Kartini》28页原刊，逐页核实栏目内容、作者身份及地方行动；（3）取得1961年《Peraturan Dasar Gerwani》原件PDF并与1958年S1516章程逐条比较；（4）寻找Perwari《Trisula》1961–1962原刊和UNJ论文可公开的参考文献，对比妇女组织竞争关系；（5）轮换1965年Langsa Baperki 148人声明附件与Kodim-0104军方《Chronologis》原件，另追SOBSI/BTI村厂级组织，完成正式C台账安全读取后再并库。
+
+GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一次成功提交，状态提交自身SHA须以API返回为准。
