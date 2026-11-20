@@ -610,3 +610,16 @@
 **G4（1965-10至11；东爪哇Banyuwangi/Korem083；军方、Hansip、地方政府与群众组织）**：对照正式已登记S295 Grace Leksana论文的开放搜索索引文本（https://www.tandfonline.com/doi/full/10.1080/14623528.2020.1778612）；本次打开出版商正文返回HTTP403，**本次访问等级仅搜索索引片段，不能冒称重新全文核读**。片段载作者引述1965-10-23 Pupelrada 0825/Brawijaya会议有Puterpra、PP、Hansip及政府部门人员；11-16报告记录四宗杀害案件，其中一案发现稻田中四具尸体；11-30无线电报要求所谓自愿解散相关组织由Dandim以Pupelrada负责人身份接收，并由Panca Tunggal及民族阵线其他组织见证。由此只能确认**论文如此引用地方军方记录**，不能确认每一地区实际照办，亦不能将四宗案件与四具尸体混算。缺件：Kodam V Brawijaya原始档案卷G30S/PKI 1965 inventory 316-a、1965-10-23会议记录、11-16日报及11-30无线电原件、县级接收解散签字和受害者身份登记。与Aceh/Flores/西加里曼丹比较时保留地区机关差异。
 
 **G10缺口总账续接**：G1现为开放学术全文→报刊原件缺；G4本次为搜索片段→军区原件缺；G2工农妇女组织基层财务/名册、G3跨机关逐时令、G5性别族群个案、G6拘押与流亡、G7当代劳工执行、G8英美澳中苏实际行动、G9人物地点交叉索引、G10正式CSV/统一时间线/中文连续正文仍OPEN。当前阻碍是原始档案不可直接读取及两份非空Git对象正文为空。下次优先获取原报纸影印与Brawijaya军区原件，并轮换G6政治犯/流亡或G8外交行动；有可核原件后再正式增C/chronology及成熟的中文连续叙述。长期GOAL未完成。
+
+
+## 2026-11-20 续接｜东爪哇军事接管与1977年布鲁岛拘押制度（ONGOING / GOAL仍进行）
+
+本次按G1—G10完整性审计复查范围，不把两项局部进展当作G4/G6闭合。正式来源登记已含S295（Grace Leksana东爪哇论文）、S1410（其2023年章节）、S223（Amnesty 1977报告）、S310/S311（1995囚犯报告及更正）；因此未重复注册来源。G1—G10均OPEN。
+
+**G4/G3 东爪哇Banyuwangi（1965-10-23—11-30）**：2026-11-20公开检索直接显示Grace Leksana论文出版商索引中的具体正文段落，指出10月23日Pupelrada 0825/Brawijaya参谋主持会议，涉及Puterpra、PP（作者推测Pemuda Pancasila）、Hansip及政府部门；11月16日Korem 083报告记载四宗杀人案，其中一宗发现稻田内四具尸体；11月30日无线电报要求被指参与九三〇运动的组织解散须由Dandim/Pupelrada接收，并由Panca Tunggal及National Front其他组织见证。出版商全文打开返回403，本次证据级别仅为**出版商索引可见正文段落**，不是直接核读军方档案；正式S295历史登记此前称作者上传全文已读，本次不能将旧访问状态误写为本次已读。进一步从公开书籍文本定位军方档案馆藏：Museum Brawijaya, Malang, Inventaris 316-a，Radiogram T.715/1965，1965-11-30，致Kodim 0818—0825及0831（转引，未取得原件）。关键缺件：会议记录、11月16日逐案附件、无线电报原件、受害者登记；需核实Pupelrada 0825与Kodim 0825的职务关系及组织缩写，不能由报告文字推定所有四宗案件由同一机构实施。来源：https://www.tandfonline.com/doi/full/10.1080/14623528.2020.1778612 ；馆藏线索：https://dokumen.pub/memory-culture-of-the-anti-leftist-violence-in-indonesia-embedded-remembering-9789463723565-9789048554522.html 。
+
+**G6/G5 1969—1995拘押与释放的制度连续性**：本次直接打开Amnesty International 1977《Indonesia: An Amnesty International Report》原始PDF，封面及目录、导言与历史段落可核（S223）。目录明确附录I收录Kopkamtib KEP-028/KOPKAM/10/68（1968-10-18）与KEP-010/KOPKAM/3/1969（1969-03-03，追溯适用）的译文，附录II收录1976-12-01 Kopkamtib关于释放的声明。报告记载1969年开始布鲁岛转运、1976年公布释放计划，同时质疑计划与实际自由恢复的差距。原始PDF可见 https://www.amnesty.org/en/wp-content/uploads/2021/06/asa210221977en.pdf ，目录印刷页118、121及正文90—100；本次未逐条重校附录法律译文，不能把NGO译本等同印尼文签署原件。跨年代对照1995年Amnesty官方公告（S310）称7月时仍认为27人被关押，其中5人在死囚牢房；1995-11更正（S311）说明此前名单部分人员实际上早已释放。因此**27不是全年最终准确在押人数**，必须按逐人名单和日期核实。1995原始公告页：https://www.amnesty.org/en/documents/ASA21/036/1995/en/ ；更正：https://www.amnesty.org/en/documents/asa21/055/1995/en/ 。
+
+**G10正式文件访问审计**：本次确认正式source-register.csv、search-log.csv、coverage-matrix.csv、chronology.md真实路径均为research/indonesia-1965/archive/records/；source-register最新可见S1513。claim-ledger.csv与global-gap-tracker.md通过GitHub文件接口返回非空blob SHA但空正文，故禁止覆盖或假造C编号。本次未改正式CSV和连续HTML；仍需修复大文件读取与安全并库，避免仅靠continuity-status代替正式总账。
+
+**精确续接**：（1）索取Museum Brawijaya Inventaris 316-a Radiogram T.715/1965影印并核11月30日收发机关与措辞；（2）查10月23日Pupelrada会议及11月16日Korem 083四案原始逐案登记，核具体地点、死者姓名与组织身份；（3）比对Amnesty 1977附录I、II与印尼原文Kopkamtib命令和1976年释放声明，追踪Buru逐人转押与1977—79释放登记；（4）按1995年ASA21/036及055逐人比较在押、获释、死亡与赦免日期；（5）跨项转查G1殖民流放报纸原刊、G2产业工会与G8外国档案，正式并库后再写连续中文历史正文。长期GOAL持续OPEN。
