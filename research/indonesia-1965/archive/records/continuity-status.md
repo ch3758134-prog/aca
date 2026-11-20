@@ -599,3 +599,14 @@
 本轮已读 AGENTS、goal-continuity、stage-access、统一状态及正式四表与 chronology。核对正式 source-register 最大实际编号 S1512，确认 JDIH BPK 法令 URL 未登记。**新增 S1513**：印尼官方法令数据库 UU No.27/2026（2026-10-28制定、公布并生效），直接核读官方元数据、摘要及废止关系；PDF预览页打开但未取得176页可核读正文，不能声称已逐条读法。2026-10-06国会通过、10-28正式公布生效、11-09劳工部长公告分别有 ANTARA 报道与官方登记相互核对。官方登记 https://peraturan.bpk.go.id/Details/359755/uu-no-27-tahun-2026-pelindungan-ketenagakerjaan ；报道 https://en.antaranews.com/amp/news/441251/indonesia-publishes-employment-protection-law-for-public-reference 。已将过程与限制补入 chronology。正式 claim-ledger 非空blob仍读出空字符串，不覆盖或分配 C 编号；search-log、coverage-matrix和中文连续正文尚待安全并库。不能把新法生效视作实施成效。
 
 精准未完：（1）取得并逐页核读 UU27/2026 官方176页PDF，核对过渡条款、313条及实施细则一年期限；（2）追索2026-10-06 DPR会议正式纪要及不同工会/雇主组织提交的修法意见；（3）检索2026-10-28至今各省劳动监察、工会申诉与雇主执行的原始记录；（4）排查 claim-ledger 空正文原因并在安全读取后分配C编号，更新search-log/coverage-matrix和成熟中文正文；（5）下一链轮换Aceh 1965 Kodim-0104与Langsa Baperki声明原件，SOBSI/BTI/Gerwani基层档案及1970年代拘押档案。GOAL永久OPEN。**本轮写入前最近已知提交基线**：90b8e80ca03203d167b3912dcbb8598461ca1cb3（须以本轮实际提交SHA及最终main HEAD复核）。
+
+
+## 2026-11-20 续接｜G1报刊传播与G4东爪哇军方地方机制（OPEN）
+
+已重读2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity、正式来源登记/检索/覆盖、chronology及本状态。现有S369/S497均为Yamamoto 2025同一论文，S295为Grace Leksana东爪哇论文；**不新增重复来源ID**。claim-ledger.csv与global-gap-tracker.md的fetch_file均返回非空SHA但正文长度0，禁止覆盖。G1—G10全OPEN。
+
+**G1（1926—1928；泗水—望加锡—上迪古尔；PKI、SR、市场/农民/运输工会）**：直接核读山本信人2025年京都大学期刊开放HTML全文（https://englishkyoto-seas.org/2025/04/vol-14-no-1-yamamoto-nobuto/ ，尤其原文Departure、The Internees、Censoring Digoel）。作者转引1927-05-14《Sin Jit Po》报道：前一日下午泗水Tandjoeng Perak港，Rumphius轮船载41名本地被流放者、6名华裔被流放者及11名随行妇孺，10名军人押送；**47名被流放者与11名家属不得混算**。1927-06-13该报列出I. Makki、Noeroet、Pio、Ishak等人物及市场、农民、海运、汽车电气工会职务，部分活动地点在Makassar，提示镇压不以发生起义的地区为限。论文另引用1928-04-19《Pewarta Deli》对两位返乡遗孀的采访；这些均是**学者全文转引的当时报纸，原刊扫描未取得**。重要来源依赖：山本2025是其2011著作第六章缩写修订，S369与S497绝不能作为两个独立佐证。下一步索取《Sin Jit Po》1927-05-14、06-13及《Pewarta Deli》1928-04-19版面、原始流放登记/航运名册；对人物拼写与工会任职逐一核对。
+
+**G4（1965-10至11；东爪哇Banyuwangi/Korem083；军方、Hansip、地方政府与群众组织）**：对照正式已登记S295 Grace Leksana论文的开放搜索索引文本（https://www.tandfonline.com/doi/full/10.1080/14623528.2020.1778612）；本次打开出版商正文返回HTTP403，**本次访问等级仅搜索索引片段，不能冒称重新全文核读**。片段载作者引述1965-10-23 Pupelrada 0825/Brawijaya会议有Puterpra、PP、Hansip及政府部门人员；11-16报告记录四宗杀害案件，其中一案发现稻田中四具尸体；11-30无线电报要求所谓自愿解散相关组织由Dandim以Pupelrada负责人身份接收，并由Panca Tunggal及民族阵线其他组织见证。由此只能确认**论文如此引用地方军方记录**，不能确认每一地区实际照办，亦不能将四宗案件与四具尸体混算。缺件：Kodam V Brawijaya原始档案卷G30S/PKI 1965 inventory 316-a、1965-10-23会议记录、11-16日报及11-30无线电原件、县级接收解散签字和受害者身份登记。与Aceh/Flores/西加里曼丹比较时保留地区机关差异。
+
+**G10缺口总账续接**：G1现为开放学术全文→报刊原件缺；G4本次为搜索片段→军区原件缺；G2工农妇女组织基层财务/名册、G3跨机关逐时令、G5性别族群个案、G6拘押与流亡、G7当代劳工执行、G8英美澳中苏实际行动、G9人物地点交叉索引、G10正式CSV/统一时间线/中文连续正文仍OPEN。当前阻碍是原始档案不可直接读取及两份非空Git对象正文为空。下次优先获取原报纸影印与Brawijaya军区原件，并轮换G6政治犯/流亡或G8外交行动；有可核原件后再正式增C/chronology及成熟的中文连续叙述。长期GOAL未完成。
