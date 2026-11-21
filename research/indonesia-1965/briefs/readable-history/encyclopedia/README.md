@@ -1,6 +1,6 @@
 # 印度尼西亚现代历史百科｜正式阅读入口
 
-**打开 `index.html`**；也可先阅读 [苏加诺时代、印尼左翼发展与1965后政治转折的连续主线](sukarno-era-left-mainline-1945-2026.html)。
+**正式阅读版优先打开 [`v2/index.html`](v2/index.html)**；也可先阅读 [苏加诺时代、印尼左翼发展与1965后政治转折的连续主线](sukarno-era-left-mainline-1945-2026.html)。
 
 ## 浏览导航
 - [首页](index.html)：历史阶段、核心事件、分类入口。
@@ -20,3 +20,10 @@
 在GitHub切换到 `research/encyclopedia-rebuild-20261114` 分支，下载整个仓库ZIP并解压，双击本目录 `index.html`。不能只单独下载一个HTML文件，否则CSS、脚本与关联文章会缺失。
 
 **当前技术交付结论**：五阶段架构与整合工作流已实施，仍有部分短篇及缺失原件需要继续学术编辑，见审计报告。
+
+## 2026-11-21 编辑修订批次
+
+- 正式阅读入口优先为 `v2/index.html`；根目录旧首页继续保留为资料导航兼容页，避免旧链接失效。
+- 深化 `v2/people/person-lukman.html`、`v2/people/person-hartini.html` 与 `v2/events/event-election-2024.html`；不以旧稿重复堆砌篇幅，新来源在文内逐项明确说明等级。
+- `v2/relationships.html` 替换“阅读对象A/B”占位语义为具体历史关联，仍明确指出阅读关联不是责任或指挥关系证据。
+- 上述条目为公开来源核对基础上的**编辑修订稿**，不是全部原始档案终审稿；未补写的其余正式条目仍维持既有状态。
