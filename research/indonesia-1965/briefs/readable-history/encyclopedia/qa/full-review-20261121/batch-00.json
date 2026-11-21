@@ -1,0 +1,150 @@
+{
+  "commitBase": "1e90a6005bbf4a6f556acbfe6b414bb66e996296",
+  "batch": 0,
+  "total": 13,
+  "entries": [
+    {
+      "path": "people/person-adam-soepardjan.html",
+      "title": "亚当·苏帕尔詹（Adam Soepardjan）",
+      "mainTextChars": 1573,
+      "paragraphs": 10,
+      "externalSources": 2,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-ade-irma.html",
+      "title": "阿德·伊尔玛（Ade Irma Suryani）",
+      "mainTextChars": 709,
+      "paragraphs": 8,
+      "externalSources": 1,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-ahmad-yani.html",
+      "title": "艾哈迈德·亚尼（Ahmad Yani）",
+      "mainTextChars": 698,
+      "paragraphs": 7,
+      "externalSources": 2,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-aidit.html",
+      "title": "艾地（D. N. Aidit）",
+      "mainTextChars": 1532,
+      "paragraphs": 11,
+      "externalSources": 3,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-allen-pope.html",
+      "title": "艾伦·波普（Allen Pope）",
+      "mainTextChars": 676,
+      "paragraphs": 7,
+      "externalSources": 3,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-amir.html",
+      "title": "阿米尔·谢里夫丁（Amir Sjarifuddin）",
+      "mainTextChars": 641,
+      "paragraphs": 7,
+      "externalSources": 1,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-bambang-sugeng.html",
+      "title": "班邦·苏根（Bambang Sugeng）",
+      "mainTextChars": 718,
+      "paragraphs": 8,
+      "externalSources": 2,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-budiman.html",
+      "title": "布迪曼·苏贾特马科（Budiman Sudjatmiko）",
+      "mainTextChars": 1170,
+      "paragraphs": 9,
+      "externalSources": 6,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-darsono.html",
+      "title": "达尔索诺（Darsono）",
+      "mainTextChars": 505,
+      "paragraphs": 6,
+      "externalSources": 2,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-daud-beureueh.html",
+      "title": "达乌德·贝乌雷（Daud Beureueh）",
+      "mainTextChars": 705,
+      "paragraphs": 7,
+      "externalSources": 2,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-dewi.html",
+      "title": "黛薇（Ratna Sari Dewi；根本七保子／Naoko Nemoto）",
+      "mainTextChars": 613,
+      "paragraphs": 6,
+      "externalSources": 2,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-dita-sari.html",
+      "title": "迪塔·英达·萨丽（Dita Indah Sari）",
+      "mainTextChars": 757,
+      "paragraphs": 7,
+      "externalSources": 4,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-fatmawati.html",
+      "title": "法特马瓦蒂（Fatmawati）",
+      "mainTextChars": 866,
+      "paragraphs": 8,
+      "externalSources": 2,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    }
+  ]
+}
