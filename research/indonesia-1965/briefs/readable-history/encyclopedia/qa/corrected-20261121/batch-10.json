@@ -1,0 +1,110 @@
+{
+  "batch": 10,
+  "method": "Count text in article before sources/navigation, including li; main excludes embedded research-fulltext; not a substitute for scholarly review",
+  "entries": [
+    {
+      "path": "events/event-reformasi.html",
+      "mainTextChars": 1299,
+      "fullTextChars": 1299,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1095
+    },
+    {
+      "path": "events/event-sbsi.html",
+      "mainTextChars": 898,
+      "fullTextChars": 898,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 697
+    },
+    {
+      "path": "events/event-semaun-hatta-1926.html",
+      "mainTextChars": 1385,
+      "fullTextChars": 1385,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1241
+    },
+    {
+      "path": "events/event-shangrila-2000.html",
+      "mainTextChars": 1521,
+      "fullTextChars": 1521,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1274
+    },
+    {
+      "path": "events/event-sobsi-1946-1949.html",
+      "mainTextChars": 1325,
+      "fullTextChars": 1325,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1104
+    },
+    {
+      "path": "events/event-sukarno-dewi-letters.html",
+      "mainTextChars": 899,
+      "fullTextChars": 899,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 741
+    },
+    {
+      "path": "events/event-sukarno-exile.html",
+      "mainTextChars": 1529,
+      "fullTextChars": 1529,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1372
+    },
+    {
+      "path": "events/event-supersemar.html",
+      "mainTextChars": 1279,
+      "fullTextChars": 1279,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1069
+    },
+    {
+      "path": "events/event-surabaya.html",
+      "mainTextChars": 1414,
+      "fullTextChars": 1414,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1207
+    },
+    {
+      "path": "events/event-surakarta.html",
+      "mainTextChars": 866,
+      "fullTextChars": 866,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 752
+    },
+    {
+      "path": "events/event-surveillance.html",
+      "mainTextChars": 1061,
+      "fullTextChars": 1061,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 873
+    },
+    {
+      "path": "events/event-takeover.html",
+      "mainTextChars": 977,
+      "fullTextChars": 977,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 830
+    },
+    {
+      "path": "events/event-three-july.html",
+      "mainTextChars": 1364,
+      "fullTextChars": 1364,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1138
+    }
+  ]
+}
