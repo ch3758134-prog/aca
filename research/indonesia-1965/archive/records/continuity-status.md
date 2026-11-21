@@ -873,3 +873,8 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准未完**：①查Rantepao/Tana Toraja Kodim 1965-10-28 P.L. Payung拘押登记及军方行动记录；②查Sidrap 1965-12 Jufri Buape拘押、Parepare监狱移交与Moncongloe入营登记，区分记者回忆的六年+六年与行政日期；③查Rasjidi Amrah工程图纸、军方住宅项目文书及奖学金/大学档案，核对非党派身份叙述；④取得SKEP-25/KOPKAM/XII/1977、SPRIN/802/TPD/XII/1977、Reg.41/935及1977释放名单，核466/467、911和42人的不同统计母体；⑤轮换Aceh Langsa 148人声明附件、BTI/Gerwani县级土地分配与1998后劳工组织证据，并以Git blob API/原始下载修复claim-ledger读取。
 
 **SHA约束**：本状态文件不能在提交内容中预写自身提交SHA；本轮最后提交SHA由GitHub更新回执及后续远程main回读核验。GOAL ACTIVE / OPEN-ENDED，未穷尽。
+
+
+## 2026-11-21｜ONGOING / GOAL仍进行
+本次已核读completeness-audit-2026-11-09.md及AGENTS、stage-access、goal-continuity、正式文件路径和缺口总账。G8直接核读FRUS d127/d128/d141/d175/d211，发现1966-06-17 d211明确纠正“1965年12月采购=原方案已交付”的错误推断：原提案设备未按原建议提供，系统缩小，1966-02-26有从雅加达库存调拨设备的记录；1966-01-14方案遭否决，06-24新方案获批。与G4地方军令/受害者链保持独立，不把跨国通信计划等同地方杀戮的直接指挥。公开FRUS正文为A，编者脚注涉及未直接取得的会议纪要，后者不能算原件已读。来源链接及缺件见global-gap-tracker.md。正式claim-ledger.csv经GitHub读取仍返回空正文，不覆盖、不编造C编号；正式CSV、chronology和中文连续历史正文未同步。
+下一动作：①调303委员会1965-11-19/12-17、1966-01-20/06-24会议纪要；②找1966-02-26 SAB及Nasution通信设备库存调拨、签收；③查1965年7—9月Philco三站项目取消与11月秘密项目之间是否有采购合同连续性；④独立追Aceh Kodim-0104及东爪哇Inventaris 316-a原军令/执行回执；⑤转G2 Gerwani/SOBSI地方原刊或G6拘押释放名册。G1—G10 OPEN。
