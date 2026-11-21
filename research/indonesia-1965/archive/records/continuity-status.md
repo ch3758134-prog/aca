@@ -1002,3 +1002,7 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准未完事项**：（1）取得2.20.39全宗PDF/XML清单或档案馆检索API，定位f.Personeel下妇女夜班、劳动争议、工人状况具体inventarisnummer、起止年份；（2）查荷兰董事会与Internatio往来、1925—1935年年报/总部收件中是否保存已散失地方报表的副本，识别管理层叙述偏差；（3）调取Staatsblad 1925 No.648原始荷兰文及1926起劳动局工时/工资报表，与Levert转述及No.647例外授权核对；（4）查1958印尼企业国有化原令、Tjomal接收和劳动关系变化，不把馆方“国有化”概述等同已查执行档案；（5）恢复claim-ledger可靠读取后正式S/C/Q/CV去重登记、chronology和成熟中文正文，并轮换Aceh/Moncongloe/BTI/SOBSI/1998后工会的未闭合链条。
 
 **Git写入前main HEAD**：5b6a49eab0c0b2ce7788d255d7e43c66cb7f17e8。这是提交前核验SHA；本次提交SHA不能自指预填，须以提交回执及提交后main HEAD回读确认。GOAL保持ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-21｜ONGOING / GOAL仍进行：西加里曼丹省安置统计及ANRI殖民流放原档入口
+已重读2026-11-09 G1—G10审计、AGENTS、授权、长期GOAL、总账。main当前总账已提交80754a4bff373d02946f265f8d21e03fc4797511；本续接写入前重新获取SHA。完整实证与访问级别见global-gap-tracker.md末节。G4/G9：Davidson/Kammen 2002全文所引1968年西加里曼丹省进度报告附录VI列1967-11 59,850、1968-05 43,941、1968-08 28,028安置登记，三期不能相加，报告原件未读。G1：ANRI 2004年官方《Citra Papua dalam Arsip》直接核读目录定位1927-03-12流放名单Boven Digoel no.200、1927-04-15总督命令no.1、1930 Hillen调查Binnenlandsbestuur no.1308、1933回营名单no.295；发现同一选编将总督命令在另一栏误/异标no.84，须核原影印与馆藏。正式CSV/chronology在research/indonesia-1965/根目录和仓库根目录均404，不能声称已经并库；archive/records/research-status.md亦404。下一次直接动作：(1) 取得1968省Progress Report附录VI及三地营地名册；(2) 核ANRI PDF图版36—40页的1927原件影印并解决no.1/no.84；(3) 追1967 Pontianak/Sambas《Pengungsian orang2 Tjina》；(4) 恢复正式CSV及chronology实际路径并去重；(5) 切换G2 Gerwani/SOBSI基层原刊或G6 Moncongloe原始拘押登记，推动中文连续正文。GOAL ACTIVE，G1—G10 OPEN，不以此次提交结束。
