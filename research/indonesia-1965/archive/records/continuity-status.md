@@ -900,3 +900,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 核对正式source-register.csv和chronology.md：Wijaya论文**已经登记**，chronology的1969年Moncongloe叙述已载`KEP-007/KOPKAM/2/1969`、Ujung Pandang Reg.937及首批11人线索（S679，C1167-C1168）；本次不重用S编号、不重复插入时间线。论文第8—9页明确把1969年3月11人名单转引自Taufik Ahmad 2009年第152页，并非独立名单；原始军令、转移名册仍未打开。正式claim-ledger.csv再次读取为0字符而blob SHA非空，未覆盖。此次仅更新统一续接状态，尚未修改正式CSV与成熟历史正文。
 
 精准未完：①向Unhas仓储管理员依法申请2024论文完整正文及采访附录，或找作者公开授权版；②取得Arsip Kotamadya Ujung Pandang Reg.937所藏`KEP-007/KOPKAM/2/1969`原件并核签署日、适用地区；③核对1969年3月11人（Mujino、Ispoyo、Sarmanto Sarmo、Supeno、Sahabuddin、Anwar Rahim、Arif、Norman Intan、Suparti、Maryama Bado、Maryani）的个人拘押/移送登记，确认四名女性身份及Gerwani关系；④对照1977年`SPRIN/802/TPD/XII/1977`及1979—1980政治课程名册，分清拘押、居家监管与实际自由；⑤轮换Aceh Langsa 148人声明附页、BTI/Gerwani土地登记与SOBSI工厂工会名册。最新提交SHA见本节后续提交记录；GOAL保持OPEN。
+
+
+## 2026-11-21 16:47 CST｜ONGOING / GOAL仍进行｜1954年妇女劳动保护法实施断层（新原文核验）
+
+**运行基线**：main HEAD=1208086a31cadc5a9ec24fbaf6aad7acd7e4b4ea（本节写入前经git/ref/heads/main核验）。已读取AGENTS、stage-access、goal-continuity、continuity-status、正式四CSV表头与chronology开头；正式claim-ledger.csv blob=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a仍返回空正文，不覆盖。前次研究2024 Wijaya论文全文401限制仍在，不能视为已读。
+
+**新直接核读原文**：1954年3月25—31日Gerwis第二次大会纪念册（其后更名Gerwani）OCR公开全文 https://pustaka.taratsa.id/read/618/ocr/pdf/ ，劳动部长Prof. Abidin署期**1954-03-15**的大会致辞（OCR行307—400，重点370—400）。致辞明确区分1951年第1号法的成文保护与生效状态：其称该法第7条（妇女夜间劳动）与第9条（危险劳动）**截至1954-03-15尚未施行**，原因是制定实施细则所需资料仍在收集；夜班妇女劳动当时暂按1925年Staatsblad 647号等旧规则管理。致辞还列举东爪哇部分糖厂离心机夜班岗位据劳动监察建议改由男性承担，并主张工会向劳动监察机构举报雇主违法。此为**当时劳动部长的公开说明**，能够证明政府在该场合如此陈述，尚不能独立证明全国执行状况或东爪哇每厂的真实换岗规模。OCR存在误识，原书影印页及法规公报须再核。该致辞与纪念册中的Gerwani章程及此前chronology关于1951年第1号法、PP4/1951的条目形成直接交叉：法律颁布≠全部条款施行≠企业遵守。另查原始纪念册前言OCR行289—301：组织自称201个支部中143支部派代表、约350名代表/观察员；**自报数量不是独立审计会员统计**。
+
+**本轮交叉与排除**：重新打开Unhas 2024论文仓储元数据 https://repository.unhas.ac.id/id/eprint/49383/ ；二次百科Moncongloe https://p2k.stekom.ac.id/ensiklopedia/Kamp_pengasingan_Moncongloe 与2015转载 https://kebumenypkp65.blogspot.com/2015/09/tak-ada-lauk-untuk-tapol-moncongloe.html 重复911人及150平方米明显不合理数字，不计独立来源；本轮不新增无来源的营地数字。1954纪念册在正式chronology已有条目，先按**已知来源新段落定位**记录，避免未经全量CSV去重重复分配S/Q/CV。
+
+**精确未完事项**：①打开纪念册原始PDF影印核劳动部长署名、1954-03-15日期、第7/9条未施行原文与糖厂换岗描述；②直接核1951年第1号法、PP4/1951以及1925 Staatsblad 647、1941 Staatsblad 45，区分第7/9/13条实际生效日期；③寻找1953—1955东爪哇糖厂劳动监察报告、女工夜班排班/解雇及工会申诉，核换岗是否导致妇女失业；④核Gerwis/Gerwani 1954大会原始财务报告与201/143支部名册，分清章程、组织自报与地方实绩；⑤恢复正式claim-ledger blob原始读取，完成本次材料正式去重登记并与Moncongloe、Aceh、BTI及1998后劳工证据链交替推进。
+
+**写入边界**：本轮仅更新统一状态，尚未修改正式CSV、chronology和成熟中文历史正文，不能声称正式全量并库。Git提交SHA由写入回执及远程ref回读确认；本段仅记录提交前HEAD。GOAL永久ACTIVE / OPEN-ENDED。
