@@ -856,3 +856,6 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准未完事项**：①向Kopkamtib/ANRI/军事档案取 **SKEP-25/KOPKAM/XII/1977** 决定及附件，核全国1万人与南苏拉威西名单；②调取1977-12-18 POMDAM/TEPERDA摄影登记、12-19 Kodim 1408住宿/转送记录、12-20 POMDAM仪式名单及SPRIN/802/TPD/XII/1977执行附件；③取 **Arsip Muhammad Saleh Lahade Reg.41** 与 **Arsip Kotamadya Ujung Pandang Reg.935** 原件、1979-12/1980-01 Hotel Raya签到和课程文书；④将1977—1980 B/C分类、Nanga-Nanga 42人和证人BAP 266—269逐人匹配，记录不同统计母体；⑤轮换1965 Aceh Langsa Baperki 148人原始附页、BTI/Gerwani县级土地分配和1998后劳工组织证据链，并修复claim-ledger原始blob读取。GOAL永久OPEN，不因本轮停顿而结束。
 
 **SHA说明**：本段的7f05...是写入前HEAD；本次最终提交SHA必须由GitHub写入回执及main ref回读确认，不能在同一Git提交中预写自身SHA。
+
+
+**2026-11-21 12:47 CST 正式并库补记（ONGOING）**：本轮已进一步正式登记 `source-register.csv` **S1521**（Ahmad 2013）、`search-log.csv` **Q583**、`coverage-matrix.csv` **CV653**，并更新 `chronology.md`。截至本补记写入前，最后一次成功提交为 **80348dee8128a8b4ca8dee853b005a117df41cf3**（覆盖矩阵），此前各提交依次为 9cf5ccb3395ccd8a286bab4d408a5f14a8706426（续接状态）、e0246d3de5ef736ce8a4c5e33db355a8da2dbc71（chronology）、014c9c4af3093f9ba87a63ad1f2ce1ff8fe0fd88（S1521）、0e54433ea92ac2191f4cac5b2cc0a8007ad254fc（Q583）。本补记自身提交SHA只能由写入回执及远程main HEAD回读确定；不能自指预写。正式claim-ledger仍未修改，成熟中文连续正文尚未修改；其余未完取件事项见上段，GOAL继续OPEN。
