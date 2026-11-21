@@ -891,3 +891,12 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **本次归档范围**：仅在统一续接状态记录新论文馆藏及交叉核验，正式CSV、chronology、中文连续历史正文未写；新论文的原始访谈尚未取得，不分配正式S/Q/CV编号。Git提交的自身SHA不能自指写入本次提交正文，以上轮最终已核实main提交为dddb49c29c9e56e9b02585a9ab8afd1378ff81f0（此前对话报告），本轮真实SHA以写入回执与远程HEAD核验为准。
 
 **精准未完事项**：①打开Wijaya 2024论文Bab1-2、参考文献和全文附件，核原始采访对象、日期、档案引文及与Ahmad/Rusdianto重叠程度；②向UNHAS档案或作者索取访谈底稿与Rasjidi Amrah营地、军宅设计图纸，确认姓名、时间、工程范围；③取得1965 Sidrap/Parepare/Tana Toraja Kodim拘捕、监狱移交及Moncongloe入营登记，逐人核Jufri、Payung、Waris路径；④取1977 SKEP-25/KOPKAM/XII/1977、SPRIN/802/TPD/XII/1977、BAP 266—269及Reg.41/935，区分各批人数与实际权利限制；⑤轮换1965 Aceh Langsa Baperki 148人原始附页、BTI/Gerwani基层土地档案、1998—2026工会/政治组织文件，修复claim-ledger原始blob访问。GOAL保持ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-21 续接｜Moncongloe论文访问核查（ONGOING / GOAL仍进行）
+
+直接打开哈桑丁大学2024年Hendrawan Rahmat Wijaya论文仓储（https://repository.unhas.ac.id/id/eprint/49383/）并实际读取公开第一、二章57页PDF（https://repository.unhas.ac.id/id/eprint/49383/2/F061181318-1-2(FILEminimizer).pdf）及8页参考文献PDF；尝试打开所谓Full Text附件时服务器明确返回**401 Unauthorized**，虽然仓储页面标示限制至2026-05-08，不能宣称已读全文或擅自绕过权限。已打开2023年Padjadjaran法律研究原刊PDF https://jurnal.fh.unpad.ac.id/index.php/jphp/article/download/1070/592 ，其中对前政治犯身份标记、就业和政治权利限制的讨论为后续法律原件检索提供路径，不能代替原始法令或实际执行记录。
+
+核对正式source-register.csv和chronology.md：Wijaya论文**已经登记**，chronology的1969年Moncongloe叙述已载`KEP-007/KOPKAM/2/1969`、Ujung Pandang Reg.937及首批11人线索（S679，C1167-C1168）；本次不重用S编号、不重复插入时间线。论文第8—9页明确把1969年3月11人名单转引自Taufik Ahmad 2009年第152页，并非独立名单；原始军令、转移名册仍未打开。正式claim-ledger.csv再次读取为0字符而blob SHA非空，未覆盖。此次仅更新统一续接状态，尚未修改正式CSV与成熟历史正文。
+
+精准未完：①向Unhas仓储管理员依法申请2024论文完整正文及采访附录，或找作者公开授权版；②取得Arsip Kotamadya Ujung Pandang Reg.937所藏`KEP-007/KOPKAM/2/1969`原件并核签署日、适用地区；③核对1969年3月11人（Mujino、Ispoyo、Sarmanto Sarmo、Supeno、Sahabuddin、Anwar Rahim、Arif、Norman Intan、Suparti、Maryama Bado、Maryani）的个人拘押/移送登记，确认四名女性身份及Gerwani关系；④对照1977年`SPRIN/802/TPD/XII/1977`及1979—1980政治课程名册，分清拘押、居家监管与实际自由；⑤轮换Aceh Langsa 148人声明附页、BTI/Gerwani土地登记与SOBSI工厂工会名册。最新提交SHA见本节后续提交记录；GOAL保持OPEN。
