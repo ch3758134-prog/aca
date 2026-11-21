@@ -157,3 +157,16 @@
 **G7｜2024—2026工会立法与司法（访问A：2026年宪法法院192/PUU-XXIV/2026号判决官方全文已打开）**：原件 https://www.mkri.id/public/content/persidangan/putusan/putusan_mkri_14633_1784188576.pdf ，判决首页及第42—45印刷页。该判决于**2026-07-16宣读**，驳回个人申请人针对《2023年第6号法》第156条第1款中雇主支付遣散补偿“wajib”（必须）一词的全部请求；法院明确不能通过本案将雇主的付款责任转移为由BPJS承担的新补偿保障计划。第43页[3.12]重申2024-10-31第168/PUU-XXI/2023号判决要求两年内形成独立劳动法，期限**2026-10-31**；同时引用2026年第167号判决。**法院引用期限及法律后果，不等于本次已核实截至2026-11-20议会是否实际立法或基层工人获得补偿**。与2024年第168号案多家工会/Partai Buruh集体申请不同，2026年第192号案申请人为个人，不得拼接为同一组织诉讼。下一步核印尼国家法律公报2026-10-31后是否公布独立劳动法、DPR议事记录、MK 167/PUU-XXIV/2026全文、地方PHI执行判决及产业工会实际救济；不得将本判决直接推为左翼组织连续性证据。
 
 **G1—G10横向保持OPEN**：G1殖民流放和1948组织原件、G2群众组织基层财务、G3逐时命令、G4 Aceh/北苏门答腊/爪哇/巴厘/Flores地方受害者与军令、G5妇女家属证词、G6营地/释放、G7基层组织实际执行、G8英美澳中苏交付链、G9人名地名、G10正式CSV与连续中文正文仍需核验。本次新增两项分别为地方监禁证词链与当代司法链；**未取得1965地方军令原件**。正式claim-ledger.csv接口返回非空blob SHA但空正文，不覆盖或伪造C号；本次尚未并入正式CSV、chronology或readable-history，属明确归档欠账。下一接力：先调Reg.853/937与A.M.Hustin日记/访谈底稿；核2026-10-31后新劳动法公报；再轮换Aceh Langsa Baperki 148人原件与Gerwani县级学校/BTI土地登记。长期GOAL未完成。
+
+
+## 2026-11-21｜G2/G5/G4：1963年《Api Kartini》原刊与西爪哇反华骚乱（ONGOING）
+
+**直接打开的同时代原刊（A，OCR全文；扫描原页尚待逐页校对）：** 《Api Kartini》1963年第5—6期，Jajasan Melati，数字馆藏 https://pustaka.taratsa.id/book/api-kartini-1963-no-5-6-majalah-api-kartini/ ，36页OCR https://pustaka.taratsa.id/read/1390/ocr/pdf/ 。本次实际阅读OCR的刊头、目录及文章《Rasialisme harus ditentang》与苏加诺1963-05-19讲话摘录（网页行82—120、151—198）。刊头显示编辑负责人Maasje Siwi，编辑S. Asijah、Darmini、Parjani Pradono；发行地址Matraman Raya 51，Djakarta，另列1963-02-03许可证及“oplah 5000 ex.”，该5000为刊物自报印数，**不是独立审计发行量**。这一原刊能直接证明妇女运动刊物的编辑网络和当时表达的政治议程，不能仅凭刊头证明每位协作者的Gerwani正式职务。
+
+**跨地区反华暴力的当事刊物表述（A仅证明刊物当时如此报道）：** 《Rasialisme harus ditentang》称1963年5月5日Cirebon出现反华骚乱，并列Tegal、Slawi、Bandung、Tasikmalaya、Garut、Sukabumi、Cianjur、Cipanas、Bogor等扩散地点；同时指控前Masyumi/PSI/DI及外国颠覆势力，并提及教师、学生、KOPEM车辆。这些责任归属属于该刊的政治指控，**未经警察、法院、地方报纸独立核实，不得写成已证明的实施者网络**。刊物转录苏加诺1963-05-19 WANI大会讲话，批评反华种族主义并呼吁团结；目前只读到刊物转载，尚非总统讲话原始录音/官方逐字稿。1963年事件与1965—1967暴力属于不同时间机制，不能直接合并。
+
+**G2的基层社会线索：** 同一期目录有“Wanita dan Hari Kebangkitan Nasional”“Apa Tugas Kita Untuk Anak-anak?”及“Kumikijah Buruh Wanita”，后者明确给出女工题材原刊页码15；已定位但尚未核验文章完整语境，不能从标题推断厂名或工会组织。下一步打开扫描第15页，核人名、职业、工厂/地区、是否报道实际工会活动；再与SOBSI、Gerwani基层记录对照。
+
+**G4地区失衡的延伸动作：** 追1963年5月Cirebon/Tegal/Bandung警方原始事件报告、地方报纸逐日报导、伤亡/财产损失登记，区分1963反华骚乱与1965后镇压；另独立追Aceh Langsa 1965年Baperki 148人声明附件、东爪哇Perintah Operasi No.05原令，不把同一期妇女刊物当作后续地方军令的独立印证。
+
+**去重与访问级别：** 正式台账此前已有1963年《Api Kartini》转录候选，须先按刊号/数字馆藏URL检查同源；本次是明确直接打开**第5—6期36页OCR**，不是直接核验扫描页全部文字。G1—G10保持OPEN。
