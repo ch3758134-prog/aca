@@ -931,3 +931,18 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 ## 2026-11-21｜ONGOING / GOAL仍进行｜巴厘统计分歧与KKPK证言底库
 已读G1—G10完整性审计、AGENTS、stage-access、goal-continuity、正式台账与chronology的可访问返回，并复核长期缺口总账。新增核验细节已写入global-gap-tracker.md，提交 efddce4a2245febf5b91bd9856897e76af215e5a，原件层级逐项标明。巴厘：FRUS d162官方编辑说明全文引用1966-02-25 A-527报告80,000估计，1970年Howland引述军方估计6,000；NSArchive A-408网页摘要称1965-12-21至少10,000，但A-408 PDF未打开，三个数字不可平均/累加。幸存者：2014 KKPK报告PDF前言自述2013真相之年整理930案/3,396受害者、140案叙述/72证言，涵盖跨历史时期，**绝非1965死亡人数**；未读完整各章或原始录音。
 精确接续：①打开NSArchive A-408 OCR/PDF核原文及消息来源；②追FRUS d162所引A-527、A-641原电报与巴厘Jembrana/Negara地方记录；③读KKPK报告第62—95、285—294、339—355页并取原始听证逐字稿、930案去重规则；④轮换Flores/Kupang、West Kalimantan与SOBSI/BTI基层原件；⑤优先修复正式claim-ledger.csv空正文问题，安全按实际ID并入source/claim/search/coverage/chronology和成熟中文历史正文。G1—G10全部OPEN，正式CSV及中文正文仍未并库，不得宣称已完成。 
+
+
+## 2026-11-21 18:55 CST｜ONGOING / GOAL仍进行｜1951年劳动法条文和施行机制复核
+
+**写入前远程main HEAD**：`69a02855023e4e2dd45139981922160af5bb9501`（GitHub git/ref/heads/main实时读取）；续接文件写入前blob `3f7e89eba2da6ae25937326b18e0cb9329be7c5d`。已读取AGENTS、goal-continuity、stage-access、正式source-register/search-log/coverage-matrix全文、chronology及续接状态；正式claim-ledger.csv blob `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a` 经fetch_file仍为零字符，禁止覆盖。
+
+**本次直接打开的文本**：1951年第1号劳动法的完整可见印尼文转录 https://pasal.id/peraturan/uu/uu-no-1-tahun-1951 （尤其第7、9、13、15、21条），对照1951年第4号政府条例另一独立网站的OCR转录 https://peraturan.info/pp/1951/4/isi （第I、II、III、IV条及1951-02-28第1513/51号劳动部更正函）。本次再次尝试官方PP4/1951 PDF https://www.peraturan.go.id/files/pp4-1951.pdf ，网页工具超时；此前轮次已经记录官方PDF原件成功打开，本次**不声称重新核读影印**。两网站均是转录，不算两份独立历史证人。
+
+**条文细节与交叉核验**：第7条涉及妇女夜间劳动原则及政府条例例外，第9条涉及危险/有害劳动及待制定的具体工作类别；第13条涉及生理期、产假及哺乳，第15条第2款规定5月1日免除工作义务。PP4/1951第I条明示施行1948劳动法第8、13、15条等，第II条施行部分工时规则，第III条明确部分地区起算日不同；**PP4/1951并未列第7或第9条为本条例所施行条款**。因此1954-03-15劳动部长Abidin称第7/9条尚未施行，与1951年妇女休假条款施行不冲突。此为法律文本之间的核验，不能证明1954年后第7/9条始终未施行，也不能证明糖厂实际排班和就业后果。PP4/1951附更正函指出第II条转录遗漏原PP13/1950有关政府雇员工时的保留语；法律文本版本必须区分原公布与后续校订。法律第15条劳动节规定的规范性内容亦不能直接证明所有企业在5月1日放假。
+
+**去重与写入范围**：正式chronology已有1951年法律及PP4/1951条目，正式source-register现存大量劳动法相关资料；本次没有擅自新增S/C/Q/CV编号，正式CSV、chronology与成熟中文历史正文仍未改。此处保存已读文本定位和可检验的新比较，待统一安全并库。当前main存在其他研究提交，任何后续更新必须重新读取HEAD及文件blob，禁止用旧全文覆盖。
+
+**下一轮精准未完事项**：①从BPK/国家法规门户获取1951年第1号法官方公报PDF，逐条核第7、9、13、15、21条及施行授权；②检索1954年以后第7、9条实施条例/部长决定，并核1925 Staatsblad 647、1941 Staatsblad 45原件与废止链；③查1953—1955年东爪哇具体糖厂的夜班工人名册、劳动监察、SOBSI/Gerwis申诉和解雇记录，检验Abidin举例；④核1954 Gerwis大会原刊影印及基层会费、支部报表，区分章程和实际组织；⑤继续轮换Aceh Langsa 148人原名单、Moncongloe 1977军令及1998后工会登记执行证据，优先修复claim-ledger读取并更新正式台账与成熟连续中文正文。
+
+**最新提交SHA续接规则**：本节记录提交前HEAD，实际本节提交SHA见GitHub写入回执及main远程ref；Git提交不能在同一提交内容中自指记录其自身SHA。下次运行先读取最新main ref核验。GOAL保持ACTIVE / OPEN-ENDED。
