@@ -1,0 +1,70 @@
+{
+  "batch": 13,
+  "method": "Count text in article before sources/navigation, including li; main excludes embedded research-fulltext; not a substitute for scholarly review",
+  "entries": [
+    {
+      "path": "regions/east-java.html",
+      "mainTextChars": 1640,
+      "fullTextChars": 1640,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1406
+    },
+    {
+      "path": "regions/flores.html",
+      "mainTextChars": 2475,
+      "fullTextChars": 2475,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 2204
+    },
+    {
+      "path": "regions/jakarta.html",
+      "mainTextChars": 750,
+      "fullTextChars": 750,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 617
+    },
+    {
+      "path": "regions/north-sumatra.html",
+      "mainTextChars": 645,
+      "fullTextChars": 645,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 523
+    },
+    {
+      "path": "regions/sikka-maumere.html",
+      "mainTextChars": 4248,
+      "fullTextChars": 4248,
+      "listItemChars": 2576,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1433
+    },
+    {
+      "path": "regions/south-blitar.html",
+      "mainTextChars": 4055,
+      "fullTextChars": 4055,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 3691
+    },
+    {
+      "path": "regions/south-sulawesi.html",
+      "mainTextChars": 1482,
+      "fullTextChars": 1482,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1283
+    },
+    {
+      "path": "regions/west-kalimantan.html",
+      "mainTextChars": 2190,
+      "fullTextChars": 2190,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1959
+    }
+  ]
+}
