@@ -826,3 +826,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准续接事项**：①索取TEPERDA Sulselra **SPRIN/802/TPD/XII/1977** 1977-12-20签署原件、附件姓名/分类及实际出营记录；②按Komnas HAM脚注追BAP 266—269/BAP_TPPH65/III/2009原始证词，核A54/B55/C56与1974、1977不同批次；③核查1977-12-20命令“居家拘押”执行、出行许可和1978—1979最终解除控制的地方文书；④取得Arsip Muhammad Saleh Lahade Reg.441的1965-10-18军令影印，核PDD/PPDD编号与执行机关；⑤轮换Aceh Langsa 1965-10-18 Baperki 148人附件、Gerwani/BTI地方土地证、1998—2026劳工组织登记与行动原件。
 
 **GOAL永久 ACTIVE / OPEN-ENDED**。本次续接文件的提交SHA由GitHub写入响应产生，不能在同一提交正文自指；下轮以远程main HEAD核验该SHA，若有后续并发提交须重新确认。
+
+
+## 2026-11-21 11:46 CST｜ONGOING / GOAL仍进行｜Moncongloe证词原始BAP定位与1977年释放口径
+
+**本次核读范围**：重新读取AGENTS、goal-continuity、stage-access、统一续接状态、正式source-register/search-log/coverage-matrix/chronology（路径均为archive/records/）。claim-ledger.csv依然有非空blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，UTF-8正文却为空，未覆盖、未虚构C编号。正式来源已含相关Komnas HAM及Moncongloe研究，未将相同PDF的镜像、二次百科或相同作者研究当独立新来源。
+
+**新增具体档案取件入口**：直接核读Komnas HAM 1965—66事件调查摘要印尼文PDF（https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf），印刷页149—151，核对脚注证人原始调查笔录：A=**266/BAP_TPPH65/III/2009**，B=**267/BAP_TPPH65/III/2009**，C=**268/BAP_TPPH65/III/2009**，D=**269/BAP_TPPH65/III/2009**。A称1977-12-20与另466人出营；B称依SPRIN/802/TPD/XII/1977从完全拘押改为居家拘押；C的1974-08-08释放文书列C3；D的1977释放文书列B2。数字是证人转述，不等于同日完整官方名册。BAP编号来自调查报告脚注，**尚未实际取得BAP原件、军令或释放簿**。
+
+**交叉与反证**：直接打开Taufik Ahmad《Kamp Pengasingan Moncongloe》（Desantara 2008，公开书籍转录 https://www.academia.edu/42697596/MONCONGLOE_MONCONGLOE_DESANTARA ）；书中概述1969年开始转运拘押者、1977年分批离营、另有42人转至Nanga-Nanga，书中首批466人的记述与1977年证人“另466人”处于**不同时间/事件口径**，不能凭相同数字推断同一批次。另打开《Sulawesi Bersaksi》公开书籍转录 https://id.scribd.com/document/341286070/Sulawesi-Bersaksi ，可见多位幸存者的独立章节和“Dari Moncongloe ke tahanan rumah dan kota”叙述，属于事后回忆/编辑材料，不能代替军方原始登记。二次百科 https://p2k.stekom.ac.id/ensiklopedia/Kamp_pengasingan_Moncongloe 大段复述Komnas HAM证词，不作为独立印证。报告的“1970/1977”内部年份笔误仍未解决。
+
+**本次正式归档**：已向archive/records/chronology.md追加1974—1977 BAP案号及证据分层；该提交为 **084f3afe1cf19023db9ba9ced2765dd412932d93**。本续接状态文件的最终提交SHA应从GitHub写入响应及下一次远程main HEAD核验；Git提交正文无法包含其自身SHA。四张正式CSV未改；未将不成熟材料写成连续中文历史正文。
+
+**精准未完（下一轮直接执行）**：①向Komnas HAM索取266、267、268、269/BAP_TPPH65/III/2009四份原始笔录及证人匿名处理说明；②调取TEPERDA Sulselra SPRIN/802/TPD/XII/1977原件、附件名单、1977-12-20出营签收及居家拘押许可；③对照Ahmad 2008印刷页205以后释放章节与1977年466/869/42等不同统计的母体、时间和重复计数；④检索《Sulawesi Bersaksi》中具名幸存者的羁押地点、时间及采访记录，并与Moncongloe名单交叉，严禁推断未明示的组织身份；⑤轮换Aceh Langsa 1965 Baperki声明附件、Gerwani/BTI地方土地改革名册及1998—2026工会原始登记与行动。GOAL ACTIVE / OPEN-ENDED。
