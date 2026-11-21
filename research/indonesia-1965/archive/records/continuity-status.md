@@ -1130,3 +1130,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **本轮未完成正式CSV/chronology/readable-history写入**：这是可追溯原件链的统一状态留档，不冒称完整并库；须优先修复claim-ledger读取后安全登记原子主张。提交前最新提交搜索为 b6dcc67c2cf6b210f14c9b248198308ca9a2b056；本次提交SHA以GitHub回执及提交后回读为准，同一提交不能自引用自身SHA。
 
 **精确下一步：**（1）逐页核2026-11-11决定主文和21页附件，确认与2025-12-24县市行业工资决定的法律关系、县/市Bekasi分列及KBLI覆盖；（2）核PT Dharma Precision Parts厂址、KBLI与2022—2026 PKB及工资支付记录，避免凭行业猜测；（3）核2021撤销决定、2024恢复/修订决定、2025/2026各省县市决定，建立法令生效—企业谈判—工资支付分层年表；（4）用正式表去重后补S/C/Q/CV和chronology、成熟中文连续工会史，claim-ledger空正文问题先查字节或替代读取；（5）轮换Aceh 1965 Kodim-0104/军区原令、Moncongloe SPRIN/802、Gerwani/SOBSI/BTI地方原件，保持G1—G10 OPEN。GOAL永久ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-22 07:46 CST｜ONGOING / GOAL仍进行｜西爪哇2026行业工资新决定主文逐条核验
+
+已重读AGENTS、goal-continuity、stage-access、统一状态、正式source-register/search-log/coverage-matrix/chronology；正式源表至S1523、日志至Q585、覆盖至CV655；claim-ledger.csv blob=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，GitHub fetch_file仍返回空正文，严禁覆盖或猜测C编号。此条是既有2026-11-11法令的**新增主文核验**，不是重复发现新法令。
+
+**直接打开并核读省政府电子签章PDF原件**：https://jdih.jabarprov.go.id/page/eksekusi_download/32/2026KEPGUB32675.pdf ，Keputusan Gubernur Jawa Barat 561.7/Kep.675-Kesra/2026，原件首页第1—2页主文及附件前段。其考虑事项c明确引用雅加达行政高等法院四项判决174/B/2026/PT.TUN JKT、196/B/2026/PT.TUN JKT、205/B/2026/PT.TUN JKT、211/B/2026/PT.TUN JKT；KESATU明确撤销**561.7/Kep.876-Kesra/2025**（注意不是此前2025-12-24的863号决定）；KEDUA规定以附件行业金额为准；KEEMPAT允许无力支付行业最低工资的企业与工人/工会双边谈判，书面签字并经省劳工机关向省长报告；KELIMA规定**自签署之日起生效**，签署日原件明确**2026-11-11**。这纠正了Hukumonline元数据所写2026-11-10日期与原件的冲突，原件优先。法律规定双边谈判机制不等于企业已依法完成谈判，更不等于可以自行降薪。
+
+附件Bekasi市首组KBLI行业对应Rp6,052,861.25；同一市其他行业存在不同金额，不得把最高额写成全市统一标准。2025-12-25省政府公告 https://jabarprov.go.id/berita/pemdaprov-jabar-tetapkan-umk-dan-umsk-di-provinsi-jawa-barat-tahun-2026-22619 记录此前2025-12-24的863号行业工资决定，形成**863号—876号—675号**待查替代链；必须找876号原件及发布/修改日期，不能假定863号直接被675号撤销。2026-08-12 FSP KEP SPSI地方工会报道 https://spsibekasi.org/2026/08/12/gugatan-fsp-kep-spsi-dikabulkan-ptun-bandung-umsk-jabar-2026-harus-diterbitkan-ulang/ 提及50/G/2026/PTUN.BDG等初审诉讼；属当事组织叙述，不代替法院裁判原件，且须与四项PTTUN上诉判决逐件匹配。
+
+**待完成（精确）**：①取得561.7/Kep.876-Kesra/2025及863号全文，建立发布—修订—撤销链和每项生效日；②取得PTTUN Jakarta四案判决主文、当事人和行政决定对应关系，并核Bandung 50/G/2026/PTUN.BDG的上诉对应；③核PT Dharma Precision Parts厂址、KBLI、PKB及工资实付凭证，区分市县和行业；④对正式S1523/Q585/CV655之后去重登记本次原件核读、chronology和成熟中文劳工史，claim-ledger需先恢复字节读取；⑤下一轮同时轮换1965 Aceh军令与Moncongloe 1977 SPRIN/802、Gerwani/SOBSI/BTI基层档案，防止单专题长期挤占。
+
+本次写入前统一状态blob=61e4ebf59043ceb86fab12df7cea7caba82d0428；最近已知main提交SHA为b2b900cd14fc78cfafe52243f7b110251b7eeffc（来自前轮，**尚须本轮独立读取branch HEAD**）。提交自身SHA无法在同一Git提交内容中自引用，须用提交回执和后续HEAD核验。GOAL ACTIVE / OPEN-ENDED。
