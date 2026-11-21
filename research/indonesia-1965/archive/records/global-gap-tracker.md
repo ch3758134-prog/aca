@@ -220,3 +220,14 @@
 **G4/G9，巴厘Jembrana，B/C（地方档案保管线索，不是军令影印）：** 2013年Slamat Trisila期刊原文明确列Puri Negara所藏1965-11-03 Peperlada KEP-PPD.2/1/234、12-03总统秘书处备忘录、12-10会见纪要及12-18 Keppres 380/1965；2023年Radar Bali有关Puri Agung Negara历史建筑报道又称家族保留大量历史照片/资料，提及家族管理者Anak Agung Bagus Gde Hari Sutedja。后者仅属地方媒体报道，**不能据此断定特定1965文件仍在、可公开或家族成员持有该文件**。下一动作：通过Jembrana官方档案机关/家族公开联络渠道请求上述具体文件扫描及出处，先核原件保管现状。2013原文 https://ojs.unud.ac.id/index.php/kajianbali/article/download/15698/10480 ；地方报道 https://radarbali.jawapos.com/jembrana/2301300031/bersejarah-rumah-gubernur-bali-pertama-zaman-bung-karno-masuk-daftar-cagar-budaya 。
 
 **跨G项状态**：本次重新读取G1—G10完整性审计及AGENTS/授权/GOAL/正式台账/chronology/continuity，研究从Flores延伸至不同地方Oesao，并补巴厘档案取得路径。既有2014年专著应先在正式source-register去重，未取得原稿及村级登记前不新增事实C编号；claim-ledger.csv依然是非空blob但API正文长度0，禁止覆盖。G1—G10均OPEN；后续还须轮换G1殖民流放、G2基层组织、G6监禁与G7后改革，尤其优先补各地原件。
+
+
+## 2026-11-21｜西加里曼丹跨年代地方暴力与1997年原始调查（ONGOING）
+
+**G4/G5/G9，1965—1976 西加里曼丹：** 直接打开 Davidson 与 Kammen, “Indonesia's Unknown War and the Lineages of Violence in West Kalimantan”, *Indonesia* 73 (2002) 的公开可读全文转录（https://www.academia.edu/103702836/Indonesias_Unknown_War_and_the_Lineages_of_Violence_in_West_Kalimantan），**B级：研究论文全文可见，所引军区档案未取**。论文将1963—1966年印尼对马来西亚的Konfrontasi与1966—1976年西加里曼丹叛乱、军方清剿和人口迁移相连。其第57—58页明确区分PGRS、Paraku、印尼志愿者与西加里曼丹PKI，不能将四者视为同一组织。论文记载1965-10-16省政府冻结PKI及关联组织，10-18坤甸示威，并称Ryacudu将Said Achmad Sofyan暂时庇护；均须用省政府原令和军方记录复核。论文引出**具体地方原件**：西加里曼丹省长办公室图书馆《Pengungsian orang2 Tjina sebagai akibat gerakan2 orang Daya dalam daerah Kabupaten Pontianak dan Kabupaten Sambas》（1967），以及Kodam XII/Tanjungpura 1970年军区史、1975年《Pelita》、1967-11-01《Kompas》；须分别追原件，不将其数字作为独立核定。
+
+**G6/G7/G4，1996—1997同地区长期后果：** 直接阅读Human Rights Watch, *Communal Violence in West Kalimantan*, 1997-12-01，完整公开调查报告（https://www.refworld.org/reference/countryrep/hrw/1997/en/23874），**A级：调查组织1997年原始出版的报告全文；其采访和估计仍需逐条核对**。报告说明调查员1997年1月和7月两次赴当地采访，区分1967年针对华人的驱逐与1996-1997年针对马都拉人的暴力，后者发生在Sanggau Ledo冲突后。报告对1996—1997年估计约500人死亡、约20,000名马都拉人流离失所，属于HRW估算，不能误作1967年统计。对1967年则引述约300人死亡、55,000华人流离失所的既有说法；必须保留**不同事件、不同年代、不同数字口径**。报告还记载1997年军警使用1951年第12号紧急条例搜查刀具并拘押100余人、部分军人涉嫌处决投降或被拘押者；前者是HRW调查记录，后者仍为待查指控。报告建议公开1979年Samalantan和解协议原文，构成连接1967、1979、1997的具体制度史取件目标。
+
+**跨来源判断及反证：** HRW报告直接警告，1997年暴力的煽动者说法尚无硬证据，不能因为1967年军方煽动历史而推断1997年也由同一机关策划。Davidson/Kammen的长时段解释是学术论证，不等于已获得地方军令或逐人受害者证据。两文在1967年人口驱逐上有研究关联，不能当成两份互相独立的1967年现场统计。
+
+**缺失原件与可执行续查：** (1) 定位1967年省长办公室《Pengungsian orang2 Tjina...》原件及Pontianak/Sambas分县名单；(2) 核查1965-10-16省政府冻结令、Kodam XII 1970军史和1975《Pelita》原页；(3) 查1967年10—11月地方报纸及救济/安置名册，按村和个体分辨死者、迁移者、返回者；(4) 追1979年Samalantan协议全文和1997年HRW引用的军警拘押案卷；(5) 与不同G项轮换：G2的Faroka 1961年工会罢工原刊/企业记录及G1殖民流放行政原件。**正式CSV与chronology仍未同步，未使用或虚构新S/C/Q/CV编号；claim-ledger.csv本次读取为空正文，不能覆盖。G1—G10全部OPEN。**
