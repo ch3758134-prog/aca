@@ -878,3 +878,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 ## 2026-11-21｜ONGOING / GOAL仍进行
 本次已核读completeness-audit-2026-11-09.md及AGENTS、stage-access、goal-continuity、正式文件路径和缺口总账。G8直接核读FRUS d127/d128/d141/d175/d211，发现1966-06-17 d211明确纠正“1965年12月采购=原方案已交付”的错误推断：原提案设备未按原建议提供，系统缩小，1966-02-26有从雅加达库存调拨设备的记录；1966-01-14方案遭否决，06-24新方案获批。与G4地方军令/受害者链保持独立，不把跨国通信计划等同地方杀戮的直接指挥。公开FRUS正文为A，编者脚注涉及未直接取得的会议纪要，后者不能算原件已读。来源链接及缺件见global-gap-tracker.md。正式claim-ledger.csv经GitHub读取仍返回空正文，不覆盖、不编造C编号；正式CSV、chronology和中文连续历史正文未同步。
 下一动作：①调303委员会1965-11-19/12-17、1966-01-20/06-24会议纪要；②找1966-02-26 SAB及Nasution通信设备库存调拨、签收；③查1965年7—9月Philco三站项目取消与11月秘密项目之间是否有采购合同连续性；④独立追Aceh Kodim-0104及东爪哇Inventaris 316-a原军令/执行回执；⑤转G2 Gerwani/SOBSI地方原刊或G6拘押释放名册。G1—G10 OPEN。
+
+
+## 2026-11-21 14:51 CST｜ONGOING / GOAL仍进行｜Moncongloe 2024年新论文原始访谈线索
+
+本次重新读取 AGENTS、goal-continuity、stage-access、正式四张CSV、chronology与统一续接状态。正式claim-ledger.csv blob仍为362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，内容接口返回空串；未覆盖或虚构C号。正式source-register已登记S1522记者访问、S1521 Ahmad 2013；本轮不将同一采访/统计重复当独立来源。
+
+**新增可核验馆藏线索（仅元数据及摘要已打开）**：Hasanuddin University 官方学位论文仓储 https://repository.unhas.ac.id/id/eprint/49383/ ，Hendrawan Rahmat Wijaya, *Daily Politics Tahanan Politik PKI Dalam Kamp Pengasingan Moncongloe, Sulawesi Selatan (1969–1977)* (2024)。页面明确作者除政府档案还进行1965幸存者口述采访，研究营地强制劳动、秘密互助及日常抵抗；列出Bab1-2 PDF、参考文献PDF及Full Text PDF。页面的全文权限提示为“Restricted to Repository staff only until 8 May 2026”，目前日期已晚于该日，但本次仅核读页面，**未实际下载全文，不能据摘要宣称核验访谈对象或新的具体事件**。需检查公开附件能否打开，并比对与Taufik Ahmad的访谈对象是否重复。
+
+**再次直接打开的交叉材料**：Eko Rusdianto 2020-02-18《Orang-orang Pembuangan》 https://www.ekorusdianto.net/2020/02/orang-orang-pembuangan.html ，具名Jufri Buape、P.L. Payung、Waris Thahir、Rasjidi Amrah，含1965年地方拘捕及强制筑路回忆；Taufik Ahmad 2010《Survival through slavery》 https://www.insideindonesia.org/editions/edition-998/survival-through-slavery ，含911人、42人转Nanga-Nanga及强制劳动概述。后者2010与2013研究同作者，不作完全独立统计来源。记者的“营地150平方米”与五栋6×20米营房直接矛盾，仍不采用。1969年营地完工与1971年达911人统计时点存在不同表述，不能抹平；1977出营亦不等于完全自由。
+
+**本次归档范围**：仅在统一续接状态记录新论文馆藏及交叉核验，正式CSV、chronology、中文连续历史正文未写；新论文的原始访谈尚未取得，不分配正式S/Q/CV编号。Git提交的自身SHA不能自指写入本次提交正文，以上轮最终已核实main提交为dddb49c29c9e56e9b02585a9ab8afd1378ff81f0（此前对话报告），本轮真实SHA以写入回执与远程HEAD核验为准。
+
+**精准未完事项**：①打开Wijaya 2024论文Bab1-2、参考文献和全文附件，核原始采访对象、日期、档案引文及与Ahmad/Rusdianto重叠程度；②向UNHAS档案或作者索取访谈底稿与Rasjidi Amrah营地、军宅设计图纸，确认姓名、时间、工程范围；③取得1965 Sidrap/Parepare/Tana Toraja Kodim拘捕、监狱移交及Moncongloe入营登记，逐人核Jufri、Payung、Waris路径；④取1977 SKEP-25/KOPKAM/XII/1977、SPRIN/802/TPD/XII/1977、BAP 266—269及Reg.41/935，区分各批人数与实际权利限制；⑤轮换1965 Aceh Langsa Baperki 148人原始附页、BTI/Gerwani基层土地档案、1998—2026工会/政治组织文件，修复claim-ledger原始blob访问。GOAL保持ACTIVE / OPEN-ENDED。
