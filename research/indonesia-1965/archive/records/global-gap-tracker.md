@@ -309,3 +309,14 @@
 **G2/G3/G10 Gerwani—KOTI（等级A：ANRI官方服务/馆藏制度网页，等级C：先前KOTI目录条目，非卷宗原文）：** ANRI 2013-12-02官方公告证实其已整理1963—1967年KOTI档案目录，并明确静态档案按来源机关和原始顺序管理。ANRI现行服务页面明确允许申请静态档案阅读与复制，说明目录746—752及1965年10—11月军令的下一步不应仅反复搜索摘要，而应按“全宗KOTI + 条目号 + 日期 + 题名”申请影印、核封面与签发机关、页码及收发登记。https://anri.go.id/publikasi/berita/ekspose-inventaris-arsip-komando-operasi-tertinggi-tahun-1963-1967 ; https://www.anri.go.id/en/public-services/archives-and-reading-room-services 。不能由馆藏目录推断Gerwani 1964年协助SOBSI代表大会的指示已经执行。
 
 **证据依赖与反证：** Melvin 2013文章、2015报道和2018书籍可能共享同一批Aceh档案，不能计为三份独立原件；行政清洗不能从文书题名直接推出所有涉案人被捕或遇害。下步以各文件签署、接收和实施档案对照幸存者证词，并轮换G1殖民流放与G7工会后续。正式CSV与时间线若未安全读取完整文件，不得覆盖；G1—G10保持OPEN。
+
+
+## 2026-11-21｜G4 Aceh军方卷宗的独立性核对 × G7 2000年工会法原件（OPEN）
+
+**执行前检查：** 已重新读取2026-11-09完整性审计（G1—G10）与AGENTS、授权、GOAL、continuity、research-status、正式台账开头及本总账；本段不使用预登记S/C编号。此次并非新的一轮终点。G1早期组织、G2基层工农妇女、G3跨机关逐时、G4地区暴力、G5幸存者、G6拘押/重组、G7改革后工会、G8外部介入、G9关系空间索引、G10并库/正文均继续OPEN。
+
+**G4/G3/G9：Aceh，1965年10月（等级B：研究者本人公开叙述/著作全文；军区原件未直接取得）。** 直接阅读Jess Melvin 2015-10-01发表于Inside Indonesia的《Documenting genocide》全文（https://www.insideindonesia.org/editions/edition-122-oct-dec-2015/documenting-genocide）。作者陈述其2010年在Banda Aceh旧情报机关档案中获得约3000页复印材料；据其研究分期，10月1—5日为初始动员、10月6日起出现公开杀害、10月14日起出现军事控制场所系统性杀害、12月以后为政权巩固。**这些是作者对档案的分期和解释，不能直接视为本项目已核原始逐日军令。** 另直接打开2018年Routledge出版商的著作目录（https://www.routledge.com/the-Army-and-the-Indonesian-Genocide-Mechanics-of-Mass-Murder/Melvin/p/book/9781138574694），确认第3章“1—6 October”、第4章Djuarsa 1—11 October、第5章7 October—November、第6章14 October—December及第7章1966年反华暴力/行政清洗的研究组织。章节划分**不是**独立佐证。Melvin 2015报道、2018著作与此前引用的2013论文共用Aceh档案，应归为**同源证据家族**，不能三篇计三证。须索取West Aceh 1965-10-11特别会议21页八件命令包、East Aceh Pantja Sila Defence Front成立/政府支持文件、军区年度报告及原始地图，按签署人—收件机关—执行记录—受害者姓名交叉核验。公开报道中“10月6日开始公开杀害”属研究者地区分期，不可外推为全国统一起点。
+
+**G7/G6/G2：2000年8月4日工会法，印尼全国（等级A：政府官方法律PDF全文可访问及劳动部JDIH法条摘要；法律施行效果尚未验证）。** 直接打开官方法源《Undang-Undang No.21 Tahun 2000 tentang Serikat Pekerja/Serikat Buruh》PDF：https://www.peraturan.go.id/files/uu21-2000.pdf ；对照劳动部JDIH登记页：https://jdih.kemnaker.go.id/peraturan/detail/32/undang-undang-nomor-21-tahun-2000 。法律于2000-08-04公布，2000年法律公报131号，补充公报3989号，签署人为Abdurrahman Wahid；JDIH明确列工人至少10人可成立工会、向当地劳动主管部门书面通知登记（第18条）、登记后代表集体协议和工业争议（第25条）。这证明**法定结社与登记规则**，不证明某地实际登记、会员分布、企业承认或SOBSI与改革后工会存在组织继承。PDF前言明确追溯1956年批准ILO第98号公约及1999年人权法，提示须区分先前规范权利与2000年具体组织登记机制。下一步取2000—2004年县市登记簿、SBSI/KSPI/KSPSI等组织自身章程与干部名单、工厂集体合同、劳工部年度统计；逐个行业和省份追工会自由的执行差异，并与1998年后政治组织、2021年Partai Buruh支持结构相互核对。2026年适用文本还须复核最新官方修法，不能以2000年原版推断现行每条内容。
+
+**G10行动/阻碍：** 本次正式CSV及chronology仅读取了开头，不能确认最新S/C/Q/CV编号及全部重复项，故暂未将这两条写入正式台账，未伪造编号或覆盖。优先通过分段读取/本地git完整取回解决大文件空正文，再进行原子并库、时间线与连续中文历史正文更新。原始Aceh命令包和基层工会登记簿仍未取得。**全部G项保持OPEN。**
