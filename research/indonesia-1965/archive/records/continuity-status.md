@@ -805,3 +805,7 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **G7 1999特赦编号反证线索**：已直接打开官方1999年第68号总统令全文 https://www.peraturan.go.id/files/kp68-1999.pdf （此前S469/S487重复），BPK登记 https://peraturan.bpk.go.id/Details/58415/keppres-no-68-tahun-1999 确认1999-07-02；另有第三方目录 https://www.pancasila.site/arsip/jdih-keppres-23-1999 声称1999年第23号总统令也给予Dita Indah Sari特赦，但其所指BPK官方详情 https://peraturan.bpk.go.id/Details/89092/keppres-no-23-tahun-1999 直接打开404。**不得认定第二份总统令存在或认定68号被替代**；需用官方1999年总统令总目录及国家公报核对第23号原始标题。检索摘要和第三方目录不是原件。
 
 **精准未完事项**：（1）从Arsip Muhammad Saleh Lahade Reg.441调取1965-10-18军令原件，校正PPDD/PDD及年份字段并确认签署人、送达部门和执行范围；（2）对照Komnas HAM证人BAP 266—269及SPRIN/802/TPD/XII/1977影印，逐人核实拘押、劳动和1977年转居家限制；（3）查1999年第23号总统令国家公报与BPK官方总目录，排除第三方错误索引；（4）取得1998年三份Dita Sari特赦建议及1999-07-05监狱释放记录；（5）轮换1965 Aceh Langsa Baperki名单、Gerwani/BTI地方土地改革和SOBSI工会原始资料，完成正式台账去重与成熟中文历史正文。GOAL保持OPEN；本次新线索先写入统一状态，正式S/C/Q/CV、chronology及中文正文未修改，不冒称并库。最新成功提交SHA须在提交后另行核对；上述445670515dcf2da5402ac1abbc7fb21a9923a5ca仅为提交前HEAD。
+
+
+## 2026-11-21 UTC｜ONGOING / GOAL仍进行
+已复读全局G1—G10审计及规则，跨G实质核读：FRUS棉兰65号电报、Komnas HAM 1965–66调查全文（棉兰证人及Muhammad Ginting）、Boven Digoel县政府建营历史全文；2021流放论文仅摘要。详情见global-gap-tracker.md。当前证据链：棉兰1965年11月领馆报告与2012证词之间的可追踪人物/机关关系；1927行政流放与跨政治组织羁押名册。精准续查：①Komnas HAM PDF棉兰证词上下文与证人案号；②1965-11-10棉兰报纸原刊、地方警局与Kodim卷宗；③FNM-1515/1516原文；④1927 Becking建营日志、船舶乘客名册与总督流放令；⑤切换G2工会/妇女基层原刊及G8英澳原电报。正式claim-ledger接口零字符，不覆盖。未同步CSV、chronology、中文正文；G1—G10 OPEN。
