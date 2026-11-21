@@ -809,3 +809,20 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 
 ## 2026-11-21 UTC｜ONGOING / GOAL仍进行
 已复读全局G1—G10审计及规则，跨G实质核读：FRUS棉兰65号电报、Komnas HAM 1965–66调查全文（棉兰证人及Muhammad Ginting）、Boven Digoel县政府建营历史全文；2021流放论文仅摘要。详情见global-gap-tracker.md。当前证据链：棉兰1965年11月领馆报告与2012证词之间的可追踪人物/机关关系；1927行政流放与跨政治组织羁押名册。精准续查：①Komnas HAM PDF棉兰证词上下文与证人案号；②1965-11-10棉兰报纸原刊、地方警局与Kodim卷宗；③FNM-1515/1516原文；④1927 Becking建营日志、船舶乘客名册与总督流放令；⑤切换G2工会/妇女基层原刊及G8英澳原电报。正式claim-ledger接口零字符，不覆盖。未同步CSV、chronology、中文正文；G1—G10 OPEN。
+
+
+## 2026-11-21 10:53 CST｜南苏拉威西 Moncongloe 1977年释放令与证词核对（ONGOING / GOAL仍进行）
+
+**本次研究前GitHub近期提交基线**：7b9a09bc667f84e420f2607725f087080e8e9562（GitHub最近提交搜索；应再独立验证main HEAD，不能把最近搜索结果直接视为ref原子读）。已重新读取AGENTS、stage-access、goal-continuity、正式source-register、search-log、coverage-matrix、chronology；claim-ledger.csv blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a 仍返回空正文，禁止覆盖或猜测C编号。正式chronology位于archive/records/chronology.md。
+
+**原件层级核读**：直接打开印尼国家人权委员会（Komnas HAM）《Ringkasan Eksekutif Tim Ad Hoc Peristiwa 1965–1966》公开PDF镜像全文：https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ，印刷页145、150、154（PDF提取行14182—14220、14668—14684、14956—15008）。调查报告转录 **SPRIN/802/TPD/XII/1977**，称由TEPERDA少校CPM Idham Alam于1977-12-20签署，将部分Moncongloe被拘者从“完全拘押”改为“居家拘押”，并限制离家，除非取得当地DANDIM或TEPERDA许可。证人B55称从Majene监狱转至Moncongloe，1977-12-20按该令改为居家拘押，未受法庭审理；证人A54称同日与另466人离开营地；证人C56称1974-08-08按C3分类获释。**这些是人权委员会调查报告对证言和命令的记载，尚未取得命令影印、逐人释放簿及BAP原始证词，不能把居家拘押称为完全恢复自由。**
+
+**发现需要回查的报告内部笔误/口径冲突**：印刷页145附近出现“20 Desember 1970”而相邻语境、命令编号及多名证人均为1977-12-20；先标注疑似排印错误，不能默默改写原文。该页又以约1000名Moncongloe及9000名Buru的总释放数说明10,000人，属于调查报告概数，与A54所称“另466人”口径不同，不可直接相加。1977-12-20的具体命令号与签署人可用于查TEPERDA Sulselra、Kopkamtib及军事档案。
+
+**交叉核验**：直接打开Taufik Ahmad, “Survival through slavery”, Inside Indonesia, 2010-01-24：https://www.insideindonesia.org/editions/edition-998/survival-through-slavery ，叙述Moncongloe营地及拘押劳动；其研究与Komnas HAM对拘押制度的总体描述方向相符，但同一地区研究与证人可能存在材料依赖，不能视为两份完全独立的1977年命令原件。地方二次百科资料 https://p2k.stekom.ac.id/ensiklopedia/Kamp_pengasingan_Moncongloe 复述相关内容，**不作为独立第三重证据**。此前追查的1965-10-18南苏拉威西军令Reg.441仍未取得影印，编号KEP.024/10/1965/PDD/1965与Kep.024/10/PPDD/1965冲突仍OPEN。
+
+**正式并库状态**：此轮未修改正式四CSV及chronology，未编造S/C/Q/CV编号；此条仅为有原文定位的续接调查笔记，尚待对现有正式登记逐项去重。未生成列表式HTML，也未把证词片段强行拼成成熟中文历史正文。
+
+**精准续接事项**：①索取TEPERDA Sulselra **SPRIN/802/TPD/XII/1977** 1977-12-20签署原件、附件姓名/分类及实际出营记录；②按Komnas HAM脚注追BAP 266—269/BAP_TPPH65/III/2009原始证词，核A54/B55/C56与1974、1977不同批次；③核查1977-12-20命令“居家拘押”执行、出行许可和1978—1979最终解除控制的地方文书；④取得Arsip Muhammad Saleh Lahade Reg.441的1965-10-18军令影印，核PDD/PPDD编号与执行机关；⑤轮换Aceh Langsa 1965-10-18 Baperki 148人附件、Gerwani/BTI地方土地证、1998—2026劳工组织登记与行动原件。
+
+**GOAL永久 ACTIVE / OPEN-ENDED**。本次续接文件的提交SHA由GitHub写入响应产生，不能在同一提交正文自指；下轮以远程main HEAD核验该SHA，若有后续并发提交须重新确认。
