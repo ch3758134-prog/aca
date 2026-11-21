@@ -1043,3 +1043,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **去重与并库限制**：正式S1523已有Levert；本次新打开的国家档案馆PDF完整目录与具体卷号尚未写入正式source-register/claim-ledger/search-log/coverage-matrix/chronology或成熟中文正文。不能把仅有目录的1937卷宗写成1937工厂实际执行事实；本次保留可复查的具体卷号与访问级别，待安全并库。未新建列表式旧HTML。
 
 **精准续接任务**：（1）向Nationaal Archief按2.20.39 inv.nr.135申请1937女工夜班表影像，逐栏抄录工时/人数/工资及报送机关、签署日；（2）同批调阅inv.nr.131的1927两份PSI报告，查报告日期、签名、被指名工人和行动，不把目录猜测当事实；（3）调阅inv.nr.134、139、141核1930年代工资、1947—51临时工和1950劳动纠纷，再与独立工会及劳动局记录交叉；（4）寻找Staatsblad 1925 No.648原刊及1926—1939 Kantoor van Arbeid收件统计，查1926起连续性；（5）轮换Aceh 1965-10 Kodim-0104原件、Moncongloe 1977行政释放名单、SOBSI/BTI/Gerwani基层组织与1998后工会登记。GOAL永久OPEN；本段中“最新SHA”为提交前已观察SHA，本次提交后SHA须以写入回执及远程HEAD核验为准。
+
+
+## 2026-11-22 02:48 CST｜ONGOING / GOAL仍进行｜Tjomal 135取件制度与1925双条例反证线
+
+**治理与访问**：已读取 main 上 AGENTS.md、goal-continuity.md、stage-access.md、统一续接状态及正式四CSV、chronology（正式表均在 archive/records/）。source-register 当前尾号 S1523，search-log Q585，coverage CV655；claim-ledger.csv 返回非空blob SHA `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a` 但UTF-8正文为空，禁止覆盖或分配C编号。本次不将此前已登记的Levert、Tjomal目录重复当作独立来源。
+
+**G1/G2殖民女工制度：本轮直接打开荷兰国家档案馆Tjomal全宗2.20.39的正式访问说明** https://www.nationaalarchief.nl/onderzoeken/archief/2.20.39/beschrijving/access_and_use 。馆方明确该全宗完全公开、无版权复制限制、无材料保存状态造成的查阅限制，但需要登录账号、在具体卷宗目录选择“Reserveer”并预约阅览时间；**完全公开不等于已经扫描上网**。此前确认1937年妇女夜班统计副本 inv.nr.135、1927年政治活动报告 inv.nr.131 的卷号仍属馆藏目录级，未取得卷宗原页。馆方规定规范引用格式为“Nationaal Archief, Den Haag, NV Maatschappij tot Exploitatie van de Suikeronderneming Tjomal, nummer toegang 2.20.39, inventarisnummer [卷号]”。这将取件瓶颈从“找不到卷号”具体化为“需要实体阅览/复制申请”。
+
+**新增二级反证与定量线索，尚未核原件**：直接打开Ardiansyah 2026-08-10印尼文文章 https://www.ardiholmes.id/ordonansi-1925-kerja-malam-perempuan-pabrik-gula/ 。作者声称1925年第647与648号条例由1925-12-17同一总督决定制定，1926-03-01同时生效；1926、1927分别有117、129家糖厂报告雇用夜班女工，1929年女工约8,212人；并指出第648号还包括除糖业以外的行业例外。文章引用Levert第119—121页及附录H、Locher-Scholten和两条例，但它是2026年解释性文章，**不是新独立的殖民统计、法令原件或女工证言**；其数字和法令条款待逐项对照原表、原文，不能正式作为已核实统计写入chronology。该作者关于政策意图的判断仅作为作者解释，不代替研究者/用户政治判断。已再次直接打开Levert数字化荷兰文第119页 https://fliphtml5.com/wuwth/sbbj/INHEEMSCHE_ARBEID_IN_DE_JAWA_SUIKERINDUSTRIE_%5BPH._Leavert%5D/132/ 与第196页 https://fliphtml5.com/wuwth/sbbj/INHEEMSCHE_ARBEID_IN_DE_JAWA_SUIKERINDUSTRIE_%5BPH._Leavert%5D/209/ ，确认其报告义务与糖季例外论述，但数字需追到附录H。另检索荷兰政府1906伯尔尼妇女夜班条约数据库 https://www.verdragen.nl/nl/Verdrag/Details/003295 ，该页面列明1912-01-14在欧洲荷兰生效，**不能仅据欧洲荷兰条约生效推断荷属东印度已适用**；须另找殖民地适用文件。
+
+**本轮执行与提交限制**：新发现主要是档案取件方式、二级文章的可检验数字及法域反证，尚不足以新增正式S/C/CV或成熟中文连续历史正文；正式CSV、chronology和阅读HTML不作虚假更新。本次提交前状态文件blob为 `eee32c0648f05d1b9b2cbc20d44e5623dcc803d3`；提交SHA以GitHub写入回执及后续远程核验为准，不能在同一Git提交正文预写自身SHA。
+
+**精准未完事项**：（1）按Tjomal 2.20.39/inv.nr.135、131分别请求馆方扫描或预约实体调阅，保存原件页码、日期、签署人；（2）取得Staatsblad 1925 No.648原始荷兰文影印，逐条核第1、2、4、5、7条与1926-03-01生效说法；（3）直接打开Levert附录H原始表，核117/129厂、1929年8,212人数值、统计口径及各年度分母；（4）寻找殖民劳动局1926—1939年度报表、Tjomal 135副本及厂方工资工时表，交叉对照雇主自报与劳动监察；（5）轮换1965 Aceh Kodim-0104命令、Moncongloe 1977释放文书、SOBSI/BTI/Gerwani基层资料及1998—2026工会原始组织记录，正式台账可读后按实际ID去重并库。GOAL持续ACTIVE / OPEN-ENDED。
