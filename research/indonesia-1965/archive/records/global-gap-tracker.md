@@ -259,3 +259,14 @@
 **G1，1927—1928 Boven Digoel：** 直接打开山本信人2025年京都大学《Southeast Asian Studies》开放研究全文 https://englishkyoto-seas.org/2025/04/vol-14-no-1-yamamoto-nobuto/ ，研究转述《Pewarta Deli》1928-04-19报载对Soerodjojo、Mohamad Ashari两位已故流放者妻子的访谈，访谈于1928-03-26在Semarang进行；两人据报道因高热与象皮病去世。学术文章亦引《Sin Jit Po》1927年报道，营地日补助ƒ0.72，其中ƒ0.32食物、ƒ0.40其他开支。**不能把研究转引的报纸访谈当作已读1928报纸原件**；疾病死亡归于被采访家属陈述，需原报及营地医疗/死亡登记交叉核对。访问等级B；原报D。研究另讨论1933年苏加诺致检察总长信的学术转引，勿误写为本人进入Digoel。下一步检索《Pewarta Deli》1928-04-19版影印及《Sin Jit Po》1927年具体期号，对照ANRI Boven Digoel no.200航运名册和营地死亡登记。
 
 **G10归档约束：** 本次已重读2026-11-09 G1—G10审计、AGENTS、stage-access、goal-continuity及正式档案所在的archive/records目录；正式claim-ledger.csv仍返回空正文（blob SHA非空），禁止覆盖或伪造C编号。以上先在同一长期总账保存来源级别和精准原件追索；正式CSV、chronology、readable-history仍需去重并库，不能声称已同步。G1—G10全部OPEN。
+
+
+## 2026-11-21｜北苏门答腊1966—1975拘押劳役与1965年BTI基层调查原件线索（ONGOING）
+
+**G4/G5/G6/G9 北苏门答腊（直接打开2025年采访发表全文；证词非军方档案）**：Quadi Azam, “Forced labour and detention sites,” *Inside Indonesia* 161, 2025-09-23, https://www.insideindonesia.org/editions/edition-161-jul-sep-2025/forced-labour-and-detention-sites 。文章作者为IKOHI北苏门答腊相关研究者，记述三位1965年后幸存者的采访；受访者自述1966—1975年间曾遭拘押和强制劳动，地点包括Deli Serdang、Labuhan Batu种植园开发与道路/稻田劳动；称村长传唤、军官监管、TPU（Tempat Penahanan Umum）拘押场所，部分人员在私人企业工作。尤应追查受访者所称KRPT（Kartu Tanda Pendaftaran Pendudukan Tanah）土地登记卡被收走、转交企业或销毁，造成土地权属争议的具体行政机制。**访问等级A仅指已打开采访者亲自发表的证词报道全文，不代表证言经独立核实，更非同时代军方/土地原件**。匿名企业PT P___及承包人A____等不得擅自补全；“大规模墓地”“饿死”等属幸存者报告，不能未经逐人死亡记录变成确定死亡数。此项补强此前全国暴力研究严重不足的北苏门答腊劳动—土地剥夺链；需要原始采访录音/逐字稿（经当事人同意）、村级KRPT登记簿、土地转让卷宗、TPU/军方派工名册、企业用工账、法庭土地案号，逐地比对Deli Serdang与Labuhan Batu，不得把受访者叙述自动外推整个省。
+
+**G2/G9 1945—1966 BTI/SARBUPRI基层组织（学术论文摘要与书目级C，未取得论文全文/1965基层原报告）**：Ben White, “Remembering the Indonesian Peasants’ Front and Plantation Workers’ Union (1945–1966),” *Journal of Peasant Studies* 43(1), 2016, pp.1–16, DOI https://doi.org/10.1080/03066150.2015.1101069 。出版页面公开摘要明确指出作者利用BTI在1965年最后一轮地方“参与式行动研究”的**未出版报告**，致谢Ina Slamet提供报告。此次出版页面可见摘要/脚注但全文打开遭403，不能标记为全文已读；原始BTI报告更未取得。此线索可以直接转化为追索：确定报告的村/县、调查干部、原稿标题与保管人、访问限制，再核对农民诉求、土地登记、SARBUPRI种植园工会与1965年后拘押劳役之间的个人/地点重合，禁止仅凭摘要断言具体调查结果。
+
+**G1 1927—1933 Digoel口径补核（开放学术全文B，原殖民登记D）**：山本信人2025年论文 https://englishkyoto-seas.org/2025/04/vol-14-no-1-yamamoto-nobuto/ 第65—71、93—98段区分1926—1927逮捕约13,000、预防性拘押超过5,000、审判判刑4,500及1930年5月Digoel营地人数峰值1,308；论文另有“下令流放1,308”表述，须查原始统计是否同一口径、是否含随行家属，不可直接合并。文章引用1927年《Sin Jit Po》及1928年《Pewarta Deli》所记**营地通信需用马来文便于审查**，但原报未读，属于学术转引；下一步索原报与殖民审查条例，对照1927年航运名册。
+
+**G10正式归档**：本次已定位并直接读取archive/records下source-register.csv、search-log.csv、coverage-matrix.csv、chronology.md的前段及blob SHA；claim-ledger.csv的blob SHA为362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但接口返回空正文，仍不得覆盖。因尚未全表去重核对，本次不分配S/C/Q/CV编号，不把候选材料伪装成已正式登记。应按最新HEAD和文件SHA安全追加正式台账、chronology及中文正文。所有G1—G10持续OPEN。
