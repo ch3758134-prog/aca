@@ -1,0 +1,110 @@
+{
+  "batch": 0,
+  "method": "Count text in article before sources/navigation, including li; main excludes embedded research-fulltext; not a substitute for scholarly review",
+  "entries": [
+    {
+      "path": "people/person-adam-soepardjan.html",
+      "mainTextChars": 1759,
+      "fullTextChars": 1759,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1556
+    },
+    {
+      "path": "people/person-ade-irma.html",
+      "mainTextChars": 805,
+      "fullTextChars": 805,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 692
+    },
+    {
+      "path": "people/person-ahmad-yani.html",
+      "mainTextChars": 839,
+      "fullTextChars": 839,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 681
+    },
+    {
+      "path": "people/person-aidit.html",
+      "mainTextChars": 1788,
+      "fullTextChars": 1788,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1515
+    },
+    {
+      "path": "people/person-allen-pope.html",
+      "mainTextChars": 827,
+      "fullTextChars": 827,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 659
+    },
+    {
+      "path": "people/person-amir.html",
+      "mainTextChars": 788,
+      "fullTextChars": 788,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 624
+    },
+    {
+      "path": "people/person-bambang-sugeng.html",
+      "mainTextChars": 856,
+      "fullTextChars": 856,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 701
+    },
+    {
+      "path": "people/person-budiman.html",
+      "mainTextChars": 1352,
+      "fullTextChars": 1352,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1153
+    },
+    {
+      "path": "people/person-darsono.html",
+      "mainTextChars": 614,
+      "fullTextChars": 614,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 488
+    },
+    {
+      "path": "people/person-daud-beureueh.html",
+      "mainTextChars": 858,
+      "fullTextChars": 858,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 688
+    },
+    {
+      "path": "people/person-dewi.html",
+      "mainTextChars": 712,
+      "fullTextChars": 712,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 596
+    },
+    {
+      "path": "people/person-dita-sari.html",
+      "mainTextChars": 918,
+      "fullTextChars": 918,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 740
+    },
+    {
+      "path": "people/person-fatmawati.html",
+      "mainTextChars": 1006,
+      "fullTextChars": 1006,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 849
+    }
+  ]
+}
