@@ -926,3 +926,8 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准续接**：①在chronology现有1951-01-08条目中将“官方原件未读”改为已核读，添加PDF和1951-02-28第1513/51号校订函，核正式source-register是否已按不同标题/URL收录；②从官方原件核1951年第1号法第7/9/13条及1925 Staatsblad 647、1941 Staatsblad 45，追踪1954后生效条例；③寻找1953—1955东爪哇糖厂女工夜班、监察与工会申诉记录，检验Abidin讲话；④追Gerwis 1954大会原刊影印及201支部/143到会支部原始名册，区分自报与核实；⑤交替继续Aceh 1965 Langsa Baperki 148人名单、Moncongloe 1977军令、SOBSI/BTI与1998后工会链，修复claim-ledger正文读取后再正式去重并库。
 
 **提交基线**：本轮读得continuity-status blob `749f8f968bbd85bcc940c4d54a2dd42665db4bc1`；上一轮对话报告的main提交为`f91b875b2941d941ded0d14a35781d9afc6c0233`（仅作已知上轮SHA，非本轮实时HEAD证据）。本次实际提交SHA以写入回执为准；不能在同一提交正文自指填入该提交SHA。GOAL保持ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-21｜ONGOING / GOAL仍进行｜巴厘统计分歧与KKPK证言底库
+已读G1—G10完整性审计、AGENTS、stage-access、goal-continuity、正式台账与chronology的可访问返回，并复核长期缺口总账。新增核验细节已写入global-gap-tracker.md，提交 efddce4a2245febf5b91bd9856897e76af215e5a，原件层级逐项标明。巴厘：FRUS d162官方编辑说明全文引用1966-02-25 A-527报告80,000估计，1970年Howland引述军方估计6,000；NSArchive A-408网页摘要称1965-12-21至少10,000，但A-408 PDF未打开，三个数字不可平均/累加。幸存者：2014 KKPK报告PDF前言自述2013真相之年整理930案/3,396受害者、140案叙述/72证言，涵盖跨历史时期，**绝非1965死亡人数**；未读完整各章或原始录音。
+精确接续：①打开NSArchive A-408 OCR/PDF核原文及消息来源；②追FRUS d162所引A-527、A-641原电报与巴厘Jembrana/Negara地方记录；③读KKPK报告第62—95、285—294、339—355页并取原始听证逐字稿、930案去重规则；④轮换Flores/Kupang、West Kalimantan与SOBSI/BTI基层原件；⑤优先修复正式claim-ledger.csv空正文问题，安全按实际ID并入source/claim/search/coverage/chronology和成熟中文历史正文。G1—G10全部OPEN，正式CSV及中文正文仍未并库，不得宣称已完成。 
