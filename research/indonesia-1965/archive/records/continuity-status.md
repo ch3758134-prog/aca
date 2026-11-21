@@ -1117,3 +1117,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准未完事项**：（1）检索2025和2026西爪哇省长关于UMSP、Bekasi UMK/UMSK的正式决定及附件，逐项核省级“必须”与县市“可以”的实践；（2）定位PT Dharma Precision Parts 2022—2026 PKB与FSP LEM SPSI分会的工资谈判材料，分清证言、协议与支付；（3）按正式source-register URL去重核2025注释法规和2024宣判笔录是否已有独立S编号，安全可读时补入claim-ledger；（4）轮换1965 Aceh Kodim-0104及南苏拉威西KEP.024/10/1965/PDD/1965原件，取得具体发令与执行材料；（5）继续追Gerwani《Api Kartini》地方幼儿园、SOBSI厂级代表和BTI土地登记原始材料，成熟后并入中文连续正文。
 
 本次仅安全续接归档，不宣称正式四表/chronology/中文正文已更新。写入前检索到的最近main提交候选SHA：`b67485677fcec3ce725351f3efe8e5c341330dd2`（搜索提交列表，尚非强一致branch-ref校验）。本次提交产生的新SHA以写入回执为准；自身文件无法预写自身提交SHA。GOAL保持ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-22 06:49 CST｜ONGOING / GOAL仍进行｜西爪哇行业工资行政执行链（新2026年11月决定）
+
+本次重新读取AGENTS、goal-continuity、stage-access、统一状态、正式source-register、claim-ledger、search-log、coverage-matrix和chronology。正式表末S1523/Q585/CV655；claim-ledger blob=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a而API返回零正文，继续不覆盖、不编造C编号。正式source-register未找到下列2026年新行政决定编号的字面匹配，尚须做完整语义去重。
+
+**G7新核验，地方行政原件：**直接打开西爪哇省政府JDIH官方决定元数据 https://jdih.jabarprov.go.id/page/info/produk/66666 ，确认省长于**2026-11-11**签署并标为有效的 **561.7/Kep.675-Kesra/2026**《2026年县/市行业最低工资》决定；并打开官方21页PDF附件 https://jdih.jabarprov.go.id/page/eksekusi_download/32/2026KEPGUB32675.pdf ，其中Bekasi市部分列KBLI行业代码及对应工资，例如部分列明行业对应Rp6,052,861.25。须逐条核适用行业、是否为2025年决定的变更或补充，以及县Bekasi与市Bekasi的区分；不得将市标准用于县企业。官方JDIH另载2025-12-24省长决定 **561.7/Kep.862-Kesra/2025**（https://jdih.jabarprov.go.id/page/info/produk/53541）及其县市一般最低工资原PDF https://jdih.jabarprov.go.id/page/eksekusi_download/32/2025kg00320862.pdf ：2026年Bekasi市UMK Rp5,999,443、Bekasi县UMK Rp5,938,885。2025-12-24县市行业工资原PDF https://jdih.jabarprov.go.id/page/eksekusi_download/32/2025kg00320863.pdf 指明2026-01-01起支付、行业工资不得低于县市UMK。2026-11-11的新决定是否追溯、替代、修订以及生效支付日期，必须核其全部主文及与旧决定的关系；仅凭JDIH标记Berlaku不能推断企业工资已实际支付。
+
+**反证/时间层级：**西爪哇JDIH的2021-12-10决定561/Kep.775-Kesra/2021（https://jdih.jabarprov.go.id/page/info/produk/26714）撤销部分地区2020年行业工资决定，提示2022—2024制度断裂须逐年查；2024-12-18的561.7/Kep.802-Kesra/2024和2024-12-27修正561.7/Kep.838-Kesra/2024分别见 https://jdih.jabarprov.go.id/page/info/produk/53423 与 https://jdih.jabarprov.go.id/page/info/produk/53422 。这些是官方行政法规/元数据，可证明法定规范和签署，不足以证明Yosep Ubaama Kolin所述PT Dharma Precision Parts的集体协议变化。第168号宪法判决“省级必须、县市级可以”与2025—2026省长决定的关系须以生效日期、适用地区及行业逐项比较。
+
+**本轮未完成正式CSV/chronology/readable-history写入**：这是可追溯原件链的统一状态留档，不冒称完整并库；须优先修复claim-ledger读取后安全登记原子主张。提交前最新提交搜索为 b6dcc67c2cf6b210f14c9b248198308ca9a2b056；本次提交SHA以GitHub回执及提交后回读为准，同一提交不能自引用自身SHA。
+
+**精确下一步：**（1）逐页核2026-11-11决定主文和21页附件，确认与2025-12-24县市行业工资决定的法律关系、县/市Bekasi分列及KBLI覆盖；（2）核PT Dharma Precision Parts厂址、KBLI与2022—2026 PKB及工资支付记录，避免凭行业猜测；（3）核2021撤销决定、2024恢复/修订决定、2025/2026各省县市决定，建立法令生效—企业谈判—工资支付分层年表；（4）用正式表去重后补S/C/Q/CV和chronology、成熟中文连续工会史，claim-ledger空正文问题先查字节或替代读取；（5）轮换Aceh 1965 Kodim-0104/军区原令、Moncongloe SPRIN/802、Gerwani/SOBSI/BTI地方原件，保持G1—G10 OPEN。GOAL永久ACTIVE / OPEN-ENDED。
