@@ -839,3 +839,20 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **本次正式归档**：已向archive/records/chronology.md追加1974—1977 BAP案号及证据分层；该提交为 **084f3afe1cf19023db9ba9ced2765dd412932d93**。本续接状态文件的最终提交SHA应从GitHub写入响应及下一次远程main HEAD核验；Git提交正文无法包含其自身SHA。四张正式CSV未改；未将不成熟材料写成连续中文历史正文。
 
 **精准未完（下一轮直接执行）**：①向Komnas HAM索取266、267、268、269/BAP_TPPH65/III/2009四份原始笔录及证人匿名处理说明；②调取TEPERDA Sulselra SPRIN/802/TPD/XII/1977原件、附件名单、1977-12-20出营签收及居家拘押许可；③对照Ahmad 2008印刷页205以后释放章节与1977年466/869/42等不同统计的母体、时间和重复计数；④检索《Sulawesi Bersaksi》中具名幸存者的羁押地点、时间及采访记录，并与Moncongloe名单交叉，严禁推断未明示的组织身份；⑤轮换Aceh Langsa 1965 Baperki声明附件、Gerwani/BTI地方土地改革名册及1998—2026工会原始登记与行动。GOAL ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-21 12:47 CST｜ONGOING / GOAL仍进行｜Moncongloe释放前行政登记与1979—1980社会控制
+
+**读取及基线**：已读AGENTS、goal-continuity、stage-access、正式source-register/claim-ledger/search-log/coverage-matrix及chronology；本轮提交前远程main HEAD=7f05fbe3cf509bd623fbce370a02489f30ccc4a0。claim-ledger.csv blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a依然返回零字符，严禁覆盖或虚构C编号。
+
+**新核读研究全文**：Taufik Ahmad, “Eks Tapol PKI dan Kontrol Pemerintah: Studi pada Komunitas Tapol PKI Moncongloe Sulawesi Selatan (1979–2003),” Patanjala 5(3), September 2013, pp.417–430, 公开全文转录 https://www.academia.edu/82363601/EKS_TAPOL_PKI_DAN_KONTROL_PEMERINTAH_Studi_pada_Komunitas_Tapol_PKI_Moncongloe_Sulawesi_Selatan_1979_2003_ 。印刷页420–422：作者叙述1977-12-18 POMDAM/TEPERDA到营地登记预定释放人员、摄影和收集去向；12-19晚转往Makassar Kodim 1408；12-20在POMDAM XIV Hasanuddin举行约466名B类人员的释放仪式。文章提及Kopkamtib **SKEP-25/KOPKAM/XII/1977**，为尚未取得的全国1万人返社会决定原件的新具体编号。其叙述B类466人、C类403人及42人转Nanga-Nanga；这些数字的统计母体、批次与Komnas HAM证人“另466人”须逐人核对，不能直接相加。作者大量引用本人2009年著作，**与Ahmad 2008/09书不是独立来源**。
+
+**新档案号与后续控制**：同文印刷页421–422援引 **Arsip Muhammad Saleh Lahade Reg.41** 支持地方对前政治犯的监控，援引 **Arsip Kotamadya Ujung Pandang Reg.935** 说明重新教育/政治学习活动；记述1979-12-27至31第一批90名、1980-01-15至19第二批80名在Makassar Hotel Raya接受课程。文章还称前政治犯每周向村/街区官员报告，身份证带ET标记，旅行及就业受限。此为学者研究和档案引用，**Reg.41、Reg.935、课程签到簿、地方命令、SKEP-25原件均未取得**；不能把学者所引档案视为已直接核读。
+
+**交叉/反证**：与Komnas HAM 1965–66调查摘要 https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf 所引SPRIN/802/TPD/XII/1977（完全拘押改居家拘押）对照；全国Kopkamtib决定、地方TEPERDA执行命令、现场仪式与个人自由恢复是不同层次。另打开《Sulawesi Bersaksi》公开叙事全文 https://id.scribd.com/document/341286070/Sulawesi-Bersaksi ，可见被拘者称出营后仍接地方限制令；此为编辑过的回忆叙述，尚需采访底稿，不是1977军令原件。2013文中提到的1979/1980课程与1977出营不应合并为单一“释放”事件。
+
+**去重**：正式source-register全文检索未见上述2013文章标题、Reg.41、Reg.935、SKEP-25；正式chronology亦无这些精确词项。此前Ahmad 2008/09、2010研究与Komnas HAM报告已在登记，不得作为多份独立军令证据。尚未对正式claim-ledger做C编号并库。下一步可安全登记该2013研究为新S，并以独立Q/CV登记检索；本轮先归档完整定位。
+
+**精准未完事项**：①向Kopkamtib/ANRI/军事档案取 **SKEP-25/KOPKAM/XII/1977** 决定及附件，核全国1万人与南苏拉威西名单；②调取1977-12-18 POMDAM/TEPERDA摄影登记、12-19 Kodim 1408住宿/转送记录、12-20 POMDAM仪式名单及SPRIN/802/TPD/XII/1977执行附件；③取 **Arsip Muhammad Saleh Lahade Reg.41** 与 **Arsip Kotamadya Ujung Pandang Reg.935** 原件、1979-12/1980-01 Hotel Raya签到和课程文书；④将1977—1980 B/C分类、Nanga-Nanga 42人和证人BAP 266—269逐人匹配，记录不同统计母体；⑤轮换1965 Aceh Langsa Baperki 148人原始附页、BTI/Gerwani县级土地分配和1998后劳工组织证据链，并修复claim-ledger原始blob读取。GOAL永久OPEN，不因本轮停顿而结束。
+
+**SHA说明**：本段的7f05...是写入前HEAD；本次最终提交SHA必须由GitHub写入回执及main ref回读确认，不能在同一Git提交中预写自身SHA。
