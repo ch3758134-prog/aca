@@ -250,3 +250,12 @@
 **独立G1补核（馆藏取件路径，目录/服务级C）**：直接打开印尼国家档案馆ANRI官方阅读室服务说明 https://anri.go.id/en/public-services/archives-and-reading-room-services ，确认静态档案可申请阅读、复制与在线检索；此页只证明取件渠道，不证明此前定位的Boven Digoel no.200（1927-03-12船运名单）或no.1/no.84（1927-04-15总督令）已经取得。下一步须带精确档号请求原件影印，核对no.1/no.84冲突，逐人登记。
 
 **缺失/阻碍**：1967省长办公室原始报告、1968华人事务专员年报、1967-11-09《Pembangunan》报纸原版、强制劳动工地名单、545人集结/返村登记均未打开；地方官员的返村命令须核报纸原版与行政收发文。不要把Tanasaldy与Davidson对同一来源的引述计作两份独立证据。G1—G10均OPEN；正式CSV与中文历史正文尚待安全去重并库。
+
+
+## 2026-11-21｜G4西加里曼丹原始档案定位与G1流放家庭证言（ONGOING）
+
+**G4/G5/G9，西加里曼丹1967：** 直接核读Taufiq Tanasaldy《Regime Change and Ethnic Politics in Indonesia》2012年开放全文（美国国会图书馆托管PDF：https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/82/94/2020718294/2020718294.pdf ），第141—142页及脚注：1967年1月军方将首批约5,000名华人从砂拉越边境迁离，边境五英里内居住限制；2月17日约545人在Pontianak被集中准备遣返，但因运输不足返回村庄；1967年4月政府提出遣返350,000人的**计划**，不得写为已执行。书中还列明西加里曼丹省长办公室图书馆1967年原始报告《Pengungsian orang2 Tjina sebagai akibat gerakan2 orang Daya dalam daerah Kabupaten Pontianak dan Kabupaten Sambas》p.82；这是**精确书目定位而非已打开原件**。与既有强制劳动、1968难民存量链保持相连，但不把计划人数、实际迁移存量、死亡人数相加。访问等级B（学术全文），原报告D。下一步按报告原题向省档案馆请求影印，核对p.82对边境武装人员与平民的分类，并逐县核对强制迁移/返乡名册。
+
+**G1，1927—1928 Boven Digoel：** 直接打开山本信人2025年京都大学《Southeast Asian Studies》开放研究全文 https://englishkyoto-seas.org/2025/04/vol-14-no-1-yamamoto-nobuto/ ，研究转述《Pewarta Deli》1928-04-19报载对Soerodjojo、Mohamad Ashari两位已故流放者妻子的访谈，访谈于1928-03-26在Semarang进行；两人据报道因高热与象皮病去世。学术文章亦引《Sin Jit Po》1927年报道，营地日补助ƒ0.72，其中ƒ0.32食物、ƒ0.40其他开支。**不能把研究转引的报纸访谈当作已读1928报纸原件**；疾病死亡归于被采访家属陈述，需原报及营地医疗/死亡登记交叉核对。访问等级B；原报D。研究另讨论1933年苏加诺致检察总长信的学术转引，勿误写为本人进入Digoel。下一步检索《Pewarta Deli》1928-04-19版影印及《Sin Jit Po》1927年具体期号，对照ANRI Boven Digoel no.200航运名册和营地死亡登记。
+
+**G10归档约束：** 本次已重读2026-11-09 G1—G10审计、AGENTS、stage-access、goal-continuity及正式档案所在的archive/records目录；正式claim-ledger.csv仍返回空正文（blob SHA非空），禁止覆盖或伪造C编号。以上先在同一长期总账保存来源级别和精准原件追索；正式CSV、chronology、readable-history仍需去重并库，不能声称已同步。G1—G10全部OPEN。
