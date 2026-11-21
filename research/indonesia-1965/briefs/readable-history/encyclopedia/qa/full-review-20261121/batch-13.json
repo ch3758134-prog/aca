@@ -1,0 +1,86 @@
+{
+  "batch": 13,
+  "base": "7008e1cd0013a6a7ec696ed8a2e59091908d9daf",
+  "report": [
+    {
+      "path": "regions/east-java.html",
+      "bodyChars": 1423,
+      "paragraphs": 11,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "regions/flores.html",
+      "bodyChars": 2221,
+      "paragraphs": 16,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "regions/jakarta.html",
+      "bodyChars": 634,
+      "paragraphs": 6,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "regions/north-sumatra.html",
+      "bodyChars": 540,
+      "paragraphs": 6,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "regions/sikka-maumere.html",
+      "bodyChars": 1450,
+      "paragraphs": 16,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "regions/south-blitar.html",
+      "bodyChars": 3708,
+      "paragraphs": 23,
+      "externalLinks": 7,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "regions/south-sulawesi.html",
+      "bodyChars": 1300,
+      "paragraphs": 12,
+      "externalLinks": 5,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "regions/west-kalimantan.html",
+      "bodyChars": 1976,
+      "paragraphs": 14,
+      "externalLinks": 5,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    }
+  ]
+}
