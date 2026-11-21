@@ -1096,3 +1096,9 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 已重新读G1—G10审计全文及AGENTS、stage-access、goal-continuity、正式台账目录/前段和总账。实质核验详见同一 `global-gap-tracker.md` 最新段：**ANRI官方KOTI档案目录全文**，Gerwani/SOBSI交叉文件746—752（1964—65），中央军区/就业/宣传文件14、16、31、32、55—57（1965），以及Melvin 2013文章公开摘要和书目中的亚齐军区1966年年报、1965-10-06与10-29两份决定、北亚齐1966-06-15县长报告。ANRI目录是馆藏级证据，不是原件内容；Melvin本次页面是摘要+书目，不是论文全文。没有把题名变成已执行行动或新增确定伤亡数字。
 
 正式归档：长期缺口总账提交 `941e42bde78a33887eb15300b0f370c6113d0240`；当前文件正在写入本次续接。正式CSV/chronology/readable-history仍未安全更新，`claim-ledger.csv`接口非空blob却空正文，不能编造S/C/Q/CV编号。下一动作：（1）ANRI KOTI 746、747、748、749、751、752影印，核Gerwani各级机关、SOBSI第四次大会和Sri Panggih教育项目；（2）ANRI KOTI 16、55、56、57原件，按1965-10-26/11-03/11-18核跨机关命令、宣传与冻结组织名单；（3）ANRI KOTI 31、32与Palopo工厂、雇员及资产档案核职业/财产后果；（4）亚齐军区《Laporan Tahunan Lengkap: Tahun 1965》及Ist-I/Kpts/1965、Kep/Pepelrada-29/10/1965原件，对照县议会1966-06-15报告；（5）恢复正式大CSV完整读取并去重后，追加正式来源/主张/检索/覆盖、统一时间线与可成熟的连续中文正文。G1—G10全部OPEN，未完成。
+
+
+## ONGOING / GOAL仍进行 — 2026-11-21 续接
+已重新读取2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity、正式来源/覆盖/检索CSV开头及chronology开头；research-status.md在所查目录404。已于main提交长期缺口总账更新：7af91d094a5fa9369c25a68b5a9837c4dfab4b55，并远程回读一致。
+当前双链：G4/G5/G9 Aceh行政清洗：Melvin 2018开放书籍脚注167—170定位1965-10-29 Peperlada决定、1965-11-11省长决定621/UPO/1965、1965-12-06教育文件28/Rhs/A、1965-10-20中亚齐县长决定。属于学术全文对原始文件的引证，原件未取得；不能推断执行与遇害。G2/G3/G10：ANRI 2013官方公告证实KOTI 1963—1967目录整理；ANRI档案阅读与复制服务现可用于追取Gerwani条目746—752及中央军令，目录不等于原件。
+下一步：1. 索取Aceh上述四组原件及林业/教育接收执行清单；2. 对照Langsa 1965-10-18 Baperki声明附页与10-14军方《Chronologis》；3. 按KOTI全宗+746—752及10—11月电报号向ANRI申请影印；4. 轮换G1 Boven Digoel原刊、G7 ILO/Marsinah司法调查；5. 用可完整读取的正式CSV实际最大编号去重后并库，并更新统一chronology与中文连续正文。claim-ledger.csv接口仍返回非空SHA而空正文，禁止覆盖。全部G项OPEN，GOAL未完成。
