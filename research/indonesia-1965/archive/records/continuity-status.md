@@ -1056,3 +1056,12 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **本轮执行与提交限制**：新发现主要是档案取件方式、二级文章的可检验数字及法域反证，尚不足以新增正式S/C/CV或成熟中文连续历史正文；正式CSV、chronology和阅读HTML不作虚假更新。本次提交前状态文件blob为 `eee32c0648f05d1b9b2cbc20d44e5623dcc803d3`；提交SHA以GitHub写入回执及后续远程核验为准，不能在同一Git提交正文预写自身SHA。
 
 **精准未完事项**：（1）按Tjomal 2.20.39/inv.nr.135、131分别请求馆方扫描或预约实体调阅，保存原件页码、日期、签署人；（2）取得Staatsblad 1925 No.648原始荷兰文影印，逐条核第1、2、4、5、7条与1926-03-01生效说法；（3）直接打开Levert附录H原始表，核117/129厂、1929年8,212人数值、统计口径及各年度分母；（4）寻找殖民劳动局1926—1939年度报表、Tjomal 135副本及厂方工资工时表，交叉对照雇主自报与劳动监察；（5）轮换1965 Aceh Kodim-0104命令、Moncongloe 1977释放文书、SOBSI/BTI/Gerwani基层资料及1998—2026工会原始组织记录，正式台账可读后按实际ID去重并库。GOAL持续ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-21｜ONGOING / GOAL仍进行｜Moncongloe 1977释放法律状态与BTI调查原稿追索
+
+已重读2026-11-09完整性审计G1—G10及AGENTS、stage-access、goal-continuity、滚动状态与长期缺口总账。正式CSV及chronology实际位于archive/records/，本次确认正式source-register blob 15da3caf、claim-ledger blob 362dbb15（内容接口返回空）、search-log blob 4201ab13、coverage blob 531915db、chronology blob 8bfbe623；因大文件截断及claim空正文，未覆盖任何正式CSV、未分配S/C/Q/CV编号。
+
+**本次已核实的两条不同G项链**：G6/G4/G9直接核读Komnas HAM 2012调查摘要PDF印刷页143—155，定位1977-12-20 SPRIN/802/TPD/XII/1977（Major CPM Idham Alam）为“完全拘押→居家拘押”，并取得BAP 266—269/BAP_TPPH65/III/2009原笔录号；报告同页出现1970/1977释放日期自相矛盾，须核原令。与Taufik Ahmad 2010采访所述Moncongloe—Daya道路15公里相比，Komnas HAM称23公里，不能擅定里程。G2直接打开Ben White 2016论文作者上传全文，确认其对1965年BTI未刊村庄调查的具体字段、“三同/四不/四要”方法及Sujati/Suyati、Sulasto的匿名T/G村观察；尚未取得BTI油印原件。完整来源、访问等级、局限、各G项未结状态见本次更新的global-gap-tracker.md。写入回执commit `939a7de69459fb760d0884935feb7e7960d8ef37`，blob `9558df4da25b4c75670a3ccbb06d25cde36d4dbc`，已远程回读一致。
+
+**直接续接**：优先索SPRIN/802原件及1977-12-20名单、2009年BAP266—269可公开页、1972年Gowa住房工程及道路起讫里程；向White/Ina Slamet追1965 BTI调查油印原稿、县村/干部身份；轮换Aceh原始军令、北苏门答腊KRPT地籍及1998—2026工会登记。应优先修复正式大文件安全读取、全表去重后将真正核实的新事实并入正式CSV、chronology与成熟中文正文。G1—G10均OPEN，不宣称完成。
