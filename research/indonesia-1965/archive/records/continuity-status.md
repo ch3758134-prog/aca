@@ -1006,3 +1006,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 
 ## 2026-11-21｜ONGOING / GOAL仍进行：西加里曼丹省安置统计及ANRI殖民流放原档入口
 已重读2026-11-09 G1—G10审计、AGENTS、授权、长期GOAL、总账。main当前总账已提交80754a4bff373d02946f265f8d21e03fc4797511；本续接写入前重新获取SHA。完整实证与访问级别见global-gap-tracker.md末节。G4/G9：Davidson/Kammen 2002全文所引1968年西加里曼丹省进度报告附录VI列1967-11 59,850、1968-05 43,941、1968-08 28,028安置登记，三期不能相加，报告原件未读。G1：ANRI 2004年官方《Citra Papua dalam Arsip》直接核读目录定位1927-03-12流放名单Boven Digoel no.200、1927-04-15总督命令no.1、1930 Hillen调查Binnenlandsbestuur no.1308、1933回营名单no.295；发现同一选编将总督命令在另一栏误/异标no.84，须核原影印与馆藏。正式CSV/chronology在research/indonesia-1965/根目录和仓库根目录均404，不能声称已经并库；archive/records/research-status.md亦404。下一次直接动作：(1) 取得1968省Progress Report附录VI及三地营地名册；(2) 核ANRI PDF图版36—40页的1927原件影印并解决no.1/no.84；(3) 追1967 Pontianak/Sambas《Pengungsian orang2 Tjina》；(4) 恢复正式CSV及chronology实际路径并去重；(5) 切换G2 Gerwani/SOBSI基层原刊或G6 Moncongloe原始拘押登记，推动中文连续正文。GOAL ACTIVE，G1—G10 OPEN，不以此次提交结束。
+
+
+## 2026-11-21 23:52 CST｜ONGOING / GOAL仍进行｜Tjomal女工夜班统计的证据路径复核
+
+本轮重读AGENTS、goal-continuity、统一续接及正式四表与chronology（真实位置 archive/records/）；正式source-register截至S1522，search-log截至Q584，coverage-matrix截至CV654。claim-ledger.csv仍为非空blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但UTF-8接口返回空正文；不覆盖或伪造C编号。正式CSV及chronology尚未安全并库，本段是待并库核验现场。
+
+**G1/G2：1925年女工夜班例外的企业统计证据**。直接打开荷兰国家档案馆Tjomal企业全宗2.20.39公开目录 https://www.nationaalarchief.nl/onderzoeken/archief/2.20.39 。目录明确含vrouwennachtarbeid、arbeidsmoeilijkheden及werkvolksituatie的材料，并列出1925—1927、1928—1929、1930—1931年年报及1926—1933年总部与驻印尼代理人往来、1926—1939年非公开年报等实体档案（PHYSICAL）；当前网页列表未显示这些人事专题的具体inventarisnummer，不能捏造。直接打开P. Levert, *Inheemsche arbeid in de Java-suikerindustrie*的数字化页 https://fliphtml5.com/wuwth/sbbj/INHEEMSCHE_ARBEID_IN_DE_JAWA_SUIKERINDUSTRIE_%5BPH._Leavert%5D/132/ ，正文印刷页约119称糖厂实际女工数据自1926年因Staatsblad 1925 No.648的年度女工夜班统计报告义务才开始收集；另 https://fliphtml5.com/wuwth/sbbj/INHEEMSCHE_ARBEID_IN_DE_JAWA_SUIKERINDUSTRIE_%5BPH._Leavert%5D/209/ 的正文转录称No.648第1条容许糖季女工夜班，第2条要求糖厂向劳动局报送工时及工资统计。此为1930年代研究著作的数字化转录/作者概述，非No.648原始法令、非Tjomal实际报表。1926年为统计收集起点的作者说法与1925年法令衔接，但尚未独立查到劳动局收件或逐厂统计；Levert不能作为原法令和其自己统计的两个独立证人。另一2026年印尼语网文https://www.ardiholmes.id/ordonansi-1925-kerja-malam-perempuan-pabrik-gula/ 也依赖Levert和Locher-Scholten，不能算独立佐证。
+
+**新增具体调查策略**：先按2.20.39目录索取人事卷号及1926—1931年年度报告，检查Tjomal是否向Kantoor van Arbeid提交女工夜班、工时、工资统计；再与Levert所称中央组织Documentatiebureau汇总表逐项比对，识别是否只是雇主自报、是否覆盖季节工和外包女工；不要把殖民行业许可等同工人自愿或法规已执行。荷兰档案馆目录仅证明卷宗存在，未取得任何实体卷内文书。
+
+**精准未完**：（1）通过2.20.39 PDF/XML完整清单定位vrouwennachtarbeid、arbeidsmoeilijkheden、werkvolksituatie卷号，预约原卷；（2）取得Staatsblad 1925 No.648影印，逐条核第1、2、4、5条及许可范围；（3）取得Levert正文第119—121页表及附录H，核统计分母、年份和数据来源，追1926—1931 Kantoor van Arbeid原始统计；（4）另轮换1965 Aceh Kodim-0104命令与Moncongloe 1977释放名单，以及Gerwani/SOBSI地方工厂组织档案；（5）修复claim-ledger可靠读取并按正式S/C/Q/CV去重后更新chronology与成熟中文连续正文，不建旧式HTML。
+
+写入前远程main HEAD：3cbf6e53617dde29c7fe3ca8012e9bf19a6defcf。此处不能预填本次提交的自身SHA；须以提交回执和提交后HEAD回读核验。GOAL永久ACTIVE / OPEN-ENDED。
