@@ -794,3 +794,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 
 ## 2026-11-21 续接｜G4北苏门答腊 / G8美国政策
 已核读G1—G10完整性审计和AGENTS/stage-access/goal-continuity及正式来源、检索、覆盖台账；claim-ledger仍为非空SHA但接口返回零字符，未覆盖。直接核读FRUS XXVI文件174（1965-11-16棉兰领事电报，NARA RG59 POL23-9）和文件160（1965-10-22 Bundy备忘录），新增证据解释、来源等级、局限及精确取件目标已写入global-gap-tracker.md。两份都是同期美国文件原文，前者所记青年组织威胁与地方暴力属于报告/转述，不是受害者名册；后者是政策评价，不证明对当地暴力的具体指挥。下次：先取棉兰1965-11-10报纸、被杀省议员身份与死亡记录、11-02 PNI冲突警方记录、FNM1515/1516；另推进G1 1926—27殖民逮捕/流放原始名册或G2北苏门答腊种植园工会原始记录。按实际路径核验chronology及research-status，修复claim-ledger读取后方可按最大ID正式并库。G1—G10全部OPEN，长期GOAL未完成。
+
+
+## 2026-11-21｜ONGOING / GOAL仍进行｜Moncongloe原始军令档号新线索与特赦编号冲突
+
+本次重新读取AGENTS、goal-continuity、stage-access、统一续接、正式四表及archive/records/chronology.md；正式claim-ledger.csv blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a仍返回空正文，未覆盖。提交前main HEAD：445670515dcf2da5402ac1abbc7fb21a9923a5ca。正式来源表已登记Taufik Ahmad 2010文章S729和Moncongloe相关论文S679，不能将它们当新独立来源。
+
+**G4/G6南苏拉威西军令定位突破**：直接打开Taufik Ahmad《Kamp Pengasingan Moncongloe》（Desantara, 2008/2009版次需按版权页核）的公开全文转录 https://www.academia.edu/42697596/MONCONGLOE_MONCONGLOE_DESANTARA ，在印刷页约140、注141找到1965-10-18 Pepelrada Sulselra解除PKI及其群众组织干部职务命令的具体档案出处：**Arsip Muhammad Saleh Lahade, Reg. 441**。书中原文编号作 **Kep.024/10/PPDD/1965**，而Komnas HAM调查摘要转引作 **KEP.024/10/1965/PDD/1965**；两种编号不能默认为同一准确转写，须取Reg.441影印逐字校正。作者的公开转录和脚注是二次引述，**军令原件未取得**。书中还说明其访谈以2003—2008年原被拘者、地方居民及有关人员为基础，不能将作者2010文章当与其2008/09书完全独立的证人。此链连接1965-10-18职务剥夺、随后拘押及1969—1977 Moncongloe营地，但尚不能据此确定具体个人遭处分与拘押的完整因果链。
+
+**G7 1999特赦编号反证线索**：已直接打开官方1999年第68号总统令全文 https://www.peraturan.go.id/files/kp68-1999.pdf （此前S469/S487重复），BPK登记 https://peraturan.bpk.go.id/Details/58415/keppres-no-68-tahun-1999 确认1999-07-02；另有第三方目录 https://www.pancasila.site/arsip/jdih-keppres-23-1999 声称1999年第23号总统令也给予Dita Indah Sari特赦，但其所指BPK官方详情 https://peraturan.bpk.go.id/Details/89092/keppres-no-23-tahun-1999 直接打开404。**不得认定第二份总统令存在或认定68号被替代**；需用官方1999年总统令总目录及国家公报核对第23号原始标题。检索摘要和第三方目录不是原件。
+
+**精准未完事项**：（1）从Arsip Muhammad Saleh Lahade Reg.441调取1965-10-18军令原件，校正PPDD/PDD及年份字段并确认签署人、送达部门和执行范围；（2）对照Komnas HAM证人BAP 266—269及SPRIN/802/TPD/XII/1977影印，逐人核实拘押、劳动和1977年转居家限制；（3）查1999年第23号总统令国家公报与BPK官方总目录，排除第三方错误索引；（4）取得1998年三份Dita Sari特赦建议及1999-07-05监狱释放记录；（5）轮换1965 Aceh Langsa Baperki名单、Gerwani/BTI地方土地改革和SOBSI工会原始资料，完成正式台账去重与成熟中文历史正文。GOAL保持OPEN；本次新线索先写入统一状态，正式S/C/Q/CV、chronology及中文正文未修改，不冒称并库。最新成功提交SHA须在提交后另行核对；上述445670515dcf2da5402ac1abbc7fb21a9923a5ca仅为提交前HEAD。
