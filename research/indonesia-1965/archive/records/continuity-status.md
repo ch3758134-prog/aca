@@ -976,3 +976,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准未完**：1. 从荷兰殖民官方公报扫描获取Staatsblad 1925 No.647与No.648原件，逐条对照第3条授权与第648号第1—2条；2. 查1949 Stbl.No.8及1933 No.511、1947 No.208修订原件，核实后出印尼文文本的修订层次；3. 找1925—1935爪哇糖厂提交劳动局的夜班人数、工时、工资统计，及1924年雇主调查与工会参与证据；4. 对照1951年第1号法、1951年第4号条例和1954年Gerwis大会致辞，确认新法第7、9条的实施节点；5. 轮换Aceh 1965、Moncongloe、BTI/SOBSI基层与1998年后工会档案，并在claim-ledger安全读取后正式去重并库及编写成熟中文连续正文。
 
 **Git状态**：本次写入前GitHub最近提交检索显示main最新SHA `ce33b73aa01925d71cf54fd6cc6097e1b2033475`；这是写入前HEAD参考值，不能将本次提交SHA预写入自身正文。后续须以GitHub写入回执和远程main回读为准。GOAL永久OPEN。
+
+
+## ONGOING / GOAL仍进行｜2026-11-21｜1925年糖厂妇女夜班的企业档案接力
+
+本轮按AGENTS、stage-access、goal-continuity重新读取规则及正式source-register、claim-ledger、search-log、coverage-matrix和chronology。claim-ledger.csv仍返回非空blob SHA（362dbb150c296fd2a5f9e2b4d34db64c6a8f414a）但内容为空，故不覆盖、不虚构C编号；正式其他表未安全完成全量去重，暂不分配S/Q/CV编号。写入前continuity-status blob SHA：72262126db89af3a911676de8092029c16f1f102。此前交接所述最终提交SHA只能在写入回执取得，不能预写为本次提交自身SHA。
+
+**原文复核与新档案入口**：直接打开印尼文转录版Staatsblad 1925 No.647（https://www.llg-bwi.org/file_publish/Staatsblad%20Nomor%20647%20Tahun%201925.pdf），第3条对22:00—05:00妇女夜班规定例外许可，第4—9条规定企业负责人责任、劳动机关询问及监察权限，第11条载1926-03-01施行；PDF尾注明这是依据官方公报重新录入的版本，不是1925年荷兰文原始公报影印，且部分条文标示1947/1949修订，禁止不加区分地作为1925原貌。直接打开P. Levert《Inheemsche arbeid in de Java-suikerindustrie》荷兰文电子页209（https://fliphtml5.com/wuwth/sbbj/INHEEMSCHE_ARBEID_IN_DE_JAWA_SUIKERINDUSTRIE_%5BPH._Leavert%5D/209/）的公开转录：其叙述1925 No.648第1条在制糖季许可妇女夜班、第2条要求向劳动局报告工时和工资；电子页132（https://fliphtml5.com/wuwth/sbbj/INHEEMSCHE_ARBEID_IN_DE_JAWA_SUIKERINDUSTRIE_%5BPH._Leavert%5D/132/）进一步称自1926年起收集实际妇女夜班统计。这是1934年研究对法规与资料制度的转述，尚非No.648原件或原始报表。
+
+**重要新增原始档案定位**：直接打开荷兰国家档案馆企业全宗2.20.39《NV Maatschappij tot Exploitatie van de Suikeronderneming Tjomal en Rechtsvoorganger, 1857–1968》馆藏说明（https://www.nationaalarchief.nl/onderzoeken/archief/2.20.39/beschrijving/appendices）。馆方明确指出人事档案包含妇女夜班材料及劳动纠纷/工人状况报告，另有会议纪要、年报与通信。这使抽象法规追踪落到**具体糖厂Tjomal**可查的企业记录。该网页仅为馆藏目录，未打开夜班卷宗或企业实际工资/工时表；不能据此声称Tjomal违法、遵法或与Gerwani存在组织联系。1934研究的统计与企业原始档案也不能算独立验证同一事实。
+
+**下一次精准执行**：①在2.20.39全宗PDF/XML清单定位妇女夜班、劳动纠纷和工人状况各卷宗的inventarisnummer、年份及阅览/数字化状态；②取得1925 No.648荷兰文公报影印，逐条比对Levert对第1、2条的转述；③核查Levert 1934统计表原始口径，比较1926—1930年度各厂夜班妇女人数及工资，禁止混合厂内/田间和季节性/常年劳动；④追踪1951 UU1第7、9条及1954 Gerwis大会劳动部长讲话，确定旧法、实施细则和糖业例外的法律连续性与断裂；⑤轮换1965—68 Aceh地方命令/受害名单、Moncongloe转运、1998后工会登记执行证据，并在claim-ledger可安全读取后正式并库和写成熟中文连续正文。
+
+**GOAL状态：ACTIVE / OPEN-ENDED**。本轮新发现属于企业档案目录定位，尚未完成正式CSV、chronology、中文正文更新。提交回执SHA与远程main HEAD需独立复核。
