@@ -1,0 +1,136 @@
+{
+  "batch": 5,
+  "base": "c959856b512d956385d6215fa9ae7d24cc67c790",
+  "report": [
+    {
+      "path": "people/person-sudisman.html",
+      "bodyChars": 6148,
+      "paragraphs": 32,
+      "externalLinks": 6,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-suharto.html",
+      "bodyChars": 2141,
+      "paragraphs": 17,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-sukarno.html",
+      "bodyChars": 4410,
+      "paragraphs": 26,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-sultan-hb-ix.html",
+      "bodyChars": 627,
+      "paragraphs": 7,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-sultan-salahuddin.html",
+      "bodyChars": 2158,
+      "paragraphs": 12,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-supardjo.html",
+      "bodyChars": 1175,
+      "paragraphs": 10,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-suprapto.html",
+      "bodyChars": 1029,
+      "paragraphs": 9,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-suryo.html",
+      "bodyChars": 758,
+      "paragraphs": 9,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-sutoyo.html",
+      "bodyChars": 1055,
+      "paragraphs": 9,
+      "externalLinks": 5,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-tan-malaka.html",
+      "bodyChars": 1334,
+      "paragraphs": 10,
+      "externalLinks": 5,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-tendean.html",
+      "bodyChars": 898,
+      "paragraphs": 9,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-thamrin.html",
+      "bodyChars": 555,
+      "paragraphs": 6,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-tjokroaminoto.html",
+      "bodyChars": 718,
+      "paragraphs": 7,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    }
+  ]
+}
