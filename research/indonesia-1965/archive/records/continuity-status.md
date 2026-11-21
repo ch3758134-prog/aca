@@ -1102,3 +1102,18 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 已重新读取2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity、正式来源/覆盖/检索CSV开头及chronology开头；research-status.md在所查目录404。已于main提交长期缺口总账更新：7af91d094a5fa9369c25a68b5a9837c4dfab4b55，并远程回读一致。
 当前双链：G4/G5/G9 Aceh行政清洗：Melvin 2018开放书籍脚注167—170定位1965-10-29 Peperlada决定、1965-11-11省长决定621/UPO/1965、1965-12-06教育文件28/Rhs/A、1965-10-20中亚齐县长决定。属于学术全文对原始文件的引证，原件未取得；不能推断执行与遇害。G2/G3/G10：ANRI 2013官方公告证实KOTI 1963—1967目录整理；ANRI档案阅读与复制服务现可用于追取Gerwani条目746—752及中央军令，目录不等于原件。
 下一步：1. 索取Aceh上述四组原件及林业/教育接收执行清单；2. 对照Langsa 1965-10-18 Baperki声明附页与10-14军方《Chronologis》；3. 按KOTI全宗+746—752及10—11月电报号向ANRI申请影印；4. 轮换G1 Boven Digoel原刊、G7 ILO/Marsinah司法调查；5. 用可完整读取的正式CSV实际最大编号去重后并库，并更新统一chronology与中文连续正文。claim-ledger.csv接口仍返回非空SHA而空正文，禁止覆盖。全部G项OPEN，GOAL未完成。
+
+
+## 2026-11-22 05:55 CST｜2024工会宪法诉讼：2025年法院官方注释法规与宣判笔录交叉核对（ONGOING / GOAL仍进行）
+
+本次重读AGENTS、goal-continuity、stage-access、统一续接，读取正式source-register/search-log/coverage-matrix/chronology（均在archive/records/）；claim-ledger.csv blob SHA=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但GitHub UTF-8正文为空，未覆盖。正式登记表目前source-register尾部S1523、search-log Q585、coverage-matrix CV655，未凭预编号虚增登记。
+
+**新增交叉核验入口（直接打开官方PDF全文）**：印尼宪法法院秘书处2025年出版《2023年第6号创造就业法——根据宪法法院判决作注释的法律文本》，https://s.mkri.id/public/content/infoumum/undang/pdf/anotasiRev_152140_gab%20UU%20No.%206%20-%202023%20Ciptaker%20%281%29.pdf ，PDF开头第11—35行说明注释属于信息整理，裁判效力自公开宣判起算；目录第187—195行明确标注2024-10-31第168/PUU-XXI/2023号判决对第88C条的条件性解释：省长**必须**制定省级行业最低工资，县市级则**可以**制定。此“wajib / dapat”层级差异必须保留，不能概括为所有县市均被强制恢复行业工资。第168号判决及此前40号判决已在旧调查中出现；此处为法院2025年汇编对生效规范的独立定位入口，不等于地方工资令执行证据。
+
+另直接打开2024-10-31法院宣判庭审笔录PDF：https://www.mkri.id/public/content/persidangan/risalah/11217_Risalah-pdf_PUTUSAN%20PERKARA%20NOMOR%2040.61.PUU-XXI.2023%20tgl.%2031%20Oktober%202024.pdf 。首页列第40、61、168号案件，笔录PDF第68—88行列第40号案申请方FSP KEP SPSI等与第168号案Partai Buruh、FSPMI、KSPSI等，不能合并为单一申请主体。第40号案部分请求不予受理、其余驳回的程序结论应与第168号案部分获支持分开。此为法院当日公开庭审记录，不是企业执行材料。与既有来源去重前不新增S/C。
+
+**当前限制**：尚未取得Bekasi 2024—2026省/县行业最低工资决定逐年原文、PT Dharma Precision Parts集体协议及企业实际工资表；因此无法判断Yosep Ubaama Kolin所述企业谈判是否在裁判后改变。法院注释并不证明地方执行。
+
+**精准未完事项**：（1）检索2025和2026西爪哇省长关于UMSP、Bekasi UMK/UMSK的正式决定及附件，逐项核省级“必须”与县市“可以”的实践；（2）定位PT Dharma Precision Parts 2022—2026 PKB与FSP LEM SPSI分会的工资谈判材料，分清证言、协议与支付；（3）按正式source-register URL去重核2025注释法规和2024宣判笔录是否已有独立S编号，安全可读时补入claim-ledger；（4）轮换1965 Aceh Kodim-0104及南苏拉威西KEP.024/10/1965/PDD/1965原件，取得具体发令与执行材料；（5）继续追Gerwani《Api Kartini》地方幼儿园、SOBSI厂级代表和BTI土地登记原始材料，成熟后并入中文连续正文。
+
+本次仅安全续接归档，不宣称正式四表/chronology/中文正文已更新。写入前检索到的最近main提交候选SHA：`b67485677fcec3ce725351f3efe8e5c341330dd2`（搜索提交列表，尚非强一致branch-ref校验）。本次提交产生的新SHA以写入回执为准；自身文件无法预写自身提交SHA。GOAL保持ACTIVE / OPEN-ENDED。
