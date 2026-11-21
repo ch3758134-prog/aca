@@ -1065,3 +1065,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **本次已核实的两条不同G项链**：G6/G4/G9直接核读Komnas HAM 2012调查摘要PDF印刷页143—155，定位1977-12-20 SPRIN/802/TPD/XII/1977（Major CPM Idham Alam）为“完全拘押→居家拘押”，并取得BAP 266—269/BAP_TPPH65/III/2009原笔录号；报告同页出现1970/1977释放日期自相矛盾，须核原令。与Taufik Ahmad 2010采访所述Moncongloe—Daya道路15公里相比，Komnas HAM称23公里，不能擅定里程。G2直接打开Ben White 2016论文作者上传全文，确认其对1965年BTI未刊村庄调查的具体字段、“三同/四不/四要”方法及Sujati/Suyati、Sulasto的匿名T/G村观察；尚未取得BTI油印原件。完整来源、访问等级、局限、各G项未结状态见本次更新的global-gap-tracker.md。写入回执commit `939a7de69459fb760d0884935feb7e7960d8ef37`，blob `9558df4da25b4c75670a3ccbb06d25cde36d4dbc`，已远程回读一致。
 
 **直接续接**：优先索SPRIN/802原件及1977-12-20名单、2009年BAP266—269可公开页、1972年Gowa住房工程及道路起讫里程；向White/Ina Slamet追1965 BTI调查油印原稿、县村/干部身份；轮换Aceh原始军令、北苏门答腊KRPT地籍及1998—2026工会登记。应优先修复正式大文件安全读取、全表去重后将真正核实的新事实并入正式CSV、chronology与成熟中文正文。G1—G10均OPEN，不宣称完成。
+
+
+## 2026-11-22｜ONGOING / GOAL仍进行｜2024年Bekasi工会工资协商证词及司法层级（跨期G7）
+
+本轮重新读取AGENTS、goal-continuity、stage-access、正式四CSV及chronology，确认main提交前HEAD `56b9f473ac8a4dfb24463eccb65b4c26a316a752`，status blob `5661a5b18bb5ced87e09363abcc13038adebbf2a`。正式来源尾号S1523、检索Q585、覆盖CV655；claim-ledger blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a的UTF-8读取仍为空，禁止覆盖或猜测C编号。检索正式source-register未发现下述2024年Yosep证词或对应MK报道的匹配行；但尚未完成所有同题主张去重，不预分配正式ID。
+
+**本轮直接打开的当时司法机关报道（非庭审逐字记录）**：印尼宪法法院官网2024-02-07庭审报道 https://www.mkri.id/berita/saksi-pemohon-sebut-uu-cipta-kerja-rampas-hak-pekerja-20003 。报道记载Bekasi县/市FSP LEM SPSI分会主席Yosep Ubaama Kolin在40/PUU-XXI/2023案件庭审中作为申请方证人出庭，称其自2002年在PT Dharma Precision Parts工作，企业集体协议以当年与上年行业最低工资差额作为加薪谈判参数；他称2022—2024未设行业最低工资使其谈判困难，且2024最低工资委员会对话空间不足。他的评价及遭遇属于**庭审当事人陈述，由法院新闻稿转述**，不能视为已由法院认定企业违法或全国普遍事实。报道同时列申请方涉及FSP KEP SPSI、PP IP、FSPI等组织，并明确区分2023年9月18日形式审查与继续进行的实体审查。此处能追踪组织、人物、工厂、集体协议、地方工资委员会、诉讼间的关系；需取庭审录音/笔录及企业协议原件。
+
+**交叉核验和反证入口**：直接打开宪法法院61/PUU-XVIII/2020判决全文 https://www.mkri.id/public/content/persidangan/putusan/putusan_mkri_8132.pdf ，首页明确申请人为Federasi Serikat Pekerja Pertamina Bersatu（FSPPB），主席Arie Gumilar，所审是2003年第19号国企法第77条相关国企私有化限制。该判决虽论述2000年第21号工会法下企业工会、联合会、总联合会的组织独立性，却**不是2023年第40号案件，也不是2024年Yosep工资证词的裁判**；不可将不同案件合并为一项工会胜诉。另查2024-10-31法院对40/PUU-XXI/2023的官方判决说明 https://www.mkri.id/berita/pkwt-21783 ，其关于定期劳动合同及其他条款的裁判解释需逐条回到判决主文，不能从新闻摘要推导Yosep个人请求获支持。2000年第21号工会法原文 https://www.peraturan.go.id/files/uu21-2000.pdf 已存在正式chronology条目，本次不重复登记法律。
+
+**本轮并库边界**：新线索已达到司法机关原始公开报道级，未取得庭审原始音视频、企业集体协议、Bekasi工资行政决定及判决全本针对本争点的主文，故本次只将精确来源及证据层级保存统一状态，不将证词写成事实裁定，不修改成熟中文正文或旧HTML。正式四表和chronology本轮未更新；仍须在正式台账全文去重后再追加原子主张。
+
+**下一次直接行动**：（1）调40/PUU-XXI/2023的2024-02-07庭审笔录/录音及证人Yosep具体问答，核身份、企业和工会职务；（2）调PT Dharma Precision Parts 2021—2024集体劳动协议PKB及Bekasi行业最低工资决定，验证证词所说计算机制；（3）逐条核2024-10-31判决40/PUU-XXI/2023与168/PUU-XXI/2023，分离证词、申请、法院理由和裁判结果；（4）恢复claim-ledger原始内容安全读取及正式四表、chronology去重并库，成熟后写1998—2026连续中文工会史；（5）轮换1925 No.648与Tjomal inv.135原件、1965 Aceh军区原始命令、Moncongloe 1977释放名单及SOBSI/BTI/Gerwani基层记录。GOAL永久OPEN。提交前main HEAD为`56b9f473ac8a4dfb24463eccb65b4c26a316a752`；本次提交最终SHA必须从写入回执与远程HEAD核验，不可预先在自身提交中伪造。
