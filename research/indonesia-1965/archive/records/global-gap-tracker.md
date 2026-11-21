@@ -113,3 +113,9 @@
 **不同G项G1｜1927 Boven Digoel行政流放机制：** 直接打开Boven Digoel县政府历史页（https://mail.bovendigoelkab.go.id/halaman/sejarah/，政府后出回顾全文，B级叙述，不是1927原令）。该页具体记载1927-01-27由L.Th. Becking上尉在Tanah Merah建营、最初14座简易营房、后按A—G营区扩展，并列Sayuti Melik、Hatta、Sjahrir、Mas Marco等不同政治背景流放者。与2021年UIN Sunan Gunung Djati学位论文馆藏摘要（https://digilib.uinsgd.ac.id/46862/，仅摘要C级）比较，可确认后者提出PKI/PARI/PNI等不同组织的流放问题，但不能以摘要证明个人流放时间。政府页面内部含1927首批建设与1927到达顺序含混，1943关闭与后段年份也需复核。**缺件**：1927-01-05总督原令、1927-01-27建营军方日志、船舶Fomalhout/Segah/Reteh乘客表、1927—1935逐人行政流放令及Tanah Merah登记册；核1926起义参与者与其他民族主义流放者的不同法律身份。不得以回顾页代替殖民原件。
 
 **跨G覆盖未闭合**：G2基层SOBSI/BTI/Gerwani，G3军政逐时，G4各省受害名册，G5族群妇女与家属，G6营地及释放，G7当代组织，G8英澳中苏具体行为，G9人物地名，G10正式CSV/中文连续正文仍OPEN。两链本次均未取得新的地方原件；未将二手叙述升级为事实定论。正式claim-ledger.csv接口仍返回0字符而非可靠正文，未触碰正式CSV或自造C/S编号。
+
+
+## 2026-11-21 UTC｜G8 1965年1月英美首脑通信与G3 10月情报分歧（ONGOING）
+**G8（原始外交文书全文A，政策提议≠执行）：** 直接核读FRUS 1964–1968 XXVI, d102，1965-01-25华盛顿国务院电报4596，转发约翰逊拟致英国首相威尔逊信件（NARA RG59 POL 7 INDON；Top Secret/Nodis；Bundy起草、Rusk批准）。美国总统在1月即提出两种外交构想：通过日本等推动马来西亚争端斡旋；或邀请苏加诺访美，借私人会谈影响其政策并试图拉开苏加诺与PKI的关系。这只证实美方形成并发出给伦敦的建议，不证明英国接受、访美邀请实施或产生效果。全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d102 。待取英国外交部收件回电、首相办公室档案、日本外务省接洽及印尼方面会议记录。
+**G3/G8（同期外交报告全文A；报告内指控并非独立事实）：** 直接核读FRUS d161，1965-10-26美国大使馆1184号电报。大使Green将苏加诺、Subandrio、Aidit等列为其推断的核心参与者，同时承认中国参与策划“尚未确立”；编辑脚注另引CIA 1965-10-28 OCI No.2342/65，称PKI部分成员参与但领导层角色仍不清楚。两机关几乎同期判断有显著差别，不能选其中一个推论当定论。原文 https://history.state.gov/historicaldocuments/frus1964-68v26/d161 ，尤其正文2、6、7段及脚注2、3。待取10-22 Airgram 300、OCI No.2342/65原件及印尼军方/广播档案；按形成日期区分事发时点、报告时点、后世编辑时点。**本次未取得地方原件，不能用这些美国文件填平G4地方暴力缺口。**
+**下一交接：**（1）英国对1965-01-25信件回函与FCO/PREM案卷；（2）OCI No.2342/65全文与10-22 Airgram 300；（3）转回Aceh、北苏门答腊原始Kodim/地方报刊；（4）1927 Boven Digoel流放名册；（5）Gerwani《Api Kartini》1960年3月28页正文。G1—G10均OPEN；正式CSV/chronology/readable-history仍待安全并库，claim-ledger接口空正文障碍未解决。
