@@ -1,0 +1,110 @@
+{
+  "batch": 11,
+  "method": "Count text in article before sources/navigation, including li; main excludes embedded research-fulltext; not a substitute for scholarly review",
+  "entries": [
+    {
+      "path": "events/event-trisula-1968.html",
+      "mainTextChars": 2973,
+      "fullTextChars": 2973,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 2681
+    },
+    {
+      "path": "events/event-union-prisoners-1977.html",
+      "mainTextChars": 1237,
+      "fullTextChars": 1237,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1017
+    },
+    {
+      "path": "events/event-union-registration-1998.html",
+      "mainTextChars": 1397,
+      "fullTextChars": 1397,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1195
+    },
+    {
+      "path": "events/event-union-structure.html",
+      "mainTextChars": 1255,
+      "fullTextChars": 1255,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1039
+    },
+    {
+      "path": "events/event-uprising.html",
+      "mainTextChars": 801,
+      "fullTextChars": 801,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 681
+    },
+    {
+      "path": "events/event-victim-protection-2026.html",
+      "mainTextChars": 870,
+      "fullTextChars": 870,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 702
+    },
+    {
+      "path": "events/event-vstp-1923.html",
+      "mainTextChars": 1850,
+      "fullTextChars": 1850,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1640
+    },
+    {
+      "path": "events/event-wangunwati.html",
+      "mainTextChars": 1063,
+      "fullTextChars": 1063,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 909
+    },
+    {
+      "path": "events/event-wartime-mobilization.html",
+      "mainTextChars": 949,
+      "fullTextChars": 949,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 788
+    },
+    {
+      "path": "events/event-west-kalimantan-1967-expulsion.html",
+      "mainTextChars": 1165,
+      "fullTextChars": 1165,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 913
+    },
+    {
+      "path": "events/event-westpapua.html",
+      "mainTextChars": 1022,
+      "fullTextChars": 1022,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 919
+    },
+    {
+      "path": "events/event-women-detainees.html",
+      "mainTextChars": 1457,
+      "fullTextChars": 1457,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1218
+    },
+    {
+      "path": "organizations/org-army.html",
+      "mainTextChars": 1229,
+      "fullTextChars": 1229,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1073
+    }
+  ]
+}
