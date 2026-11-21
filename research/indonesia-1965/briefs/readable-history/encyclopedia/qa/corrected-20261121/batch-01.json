@@ -1,0 +1,110 @@
+{
+  "batch": 1,
+  "method": "Count text in article before sources/navigation, including li; main excludes embedded research-fulltext; not a substitute for scholarly review",
+  "entries": [
+    {
+      "path": "people/person-gatot-lestario.html",
+      "mainTextChars": 4297,
+      "fullTextChars": 8237,
+      "listItemChars": 3419,
+      "hasResearchFulltext": true,
+      "paragraphOnlyChars": 639
+    },
+    {
+      "path": "people/person-green.html",
+      "mainTextChars": 1203,
+      "fullTextChars": 1203,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 990
+    },
+    {
+      "path": "people/person-hariman-siregar.html",
+      "mainTextChars": 709,
+      "fullTextChars": 709,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 600
+    },
+    {
+      "path": "people/person-hartini.html",
+      "mainTextChars": 1114,
+      "fullTextChars": 1114,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 960
+    },
+    {
+      "path": "people/person-haryono.html",
+      "mainTextChars": 1152,
+      "fullTextChars": 1152,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 949
+    },
+    {
+      "path": "people/person-hatta.html",
+      "mainTextChars": 1200,
+      "fullTextChars": 2221,
+      "listItemChars": 0,
+      "hasResearchFulltext": true,
+      "paragraphOnlyChars": 984
+    },
+    {
+      "path": "people/person-inggit.html",
+      "mainTextChars": 894,
+      "fullTextChars": 894,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 757
+    },
+    {
+      "path": "people/person-ismail-bakri.html",
+      "mainTextChars": 1262,
+      "fullTextChars": 1599,
+      "listItemChars": 0,
+      "hasResearchFulltext": true,
+      "paragraphOnlyChars": 1133
+    },
+    {
+      "path": "people/person-jan-djong.html",
+      "mainTextChars": 1917,
+      "fullTextChars": 3799,
+      "listItemChars": 1562,
+      "hasResearchFulltext": true,
+      "paragraphOnlyChars": 225
+    },
+    {
+      "path": "people/person-jusuf-adjitorop.html",
+      "mainTextChars": 1303,
+      "fullTextChars": 1303,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1171
+    },
+    {
+      "path": "people/person-kahar.html",
+      "mainTextChars": 805,
+      "fullTextChars": 805,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 642
+    },
+    {
+      "path": "people/person-kartosuwiryo.html",
+      "mainTextChars": 817,
+      "fullTextChars": 817,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 651
+    },
+    {
+      "path": "people/person-ki-hadjar.html",
+      "mainTextChars": 866,
+      "fullTextChars": 866,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 720
+    }
+  ]
+}
