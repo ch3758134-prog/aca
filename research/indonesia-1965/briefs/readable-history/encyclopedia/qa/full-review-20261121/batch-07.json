@@ -1,0 +1,136 @@
+{
+  "batch": 7,
+  "base": "ec71f4187dbb196fdfecf83db918eee0ad6cded9",
+  "report": [
+    {
+      "path": "events/event-criminal-code-2026.html",
+      "bodyChars": 817,
+      "paragraphs": 9,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-diplomacy-revolution.html",
+      "bodyChars": 872,
+      "paragraphs": 9,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-dutch-offensive.html",
+      "bodyChars": 1234,
+      "paragraphs": 8,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-election-2024.html",
+      "bodyChars": 1203,
+      "paragraphs": 10,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-election.html",
+      "bodyChars": 581,
+      "paragraphs": 6,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-foreign-1965.html",
+      "bodyChars": 1185,
+      "paragraphs": 9,
+      "externalLinks": 7,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-foreign-channels.html",
+      "bodyChars": 904,
+      "paragraphs": 7,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-formation.html",
+      "bodyChars": 677,
+      "paragraphs": 6,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-guided.html",
+      "bodyChars": 1232,
+      "paragraphs": 9,
+      "externalLinks": 6,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-komnas.html",
+      "bodyChars": 808,
+      "paragraphs": 9,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-konfrontasi.html",
+      "bodyChars": 1051,
+      "paragraphs": 11,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-labor-revolution.html",
+      "bodyChars": 904,
+      "paragraphs": 9,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-land-court.html",
+      "bodyChars": 1128,
+      "paragraphs": 10,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    }
+  ]
+}
