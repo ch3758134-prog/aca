@@ -173,3 +173,12 @@
 
 
 **进一步直接核读G2原刊第15页《Kunikijah, buruh wanita》（OCR行约460—488）：** 受访者Kunikijah被刊物称为Malang的SBRI（Serikat Buruh Rokok Indonesia，印尼卷烟工人工会）领导人及全国领导机构成员。她自述工会约有45,000名女工，占其所称卷烟工人约70%；这是**受访者的组织估算，不是独立会员登记**。报道明确指出Malang的Faroka卷烟厂：1961-07-04工人会议决定罢工，文章称1600人参加、其中776人为女性，工厂关闭10天、约10人被拘，最终要求支付停工期间全额工资；25%涨薪要求与企业所有权问题分别处理。1963年受访者仍称厂方为外国资本、接管要求未解决。另提供小厂卷烟工每千支计件工资Rp23、剪切费用Rp6及日做3000支的工资算例（Rp51），应与当地物价和实际工资单核对。该原刊将女工、SBRI、Faroka企业、1961罢工、1963工资/所有权冲突连接起来，填补G2厂级组织行动缺口。**证据等级A仅指当事刊物OCR已读；事件、人数、拘押和薪资是受访者/刊物的陈述，非独立核定。** 原件扫描第15—16页、1961年7月地方报纸、工会会议决议、Faroka工资账与警局拘押记录仍缺；还须核SBRI与SOBSI的正式组织关系，不凭名称推断。来源同上 https://pustaka.taratsa.id/read/1390/ocr/pdf/ 。
+
+
+## 2026-11-21｜G2原刊日期内在矛盾与G4 Aceh 1966年4月地方拘押链（ONGOING）
+
+**G2/G5（Malang、1961—1963；直接阅读同期刊物OCR，A仅指刊物表述）：** 复核《Api Kartini》1963年第5—6期《Kunikijah Buruh Wanita》，https://pustaka.taratsa.id/read/1390/ocr/pdf/ ，OCR第463—487行。补充前次未标出的**日期校勘风险**：该期网页与目录标“Mei 1963”，但报道开头称妇女工人会议在“21 s/d 23 Djuli”（7月21—23日）举行，并称“pekan ini”（本周）；**五月刊与七月已发生会议在字面上冲突**，可能是合刊实际发行延迟、刊物误植或OCR误读，不能据此确定会议年份与实际日期。须对照原扫描封面、会议通知、其他同期刊物；不把该会议写进确定日序。另文中写工厂10天关闭、约10人被捕、其中“两人被拘15天后释放”，OCR“sedang 2 buah dilepaskan”可能存在识别/排版错位，须先扫描校勘再写准确释放人数。罢工要求企业接管、25%工资增长及工厂仍属外资三个不同命题，不能把薪资让步当成企业国有化。未见SBRI与SOBSI组织隶属原始章程。该来源已在此前总账登记，本次不重复S编号。
+
+**G4/G5/G9（Aceh北部，1965—1966；B：2013年Jess Melvin开放学术论文全文直接读到，论文转引的军方原件未独立打开）：** Jess Melvin, “Why Not Genocide? Anti-Chinese Violence in Aceh, 1965–1966”, *Journal of Current Southeast Asian Affairs* 32(3), https://journals.sagepub.com/doi/full/10.1177/186810341303200304 ，正文“Third Wave”与“Flight from Banda Aceh”段。论文依据1966年军方《Perkembangan》记录：**1966-04-18** Lhokseumawe/Bireuen学生代表与北Aceh Pantja Tunggal协商后，学生获准拘集所谓“RRT Chinese”，将**304人**集中至县长办公室院内并移交北Aceh军区指挥官；**304是该文献所载移交人数，不是死亡人数**，作者明确称其后命运未知。论文还记录**04-22**骚乱延及Lhoksukon，**04-23**Aceh军区指挥官Ishak Djuarsa赴Bireuen、Lhokseumawe，**04-24**其要求调查，**05-08**下令所谓“外籍华人”离开该省。文章描述学生Rusli AD受军官棍击、学生Iskandar遭警告射击致死的冲突链，但均为作者转引《Perkembangan》；需原始记录及医院死亡登记交叉。作者引用Coppel称约1万人离开Aceh、约4000人乘Kuang Hua船转移；两数分属不同统计口径，不可视为逐人核定。重要的是军方在部分时刻制止攻击、同时又授权拘集，说明不能将“军方”“学生”视为行动始终一致的单一主体。**缺件**：《Perkembangan》1966年原件第2—5页、304人移交/拘押与释放登记、Pantja Tunggal 4月18—19日会议纪要、04-24指令、05-08驱逐令、医院登记、Kuang Hua乘船名册。**下一动作**：从论文参考书目追《Perkembangan》馆藏及原件影像；分别核对304人名单与Langsa 1965年Baperki 148人声明，禁止混为同一批人；沿Lhokseumawe—Medan—Belawan转运路径核对1966年船舶/出境档。此链独立于G2厂级工会链，改善地区失衡，但不构成地方原件已核实。
+
+**G1—G10继续OPEN；正式CSV与中文历史正文尚未并库。** claim-ledger.csv经本次main读取仍为非空SHA却空正文，不覆盖、不虚构C号；下次优先排查通过Git对象原始内容下载恢复CSV，再按正式编号去重写入chronology/source/search/coverage与连续中文叙事。以上均为可续查事实及证据边界，不宣称历史全量完成。
