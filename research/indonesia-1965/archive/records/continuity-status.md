@@ -779,3 +779,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **归档边界**：本轮只在统一状态保留官方定位与二次OCR访问等级；正式source-register尚未完成全表URL/题名去重，不分配S编号；正式Q/CV、chronology和中文正文均未更新，不虚称并库。下一轮先查该法令是否已有S/C，再安全登记。
 
 **精准续接**：（1）下载BPK第68号总统决定PDF并逐页核对1998三份建议的文号、日期及法律处分；（2）检索1999-07-05 Dita Sari监狱释放登记、PPBI/PRD当事人声明与同期报刊，独立验证执行日；（3）检索Komnas HAM 1999年Marsinah调查最终报告，分清特赦与凶案调查；（4）回到PP41/1964县级土地改革名册、BTI/Gerwani组织行动及Aceh Langsa 1965军方原件；（5）修复claim-ledger完整读取，按正式S/C/Q/CV去重后推进chronology及成熟中文连续历史正文。GOAL ACTIVE / OPEN-ENDED，G1—G10全部保持OPEN。
+
+
+## 2026-11-21 08:51 CST｜ONGOING / GOAL仍进行｜Dita Sari特赦官方PDF复核及重复来源纠正
+
+**提交前main HEAD**：4d3181d413564aa3219160e09a883009bfd0cf6f（GitHub refs/heads/main独立读取）。本轮重读AGENTS、goal-continuity、stage-access、正式四CSV及archive/records/chronology；claim-ledger.csv的blob仍为362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，UTF-8内容接口返回0字节，禁止覆盖或猜测C编号。
+
+**直接核读政府原件**：印尼国家法规门户《Keputusan Presiden Republik Indonesia Nomor 68 Tahun 1999》，两页PDF全文 https://www.peraturan.go.id/files/kp68-1999.pdf （本次逐行核读正文及署名，印刷页1—2）；BPK官方登记 https://peraturan.bpk.go.id/Details/58415/keppres-no-68-tahun-1999 。法令第一项给予Dita Indah Sari特赦，第二项消除该刑事定罪的法律后果，第三项指定司法部长和总检察长执行，第四项签署日起生效；1999-07-02由Habibie签署、国务秘书Muladi公布，LN 1999 No.119。序言列三份先行建议：司法部长M.PW.07.03-483（1998-10-30）、总检察长K.268/A/E/12/1998（1998-12-07）、最高法院院长KMA/391/XII/1998（1998-12-22）。这些是法令对建议的列举，三份建议正文未读，不能代替其具体理由。
+
+**正式台账去重关键结果**：source-register.csv早已同时登记同一总统令S469（西爪哇JDIH官方PDF）及S487（BPK官方登记），另有S489/S944为国际特赦组织1999-07-05同一声明的不同网址；本次国家法规门户PDF是**同一法令的另一官方馆藏镜像**，不应新分配S编号，更不能将S469与S487当作两份独立事件证据。既有chronology已有Dita相关节点；本次不重复添加。应在后续安全整理时将新官方PDF补作S469或S487的替代原件链接，并标明两条记录同一法令，保留原ID历史而不删除。对照ILO第318次报告第226—231段所载政府称1999-07-05释放，及国际特赦组织当日声明S489/S944：两份同日公开叙述不是监狱放行簿；1999-07-02法律生效与07-05报告释放是不同事实层次。
+
+**本轮归档**：只更新统一续接状态，四正式CSV、chronology、中文连续阅读正文未变；未完成claim-ledger正式C核验，不虚报全量并库。新增原件已直接打开，但仍需追原始执行材料和1998建议。下一次精确执行：（1）读取S469既有JDIH PDF，与本次国家法规门户PDF逐条比对是否同版及有无OCR误字；（2）查1998-10-30 M.PW.07.03-483、1998-12-07 K.268/A/E/12/1998、1998-12-22 KMA/391/XII/1998三件建议原文及签收记录；（3）查1999-07-05监狱释放簿及PPBI/PRD当事人记录，核与ILO/Amnesty报告关系；（4）回到Aceh 1965-10-18 Langsa Baperki声明148人名单及《Chronologis 1966》影印，逐人逐地交叉；（5）查1964 PP41实施细则、BTI/Gerwani县级土地分配/女性受地记录，同时探索Git blob原始字节读取以恢复C表。所有G项与GOAL保持OPEN，未宣称穷尽。最终提交SHA以GitHub写入回执及远程HEAD核验为准，无法在自身提交正文预写自身SHA。
