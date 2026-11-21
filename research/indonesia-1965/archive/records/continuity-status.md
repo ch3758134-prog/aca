@@ -1019,3 +1019,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准未完**：（1）通过2.20.39 PDF/XML完整清单定位vrouwennachtarbeid、arbeidsmoeilijkheden、werkvolksituatie卷号，预约原卷；（2）取得Staatsblad 1925 No.648影印，逐条核第1、2、4、5条及许可范围；（3）取得Levert正文第119—121页表及附录H，核统计分母、年份和数据来源，追1926—1931 Kantoor van Arbeid原始统计；（4）另轮换1965 Aceh Kodim-0104命令与Moncongloe 1977释放名单，以及Gerwani/SOBSI地方工厂组织档案；（5）修复claim-ledger可靠读取并按正式S/C/Q/CV去重后更新chronology与成熟中文连续正文，不建旧式HTML。
 
 写入前远程main HEAD：3cbf6e53617dde29c7fe3ca8012e9bf19a6defcf。此处不能预填本次提交的自身SHA；须以提交回执和提交后HEAD回读核验。GOAL永久ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-22｜ONGOING / GOAL仍进行｜1926年糖业女工夜班统计原始报表路径
+
+本轮已读AGENTS、goal-continuity、stage-access、统一状态及正式四CSV与chronology；main基线于本次状态写入前核验为 `9ef287a1591078cd457b801d2ff36e6549153063`。claim-ledger.csv非空blob `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a` 但UTF-8接口正文长度为0，禁止覆盖或猜测C编号。
+
+**新核读**：直接打开P. Levert《Inheemsche arbeid in de Java-suikerindustrie》现代数字化荷兰文文本印刷页119（数字页132） https://fliphtml5.com/wuwth/sbbj/INHEEMSCHE_ARBEID_IN_DE_JAWA_SUIKERINDUSTRIE_%5BPH._Leavert%5D/132/ 。作者明确称实际工厂女工劳动数据自1926年才因Staatsblad 1925 No.648的报告义务开始收集，糖厂每年向劳动局长提交妇女夜班统计；印刷页196（数字页209） https://fliphtml5.com/wuwth/sbbj/INHEEMSCHE_ARBEID_IN_DE_JAWA_SUIKERINDUSTRIE_%5BPH._Leavert%5D/209/ 又提到制糖季例外许可与工时、工资统计。这是当时历史研究的数字文本，OCR有错误，**不是1925年第648号公报原件，也不是1926年糖厂报表**。已正式登记S1523、Q585、CV655，并在chronology追加一条标明证据层级的1926年条目。荷兰国家档案馆2.15.31、2.15.5059为荷兰本土劳动部门档案，不能误认为荷属东印度劳动局原始报表；应查殖民劳动局与糖业公会档案出处。
+
+**本次已提交的逐文件SHA**：source-register 70b3a27de2f5b774d04b76d9530020d35b47ba09；search-log cadb7be6e2a82bed791923eb1f1277653d3187ee；coverage-matrix 78149139dda86a8e1667e998bdf1b308af24ed6c；chronology 9ef287a1591078cd457b801d2ff36e6549153063。状态写入前HEAD `9ef287a1591078cd457b801d2ff36e6549153063`；状态自身最终提交SHA须由写入回执及远程HEAD核对，不能在同一次提交内容中自引用。正式claim-ledger未修改；中文连续正文未修改（本次证据仍不足以独立构成工厂现场叙事）。
+
+**精准未完**：（1）按荷兰文原名检索Staatsblad 1925 No.648原始公报并逐条核例外和统计义务；（2）检索Kantoor van Arbeid / Arbeidsinspectie Nederlandsch-Indië 1926–1931年度报告、原始女工夜班表与工资分母；（3）在荷兰国家档案馆Tjomal全宗2.20.39逐级定位妇女夜班、人事与年报实体卷号，辨别总部报告与工厂原表；（4）以1954年Gerwis大会劳动部长Abidin发言与1951年第1号法第7/9条原件对照，确认旧条例存续和新法实施的时间边界；（5）轮换Aceh 1965年Langsa声明及Moncongloe 1977年SPRIN/802原件、1998后工会档案，恢复claim-ledger字节可靠读取后再安全补登记C编号。GOAL永久OPEN，未宣称穷尽。
