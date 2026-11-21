@@ -1,0 +1,136 @@
+{
+  "batch": 3,
+  "base": "b0d6271adb81674aa4fee59f32799c6e60288a21",
+  "report": [
+    {
+      "path": "people/person-pakpahan.html",
+      "bodyChars": 1443,
+      "paragraphs": 11,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-panjaitan.html",
+      "bodyChars": 1074,
+      "paragraphs": 9,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-parman.html",
+      "bodyChars": 514,
+      "paragraphs": 6,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-piet-van-staveren.html",
+      "bodyChars": 219,
+      "paragraphs": 5,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-pranoto.html",
+      "bodyChars": 616,
+      "paragraphs": 7,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-putmainah.html",
+      "bodyChars": 501,
+      "paragraphs": 5,
+      "externalLinks": 1,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-rewang.html",
+      "bodyChars": 2690,
+      "paragraphs": 18,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-roem.html",
+      "bodyChars": 610,
+      "paragraphs": 7,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-ruslan-widjajasastra.html",
+      "bodyChars": 1851,
+      "paragraphs": 14,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-sarwo-edhie.html",
+      "bodyChars": 826,
+      "paragraphs": 8,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-schoonheyt.html",
+      "bodyChars": 749,
+      "paragraphs": 8,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-semaun.html",
+      "bodyChars": 2993,
+      "paragraphs": 20,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-siauw.html",
+      "bodyChars": 1207,
+      "paragraphs": 11,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    }
+  ]
+}
