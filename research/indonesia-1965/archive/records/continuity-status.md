@@ -1143,3 +1143,6 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **待完成（精确）**：①取得561.7/Kep.876-Kesra/2025及863号全文，建立发布—修订—撤销链和每项生效日；②取得PTTUN Jakarta四案判决主文、当事人和行政决定对应关系，并核Bandung 50/G/2026/PTUN.BDG的上诉对应；③核PT Dharma Precision Parts厂址、KBLI、PKB及工资实付凭证，区分市县和行业；④对正式S1523/Q585/CV655之后去重登记本次原件核读、chronology和成熟中文劳工史，claim-ledger需先恢复字节读取；⑤下一轮同时轮换1965 Aceh军令与Moncongloe 1977 SPRIN/802、Gerwani/SOBSI/BTI基层档案，防止单专题长期挤占。
 
 本次写入前统一状态blob=61e4ebf59043ceb86fab12df7cea7caba82d0428；最近已知main提交SHA为b2b900cd14fc78cfafe52243f7b110251b7eeffc（来自前轮，**尚须本轮独立读取branch HEAD**）。提交自身SHA无法在同一Git提交内容中自引用，须用提交回执和后续HEAD核验。GOAL ACTIVE / OPEN-ENDED。
+
+
+**2026-11-22 07:48 CST 并库回执与 HEAD 接力：** 本轮已写入正式 search-log `Q586`（commit `3abece3b6ce388192b6fb6a0a24734c76b7ee938`）、coverage-matrix `CV656`（commit `8fe2520d1ef4d6e559fc0d8c2964bac38d639d98`）、chronology 2026-11-11条目（commit `bb4537f9e056c787738221886859c4ad9bfca08d`）；状态首次核验提交 `b8b35708a84e3b668c3a80b034ce6ad237934d7c`。**本次独立读取 GitHub branches/main 时 HEAD=`bb4537f9e056c787738221886859c4ad9bfca08d`，与时间线提交一致。** 本条状态补记提交会产生更新的 HEAD，最终以补记回执及下一轮 branch HEAD 回读为准。正式source-register未增加S编号（此前已在状态中发现相同原件，需语义去重），claim-ledger读取故障仍未解决，中文连续正文尚未更新。下轮先处理原件876/2025及四案判决并完成正式S/C去重，再继续1965地方军政证据链。GOAL保持OPEN。
