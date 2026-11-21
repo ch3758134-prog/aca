@@ -961,3 +961,18 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精确续接任务**：①取得1925-12-17 Staatsblad 647原件PDF，逐条比较妇女夜班限制、例外与1951年第1号法第7条；②取得1941 Staatsblad 45与1954—1965实施第7/9条的政府条例、部长令或明确废止记录；③以1953—1955东爪哇糖厂名称为单位找劳动监察簿、女工夜班排班及Gerwis/SOBSI申诉，核Abidin举例；④恢复正式claim-ledger原始内容读取并安全去重，修正chronology中旧的官方法令未读状态、成熟后写连续中文历史段落；⑤轮换Aceh 1965 Langsa名单原件、Moncongloe 1977军令、BTI土地登记及1998后基层工会登记实绩。GOAL保持ACTIVE / OPEN-ENDED。
 
 **提交前续接文件blob**：2a1f0a2c166a3a0e141f6262669e89c8a3269784；最新提交SHA以GitHub提交回执及随后main核验为准，不在同一提交中伪造自指SHA。
+
+
+## 2026-11-21 20:52 CST｜1925年妇女夜班条例及糖厂例外的原件链（ONGOING / GOAL仍进行）
+
+本次按AGENTS、stage-access、goal-continuity读取正式source-register、claim-ledger、search-log、coverage-matrix及chronology，确认正式台账位于archive/records。claim-ledger.csv仍返回非空blob SHA `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a` 但UTF-8正文长度为0；不得覆盖或凭猜测追加C编号。检索现有source-register及chronology未发现本轮直接核读PDF的完整URL，也未发现“Stbl. 1925 No. 648”及P. Levert字样；须继续更严格的逐行去重，暂不冒领正式S编号。
+
+**新核读原件（印尼文法规转录PDF）**：Better Work Indonesia公开1925年12月17日第647号殖民劳动条例的印尼文全文 https://www.llg-bwi.org/file_publish/Staatsblad%20Nomor%20647%20Tahun%201925.pdf 。第1条为12岁以下儿童20:00—05:00夜工限制（注记1949年第8号修订）；第2条列举童工禁用工作场所；第3条规定妇女22:00—05:00夜工限制，同时保留由总督决定针对行业、工厂、工作场所或种植园批准例外的制度；第4—6条涉及雇主管理责任及监察信息；第7条规定处罚；第8—9条规定劳动监察和进入工作场所权。**访问等级：直接打开公开PDF全文的可提取文本，但该PDF为后出的印尼文法规文本，未核对1925年荷兰文《Staatsblad》当年影印及1949修订原件。** 劳工部JDIH官方目录 https://jdih.kemnaker.go.id/peraturan/detail/2321/staatsblad-nomor-647-tahun-1925 确认编号、题名并将其标为Berlaku；目录“现行”标签不等于逐条核实2026年适用范围。
+
+**新找到具体执行例外的关键线索（荷兰文）**：P. Levert, *Inheemsche arbeid in de Java-suikerindustrie* 数字翻页第209页 https://fliphtml5.com/wuwth/sbbj/INHEEMSCHE_ARBEID_IN_DE_JAWA_SUIKERINDUSTRIE_%5BPH._Leavert%5D/209/ ，原书文字转录称第647号限制条例的实施细则为**Staatsblad 1925 No.648**，其第1条允许制糖季糖厂妇女夜班，第2条要求糖厂经营者向劳动局提供工时与工资统计，并有限制性规定。这里核读的是公开数字翻页的书页文字转录，未独立核验1925年第648号法规影印，亦未取得工厂上报统计表；书页不能代替法规或企业执行档案。2016年Elise van Nederveen Meerkerk论文全文页面 https://www.cambridge.org/core/journals/international-review-of-social-history/article/grammar-of-difference-the-dutch-colonial-state-labour-policies-and-social-norms-on-work-and-gender-c18001940/2E3D99E7F79D8FFC2477F6D55164EB4F 可作为殖民性别劳动政策的学术交叉背景，但不能替代第648号条例原件。另一个2026年独立作者网页重复同样编号与糖厂例外，可能依赖Levert，不视为独立原始旁证。
+
+**历史关联与反证**：1925年第647号第3条已有制度性例外授权；Levert记载第648号实施细则具体将糖厂纳入例外。因而1954年Gerwis大会劳动部长关于1951年第1号法第7、9条尚未实施的发言，不能误写成此前完全没有任何妇女夜班监管，也不能推论1954年糖厂已经执行新法。要区分殖民旧法、独立后新法的施行、行业豁免、企业真实排班和执法。
+
+**精准未完**：1. 从荷兰殖民官方公报扫描获取Staatsblad 1925 No.647与No.648原件，逐条对照第3条授权与第648号第1—2条；2. 查1949 Stbl.No.8及1933 No.511、1947 No.208修订原件，核实后出印尼文文本的修订层次；3. 找1925—1935爪哇糖厂提交劳动局的夜班人数、工时、工资统计，及1924年雇主调查与工会参与证据；4. 对照1951年第1号法、1951年第4号条例和1954年Gerwis大会致辞，确认新法第7、9条的实施节点；5. 轮换Aceh 1965、Moncongloe、BTI/SOBSI基层与1998年后工会档案，并在claim-ledger安全读取后正式去重并库及编写成熟中文连续正文。
+
+**Git状态**：本次写入前GitHub最近提交检索显示main最新SHA `ce33b73aa01925d71cf54fd6cc6097e1b2033475`；这是写入前HEAD参考值，不能将本次提交SHA预写入自身正文。后续须以GitHub写入回执和远程main回读为准。GOAL永久OPEN。
