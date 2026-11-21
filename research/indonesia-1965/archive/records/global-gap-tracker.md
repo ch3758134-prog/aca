@@ -104,3 +104,12 @@
 **G8/G3 华盛顿，1965-10-22：** 同卷**文件160**为Bundy致Johnson备忘录（10:30 AM华盛顿时间），公开全文将印尼政局变化称作美国长期政策的有利迹象；这是美国高级官员当时的政策评估，**不能单凭此文证明美方指挥棉兰青年组织或当地具体暴力**。全文 https://history.state.gov/historicaldocuments/frus1964-68v26/d160 。两份文书的不同机构、不同日期与证据对象必须分别保留。
 **待取原件/核验动作：** 棉兰1965-11-10当地报纸版面、被杀省议员姓名与民事死亡登记、Pemuda Pantjasila棉兰市及北苏门答腊干部名单/会议记录、11月2日与PNI青年冲突警察报告、NARA RG59原影印及FNM-1515/1516；并将1965年11月地区政治暴力与此前种植园土地、工会/BTI组织网络逐县连接，避免只看全国政治。下一跨项优先G1殖民工会与1926—27地方流放原件、G2工会企业档案、G6拘押名单。**正式来源登记中已含d174 URL，禁止重复S编号；正式claim-ledger.csv返回空正文但SHA非空，禁止覆盖或虚构C编号。**
 **G1—G10状态：** 仍全部OPEN；本条是新核读与原件缺口，尚未并入正式CSV、统一时间线和中文连续正文。
+
+
+## 2026-11-21 UTC｜北苏门答腊与1927殖民流放跨G核验（ONGOING）
+
+**G4/G5/G8/G9｜棉兰证据交叉：** 直接复读1965-11-16美国棉兰领馆电报65号，FRUS第174件（https://history.state.gov/historicaldocuments/frus1964-68v26/d174，原始同期电报之官方刊印全文，A级证明“领馆收到这些陈述”，不能独立证明每项指控）。电报称11月14日Pemuda Pantjasila棉兰市书记对领事表示拒绝停止暴力；11月10日报刊称一名北苏门答腊议员遭殴打死亡；另称五具残缺尸体被发现，但媒体将责任归于“PKI恐怖分子”，领馆消息来源则质疑这种宣传。**新增独立核验维度**：直接打开Komnas HAM《Ringkasan Eksekutif Tim Ad Hoc Peristiwa 1965–1966》印尼文全文（https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf），其棉兰证人段落记述证人及Lim Ceng Siang被指Pemuda Pancasila成员拘禁殴打，随后出现Kodim Kota Medan Seksi I Kapten Muhammad Ginting；这是2012年官方调查对证词的整理，不是1965年警局原笔录，且不可把这名证人与11月10日议员或五具尸体擅自合并。下一步对照报告该段前后页的证人身份、日期与案件编号，查11月10日报刊及警方、Kodim登记，定位FNM-1515/1516原文。
+
+**不同G项G1｜1927 Boven Digoel行政流放机制：** 直接打开Boven Digoel县政府历史页（https://mail.bovendigoelkab.go.id/halaman/sejarah/，政府后出回顾全文，B级叙述，不是1927原令）。该页具体记载1927-01-27由L.Th. Becking上尉在Tanah Merah建营、最初14座简易营房、后按A—G营区扩展，并列Sayuti Melik、Hatta、Sjahrir、Mas Marco等不同政治背景流放者。与2021年UIN Sunan Gunung Djati学位论文馆藏摘要（https://digilib.uinsgd.ac.id/46862/，仅摘要C级）比较，可确认后者提出PKI/PARI/PNI等不同组织的流放问题，但不能以摘要证明个人流放时间。政府页面内部含1927首批建设与1927到达顺序含混，1943关闭与后段年份也需复核。**缺件**：1927-01-05总督原令、1927-01-27建营军方日志、船舶Fomalhout/Segah/Reteh乘客表、1927—1935逐人行政流放令及Tanah Merah登记册；核1926起义参与者与其他民族主义流放者的不同法律身份。不得以回顾页代替殖民原件。
+
+**跨G覆盖未闭合**：G2基层SOBSI/BTI/Gerwani，G3军政逐时，G4各省受害名册，G5族群妇女与家属，G6营地及释放，G7当代组织，G8英澳中苏具体行为，G9人物地名，G10正式CSV/中文连续正文仍OPEN。两链本次均未取得新的地方原件；未将二手叙述升级为事实定论。正式claim-ledger.csv接口仍返回0字符而非可靠正文，未触碰正式CSV或自造C/S编号。
