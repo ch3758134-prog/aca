@@ -1030,3 +1030,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **本次已提交的逐文件SHA**：source-register 70b3a27de2f5b774d04b76d9530020d35b47ba09；search-log cadb7be6e2a82bed791923eb1f1277653d3187ee；coverage-matrix 78149139dda86a8e1667e998bdf1b308af24ed6c；chronology 9ef287a1591078cd457b801d2ff36e6549153063。状态写入前HEAD `9ef287a1591078cd457b801d2ff36e6549153063`；状态自身最终提交SHA须由写入回执及远程HEAD核对，不能在同一次提交内容中自引用。正式claim-ledger未修改；中文连续正文未修改（本次证据仍不足以独立构成工厂现场叙事）。
 
 **精准未完**：（1）按荷兰文原名检索Staatsblad 1925 No.648原始公报并逐条核例外和统计义务；（2）检索Kantoor van Arbeid / Arbeidsinspectie Nederlandsch-Indië 1926–1931年度报告、原始女工夜班表与工资分母；（3）在荷兰国家档案馆Tjomal全宗2.20.39逐级定位妇女夜班、人事与年报实体卷号，辨别总部报告与工厂原表；（4）以1954年Gerwis大会劳动部长Abidin发言与1951年第1号法第7/9条原件对照，确认旧条例存续和新法实施的时间边界；（5）轮换Aceh 1965年Langsa声明及Moncongloe 1977年SPRIN/802原件、1998后工会档案，恢复claim-ledger字节可靠读取后再安全补登记C编号。GOAL永久OPEN，未宣称穷尽。
+
+
+## 2026-11-22｜Tjomal具体卷号首次定位（ONGOING / GOAL仍进行）
+
+本次完整读取AGENTS、goal-continuity、stage-access、统一续接状态、正式source-register、search-log、coverage-matrix、chronology；正式claim-ledger.csv仍为非空blob SHA `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a` 而API返回0字符，绝不覆盖或虚构C编号。读取GitHub提交列表时最新观察提交 `0d541d6dc559e96fa7aa9d22f68f44ccbc97ba7d`（为本次写入前观察值，不等同本次提交后HEAD）。
+
+**新证据：荷兰国家档案馆正式34页荷兰文全宗目录已直接打开**：R.J.P. St. Jago, *Inventaris ... Suikeronderneming Tjomal*, toegang 2.20.39, https://www.nationaalarchief.nl/onderzoeken/archief/2.20.39/download/pdf 。第24印刷页（PDF索引23）具体定位 **inv.nr.135：1937年妇女夜班统计表副本（Staat betreffende vrouwennachtarbeid. Doorslag. 1937, 1 stuk）**，为1925年第648号条例统计链最直接的企业档案取件目标；**inv.nr.134：1930—1939年本地雇员工资、地租和供货支付统计**；**inv.nr.131：1927年日惹与北加浪岸行政长官关于PSI革命派活动的两份报告副本，目录仅推测部分Tjomal工人可能参与**；**inv.nr.130：1926年非欧洲雇员任职和养老金材料**；**inv.nr.141：1950年工厂经理关于劳动纠纷、地租、工人状况等的半月报告三份**；**inv.nr.139：约1947—1951年临时工每日人数图表和职位薪金统计**。第14印刷页（PDF索引13）另有 **inv.nr.22—24：1925—1931年公开年报；inv.nr.31：1926—1939年不公开的企业年报**。上述全为**馆藏目录级**核验，尚未读取任何实体卷宗，不能把目录所称“报告”当成工人参与、工资水平、执行结果的直接证据。
+
+同一目录第9印刷页明确本全宗来自荷兰董事会，印尼当地形成的档案在1942—1945年散失；第6印刷页说明全宗公开，但实体卷宗需预约调阅且没有复制件。这一来源结构要求把雇主自报与劳动局原始收件、工人/工会叙述分开。PDF：https://www.nationaalarchief.nl/onderzoeken/archief/2.20.39/download/pdf 。对照Levert印刷第119、196页（正式S1523），其1926年起统计与制糖季例外的说法仍是研究者转述；目录135号只证明1937年有对应材料，**不能反证或证实1926—1936每年都按要求提交**。本次也打开了1925年4月15日《Economisch-Statistische Berichten》第485期目录（https://esb.nu/jrg-10-editie-485/），其中有爪哇制糖业工资与地租文章入口；未读文章正文，不能作实质论据。
+
+**去重与并库限制**：正式S1523已有Levert；本次新打开的国家档案馆PDF完整目录与具体卷号尚未写入正式source-register/claim-ledger/search-log/coverage-matrix/chronology或成熟中文正文。不能把仅有目录的1937卷宗写成1937工厂实际执行事实；本次保留可复查的具体卷号与访问级别，待安全并库。未新建列表式旧HTML。
+
+**精准续接任务**：（1）向Nationaal Archief按2.20.39 inv.nr.135申请1937女工夜班表影像，逐栏抄录工时/人数/工资及报送机关、签署日；（2）同批调阅inv.nr.131的1927两份PSI报告，查报告日期、签名、被指名工人和行动，不把目录猜测当事实；（3）调阅inv.nr.134、139、141核1930年代工资、1947—51临时工和1950劳动纠纷，再与独立工会及劳动局记录交叉；（4）寻找Staatsblad 1925 No.648原刊及1926—1939 Kantoor van Arbeid收件统计，查1926起连续性；（5）轮换Aceh 1965-10 Kodim-0104原件、Moncongloe 1977行政释放名单、SOBSI/BTI/Gerwani基层组织与1998后工会登记。GOAL永久OPEN；本段中“最新SHA”为提交前已观察SHA，本次提交后SHA须以写入回执及远程HEAD核验为准。
