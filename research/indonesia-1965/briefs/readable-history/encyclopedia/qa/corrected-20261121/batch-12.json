@@ -1,0 +1,110 @@
+{
+  "batch": 12,
+  "method": "Count text in article before sources/navigation, including li; main excludes embedded research-fulltext; not a substitute for scholarly review",
+  "entries": [
+    {
+      "path": "organizations/org-baperki.html",
+      "mainTextChars": 2069,
+      "fullTextChars": 2069,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1845
+    },
+    {
+      "path": "organizations/org-bti.html",
+      "mainTextChars": 2009,
+      "fullTextChars": 2009,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1807
+    },
+    {
+      "path": "organizations/org-gerwani.html",
+      "mainTextChars": 2219,
+      "fullTextChars": 2219,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1961
+    },
+    {
+      "path": "organizations/org-koti.html",
+      "mainTextChars": 1136,
+      "fullTextChars": 1136,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1001
+    },
+    {
+      "path": "organizations/org-lekra.html",
+      "mainTextChars": 682,
+      "fullTextChars": 682,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 573
+    },
+    {
+      "path": "organizations/org-nu-ansor.html",
+      "mainTextChars": 685,
+      "fullTextChars": 685,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 573
+    },
+    {
+      "path": "organizations/org-pki.html",
+      "mainTextChars": 2404,
+      "fullTextChars": 2404,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 2158
+    },
+    {
+      "path": "organizations/org-pni-partindo.html",
+      "mainTextChars": 678,
+      "fullTextChars": 678,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 545
+    },
+    {
+      "path": "organizations/org-sobsi.html",
+      "mainTextChars": 2085,
+      "fullTextChars": 2085,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1875
+    },
+    {
+      "path": "regions/aceh.html",
+      "mainTextChars": 3706,
+      "fullTextChars": 3706,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 3344
+    },
+    {
+      "path": "regions/bali.html",
+      "mainTextChars": 1386,
+      "fullTextChars": 1386,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1232
+    },
+    {
+      "path": "regions/bima-sumbawa.html",
+      "mainTextChars": 3635,
+      "fullTextChars": 3635,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 3418
+    },
+    {
+      "path": "regions/central-java.html",
+      "mainTextChars": 595,
+      "fullTextChars": 595,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 476
+    }
+  ]
+}
