@@ -859,3 +859,17 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 
 
 **2026-11-21 12:47 CST 正式并库补记（ONGOING）**：本轮已进一步正式登记 `source-register.csv` **S1521**（Ahmad 2013）、`search-log.csv` **Q583**、`coverage-matrix.csv` **CV653**，并更新 `chronology.md`。截至本补记写入前，最后一次成功提交为 **80348dee8128a8b4ca8dee853b005a117df41cf3**（覆盖矩阵），此前各提交依次为 9cf5ccb3395ccd8a286bab4d408a5f14a8706426（续接状态）、e0246d3de5ef736ce8a4c5e33db355a8da2dbc71（chronology）、014c9c4af3093f9ba87a63ad1f2ce1ff8fe0fd88（S1521）、0e54433ea92ac2191f4cac5b2cc0a8007ad254fc（Q583）。本补记自身提交SHA只能由写入回执及远程main HEAD回读确定；不能自指预写。正式claim-ledger仍未修改，成熟中文连续正文尚未修改；其余未完取件事项见上段，GOAL继续OPEN。
+
+## 2026-11-21 13:46 CST｜ONGOING / GOAL仍进行｜南苏拉威西具名证言及去重核验
+
+**本次基线与实际执行**：读取AGENTS、goal-continuity、stage-access、正式source-register/claim-ledger/search-log/coverage-matrix及chronology；本轮开始远程main HEAD=00be657b8511c34374c51d7c6ab751bc40d5abf9（该HEAD较上次汇报686558c7更新）。正式claim-ledger.csv SHA=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，仍返回0字符，未写入、未编造C号。
+
+**原文新核验**：直接打开记者Eko Rusdianto 2020-02-18文章《Orang-orang Pembuangan》 https://www.ekorusdianto.net/2020/02/orang-orang-pembuangan.html ，逐段阅读具名访问：Jufri Buape（自述Lekra/Pemuda Rakyat组织工作、1965年12月Sidrap被拘、Parepare监禁后转Moncongloe）；P.L. Payung（自述1965-10-28在Rantepao被军人拘捕，先关Kodim，后被迫筑路）；Waris Thahir（自述1965年12月在Parepare被拘及筑路）；Rasjidi Amrah（自述无PKI相关群众组织身份，但因留苏奖学金背景被拘，随后参与营地建筑设计）。这些是记者公开记录的当事人回忆，**非1965年拘捕原件**，不能由记者转述反推确定军人姓名或所有政治身份。文章给出Rasjidi参与营地建筑、军方住宅图纸的具体可取证方向。
+
+**交叉与反证**：对照Taufik Ahmad 2010年公开文章 https://www.insideindonesia.org/editions/edition-998/survival-through-slavery 、2013年文章S1521及Komnas HAM报告 https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf 。Rusdianto对营地规模、911人等数字引用Ahmad，不能算独立统计核验；文章声称整个营地150平方米与五栋每栋6×20米营房明显冲突，应标记为疑似排印/计量错误而非采用。Ahmad 2010的859男性+52女性=911与Rusdianto文中911相同，不是两份独立人口普查。记者采访的个人经历则构成不同于Ahmad研究的具名证言线索。
+
+**正式写入**：source-register **S1522**、search-log **Q584**、coverage-matrix **CV654**、chronology新增三条证言日期/过程；顺序提交SHA分别为2458622825ca8853807f1019062de86e99f87f0f、e5b40817341d7c85373482dae086f0a524df0a01、25189b8e83f78e06b39d739f5a03788c1bf7d6b9、79aa8c12c002afc0bce4936749db8427d6132f71。正式claim-ledger未写；成熟中文连续正文尚需把人物羁押路径与1965地方军令接起来，不用证言拼贴替代历史叙述。
+
+**精准未完**：①查Rantepao/Tana Toraja Kodim 1965-10-28 P.L. Payung拘押登记及军方行动记录；②查Sidrap 1965-12 Jufri Buape拘押、Parepare监狱移交与Moncongloe入营登记，区分记者回忆的六年+六年与行政日期；③查Rasjidi Amrah工程图纸、军方住宅项目文书及奖学金/大学档案，核对非党派身份叙述；④取得SKEP-25/KOPKAM/XII/1977、SPRIN/802/TPD/XII/1977、Reg.41/935及1977释放名单，核466/467、911和42人的不同统计母体；⑤轮换Aceh Langsa 148人声明附件、BTI/Gerwani县级土地分配与1998后劳工组织证据，并以Git blob API/原始下载修复claim-ledger读取。
+
+**SHA约束**：本状态文件不能在提交内容中预写自身提交SHA；本轮最后提交SHA由GitHub更新回执及后续远程main回读核验。GOAL ACTIVE / OPEN-ENDED，未穷尽。
