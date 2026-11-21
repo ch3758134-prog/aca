@@ -2099,3 +2099,10 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 
 - **1974年8月8日**：Komnas HAM调查摘要印刷页150—151所述证人C，称其1970年起在Moncongloe被拘押，1974年8月按TEPERDA文件以C3类别获释；报告脚注将其笔录定位为 **268/BAP_TPPH65/III/2009**。此为调查摘要转引，非笔录或释放文书原件。
 - **1977年12月20日**：同报告所述证人A（**266/BAP_TPPH65/III/2009**）称与另466人离开营地；证人B（**267/BAP_TPPH65/III/2009**）称由Majene监狱转入Moncongloe，依 **SPRIN/802/TPD/XII/1977** 从完全拘押改为居家拘押；证人D（**269/BAP_TPPH65/III/2009**）称其1971—1977年被拘押，释放文书列为B2。**“出营”“转居家拘押”“彻底解除限制”并非同义**；466人的证词口径与其他文献所载人数不得直接相加。官方调查摘要全文（镜像）[既有Komnas HAM来源，正式S号待台账精确定位]：https://www.tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ，印刷页149—151；原BAP及SPRIN影印尚未取得。**置信度：调查报告转录较高，具体个人执行及原令文字待核。**
+
+
+### Moncongloe 1977—1980：离营手续与后续控制（2013年研究补充，原件待取）
+
+1977年12月18日，POMDAM/TEPERDA人员据Taufik Ahmad 2013年研究所述前往Moncongloe登记拟释放者的籍贯、去向、照片及个人资料；19日晚部分人员转至Makassar Kodim 1408，20日于POMDAM XIV Hasanuddin举行约466名B类拘押者的释放仪式。该研究引述全国Kopkamtib决定 **SKEP-25/KOPKAM/XII/1977**，但决定及附件尚未直接取得。Komnas HAM报告所引地方 **SPRIN/802/TPD/XII/1977** 把部分拘押改为居家拘押；不能将全国政策、出营仪式与完全恢复自由视为同一法律事实。2013文还提到403名C类人员、42名转Nanga-Nanga者，须核分类与批次，不能与证人“另466人”机械相加。
+
+1979年12月27—31日及1980年1月15—19日，Ahmad 2013研究记载Makassar Hotel Raya分别举办90人与80名前政治犯参加的政治课程，引用 **Arsip Kotamadya Ujung Pandang Reg.935**；并引用 **Arsip Muhammad Saleh Lahade Reg.41** 说明离营后的行政监控。两档案及课程名册尚未直接读取。研究同时记述每周报到、身份证ET标记和旅行/就业限制；应分别核地方执行文件与当事人经历。来源：Taufik Ahmad, *Patanjala* 5(3), 2013, pp.420–422，https://www.academia.edu/82363601/EKS_TAPOL_PKI_DAN_KONTROL_PEMERINTAH_Studi_pada_Komunitas_Tapol_PKI_Moncongloe_Sulawesi_Selatan_1979_2003_ ；Komnas HAM调查摘要 https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf 。2013文章大量依赖作者先前研究，不构成独立重复证实。
