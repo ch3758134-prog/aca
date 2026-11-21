@@ -1,0 +1,136 @@
+{
+  "batch": 8,
+  "base": "ea249cd7ea560e447fe3ea3a1561a1565ad4bcea",
+  "report": [
+    {
+      "path": "events/event-land.html",
+      "bodyChars": 574,
+      "paragraphs": 6,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-landafter.html",
+      "bodyChars": 734,
+      "paragraphs": 9,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-madiun.html",
+      "bodyChars": 945,
+      "paragraphs": 10,
+      "externalLinks": 1,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-malari-nkk.html",
+      "bodyChars": 440,
+      "paragraphs": 5,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-malari.html",
+      "bodyChars": 811,
+      "paragraphs": 9,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-marsinah-suharto-heroes.html",
+      "bodyChars": 428,
+      "paragraphs": 6,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-marsinah.html",
+      "bodyChars": 785,
+      "paragraphs": 8,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-maumere-1953.html",
+      "bodyChars": 562,
+      "paragraphs": 8,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-memory.html",
+      "bodyChars": 914,
+      "paragraphs": 9,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-moncongloe-detention.html",
+      "bodyChars": 1468,
+      "paragraphs": 11,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-movement.html",
+      "bodyChars": 2384,
+      "paragraphs": 17,
+      "externalLinks": 9,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-new-order-economy.html",
+      "bodyChars": 615,
+      "paragraphs": 6,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-new-order-politics.html",
+      "bodyChars": 607,
+      "paragraphs": 9,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    }
+  ]
+}
