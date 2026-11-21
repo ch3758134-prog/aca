@@ -989,3 +989,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **下一次精准执行**：①在2.20.39全宗PDF/XML清单定位妇女夜班、劳动纠纷和工人状况各卷宗的inventarisnummer、年份及阅览/数字化状态；②取得1925 No.648荷兰文公报影印，逐条比对Levert对第1、2条的转述；③核查Levert 1934统计表原始口径，比较1926—1930年度各厂夜班妇女人数及工资，禁止混合厂内/田间和季节性/常年劳动；④追踪1951 UU1第7、9条及1954 Gerwis大会劳动部长讲话，确定旧法、实施细则和糖业例外的法律连续性与断裂；⑤轮换1965—68 Aceh地方命令/受害名单、Moncongloe转运、1998后工会登记执行证据，并在claim-ledger可安全读取后正式并库和写成熟中文连续正文。
 
 **GOAL状态：ACTIVE / OPEN-ENDED**。本轮新发现属于企业档案目录定位，尚未完成正式CSV、chronology、中文正文更新。提交回执SHA与远程main HEAD需独立复核。
+
+
+## 2026-11-21 22:46 CST｜ONGOING / GOAL仍进行｜Tjomal馆藏来源偏差及企业档案断裂
+
+**核读与去重**：重新读取AGENTS、stage-access、goal-continuity、统一状态和正式四表及chronology（均在archive/records）。正式source-register截至S1522、search-log截至Q584、coverage-matrix截至CV654；source-register与chronology未出现Tjomal/2.20.39/1925 No.648的完全字符串。claim-ledger.csv仍返回非空blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但UTF-8正文为空，绝不覆盖或臆造C编号。由于未完成完整来源同义词去重及原始主张表恢复，本轮没有追加正式CSV或chrono条目，避免登记不完整的证据链。
+
+**新直接核读荷兰国家档案馆馆藏说明**：Tjomal制糖企业全宗2.20.39，https://www.nationaalarchief.nl/onderzoeken/archief/2.20.39/beschrijving/context ，明确说明工厂原位于Tegal、后划归Pekalongan；1872年F.J.Th. van der Wijck购入、1898年转为股份公司；与Internatio有商业联系，并参与爪哇糖业雇主/生产者团体。馆藏史最关键的限制：**现存馆藏主要是荷兰董事会形成的档案；在印尼当地形成的企业档案在1942—1945年战争期间散失**。因此即使在全宗找到女工夜班/劳资争议报告，也可能是总部接收的副本或管理层汇报，不能等同于工厂原始排班簿或女工证词。该馆藏说明又称1958年企业在印尼的经营被国有化，1968年荷兰公司转为投资公司；须用印尼国有化法律和企业文件核对具体执行，不把馆方企业史概述当作逐项核验。https://www.nationaalarchief.nl/onderzoeken/archief/2.20.39/beschrijving/did 记载199个目录号、3.10延米，绝大多数为荷兰文。https://www.nationaalarchief.nl/onderzoeken/archief/2.20.39/beschrijving/access_and_use 说明全宗公开、可预约现场调阅，不等于全部扫描上线。
+
+**交叉入口**：馆藏的总目录页面 https://www.nationaalarchief.nl/onderzoeken/archief/2.20.39 直接打开，见1925—1927、1928—1929、1930—1931年度年报条目，以及1953—1958年与驻印尼代理人往来信件条目，页面显示PHYSICAL。另有分离的1914—1953年地图/图纸全宗4.STF https://www.nationaalarchief.nl/onderzoeken/archief/4.STF ，只证明工厂与住宅区地图有馆藏入口，未读图纸。XML目录下载端点返回不支持的content-type，当前网页预览未显示具体人事卷宗号，故不能虚构inventarisnummer。
+
+**精准未完事项**：（1）取得2.20.39全宗PDF/XML清单或档案馆检索API，定位f.Personeel下妇女夜班、劳动争议、工人状况具体inventarisnummer、起止年份；（2）查荷兰董事会与Internatio往来、1925—1935年年报/总部收件中是否保存已散失地方报表的副本，识别管理层叙述偏差；（3）调取Staatsblad 1925 No.648原始荷兰文及1926起劳动局工时/工资报表，与Levert转述及No.647例外授权核对；（4）查1958印尼企业国有化原令、Tjomal接收和劳动关系变化，不把馆方“国有化”概述等同已查执行档案；（5）恢复claim-ledger可靠读取后正式S/C/Q/CV去重登记、chronology和成熟中文正文，并轮换Aceh/Moncongloe/BTI/SOBSI/1998后工会的未闭合链条。
+
+**Git写入前main HEAD**：5b6a49eab0c0b2ce7788d255d7e43c66cb7f17e8。这是提交前核验SHA；本次提交SHA不能自指预填，须以提交回执及提交后main HEAD回读确认。GOAL保持ACTIVE / OPEN-ENDED。
