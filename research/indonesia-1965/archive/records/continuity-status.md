@@ -913,3 +913,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精确未完事项**：①打开纪念册原始PDF影印核劳动部长署名、1954-03-15日期、第7/9条未施行原文与糖厂换岗描述；②直接核1951年第1号法、PP4/1951以及1925 Staatsblad 647、1941 Staatsblad 45，区分第7/9/13条实际生效日期；③寻找1953—1955东爪哇糖厂劳动监察报告、女工夜班排班/解雇及工会申诉，核换岗是否导致妇女失业；④核Gerwis/Gerwani 1954大会原始财务报告与201/143支部名册，分清章程、组织自报与地方实绩；⑤恢复正式claim-ledger blob原始读取，完成本次材料正式去重登记并与Moncongloe、Aceh、BTI及1998后劳工证据链交替推进。
 
 **写入边界**：本轮仅更新统一状态，尚未修改正式CSV、chronology和成熟中文历史正文，不能声称正式全量并库。Git提交SHA由写入回执及远程ref回读确认；本段仅记录提交前HEAD。GOAL永久ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-21 17:46 CST｜ONGOING / GOAL仍进行｜1951年劳动实施条例官方原件复核
+
+**本轮读取**：AGENTS.md、project/goal-continuity.md、project/stage-access.md、统一续接状态、正式source-register/claim-ledger/search-log/coverage-matrix及chronology。正式claim-ledger.csv仍为非空blob SHA `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a` 但读取0字符，禁止覆盖和虚构C编号。source-register全文按PP4-1951/PP 4/1951等精确字符串检查未命中，但chronology**已载PP4/1951**，故不得宣称全新史实或重复追加时间线。
+
+**直接打开官方原件**：印尼国家法规门户《Peraturan Pemerintah Nomor 4 Tahun 1951》PDF全文 https://www.peraturan.go.id/files/pp4-1951.pdf ，并交叉核印尼审计署BPK法令目录 https://peraturan.bpk.go.id/Details/78951/pp-no-4-tahun-1951 及非官方全文转录 https://peraturan.info/pp/1951/4/isi 。原件1951-01-06由苏加诺签署，1951-01-08公布（LN 1951/7）。第I条援引1948年第7号、1950年第12号条例，明确1948年劳动法第13条(1)—(4)妇女生理期、产假等休假保护及相关程序；要求产假申请通常提前十日提交、附医师/助产士或地方行政证明，流产不受十日期限限制，符合规定的休假原则上全薪。第III条对雅加达、原东印尼邦、东苏门答腊、西加里曼丹规定从本条例公布日起施行相关条款，说明**不同地区法律起算日期并不相同**。第IV条对部分地区工时制度设置三个月过渡与加班工资条件。官方PDF最后附有劳动部1951-02-28第1513/51号致总统内阁主任更正函，指出1950年第13号条例的政府雇员工时保留条款在1951年第4号转录中遗漏；这是具体的法规文本校订链，不能忽略。
+
+**与1954年Gerwis大会劳动部长Abidin讲话的核验关系**：1951年第4号条例明确实施第13条等**部分**劳动保护，并不证明1951年第1号法第7条妇女夜间劳动和第9条危险劳动已经开始施行。1954-03-15讲话声称这两条尚未实施，与1951年分项施行框架**不直接矛盾**；仍须追查后续第7/9条实施细则及1925 Staatsblad 647等旧法。法令能够证明法律规定与生效机制，不能独立证明企业守法、糖厂换岗或女性实际就业变化。此次找到官方原件补足chronology先前明确写的“official LN scan still to inspect”，但本轮未安全编辑巨大的chronology正文，需后续更正该访问状态。
+
+**精准续接**：①在chronology现有1951-01-08条目中将“官方原件未读”改为已核读，添加PDF和1951-02-28第1513/51号校订函，核正式source-register是否已按不同标题/URL收录；②从官方原件核1951年第1号法第7/9/13条及1925 Staatsblad 647、1941 Staatsblad 45，追踪1954后生效条例；③寻找1953—1955东爪哇糖厂女工夜班、监察与工会申诉记录，检验Abidin讲话；④追Gerwis 1954大会原刊影印及201支部/143到会支部原始名册，区分自报与核实；⑤交替继续Aceh 1965 Langsa Baperki 148人名单、Moncongloe 1977军令、SOBSI/BTI与1998后工会链，修复claim-ledger正文读取后再正式去重并库。
+
+**提交基线**：本轮读得continuity-status blob `749f8f968bbd85bcc940c4d54a2dd42665db4bc1`；上一轮对话报告的main提交为`f91b875b2941d941ded0d14a35781d9afc6c0233`（仅作已知上轮SHA，非本轮实时HEAD证据）。本次实际提交SHA以写入回执为准；不能在同一提交正文自指填入该提交SHA。GOAL保持ACTIVE / OPEN-ENDED。
