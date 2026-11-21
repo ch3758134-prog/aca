@@ -1,0 +1,110 @@
+{
+  "batch": 8,
+  "method": "Count text in article before sources/navigation, including li; main excludes embedded research-fulltext; not a substitute for scholarly review",
+  "entries": [
+    {
+      "path": "events/event-land.html",
+      "mainTextChars": 685,
+      "fullTextChars": 685,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 557
+    },
+    {
+      "path": "events/event-landafter.html",
+      "mainTextChars": 860,
+      "fullTextChars": 860,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 717
+    },
+    {
+      "path": "events/event-madiun.html",
+      "mainTextChars": 1103,
+      "fullTextChars": 1103,
+      "listItemChars": 27,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 928
+    },
+    {
+      "path": "events/event-malari-nkk.html",
+      "mainTextChars": 1011,
+      "fullTextChars": 1011,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 884
+    },
+    {
+      "path": "events/event-malari.html",
+      "mainTextChars": 958,
+      "fullTextChars": 958,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 794
+    },
+    {
+      "path": "events/event-marsinah-suharto-heroes.html",
+      "mainTextChars": 553,
+      "fullTextChars": 553,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 411
+    },
+    {
+      "path": "events/event-marsinah.html",
+      "mainTextChars": 951,
+      "fullTextChars": 951,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 768
+    },
+    {
+      "path": "events/event-maumere-1953.html",
+      "mainTextChars": 1681,
+      "fullTextChars": 1681,
+      "listItemChars": 1014,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 545
+    },
+    {
+      "path": "events/event-memory.html",
+      "mainTextChars": 1042,
+      "fullTextChars": 1042,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 897
+    },
+    {
+      "path": "events/event-moncongloe-detention.html",
+      "mainTextChars": 1706,
+      "fullTextChars": 1706,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1451
+    },
+    {
+      "path": "events/event-movement.html",
+      "mainTextChars": 2615,
+      "fullTextChars": 2615,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 2367
+    },
+    {
+      "path": "events/event-new-order-economy.html",
+      "mainTextChars": 1165,
+      "fullTextChars": 1165,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1025
+    },
+    {
+      "path": "events/event-new-order-politics.html",
+      "mainTextChars": 1181,
+      "fullTextChars": 1181,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1021
+    }
+  ]
+}
