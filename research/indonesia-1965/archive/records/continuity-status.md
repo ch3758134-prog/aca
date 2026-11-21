@@ -1078,3 +1078,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **本轮并库边界**：新线索已达到司法机关原始公开报道级，未取得庭审原始音视频、企业集体协议、Bekasi工资行政决定及判决全本针对本争点的主文，故本次只将精确来源及证据层级保存统一状态，不将证词写成事实裁定，不修改成熟中文正文或旧HTML。正式四表和chronology本轮未更新；仍须在正式台账全文去重后再追加原子主张。
 
 **下一次直接行动**：（1）调40/PUU-XXI/2023的2024-02-07庭审笔录/录音及证人Yosep具体问答，核身份、企业和工会职务；（2）调PT Dharma Precision Parts 2021—2024集体劳动协议PKB及Bekasi行业最低工资决定，验证证词所说计算机制；（3）逐条核2024-10-31判决40/PUU-XXI/2023与168/PUU-XXI/2023，分离证词、申请、法院理由和裁判结果；（4）恢复claim-ledger原始内容安全读取及正式四表、chronology去重并库，成熟后写1998—2026连续中文工会史；（5）轮换1925 No.648与Tjomal inv.135原件、1965 Aceh军区原始命令、Moncongloe 1977释放名单及SOBSI/BTI/Gerwani基层记录。GOAL永久OPEN。提交前main HEAD为`56b9f473ac8a4dfb24463eccb65b4c26a316a752`；本次提交最终SHA必须从写入回执与远程HEAD核验，不可预先在自身提交中伪造。
+
+
+## 2026-11-22 04:52 CST｜ONGOING / GOAL仍进行｜2024工会宪法诉讼裁判主文与同题案件区分
+
+已核读main项目规则、授权、GOAL、正式source-register/claim-ledger/search-log/coverage-matrix与archive/records/chronology.md；本次写入前独立搜索最新main提交为 `2ad04ecc91a775e44e4cb036e0f1961bc30c9d98`。claim-ledger.csv仍为非空blob `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a` 而接口返回零字符，严禁覆盖、猜测C编号。本轮正式四CSV、chronology与成熟正文未修改，不能称全量并库。
+
+**G7新核验（官方裁判原件全文）**：直接打开印尼宪法法院40/PUU-XXI/2023判决全文 https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_11216_1730373436.pdf ，判决印刷第559—560页（PDF文本尾部第7600—7621行）。2024-10-31最终裁判主文第1项将若干请求判为“不予受理”（tidak dapat diterima），涉及诉讼对象已因168/PUU-XXI/2023先行裁判而变化、申请不明确或尚未成熟等不同原因；第2项驳回其余请求。**因此不能将40号案简单写成全部实质驳回，更不能写成Yosep证词得到法院采信或个人胜诉。** 判决第3.17部分（印刷约527—535页）具体说明88C工资条款的部分诉求存在不明确或已由168号案处理；须逐条分离申请、法官理由和裁判主文。法院2024-10-31新闻 https://www.mkri.id/berita/pkwt-21783 也确认40号案由10家工会与111名劳动者共同申请，另有61号案（Leonardo Siahaan），不能混并。
+
+**交叉与表面矛盾**：宪法法院2024年10月《Konstitusi》212期判决汇总 https://s.mkri.id/public/content/infoumum/majalahkonstitusi/pdf/Majalah_241_10.%20Edisi%20OKTOBER%202024%20%20inter.pdf 的摘要表把40号案概括为“Menolak ... seluruhnya”，但裁判原件主文明确包含“不予受理”及“驳回其余”，故优先原始裁判主文。另一168/PUU-XXI/2023案由Partai Buruh等申请，2024-10-31部分获支持；其88C行业最低工资解释及对40号案同题请求的程序影响可见 https://www.mkri.id/berita/-21782 及2025年法院法规注释汇编 https://s.mkri.id/public/content/infoumum/undang/pdf/anotasiRev_152140_gab%20UU%20No.%206%20-%202023%20Ciptaker%20%281%29.pdf 。法院2024-10-31庭审宣判记录 https://www.mkri.id/public/content/persidangan/risalah/11217_Risalah-pdf_PUTUSAN%20PERKARA%20NOMOR%2040.61.PUU-XXI.2023%20tgl.%2031%20Oktober%202024.pdf 第112页还解释先在168号案获支持的同题条款不在40号案重复判给。**法律效果不等于企业实际调整工资**；需核行政执行和集体协议。
+
+**精准未完**：（1）核2024-02-07 40号案Yosep Ubaama Kolin庭审逐字笔录/录音，区分其本人陈述与法院认定；（2）逐项比对40号案原判印刷559—560页与168号案主文，制作行业工资、工资协商、PKWT对应条款的诉求—结果矩阵；（3）取得Bekasi 2022—2025行业最低工资决定及PT Dharma Precision Parts集体协议、工会谈判记录，核政策实际影响；（4）修复claim-ledger完整读取并在正式S/Q/CV/C去重后安全登记本轮新核实裁判及2024-10-31 chronology，成熟后写1998—2026中文连续工会史；（5）轮换1925 No.648/Tjomal 135实体原件、1965 Aceh Kodim-0104命令、Moncongloe 1977 SPRIN/802与SOBSI/BTI/Gerwani基层组织证据。GOAL永久ACTIVE / OPEN-ENDED。本次状态自身的最终提交SHA以GitHub回执和提交后HEAD为准，不可能在同一次提交正文自引用。
