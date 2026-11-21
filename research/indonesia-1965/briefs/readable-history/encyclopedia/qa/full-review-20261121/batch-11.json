@@ -1,0 +1,136 @@
+{
+  "batch": 11,
+  "base": "9aa149e0f475b82e61604165feeade678075b515",
+  "report": [
+    {
+      "path": "events/event-trisula-1968.html",
+      "bodyChars": 2698,
+      "paragraphs": 18,
+      "externalLinks": 7,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-union-prisoners-1977.html",
+      "bodyChars": 1034,
+      "paragraphs": 9,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-union-registration-1998.html",
+      "bodyChars": 1212,
+      "paragraphs": 8,
+      "externalLinks": 6,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-union-structure.html",
+      "bodyChars": 1056,
+      "paragraphs": 9,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-uprising.html",
+      "bodyChars": 698,
+      "paragraphs": 9,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-victim-protection-2026.html",
+      "bodyChars": 719,
+      "paragraphs": 9,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-vstp-1923.html",
+      "bodyChars": 1657,
+      "paragraphs": 13,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-wangunwati.html",
+      "bodyChars": 926,
+      "paragraphs": 9,
+      "externalLinks": 1,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-wartime-mobilization.html",
+      "bodyChars": 805,
+      "paragraphs": 7,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-west-kalimantan-1967-expulsion.html",
+      "bodyChars": 930,
+      "paragraphs": 9,
+      "externalLinks": 1,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-westpapua.html",
+      "bodyChars": 936,
+      "paragraphs": 7,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-women-detainees.html",
+      "bodyChars": 1235,
+      "paragraphs": 9,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "organizations/org-army.html",
+      "bodyChars": 684,
+      "paragraphs": 7,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    }
+  ]
+}

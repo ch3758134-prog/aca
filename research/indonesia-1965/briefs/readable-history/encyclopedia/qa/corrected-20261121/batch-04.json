@@ -1,0 +1,110 @@
+{
+  "batch": 4,
+  "method": "Count text in article before sources/navigation, including li; main excludes embedded research-fulltext; not a substitute for scholarly review",
+  "entries": [
+    {
+      "path": "people/person-siti-maryam.html",
+      "mainTextChars": 2870,
+      "fullTextChars": 3230,
+      "listItemChars": 0,
+      "hasResearchFulltext": true,
+      "paragraphOnlyChars": 2704
+    },
+    {
+      "path": "people/person-sjafruddin.html",
+      "mainTextChars": 873,
+      "fullTextChars": 873,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 689
+    },
+    {
+      "path": "people/person-sjahrir.html",
+      "mainTextChars": 1548,
+      "fullTextChars": 1548,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1318
+    },
+    {
+      "path": "people/person-sjam.html",
+      "mainTextChars": 994,
+      "fullTextChars": 994,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 827
+    },
+    {
+      "path": "people/person-sneevliet.html",
+      "mainTextChars": 767,
+      "fullTextChars": 767,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 620
+    },
+    {
+      "path": "people/person-soekemi.html",
+      "mainTextChars": 719,
+      "fullTextChars": 719,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 580
+    },
+    {
+      "path": "people/person-soemarsono.html",
+      "mainTextChars": 3334,
+      "fullTextChars": 8845,
+      "listItemChars": 0,
+      "hasResearchFulltext": true,
+      "paragraphOnlyChars": 3233
+    },
+    {
+      "path": "people/person-soengkono.html",
+      "mainTextChars": 685,
+      "fullTextChars": 685,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 579
+    },
+    {
+      "path": "people/person-soetardjo.html",
+      "mainTextChars": 721,
+      "fullTextChars": 721,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 600
+    },
+    {
+      "path": "people/person-soetarto.html",
+      "mainTextChars": 902,
+      "fullTextChars": 902,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 756
+    },
+    {
+      "path": "people/person-sri-kayati.html",
+      "mainTextChars": 1034,
+      "fullTextChars": 1034,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 871
+    },
+    {
+      "path": "people/person-sudarsono.html",
+      "mainTextChars": 845,
+      "fullTextChars": 845,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 710
+    },
+    {
+      "path": "people/person-sudirman.html",
+      "mainTextChars": 838,
+      "fullTextChars": 838,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 662
+    }
+  ]
+}

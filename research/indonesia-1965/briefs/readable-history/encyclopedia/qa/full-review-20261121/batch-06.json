@@ -1,0 +1,136 @@
+{
+  "batch": 6,
+  "base": "a82a30e3c3c86bca07f65da998f41f8710f23e79",
+  "report": [
+    {
+      "path": "people/person-tuti-gerwani.html",
+      "bodyChars": 528,
+      "paragraphs": 5,
+      "externalLinks": 1,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-untung.html",
+      "bodyChars": 1388,
+      "paragraphs": 14,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-van-roijen.html",
+      "bodyChars": 480,
+      "paragraphs": 6,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-widodo.html",
+      "bodyChars": 793,
+      "paragraphs": 8,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-winata.html",
+      "bodyChars": 423,
+      "paragraphs": 5,
+      "externalLinks": 1,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-yamin.html",
+      "bodyChars": 681,
+      "paragraphs": 8,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-1952.html",
+      "bodyChars": 661,
+      "paragraphs": 8,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-aceh-1965-repression.html",
+      "bodyChars": 1598,
+      "paragraphs": 10,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-bima-republic-1945.html",
+      "bodyChars": 3181,
+      "paragraphs": 18,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-bima-women-1950s.html",
+      "bodyChars": 6041,
+      "paragraphs": 28,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-bovendigoel.html",
+      "bodyChars": 865,
+      "paragraphs": 10,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-buru.html",
+      "bodyChars": 1537,
+      "paragraphs": 12,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-colonial.html",
+      "bodyChars": 837,
+      "paragraphs": 7,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    }
+  ]
+}

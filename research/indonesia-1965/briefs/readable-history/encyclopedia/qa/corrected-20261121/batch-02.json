@@ -1,0 +1,110 @@
+{
+  "batch": 2,
+  "method": "Count text in article before sources/navigation, including li; main excludes embedded research-fulltext; not a substitute for scholarly review",
+  "entries": [
+    {
+      "path": "people/person-ki-mas-mansyur.html",
+      "mainTextChars": 744,
+      "fullTextChars": 744,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 637
+    },
+    {
+      "path": "people/person-lukman.html",
+      "mainTextChars": 1762,
+      "fullTextChars": 1762,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1567
+    },
+    {
+      "path": "people/person-mallaby.html",
+      "mainTextChars": 690,
+      "fullTextChars": 690,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 574
+    },
+    {
+      "path": "people/person-mansergh.html",
+      "mainTextChars": 609,
+      "fullTextChars": 609,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 497
+    },
+    {
+      "path": "people/person-maraden-panggabean.html",
+      "mainTextChars": 837,
+      "fullTextChars": 837,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 672
+    },
+    {
+      "path": "people/person-marsinah.html",
+      "mainTextChars": 1400,
+      "fullTextChars": 1400,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1113
+    },
+    {
+      "path": "people/person-martens.html",
+      "mainTextChars": 1168,
+      "fullTextChars": 1168,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 963
+    },
+    {
+      "path": "people/person-munir.html",
+      "mainTextChars": 2135,
+      "fullTextChars": 2391,
+      "listItemChars": 0,
+      "hasResearchFulltext": true,
+      "paragraphOnlyChars": 1985
+    },
+    {
+      "path": "people/person-musso.html",
+      "mainTextChars": 1329,
+      "fullTextChars": 3605,
+      "listItemChars": 0,
+      "hasResearchFulltext": true,
+      "paragraphOnlyChars": 1140
+    },
+    {
+      "path": "people/person-nasution.html",
+      "mainTextChars": 1425,
+      "fullTextChars": 1425,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1187
+    },
+    {
+      "path": "people/person-nyoman-rai.html",
+      "mainTextChars": 929,
+      "fullTextChars": 929,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 789
+    },
+    {
+      "path": "people/person-oetari.html",
+      "mainTextChars": 727,
+      "fullTextChars": 727,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 598
+    },
+    {
+      "path": "people/person-oloan-hutapea.html",
+      "mainTextChars": 1894,
+      "fullTextChars": 1894,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1659
+    }
+  ]
+}

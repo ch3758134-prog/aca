@@ -1,0 +1,136 @@
+{
+  "batch": 4,
+  "base": "f80a5d347a0898bc241547ac1b1612aca30979a5",
+  "report": [
+    {
+      "path": "people/person-siti-maryam.html",
+      "bodyChars": 2828,
+      "paragraphs": 15,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-sjafruddin.html",
+      "bodyChars": 706,
+      "paragraphs": 7,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-sjahrir.html",
+      "bodyChars": 1335,
+      "paragraphs": 10,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-sjam.html",
+      "bodyChars": 844,
+      "paragraphs": 7,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-sneevliet.html",
+      "bodyChars": 637,
+      "paragraphs": 6,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-soekemi.html",
+      "bodyChars": 597,
+      "paragraphs": 8,
+      "externalLinks": 1,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-soemarsono.html",
+      "bodyChars": 7478,
+      "paragraphs": 39,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-soengkono.html",
+      "bodyChars": 596,
+      "paragraphs": 6,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-soetardjo.html",
+      "bodyChars": 617,
+      "paragraphs": 6,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-soetarto.html",
+      "bodyChars": 773,
+      "paragraphs": 8,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-sri-kayati.html",
+      "bodyChars": 460,
+      "paragraphs": 5,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-sudarsono.html",
+      "bodyChars": 727,
+      "paragraphs": 8,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-sudirman.html",
+      "bodyChars": 679,
+      "paragraphs": 8,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    }
+  ]
+}

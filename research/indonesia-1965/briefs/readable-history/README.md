@@ -1,4 +1,73 @@
+## 2026-11-19｜最新研究全文补齐（main提交 b21c0f78）
+
+[2026年11月19日新增14份研究记录全文](encyclopedia/research-hub/latest-20261119.html)已在独立研究HTML分支保留。包括：Oloan Hutapea死亡日期和来源依赖、雷旺党务争论、南勿里达粮食与村干部、克卢德土地、Gerwani个体女性拘押、工会C87日期及1998—2001年登记实施。这些内容已通过对应人物、事件、组织和地区主线链接到阅读正文；未取得原始照片、法庭卷、条例全文或学术资料时均保持访问限制。正式研究快照的355专题、845年代记录、2877主张和1504来源是上一main基线状态，最新14份研究记录另为未完全归档的增量。
+
+## 2026-11-19｜全面人物、事件、组织、历史线归并增补
+
+研究分支最新包含按人物／事件／组织／地区组织的独立正文和可检索的完整研究快照：79人物、64事件、12地区、10组织为此前快照；本次新增4人物和2事件之后为**83人物、66事件、12地区、10组织**。研究快照另有355专题标题、845条年代记录、2877条事实主张、1504份来源，数据源截止快照基准时点；之后main的未正式并库增量不能作为这些统计的一部分。
+
+本次新增独立人物：Tuti（化名）、Putmainah、Sri Kayati、Winata。新增事件：1965—1990年东爪哇女性政治拘押、1998—2001工会登记制度。已同步百科人物/事件入口、Gerwani组织史、Rewang人物页、南勿里达地区与Trisula事件、工会组织结构与改革事件页。读者可沿这些入口进入两份连续历史正文和完整证据资料库。
+
+没有改写main史料台账。核心新增证据分别是Hearman 2010年论文采访及Tirto转引的Amurwani研究、印尼第21号工会法和ILO登记/案件材料。Tirto二手转引及ILO动态索引尚未取得原页，未伪作全文核查。
+
+# 2026-11-19｜历史百科全量资料HTML整合说明
+
+补充：西加里曼丹1967年10—11月村庄级驱逐与ILO 1996年第1773号工会案已同步到地区、事件、人物、两份苏加诺主线、1830—2026连续史及1965专题；新增的第五力量长篇使事件独立页现为64篇。
+
+已以正式研究库main版本 `0e114579964ab74eb83db9598a80a52785bdd8dd` 读取：来源登记1504份、事实主张2877条、年代记录845项、独立人物/事件/组织调查355标题。为避免继续出现“只有几个新增专题”的问题，已经在阅读版增加可离线检索的四种完整索引及较大规模的具名人物和事件正文。
+
+- [研究资料总入口](encyclopedia/research-hub/index.html)
+- [来源1504份](encyclopedia/research-hub/sources/index.html)
+- [事实主张2877条](encyclopedia/research-hub/claims/index.html)
+- [年代记录845条](encyclopedia/research-hub/chronology/index.html)
+- [独立人物事件组织研究355条](encyclopedia/research-hub/dossiers/index.html)
+- [主历史人物索引](encyclopedia/people.html)｜[主历史事件索引](encyclopedia/events.html)｜[地区史](encyclopedia/regions/index.html)
+
+整理时区分：已写成熟中文独立史实的传记和事件、保留原文证据边界的调查资料、来源已读与只读目录、当时官方解释与可独立核实事实。长篇连续历史正文与上述资料索引相互连通；所有原研究的正式CSV仍保持main原件，不覆盖。
+
+---
+
 # 面向作者阅读的连续历史正文
+
+## 苏加诺时代以来的左翼历史主线（新增）
+
+- [苏加诺时代以来的印度尼西亚左翼：组织、权力与政治断裂（1945—2026）](sukarno-left-mainline-1945-2026.html)：以苏加诺时期政治结构为叙述轴，从1945共和国建国和1948左翼受挫写到1951年艾地与卢克曼、尼约托、苏迪斯曼的具体党务重建，再叙述SOBSI、BTI、Gerwani、LEKRA及1955选举、国家军队资源、1965年9月至1966年执行机构命令、地区暴力、1966—68权力转移和1990年代以后独立工会与幸存者权利。正文要求交代人物职务、真实行动和机构执行，拒绝“领导人决定”“军方行动”之类无主体概括，保留具体来源注释。这是持续修订的成熟局部，不表示相关原件已全部完成核验。
+
+## 2026-11-19：新增研究史料写入中文历史正文
+
+本次读取main至更新时的最新研究记录，在百科研究分支补写了以下连续历史过程：
+
+- [南勿里达：Trisula、村庄、粮食及土地历史](encyclopedia/regions/south-blitar.html)
+- [1968年Trisula行动：地下党组织、军队命令与实际后果](encyclopedia/events/event-trisula-1968.html)
+- [Oloan Hutapea：具名政治活动与死亡日期冲突](encyclopedia/people/person-oloan-hutapea.html)
+- [巴厘岛：12月军事增援的不同来源时序](encyclopedia/regions/bali.html)
+- [布鲁岛：1978—1979年政治犯分批释放与获释后的限制](encyclopedia/events/event-buru.html)
+- [1998年工会结社权制度变化](encyclopedia/events/event-reformasi.html)
+- [2000—2003年雅加达Shangri-La酒店工会争议](encyclopedia/events/event-shangrila-2000.html)
+
+本次所有日期争议、证据接触层级和统计口径限制保留在相关历史章节，而非生造单一确定值。研究分支仅写HTML与阅读目录，不改main仍在更新的正式CSV、chronology或统一调查状态。主线已陆续纳入，GOAL继续ACTIVE/OPEN。
+
+## 2026-11-16：新增史料正式写入阅读版HTML
+
+现有两份苏加诺时代连续主线已补充2026-11-15 Codex研究分支及 main 随后新增的已核学术原文和人权报告事实；重点涉及亚齐1965—66军区/Baperki/驱逐、弗洛勒斯马乌梅雷KOMOP及教区人员、1923年铁路罢工各公司参与和解雇差别、1995—98年1965旧案长期政治犯、PRD/PPBI/SMID的人员判决与失踪调查。
+
+新长篇：
+- [亚齐：1965年党派清查与1966年驱逐](encyclopedia/regions/aceh.html)
+- [弗洛勒斯：1966年马乌梅雷与教区](encyclopedia/regions/flores.html)
+- [Baperki组织史](encyclopedia/organizations/org-baperki.html)及[夏沃·约·灿人物页](encyclopedia/people/person-siauw.html)
+- [1995—1998年政治犯、PRD、失踪者](encyclopedia/events/event-prisoners-1995-1998.html)
+- [1923年铁路罢工](encyclopedia/events/event-vstp-1923.html)
+
+仅对正文已显示的来源层级负责；仍未取得的军令签署原件、华裔居民名册及个别法庭卷宗不写为已经证实。长期GOAL仍OPEN。Codex研究分支 `research/sukarno-evidence-codex-20261115` 未被改写，main的并行研究台账亦未覆盖。
+
+## 新版：独立百科词条与1965年历史阅读（阶段稿）
+
+- [新版人物与事件百科入口](encyclopedia/index.html)
+- [1965年前后历史连续阅读](encyclopedia/1965-focus.html)
+- [独立百科词条范围、成熟度和仍未完成事项](encyclopedia/README.md)
+
+新版把65个人物、53个事件拆成互相链接的独立HTML文件，主连续阅读版中236处人物和事件链接已改为直接打开词条。31个核心词条作了内容扩写；其他87个独立页仍不足以达到完整百科的最终要求，需继续核对原件、补足经历与地区过程。旧汇总参考页作为研究历史记录继续保留。
+
 
 该目录存放可以**直接顺读**的中文历史文字（HTML）。不是史料目录、检索日志、简报或论文大纲。
 

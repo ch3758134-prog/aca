@@ -1,0 +1,110 @@
+{
+  "batch": 3,
+  "method": "Count text in article before sources/navigation, including li; main excludes embedded research-fulltext; not a substitute for scholarly review",
+  "entries": [
+    {
+      "path": "people/person-pakpahan.html",
+      "mainTextChars": 1681,
+      "fullTextChars": 1681,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1426
+    },
+    {
+      "path": "people/person-panjaitan.html",
+      "mainTextChars": 1271,
+      "fullTextChars": 1271,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1057
+    },
+    {
+      "path": "people/person-parman.html",
+      "mainTextChars": 1022,
+      "fullTextChars": 1022,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 856
+    },
+    {
+      "path": "people/person-piet-van-staveren.html",
+      "mainTextChars": 4609,
+      "fullTextChars": 4609,
+      "listItemChars": 4177,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 202
+    },
+    {
+      "path": "people/person-pranoto.html",
+      "mainTextChars": 767,
+      "fullTextChars": 767,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 599
+    },
+    {
+      "path": "people/person-putmainah.html",
+      "mainTextChars": 1039,
+      "fullTextChars": 1039,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 901
+    },
+    {
+      "path": "people/person-rewang.html",
+      "mainTextChars": 2784,
+      "fullTextChars": 3018,
+      "listItemChars": 0,
+      "hasResearchFulltext": true,
+      "paragraphOnlyChars": 2566
+    },
+    {
+      "path": "people/person-roem.html",
+      "mainTextChars": 724,
+      "fullTextChars": 724,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 593
+    },
+    {
+      "path": "people/person-ruslan-widjajasastra.html",
+      "mainTextChars": 1893,
+      "fullTextChars": 2169,
+      "listItemChars": 0,
+      "hasResearchFulltext": true,
+      "paragraphOnlyChars": 1727
+    },
+    {
+      "path": "people/person-sarwo-edhie.html",
+      "mainTextChars": 1014,
+      "fullTextChars": 1014,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 809
+    },
+    {
+      "path": "people/person-schoonheyt.html",
+      "mainTextChars": 889,
+      "fullTextChars": 889,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 732
+    },
+    {
+      "path": "people/person-semaun.html",
+      "mainTextChars": 1200,
+      "fullTextChars": 3429,
+      "listItemChars": 0,
+      "hasResearchFulltext": true,
+      "paragraphOnlyChars": 1003
+    },
+    {
+      "path": "people/person-siauw.html",
+      "mainTextChars": 1400,
+      "fullTextChars": 1400,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1190
+    }
+  ]
+}

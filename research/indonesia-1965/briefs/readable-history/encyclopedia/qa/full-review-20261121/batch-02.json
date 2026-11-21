@@ -1,0 +1,136 @@
+{
+  "batch": 2,
+  "base": "4e9a8311fbfb4e5f4d757176fbbacc9aee25882f",
+  "report": [
+    {
+      "path": "people/person-ki-mas-mansyur.html",
+      "bodyChars": 654,
+      "paragraphs": 6,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-lukman.html",
+      "bodyChars": 1584,
+      "paragraphs": 11,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-mallaby.html",
+      "bodyChars": 591,
+      "paragraphs": 6,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-mansergh.html",
+      "bodyChars": 514,
+      "paragraphs": 6,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-maraden-panggabean.html",
+      "bodyChars": 689,
+      "paragraphs": 8,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-marsinah.html",
+      "bodyChars": 1130,
+      "paragraphs": 10,
+      "externalLinks": 6,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-martens.html",
+      "bodyChars": 980,
+      "paragraphs": 8,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-munir.html",
+      "bodyChars": 2109,
+      "paragraphs": 15,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-musso.html",
+      "bodyChars": 3267,
+      "paragraphs": 22,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-nasution.html",
+      "bodyChars": 1204,
+      "paragraphs": 10,
+      "externalLinks": 6,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-nyoman-rai.html",
+      "bodyChars": 806,
+      "paragraphs": 8,
+      "externalLinks": 1,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-oetari.html",
+      "bodyChars": 615,
+      "paragraphs": 8,
+      "externalLinks": 1,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "people/person-oloan-hutapea.html",
+      "bodyChars": 1676,
+      "paragraphs": 13,
+      "externalLinks": 6,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    }
+  ]
+}
