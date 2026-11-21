@@ -1,0 +1,150 @@
+{
+  "commitBase": "f37d1293cdab83449ad268ddf61185b0613f3998",
+  "batch": 1,
+  "total": 13,
+  "entries": [
+    {
+      "path": "people/person-gatot-lestario.html",
+      "title": "加托特·莱斯塔里奥：南勿里达地下政治、辩护词和国家禁书",
+      "mainTextChars": 799,
+      "paragraphs": 13,
+      "externalSources": 0,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-green.html",
+      "title": "马歇尔·格林（Marshall Green）",
+      "mainTextChars": 1007,
+      "paragraphs": 9,
+      "externalSources": 2,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-hariman-siregar.html",
+      "title": "哈里曼·西雷加尔（Hariman Siregar）",
+      "mainTextChars": 617,
+      "paragraphs": 6,
+      "externalSources": 4,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-hartini.html",
+      "title": "哈蒂妮（Hartini）",
+      "mainTextChars": 977,
+      "paragraphs": 9,
+      "externalSources": 4,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-haryono.html",
+      "title": "M.T.哈里约诺（M.T. Haryono）",
+      "mainTextChars": 966,
+      "paragraphs": 9,
+      "externalSources": 3,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-hatta.html",
+      "title": "穆罕默德·哈达（Mohammad Hatta）",
+      "mainTextChars": 1890,
+      "paragraphs": 15,
+      "externalSources": 2,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-inggit.html",
+      "title": "英吉特·加纳西（Inggit Garnasih）",
+      "mainTextChars": 774,
+      "paragraphs": 8,
+      "externalSources": 2,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-ismail-bakri.html",
+      "title": "伊斯梅尔·巴克里：地下领导分歧、无期徒刑与1983年获释",
+      "mainTextChars": 1267,
+      "paragraphs": 12,
+      "externalSources": 0,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-jan-djong.html",
+      "title": "扬·琼（Jan Djong）：马乌梅雷地方示威、村政和1966年遇害争议",
+      "mainTextChars": 390,
+      "paragraphs": 14,
+      "externalSources": 0,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-jusuf-adjitorop.html",
+      "title": "尤苏夫·阿吉托罗普：PKI海外联络与流亡政治代表团",
+      "mainTextChars": 1188,
+      "paragraphs": 8,
+      "externalSources": 0,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-kahar.html",
+      "title": "卡哈尔·穆扎卡尔（Kahar Muzakkar）",
+      "mainTextChars": 659,
+      "paragraphs": 7,
+      "externalSources": 2,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-kartosuwiryo.html",
+      "title": "卡尔托苏维约（Kartosuwiryo）",
+      "mainTextChars": 668,
+      "paragraphs": 7,
+      "externalSources": 2,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    },
+    {
+      "path": "people/person-ki-hadjar.html",
+      "title": "基·哈查尔·德宛达拉（Ki Hadjar Dewantara）",
+      "mainTextChars": 737,
+      "paragraphs": 8,
+      "externalSources": 1,
+      "duplicateParagraphs": 0,
+      "brokenLinks": [],
+      "cleanedLabels": 0,
+      "addedRelatedLinks": 0
+    }
+  ]
+}
