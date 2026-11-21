@@ -1,0 +1,110 @@
+{
+  "batch": 7,
+  "method": "Count text in article before sources/navigation, including li; main excludes embedded research-fulltext; not a substitute for scholarly review",
+  "entries": [
+    {
+      "path": "events/event-criminal-code-2026.html",
+      "mainTextChars": 954,
+      "fullTextChars": 954,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 800
+    },
+    {
+      "path": "events/event-diplomacy-revolution.html",
+      "mainTextChars": 1030,
+      "fullTextChars": 1030,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 855
+    },
+    {
+      "path": "events/event-dutch-offensive.html",
+      "mainTextChars": 1480,
+      "fullTextChars": 1480,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1217
+    },
+    {
+      "path": "events/event-election-2024.html",
+      "mainTextChars": 1356,
+      "fullTextChars": 1356,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1186
+    },
+    {
+      "path": "events/event-election.html",
+      "mainTextChars": 722,
+      "fullTextChars": 722,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 564
+    },
+    {
+      "path": "events/event-foreign-1965.html",
+      "mainTextChars": 1388,
+      "fullTextChars": 1388,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1168
+    },
+    {
+      "path": "events/event-foreign-channels.html",
+      "mainTextChars": 993,
+      "fullTextChars": 993,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 887
+    },
+    {
+      "path": "events/event-formation.html",
+      "mainTextChars": 824,
+      "fullTextChars": 824,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 660
+    },
+    {
+      "path": "events/event-guided.html",
+      "mainTextChars": 1384,
+      "fullTextChars": 1384,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1215
+    },
+    {
+      "path": "events/event-komnas.html",
+      "mainTextChars": 942,
+      "fullTextChars": 942,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 791
+    },
+    {
+      "path": "events/event-konfrontasi.html",
+      "mainTextChars": 1162,
+      "fullTextChars": 1162,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1034
+    },
+    {
+      "path": "events/event-labor-revolution.html",
+      "mainTextChars": 1041,
+      "fullTextChars": 1041,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 887
+    },
+    {
+      "path": "events/event-land-court.html",
+      "mainTextChars": 1275,
+      "fullTextChars": 1275,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1111
+    }
+  ]
+}
