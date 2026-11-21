@@ -320,3 +320,16 @@
 **G7/G6/G2：2000年8月4日工会法，印尼全国（等级A：政府官方法律PDF全文可访问及劳动部JDIH法条摘要；法律施行效果尚未验证）。** 直接打开官方法源《Undang-Undang No.21 Tahun 2000 tentang Serikat Pekerja/Serikat Buruh》PDF：https://www.peraturan.go.id/files/uu21-2000.pdf ；对照劳动部JDIH登记页：https://jdih.kemnaker.go.id/peraturan/detail/32/undang-undang-nomor-21-tahun-2000 。法律于2000-08-04公布，2000年法律公报131号，补充公报3989号，签署人为Abdurrahman Wahid；JDIH明确列工人至少10人可成立工会、向当地劳动主管部门书面通知登记（第18条）、登记后代表集体协议和工业争议（第25条）。这证明**法定结社与登记规则**，不证明某地实际登记、会员分布、企业承认或SOBSI与改革后工会存在组织继承。PDF前言明确追溯1956年批准ILO第98号公约及1999年人权法，提示须区分先前规范权利与2000年具体组织登记机制。下一步取2000—2004年县市登记簿、SBSI/KSPI/KSPSI等组织自身章程与干部名单、工厂集体合同、劳工部年度统计；逐个行业和省份追工会自由的执行差异，并与1998年后政治组织、2021年Partai Buruh支持结构相互核对。2026年适用文本还须复核最新官方修法，不能以2000年原版推断现行每条内容。
 
 **G10行动/阻碍：** 本次正式CSV及chronology仅读取了开头，不能确认最新S/C/Q/CV编号及全部重复项，故暂未将这两条写入正式台账，未伪造编号或覆盖。优先通过分段读取/本地git完整取回解决大文件空正文，再进行原子并库、时间线与连续中文历史正文更新。原始Aceh命令包和基层工会登记簿仍未取得。**全部G项保持OPEN。**
+
+
+## 2026-11-21 续查｜G4/G8巴厘统计口径；G5/G7女性证词与改革后幸存者组织（ONGOING）
+
+已重读2026-11-09 G1—G10完整性审计；G1早期组织、G2群众组织、G3跨机关逐时、G4各省暴力、G5性别与族群、G6拘押流亡与再组织、G7改革后劳工与幸存者、G8外国行动、G9空间人物、G10正式台账/正文均OPEN。以下两条为不同G项/年代的实质核验，不以本节作为结项。
+
+**G4/G8：巴厘，1965—1966（等级A-编辑原件：FRUS官方外交文献编辑注，非1966年原电报全文）。** 直接打开美国国务院FRUS 1964–1968卷26第162号编辑注：https://history.state.gov/historicaldocuments/frus1964-68v26/d162 。该注具体引1966-02-25驻雅加达使馆航空函A-527（NARA RG59, POL 23-9 INDON），称使馆当时收到巴厘死亡约80,000人的估计且杀害尚未停止；另引1970年Howland回顾，其从KOTI一名中校得到的数字是巴厘6,000、爪哇50,000、北苏门答腊3,000，并对统计方法持怀疑。**80,000与6,000均是不同来源/时间/统计方法的当事报告，绝非本项目已确定的巴厘死亡总数；不能把使馆关于家族仇杀的解释当作无争议的独立因果事实。** 编辑注还引用1965-11-13有关东/中爪哇夜间杀害和Kediri/Paree的传闻报告，未获地方名册核验。缺件：A-527原函、1970 Howland原文、巴厘军区/县镇死亡及拘押名册、地方PNI/PKI组织档案；下一步比较同一地区、同一时段、同一定义的独立材料，防止美方编辑注与所引使馆材料被重复计证。
+
+**G5/G7：女性幸存者与公共申诉，2006—2007、1998后社会组织（等级A-机构官方报告发布页及其原文摘录；报告PDF未逐页打开）。** 直接打开Komnas Perempuan 2007-09-03报告官方页：https://komnasperempuan.go.id/laporan-pemantauan-ham-detail/laporan-pemantauan-ham-perempuan-kejahatan-terhadap-kemanusiaan-berbasis-jender-mendengarkan-suara-perempuan-korban-peristiwa-1965 。机构明确称Gerwani成员和被认定与PKI相关女性遭受杀害、失踪、任意拘押、酷刑和性暴力，并把对Gerwani的污名宣传视为组织遭摧毁的重要机制；这是**机构调查结论**，不是已逐案核读原始证词。对照直接打开Nelly van Doorn-Harder 2019开放论文：https://onlinelibrary.wiley.com/doi/full/10.1111/cros.12380 （等级B，研究全文），论文记载2006-05-29有19名女性幸存者代表提出申诉，机构调查联系122名受害者；这两组数字分别是代表团与调查样本，不是全体受害人数。需取得2007报告PDF、方法/地区分布、匿名化访谈索引、地方女性幸存者组织原件，验证地方差异及受访者重复性。
+
+**G7/G9：改革后幸存者组织（等级B-组织参与者公开署名回顾，非创会原始登记）。** 直接打开Andreas Iswinarto 2025-09-23《The 1965-1966 Online Genocide Library》全文：https://www.insideindonesia.org/editions/edition-161-jul-sep-2025/the-1965-1966-online-genocide-library 。作者记述1999-04-19由Sulami Dodjoprawiro、Hasan Raid、Pramoedya Ananta Toer等建立YPKP 1965，1999-11发行《Soera Kita》首刊，2000-11在中爪哇Wonosobo的Kaliwiro/Situkup/Ndempes开展墓地发掘；2000年Imam Aziz等建立Syarikat Indonesia进行基层和解。此为作者叙述的可追原件线索，不能据此认定创办者法律签署身份或发掘司法结论。缺件：YPKP成立章程与登记、1999年《Soera Kita》原刊、2000年发掘记录与地方许可、Syarikat创会材料；须分别确认地点、人物职务、组织持续性。
+
+**G10并库阻碍：** 已定位正式CSV在archive/records，claim-ledger.csv的非空SHA仍无法从当前GitHub文件接口获得正文；source-register仅取得开头。未发放新S/C/Q/CV正式编号，未覆盖正式CSV、chronology或可读中文正文。优先分段/原始blob方式核完整文件，再去重并库。上述三条来源访问等级、事实与作者判断保持分离。GOAL继续OPEN。
