@@ -1,0 +1,110 @@
+{
+  "batch": 6,
+  "method": "Count text in article before sources/navigation, including li; main excludes embedded research-fulltext; not a substitute for scholarly review",
+  "entries": [
+    {
+      "path": "people/person-tuti-gerwani.html",
+      "mainTextChars": 1040,
+      "fullTextChars": 1040,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 876
+    },
+    {
+      "path": "people/person-untung.html",
+      "mainTextChars": 1111,
+      "fullTextChars": 1640,
+      "listItemChars": 0,
+      "hasResearchFulltext": true,
+      "paragraphOnlyChars": 929
+    },
+    {
+      "path": "people/person-van-roijen.html",
+      "mainTextChars": 604,
+      "fullTextChars": 604,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 463
+    },
+    {
+      "path": "people/person-widodo.html",
+      "mainTextChars": 927,
+      "fullTextChars": 927,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 776
+    },
+    {
+      "path": "people/person-winata.html",
+      "mainTextChars": 947,
+      "fullTextChars": 947,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 794
+    },
+    {
+      "path": "people/person-yamin.html",
+      "mainTextChars": 813,
+      "fullTextChars": 813,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 664
+    },
+    {
+      "path": "events/event-1952.html",
+      "mainTextChars": 786,
+      "fullTextChars": 786,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 644
+    },
+    {
+      "path": "events/event-aceh-1965-repression.html",
+      "mainTextChars": 1843,
+      "fullTextChars": 1843,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1581
+    },
+    {
+      "path": "events/event-bima-republic-1945.html",
+      "mainTextChars": 3374,
+      "fullTextChars": 3374,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 3164
+    },
+    {
+      "path": "events/event-bima-women-1950s.html",
+      "mainTextChars": 6238,
+      "fullTextChars": 6238,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 6024
+    },
+    {
+      "path": "events/event-bovendigoel.html",
+      "mainTextChars": 964,
+      "fullTextChars": 964,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 848
+    },
+    {
+      "path": "events/event-buru.html",
+      "mainTextChars": 1736,
+      "fullTextChars": 1736,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1520
+    },
+    {
+      "path": "events/event-colonial.html",
+      "mainTextChars": 908,
+      "fullTextChars": 908,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 820
+    }
+  ]
+}
