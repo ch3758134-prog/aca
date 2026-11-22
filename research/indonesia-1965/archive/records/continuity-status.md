@@ -1427,3 +1427,10 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 本次研究证据已写入global-gap-tracker与chronology：Aceh 1965-10-18 Langsa Baperki 148会员退会附件、10-29追溯10-20禁令及10-25报到期限的文书时间倒置；Flores 1966-02-27 Sikka甄别会议与1966-03-15 B.061/III/1966警告函。来源为Melvin、van Klinken、Prior的公开研究全文，均**不是1965/1966原始文书**。已核学术引文的出处和范围，未将名单人数等同遇害数或将函件叙述等同中央命令实际执行。
 
 **精确下一步：** (1) 取得Langsa Pernjataan 1965两页148人附件，核对名单和生存轨迹；(2) 索取Aceh Surat Keputusan 1965影印及收发登记，解释10-29/10-20/10-25时序；(3) 取得Sikka 1966-02-27 Komop会议原件和匿名1974年记录；(4) 索取Kodim 1607 B.061/III/1966函件复印件、教会往来及停杀令；(5) 转向G2 BTI/SARBUPRI原刊逐页核读及G7县市2000—2002工会登记执行记录。继续逐地轮换北苏门答腊、东中西爪哇、巴厘、西加里曼丹和苏拉威西，G1—G10全部OPEN。尚未同步正式CSV或中文连续正文；不声称全量完成。
+
+
+## 2026-11-23｜ONGOING / GOAL仍进行｜Hero跨国工会调解线索
+
+本轮重读AGENTS、goal-continuity、stage-access、正式四CSV、chronology与统一状态。claim-ledger.csv非空blob但正文读取为空，未覆盖。直接打开ASETUC 2013《Labour Laws and Practices in ASEAN》第二卷完整PDF https://asean.org/wp-content/uploads/images/2015/August/ASEAN-Labour-Ministerial-Meeting-document/Comparative%20Labour%20Laws%20and%20Practices%20in%20ASEAN%20Vol%20II.pdf ，第5.3.1节追述UNI Apro 2000年介入Hero工会与管理层谈判僵局、11月达成和解；2009年奖金方案、2011年合同工入会和养老金集体协议、2012年联合培训。2011年ILO《Freedom of Association and Development》 https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_norm/%40declaration/documents/publication/wcms_160208.pdf 第34页也叙述Hero，但依赖UNI Apro 2009报告，不能作为独立同期验证。2016年印尼语论文书目 https://ejournal.atmajaya.ac.id/index.php/paradigma/article/view/1714 引Hakim 2014和UNI Apro/ASPEK/SPHS资料，已打开书目页，未读论文PDF。以上是研究/机构的回顾性记载，不是和解或协议原件；222、470、500门店属于不同年份与统计口径，不得等同已入会门店数。
+
+精准未完：（1）取得UNI Apro/ASPEK/SPHS 2009原版及2000年11月谈判纪要，核Joseph De Bruyn、Christopher Ng、Ian McLallan各人身份；（2）取得Hero工会2000登记、2009奖金协议、2011集体协议签字页和适用对象；（3）寻找工人投诉、劳资裁决、外包工反证，检验成功案例叙事；（4）轮换1948 Delanggu ANRI 91/1215、1965 Aceh Baperki名单及1966 Bali Sutedja报告；（5）修复claim-ledger读取后去重登记正式来源主张，更新chronology与成熟中文连续正文。正式CSV和chronology本次尚未并库，不得声称已更新。写入前文件blob SHA c5a92e5e5235366e1f9fa3ff28796d73244fbb61；本次提交SHA以API及远程HEAD核验为准。GOAL永久OPEN。
