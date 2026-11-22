@@ -498,3 +498,18 @@
 **G1/G2 1948档案（来源等级A：ANRI官方目录原文；被目录描述的历史文件仅C）**：复核ANRI官方警察档案目录 https://www.anri.go.id/download/ra-26.-inventaris-arsip-tekstual-sekretariat-negara-kepolisian-negara-ri-19471949-1714018366 的第493号，明确GASBRI 1948-05-01公告仅**1页，turunan副本**，对应1948-04-25 Solo工人会议；第494号PKI成员文件夹标注**tidak lengkap（不完整）**。官方ANRI阅览服务 https://anri.go.id/en/public-services/archives-and-reading-room-services 明确提供馆藏借阅、阅览、复制及线上申请渠道；这使493/501/481/494成为可提出馆藏复制申请的精确对象，而不是声称已经取得公告正文。需索公告签发人、会议代表及与SOBSI/FDR关系；目录不能证明实际决议。
 
 **下一精确行动**：①核Melvin表7.1与表7.2逐人、逐县及签发机关，索原82份清洗文书及工资/复职登记；②核S855扫描中《Complete Yearly Report》1,941分区数字原页、期间和计数单位；③向ANRI请求警察档案493、501、481、494影印与目录所列副本状态；④转向北苏门答腊与东爪哇县级行政清洗名册对照；⑤轮换G7县级工会登记和G8外国执行档案。正式CSV、统一时间线、中文正文仍须继续安全并库，不得以本条代替。长期GOAL未完成。
+
+
+## 2026-11-22｜ONGOING / GOAL仍进行｜G4北苏门答腊 × G2种植园工会原刊入口（跨链）
+
+已逐项重读2026-11-09完整性审计G1—G10，并读取AGENTS、stage-access、goal-continuity、continuity-status、source-register、search-log、coverage-matrix、chronology；research-status.md在archive/records路径404，claim-ledger.csv非空blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a的UTF-8正文仍为0，不覆盖、不新编C号。本条为待正式CSV去重并库的核验记录。
+
+**G4/G5/G9：北苏门答腊Medan（1965年10月；来源A=已打开Komnas HAM正式署名调查摘要全文，证言是委员会所记述的当事人陈述而非原BAP）。** 官方调查摘要印尼语PDF https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf 记录一名证人在Medan SMP Negeri 6附近遭自称/据称Pemuda Pancasila成员的青年追捕，曾登上一辆军车又被军人赶下，后被带至摊亭殴打；证词涉及同伴Lim Ceng Siang、Kodim Kota Medan的Kapten Muhammad Ginting。必须逐段核原报告页码、匿名证人编号、具体日期及其与军方接触的证据；调查报告能够证明委员会记录了该陈述，**不能直接证明全部参与者身份和指挥责任**。另有Komnas HAM英文翻译 https://etan.org/action/SaySorry/Komnas%20HAM%201965%20TAPOL%20translation.pdf 转述另一证人在1965-10-14抵Belawan港、SOBSI Jalan Medan Binjai办公室被焚、主席及两名看守被杀的说法；译本与印尼文同源，不作独立佐证，须定位原文、原BAP、当地警方及医院记录、SOBSI人员名册。
+
+**G2/G4/G8：工会和外国观察（1965-10-23；A=当时美国使馆电报影印已由National Security Archive公开，但本次直接打开的是档案馆编者介绍页面，访问层级C对电报正文）。** https://nsarchive.gwu.edu/briefing-book/indonesia/2017-10-17/indonesia-mass-murder-1965-us-embassy-files 列Document 6 / Telegram 1168 (1965-10-23, RG84 Box14 Folder1)，编者称大使Green讨论军方对SOBSI的禁制及劳工部长Sutomo的态度，且Green认为SOBSI预先知晓930事件不大可能。此处**仅能确认编者如何概述外交电报，不能把大使个人判断升级为事实**。同页面Document 9 / Telegram 1290 (1965-11-01)编者称North Sumatra，但前次已发现原电报语境指向南苏门答腊Palembang/Pladju；此为重要**档案网页地理标注疑误**，在未重新核读电报影印前不得将其石油工会拘捕人数归入北苏门答腊。
+
+**G2：SARBUPRI/BTI原刊目录入口（1955—1962；访问C=馆藏链接和二次目录页面已打开，原刊未读）。** https://19651966perpustakaanonline.wordpress.com/2025/02/02/koleksi-arsip-digital-koran-berita-organisasi-sarbupri-sarekat-buruh-perkebunan-republik-indonesia-1955-1957-bisa-diunduh/ 列印尼国家图书馆Perpusnas《Berita Organisasi SARBUPRI》《Warta SARBUPRI》数字馆藏入口，并关联BTI《Suara Tani》1956—1962年原刊目录。需进入Perpusnas逐期查看出版日期、编辑、发行机构、地区支部、工资/土地诉求及会费，不能从网页标题推断已核实具体工会决议。与北苏门答腊种植园工人受镇压链衔接时，必须核支部地名、会员、干部、土地权属及1965后解雇登记，不可仅因同属SOBSI系统就视为同一人员网络。
+
+**全G缺口横向保留**：G1 1920—49组织与ANRI 1948卷；G2种植园/铁路/BTI/Gerwani/Pemuda Rakyat/LEKRA基层；G3 930跨机关命令；G4 Aceh/北苏门答腊/各爪哇/巴厘/Flores/西加里曼丹/Sulawesi原件；G5妇女、族群、幸存者；G6监禁/流亡/新组织；G7县级工会与政党选举；G8英美澳中苏介入执行；G9人物—地点—组织索引；G10正式CSV和中文连续正文均OPEN。
+
+**精确接力**：（1）Komnas HAM印尼语全文定位Medan两组证词、原BAP编号与发生日期，索2009—2012原笔录；（2）调1965-10-14—11-15 Medan/Belawan警方、Kodim、SOBSI办公室火灾和伤亡登记；（3）打开NSA Document 6 Telegram 1168原影印，区分Green判断与军方指控，Document 9原影印复核Palembang地理；（4）打开Perpusnas SARBUPRI/BTI原刊至少一期，逐页核栏目与地区支部；（5）轮换西加里曼丹1967省府报告、Aceh处分原件和G7地方工会登记。此处未声称原始BAP、原刊或电报影印已读。GOAL长期未完成。
