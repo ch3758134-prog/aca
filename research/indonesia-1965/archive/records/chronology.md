@@ -2167,3 +2167,6 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 - **1966-02-27，Sikka/Flores：** Gerry van Klinken开放章节第240页引用匿名1974年记述，Komop及调查人员与政党/社团讨论第二波拘押对象；原始会议纪要未取得。https://pure.uva.nl/ws/files/2526919/166060_488108.pdf 。
 - **1966-03-06，Bola/Flores：** John M. Prior研究记载Pede da Lopez神父干预军事行动；需取得堂区记录及独立证词。
 - **1966-03-15，Sikka/East Flores：** Prior引述Major Soemarno署名Kodim 1607/Komop信函B.061/III/1966，警告神职人员不得干预、要求调离Pede da Lopez。已读学术全文B，原函未取得。https://repository.divinity.edu.au/divinityserver/api/core/bitstreams/662d52ff-005b-4845-918c-959a06ea50d0/content 。
+
+- **November 2000 (retrospective account; exact date unresolved):** ASETUC's 2013 ASEAN comparative study describes UNI Apro intervention with Hero Supermarket management and a settlement of a union-management bargaining impasse in November 2000. Neither settlement document nor meeting minutes inspected; source is a later positive-case narrative. [S1532; moderate/open]
+- **2009–2012 (retrospective account):** The same study describes a 2009 bonus arrangement, a 2011 collective agreement allowing contract workers to join the union and addressing pensions, and 2012 joint training. Actual signed agreements and scope remain unverified. Do not compare different-year store counts as if identical denominators. [S1532; moderate/open]
