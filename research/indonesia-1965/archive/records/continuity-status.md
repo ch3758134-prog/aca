@@ -1245,3 +1245,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准未完事项：** ①向ANRI请求AVROS第4、14、22、25、293、295、296、301、303号案卷的逐页影印/档号与申请条件；②在荷兰2.20.46目录内定位AVROS劳工、年度大会、Deli子公司1953–1965具体inventory号码，查与ANRI是否同文副本；③核SARPUBRI/SARBUPRI组织名称、1953–1954大会领导名单与SOBSI隶属关系，取得工会自己的原文；④取得1957及1964–1968 P4D/P4P企业争议决定，区分解雇申请、许可、实施与复职；⑤轮换Aceh 1965军令、Gerwani地方妇女活动、Moncongloe拘押及1990年代工会与PRD，补足跨年代历史过程。
 
 **本次写入前可见main最新提交：** `bed82a4686f20b71a4ae74a3fa7cf599f10371fa`（查询时点）；本次写入生成的新SHA应以GitHub回执及之后独立HEAD核验为准，不能预写自身SHA。GOAL保持ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-22 16:55 CST｜ONGOING / GOAL仍进行｜SARBUPRI/BTI原刊取件路径与1948年罢工核对
+
+本轮已重新读取AGENTS、goal-continuity、stage-access、正式四张CSV和chronology；claim-ledger.csv仍返回非空blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但正文长度0，禁止覆盖。直接打开ANRI《AVROS 1892–1985》官方目录全文 https://www.anri.go.id/download/ra-1.-avros-algemene-vereniging-van-rubberplanters-ter-oostkust-van-sumatra-1892-1985-1720074585 ，卷4（1957年P4D/P4P及工会劳动条件通信）、14（1948–52种植园工会）、22（1953–54 SAR[P]UBRI大会、备忘录及领导机构）、25（1954–56成员/组织通信）均为**馆藏目录，不是卷宗内容**。目录另见38号与22号近似描述，必须核是否重复编目，不能将其视为独立证据。
+
+直接打开印尼文化部历史百科Mawardi署名SARBUPRI条 https://esi.kemenbud.go.id/wiki/Sarekat_Buruh_Perkebunan_Republik_Indonesia_(SARBUPRI) ，其引二手研究称1947-02-17成立，Maruto Darusman与Suparna Sastradiredja为初期领导；1948-05-19 Surakarta动员、05-26至06-03 Delanggu罢工，诉求包括实物粮布待遇。文中1952年56%/171646、1956年51%/169547、1950年70万人罢工、1953年工资增长30%均为**百科转引的数字**，未核原始工会名册、企业账或裁决，严禁当独立统计。此文对1965事件采用“Pemberontakan G30S”定性，属于来源叙述，不替作者采用政治判断。
+
+新的原刊取件入口：直接打开2025-02-02专题目录 https://19651966perpustakaanonline.wordpress.com/2025/02/02/koleksi-arsip-digital-koran-berita-organisasi-sarbupri-sarekat-buruh-perkebunan-republik-indonesia-1955-1957-bisa-diunduh/ ，其中分别链接印尼国家图书馆OPAC《Berita Organisasi SARBUPRI》（https://opac.perpusnas.go.id/DetailOpac.aspx?id=343531）和Khastara《Warta SARBUPRI》（https://khastara.perpusnas.go.id/koleksi-digital/detail/?catId=300606）。两原馆链接直接打开均403，**没有读到原刊页面**；邻接专题 https://19651966perpustakaanonline.wordpress.com/2025/02/01/arsip-digital-majalah-suara-tani-majalah-resmi-barisan-tani-indonesia-bti/ 指向BTI《Suara Tani》馆藏，也仅为取件线索。以上不可称为原刊全文核验。
+
+**精准未完**：①通过国家图书馆其他数字端点/馆员申请取《Berita Organisasi SARBUPRI》《Warta SARBUPRI》《Suara Tani》1955—1962扫描页，逐期记录日期、署名、支部及劳动争议；②向ANRI申请AVROS卷4、14、22、25、38、293、295、296、301影印，核22/38是否重复及SARPUBRI拼写；③追1948-05-19动员及05-26—06-03 Delanggu罢工同期报刊、工厂薪酬簿，核工会领导和20kg米/3m布诉求；④对照Stoler 1985、White 2016所用统计原表，拆分1950罢工人数与1963会员数，不混淆；⑤跨期轮换1965年Aceh军令、Moncongloe拘押及1990年代工会档案，并在证据链成熟后整合中文连续历史正文。GOAL始终OPEN。
