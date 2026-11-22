@@ -1,0 +1,129 @@
+{
+  "basis": "8c88b927a7df1be7b858f7fe6669689e28edc311",
+  "range": [
+    60,
+    71
+  ],
+  "records": [
+    {
+      "path": "events/event-union-prisoners-1977.html",
+      "length": 1302,
+      "searchLength": 1273,
+      "ratio": 0.978,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-union-registration-1998.html",
+      "length": 1516,
+      "searchLength": 1487,
+      "ratio": 0.981,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 6
+    },
+    {
+      "path": "events/event-union-structure.html",
+      "length": 1376,
+      "searchLength": 1347,
+      "ratio": 0.979,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "events/event-uprising.html",
+      "length": 2247,
+      "searchLength": 2247,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 5
+    },
+    {
+      "path": "events/event-victim-protection-2026.html",
+      "length": 899,
+      "searchLength": 899,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-vstp-1923.html",
+      "length": 2062,
+      "searchLength": 2033,
+      "ratio": 0.986,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-wangunwati.html",
+      "length": 1092,
+      "searchLength": 1092,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 1
+    },
+    {
+      "path": "events/event-wartime-mobilization.html",
+      "length": 978,
+      "searchLength": 949,
+      "ratio": 0.97,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "events/event-west-kalimantan-1967-expulsion.html",
+      "length": 1212,
+      "searchLength": 1183,
+      "ratio": 0.976,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 1
+    },
+    {
+      "path": "events/event-westpapua.html",
+      "length": 1051,
+      "searchLength": 1022,
+      "ratio": 0.972,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "events/event-women-detainees.html",
+      "length": 1571,
+      "searchLength": 1571,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "organizations/org-army.html",
+      "length": 2190,
+      "searchLength": 2190,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 7
+    }
+  ]
+}
