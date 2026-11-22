@@ -1284,3 +1284,15 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **核验状态与提交**：本轮正式 source-register 新增S1528，提交 SHA 031a23cb1ee9976dbf39d37d1bfc54cbf267893f；本状态文件写入前重新读取blob SHA 9c763d13e470100aa8727ec3f7e7657b4a3453f4。本轮未更动claim-ledger、search-log、coverage-matrix、chronology及成熟中文正文；必须继续完成这些正式并库任务，不能把状态记录视为替代。
 
 **精准未完事项**：（1）取得1948-07-19《Merdeka》第785号第2页原扫描并核三类待遇条款和日期；（2）逐页核Poeze/Schulte Nordholt ch.10关于FDR 1948-02-05决策和Delanggu的脚注，追原始组织决议、政府公报和1948报纸；（3）取得LBT 06-14函、BTN 06-17—19谈判、SOBSI 07-17/18复工命令及KNIP调查记录，区分实际行动与后出解释；（4）正式为S1528登记检索日志/覆盖矩阵及可证的chronology条目，修复claim-ledger原字节读取后才新增原子主张，成熟后融入1945—1948中文连续正文；（5）轮换1965 Aceh军令、Moncongloe 1970年代政治犯、1990年代PPBI/PRD与2000年后工会登记执行。GOAL保持ACTIVE / OPEN-ENDED。状态本次提交SHA需以回执及远程HEAD独立核验为准，不能在自身提交前预填。
+
+## 2026-11-22 19:46 CST｜ONGOING / GOAL仍进行｜Delanggu 1948原始政府卷宗定位与正式并库
+
+已读取AGENTS、goal-continuity、stage-access、统一状态和正式source-register/claim-ledger/search-log/coverage-matrix/chronology。正式claim-ledger.csv仍返回非空blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a而正文长度为0；未覆盖、未杜撰C编号。
+
+**本轮新发现（目录原件已直接打开，卷宗原件尚未打开）**：印尼国家档案馆ANRI《Inventaris Arsip Tekstual Kementerian Perburuhan dan Sosial 1946–1950》官方PDF https://anri.go.id/download/inventaris-arsip-tekstual-kementerian-perburuhan-dan-sosial-19461950-1633328851 ，第91号目录项明确写“Berkas mengenai tuntutan LBT (Lembaga Buruh Tani) di Delanggu”，日期1948-06-14—19，数量1 Sampul（文件夹）。这与Suyatno 1989年后出研究所载6月14日LBT提出要求、17—19日交涉的时间相吻合，但不能用目录确认函件内容、会议参加者或最终结果。**同目录第74号**记1947年PKI工作纲领及CCPKI 1947-04-15送文函，两页，为1948年前党组织实际政策的潜在原件入口；同样尚未核读两页内容。
+
+**交叉反证**：Purwanta 2014 *Patrawidya* 15(3)正文 https://www.academia.edu/82771243/Patrawidya_Vol_15_No_3 引1948-07-19《Merdeka》No.785 p.2，叙述7月18日07:00复工命令，却同时写罢工6月17日结束；Swift 1989第43页 https://fliphtml5.com/vkixl/awcx/Elizabeth_Ann_Swift_-_The_Road_to_Madiun_The_Indonesian_Communist_Uprising_of_1948/57/ 写7月17日达成和解；Suyatno 1989转录 https://doczz.net/doc/1166067/j---aceh-books 写7月16日政府广播、7月18日复工。不能把不同阶段日期混为一日，也不能将互引的后出研究视为独立证人。1948年报纸、政府卷宗尚未直接核读。
+
+**正式落档**：source-register S1529、search-log Q592、coverage-matrix CV661、chronology新增1947-04-15及1948-06-14—19目录级条目；对应写入提交SHA依次为 d65c0adf25564110c6e69b91a601a20b3070d8c1、1185914fd9a55264c3ef796327b0e128c0702e70、8e6034a1be123160d270f267276734af2398d501、3b1d084d0f01661f8e7d7e74b5a14a4e0ee7f076。**本状态写入前最新已知提交** 3b1d084d0f01661f8e7d7e74b5a14a4e0ee7f076；状态文件自身提交SHA须以回执和远程HEAD核验为准，不可能预先写入自身提交。中文连续历史正文未改，目录级发现不足以写成已验证的1948谈判过程。
+
+**精准未完事项**：（1）向ANRI申请1946—1950年劳动与社会事务部卷宗第91号原始影印（LBT 1948-06-14—19），核签名、函件、交涉与分支；（2）同馆取第74号PKI工作纲领及1947-04-15 CCPKI送文函两页，核实际政策内容和人名；（3）取1948-07-19《Merdeka》第785号第2页及7月14—18日同期报刊，分离协议、停工、复工日期；（4）安全恢复claim-ledger原始字节，逐条去重登记C编号，并在取得卷宗正文后推进1945—1948连续中文历史叙事；（5）下一轮交替转向1965年Aceh军令与Baperki名单、Moncongloe拘押/劳工、1990年代PPBI/PRD及1998—2026工会制度执行，不因Delanggu单线停止。GOAL ACTIVE / OPEN-ENDED。
