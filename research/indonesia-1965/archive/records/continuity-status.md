@@ -1296,3 +1296,15 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **正式落档**：source-register S1529、search-log Q592、coverage-matrix CV661、chronology新增1947-04-15及1948-06-14—19目录级条目；对应写入提交SHA依次为 d65c0adf25564110c6e69b91a601a20b3070d8c1、1185914fd9a55264c3ef796327b0e128c0702e70、8e6034a1be123160d270f267276734af2398d501、3b1d084d0f01661f8e7d7e74b5a14a4e0ee7f076。**本状态写入前最新已知提交** 3b1d084d0f01661f8e7d7e74b5a14a4e0ee7f076；状态文件自身提交SHA须以回执和远程HEAD核验为准，不可能预先写入自身提交。中文连续历史正文未改，目录级发现不足以写成已验证的1948谈判过程。
 
 **精准未完事项**：（1）向ANRI申请1946—1950年劳动与社会事务部卷宗第91号原始影印（LBT 1948-06-14—19），核签名、函件、交涉与分支；（2）同馆取第74号PKI工作纲领及1947-04-15 CCPKI送文函两页，核实际政策内容和人名；（3）取1948-07-19《Merdeka》第785号第2页及7月14—18日同期报刊，分离协议、停工、复工日期；（4）安全恢复claim-ledger原始字节，逐条去重登记C编号，并在取得卷宗正文后推进1945—1948连续中文历史叙事；（5）下一轮交替转向1965年Aceh军令与Baperki名单、Moncongloe拘押/劳工、1990年代PPBI/PRD及1998—2026工会制度执行，不因Delanggu单线停止。GOAL ACTIVE / OPEN-ENDED。
+
+## 2026-11-22 20:50 CST｜ONGOING / GOAL仍进行｜1948 Delanggu警察与新闻同期材料交叉入口
+
+本次重读AGENTS、goal-continuity、stage-access、统一续接及正式source-register/claim-ledger/search-log/coverage-matrix/chronology。正式claim-ledger.csv依旧返回非空blob SHA `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a`但UTF-8正文为空；**未覆盖、未猜测C编号**。本次不建立旧式列表HTML；尚未取得足以成熟增写的新的行动过程原件。
+
+**新原始档案定位（目录已直接打开，单件未读）**：ANRI官方1995年《Inventaris Arsip Kepolisian Negara RI 1947–1949》全文 https://www.anri.go.id/download/ra-26.-inventaris-arsip-tekstual-sekretariat-negara-kepolisian-negara-ri-19471949-1714018366 ，第1215号：1948-07-01 Delanggu新闻局（Pers Biro Berita Delanggu）有关Delanggu事件的一页副本；第569号：1948年2月至10月警察PAM关于SOBSI的往来函件（一文件夹副本）；第1201号：1948-04-01 BTI诉求传单一页；第1205号：1948-04-24《Buruh》报道Solo罢工和SOBSI复工指令一页；第1211号：1948-05-22/25《Patriot》《Buruh》有关警察调动报道摘录三页。注意1205、1211指向Solo及警察报道，不能未经取件断言直接记录Delanggu；1215才明确写Delanggu。与此前劳动部第91号LBT诉求卷宗相互补充，**不是卷宗内容已核实**。
+
+**交叉核验限制**：再次检索1948-07-19《Merdeka》No.785 p.2，尚未取得原报；Purwanta 2014与Suyatno 1989对7月16/17/18日协议、停工和复工仍有差异，不能仅凭后出转引解决。此次新目录可望为7月1日局势提供同期对照，但尚无直接证据解释7月10日冲突及7月18日复工。
+
+**正式落档**：source-register新增S1530（提交 `f373e75bdff5c5bdc1e907f0f6c5b3738f03d36c`）、search-log新增Q593（`ab6aa706c273429d9b525b751573dae65c01ce1f`）、coverage-matrix新增CV662（`ddf256853b41f41b7609b5beb7862bb03de28c33`）、chronology追加目录级条目（`26387c483d002088ac07fc27dc371d9a50a2eddb`）。该最后SHA为本状态更新前最新已知提交；本状态提交的自身SHA须以提交回执及远程main独立核验，不可预填。
+
+**下一次精准未完事项**：（1）向ANRI取警察档案1215号1948-07-01 Delanggu一页副本，核全文、署名、地点与事件；（2）同馆取569、1201、1205、1211，分辨PAM监控、BTI诉求和新闻摘录的不同信息来源；（3）取劳动部第91号1948-06-14—19 LBT卷宗及第74号1947 PKI纲领原件；（4）取1948-07-19《Merdeka》785号第2页及7月10—18日同期报纸，核日期冲突，并修复claim-ledger原始字节读取；（5）轮换Aceh 1965军令/Baperki名单、Moncongloe 1970年代拘押、1990年代PPBI/PRD和2000年后地方工会登记实证，继续推动成熟中文连续正文。GOAL ACTIVE / OPEN-ENDED。
