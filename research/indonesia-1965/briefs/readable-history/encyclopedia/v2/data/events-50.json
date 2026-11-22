@@ -119,17 +119,18 @@
     "aliases": [],
     "summary": "独立后，梭罗的权力并未立即由王宫转到共和国机关。共和国最初承认苏苏胡南王朝（Kasunanan）和芒库尼加兰公国（Mangkunegaran）两套王室辖区的自治地位；同时，地方国民委员会、青年团体、政党和部队推动把王宫行政纳入共和国制度。双方围绕地方官员任命、警察和武装指挥、土地与王室特权展开竞争，政治行动者也把废除世袭权力与农民、工人诉求连在一起。1945年秋的梭罗社会革命包括群众集会、官员撤换、逮捕与地方冲突，不同辖区、王室机构和群众团体的经历并不相同",
     "period": "1942—1949",
-    "status": "imported",
-    "review_level": "medium_unreviewed",
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
     "paragraphs": 9,
-    "headings": 4,
-    "reference_links": 0,
+    "headings": 6,
+    "reference_links": 2,
     "related": [
       "people/person-suryo.html",
       "people/person-soetarto.html"
     ],
     "issues": [],
-    "era": "war"
+    "era": "war",
+    "source_complete": false
   },
   {
     "id": "E-surveillance",

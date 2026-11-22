@@ -28,18 +28,19 @@
     "aliases": [],
     "summary": "印尼主权移交以后，各党派不仅在雅加达组阁，也通过宗教学校、地方报纸、工会和农民组织争取政治联系。1954年Gerwis在代表大会后更名为Gerwani，反映妇女教育、家庭与社会活动的扩大。它与PKI有政治联系，却不能让整个妇女组织的历史只作为共产党选举的附属故事。",
     "period": "1950—1965年9月",
-    "status": "imported",
-    "review_level": "medium_unreviewed",
-    "paragraphs": 5,
-    "headings": 6,
-    "reference_links": 3,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 8,
+    "headings": 8,
+    "reference_links": 5,
     "related": [
       "organizations/org-gerwani.html",
       "events/event-guided.html",
       "organizations/org-pki.html"
     ],
     "issues": [],
-    "era": "republic"
+    "era": "republic",
+    "source_complete": false
   },
   {
     "id": "E-foreign-1965",
@@ -241,14 +242,15 @@
     "aliases": [],
     "summary": "1970年第7号法律废止1964年设立的土地改革法院，并把未结案件转交普通法院。原有特别法院允许农民群众组织推荐部分审判成员；废止理由明确指向其组织构成和“纳沙贡”政治基础。土地争议此后由普通法院、土地行政机关和地方官员处理，农民组织通过法律取得的参与位置随之缩小。 [土地改革法院废止与案件移交]",
     "period": "1967—1998",
-    "status": "imported",
-    "review_level": "medium_unreviewed",
-    "paragraphs": 5,
-    "headings": 4,
-    "reference_links": 0,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 11,
+    "headings": 6,
+    "reference_links": 5,
     "related": [],
     "issues": [],
-    "era": "neworder"
+    "era": "neworder",
+    "source_complete": false
   },
   {
     "id": "E-madiun",
@@ -988,17 +990,18 @@
     "aliases": [],
     "summary": "独立后，梭罗的权力并未立即由王宫转到共和国机关。共和国最初承认苏苏胡南王朝（Kasunanan）和芒库尼加兰公国（Mangkunegaran）两套王室辖区的自治地位；同时，地方国民委员会、青年团体、政党和部队推动把王宫行政纳入共和国制度。双方围绕地方官员任命、警察和武装指挥、土地与王室特权展开竞争，政治行动者也把废除世袭权力与农民、工人诉求连在一起。1945年秋的梭罗社会革命包括群众集会、官员撤换、逮捕与地方冲突，不同辖区、王室机构和群众团体的经历并不相同",
     "period": "1942—1949",
-    "status": "imported",
-    "review_level": "medium_unreviewed",
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
     "paragraphs": 9,
-    "headings": 4,
-    "reference_links": 0,
+    "headings": 6,
+    "reference_links": 2,
     "related": [
       "people/person-suryo.html",
       "people/person-soetarto.html"
     ],
     "issues": [],
-    "era": "war"
+    "era": "war",
+    "source_complete": false
   },
   {
     "id": "E-surveillance",

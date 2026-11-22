@@ -32,14 +32,15 @@
     "aliases": [],
     "summary": "1970年第7号法律废止1964年设立的土地改革法院，并把未结案件转交普通法院。原有特别法院允许农民群众组织推荐部分审判成员；废止理由明确指向其组织构成和“纳沙贡”政治基础。土地争议此后由普通法院、土地行政机关和地方官员处理，农民组织通过法律取得的参与位置随之缩小。 [土地改革法院废止与案件移交]",
     "period": "1967—1998",
-    "status": "imported",
-    "review_level": "medium_unreviewed",
-    "paragraphs": 5,
-    "headings": 4,
-    "reference_links": 0,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 11,
+    "headings": 6,
+    "reference_links": 5,
     "related": [],
     "issues": [],
-    "era": "neworder"
+    "era": "neworder",
+    "source_complete": false
   },
   {
     "id": "E-madiun",

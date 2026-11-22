@@ -28,18 +28,19 @@
     "aliases": [],
     "summary": "印尼主权移交以后，各党派不仅在雅加达组阁，也通过宗教学校、地方报纸、工会和农民组织争取政治联系。1954年Gerwis在代表大会后更名为Gerwani，反映妇女教育、家庭与社会活动的扩大。它与PKI有政治联系，却不能让整个妇女组织的历史只作为共产党选举的附属故事。",
     "period": "1950—1965年9月",
-    "status": "imported",
-    "review_level": "medium_unreviewed",
-    "paragraphs": 5,
-    "headings": 6,
-    "reference_links": 3,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 8,
+    "headings": 8,
+    "reference_links": 5,
     "related": [
       "organizations/org-gerwani.html",
       "events/event-guided.html",
       "organizations/org-pki.html"
     ],
     "issues": [],
-    "era": "republic"
+    "era": "republic",
+    "source_complete": false
   },
   {
     "id": "E-foreign-1965",
