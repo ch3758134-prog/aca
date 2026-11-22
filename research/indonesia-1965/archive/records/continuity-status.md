@@ -1215,3 +1215,18 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 已在正式search-log登记Q590、coverage-matrix登记CV660、chronology追加具体程序与执行缺口；复用S1527，未重复来源编号。正式claim-ledger.csv仍为非空blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但GitHub UTF-8读取为空，未覆盖、未虚构C编号。中文阅读正文未修改：尚缺企业—工会—P4D/P4P实际案例，不能用法条代替具体历史过程。写入前最近已确认提交SHA：610b3d43e82dc2994ddc08d38a730864996f04a1；本状态文件自身提交SHA只能在提交后核验，不可能在同一次提交自引用。
 
 **下一直接执行事项：**（1）取得1965—1968南苏门答腊Palembang/Sungai Gerong/Pladju、PUSRI、Shell、Stanvac的P4D/P4P解雇许可与上诉簿、PERBUM/SOBSI干部人事记录，区分拘捕、停职、解雇；（2）取UU 22/1957和UU 2/2004原文核委员会权限、废止生效日与过渡规则；（3）重新核1965-11-01使馆电报1290扫描与OCR、纠正南/北苏门答腊地理冲突并寻劳工方证词；（4）取Gerwani 1964年研讨会地方代表/Perwari独立记录及《Api Kartini》第23、26页厂村行动证据；（5）尝试Git blob base64/原始API可靠读取claim-ledger，随后按正式最大C编号去重登记并推进连续中文历史正文，同时轮换Aceh、Moncongloe及1990年代工会组织。G1—G10保持OPEN，GOAL永久OPEN。
+
+
+## 2026-11-22 14:51 CST｜ONGOING / GOAL仍进行｜北苏门答腊工会、种植园争议与P4原件取件路径
+
+**读取和基线：** 已重读AGENTS、goal-continuity、stage-access、正式source-register、claim-ledger、search-log、coverage-matrix及chronology。写入前main HEAD为`1c0d32315b2ba04546069d73e2956fe6d6246f8f`。claim-ledger blob `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a` 的fetch_file仍返回空正文，未改写。已有来源S396是ANRI AVROS目录，S196是1965-11-01美国使馆1290号电报；两者不得重复分配新S编号。
+
+**G1/G2/G9档案目录实读：** 重新打开ANRI官方《Inventaris Arsip AVROS 1892–1985》全文（2009）：https://www.anri.go.id/download/ra-1.-avros-algemene-vereniging-van-rubberplanters-ter-oostkust-van-sumatra-1892-1985-1720074585 。重点识别可按件调阅的**No.293**（1957-01-02至1964-09-29，SARBUPRI会议、罢工及工资争议）、**No.295**（1958-02-03至1961，P4涉及复工、解雇、伙食费及土地借用的决定）、**No.296**（1958-10-03至1960-12-02，Asahan PERBUPRI支部与United States Rubber Sumatera Plantation的P4D决定）、**No.301**（1961-10-26至1963-06-25，P4中央裁决与PPN、Societe des Caoutchouc Medan及Stanvac种植园上诉）、**No.303**（1961年罢工相关解雇）。官方目录还列No.22/38的1953—1954 SARBUPRI大会文件、No.25的工会成员统计及No.269的烟草种植园工会劳动争议。以上**仅是原始卷宗目录已打开，卷宗原件未取得**；AVROS作为种植园雇主协会有自身记录立场，目录不能证明具体案件的裁决内容或1965后人员命运。此组编号为馆藏件号，绝不是本项目S/C号。
+
+**跨证据层对照：** 已重新打开美国国家安全档案馆1965-11-01第1290号电报页面及OCR入口：https://nsarchive.gwu.edu/document/15705-document-9-telegram-1290-american-embassy 。馆方摘要称军方逮捕PERBUM领导和Shell、Stanvac、PUSRI的SOBSI干部；原先S196已提醒馆方把Palembang（南苏门答腊）误写为北苏门答腊的地理风险。因此**不能用北苏门答腊AVROS档案直接证明Palembang厂区1965年逮捕或解雇**，需分开地区、企业、行业和时间。此轮未取得1965—1968 P4D/P4P解雇许可原卷，故无法认定1964年第12号法被实际遵守或违反。1957年第22号法公开文本（https://peraturan.info/uu/1957/22/isi）已打开：第1条将法定劳资争议定义为雇主与工会间关系争议，第5条规定地区委员会包括政府、工人和雇主代表；这是制度规定，不是委员会实际代表构成或审案效果的证明。
+
+**本次档案登记限制：** S396、S196及1957年法律均已在正式来源表中出现，未重复新增S；本次没有原卷或新独立历史事实可安全编造C编号，正式四CSV、chronology、中文连续正文均未修改。本节记录的是已有来源中更精确的可执行卷宗取件定位，非完整证据并库。
+
+**下次精准续接：** ①向ANRI按AVROS No.293、295、296、301、303申请逐件影印、档案盒号和完整日期，优先获取Asahan USRSP-PERBUPRI当事人及P4D裁决；②从No.22、25、38、269核SARBUPRI大会干部、会费/成员数、烟草园区工资争议，并与SOBSI组织档案独立比对；③以Palembang 1965 Shell/Stanvac/PUSRI和PERBUM、SOBSI为单独地区链，调1965-11-01电报扫描全文及1965—1968地方P4解雇许可、公司人事簿、拘押名册；④调1964 UU12和1957 UU22的配套P4D/P4P规程、代表任免及实际裁决，核法律执行与军政排除的交点；⑤跨期轮换Gerwani 1964研讨会地方落实、Aceh 1965军令、Moncongloe 1977—1980及1998后工会，取得原件后去重入四表、chronology并续写成熟中文连续正文。
+
+**GOAL仍OPEN。** 提交前HEAD如上；本节提交产生的新SHA只能在提交后核验，不能预写进同一提交的文件内容。
