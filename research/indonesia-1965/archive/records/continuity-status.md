@@ -1312,3 +1312,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 
 ## 2026-11-22｜ONGOING / GOAL仍进行：巴厘军政私人档案新取件入口
 已重读completeness-audit-2026-11-09.md、AGENTS、stage-access、goal-continuity、正式来源/检索/覆盖台账及时间线、滚动缺口总账；research-status.md路径404，claim-ledger.csv非空SHA但返回空正文，未覆盖。新增正式S1531：Trisila《A.A.B. Sutedja File》期刊页面与参考文献已读（仅摘要及书目，论文PDF未读）。其列Puri Negara Jembrana五件待取原件：1965-11-03 KEP-PPD.2/1/234、12-03总统秘书处备忘录、12-10苏加诺会谈纪要、12-18总统决定380/1965、1966-07-26失踪报告。既有S400/S401为巴厘使馆估计链，数字非独立死亡名册。G1—G10均OPEN。正式提交：S1531 `60e27e934c9675365cf774e789d987ecfd528466`；缺口总账 `8191f5ec7b5782c1be274e9a9751855fbe2e79d8`。未同步chronology、claim-ledger、search-log、coverage-matrix或中文正文，需后续补齐。下一步：读论文PDF；追Puri Negara原件及军区收文；核Sutedja12月任职链；轮换西加里曼丹1966—67军令与1948 Delanggu ANRI原件；修复claim-ledger安全读取。当前执行结束不代表研究结束。
+
+
+## 2026-11-22｜1948年共和国外交代表团档案中新发现PKI中央委员会传单线索（ONGOING / GOAL仍进行）
+
+本次重读AGENTS、goal-continuity、stage-access及正式source-register、claim-ledger、search-log、coverage-matrix；正式chronology路径为archive/records/chronology.md。claim-ledger.csv仍返回非空blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a、UTF-8正文为空，禁止覆盖和虚构C编号。已直接打开ANRI官方《Inventaris Arsip Delegasi Indonesia 1947–1951》（Sutopo编，ANRI，1995）PDF目录：https://www.anri.go.id/download/ra-13.-delegasi-indonesia-19471951-1720074374 ，目录第569号（网页提取行1368）明确记载1948-07-28「Central Komite Partai Komunis Indonesia tentang siaran Kilat pamplet」，一页、asli（原件）；第18号为1948-04-05 Rasuna Said就印荷谈判提出质询的答复草稿三页，第27号为1948-08-20至09-03国防部关于建立Counter Intelligence Board的会议记录五页（salinan）。这三项是同一官方目录的不同馆藏描述，尚未读取原卷，不能推定传单具体主张或与Delanggu罢工直接相关。尤其须避免将7月28日PKI中央委员会传单与6—7月Delanggu组织行动未经证据直接连成决策链。
+
+交叉核对Elizabeth Ann Swift《The Road to Madiun》可见全文：https://dokumen.pub/the-road-to-madiun-the-indonesian-communist-uprising-of-1948-0877630356-9780877630357.html ，其书中记述7月9、10、13日Delanggu的SARBUPRI/STII及Pesindo/Hizbullah冲突、7月14日哈达与SOBSI领导人谈判、17日前罢工停止。此为后世学术研究叙述而非现场原件，日期与既有其他研究7月16日政府宣布、18日复工并非必然矛盾，须分别验证“协议/停工/复工”。
+
+本次新发现尚未正式登记S/Q/CV，原因是正式表完整内容去重和多文件一致写入未完成；不得把这条续接笔记当作正式来源注册。中文历史正文和chronology亦未据目录直接新增已发生的政治行动。
+
+**精准未完**：①申请ANRI Delegasi Indonesia卷宗569号一页PKI中央委员会传单原件，转录印尼文全文、署名、印章、收文日期，查是否涉及Delanggu或其他议题；②申请同系列18号Rasuna Said质询及27号Counter Intelligence Board记录，确认政治/安全机关职权与时间；③取得ANRI警察1215号1948-07-01 Delanggu报告、劳动部91号1948-06-14—19 LBT要求及1948-07-19《Merdeka》第785号第2页，逐日核对冲突与和解；④修复claim-ledger读取并完整去重后再安全并入正式四CSV与chronology；⑤轮换1965年Aceh军方原始文件、Moncongloe政治犯、1998年后地方工会档案，成熟时写入中文连续历史正文。GOAL保持ACTIVE/OPEN-ENDED。
