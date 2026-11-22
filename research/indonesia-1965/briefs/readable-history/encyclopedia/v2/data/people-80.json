@@ -1,1 +1,95 @@
-[{"id":"P-van-roijen","group":"people","path":"people/person-van-roijen.html","source_path":"people/person-van-roijen.html","title":"范罗延（Jan Herman van Roijen）","name":"范罗延（Jan Herman van Roijen）","aliases":["Jan Herman van Roijen"],"summary":"扬·赫尔曼·范罗延（Jan Herman van Roijen）是1949年印尼共和国与荷兰谈判中的荷方重要代表。1948年12月荷兰军队对共和国发动第二次军事行动，虽然控制了日惹并拘押政府领导人，却难以彻底消灭共和国的游击力量和国际合法性。这使通过联合国主持谈判逐步成为重要选择。","period":"待标准化","status":"imported","review_level":"medium_unreviewed","paragraphs":5,"headings":6,"reference_links":2,"related":["people/person-roem.html","people/person-hatta.html","events/event-diplomacy-revolution.html"],"issues":[]},{"id":"P-widodo","group":"people","path":"people/person-widodo.html","source_path":"people/person-widodo.html","title":"佐科·维多多（Joko Widodo）","name":"佐科·维多多（Joko Widodo）","aliases":["Joko Widodo"],"summary":"佐科·维多多（Joko Widodo）是2014—2024年印度尼西亚总统。2023年1月，他代表政府承认包括1965—1966年事件在内的十二类严重人权侵害；随后政府发布跨部门非司法处理指示，承认、救济执行和刑事追责仍是不同程序。","period":"待标准化","status":"imported","review_level":"brief_unreviewed","paragraphs":3,"headings":3,"reference_links":0,"related":["events/event-recognition.html"],"issues":[]},{"id":"P-winata","group":"people","path":"people/person-winata.html","source_path":"people/person-winata.html","title":"维纳塔（Winata）：三叉戟行动中的抓捕、1977年审判及1990年获释","name":"维纳塔（Winata）：三叉戟行动中的抓捕、1977年审判及1990年获释","aliases":["Winata"],"summary":"Hearman在2010年研究第71页记载Winata于 1968年Trisula行动期间被捕 。当时东爪哇军队进入南勿里达山区，搜寻地下共产党网络并进行村庄管控。被抓并不自动等于已经经过法庭判罪，也不能凭一次军方行动判断他在某项组织中的具体职务。","period":"待标准化","status":"imported","review_level":"medium_unreviewed","paragraphs":4,"headings":5,"reference_links":1,"related":["events/event-trisula-1968.html","regions/south-blitar.html","people/person-rewang.html"],"issues":[]},{"id":"P-yamin","group":"people","path":"people/person-yamin.html","source_path":"people/person-yamin.html","title":"穆罕默德·亚明（Mohammad Yamin）","name":"穆罕默德·亚明（Mohammad Yamin）","aliases":["Mohammad Yamin"],"summary":"穆罕默德·亚明是民族主义政治家、作家和宪制思想参与者。七三事件中，他起草了递交苏加诺的政府改组方案；他提出的制度构想与当时总统、内阁和军队之间的权限冲突相连。","period":"待标准化","status":"imported","review_level":"brief_unreviewed","paragraphs":3,"headings":3,"reference_links":0,"related":["events/event-three-july.html"],"issues":[]}]
+[
+  {
+    "id": "P-van-roijen",
+    "group": "people",
+    "path": "people/person-van-roijen.html",
+    "source_path": "people/person-van-roijen.html",
+    "title": "范罗延（Jan Herman van Roijen）",
+    "name": "范罗延（Jan Herman van Roijen）",
+    "aliases": [
+      "Jan Herman van Roijen"
+    ],
+    "summary": "扬·赫尔曼·范罗延（Jan Herman van Roijen）是1949年印尼共和国与荷兰谈判中的荷方重要代表。1948年12月荷兰军队对共和国发动第二次军事行动，虽然控制了日惹并拘押政府领导人，却难以彻底消灭共和国的游击力量和国际合法性。这使通过联合国主持谈判逐步成为重要选择。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "medium_unreviewed",
+    "paragraphs": 5,
+    "headings": 6,
+    "reference_links": 2,
+    "related": [
+      "people/person-roem.html",
+      "people/person-hatta.html",
+      "events/event-diplomacy-revolution.html"
+    ],
+    "issues": []
+  },
+  {
+    "id": "P-widodo",
+    "group": "people",
+    "path": "people/person-widodo.html",
+    "source_path": "people/person-widodo.html",
+    "title": "佐科·维多多（Joko Widodo）",
+    "name": "佐科·维多多（Joko Widodo）",
+    "aliases": [
+      "Joko Widodo"
+    ],
+    "summary": "佐科·维多多（Joko Widodo）是2014—2024年印度尼西亚总统。2023年1月，他代表政府承认包括1965—1966年事件在内的十二类严重人权侵害；随后政府发布跨部门非司法处理指示，承认、救济执行和刑事追责仍是不同程序。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "brief_unreviewed",
+    "paragraphs": 3,
+    "headings": 3,
+    "reference_links": 0,
+    "related": [
+      "events/event-recognition.html"
+    ],
+    "issues": []
+  },
+  {
+    "id": "P-winata",
+    "group": "people",
+    "path": "people/person-winata.html",
+    "source_path": "people/person-winata.html",
+    "title": "维纳塔（Winata）：三叉戟行动中的抓捕、1977年审判及1990年获释",
+    "name": "维纳塔（Winata）：三叉戟行动中的抓捕、1977年审判及1990年获释",
+    "aliases": [
+      "Winata"
+    ],
+    "summary": "Hearman在2010年研究第71页记载Winata于 1968年Trisula行动期间被捕 。当时东爪哇军队进入南勿里达山区，搜寻地下共产党网络并进行村庄管控。被抓并不自动等于已经经过法庭判罪，也不能凭一次军方行动判断他在某项组织中的具体职务。",
+    "period": "待标准化",
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 12,
+    "headings": 7,
+    "reference_links": 2,
+    "related": [
+      "events/event-trisula-1968.html",
+      "regions/south-blitar.html",
+      "people/person-rewang.html"
+    ],
+    "issues": [],
+    "source_complete": false
+  },
+  {
+    "id": "P-yamin",
+    "group": "people",
+    "path": "people/person-yamin.html",
+    "source_path": "people/person-yamin.html",
+    "title": "穆罕默德·亚明（Mohammad Yamin）",
+    "name": "穆罕默德·亚明（Mohammad Yamin）",
+    "aliases": [
+      "Mohammad Yamin"
+    ],
+    "summary": "穆罕默德·亚明是民族主义政治家、作家和宪制思想参与者。七三事件中，他起草了递交苏加诺的政府改组方案；他提出的制度构想与当时总统、内阁和军队之间的权限冲突相连。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "brief_unreviewed",
+    "paragraphs": 3,
+    "headings": 3,
+    "reference_links": 0,
+    "related": [
+      "events/event-three-july.html"
+    ],
+    "issues": []
+  }
+]
