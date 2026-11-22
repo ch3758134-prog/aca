@@ -1,0 +1,129 @@
+{
+  "basis": "6d7650b83c062a06a9840e7c62bd1988dd8d035b",
+  "range": [
+    12,
+    23
+  ],
+  "records": [
+    {
+      "path": "events/event-foreign-1965.html",
+      "length": 1492,
+      "searchLength": 1492,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 7
+    },
+    {
+      "path": "events/event-foreign-channels.html",
+      "length": 1022,
+      "searchLength": 1022,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "events/event-formation.html",
+      "length": 1721,
+      "searchLength": 1721,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-guided.html",
+      "length": 1580,
+      "searchLength": 1580,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 6
+    },
+    {
+      "path": "events/event-komnas.html",
+      "length": 971,
+      "searchLength": 971,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-konfrontasi.html",
+      "length": 1191,
+      "searchLength": 1191,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "events/event-labor-revolution.html",
+      "length": 1070,
+      "searchLength": 1070,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-land-court.html",
+      "length": 1414,
+      "searchLength": 1414,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "events/event-land.html",
+      "length": 1173,
+      "searchLength": 1173,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "events/event-landafter.html",
+      "length": 1300,
+      "searchLength": 1300,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 5
+    },
+    {
+      "path": "events/event-madiun.html",
+      "length": 1132,
+      "searchLength": 1132,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 1
+    },
+    {
+      "path": "events/event-malari-nkk.html",
+      "length": 1040,
+      "searchLength": 1040,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 1
+    }
+  ]
+}
