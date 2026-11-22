@@ -1181,3 +1181,11 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 按正式来源表URL查重后拟并库S1524、S1525，Q587、CV657及chronology两个有证据等级标注的条目；本轮写入回执：source-register.csv=ef59ed7e7bd5e43d7768f61090aa68d0d04433f3; search-log.csv=525383d3b960ff46ea40d428acfa4db74d1fee49; coverage-matrix.csv=c1db9ea77aa3ebd3eabbb4fcaa65bf777de3bce7; chronology.md=826f5d23a74629b9dcb0914fc2e68d3ffd839048。claim-ledger.csv blob=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，但正文读取为空，**未写入或虚构C编号**。此处记录的是已提交文件的SHA；当前状态文件提交自身SHA须以写入回执和远程HEAD独立回读确定，无法自引用预填。
 
 **精准未完事项**：（1）取得1963《Api Kartini》Ratna文原刊1—2页及刊期，逐字校对60学员与3000人；（2）找1963年东爪哇地方报刊、请愿收件及SOBSI工会档案，核具体日期、参与者和行动；（3）调取1964 TAVIP总统讲话原件并与节录比对，另核土地改革法庭设立及UUPA/UUPBH县级执行；（4）排查claim-ledger空正文原因，必须安全读取原始数据后再补C编号；（5）转查1965 Aceh Kodim-0104命令、1977 Moncongloe SPRIN/802、1990年代SBSI/PRD人员组织链，成熟后写入中文连续历史正文，不建立列表式旧HTML。GOAL永久OPEN。
+
+## 2026-11-22 11:54 CST｜ONGOING / GOAL仍进行｜Gerwani 1964年家务妇女研讨会原刊与目录年份反证
+
+本次读取AGENTS、goal-continuity、stage-access、统一状态和正式四表/chronology；claim-ledger.csv仍为非空blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但正文为空，未写入C编号。直接打开《Api Kartini》36页扫描PDF（https://pustaka.taratsa.id/files/1392/pdf/1776742781-25482708/9a7ed2b1b812ecf0985607c562220b41/Api%20Kartini%20%281963%29%20No.%2011-12%20-%20Majalah%20Api%20Kartini.pdf），核对卷首、目录、正文及研讨会照片。**发现关键目录反证**：站点文件名标为1963年第11—12期，但该期社论提及1964年11月10日英雄日，研讨会照片明确写1964年11月4—6日雅加达。故不能把整期误归1963年；暂按内部证据标注1964年11—12月并保留版本歧义。第2页记载Gerwani中央组织家庭妇女全国研讨会、Suharti Suwarto作报告、来自20个省级区域的代表；这证明当时刊物如何自述组织活动，**不是独立核实出席人数和会议决议执行**。刊物将家务妇女与工人妇女、农民妇女区别界定，有助于理解Gerwani群众组织扩展策略；不由此推断与PKI的直接命令关系。
+
+正式写入：S1526、Q588、CV658和chronology 1964-11-04—06条目。写入回执依次为34045187f55a38c89a8e05a38301c31a2f43b733、b4cdef04395945048e9902a4c862b95eee76e1d8、625aebfe279aa559208a8b212784ab3cbc3b9881、442148464fd0d1b4a373e0d4048f36ba750109cc。**最近已确认的提交SHA（状态文件写入前）**：442148464fd0d1b4a373e0d4048f36ba750109cc；状态文件自身提交SHA须以写入回执及独立HEAD核验为准，不能在同一Git提交自引用。
+
+**精确未完事项**：（1）比对1963与1964两年11—12月《Api Kartini》原封面/馆藏目录及出版许可，解决扫描文件名年份误标；（2）核1964-11-04—06 Gerwani研讨会原始会议记录、Suharti Suwarto报告和20省级区域代表名单；（3）检索同期Perwari、Muslimat NU及雅加达报刊对该会议的独立报道，核组织互动与反证；（4）以同一期第23页女工权利、第26页女农民运动报道追查具体厂区/村庄组织、法律执行及SOBSI/BTI联系；（5）继续轮换1965 Aceh Kodim-0104军令、1977 Moncongloe SPRIN/802、1990年代SBSI/PRD、1998后工会登记与诉讼；修复claim-ledger原始字节读取后再正式补C编号，成熟叙事再写入readable-history。GOAL永久OPEN。
