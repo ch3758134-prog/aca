@@ -1323,3 +1323,18 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 本次新发现尚未正式登记S/Q/CV，原因是正式表完整内容去重和多文件一致写入未完成；不得把这条续接笔记当作正式来源注册。中文历史正文和chronology亦未据目录直接新增已发生的政治行动。
 
 **精准未完**：①申请ANRI Delegasi Indonesia卷宗569号一页PKI中央委员会传单原件，转录印尼文全文、署名、印章、收文日期，查是否涉及Delanggu或其他议题；②申请同系列18号Rasuna Said质询及27号Counter Intelligence Board记录，确认政治/安全机关职权与时间；③取得ANRI警察1215号1948-07-01 Delanggu报告、劳动部91号1948-06-14—19 LBT要求及1948-07-19《Merdeka》第785号第2页，逐日核对冲突与和解；④修复claim-ledger读取并完整去重后再安全并入正式四CSV与chronology；⑤轮换1965年Aceh军方原始文件、Moncongloe政治犯、1998年后地方工会档案，成熟时写入中文连续历史正文。GOAL保持ACTIVE/OPEN-ENDED。
+
+
+## 2026-11-22｜巴厘Sutedja原刊全文核读与日期矛盾（ONGOING / GOAL仍进行）
+
+本轮重新核读AGENTS、goal-continuity、stage-access、正式四张CSV与chronology（实际目录均为archive/records/）；claim-ledger.csv仍返回非空blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但正文长度0，严禁覆盖或虚构C编号。核对正式source-register已含S1531《A.A.B. Sutedja File》期刊网页，但其记录明确尚未阅读PDF。**本次实际打开该文2013年原刊PDF全文**：https://ojs.unud.ac.id/index.php/kajianbali/article/download/15698/10480/ ，印刷115—138页，重点127、129—132页。故应更新S1531访问等级，而不是新建重复来源。
+
+**巴厘地方军政链：** 论文第127页脚注12引述私人档案中的1965-11-03 Pepelrada决定KEP-PPD.2/1/234，涉及暂时冻结PKI及其群众组织活动，并把执行/监督交予Pangdam XV Udayana；这是研究者对私人档案的引用，**尚未直接核到决定原影印、签名和传达记录**。第127页记1965-12-02 Jembrana Puri Negara宅邸遭袭、六名家族成员遭绑架杀害（含Pemuda Rakyat Jembrana负责人A.A.N. Denia）；须用地方死亡簿、警察记录和独立证言核实人数、身份及执行者。第130页据私人档案和访谈叙述1965-12-10苏加诺会见Sutedja，1965-12-18 Keppres 380/1965暂派Sutedja至雅加达、由I Gusti Putu Merta代理省长、I Gusti Ngurah Pindha任副省长；仍未核到Keppres原件。第130—131页记1966-07-29上午08:30，四名穿军服者用灰色Jeep（文中车牌04-88145）带走Sutedja，家人追查Skogar、Kodim 003和Pepelrada未果；**身份、命令、去向和死亡均未由独立机关档案确认**。
+
+**重大内部反证：** 同一论文第131页脚注19及第136页参考文献将《Laporan tertulis atas penculikan A.A.B. Sutedja》标为**1966-07-26**，却在正文第130页将绑架发生日写作**1966-07-29**。一份26日的事后报告不可能直接记载29日的既成绑架，除非日期误植、文书另有性质或存在不同事件日期。**不得直接把两日期拼接为已核定时间线**；须取得该报告原件页眉、落款、收文戳，核论文作者或家属访谈以及独立报刊。期刊网页元数据“2026-05-22 Published”与原刊PDF“2013年4月第三卷第一期”不一致；出版年按原刊，网页日期视迁站/上架元数据待查。另一2019年Wijaya论文（https://journal.ugm.ac.id/ikat/article/view/40708/0）摘要只宽泛称1965或1966失踪，不能独立解决日级矛盾。
+
+**来源层级与正文限制：** 此次为2013年研究论文**全文直接核读**，并非1965/1966政府原件直接核读。关于Tameng、跨村banjar行动及军方参与的说法来自论文综合的访谈和既有研究；不以单一叙述推断具体凶手或把人数估计当逐人名册。成熟中文正文可在取得原决定/访谈交叉核验后融入巴厘省政权与地方社会暴力连续章节；本次未创建旧列表式HTML。
+
+**精确下一步：** 1. 向Puri Negara/Jembrana索1966-07-26《Laporan tertulis》原影印并核日期、收文戳和实际绑架日期；2. 索1965-11-03 KEP-PPD.2/1/234与1965-12-18 Keppres 380/1965全文，查签发机关、执行链；3. 查1965-12-02 Jembrana事件的地方死亡簿/警方及Tameng、PNI、Pemuda Rakyat多方证言，逐人去重；4. 核1966-07-29 Skogar/Kodim 003/驻军出入记录、车辆登记及家属同期报告，避免凭后世访谈定罪；5. 轮换ANRI 1948 Delanggu第91/1215/569卷及1965 Aceh军区原件、1970—1998劳工/政治犯和1998后组织制度链。
+
+写入前独立查询仓库最新提交为55545257e22e83e2ae2e78b869e22d3acd560d86；该SHA仅为写入前核验基线。**本次写入所产生的提交SHA需以GitHub返回值及后续独立远程HEAD查询为准，不能在同一提交正文预写自己的SHA。** GOAL永久ACTIVE / OPEN-ENDED。
