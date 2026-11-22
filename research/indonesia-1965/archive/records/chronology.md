@@ -2139,3 +2139,5 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 - **1947-04-15**：印尼国家档案馆ANRI《1946—1950年劳动与社会事务部文字档案目录》第74号条目记有PKI工作纲领，附CCPKI于4月15日的送文函，目录称两页。此处仅证实馆藏目录记载，不证明纲领内容或党内决策。[S1529] https://anri.go.id/download/inventaris-arsip-tekstual-kementerian-perburuhan-dan-sosial-19461950-1633328851
 - **1948-06-14—19，Delanggu**：同一官方目录第91号条目明确列出一卷关于LBT（Lembaga Buruh Tani，工农机构）提出要求的文件，时间范围6月14—19日，计一文件夹。与Suyatno 1989年研究所述6月14日提出要求及6月17—19日谈判时间相符，**但目录不是函件/会议记录原件，不能独立证明要求具体内容、七支部代表身份或谈判结果**。必须取得第91卷原件与1948年7月19日《Merdeka》第785号第2页。[S1529] 同上URL。
 
+### 1948-04-01—07-01｜Delanggu工农运动同期警察与新闻卷宗新定位（仅目录级）
+- ANRI《Kepolisian Negara RI 1947–1949》1995年官方目录第1201号列1948-04-01 BTI诉求传单，第1205号列04-24《Buruh》关于Solo罢工与SOBSI复工指示的摘录，第1211号列05-22/25《Patriot》《Buruh》有关警察调动的报刊摘录；第569号为1948年2月至10月PAM关于SOBSI的往来函件；**第1215号**为Delanggu新闻局1948-07-01关于当地事件的一页报告副本。这些是对1948年6月LBT诉求（劳动部目录第91号）和7月和解报道可作交叉核验的不同机关档案路径。尚未阅读任何单件原文，不能断言其具体立场或事件结论。[S1530] https://www.anri.go.id/download/ra-26.-inventaris-arsip-tekstual-sekretariat-negara-kepolisian-negara-ri-19471949-1714018366
