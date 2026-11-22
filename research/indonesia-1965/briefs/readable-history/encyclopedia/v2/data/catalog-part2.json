@@ -1119,15 +1119,16 @@
     "aliases": [],
     "summary": "1926年11月爪哇部分地区发生与共产党联系的武装起事；1927年初西苏门答腊也出现行动。地方政治和宗教网络、工会关系、殖民警察侦察能力及指挥方式不同，两地不能被当作严格同步的统一计划。",
     "period": "待标准化",
-    "status": "imported",
-    "review_level": "medium_unreviewed",
-    "paragraphs": 8,
-    "headings": 6,
-    "reference_links": 0,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 14,
+    "headings": 8,
+    "reference_links": 5,
     "related": [
       "events/event-bovendigoel.html"
     ],
-    "issues": []
+    "issues": [],
+    "source_complete": false
   },
   {
     "id": "E-victim-protection-2026",
