@@ -1,0 +1,129 @@
+{
+  "basis": "512a32a17dd0b4e5998aba0c5bd5260d1d3ea8fb",
+  "range": [
+    156,
+    167
+  ],
+  "records": [
+    {
+      "path": "people/person-tan-malaka.html",
+      "length": 1666,
+      "searchLength": 0,
+      "ratio": 0,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 5
+    },
+    {
+      "path": "people/person-tendean.html",
+      "length": 1767,
+      "searchLength": 1767,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 5
+    },
+    {
+      "path": "people/person-thamrin.html",
+      "length": 1210,
+      "searchLength": 734,
+      "ratio": 0.607,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "people/person-tjokroaminoto.html",
+      "length": 1624,
+      "searchLength": 1624,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 5
+    },
+    {
+      "path": "people/person-tuti-gerwani.html",
+      "length": 1559,
+      "searchLength": 1559,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 1
+    },
+    {
+      "path": "people/person-untung.html",
+      "length": 1719,
+      "searchLength": 1690,
+      "ratio": 0.983,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-van-roijen.html",
+      "length": 1919,
+      "searchLength": 1919,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 9
+    },
+    {
+      "path": "people/person-widodo.html",
+      "length": 956,
+      "searchLength": 956,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "people/person-winata.html",
+      "length": 1747,
+      "searchLength": 1747,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-yamin.html",
+      "length": 842,
+      "searchLength": 842,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "regions/aceh.html",
+      "length": 3885,
+      "searchLength": 3856,
+      "ratio": 0.993,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "regions/bali.html",
+      "length": 1589,
+      "searchLength": 1560,
+      "ratio": 0.982,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 5
+    }
+  ]
+}
