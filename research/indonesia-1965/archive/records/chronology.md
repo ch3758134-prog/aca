@@ -2130,3 +2130,7 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 
 ### 1965-10-28—29 / 1965-11-01｜Palembang（南苏门答腊）炼厂工会拘捕——原始电报地名纠错
 - **1965-10-28—29**，美国使馆劳工专员访问南苏门答腊Palembang；**11月1日**美国使馆第1290号电报转述当地据报约600人被拘押，Stanvac约30名印尼雇员（含PERBUM干部）、Shell Pladju/Prabumulih另24名PERBUM成员及PUSRI约15名SOBSI干部被捕。数目可能重叠，不能加总，不能解释为死亡数字。电报还记录Ibnu Sutowo考虑转移至少1000名Stanvac员工的计划，尚不能证明实施。**原电报正文写明Palembang/South Sumatra；美国国家安全档案馆介绍页误概括为North Sumatra，不能将该批人员归入Medan。** 原始文件OCR全文 https://nsarchive.gwu.edu/media/15705/ocr ，馆藏RG84 Entry P339 Box14 Folder4；需扫描校读及地方逮捕名册核实。此条是待统一时间排序的滚动补记。
+
+
+### 1968年5—7月｜南勿里达Trisula行动日期冲突（待统一排序）
+印尼文化部历史百科记1968-07-03派Witarmin执行行动（https://esi.kemenbud.go.id/wiki/Peristiwa_Blitar_Selatan）；2022年地方报道转述1968-05-18指挥部成立、06-01正式行动及空军史所载06-06空中分队组建（https://www.detik.com/jatim/budaya/d-6322333/sejarah-pki-di-blitar-selatan-pemberontakan-penumpasan-dan-rekonsiliasi）。上述不是已核读军令，不能将不同日期合并或任选一个作为无争议开战日。应索PRINOP 01/02/1968、02/05/1968、空军命令及行动日志，区分准备、实施与后续指挥。关联长期缺口总账G6/G4，GOAL OPEN。
