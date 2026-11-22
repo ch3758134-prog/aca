@@ -1338,3 +1338,11 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精确下一步：** 1. 向Puri Negara/Jembrana索1966-07-26《Laporan tertulis》原影印并核日期、收文戳和实际绑架日期；2. 索1965-11-03 KEP-PPD.2/1/234与1965-12-18 Keppres 380/1965全文，查签发机关、执行链；3. 查1965-12-02 Jembrana事件的地方死亡簿/警方及Tameng、PNI、Pemuda Rakyat多方证言，逐人去重；4. 核1966-07-29 Skogar/Kodim 003/驻军出入记录、车辆登记及家属同期报告，避免凭后世访谈定罪；5. 轮换ANRI 1948 Delanggu第91/1215/569卷及1965 Aceh军区原件、1970—1998劳工/政治犯和1998后组织制度链。
 
 写入前独立查询仓库最新提交为55545257e22e83e2ae2e78b869e22d3acd560d86；该SHA仅为写入前核验基线。**本次写入所产生的提交SHA需以GitHub返回值及后续独立远程HEAD查询为准，不能在同一提交正文预写自己的SHA。** GOAL永久ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-22｜ONGOING / GOAL仍进行｜西加里曼丹1967与巴厘1966交替续查
+已完整读取2026-11-09 G1—G10审计、AGENTS、stage-access、goal-continuity、正式source-register/search-log/coverage-matrix及chronology。claim-ledger.csv仍为非空blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a却返回空UTF-8正文；禁止覆盖和分配C编号。research-status.md尚未确认存在。正式来源去重：西加里曼丹书S383、Matsumura论文S453，S831重复S453，不能另算一证。当前巴厘S1531已由前次状态记录全文核读但source-register访问字段未升级。
+
+**本次核验：** 直接打开S383的2012年KITLV全书（LOC镜像）印刷137—145页，确证作者明确援引1967年西加里曼丹省长办公室难民报告及A.J. Witono 1967-11-17《Maklumat》私人收藏，得到10月5—7日Tepo早期焚掠、10月18日Bengkayang约千人避难、10月19日Samalantan红碗、11月9日Usman Idris返乡指令及11月17日军方停止示威令的**学术转引时间链**；原始文书仍未取得。作者引述249死亡/约60000难民为官方口径，不是逐人核定。S383与S453在“中央预谋”解释上存在实质分歧，不能用共有参考资料充当独立佐证。详情已入global-gap-tracker和chronology。两次正式提交：缺口总账 3a4e3fb42c94b2b99e82e1b63e8fed202f3ca14a；时间线 c53dcced13139acc078df3cd00c0bc3dc9d57757。正式CSV此次未新增，未声称已并库。
+
+**精确下一动作：** ①索Pontianak省长办公室1967年《Pengungsian orang2 Tjina》原卷及其分县死亡/避难名册；②索Witono 1967-11-17《Maklumat》签字影印与《Pembangunan》11月9日、21日原报；③对照巴厘Puri Negara 1966-07-26绑架报告原件与1966-07-29叙事日期，并追1965-11-03 KEP-PPD.2/1/234；④安全修复claim-ledger读取及S1531访问字段，正式检索/覆盖表去重更新；⑤转向G1 Delanggu 1948 ANRI卷宗1215/91与G7县级工会登记，成熟时接入中文连续历史正文。G1—G10仍OPEN，GOAL未完成。
