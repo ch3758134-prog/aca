@@ -1146,3 +1146,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 
 
 **2026-11-22 07:48 CST 并库回执与 HEAD 接力：** 本轮已写入正式 search-log `Q586`（commit `3abece3b6ce388192b6fb6a0a24734c76b7ee938`）、coverage-matrix `CV656`（commit `8fe2520d1ef4d6e559fc0d8c2964bac38d639d98`）、chronology 2026-11-11条目（commit `bb4537f9e056c787738221886859c4ad9bfca08d`）；状态首次核验提交 `b8b35708a84e3b668c3a80b034ce6ad237934d7c`。**本次独立读取 GitHub branches/main 时 HEAD=`bb4537f9e056c787738221886859c4ad9bfca08d`，与时间线提交一致。** 本条状态补记提交会产生更新的 HEAD，最终以补记回执及下一轮 branch HEAD 回读为准。正式source-register未增加S编号（此前已在状态中发现相同原件，需语义去重），claim-ledger读取故障仍未解决，中文连续正文尚未更新。下轮先处理原件876/2025及四案判决并完成正式S/C去重，再继续1965地方军政证据链。GOAL保持OPEN。
+
+
+## 2026-11-22｜ONGOING / GOAL仍进行｜2026西爪哇行业最低工资决定原件复核
+
+本轮重新读取AGENTS、goal-continuity、stage-access、统一续接状态；正式source-register、search-log、coverage-matrix、chronology实际位于archive/records/而非项目根目录。claim-ledger.csv仍返回非空blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a、空正文，禁止覆盖或虚构C编号。当前仅完成原件交叉核验和状态续接，未完成正式四表、chronology及成熟中文正文并库。
+
+**官方原件直接打开**：西爪哇省政府电子签章文件《Keputusan Gubernur Jawa Barat Nomor 561.7/Kep.675-Kesra/2026》，2026-11-11，https://jdih.jabarprov.go.id/page/eksekusi_download/32/2026KEPGUB32675.pdf 。正文“Menimbang c”明确列出四项雅加达行政上诉法院判决174/B/2026/PT.TUN JKT、196/B/2026/PT.TUN JKT、205/B/2026/PT.TUN JKT、211/B/2026/PT.TUN JKT；“KESATU”明确撤销的是561.7/Kep.876-Kesra/2025号，而非863/2025号；“KEEMPAT”规定无力支付时可由企业与工人/企业工会双边书面谈判并向省劳动机关报告；文件签署并生效日期11月11日。附件按地区和KBLI产业代码分组，Bekasi市有多组行业金额，不能把单一数字推断为所有工厂适用标准，更不能在厂址、KBLI未核实前应用到PT Dharma Precision Parts。上述只能证明规范文本，不能证明企业执行、诉讼实际结果或劳动者获得工资。
+
+**访问等级及反证**：675号PDF全文直接打开；四项法院判决、876/2025决定、企业集体协议、工资支付记录尚未取得。该PDF同一附件中部分合并单元格和空白金额应按原页影像复核，不以自动解析的表格空白推断无最低工资。对比863/2025与876/2025的法律关系仍OPEN。不得把法院判决案号的引用视作判决全文核验。
+
+**精准续接事项**：（1）从西爪哇JDIH取得876/2025和863/2025两份决定全文及附表，核撤销和修订链；（2）逐件获取雅加达PTTUN四案174、196、205、211/B/2026判决全文，辨认原告、请求、主文和执行义务；（3）按Bekasi市/县及KBLI核675号附件产业金额，取得Dharma Precision Parts厂址和企业KBLI及集体协议，禁止错配；（4）按正式source-register/search-log/coverage-matrix全表去重后追加正式ID，恢复claim-ledger原字节读取，再更新chronology及连续中文正文；（5）轮换1965年Aceh军区命令、Moncongloe拘押命令及1950—1965 SOBSI/BTI/Gerwani基层组织原件。
+
+**Git治理**：本次续接文件写入前blob=2dd40e63be2ada217960e1257937352923a1b936；写入后的commit SHA以GitHub回执和远程核验为准，不能在同一自引用提交中预填最终SHA。GOAL持续ACTIVE/OPEN-ENDED。
