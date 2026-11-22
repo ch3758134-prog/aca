@@ -522,3 +522,17 @@
 **G4/G5（北苏门答腊，1965-10-14，SOBSI）：** 直接核对Komnas HAM 2012年调查摘要印尼语公开PDF中Belawan/Medan段落（报告转述证人陈述），记载1965年10月14日前后Belawan港搜查、书籍被没收，SOBSI位于Jalan Medan Binjai的办公室遭焚，以及证词指称SOBSI主席**Sakir Sobo**与两名守卫被杀。报告脚注指向BAP 248/BAP_TPPH 65/II/2008和064/BAP_TPPH 65/VIN/2008（以原PDF字形为准，须复核）。https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf 。证据等级A仅指已可访问委员会调查摘要，**并非证人原始笔录、火灾勘验、死亡登记或军方行动命令**；事件细节须保持“委员会所记录证词称”。待查：Sakir Sobo身份/职务的同期工会刊物、两名守卫姓名、1965年10月当地军警记录与BAP原件。不得将该事件与其他城市SOBSI办公室受袭混为一事。
 
 **跨G项续接：** 先索取ANRI BTI 1947—1965目录的具体卷号并读取原件；同时核对北苏门答腊BAP原件与地方报纸；轮换G1 1948 GASBRI档案493及G4 Aceh县级处分文书，防止长期仅停留于一地。G1—G10继续OPEN。正式CSV/chronology/中文正文尚未据此更新；不把这些登记线索视为全面完成。
+
+
+## 2026-11-22 续查｜G4/G6/G9：国家人权委员会馆藏的跨地区、流亡者线索（ONGOING）
+
+已按要求重读 `archive/records/completeness-audit-2026-11-09.md` 全部 G1—G10。此次交叉追查此前 G4 地理失衡与 G6 流亡链，所列材料**均为机构馆藏目录/书目（C级），不是原书或原始行政卷宗全文**，不得作为其叙述事实的独立证明。
+
+- **G4/G9 东部岛屿、宗教关系：** Komnas HAM 官方图书馆主题检索页列 Steven Farram 与 R.A.F. Paul Webb 的《Di-PKI-kan: tragedi 1965 dan kaum Nasrani di Indonesia Timur》。访问：官方书目列表，未打开书内正文。用途：寻找东印尼基督徒社群与1965指控的地方个案；下一步核对该书章节目录、地方教会文件、当时军警文书、受害者身份与地名，不能从书名推断基督徒社群统一政治立场。https://perpustakaan.komnasham.go.id/opackomnas/index.php?search=Search&subject=%22Peristiwa+1965%2F1966%22
+- **G6/G8/G9 流亡与国家身份：** Komnas HAM 官方书目登记 Waloejo Sedjati《Bumi Tuhan: Orang Buangan di Pyongyang, Moskwa, dan Paris (1960-2013)》，目录简介称其为1965年在平壤留学的印尼学生、后来护照被撤销而无法返国。这只是**出版社/馆藏简介所载个人经历主张**，尚非直接核实护照撤销文件、使馆往来或本人全文回忆；不可将其个人经历代表全部海外PKI派别。下一步获取书内原文和具体撤照时间、主管机关、旅居地移转记录，交叉查外交部档案。https://perpustakaan.komnasham.go.id/opackomnas/index.php?id=11440&p=show_detail
+- **G4/G6 地区档案可及性：** Komnas HAM 官方书目《Malam Bencana 1965 ... Bagian III》登记实体副本分别在Aceh、西苏门答腊、西加里曼丹、中苏拉威西、Maluku、Papua办事处及中央馆。此为**馆藏所在地**，不是这些省份均有该书所载原始个案的证明；须核目录、引用脚注和各地可申请复印范围。https://perpustakaan.komnasham.go.id/opackomnas/index.php?id=11048&keywords=&p=show_detail
+- **G5/G7 制度记忆：** Komnas HAM 官方研究导航页将2014年《Peristiwa 1965-1966 - Ringkasan Eksekutif Laporan Penyelidikan Pelanggaran HAM yang Berat》列为馆藏，并列2016—2018和解、调查及受害者权利相关出版入口。仅确认目录与索引，不能由此推定司法追责或赔偿已经实施。https://perpustakaan.komnasham.go.id/pustakawan/index.php/pathfinder/detail/15
+
+**来源去重与正式归档阻碍：** 本次已读取项目规则、G1—G10审计、连续状态及缺口总账；尝试从 `research/indonesia-1965/` 根路径读取五个正式CSV及chronology均404，尚未定位真实路径，故未分配任何S/C/Q/CV编号，也未虚构已完成CSV并库。正式时间线、研究状态、中文可读历史未更新。下一次优先查GitHub树真实路径；逐条检查上述书目是否已登记，避免重复。上述四项仅作馆藏检索和后续取证入口，不将目录升格为原件。
+
+**持续研究位置：** 沿Waloejo Sedjati个人护照与外交部文书链深挖G6/G8；跨项优先东印尼地方教会、军警与村级记录G4/G5；并持续推进前次BTI原刊与Belawan/SOBSI原始笔录G2/G4。G1—G10全部OPEN，GOAL未完成。
