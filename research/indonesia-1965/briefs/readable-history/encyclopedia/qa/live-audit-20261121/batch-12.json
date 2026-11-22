@@ -1,0 +1,129 @@
+{
+  "basis": "dbd61c94b2127662d11158e618e488d88506fb24",
+  "range": [
+    144,
+    155
+  ],
+  "records": [
+    {
+      "path": "people/person-sri-kayati.html",
+      "length": 1814,
+      "searchLength": 0,
+      "ratio": 0,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "people/person-sudarsono.html",
+      "length": 874,
+      "searchLength": 874,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-sudirman.html",
+      "length": 867,
+      "searchLength": 867,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "people/person-sudisman.html",
+      "length": 7036,
+      "searchLength": 7007,
+      "ratio": 0.996,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 6
+    },
+    {
+      "path": "people/person-suharto.html",
+      "length": 2734,
+      "searchLength": 2705,
+      "ratio": 0.989,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "people/person-sukarno.html",
+      "length": 5258,
+      "searchLength": 5229,
+      "ratio": 0.994,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "people/person-sultan-hb-ix.html",
+      "length": 913,
+      "searchLength": 884,
+      "ratio": 0.968,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "people/person-sultan-salahuddin.html",
+      "length": 2331,
+      "searchLength": 2302,
+      "ratio": 0.988,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "people/person-supardjo.html",
+      "length": 1450,
+      "searchLength": 1450,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "people/person-suprapto.html",
+      "length": 1308,
+      "searchLength": 731,
+      "ratio": 0.559,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "people/person-suryo.html",
+      "length": 901,
+      "searchLength": 901,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-sutoyo.html",
+      "length": 1359,
+      "searchLength": 736,
+      "ratio": 0.542,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 5
+    }
+  ]
+}

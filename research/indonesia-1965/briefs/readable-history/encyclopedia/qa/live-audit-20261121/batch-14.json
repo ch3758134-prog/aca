@@ -1,0 +1,109 @@
+{
+  "basis": "d43e56c3b20ce560b44e1e2ffca2f738bc9fc67b",
+  "range": [
+    168,
+    177
+  ],
+  "records": [
+    {
+      "path": "regions/bima-sumbawa.html",
+      "length": 3664,
+      "searchLength": 0,
+      "ratio": 0,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "regions/central-java.html",
+      "length": 2878,
+      "searchLength": 2878,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 6
+    },
+    {
+      "path": "regions/east-java.html",
+      "length": 1709,
+      "searchLength": 1680,
+      "ratio": 0.983,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "regions/flores.html",
+      "length": 2649,
+      "searchLength": 2620,
+      "ratio": 0.989,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "regions/jakarta.html",
+      "length": 2427,
+      "searchLength": 2427,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 6
+    },
+    {
+      "path": "regions/north-sumatra.html",
+      "length": 2883,
+      "searchLength": 2883,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 7
+    },
+    {
+      "path": "regions/sikka-maumere.html",
+      "length": 4277,
+      "searchLength": 4248,
+      "ratio": 0.993,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "regions/south-blitar.html",
+      "length": 4460,
+      "searchLength": 4431,
+      "ratio": 0.993,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 7
+    },
+    {
+      "path": "regions/south-sulawesi.html",
+      "length": 1577,
+      "searchLength": 1548,
+      "ratio": 0.982,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 5
+    },
+    {
+      "path": "regions/west-kalimantan.html",
+      "length": 2386,
+      "searchLength": 2357,
+      "ratio": 0.988,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 5
+    }
+  ]
+}

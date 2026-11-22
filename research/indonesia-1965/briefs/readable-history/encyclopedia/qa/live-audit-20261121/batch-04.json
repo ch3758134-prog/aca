@@ -1,0 +1,129 @@
+{
+  "basis": "49235c773b99addbb6c3295b32f8f0976f0b3bcf",
+  "range": [
+    48,
+    59
+  ],
+  "records": [
+    {
+      "path": "events/event-semaun-hatta-1926.html",
+      "length": 1414,
+      "searchLength": 1385,
+      "ratio": 0.979,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "events/event-shangrila-2000.html",
+      "length": 1697,
+      "searchLength": 1668,
+      "ratio": 0.983,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "events/event-sobsi-1946-1949.html",
+      "length": 1385,
+      "searchLength": 1356,
+      "ratio": 0.979,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-sukarno-dewi-letters.html",
+      "length": 928,
+      "searchLength": 928,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-sukarno-exile.html",
+      "length": 1558,
+      "searchLength": 1529,
+      "ratio": 0.981,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "events/event-supersemar.html",
+      "length": 1374,
+      "searchLength": 1374,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "events/event-surabaya.html",
+      "length": 1443,
+      "searchLength": 1443,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "events/event-surakarta.html",
+      "length": 1436,
+      "searchLength": 1436,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-surveillance.html",
+      "length": 1142,
+      "searchLength": 1142,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-takeover.html",
+      "length": 1006,
+      "searchLength": 1006,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-three-july.html",
+      "length": 1562,
+      "searchLength": 1562,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-trisula-1968.html",
+      "length": 3350,
+      "searchLength": 3321,
+      "ratio": 0.991,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 7
+    }
+  ]
+}

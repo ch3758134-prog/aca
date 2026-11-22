@@ -1,0 +1,136 @@
+{
+  "batch": 12,
+  "base": "f34876f20f8ec132634108e1fcd0219fec05c9a6",
+  "report": [
+    {
+      "path": "organizations/org-baperki.html",
+      "bodyChars": 1862,
+      "paragraphs": 14,
+      "externalLinks": 5,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "organizations/org-bti.html",
+      "bodyChars": 1824,
+      "paragraphs": 13,
+      "externalLinks": 7,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "organizations/org-gerwani.html",
+      "bodyChars": 1978,
+      "paragraphs": 14,
+      "externalLinks": 5,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "organizations/org-koti.html",
+      "bodyChars": 609,
+      "paragraphs": 6,
+      "externalLinks": 1,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "organizations/org-lekra.html",
+      "bodyChars": 590,
+      "paragraphs": 6,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "organizations/org-nu-ansor.html",
+      "bodyChars": 590,
+      "paragraphs": 6,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "organizations/org-pki.html",
+      "bodyChars": 2175,
+      "paragraphs": 15,
+      "externalLinks": 9,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "organizations/org-pni-partindo.html",
+      "bodyChars": 562,
+      "paragraphs": 6,
+      "externalLinks": 1,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "organizations/org-sobsi.html",
+      "bodyChars": 1892,
+      "paragraphs": 14,
+      "externalLinks": 6,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "regions/aceh.html",
+      "bodyChars": 3361,
+      "paragraphs": 21,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "regions/bali.html",
+      "bodyChars": 1249,
+      "paragraphs": 10,
+      "externalLinks": 5,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "regions/bima-sumbawa.html",
+      "bodyChars": 3435,
+      "paragraphs": 18,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "regions/central-java.html",
+      "bodyChars": 493,
+      "paragraphs": 6,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    }
+  ]
+}

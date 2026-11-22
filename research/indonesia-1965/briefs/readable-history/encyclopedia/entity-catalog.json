@@ -1,0 +1,1615 @@
+{
+  "schema": "indonesia-encyclopedia-entity-v1",
+  "generatedFrom": "ee12670b73ac6c94812aa5cd6a1ebcfe4b46877c",
+  "counts": {
+    "人物": 85,
+    "事件": 71,
+    "组织": 10,
+    "地区": 12
+  },
+  "note": "目录仅索引正式百科对象；E001-E355研究小节保留在研究库，不计入百科实体",
+  "items": [
+    {
+      "id": "regions:aceh",
+      "type": "地区",
+      "path": "regions/aceh.html",
+      "title": "亚齐",
+      "year": null,
+      "bytes": 13891,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "regions:bali",
+      "type": "地区",
+      "path": "regions/bali.html",
+      "title": "巴厘岛：政治冲突、军方增援和暴力高峰",
+      "year": null,
+      "bytes": 6149,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "regions:bima-sumbawa",
+      "type": "地区",
+      "path": "regions/bima-sumbawa.html",
+      "title": "比马—松巴哇",
+      "year": null,
+      "bytes": 13048,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "regions:central-java",
+      "type": "地区",
+      "path": "regions/central-java.html",
+      "title": "中爪哇：地方党派竞争、军队部署与失踪",
+      "year": null,
+      "bytes": 3532,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "regions:east-java",
+      "type": "地区",
+      "path": "regions/east-java.html",
+      "title": "东爪哇：东部军区、Ansor与劳工文化的破坏",
+      "year": null,
+      "bytes": 6501,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "regions:flores",
+      "type": "地区",
+      "path": "regions/flores.html",
+      "title": "弗洛勒斯",
+      "year": null,
+      "bytes": 10339,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "regions:jakarta",
+      "type": "地区",
+      "path": "regions/jakarta.html",
+      "title": "雅加达：1965年军政中心的三条时间线",
+      "year": "1965",
+      "bytes": 4008,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "regions:north-sumatra",
+      "type": "地区",
+      "path": "regions/north-sumatra.html",
+      "title": "北苏门答腊与棉兰：青年武装、军队及产业社会",
+      "year": null,
+      "bytes": 3708,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "regions:sikka-maumere",
+      "type": "地区",
+      "path": "regions/sikka-maumere.html",
+      "title": "锡卡—马乌梅雷",
+      "year": null,
+      "bytes": 14434,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "regions:south-blitar",
+      "type": "地区",
+      "path": "regions/south-blitar.html",
+      "title": "南勿里达",
+      "year": null,
+      "bytes": 16131,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "regions:south-sulawesi",
+      "type": "地区",
+      "path": "regions/south-sulawesi.html",
+      "title": "南苏拉威西：军区停职令、拘捕与劳动征用",
+      "year": null,
+      "bytes": 6344,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "regions:west-kalimantan",
+      "type": "地区",
+      "path": "regions/west-kalimantan.html",
+      "title": "西加里曼丹：边境战争、1967年驱逐与土地再组织",
+      "year": "1967",
+      "bytes": 8775,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-adam-soepardjan",
+      "type": "人物",
+      "path": "people/person-adam-soepardjan.html",
+      "title": "亚当·苏帕尔詹（Adam Soepardjan）",
+      "year": null,
+      "bytes": 6719,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-ade-irma",
+      "type": "人物",
+      "path": "people/person-ade-irma.html",
+      "title": "阿德·伊尔玛（Ade Irma Suryani）",
+      "year": null,
+      "bytes": 1879,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-ahmad-yani",
+      "type": "人物",
+      "path": "people/person-ahmad-yani.html",
+      "title": "艾哈迈德·亚尼（Ahmad Yani）",
+      "year": null,
+      "bytes": 4088,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-aidit",
+      "type": "人物",
+      "path": "people/person-aidit.html",
+      "title": "艾地",
+      "year": null,
+      "bytes": 7586,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-allen-pope",
+      "type": "人物",
+      "path": "people/person-allen-pope.html",
+      "title": "艾伦·波普（Allen Pope）",
+      "year": null,
+      "bytes": 4221,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-amir",
+      "type": "人物",
+      "path": "people/person-amir.html",
+      "title": "阿米尔·谢里夫丁（Amir Sjarifuddin）",
+      "year": null,
+      "bytes": 4011,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-bambang-sugeng",
+      "type": "人物",
+      "path": "people/person-bambang-sugeng.html",
+      "title": "班邦·苏根（Bambang Sugeng）",
+      "year": null,
+      "bytes": 1915,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-budiman",
+      "type": "人物",
+      "path": "people/person-budiman.html",
+      "title": "布迪曼·苏贾特马科（Budiman Sudjatmiko）",
+      "year": null,
+      "bytes": 1944,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-darsono",
+      "type": "人物",
+      "path": "people/person-darsono.html",
+      "title": "达尔索诺（Darsono）",
+      "year": null,
+      "bytes": 3501,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-daud-beureueh",
+      "type": "人物",
+      "path": "people/person-daud-beureueh.html",
+      "title": "达乌德·贝乌雷（Daud Beureueh）",
+      "year": null,
+      "bytes": 4084,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-dewi",
+      "type": "人物",
+      "path": "people/person-dewi.html",
+      "title": "黛薇（Ratna Sari Dewi；根本七保子／Naoko Nemoto）",
+      "year": null,
+      "bytes": 2043,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-dita-sari",
+      "type": "人物",
+      "path": "people/person-dita-sari.html",
+      "title": "迪塔·英达·萨丽（Dita Indah Sari）",
+      "year": null,
+      "bytes": 4899,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-fatmawati",
+      "type": "人物",
+      "path": "people/person-fatmawati.html",
+      "title": "法特马瓦蒂（Fatmawati）",
+      "year": null,
+      "bytes": 1931,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-gatot-lestario",
+      "type": "人物",
+      "path": "people/person-gatot-lestario.html",
+      "title": "加托特·莱斯塔里奥",
+      "year": null,
+      "bytes": 30011,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-green",
+      "type": "人物",
+      "path": "people/person-green.html",
+      "title": "马歇尔·格林（Marshall Green）",
+      "year": null,
+      "bytes": 5259,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-hariman-siregar",
+      "type": "人物",
+      "path": "people/person-hariman-siregar.html",
+      "title": "哈里曼·西雷加尔（Hariman Siregar）",
+      "year": null,
+      "bytes": 1922,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-hartini",
+      "type": "人物",
+      "path": "people/person-hartini.html",
+      "title": "哈蒂妮（Hartini）",
+      "year": null,
+      "bytes": 1819,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-haryono",
+      "type": "人物",
+      "path": "people/person-haryono.html",
+      "title": "M.T.哈里约诺（M.T. Haryono）",
+      "year": null,
+      "bytes": 3492,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-hatta",
+      "type": "人物",
+      "path": "people/person-hatta.html",
+      "title": "穆罕默德·哈达（Mohammad Hatta）",
+      "year": null,
+      "bytes": 8830,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-inggit",
+      "type": "人物",
+      "path": "people/person-inggit.html",
+      "title": "英吉特·加纳西（Inggit Garnasih）",
+      "year": null,
+      "bytes": 1853,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-ismail-bakri",
+      "type": "人物",
+      "path": "people/person-ismail-bakri.html",
+      "title": "伊斯梅尔·巴克里",
+      "year": null,
+      "bytes": 9954,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-jan-djong",
+      "type": "人物",
+      "path": "people/person-jan-djong.html",
+      "title": "扬·琼（Jan Djong）",
+      "year": null,
+      "bytes": 13744,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-jusuf-adjitorop",
+      "type": "人物",
+      "path": "people/person-jusuf-adjitorop.html",
+      "title": "尤苏夫·阿吉托罗普",
+      "year": null,
+      "bytes": 5460,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-kahar",
+      "type": "人物",
+      "path": "people/person-kahar.html",
+      "title": "卡哈尔·穆扎卡尔（Kahar Muzakkar）",
+      "year": null,
+      "bytes": 3858,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-kartosuwiryo",
+      "type": "人物",
+      "path": "people/person-kartosuwiryo.html",
+      "title": "卡尔托苏维约（Kartosuwiryo）",
+      "year": null,
+      "bytes": 4104,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-ki-hadjar",
+      "type": "人物",
+      "path": "people/person-ki-hadjar.html",
+      "title": "基·哈查尔·德宛达拉（Ki Hadjar Dewantara）",
+      "year": null,
+      "bytes": 1912,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-ki-mas-mansyur",
+      "type": "人物",
+      "path": "people/person-ki-mas-mansyur.html",
+      "title": "基·马斯·曼苏尔（Ki Mas Mansyur）",
+      "year": null,
+      "bytes": 1942,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-lukman",
+      "type": "人物",
+      "path": "people/person-lukman.html",
+      "title": "卢克曼（M. H. Lukman）",
+      "year": null,
+      "bytes": 1878,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-mallaby",
+      "type": "人物",
+      "path": "people/person-mallaby.html",
+      "title": "奥伯廷·马拉比（Aubertin W. S. Mallaby）",
+      "year": null,
+      "bytes": 1960,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-mansergh",
+      "type": "人物",
+      "path": "people/person-mansergh.html",
+      "title": "罗伯特·曼塞尔格（Robert Mansergh）",
+      "year": null,
+      "bytes": 1896,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-maraden-panggabean",
+      "type": "人物",
+      "path": "people/person-maraden-panggabean.html",
+      "title": "马拉登·庞加贝安（Maraden Panggabean）",
+      "year": null,
+      "bytes": 1963,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-marsinah",
+      "type": "人物",
+      "path": "people/person-marsinah.html",
+      "title": "马西娜（Marsinah）",
+      "year": null,
+      "bytes": 6600,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-martens",
+      "type": "人物",
+      "path": "people/person-martens.html",
+      "title": "马滕斯",
+      "year": null,
+      "bytes": 5330,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-munir",
+      "type": "人物",
+      "path": "people/person-munir.html",
+      "title": "穆罕默德·穆尼尔（Mohammad Munir）",
+      "year": null,
+      "bytes": 12284,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-musso",
+      "type": "人物",
+      "path": "people/person-musso.html",
+      "title": "穆索（Musso）",
+      "year": null,
+      "bytes": 14228,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-nasution",
+      "type": "人物",
+      "path": "people/person-nasution.html",
+      "title": "纳苏蒂安（A. H. Nasution）",
+      "year": null,
+      "bytes": 4360,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-njoto",
+      "type": "人物",
+      "path": "people/person-njoto.html",
+      "title": "尼约托（Njoto）",
+      "year": "1925/1927",
+      "bytes": 5028,
+      "editorial": "独立人物史·待来源复核"
+    },
+    {
+      "id": "people:person-nyoman-rai",
+      "type": "人物",
+      "path": "people/person-nyoman-rai.html",
+      "title": "伊达·阿尤·尼奥曼·莱（Ida Ayu Nyoman Rai）",
+      "year": null,
+      "bytes": 1852,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-oetari",
+      "type": "人物",
+      "path": "people/person-oetari.html",
+      "title": "西蒂·奥塔里（Siti Oetari）",
+      "year": null,
+      "bytes": 1824,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-oloan-hutapea",
+      "type": "人物",
+      "path": "people/person-oloan-hutapea.html",
+      "title": "奥洛安·胡塔佩亚",
+      "year": null,
+      "bytes": 8683,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-pakpahan",
+      "type": "人物",
+      "path": "people/person-pakpahan.html",
+      "title": "穆赫塔尔·帕克帕汉（Muchtar Pakpahan）",
+      "year": null,
+      "bytes": 6715,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-panjaitan",
+      "type": "人物",
+      "path": "people/person-panjaitan.html",
+      "title": "唐纳德·伊萨克·潘贾伊坦（D.I. Panjaitan）",
+      "year": null,
+      "bytes": 3563,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-parman",
+      "type": "人物",
+      "path": "people/person-parman.html",
+      "title": "西斯翁多·帕尔曼（S. Parman）",
+      "year": null,
+      "bytes": 3518,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-piet-van-staveren",
+      "type": "人物",
+      "path": "people/person-piet-van-staveren.html",
+      "title": "皮特·范·斯塔费伦",
+      "year": null,
+      "bytes": 17224,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-pranoto",
+      "type": "人物",
+      "path": "people/person-pranoto.html",
+      "title": "普拉诺托（Pranoto Reksosamodra)",
+      "year": null,
+      "bytes": 3862,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-putmainah",
+      "type": "人物",
+      "path": "people/person-putmainah.html",
+      "title": "普特迈娜（Putmainah）",
+      "year": null,
+      "bytes": 3137,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-rewang",
+      "type": "人物",
+      "path": "people/person-rewang.html",
+      "title": "雷旺（Rewang）",
+      "year": null,
+      "bytes": 13502,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-roem",
+      "type": "人物",
+      "path": "people/person-roem.html",
+      "title": "穆罕默德·鲁姆（Mohammad Roem）",
+      "year": null,
+      "bytes": 3812,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-ruslan-widjajasastra",
+      "type": "人物",
+      "path": "people/person-ruslan-widjajasastra.html",
+      "title": "鲁斯兰·维贾亚萨斯特拉",
+      "year": null,
+      "bytes": 11140,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-sarwo-edhie",
+      "type": "人物",
+      "path": "people/person-sarwo-edhie.html",
+      "title": "萨尔沃·埃迪·维博沃（Sarwo Edhie Wibowo）",
+      "year": null,
+      "bytes": 4953,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-schoonheyt",
+      "type": "人物",
+      "path": "people/person-schoonheyt.html",
+      "title": "斯洪海特（L. J. A. Schoonheyt）",
+      "year": null,
+      "bytes": 1909,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-semaun",
+      "type": "人物",
+      "path": "people/person-semaun.html",
+      "title": "塞马温（Semaun）",
+      "year": null,
+      "bytes": 12521,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-siauw",
+      "type": "人物",
+      "path": "people/person-siauw.html",
+      "title": "Baperki创办者夏沃·约·灿",
+      "year": null,
+      "bytes": 6895,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-siti-maryam",
+      "type": "人物",
+      "path": "people/person-siti-maryam.html",
+      "title": "西蒂·玛丽亚姆·萨拉胡丁",
+      "year": null,
+      "bytes": 19513,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-sjafruddin",
+      "type": "人物",
+      "path": "people/person-sjafruddin.html",
+      "title": "沙弗鲁丁·普拉维拉内加拉（Sjafruddin Prawiranegara）",
+      "year": null,
+      "bytes": 4184,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-sjahrir",
+      "type": "人物",
+      "path": "people/person-sjahrir.html",
+      "title": "苏丹·夏赫里尔（Sutan Sjahrir）",
+      "year": null,
+      "bytes": 4295,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-sjam",
+      "type": "人物",
+      "path": "people/person-sjam.html",
+      "title": "夏姆",
+      "year": null,
+      "bytes": 4907,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-sneevliet",
+      "type": "人物",
+      "path": "people/person-sneevliet.html",
+      "title": "亨克·斯内夫利特（Henk Sneevliet）",
+      "year": null,
+      "bytes": 4131,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-soekemi",
+      "type": "人物",
+      "path": "people/person-soekemi.html",
+      "title": "拉登·苏克米·苏苏罗哈迪约（Raden Soekemi Sosrodihardjo）",
+      "year": null,
+      "bytes": 1918,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-soemarsono",
+      "type": "人物",
+      "path": "people/person-soemarsono.html",
+      "title": "苏马索诺（Soemarsono）",
+      "year": null,
+      "bytes": 36866,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-soengkono",
+      "type": "人物",
+      "path": "people/person-soengkono.html",
+      "title": "苏恩科诺（Soengkono）",
+      "year": null,
+      "bytes": 1846,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-soetardjo",
+      "type": "人物",
+      "path": "people/person-soetardjo.html",
+      "title": "苏达佐·卡托哈迪库苏莫（Soetardjo Kartohadikusumo）",
+      "year": null,
+      "bytes": 1981,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-soetarto",
+      "type": "人物",
+      "path": "people/person-soetarto.html",
+      "title": "苏塔托（Soetarto）",
+      "year": null,
+      "bytes": 1891,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-sri-kayati",
+      "type": "人物",
+      "path": "people/person-sri-kayati.html",
+      "title": "斯里·卡亚蒂（Sri Kayati）",
+      "year": null,
+      "bytes": 3234,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-sudarsono",
+      "type": "人物",
+      "path": "people/person-sudarsono.html",
+      "title": "苏达尔索诺（Sudarsono）",
+      "year": null,
+      "bytes": 1905,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-sudirman",
+      "type": "人物",
+      "path": "people/person-sudirman.html",
+      "title": "苏迪尔曼（Sudirman）",
+      "year": null,
+      "bytes": 2027,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-sudisman",
+      "type": "人物",
+      "path": "people/person-sudisman.html",
+      "title": "苏迪斯曼（Sudisman）",
+      "year": null,
+      "bytes": 24074,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-suharto",
+      "type": "人物",
+      "path": "people/person-suharto.html",
+      "title": "苏哈托",
+      "year": null,
+      "bytes": 10098,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-sukarno",
+      "type": "人物",
+      "path": "people/person-sukarno.html",
+      "title": "苏加诺",
+      "year": null,
+      "bytes": 18269,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-sultan-hb-ix",
+      "type": "人物",
+      "path": "people/person-sultan-hb-ix.html",
+      "title": "哈孟库布沃诺九世（Sri Sultan Hamengku Buwono IX）",
+      "year": null,
+      "bytes": 4014,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-sultan-salahuddin",
+      "type": "人物",
+      "path": "people/person-sultan-salahuddin.html",
+      "title": "穆罕默德·萨拉胡丁苏丹",
+      "year": null,
+      "bytes": 9117,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "people:person-supardjo",
+      "type": "人物",
+      "path": "people/person-supardjo.html",
+      "title": "苏帕尔佐（Supardjo）",
+      "year": null,
+      "bytes": 3963,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-suprapto",
+      "type": "人物",
+      "path": "people/person-suprapto.html",
+      "title": "拉登·苏普拉普托（R. Suprapto）",
+      "year": null,
+      "bytes": 3567,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-suryo",
+      "type": "人物",
+      "path": "people/person-suryo.html",
+      "title": "苏尔约（Suryo）",
+      "year": null,
+      "bytes": 1882,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-sutoyo",
+      "type": "人物",
+      "path": "people/person-sutoyo.html",
+      "title": "苏托约·西斯沃米哈尔佐（Sutoyo Siswomiharjo）",
+      "year": null,
+      "bytes": 3570,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-tan-malaka",
+      "type": "人物",
+      "path": "people/person-tan-malaka.html",
+      "title": "丹·马拉卡（Tan Malaka）",
+      "year": null,
+      "bytes": 4354,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-tendean",
+      "type": "人物",
+      "path": "people/person-tendean.html",
+      "title": "皮埃尔·滕代安（Pierre Tendean）",
+      "year": null,
+      "bytes": 3279,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-thamrin",
+      "type": "人物",
+      "path": "people/person-thamrin.html",
+      "title": "穆罕默德·胡斯尼·塔姆林（Mohammad Husni Thamrin）",
+      "year": null,
+      "bytes": 1973,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-tjokroaminoto",
+      "type": "人物",
+      "path": "people/person-tjokroaminoto.html",
+      "title": "乔克罗阿米诺托（H.O.S. Tjokroaminoto）",
+      "year": null,
+      "bytes": 4502,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-tuti-gerwani",
+      "type": "人物",
+      "path": "people/person-tuti-gerwani.html",
+      "title": "图蒂（Tuti，化名）",
+      "year": null,
+      "bytes": 3319,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-untung",
+      "type": "人物",
+      "path": "people/person-untung.html",
+      "title": "翁东（Untung）",
+      "year": null,
+      "bytes": 6951,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-van-roijen",
+      "type": "人物",
+      "path": "people/person-van-roijen.html",
+      "title": "范罗延（Jan Herman van Roijen）",
+      "year": null,
+      "bytes": 3411,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-widodo",
+      "type": "人物",
+      "path": "people/person-widodo.html",
+      "title": "佐科·维多多（Joko Widodo）",
+      "year": null,
+      "bytes": 1908,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-winata",
+      "type": "人物",
+      "path": "people/person-winata.html",
+      "title": "维纳塔（Winata）",
+      "year": null,
+      "bytes": 3013,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "people:person-yamin",
+      "type": "人物",
+      "path": "people/person-yamin.html",
+      "title": "穆罕默德·亚明（Mohammad Yamin）",
+      "year": null,
+      "bytes": 1889,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "events:event-1952",
+      "type": "事件",
+      "path": "events/event-1952.html",
+      "title": "1952年10月17日：军政危机",
+      "year": "1952",
+      "bytes": 5797,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-aceh-1965-repression",
+      "type": "事件",
+      "path": "events/event-aceh-1965-repression.html",
+      "title": "1965—1966年亚齐地方镇压",
+      "year": "1965—1966",
+      "bytes": 7068,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-bima-republic-1945",
+      "type": "事件",
+      "path": "events/event-bima-republic-1945.html",
+      "title": "1945年比马宣言、升旗与地方委员会",
+      "year": "1945",
+      "bytes": 11939,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-bima-women-1950s",
+      "type": "事件",
+      "path": "events/event-bima-women-1950s.html",
+      "title": "1950年代比马妇女公共组织",
+      "year": "1950",
+      "bytes": 20319,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-bovendigoel",
+      "type": "事件",
+      "path": "events/event-bovendigoel.html",
+      "title": "博文迪古尔：法律、运输与营地生活",
+      "year": null,
+      "bytes": 4780,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-buru",
+      "type": "事件",
+      "path": "events/event-buru.html",
+      "title": "布鲁岛拘押",
+      "year": null,
+      "bytes": 7586,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-colonial",
+      "type": "事件",
+      "path": "events/event-colonial.html",
+      "title": "强制种植、土地租赁与劳动迁移",
+      "year": null,
+      "bytes": 7094,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-criminal-code-2026",
+      "type": "事件",
+      "path": "events/event-criminal-code-2026.html",
+      "title": "2026年：新刑法生效",
+      "year": "2026",
+      "bytes": 2898,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "events:event-diplomacy-revolution",
+      "type": "事件",
+      "path": "events/event-diplomacy-revolution.html",
+      "title": "1946—1947年：协议、荷兰军事行动与联合国调停",
+      "year": "1946—1947",
+      "bytes": 3664,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-dutch-offensive",
+      "type": "事件",
+      "path": "events/event-dutch-offensive.html",
+      "title": "1948年12月—1949年：共和国政府转入游击战与PDRI",
+      "year": "1948",
+      "bytes": 10482,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-election-2024",
+      "type": "事件",
+      "path": "events/event-election-2024.html",
+      "title": "2024年：工党参加全国选举",
+      "year": "2024",
+      "bytes": 2725,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "events:event-election",
+      "type": "事件",
+      "path": "events/event-election.html",
+      "title": "1954—1956年：Gerwis更名、全国选举与哈达辞职",
+      "year": "1954—1956",
+      "bytes": 3810,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-foreign-1965",
+      "type": "事件",
+      "path": "events/event-foreign-1965.html",
+      "title": "外国政府的行动",
+      "year": null,
+      "bytes": 4184,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-foreign-channels",
+      "type": "事件",
+      "path": "events/event-foreign-channels.html",
+      "title": "美国、英国、澳大利亚、日本、中国与苏联的不同渠道",
+      "year": null,
+      "bytes": 8268,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-formation",
+      "type": "事件",
+      "path": "events/event-formation.html",
+      "title": "学校、报刊、协会与民族主义网络",
+      "year": null,
+      "bytes": 5969,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-guided",
+      "type": "事件",
+      "path": "events/event-guided.html",
+      "title": "1959—1963年：指导民主与军方扩权",
+      "year": "1959—1963",
+      "bytes": 6532,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-komnas",
+      "type": "事件",
+      "path": "events/event-komnas.html",
+      "title": "2008—2012年：国家人权委员会调查",
+      "year": "2008—2012",
+      "bytes": 2872,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "events:event-konfrontasi",
+      "type": "事件",
+      "path": "events/event-konfrontasi.html",
+      "title": "对抗马来西亚与婆罗洲边境战争",
+      "year": null,
+      "bytes": 5532,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-labor-revolution",
+      "type": "事件",
+      "path": "events/event-labor-revolution.html",
+      "title": "革命时期的工会与劳工组织",
+      "year": null,
+      "bytes": 3660,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-land-court",
+      "type": "事件",
+      "path": "events/event-land-court.html",
+      "title": "1964年：土地改革法院与村庄执行",
+      "year": "1964",
+      "bytes": 4716,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-land",
+      "type": "事件",
+      "path": "events/event-land.html",
+      "title": "土地法、行政执行与农民行动",
+      "year": null,
+      "bytes": 3896,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-landafter",
+      "type": "事件",
+      "path": "events/event-landafter.html",
+      "title": "1970年：土地改革法院废止",
+      "year": "1970",
+      "bytes": 2829,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "events:event-madiun",
+      "type": "事件",
+      "path": "events/event-madiun.html",
+      "title": "1948年9月：茉莉芬事件",
+      "year": "1948",
+      "bytes": 5312,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-malari-nkk",
+      "type": "事件",
+      "path": "events/event-malari-nkk.html",
+      "title": "1977—1979年：学生运动与校园管制",
+      "year": "1977—1979",
+      "bytes": 3974,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-malari",
+      "type": "事件",
+      "path": "events/event-malari.html",
+      "title": "1974年1月：马拉里事件（1月15日灾难）",
+      "year": "1974",
+      "bytes": 3497,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "events:event-marsinah-suharto-heroes",
+      "type": "事件",
+      "path": "events/event-marsinah-suharto-heroes.html",
+      "title": "2025—2026年：国家英雄授勋与公共记忆",
+      "year": "2025—2026",
+      "bytes": 4449,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-marsinah",
+      "type": "事件",
+      "path": "events/event-marsinah.html",
+      "title": "1993年5月：马西娜案",
+      "year": "1993",
+      "bytes": 5076,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-maumere-1953",
+      "type": "事件",
+      "path": "events/event-maumere-1953.html",
+      "title": "1953年马乌梅雷示威",
+      "year": "1953",
+      "bytes": 6676,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-memory",
+      "type": "事件",
+      "path": "events/event-memory.html",
+      "title": "2015—2022年：公共记忆与国家调查",
+      "year": "2015—2022",
+      "bytes": 3862,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-moncongloe-detention",
+      "type": "事件",
+      "path": "events/event-moncongloe-detention.html",
+      "title": "南苏拉威西拘捕与Moncongloe营地",
+      "year": null,
+      "bytes": 6809,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-movement",
+      "type": "事件",
+      "path": "events/event-movement.html",
+      "title": "九三〇运动的军事行动及广播",
+      "year": null,
+      "bytes": 7452,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-new-order-economy",
+      "type": "事件",
+      "path": "events/event-new-order-economy.html",
+      "title": "1967—1970年：外资、森林管理与土地机构重组",
+      "year": "1967—1970",
+      "bytes": 5227,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-new-order-politics",
+      "type": "事件",
+      "path": "events/event-new-order-politics.html",
+      "title": "1971—1973年：选举、政党合并与行政控制",
+      "year": "1971—1973",
+      "bytes": 3626,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-njono-trial-1966",
+      "type": "事件",
+      "path": "events/event-njono-trial-1966.html",
+      "title": "1966年尼约诺军事法庭",
+      "year": "1966",
+      "bytes": 6716,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-occupation",
+      "type": "事件",
+      "path": "events/event-occupation.html",
+      "title": "入侵、占领分区与殖民行政瓦解",
+      "year": null,
+      "bytes": 4604,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-offcampus",
+      "type": "事件",
+      "path": "events/event-offcampus.html",
+      "title": "1980年代：校外学生网络与地方抗争",
+      "year": "1980",
+      "bytes": 2989,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "events:event-pki-autocritique-1966",
+      "type": "事件",
+      "path": "events/event-pki-autocritique-1966.html",
+      "title": "1966年印尼共产党自我批评",
+      "year": "1966",
+      "bytes": 15893,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-pki-fifth-force-1965",
+      "type": "事件",
+      "path": "events/event-pki-fifth-force-1965.html",
+      "title": "1965年：第五力量、Sujono民防课与中国轻武器谈判",
+      "year": "1965",
+      "bytes": 10322,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-prd-1996",
+      "type": "事件",
+      "path": "events/event-prd-1996.html",
+      "title": "1994—1998年：PRD、民主党总部袭击与新秩序危机",
+      "year": "1994—1998",
+      "bytes": 7471,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-preparation",
+      "type": "事件",
+      "path": "events/event-preparation.html",
+      "title": "建国讨论、宣言与共和国的最初制度",
+      "year": null,
+      "bytes": 4287,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-prewar-parliament",
+      "type": "事件",
+      "path": "events/event-prewar-parliament.html",
+      "title": "1936—1941年：自治请愿与“印度尼西亚要议会”运动",
+      "year": "1936—1941",
+      "bytes": 6585,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-prisoners-1995-1998",
+      "type": "事件",
+      "path": "events/event-prisoners-1995-1998.html",
+      "title": "1995—1998年政治拘押史",
+      "year": "1995—1998",
+      "bytes": 12446,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-proclamation",
+      "type": "事件",
+      "path": "events/event-proclamation.html",
+      "title": "宣言之后：共和国如何建立权力",
+      "year": null,
+      "bytes": 4328,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-purge",
+      "type": "事件",
+      "path": "events/event-purge.html",
+      "title": "军方和地方组织如何实施镇压",
+      "year": null,
+      "bytes": 10756,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-rebellion",
+      "type": "事件",
+      "path": "events/event-rebellion.html",
+      "title": "PRRI、Permesta与美国秘密援助",
+      "year": null,
+      "bytes": 3853,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-recognition",
+      "type": "事件",
+      "path": "events/event-recognition.html",
+      "title": "2023—2025年：政府承认与非司法救济",
+      "year": "2023—2025",
+      "bytes": 4103,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-reformasi",
+      "type": "事件",
+      "path": "events/event-reformasi.html",
+      "title": "1998改革运动",
+      "year": "1998",
+      "bytes": 6092,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-sbsi",
+      "type": "事件",
+      "path": "events/event-sbsi.html",
+      "title": "1992年：独立工会与SBSI",
+      "year": "1992",
+      "bytes": 4631,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-semaun-hatta-1926",
+      "type": "事件",
+      "path": "events/event-semaun-hatta-1926.html",
+      "title": "1926—27年司马温与哈达政治协定",
+      "year": "1926—27",
+      "bytes": 5536,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-shangrila-2000",
+      "type": "事件",
+      "path": "events/event-shangrila-2000.html",
+      "title": "2000—2003年酒店劳工案",
+      "year": "2000—2003",
+      "bytes": 6973,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-sobsi-1946-1949",
+      "type": "事件",
+      "path": "events/event-sobsi-1946-1949.html",
+      "title": "1946—1949年SOBSI成立及工会分合",
+      "year": "1946—1949",
+      "bytes": 5585,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-sukarno-dewi-letters",
+      "type": "事件",
+      "path": "events/event-sukarno-dewi-letters.html",
+      "title": "苏加诺与德维：私人通信与外交往来",
+      "year": null,
+      "bytes": 2992,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "events:event-sukarno-exile",
+      "type": "事件",
+      "path": "events/event-sukarno-exile.html",
+      "title": "政党分化、逮捕与流放后的政治生活",
+      "year": null,
+      "bytes": 10977,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-supersemar",
+      "type": "事件",
+      "path": "events/event-supersemar.html",
+      "title": "1966年三月十一日命令",
+      "year": "1966",
+      "bytes": 3864,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-surabaya",
+      "type": "事件",
+      "path": "events/event-surabaya.html",
+      "title": "1945年10—11月：泗水冲突与英国进攻",
+      "year": "1945",
+      "bytes": 5002,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-surakarta",
+      "type": "事件",
+      "path": "events/event-surakarta.html",
+      "title": "1945—1946年：梭罗的王权、群众组织与共和国政府",
+      "year": "1945—1946",
+      "bytes": 6492,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-surveillance",
+      "type": "事件",
+      "path": "events/event-surveillance.html",
+      "title": "身份审查",
+      "year": null,
+      "bytes": 3839,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-takeover",
+      "type": "事件",
+      "path": "events/event-takeover.html",
+      "title": "西新几内亚争端与荷兰企业接管",
+      "year": null,
+      "bytes": 3324,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "events:event-three-july",
+      "type": "事件",
+      "path": "events/event-three-july.html",
+      "title": "1946年6月27日—7月6日：夏赫里尔被带走与七三事件",
+      "year": "1946",
+      "bytes": 5478,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-trisula-1968",
+      "type": "事件",
+      "path": "events/event-trisula-1968.html",
+      "title": "1968年南勿里达行动",
+      "year": "1968",
+      "bytes": 12763,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-union-prisoners-1977",
+      "type": "事件",
+      "path": "events/event-union-prisoners-1977.html",
+      "title": "1977年工会政治犯名单",
+      "year": "1977",
+      "bytes": 5332,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-union-registration-1998",
+      "type": "事件",
+      "path": "events/event-union-registration-1998.html",
+      "title": "1998—2001年：工会登记与结社权实际实施",
+      "year": "1998—2001",
+      "bytes": 5962,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-union-structure",
+      "type": "事件",
+      "path": "events/event-union-structure.html",
+      "title": "1973—1985年：全国工会合并与产业劳动",
+      "year": "1973—1985",
+      "bytes": 5677,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-uprising",
+      "type": "事件",
+      "path": "events/event-uprising.html",
+      "title": "1926—1927年起事与殖民镇压",
+      "year": "1926—1927",
+      "bytes": 3989,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-victim-protection-2026",
+      "type": "事件",
+      "path": "events/event-victim-protection-2026.html",
+      "title": "2026年：证人和受害者保护法更新",
+      "year": "2026",
+      "bytes": 2732,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "events:event-vstp-1923",
+      "type": "事件",
+      "path": "events/event-vstp-1923.html",
+      "title": "1923年工会史",
+      "year": "1923",
+      "bytes": 8002,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-wangunwati",
+      "type": "事件",
+      "path": "events/event-wangunwati.html",
+      "title": "1965年6月：万贡瓦蒂的土地分配与合作社",
+      "year": "1965",
+      "bytes": 3496,
+      "editorial": "优先补写"
+    },
+    {
+      "id": "events:event-wartime-mobilization",
+      "type": "事件",
+      "path": "events/event-wartime-mobilization.html",
+      "title": "宣传机构、青年军训与强制劳动",
+      "year": null,
+      "bytes": 6647,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-west-kalimantan-1967-expulsion",
+      "type": "事件",
+      "path": "events/event-west-kalimantan-1967-expulsion.html",
+      "title": "1967年西加里曼丹华裔居民驱逐",
+      "year": "1967",
+      "bytes": 5109,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "events:event-westpapua",
+      "type": "事件",
+      "path": "events/event-westpapua.html",
+      "title": "1957—1969年：西新几内亚争端与巴布亚人的政治要求",
+      "year": "1957—1969",
+      "bytes": 7007,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "events:event-women-detainees",
+      "type": "事件",
+      "path": "events/event-women-detainees.html",
+      "title": "1965—1990：东爪哇妇女组织、家庭与政治拘押",
+      "year": "1965—1990",
+      "bytes": 3817,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "organizations:org-army",
+      "type": "组织",
+      "path": "organizations/org-army.html",
+      "title": "陆军、Kostrad与RPKAD：指挥资源及1965年变局",
+      "year": "1965",
+      "bytes": 4119,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "organizations:org-baperki",
+      "type": "组织",
+      "path": "organizations/org-baperki.html",
+      "title": "Baperki：公民权组织与1965年的军事清查",
+      "year": "1965",
+      "bytes": 8901,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "organizations:org-bti",
+      "type": "组织",
+      "path": "organizations/org-bti.html",
+      "title": "BTI：印尼农民阵线、土地改革与农业实践",
+      "year": null,
+      "bytes": 8375,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "organizations:org-gerwani",
+      "type": "组织",
+      "path": "organizations/org-gerwani.html",
+      "title": "Gerwis／Gerwani：妇女组织、日常活动与污名化",
+      "year": null,
+      "bytes": 8907,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "organizations:org-koti",
+      "type": "组织",
+      "path": "organizations/org-koti.html",
+      "title": "KOTI、Kopkamtib与国家清查机关的形成",
+      "year": null,
+      "bytes": 3921,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "organizations:org-lekra",
+      "type": "组织",
+      "path": "organizations/org-lekra.html",
+      "title": "LEKRA：人民文化机构、艺术劳动与政治清洗",
+      "year": null,
+      "bytes": 3834,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "organizations:org-nu-ansor",
+      "type": "组织",
+      "path": "organizations/org-nu-ansor.html",
+      "title": "NU、Ansor和地方反共动员：组织与行动的分层",
+      "year": null,
+      "bytes": 3723,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "organizations:org-pki",
+      "type": "组织",
+      "path": "organizations/org-pki.html",
+      "title": "印尼共产党（PKI）：组织、路线与1965年断裂",
+      "year": "1965",
+      "bytes": 4675,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "organizations:org-pni-partindo",
+      "type": "组织",
+      "path": "organizations/org-pni-partindo.html",
+      "title": "PNI、Partindo与民族主义政治的多重路线",
+      "year": null,
+      "bytes": 3688,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "organizations:org-sobsi",
+      "type": "组织",
+      "path": "organizations/org-sobsi.html",
+      "title": "SOBSI：全印尼工会联盟及其被清退过程",
+      "year": null,
+      "bytes": 7786,
+      "editorial": "较完整·待复核"
+    }
+  ]
+}

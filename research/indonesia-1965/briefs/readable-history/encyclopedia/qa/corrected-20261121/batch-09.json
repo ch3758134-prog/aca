@@ -1,0 +1,110 @@
+{
+  "batch": 9,
+  "method": "Count text in article before sources/navigation, including li; main excludes embedded research-fulltext; not a substitute for scholarly review",
+  "entries": [
+    {
+      "path": "events/event-njono-trial-1966.html",
+      "mainTextChars": 1639,
+      "fullTextChars": 1639,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1533
+    },
+    {
+      "path": "events/event-occupation.html",
+      "mainTextChars": 1316,
+      "fullTextChars": 1316,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1145
+    },
+    {
+      "path": "events/event-offcampus.html",
+      "mainTextChars": 883,
+      "fullTextChars": 883,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 735
+    },
+    {
+      "path": "events/event-pki-autocritique-1966.html",
+      "mainTextChars": 4742,
+      "fullTextChars": 4742,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 4478
+    },
+    {
+      "path": "events/event-pki-fifth-force-1965.html",
+      "mainTextChars": 2887,
+      "fullTextChars": 2887,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 2611
+    },
+    {
+      "path": "events/event-prd-1996.html",
+      "mainTextChars": 1180,
+      "fullTextChars": 1180,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1021
+    },
+    {
+      "path": "events/event-preparation.html",
+      "mainTextChars": 1233,
+      "fullTextChars": 1233,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1062
+    },
+    {
+      "path": "events/event-prewar-parliament.html",
+      "mainTextChars": 1001,
+      "fullTextChars": 1001,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 827
+    },
+    {
+      "path": "events/event-prisoners-1995-1998.html",
+      "mainTextChars": 3366,
+      "fullTextChars": 3366,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 3049
+    },
+    {
+      "path": "events/event-proclamation.html",
+      "mainTextChars": 1277,
+      "fullTextChars": 1277,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1110
+    },
+    {
+      "path": "events/event-purge.html",
+      "mainTextChars": 2391,
+      "fullTextChars": 2391,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 2143
+    },
+    {
+      "path": "events/event-rebellion.html",
+      "mainTextChars": 695,
+      "fullTextChars": 695,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 549
+    },
+    {
+      "path": "events/event-recognition.html",
+      "mainTextChars": 919,
+      "fullTextChars": 919,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 796
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "batch": 5,
+  "method": "Count text in article before sources/navigation, including li; main excludes embedded research-fulltext; not a substitute for scholarly review",
+  "entries": [
+    {
+      "path": "people/person-sudisman.html",
+      "mainTextChars": 1913,
+      "fullTextChars": 6746,
+      "listItemChars": 0,
+      "hasResearchFulltext": true,
+      "paragraphOnlyChars": 1667
+    },
+    {
+      "path": "people/person-suharto.html",
+      "mainTextChars": 1903,
+      "fullTextChars": 2527,
+      "listItemChars": 0,
+      "hasResearchFulltext": true,
+      "paragraphOnlyChars": 1613
+    },
+    {
+      "path": "people/person-sukarno.html",
+      "mainTextChars": 2488,
+      "fullTextChars": 4962,
+      "listItemChars": 0,
+      "hasResearchFulltext": true,
+      "paragraphOnlyChars": 2159
+    },
+    {
+      "path": "people/person-sultan-hb-ix.html",
+      "mainTextChars": 810,
+      "fullTextChars": 810,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 610
+    },
+    {
+      "path": "people/person-sultan-salahuddin.html",
+      "mainTextChars": 2302,
+      "fullTextChars": 2302,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 2141
+    },
+    {
+      "path": "people/person-supardjo.html",
+      "mainTextChars": 1371,
+      "fullTextChars": 1371,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1158
+    },
+    {
+      "path": "people/person-suprapto.html",
+      "mainTextChars": 1204,
+      "fullTextChars": 1204,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1012
+    },
+    {
+      "path": "people/person-suryo.html",
+      "mainTextChars": 872,
+      "fullTextChars": 872,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 741
+    },
+    {
+      "path": "people/person-sutoyo.html",
+      "mainTextChars": 1255,
+      "fullTextChars": 1255,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1038
+    },
+    {
+      "path": "people/person-tan-malaka.html",
+      "mainTextChars": 1547,
+      "fullTextChars": 1547,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 1317
+    },
+    {
+      "path": "people/person-tendean.html",
+      "mainTextChars": 1062,
+      "fullTextChars": 1062,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 881
+    },
+    {
+      "path": "people/person-thamrin.html",
+      "mainTextChars": 667,
+      "fullTextChars": 667,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 538
+    },
+    {
+      "path": "people/person-tjokroaminoto.html",
+      "mainTextChars": 872,
+      "fullTextChars": 872,
+      "listItemChars": 0,
+      "hasResearchFulltext": false,
+      "paragraphOnlyChars": 701
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+[
+  {
+    "id": "P-panjaitan",
+    "group": "people",
+    "path": "people/person-panjaitan.html",
+    "source_path": "people/person-panjaitan.html",
+    "title": "唐纳德·伊萨克·潘贾伊坦（D.I. Panjaitan）",
+    "name": "唐纳德·伊萨克·潘贾伊坦（D.I. Panjaitan）",
+    "aliases": [
+      "D.I. Panjaitan"
+    ],
+    "summary": "D. I. 潘贾伊坦是印尼陆军高级军官，1965年在亚尼领导的陆军总部任职。唐纳德·伊萨克·潘贾伊坦在陆军最高参谋部担任准将级助手职务。其军队岗位不同于在各省实际掌握野战部队的地区司令；遭袭说明九三〇行动主要面向首都陆军总部人员，而非对全国所有军区司令实施同样行动。 [1]",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "medium_unreviewed",
+    "paragraphs": 5,
+    "headings": 6,
+    "reference_links": 2,
+    "related": [
+      "people/person-ahmad-yani.html",
+      "people/person-suharto.html",
+      "events/event-movement.html"
+    ],
+    "issues": []
+  },
+  {
+    "id": "P-parman",
+    "group": "people",
+    "path": "people/person-parman.html",
+    "source_path": "people/person-parman.html",
+    "title": "西斯翁多·帕尔曼（S. Parman）",
+    "name": "西斯翁多·帕尔曼（S. Parman）",
+    "aliases": [
+      "S. Parman"
+    ],
+    "summary": "S. 帕尔曼是印尼陆军高级军官，1965年在亚尼领导的陆军总部任职。罗宾逊与鲁萨使用的军方参谋编制显示，帕尔曼不是陆军总司令或副司令，而是亚尼陆军总部的一名高级助手。区别他与哈里约诺、苏普拉普托的实际职务，才能解释九三〇运动为何同时攻击不同层级的总部成员。 [1]",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "medium_unreviewed",
+    "paragraphs": 5,
+    "headings": 6,
+    "reference_links": 2,
+    "related": [
+      "people/person-ahmad-yani.html",
+      "people/person-suharto.html",
+      "events/event-movement.html"
+    ],
+    "issues": []
+  },
+  {
+    "id": "P-piet-van-staveren",
+    "group": "people",
+    "path": "people/person-piet-van-staveren.html",
+    "source_path": "people/person-piet-van-staveren.html",
+    "title": "皮特·范·斯塔费伦：荷兰反派兵活动、共和国政治与军事审判",
+    "name": "皮特·范·斯塔费伦：荷兰反派兵活动、共和国政治与军事审判",
+    "aliases": [],
+    "summary": "皮特·范·斯塔费伦的经历跨越荷兰反派兵运动、赴印尼时期的政治选择及后来军事司法和历史记忆。有关姓名、判决、被捕与请愿的资料需要与司法原件核对。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "medium_unreviewed",
+    "paragraphs": 4,
+    "headings": 6,
+    "reference_links": 88,
+    "related": [],
+    "issues": []
+  },
+  {
+    "id": "P-pranoto",
+    "group": "people",
+    "path": "people/person-pranoto.html",
+    "source_path": "people/person-pranoto.html",
+    "title": "普拉诺托（Pranoto Reksosamodra)",
+    "name": "普拉诺托（Pranoto Reksosamodra)",
+    "aliases": [
+      "Pranoto Reksosamodra"
+    ],
+    "summary": "普拉诺托·雷克索萨莫德罗（Pranoto Reksosamodra）1965年担任陆军司令亚尼总部参谋人员职务，主要涉及人事。约翰·鲁萨在研究九三〇运动时把他列在陆军参谋系统之中。虽然他身为高级军官，却不是陆军司令职位的唯一法定继承者；职务和实际部队控制不能混同。 [1]",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "medium_unreviewed",
+    "paragraphs": 6,
+    "headings": 7,
+    "reference_links": 2,
+    "related": [
+      "people/person-suharto.html",
+      "people/person-supardjo.html",
+      "people/person-sukarno.html",
+      "events/event-movement.html"
+    ],
+    "issues": []
+  },
+  {
+    "id": "P-putmainah",
+    "group": "people",
+    "path": "people/person-putmainah.html",
+    "source_path": "people/person-putmainah.html",
+    "title": "普特迈娜（Putmainah）：勿里达妇女组织、逃亡与子女抚养",
+    "name": "普特迈娜（Putmainah）：勿里达妇女组织、逃亡与子女抚养",
+    "aliases": [
+      "Putmainah"
+    ],
+    "summary": "Vannessa Hearman在2010年论文第73—74页将Putmainah记为 勿里达Gerwani负责人 ，并指出她在1965年以前 曾任议员 。这是妇女群众组织与共和国代议机构两个不同的公共角色。她的议会届次、选区、具体提案和地方妇女组织职务起止，仍须议会名单与Gerwani支部档案核对。",
+    "period": "待标准化",
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 12,
+    "headings": 7,
+    "reference_links": 2,
+    "related": [
+      "people/person-tuti-gerwani.html",
+      "organizations/org-gerwani.html",
+      "regions/south-blitar.html"
+    ],
+    "issues": [],
+    "source_complete": false
+  },
+  {
+    "id": "P-rewang",
+    "group": "people",
+    "path": "people/person-rewang.html",
+    "source_path": "people/person-rewang.html",
+    "title": "雷旺（Rewang）：九三〇之后的组织重建与南勿里达",
+    "name": "雷旺（Rewang）：九三〇之后的组织重建与南勿里达",
+    "aliases": [
+      "Rewang"
+    ],
+    "summary": "雷旺曾是中爪哇省级党组织负责人，1965年以后的活动连接地下政治重组、南勿里达地区斗争、被捕、判刑与释放。后出的当事人回忆和军事情报对其政治决策权的叙述并不一致。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 20,
+    "headings": 9,
+    "reference_links": 52,
+    "related": [
+      "people/person-sri-kayati.html"
+    ],
+    "issues": []
+  },
+  {
+    "id": "P-roem",
+    "group": "people",
+    "path": "people/person-roem.html",
+    "source_path": "people/person-roem.html",
+    "title": "穆罕默德·鲁姆（Mohammad Roem）",
+    "name": "穆罕默德·鲁姆（Mohammad Roem）",
+    "aliases": [
+      "Mohammad Roem"
+    ],
+    "summary": "穆罕默德·鲁姆（Mohammad Roem）是共和国政治与外交活动家，1940年代在独立革命和国家谈判中担任重要代表职务。共和国面对的不是单一荷兰军事压力，1948—1949年还必须重建被荷兰拘押的中央政府与在地方继续抵抗的军政组织之间的关系。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "medium_unreviewed",
+    "paragraphs": 6,
+    "headings": 7,
+    "reference_links": 2,
+    "related": [
+      "people/person-van-roijen.html",
+      "people/person-sjafruddin.html",
+      "events/event-dutch-offensive.html"
+    ],
+    "issues": []
+  },
+  {
+    "id": "P-ruslan-widjajasastra",
+    "group": "people",
+    "path": "people/person-ruslan-widjajasastra.html",
+    "source_path": "people/person-ruslan-widjajasastra.html",
+    "title": "鲁斯兰·维贾亚萨斯特拉：青年军、工会与长期政治拘押",
+    "name": "鲁斯兰·维贾亚萨斯特拉：青年军、工会与长期政治拘押",
+    "aliases": [],
+    "summary": "鲁斯兰曾参与独立战争时期青年武装与后来工会组织，1965年以后又出现在地下网络和军事法庭的记录中。不同人权组织对于他的被捕日、工会职务和审判机关存在差异。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 17,
+    "headings": 7,
+    "reference_links": 48,
+    "related": [],
+    "issues": []
+  },
+  {
+    "id": "P-sarwo-edhie",
+    "group": "people",
+    "path": "people/person-sarwo-edhie.html",
+    "source_path": "people/person-sarwo-edhie.html",
+    "title": "萨尔沃·埃迪·维博沃（Sarwo Edhie Wibowo）",
+    "name": "萨尔沃·埃迪·维博沃（Sarwo Edhie Wibowo）",
+    "aliases": [
+      "Sarwo Edhie Wibowo"
+    ],
+    "summary": "萨尔沃·埃迪·维博沃（Sarwo Edhie Wibowo）在1965年指挥陆军伞兵突击团RPKAD。与驻扎某一个县的地方警备部队不同，RPKAD是可由中央调动的精锐机动力量，行动路线和到达时间对研究1965年不同地区暴力升级具有重要价值。不能将他的部队简单等同于中爪哇所有地方军区和警察。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "medium_unreviewed",
+    "paragraphs": 7,
+    "headings": 8,
+    "reference_links": 3,
+    "related": [
+      "people/person-suharto.html",
+      "regions/central-java.html",
+      "regions/bali.html",
+      "events/event-purge.html"
+    ],
+    "issues": []
+  },
+  {
+    "id": "P-schoonheyt",
+    "group": "people",
+    "path": "people/person-schoonheyt.html",
+    "source_path": "people/person-schoonheyt.html",
+    "title": "斯洪海特（L. J. A. Schoonheyt）",
+    "name": "斯洪海特（L. J. A. Schoonheyt）",
+    "aliases": [
+      "L. J. A. Schoonheyt"
+    ],
+    "summary": "L. J. A. 斯洪海特是博文迪古尔营地医生和记录者。他描述流放者劳动、工资、点名、健康和生活安排，为研究营地日常提供同时代观察；医生记录反映特定时期和岗位，不能代表每名被拘者的相同经历。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "brief_unreviewed",
+    "paragraphs": 3,
+    "headings": 3,
+    "reference_links": 0,
+    "related": [
+      "events/event-sukarno-exile.html"
+    ],
+    "issues": []
+  }
+]

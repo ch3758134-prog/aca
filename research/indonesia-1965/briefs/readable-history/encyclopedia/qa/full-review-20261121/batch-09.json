@@ -1,0 +1,136 @@
+{
+  "batch": 9,
+  "base": "8f01f771fd0e725e61dfe0e41606915dd6d45125",
+  "report": [
+    {
+      "path": "events/event-njono-trial-1966.html",
+      "bodyChars": 1550,
+      "paragraphs": 10,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-occupation.html",
+      "bodyChars": 1162,
+      "paragraphs": 10,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-offcampus.html",
+      "bodyChars": 752,
+      "paragraphs": 9,
+      "externalLinks": 1,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-pki-autocritique-1966.html",
+      "bodyChars": 4495,
+      "paragraphs": 21,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-pki-fifth-force-1965.html",
+      "bodyChars": 2628,
+      "paragraphs": 15,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-prd-1996.html",
+      "bodyChars": 1038,
+      "paragraphs": 8,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-preparation.html",
+      "bodyChars": 1079,
+      "paragraphs": 10,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-prewar-parliament.html",
+      "bodyChars": 844,
+      "paragraphs": 7,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-prisoners-1995-1998.html",
+      "bodyChars": 3066,
+      "paragraphs": 18,
+      "externalLinks": 8,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-proclamation.html",
+      "bodyChars": 1127,
+      "paragraphs": 9,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-purge.html",
+      "bodyChars": 2160,
+      "paragraphs": 15,
+      "externalLinks": 8,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-rebellion.html",
+      "bodyChars": 566,
+      "paragraphs": 6,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-recognition.html",
+      "bodyChars": 435,
+      "paragraphs": 6,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    }
+  ]
+}

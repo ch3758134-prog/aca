@@ -1,0 +1,129 @@
+{
+  "basis": "d796a8cf028e6c3894e69b52e56e37f6ec604cd7",
+  "range": [
+    120,
+    131
+  ],
+  "records": [
+    {
+      "path": "people/person-oloan-hutapea.html",
+      "length": 2098,
+      "searchLength": 0,
+      "ratio": 0,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 6
+    },
+    {
+      "path": "people/person-pakpahan.html",
+      "length": 1782,
+      "searchLength": 1753,
+      "ratio": 0.984,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "people/person-panjaitan.html",
+      "length": 1375,
+      "searchLength": 732,
+      "ratio": 0.532,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "people/person-parman.html",
+      "length": 1126,
+      "searchLength": 715,
+      "ratio": 0.635,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-piet-van-staveren.html",
+      "length": 4638,
+      "searchLength": 4609,
+      "ratio": 0.994,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "people/person-pranoto.html",
+      "length": 1557,
+      "searchLength": 1557,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "people/person-putmainah.html",
+      "length": 1772,
+      "searchLength": 1772,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-rewang.html",
+      "length": 3047,
+      "searchLength": 3018,
+      "ratio": 0.99,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "people/person-roem.html",
+      "length": 810,
+      "searchLength": 781,
+      "ratio": 0.964,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-ruslan-widjajasastra.html",
+      "length": 2198,
+      "searchLength": 2169,
+      "ratio": 0.987,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "people/person-sarwo-edhie.html",
+      "length": 1167,
+      "searchLength": 1138,
+      "ratio": 0.975,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "people/person-schoonheyt.html",
+      "length": 918,
+      "searchLength": 918,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    }
+  ]
+}

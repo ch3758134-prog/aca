@@ -1,0 +1,251 @@
+[
+  {
+    "id": "P-soetardjo",
+    "group": "people",
+    "path": "people/person-soetardjo.html",
+    "source_path": "people/person-soetardjo.html",
+    "title": "苏达佐·卡托哈迪库苏莫（Soetardjo Kartohadikusumo）",
+    "name": "苏达佐·卡托哈迪库苏莫（Soetardjo Kartohadikusumo）",
+    "aliases": [
+      "Soetardjo Kartohadikusumo"
+    ],
+    "summary": "苏达佐·卡托哈迪库苏莫是人民议会（Volksraad）议员。1936年他提出请愿，要求印尼与荷兰代表平等协商自治方案；议会通过请愿后，荷兰王室仍于1938年拒绝，显示殖民议会参与无法直接转化为自治权。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "brief_unreviewed",
+    "paragraphs": 3,
+    "headings": 3,
+    "reference_links": 0,
+    "related": [
+      "events/event-prewar-parliament.html"
+    ],
+    "issues": []
+  },
+  {
+    "id": "P-soetarto",
+    "group": "people",
+    "path": "people/person-soetarto.html",
+    "source_path": "people/person-soetarto.html",
+    "title": "苏塔托（Soetarto）",
+    "name": "苏塔托（Soetarto）",
+    "aliases": [
+      "Soetarto"
+    ],
+    "summary": "苏塔托是梭罗地方防务委员会负责人。1946年委员会成员包括民族委员会、工党和马斯友美党代表，参与共和国在梭罗建立行政与防务安排；这类地方机构显示独立革命不只发生在中央政府和正规军之间。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "brief_unreviewed",
+    "paragraphs": 3,
+    "headings": 3,
+    "reference_links": 0,
+    "related": [
+      "events/event-surakarta.html"
+    ],
+    "issues": []
+  },
+  {
+    "id": "P-sri-kayati",
+    "group": "people",
+    "path": "people/person-sri-kayati.html",
+    "source_path": "people/person-sri-kayati.html",
+    "title": "斯里·卡亚蒂（Sri Kayati）：雷旺家庭、文化组织与Plantungan拘押",
+    "name": "斯里·卡亚蒂（Sri Kayati）：雷旺家庭、文化组织与Plantungan拘押",
+    "aliases": [
+      "Sri Kayati"
+    ],
+    "summary": "Tirto报道引用Amurwani Dwi Lestariningsih 2011年的研究，将Sri Kayati记为 雷旺（Rewang）的妻子 ，并指其参与过LEKRA和CGMI有关文化、学生网络。妻子身份、文化活动及秘密党务是不同事实，不能从婚姻推导她知道或指挥丈夫的地下政治活动。",
+    "period": "待标准化",
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 12,
+    "headings": 7,
+    "reference_links": 3,
+    "related": [
+      "people/person-rewang.html",
+      "organizations/org-lekra.html",
+      "events/event-women-detainees.html"
+    ],
+    "issues": [],
+    "source_complete": false
+  },
+  {
+    "id": "P-sudarsono",
+    "group": "people",
+    "path": "people/person-sudarsono.html",
+    "source_path": "people/person-sudarsono.html",
+    "title": "苏达尔索诺（Sudarsono）",
+    "name": "苏达尔索诺（Sudarsono）",
+    "aliases": [
+      "Sudarsono"
+    ],
+    "summary": "苏达尔索诺是1946年七三事件中的军政人员之一。7月3日，他带人进入总统府递交改组方案，要求解散夏赫里尔内阁并调整国防指挥；苏加诺拒绝签署并下令拘押来人，其个人动机和行动授权仍有争议。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "brief_unreviewed",
+    "paragraphs": 3,
+    "headings": 3,
+    "reference_links": 0,
+    "related": [
+      "events/event-three-july.html"
+    ],
+    "issues": []
+  },
+  {
+    "id": "P-sudirman",
+    "group": "people",
+    "path": "people/person-sudirman.html",
+    "source_path": "people/person-sudirman.html",
+    "title": "苏迪尔曼（Sudirman）",
+    "name": "苏迪尔曼（Sudirman）",
+    "aliases": [
+      "Sudirman"
+    ],
+    "summary": "苏迪尔曼是共和国军队首任总司令和独立革命时期的主要军事领袖。日惹沦陷后，他坚持通过游击战维持共和国军事存在；1949年日惹总攻的筹划与指挥叙述涉及苏迪尔曼体系，但不同回忆对具体授权链有不同强调。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "brief_unreviewed",
+    "paragraphs": 3,
+    "headings": 3,
+    "reference_links": 0,
+    "related": [
+      "events/event-three-july.html",
+      "events/event-dutch-offensive.html"
+    ],
+    "issues": []
+  },
+  {
+    "id": "P-sudisman",
+    "group": "people",
+    "path": "people/person-sudisman.html",
+    "source_path": "people/person-sudisman.html",
+    "title": "苏迪斯曼（Sudisman）",
+    "name": "苏迪斯曼（Sudisman）",
+    "aliases": [
+      "Sudisman"
+    ],
+    "summary": "苏迪斯曼1920年出生于东爪哇泗水。印尼文化部门的历史人物条目与其1967年法庭辩护词的出版前言都记载，他在青年时期参加反荷兰民族运动。1942年日本占领印尼后，他加入反法西斯地下政治网络，曾参与组织课程，并在1942年9月被日本占领机关逮捕。这里的反占领行动发生在印尼共和国成立之前，不能用他后来受到新秩序政府的审判来解释当时活动的性质。 〔1〕",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 31,
+    "headings": 14,
+    "reference_links": 65,
+    "related": [
+      "people/person-aidit.html",
+      "people/person-sjam.html",
+      "people/person-untung.html",
+      "events/event-madiun.html",
+      "events/event-movement.html",
+      "events/event-purge.html",
+      "events/event-pki-autocritique-1966.html"
+    ],
+    "issues": []
+  },
+  {
+    "id": "P-suharto",
+    "group": "people",
+    "path": "people/person-suharto.html",
+    "source_path": "people/person-suharto.html",
+    "title": "苏哈托（Suharto）",
+    "name": "苏哈托（Suharto）",
+    "aliases": [
+      "Suharto"
+    ],
+    "summary": "苏哈托（Suharto）出身于荷属东印度爪哇农村，曾在殖民时期与日本占领时期受过军事训练。1945年独立后，他加入共和国军事体系，参与对荷战争以及随后长期的陆军整编。独立革命时形成的地方部队、指挥关系和军事政治联系，是他后来取得更广泛军事资源的背景。1965年他担任陆军战略预备队Kostrad司令，拥有不同于总统卫队和其他军区的实际调兵渠道。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 16,
+    "headings": 13,
+    "reference_links": 10,
+    "related": [
+      "people/person-sukarno.html",
+      "people/person-sarwo-edhie.html",
+      "events/event-movement.html",
+      "events/event-supersemar.html",
+      "events/event-reformasi.html",
+      "regions/south-blitar.html",
+      "events/event-trisula-1968.html",
+      "events/event-buru.html"
+    ],
+    "issues": []
+  },
+  {
+    "id": "P-sukarno",
+    "group": "people",
+    "path": "people/person-sukarno.html",
+    "source_path": "people/person-sukarno.html",
+    "title": "苏加诺（Sukarno）",
+    "name": "苏加诺（Sukarno）",
+    "aliases": [
+      "Sukarno"
+    ],
+    "summary": "苏加诺 1901年出生于泗水，父亲 苏克米 为教师，母亲 尼奥曼·莱 来自巴厘岛。青年时期他在泗水求学，住在伊斯兰联盟领袖 乔克罗阿米诺托 家中，得以接触反殖民演说、政党及报刊网络。这些经历使他熟悉民族主义、宗教政治和社会主义者之间的复杂关系，不能仅将他理解成后来某一党派的代表。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 25,
+    "headings": 14,
+    "reference_links": 37,
+    "related": [
+      "people/person-soekemi.html",
+      "people/person-nyoman-rai.html",
+      "people/person-tjokroaminoto.html",
+      "people/person-hatta.html",
+      "people/person-sjahrir.html",
+      "events/event-madiun.html",
+      "events/event-guided.html",
+      "people/person-aidit.html",
+      "events/event-land.html",
+      "events/event-konfrontasi.html",
+      "events/event-movement.html",
+      "people/person-suharto.html",
+      "events/event-supersemar.html",
+      "events/event-pki-fifth-force-1965.html",
+      "events/event-bima-republic-1945.html"
+    ],
+    "issues": []
+  },
+  {
+    "id": "P-sultan-hb-ix",
+    "group": "people",
+    "path": "people/person-sultan-hb-ix.html",
+    "source_path": "people/person-sultan-hb-ix.html",
+    "title": "哈孟库布沃诺九世（Sri Sultan Hamengku Buwono IX）",
+    "name": "哈孟库布沃诺九世（Sri Sultan Hamengku Buwono IX）",
+    "aliases": [
+      "Sri Sultan Hamengku Buwono IX"
+    ],
+    "summary": "哈孟库布沃诺九世（Sri Sultan Hamengku Buwono IX）是日惹苏丹，同时积极支持1945年成立的印尼共和国。苏丹王室在地区拥有行政、土地和象征权力，如何把这些资源用于共和国抗荷战争，既涉及本地民众的政治选择，也关系共和国在遭军事进攻时的避难和通信。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "medium_unreviewed",
+    "paragraphs": 6,
+    "headings": 7,
+    "reference_links": 3,
+    "related": [
+      "people/person-roem.html",
+      "people/person-suharto.html",
+      "events/event-dutch-offensive.html"
+    ],
+    "issues": []
+  },
+  {
+    "id": "P-sultan-salahuddin",
+    "group": "people",
+    "path": "people/person-sultan-salahuddin.html",
+    "source_path": "people/person-sultan-salahuddin.html",
+    "title": "穆罕默德·萨拉胡丁苏丹：比马王室与印尼共和国的关系",
+    "name": "穆罕默德·萨拉胡丁苏丹：比马王室与印尼共和国的关系",
+    "aliases": [],
+    "summary": "1945年比马苏丹发布政治宣言，主张地方归属新成立的印度尼西亚共和国，同时涉及王室行政权力安排。殖民时代继位、共和国承认与后来的地方自治属于不同法律步骤。",
+    "period": "待标准化",
+    "status": "imported",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 11,
+    "headings": 3,
+    "reference_links": 36,
+    "related": [],
+    "issues": []
+  }
+]

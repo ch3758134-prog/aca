@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "people/person-sukarno.html",
+    "relation": "涉及",
+    "objects": [
+      "people/person-aidit.html",
+      "people/person-suharto.html",
+      "events/event-movement.html",
+      "events/event-supersemar.html",
+      "organizations/org-pki.html"
+    ]
+  },
+  {
+    "subject": "people/person-aidit.html",
+    "relation": "涉及",
+    "objects": [
+      "people/person-sukarno.html",
+      "events/event-movement.html",
+      "organizations/org-pki.html"
+    ]
+  },
+  {
+    "subject": "events/event-movement.html",
+    "relation": "前后关联",
+    "objects": [
+      "events/event-purge.html",
+      "events/event-supersemar.html",
+      "people/person-sukarno.html",
+      "people/person-suharto.html"
+    ]
+  },
+  {
+    "subject": "events/event-aceh-1965-repression.html",
+    "relation": "地方关联",
+    "objects": [
+      "regions/aceh.html",
+      "organizations/org-baperki.html",
+      "events/event-purge.html"
+    ]
+  },
+  {
+    "subject": "organizations/org-sobsi.html",
+    "relation": "组织与人物事件",
+    "objects": [
+      "people/person-adam-soepardjan.html",
+      "events/event-sobsi-1946-1949.html",
+      "events/event-union-prisoners-1977.html"
+    ]
+  },
+  {
+    "subject": "regions/aceh.html",
+    "relation": "地区事件",
+    "objects": [
+      "events/event-aceh-1965-repression.html",
+      "events/event-purge.html",
+      "organizations/org-baperki.html"
+    ]
+  },
+  {
+    "subject": "regions/west-kalimantan.html",
+    "relation": "地区事件",
+    "objects": [
+      "events/event-west-kalimantan-1967-expulsion.html"
+    ]
+  },
+  {
+    "subject": "regions/south-sulawesi.html",
+    "relation": "地区事件",
+    "objects": [
+      "events/event-moncongloe-detention.html"
+    ]
+  },
+  {
+    "subject": "events/event-trisula-1968.html",
+    "relation": "涉及",
+    "objects": [
+      "regions/south-blitar.html",
+      "people/person-rewang.html",
+      "events/event-purge.html"
+    ]
+  }
+]

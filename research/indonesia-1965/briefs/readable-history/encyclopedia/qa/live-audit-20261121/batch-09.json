@@ -1,0 +1,129 @@
+{
+  "basis": "eee89d2ae757f77c836ac4c300d6732d854df1bd",
+  "range": [
+    108,
+    119
+  ],
+  "records": [
+    {
+      "path": "people/person-lukman.html",
+      "length": 2076,
+      "searchLength": 2047,
+      "ratio": 0.986,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "people/person-mallaby.html",
+      "length": 1827,
+      "searchLength": 1827,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "people/person-mansergh.html",
+      "length": 1859,
+      "searchLength": 1859,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 5
+    },
+    {
+      "path": "people/person-maraden-panggabean.html",
+      "length": 866,
+      "searchLength": 866,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-marsinah.html",
+      "length": 1563,
+      "searchLength": 1534,
+      "ratio": 0.981,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 6
+    },
+    {
+      "path": "people/person-martens.html",
+      "length": 1273,
+      "searchLength": 1244,
+      "ratio": 0.977,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "people/person-munir.html",
+      "length": 2420,
+      "searchLength": 2391,
+      "ratio": 0.988,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "people/person-musso.html",
+      "length": 3706,
+      "searchLength": 3677,
+      "ratio": 0.992,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-nasution.html",
+      "length": 1530,
+      "searchLength": 1530,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 6
+    },
+    {
+      "path": "people/person-njoto.html",
+      "length": 2502,
+      "searchLength": 0,
+      "ratio": 0,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 5
+    },
+    {
+      "path": "people/person-nyoman-rai.html",
+      "length": 958,
+      "searchLength": 958,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 1
+    },
+    {
+      "path": "people/person-oetari.html",
+      "length": 756,
+      "searchLength": 756,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 1
+    }
+  ]
+}

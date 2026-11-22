@@ -1,0 +1,142 @@
+{
+  "date": "2026-11-21",
+  "basis": "5bcce2adff2b4b30ca2febdf394de3a106740489",
+  "range": [
+    0,
+    11
+  ],
+  "records": [
+    {
+      "path": "events/event-1952.html",
+      "type": "events",
+      "bodyLength": 1705,
+      "searchLength": 1705,
+      "matchRatio": 1,
+      "broken": [],
+      "missingAnchors": [],
+      "duplicates": [],
+      "externalRefs": 4
+    },
+    {
+      "path": "events/event-aceh-1965-repression.html",
+      "type": "events",
+      "bodyLength": 1988,
+      "searchLength": 1988,
+      "matchRatio": 1,
+      "broken": [],
+      "missingAnchors": [],
+      "duplicates": [],
+      "externalRefs": 2
+    },
+    {
+      "path": "events/event-bima-republic-1945.html",
+      "type": "events",
+      "bodyLength": 3403,
+      "searchLength": 3403,
+      "matchRatio": 1,
+      "broken": [],
+      "missingAnchors": [],
+      "duplicates": [],
+      "externalRefs": 0
+    },
+    {
+      "path": "events/event-bima-women-1950s.html",
+      "type": "events",
+      "bodyLength": 6267,
+      "searchLength": 6267,
+      "matchRatio": 1,
+      "broken": [],
+      "missingAnchors": [],
+      "duplicates": [],
+      "externalRefs": 0
+    },
+    {
+      "path": "events/event-bovendigoel.html",
+      "type": "events",
+      "bodyLength": 993,
+      "searchLength": 993,
+      "matchRatio": 1,
+      "broken": [],
+      "missingAnchors": [],
+      "duplicates": [],
+      "externalRefs": 0
+    },
+    {
+      "path": "events/event-buru.html",
+      "type": "events",
+      "bodyLength": 1902,
+      "searchLength": 1902,
+      "matchRatio": 1,
+      "broken": [],
+      "missingAnchors": [],
+      "duplicates": [],
+      "externalRefs": 4
+    },
+    {
+      "path": "events/event-colonial.html",
+      "type": "events",
+      "bodyLength": 937,
+      "searchLength": 937,
+      "matchRatio": 1,
+      "broken": [],
+      "missingAnchors": [],
+      "duplicates": [],
+      "externalRefs": 0
+    },
+    {
+      "path": "events/event-criminal-code-2026.html",
+      "type": "events",
+      "bodyLength": 983,
+      "searchLength": 983,
+      "matchRatio": 1,
+      "broken": [],
+      "missingAnchors": [],
+      "duplicates": [],
+      "externalRefs": 3
+    },
+    {
+      "path": "events/event-diplomacy-revolution.html",
+      "type": "events",
+      "bodyLength": 1059,
+      "searchLength": 1059,
+      "matchRatio": 1,
+      "broken": [],
+      "missingAnchors": [],
+      "duplicates": [],
+      "externalRefs": 2
+    },
+    {
+      "path": "events/event-dutch-offensive.html",
+      "type": "events",
+      "bodyLength": 1509,
+      "searchLength": 1509,
+      "matchRatio": 1,
+      "broken": [],
+      "missingAnchors": [],
+      "duplicates": [],
+      "externalRefs": 0
+    },
+    {
+      "path": "events/event-election-2024.html",
+      "type": "events",
+      "bodyLength": 1566,
+      "searchLength": 1566,
+      "matchRatio": 1,
+      "broken": [],
+      "missingAnchors": [],
+      "duplicates": [],
+      "externalRefs": 4
+    },
+    {
+      "path": "events/event-election.html",
+      "type": "events",
+      "bodyLength": 1250,
+      "searchLength": 1250,
+      "matchRatio": 1,
+      "broken": [],
+      "missingAnchors": [],
+      "duplicates": [],
+      "externalRefs": 5
+    }
+  ]
+}

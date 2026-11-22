@@ -1,0 +1,129 @@
+{
+  "basis": "576a5846c1310e20ccb0a9a882d1fcbfd52888fa",
+  "range": [
+    36,
+    47
+  ],
+  "records": [
+    {
+      "path": "events/event-pki-autocritique-1966.html",
+      "length": 4771,
+      "searchLength": 4742,
+      "ratio": 0.994,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "events/event-pki-fifth-force-1965.html",
+      "length": 2916,
+      "searchLength": 2887,
+      "ratio": 0.99,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-prd-1996.html",
+      "length": 1209,
+      "searchLength": 1180,
+      "ratio": 0.976,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "events/event-preparation.html",
+      "length": 1332,
+      "searchLength": 1332,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-prewar-parliament.html",
+      "length": 1030,
+      "searchLength": 1001,
+      "ratio": 0.972,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "events/event-prisoners-1995-1998.html",
+      "length": 3658,
+      "searchLength": 3629,
+      "ratio": 0.992,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 8
+    },
+    {
+      "path": "events/event-proclamation.html",
+      "length": 1306,
+      "searchLength": 1306,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-purge.html",
+      "length": 2757,
+      "searchLength": 2728,
+      "ratio": 0.989,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 8
+    },
+    {
+      "path": "events/event-rebellion.html",
+      "length": 1189,
+      "searchLength": 1189,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "events/event-recognition.html",
+      "length": 948,
+      "searchLength": 948,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "events/event-reformasi.html",
+      "length": 1447,
+      "searchLength": 1418,
+      "ratio": 0.98,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "events/event-sbsi.html",
+      "length": 927,
+      "searchLength": 898,
+      "ratio": 0.969,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    }
+  ]
+}

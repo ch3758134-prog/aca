@@ -1,0 +1,136 @@
+{
+  "batch": 10,
+  "base": "823a976403ebec63042938086949d7432a539ecf",
+  "report": [
+    {
+      "path": "events/event-reformasi.html",
+      "bodyChars": 1112,
+      "paragraphs": 9,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-sbsi.html",
+      "bodyChars": 714,
+      "paragraphs": 8,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-semaun-hatta-1926.html",
+      "bodyChars": 1258,
+      "paragraphs": 8,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-shangrila-2000.html",
+      "bodyChars": 1291,
+      "paragraphs": 10,
+      "externalLinks": 4,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-sobsi-1946-1949.html",
+      "bodyChars": 1121,
+      "paragraphs": 9,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-sukarno-dewi-letters.html",
+      "bodyChars": 758,
+      "paragraphs": 9,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-sukarno-exile.html",
+      "bodyChars": 1389,
+      "paragraphs": 9,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-supersemar.html",
+      "bodyChars": 1086,
+      "paragraphs": 9,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-surabaya.html",
+      "bodyChars": 1224,
+      "paragraphs": 9,
+      "externalLinks": 3,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-surakarta.html",
+      "bodyChars": 769,
+      "paragraphs": 7,
+      "externalLinks": 0,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-surveillance.html",
+      "bodyChars": 531,
+      "paragraphs": 6,
+      "externalLinks": 1,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-takeover.html",
+      "bodyChars": 847,
+      "paragraphs": 9,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    },
+    {
+      "path": "events/event-three-july.html",
+      "bodyChars": 1155,
+      "paragraphs": 10,
+      "externalLinks": 2,
+      "duplicates": 0,
+      "broken": [],
+      "removedLabels": 0,
+      "addedRelated": 0
+    }
+  ]
+}
