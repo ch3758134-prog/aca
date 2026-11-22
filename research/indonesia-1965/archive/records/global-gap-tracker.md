@@ -446,3 +446,14 @@
 **G7 不同年代交叉检索**：印尼劳动部JDIH https://jdih.kemnaker.go.id/peraturan/detail/32/undang-undang-nomor-21-tahun-2000 与BPK官方法条 https://peraturan.bpk.go.id/Download/33380/UU%20Nomor%2021%20Tahun%202000.pdf 复核2000-08-04工会法及十人发起、书面通知/登记制度；正式来源 **S611已登记**。这证明规范文本，不证明1998后各县工会登记或实际自由。缺件：地方Disnaker工会收件/登记台账、企业谈判与解雇案件、2024—2026工会组织结构及实施证据。
 
 **治理与续接**：已重读2026-11-09 G1—G10完整性审计及AGENTS/stage-access/goal-continuity，正式来源去重S140/S456/S611。claim-ledger.csv非空SHA却返回0字符，禁止覆盖或发新C编号；正式CSV及统一chronology尚未安全并库。下次从SPRIN/802/TPD/XII/1977及BAP267原件、Flores 1966-02-27县会议记录与3月15日军方警告原函开始；轮换G1殖民流放与G7县级登记，并持续补齐G4其余各省。G1—G10 OPEN，长期GOAL未完成。
+
+
+## 2026-11-22｜ONGOING / GOAL仍进行｜Moncongloe释放口径与2024劳动判决原件（G5/G6 × G7/G10）
+
+**本次全局复核**：直接读取completeness-audit-2026-11-09.md完整G1—G10，及AGENTS、stage-access、goal-continuity、continuity-status、source-register、search-log、coverage-matrix、chronology；research-status.md在archive/records路径404。claim-ledger.csv的Git blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a仍为非空对象但UTF-8接口返回零字符，未覆盖。继承现有S1530、Q593、CV662以后编号；本条不另造S/C。
+
+**G5/G6（南苏拉威西1970—1977，原始机构调查摘要全文A，非证词原件）**：重新打开Komnas HAM《Ringkasan Eksekutif Tim Ad Hoc Peristiwa 1965-1966》印尼语PDF（TAPOL保存的官方署名文本） https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf 。证人A54称1977-12-20与另466名被拘者一起离营；此处“466名其他人”与“总计466人”可能在转译中混淆，须核印尼文原页和释放名单，不可当作全营累计人数。证人B55称根据SPRIN/802/TPD/XII/1977由完全拘押改为居家拘押，故“dibebaskan”不等于行动自由。报告亦转述拘押者开垦军人私人土地、修筑Moncongloe—Daya约23公里道路的证词：道路长度与劳动性质是调查报告记载的证人陈述，不是工程竣工验收数据。缺件：原始BAP 266—269/2009、SPRIN/802签字全文、1977年12月逐人出营和居家监督名册、道路工程记录。阻碍：报告的证词匿名、数字口径与释放性质存在歧义。不可将委员会报告与其英文翻译算作独立两证。
+
+**G7（全国2024劳动法争议，法院正式判决全文A）**：打开印尼政府法规库所载宪法法院2024年第168/PUU-XXI/2023号判决PDF https://peraturan.go.id/files3/putusan-mahkamah-konstitusi-no-168-puu-xxi-2023-tahun-2024.pdf ，第190页附近§443—446明确引用2000年第21号工会法的工会定义及ILO第98号公约，并讨论2023年第6号法改变的劳工权利条款。该处处于当事人法律论证段落，**不能把§443—446直接称为法院裁判主文或认定全部诉请成立**；应继续逐页核判决末尾amar putusan及其具体条款，结合2025—2026实施规定和县级工会档案。官方法条 https://jdih.kemnaker.go.id/peraturan/detail/32/undang-undang-nomor-21-tahun-2000 记载工会最低10人、向当地劳动机关书面报备及取得登记号，属法规规则，不是实际地方登记率。2024-01-25宪法法院新闻 https://www.mkri.id/berita/-19956 转述专家Indrasari Tjandraningsih关于2005—2023工会数量变化的陈述，**数字口径明显需要核原始统计（会员/工会数不可混同）**，暂不采纳为确证的全国工会数量。缺件：168号判决主文逐项核读、劳工部实际执行文件、县市登记名册、工会会员统计原表。阻碍：规范性文件不能证明地方实施；庭审专家陈述不等于法院认定。
+
+**G1—G10横向续接**：G1 ANRI警察档案1215及劳动部91号原件；G2 SOBSI/BTI/Gerwani地方账簿；G3军令广播收发；G4 Aceh、北苏门答腊、东西中爪哇、巴厘、Flores、West Kalimantan、Sulawesi地方名册；G5证人BAP；G6释放监督及PRD；G7县级工会；G8英美澳中苏执行档；G9人地组织索引；G10正式CSV、统一时间线和成熟中文正文仍全部OPEN。下一执行优先交叉获取Moncongloe 1977释放名单与2024判决主文，同时换入Aceh/Flores地区军令，避免持续围绕单一地点。此处为证据追查记录，不替代正式CSV或可读正文；后两者仍有待安全同步。
