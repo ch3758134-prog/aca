@@ -1373,3 +1373,12 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 ## 2026-11-22｜ONGOING / GOAL仍进行｜亚齐清洗名单 × 1948工会档案
 本次重读G1—G10审计及正式台账。S472 Melvin 2018公开学术全文第7章表7.1直接核读：1965-10-18至1967-03-31的82件处分文件涉及约111名人员；10-18省长签署林业部门Ibnu Sjakur、Ir Gani Abu处分，10-20 Takengon县长处分S.M. Lahat与Sedjuk；均为**作者引述原件**，不是已读原始签署文件，也不是死亡名册。与S855军方记录1,941公开杀戮数字分开。跨项G1/G2复核ANRI官方警察档案493（1948-05-01 GASBRI公告，1页副本）、494（不完整PKI成员卷）和官方阅览复制渠道；仍未获得493/501/481原件。已更新global-gap-tracker.md及chronology.md。正式claim-ledger.csv接口仍返回空正文（非空SHA），禁止覆盖；其他正式CSV和成熟中文正文尚未同步。
 精确接力：1. 核S472表7.1—7.2全部人员、县和签署机关；2. 对S855军方原扫描核1,941分区计数与统计期间；3. 向ANRI索警察馆藏493/501/481/494复制件；4. 比较北苏门答腊/东爪哇地方行政处分名单；5. 核G7地方工会登记及G8英美澳中苏原始执行文件。G1—G10 OPEN，GOAL未完成。
+
+
+## 2026-11-23｜Sutedja证据依赖复核（ONGOING / GOAL仍进行）
+
+本轮读取AGENTS、goal-continuity、stage-access、正式四CSV与chronology；正式台账路径为archive/records，claim-ledger.csv有blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但正文读取为空，未覆盖。写入前近期main HEAD观测值8fe1bb564be3251ea9e4555490390dc94c0c5e09（非本次提交SHA）。
+
+打开Trisila 2013原刊PDF https://ojs.unud.ac.id/index.php/kajianbali/article/download/15698/10480/ 与Wijaya 2019原刊全文 https://download.garuda.kemdikbud.go.id/article.php?article=1228683&title=Remembering+the+Forgotten+Past+A+Case+Study+of+Bali%27s+First+Governor+Anak+Agung+Bagus+Sutedja&val=11675 。Wijaya第88页记1966-07-29四名武装制服人员以Skogar Captain Teddy名义带走Sutedja；但其依据Aju/Trisila，不能算独立同期目击。2020-10-04 SINDOnews https://daerah.sindonews.com/read/185010/29/kisah-penculikan-gubernur-bali-sutedja-jejaknya-hingga-kini-belum-terungkap-1601745035?showpage=all 明确取材Aju，称家属当晚23时报警，仍非警方原始登记。Trisila参考书目列1966-07-26《Laporan tertulis atas penculikan A.A.B. Sutedja》，早于7月29日叙事；可能是日期误植、不同报告或叙事误记，尚未解决。2019文的社会记忆解释不等于对绑架执行机关的证实。正式S1531目前仍标注PDF未读，后续需安全更新来源访问等级而不重复登记。
+
+精准未完：①取Puri Negara Jembrana 1966-07-26报告影印及落款；②取1966-07-29 23时Jakarta警局接报簿；③查Skogar值班、Captain Teddy人事与军车调度原件；④取1965-11-03 Pepelrada决定、1965-12-18 Keppres 380/1965及12月1—4日《Suara Indonesia》；⑤轮换Aceh军令、1948 Delanggu劳动部91号卷宗、1970—1998劳工政治犯材料。此次未改四CSV/chronology/成熟中文正文，不声称并库完成。GOAL永久OPEN。
