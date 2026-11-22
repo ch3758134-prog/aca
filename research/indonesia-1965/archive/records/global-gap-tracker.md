@@ -435,3 +435,14 @@
 **跨地区比较的边界**：1927殖民行政流放与1969—1977军方控制的Moncongloe拘押是两个不同时期的制度，不得直接声称法律、指挥系统或目的连续。比较只作为研究问题：行政标签如何掩盖实际人身自由限制，谁签发拘押、谁执行、释放如何登记。
 
 **具体续接**：（1）在Komnas HAM PDF内逐页定位Moncongloe匿名证言及BAP脚注，核对扫描页码与证词A/B/C/D对应；（2）追取Komnas HAM原官网版本、2009年266—269号笔录及1977-12-20释放名单；（3）在荷兰Nationaal Archief/Delpher查1926-12-10 Boven-Digoel regeringsbesluit及1927年押送名单；（4）转向Aceh 1965年10月县军令与Flores 1966年3月军方警告信，避免仅集中苏拉威西；（5）核查正式CSV现有两项来源是否登记，claim-ledger仍须先解决读取空正文，未获核准不得分配C编号。G1—G10全部OPEN。
+
+
+## 2026-11-22｜跨项深化：Moncongloe释放命令与Flores地方甄别会议（ONGOING）
+
+**G5/G6/G9 南苏拉威西，机构调查摘要原文已直接核读，非释放令原件。** Komnas HAM 2012年印尼语调查执行摘要（正式署名PDF由TAPOL镜像）印刷页约145、149—150、154—155，https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ：报告载1977-12-20地方TEPERDA释放/转管令 **SPRIN/802/TPD/XII/1977**，签署者为Major CPM Idham Alam；措辞是从“完全拘押”改为“居家拘押”，离家须获当地DANDIM或TEPERDA Sulselra许可，**不能把该日一概记为完全自由**。匿名证人B（BAP 267/BAP_TPPH65/III/2009）称1972年从Majene转押Moncongloe，1977-12-20适用上述命令；证人C（BAP 268）记1974-08-08 C3释放分类，证人D（BAP 269）记B2分类。报告另称1977同批Moncongloe与Buru约1000+9000=10000，但系报告叙述而非逐人核实的名册；报告另有明显“1970-12-20”年份笔误，应以具体命令日期及证词对读，不自动更正为确证事实。**来源S140已登记**，勿重复分配。缺原件：SPRIN/802签章影印、逐人附表、BAP 266—269/2009、居家监督/旅行许可、1974-08-08 C3释放函。阻碍：目前只有调查摘要转述，不能证明命令原件、实际离营及所有人获释。
+
+**G3/G4/G5/G9 Flores/Sikka，学术全文B，不是1966会议原始记录。** Gerry van Klinken, *The Making of Middle Indonesia* (2014), Chapter 10, UvA公开完整PDF https://pure.uva.nl/ws/files/2526919/166060_488108.pdf ，章节引述匿名1974年记载：1966-02-27 Sikka县议会厅，Komop参谋长、G30S调查组负责人、政党/社会组织/Golkar代表会商第二波应“secured”人员；会议由调查组负责人Karel Elkel与军方代表Sergeant Major Jos U. Tokoh主持。此为**学术作者翻译的匿名回顾记载**，不是会议纪要或已核实签署名单；不得认定与会者均同意或实际执行全部名单。既有John Mansford Prior 2011全文 **S456** 又引1966-03-15 Major Soemarno对Bola教区神父Pede da Lopez的警告函（原函未见），可作为跨机构顺序追查：2月27日甄别会议→3月6日神父干预（研究记载）→3月15日警告函；不能仅凭两篇学术叙述断言指挥因果。缺原件：匿名1974年手稿及1966-02-27会议签到/名单/Komop命令、1966-03-15签字函与教区收件簿、县级被拘/死亡逐人名册。阻碍：学术引用的原始档案未公开核读；不同作者可能共享同一回忆来源，不当作独立证实。
+
+**G7 不同年代交叉检索**：印尼劳动部JDIH https://jdih.kemnaker.go.id/peraturan/detail/32/undang-undang-nomor-21-tahun-2000 与BPK官方法条 https://peraturan.bpk.go.id/Download/33380/UU%20Nomor%2021%20Tahun%202000.pdf 复核2000-08-04工会法及十人发起、书面通知/登记制度；正式来源 **S611已登记**。这证明规范文本，不证明1998后各县工会登记或实际自由。缺件：地方Disnaker工会收件/登记台账、企业谈判与解雇案件、2024—2026工会组织结构及实施证据。
+
+**治理与续接**：已重读2026-11-09 G1—G10完整性审计及AGENTS/stage-access/goal-continuity，正式来源去重S140/S456/S611。claim-ledger.csv非空SHA却返回0字符，禁止覆盖或发新C编号；正式CSV及统一chronology尚未安全并库。下次从SPRIN/802/TPD/XII/1977及BAP267原件、Flores 1966-02-27县会议记录与3月15日军方警告原函开始；轮换G1殖民流放与G7县级登记，并持续补齐G4其余各省。G1—G10 OPEN，长期GOAL未完成。
