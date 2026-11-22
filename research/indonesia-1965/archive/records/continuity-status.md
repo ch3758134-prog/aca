@@ -1271,3 +1271,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准未完事项**：（1）核取1948-07-19《Merdeka》第785号第2页及07-14—18《Buruh》/其他报纸，明确协议、停工结束、复工的不同日期；（2）获取1948-06-14 LBT致BTN原函、06-15七支部会议及06-17—19谈判纪要，核SARBUPRI/BTI/SOBSI/LBT实际权限；（3）查07-10冲突警察/军方、STII及工会双方记录，分辨伤亡、替工、Siliwangi介入时间；（4）从正式source-register按Suyatno、Swift、Prayogo、URL和Delanggu去重，恢复claim-ledger原始字节，安全并库四表、chronology和成熟中文叙事；（5）轮换1965年Aceh军令、南苏拉威西Moncongloe原件及1998年后工会登记实际执行，防止单地区锁定。
 
 **提交SHA治理**：本次提交前已知最新历史提交为 cc83964121f9c0f8935310bcaee6e91d5964c524（来自上一续接，非本次实时HEAD证明）；本次提交SHA不能自我写入同一次Git提交，将以GitHub写入结果和后续HEAD回读为准。GOAL永久OPEN。
+
+
+## 2026-11-22 18:53 CST｜ONGOING / GOAL仍进行｜1948 Delanggu与共和国军政竞争的研究对照
+
+已核读 AGENTS、goal-continuity、stage-access、统一状态及正式 source-register/claim-ledger/search-log/coverage-matrix/chronology。claim-ledger.csv blob=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，内容接口仍返回空字符串；严禁覆盖或猜测C编号。
+
+**新增正式来源 S1528**：直接打开 Harry Poeze 与 Henk Schulte Nordholt, *Merdeka* (Amsterdam University Press, 2024), ch.10 “Civil War: February–November 1948” 出版社开放全文 https://www.degruyterbrill.com/document/doi/10.1515/9789048560844-011/pdf ，并对照出版社书目信息 https://www.degruyterbrill.com/document/doi/10.1515/9789048560844/html 。该章印刷页255—300讨论Renville后哈达内阁、Amir Sjarifuddin领导的FDR与Tan Malaka影响下的GRR的竞争；军队重组/精简使地方武装及FDR相关TNI Masyarakat受到影响。研究引Poeze 2007甚多，**属于后出学术综合，不是1948原始决议**；不得把该章与其所据2007年研究当成相互独立原始证人。有关FDR秘密行动计划的叙述尤其须取其原始文件脚注，区分计划与实施。
+
+**Delanggu 复核**：直接打开2014年 *Patrawidya* 15(3) H. Purwanta “Gerakan Kiri di Klaten: 1950–1965” 全文所在期刊转存 https://www.academia.edu/82771243/Patrawidya_Vol_15_No_3 ，印刷页357—372。文中引用1948-07-19《Merdeka》第785号第2页，转述协商结果：不同用工类别的布匹、米粮和工资安排；**已读的是2014年研究所引报纸，不是1948报纸原版**。其叙述“17 Juni 1948”罢工完全结束却紧接7月18日复工，存在显著内部日期矛盾，疑为月份排印错误但未见原报不得擅改。对照Swift《The Road to Madiun》页43（在线翻页57）记7月14日哈达与SOBSI会谈、7月17日前结束，Suyatno 1989转录记7月16日宣布、18日复工；这可能是谈判/协议/复工的不同阶段，也可能是相互引用或错误。当前不把1948-07-19《Merdeka》称为直接核读。
+
+**核验状态与提交**：本轮正式 source-register 新增S1528，提交 SHA 031a23cb1ee9976dbf39d37d1bfc54cbf267893f；本状态文件写入前重新读取blob SHA 9c763d13e470100aa8727ec3f7e7657b4a3453f4。本轮未更动claim-ledger、search-log、coverage-matrix、chronology及成熟中文正文；必须继续完成这些正式并库任务，不能把状态记录视为替代。
+
+**精准未完事项**：（1）取得1948-07-19《Merdeka》第785号第2页原扫描并核三类待遇条款和日期；（2）逐页核Poeze/Schulte Nordholt ch.10关于FDR 1948-02-05决策和Delanggu的脚注，追原始组织决议、政府公报和1948报纸；（3）取得LBT 06-14函、BTN 06-17—19谈判、SOBSI 07-17/18复工命令及KNIP调查记录，区分实际行动与后出解释；（4）正式为S1528登记检索日志/覆盖矩阵及可证的chronology条目，修复claim-ledger原字节读取后才新增原子主张，成熟后融入1945—1948中文连续正文；（5）轮换1965 Aceh军令、Moncongloe 1970年代政治犯、1990年代PPBI/PRD与2000年后工会登记执行。GOAL保持ACTIVE / OPEN-ENDED。状态本次提交SHA需以回执及远程HEAD独立核验为准，不能在自身提交前预填。
