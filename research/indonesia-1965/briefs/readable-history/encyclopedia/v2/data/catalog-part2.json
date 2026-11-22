@@ -544,14 +544,15 @@
     "aliases": [],
     "summary": "校园组织受到限制后，日惹帕拉甘研究会（Palagan Study Club）等读书会与法律援助团体同工人、农民和人权活动者建立联系。1988年前后，帕拉甘成员因政治活动被捕并按颠覆罪起诉；另一些学生参与反对克东翁博水库建设造成的农户迁移。1990年代的民主团体、独立工会和农民组织中有校外活动者参与，议题与人际联系延续到新的组织网络。 [校外学生网络与克东翁博行动]",
     "period": "1967—1998",
-    "status": "imported",
-    "review_level": "medium_unreviewed",
-    "paragraphs": 5,
-    "headings": 4,
-    "reference_links": 0,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 13,
+    "headings": 11,
+    "reference_links": 2,
     "related": [],
     "issues": [],
-    "era": "neworder"
+    "era": "neworder",
+    "source_complete": false
   },
   {
     "id": "E-pki-autocritique-1966",
@@ -773,16 +774,17 @@
     "aliases": [],
     "summary": "2023年1月11日， 佐科·维多多（Joko Widodo） 总统代表政府承认包括1965—1966年事件在内的十二类严重人权侵害，并表达遗憾。3月发布的第2号总统指示要求十九名部长及同级官员协调落实非司法处理建议，包括核对受害者名册、提供社会与医疗服务、教育和住房支持，并采取预防再发生措施；指示同时保留司法处理的可能。 [2023年总统承认与部门执行指示]",
     "period": "1998—2026",
-    "status": "imported",
-    "review_level": "medium_unreviewed",
-    "paragraphs": 7,
-    "headings": 4,
-    "reference_links": 0,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 12,
+    "headings": 9,
+    "reference_links": 5,
     "related": [
       "people/person-widodo.html"
     ],
     "issues": [],
-    "era": "reform"
+    "era": "reform",
+    "source_complete": false
   },
   {
     "id": "E-reformasi",

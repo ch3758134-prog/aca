@@ -434,17 +434,18 @@
     ],
     "summary": "达乌德·贝乌雷（Daud Beureueh）是亚齐重要伊斯兰宗教与政治组织者，曾在PUSA（全亚齐乌里玛联合会）网络中活动。地方宗教学者、传统贵族、共和国行政人员与中央政府之间的利益并不总相同。不能用“亚齐穆斯林”一个身份概括各种地方领导者对共和国的不同要求。",
     "period": "待标准化",
-    "status": "imported",
-    "review_level": "medium_unreviewed",
-    "paragraphs": 6,
-    "headings": 7,
-    "reference_links": 2,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 11,
+    "headings": 11,
+    "reference_links": 3,
     "related": [
       "people/person-kartosuwiryo.html",
       "regions/aceh.html",
       "events/event-rebellion.html"
     ],
-    "issues": []
+    "issues": [],
+    "source_complete": false
   },
   {
     "id": "P-dewi",
@@ -666,13 +667,14 @@
     ],
     "summary": "英吉特·加纳西是苏加诺在万隆时期的妻子和政治生活伙伴。她经营家庭、承担生计，并在苏加诺演讲、入狱和流放期间支持其活动；婚姻与离婚的确切日期仍应以家庭和民事档案核定。",
     "period": "待标准化",
-    "status": "imported",
-    "review_level": "brief_unreviewed",
-    "paragraphs": 3,
-    "headings": 3,
-    "reference_links": 0,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 11,
+    "headings": 10,
+    "reference_links": 4,
     "related": [],
-    "issues": []
+    "issues": [],
+    "source_complete": false
   },
   {
     "id": "P-ismail-bakri",
@@ -766,17 +768,18 @@
     ],
     "summary": "塞卡尔马吉·马里詹·卡尔托苏维约（S. M. Kartosuwiryo）早年与印尼伊斯兰联盟等组织有关。他对伊斯兰政治和民族独立的认识形成于荷兰殖民地统治与社会政治兴起时期。后来同共和国发生军事冲突，并不意味着他在1945年独立时就反对共和国；Elson与Formichi的研究特别提醒，要追查他为何在独立支持者和反政府武装领袖之间发生转变。 [1]",
     "period": "待标准化",
-    "status": "imported",
-    "review_level": "medium_unreviewed",
-    "paragraphs": 6,
-    "headings": 7,
-    "reference_links": 2,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 11,
+    "headings": 11,
+    "reference_links": 4,
     "related": [
       "people/person-kahar.html",
       "people/person-daud-beureueh.html",
       "events/event-diplomacy-revolution.html"
     ],
-    "issues": []
+    "issues": [],
+    "source_complete": false
   },
   {
     "id": "P-ki-hadjar",
@@ -790,15 +793,16 @@
     ],
     "summary": "基·哈查尔·德宛达拉是民族主义教育家，创办塔曼西斯瓦教育网络。日本占领时期，他与苏加诺、哈达、基·马斯·曼苏尔共同领导Putera；战后继续作为共和国教育思想的重要代表。",
     "period": "待标准化",
-    "status": "imported",
-    "review_level": "brief_unreviewed",
-    "paragraphs": 3,
-    "headings": 3,
-    "reference_links": 0,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 12,
+    "headings": 10,
+    "reference_links": 2,
     "related": [
       "events/event-wartime-mobilization.html"
     ],
-    "issues": []
+    "issues": [],
+    "source_complete": false
   },
   {
     "id": "P-ki-mas-mansyur",
@@ -812,15 +816,16 @@
     ],
     "summary": "基·马斯·曼苏尔是穆罕默迪亚宗教与教育领袖，参与民族主义活动。日本占领期间，他与苏加诺、哈达和基·哈查尔·德宛达拉共同领导Putera；该机构既提供民族主义动员平台，也服务于日本占领政权的战争动员。",
     "period": "待标准化",
-    "status": "imported",
-    "review_level": "brief_unreviewed",
-    "paragraphs": 3,
-    "headings": 3,
-    "reference_links": 0,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 10,
+    "headings": 9,
+    "reference_links": 4,
     "related": [
       "events/event-wartime-mobilization.html"
     ],
-    "issues": []
+    "issues": [],
+    "source_complete": false
   },
   {
     "id": "P-lukman",
@@ -1715,16 +1720,17 @@
     ],
     "summary": "苏迪尔曼是共和国军队首任总司令和独立革命时期的主要军事领袖。日惹沦陷后，他坚持通过游击战维持共和国军事存在；1949年日惹总攻的筹划与指挥叙述涉及苏迪尔曼体系，但不同回忆对具体授权链有不同强调。",
     "period": "待标准化",
-    "status": "imported",
-    "review_level": "brief_unreviewed",
-    "paragraphs": 3,
-    "headings": 3,
-    "reference_links": 0,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 12,
+    "headings": 10,
+    "reference_links": 5,
     "related": [
       "events/event-three-july.html",
       "events/event-dutch-offensive.html"
     ],
-    "issues": []
+    "issues": [],
+    "source_complete": false
   },
   {
     "id": "P-sudisman",
