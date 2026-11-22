@@ -1308,3 +1308,7 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **正式落档**：source-register新增S1530（提交 `f373e75bdff5c5bdc1e907f0f6c5b3738f03d36c`）、search-log新增Q593（`ab6aa706c273429d9b525b751573dae65c01ce1f`）、coverage-matrix新增CV662（`ddf256853b41f41b7609b5beb7862bb03de28c33`）、chronology追加目录级条目（`26387c483d002088ac07fc27dc371d9a50a2eddb`）。该最后SHA为本状态更新前最新已知提交；本状态提交的自身SHA须以提交回执及远程main独立核验，不可预填。
 
 **下一次精准未完事项**：（1）向ANRI取警察档案1215号1948-07-01 Delanggu一页副本，核全文、署名、地点与事件；（2）同馆取569、1201、1205、1211，分辨PAM监控、BTI诉求和新闻摘录的不同信息来源；（3）取劳动部第91号1948-06-14—19 LBT卷宗及第74号1947 PKI纲领原件；（4）取1948-07-19《Merdeka》785号第2页及7月10—18日同期报纸，核日期冲突，并修复claim-ledger原始字节读取；（5）轮换Aceh 1965军令/Baperki名单、Moncongloe 1970年代拘押、1990年代PPBI/PRD和2000年后地方工会登记实证，继续推动成熟中文连续正文。GOAL ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-22｜ONGOING / GOAL仍进行：巴厘军政私人档案新取件入口
+已重读completeness-audit-2026-11-09.md、AGENTS、stage-access、goal-continuity、正式来源/检索/覆盖台账及时间线、滚动缺口总账；research-status.md路径404，claim-ledger.csv非空SHA但返回空正文，未覆盖。新增正式S1531：Trisila《A.A.B. Sutedja File》期刊页面与参考文献已读（仅摘要及书目，论文PDF未读）。其列Puri Negara Jembrana五件待取原件：1965-11-03 KEP-PPD.2/1/234、12-03总统秘书处备忘录、12-10苏加诺会谈纪要、12-18总统决定380/1965、1966-07-26失踪报告。既有S400/S401为巴厘使馆估计链，数字非独立死亡名册。G1—G10均OPEN。正式提交：S1531 `60e27e934c9675365cf774e789d987ecfd528466`；缺口总账 `8191f5ec7b5782c1be274e9a9751855fbe2e79d8`。未同步chronology、claim-ledger、search-log、coverage-matrix或中文正文，需后续补齐。下一步：读论文PDF；追Puri Negara原件及军区收文；核Sutedja12月任职链；轮换西加里曼丹1966—67军令与1948 Delanggu ANRI原件；修复claim-ledger安全读取。当前执行结束不代表研究结束。
