@@ -536,3 +536,12 @@
 **来源去重与正式归档阻碍：** 本次已读取项目规则、G1—G10审计、连续状态及缺口总账；尝试从 `research/indonesia-1965/` 根路径读取五个正式CSV及chronology均404，尚未定位真实路径，故未分配任何S/C/Q/CV编号，也未虚构已完成CSV并库。正式时间线、研究状态、中文可读历史未更新。下一次优先查GitHub树真实路径；逐条检查上述书目是否已登记，避免重复。上述四项仅作馆藏检索和后续取证入口，不将目录升格为原件。
 
 **持续研究位置：** 沿Waloejo Sedjati个人护照与外交部文书链深挖G6/G8；跨项优先东印尼地方教会、军警与村级记录G4/G5；并持续推进前次BTI原刊与Belawan/SOBSI原始笔录G2/G4。G1—G10全部OPEN，GOAL未完成。
+
+
+## 2026-11-22｜G4 Aceh 与 Flores 跨地区机制复核（ONGOING）
+
+**Aceh / G4-G5-G9（1965-10-11—29；Baperki/Kodim-0104/Pepelrada）**：复读Jess Melvin, “Why Not Genocide? Anti-Chinese Violence in Aceh, 1965–1966” 学术文章公开正文 https://journals.sagepub.com/doi/full/10.1177/186810341303200304 ，访问级别B（作者引用地方原始档案，原件未直接取得）。作者引用1965-10-18 Langsa Baperki《Pernjataan》：追述10-11 Major Iljas Mahmud在Kodim-0104食堂谈话；决议第7项称148名会员退会、地方Baperki解散，附两页名单。**148是会员名单人数，不是死者人数**；作者提出该名单可能用于识别抓捕对象，属于推断，尚无逐人处置交叉核实。作者还引用1965-10-29 Ishak Djuarsa/Pepelrada决定，声称追溯自10-20生效，要求组织负责人最迟10-25报到；这是签发日、生效日、报到期限相互倒置的原始文书时间问题，不能平滑写成10-20已正式签署。必须取得《Surat Keputusan 1965》原影印及收发登记，核验是否存在更早通知或追认。1965-10-14 Kuala Simpang与Pulo Tiga暴力的《Chronologis 1966》为军方叙述，不独立证实参加人数或军方实际制止行为。
+
+**Flores / G4-G3-G9（1966-02-27—03-15；Sikka/Komop/教会）**：直接阅读Gerry van Klinken开放章节PDF https://pure.uva.nl/ws/files/2526919/166060_488108.pdf 第240页，学术转录匿名1974年叙述：2月27日Sikka县议会厅，Komop调查组与政党/社会组织讨论第二波“secured”对象，涉及Karel Elkel及Jos U. Tokoh；原始1966会议纪要未取得，级别B。交叉阅读John M. Prior发表于Exchange 40(2011):117–143的开放论文PDF https://repository.divinity.edu.au/divinityserver/api/core/bitstreams/662d52ff-005b-4845-918c-959a06ea50d0/content ：作者引述1966-03-15 Major Soemarno署名、以Kodim 1607/Komop名义发出的**B.061/III/1966**警告函，指责Bola堂区Pede da Lopez神父3月6日干预行动，要求神职人员不得阻碍并将其暂时调离。两篇文章提供不同节点但不等于两份1966原件已取得；函件复印件、主教档案、Bola证人证词及实际停杀命令均缺。尤其不能仅凭作者记述“信件送达内政部长后很快下令停止”就确定中央行政因果。
+
+**跨地区对照**：Aceh的“先有军方压力、后有组织自我解散文书与追溯性禁令”和Flores的“地方甄别会议、神职人员抵制、军方警告函”说明各地权力传导路径需分别重建；不得由两个案例推导全国统一实施机制。G1—G10继续OPEN；下一动作依次索取Langsa 148人附件和10-29禁令影印、Sikka 2-27会议原件、B.061/III/1966复印件与教会往来函，并轮换G2 BTI原刊和G7县级工会登记原件。正式S/C编号尚未分配，先核对正式CSV避免重复。
