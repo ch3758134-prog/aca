@@ -1419,3 +1419,11 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **本轮未完成正式并库**：正式source-register只检查开头及SHA，未全量去重；因此不擅自配S/Q/CV编号。未修改四CSV、chronology、成熟中文连续正文，不能称完整归档。本次仅保存原文核验和精准接力。
 
 **下一次精准未完事项**：①取得Hero Supermarket 1998—2004工会成立登记、章程、集体协议、2004工资与加班规则，核Mohammad Hakim/Koeshanto职务及22/222数字；②逐页打开2009 Palmer/Noriel报告，核2003—08登记、基层谈判、军警干预的具体县市案例，追脚注；③逐页核Quinn 2003第4章工会登记、会费扣缴及军警介入案例，并取得至少两县2000—02登记簿；④跨链返回1965 Aceh Baperki 148人名单原件、巴厘Sutedja 1966-07-26/29报告、1948 Delanggu ANRI 91/1215卷宗；⑤修复claim-ledger全量读取，去重并入正式四CSV、chronology和成熟中文叙事。GOAL保持ACTIVE / OPEN-ENDED，不能将本次提交视为终点。
+
+
+## 2026-11-22｜ONGOING / GOAL仍进行：Aceh—Flores交叉链续接
+重读2026-11-09 G1—G10审计、AGENTS、stage-access、goal-continuity、正式source-register/search-log/coverage-matrix/chronology及长期缺口总账。正式CSV实际在archive/records/；claim-ledger.csv当前GitHub fetch_file仍是非空SHA却返回零正文，未覆盖。research-status.md在archive/records路径404，不推断全库不存在。
+
+本次研究证据已写入global-gap-tracker与chronology：Aceh 1965-10-18 Langsa Baperki 148会员退会附件、10-29追溯10-20禁令及10-25报到期限的文书时间倒置；Flores 1966-02-27 Sikka甄别会议与1966-03-15 B.061/III/1966警告函。来源为Melvin、van Klinken、Prior的公开研究全文，均**不是1965/1966原始文书**。已核学术引文的出处和范围，未将名单人数等同遇害数或将函件叙述等同中央命令实际执行。
+
+**精确下一步：** (1) 取得Langsa Pernjataan 1965两页148人附件，核对名单和生存轨迹；(2) 索取Aceh Surat Keputusan 1965影印及收发登记，解释10-29/10-20/10-25时序；(3) 取得Sikka 1966-02-27 Komop会议原件和匿名1974年记录；(4) 索取Kodim 1607 B.061/III/1966函件复印件、教会往来及停杀令；(5) 转向G2 BTI/SARBUPRI原刊逐页核读及G7县市2000—2002工会登记执行记录。继续逐地轮换北苏门答腊、东中西爪哇、巴厘、西加里曼丹和苏拉威西，G1—G10全部OPEN。尚未同步正式CSV或中文连续正文；不声称全量完成。
