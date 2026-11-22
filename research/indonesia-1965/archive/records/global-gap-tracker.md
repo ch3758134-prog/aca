@@ -381,3 +381,14 @@
 **G2 法律原件A级：** 直接打开印尼BPK官方保存的9页《1964年第12号私营企业解雇法》全文，1964-09-23颁布，代总统Subandrio签署。第2条要求先与相关工会/工人协商；第3条规定协商不成时个别解雇由地区劳资争议委员会许可，大规模解雇由中央委员会许可；同企业一个月10人及以上是大规模解雇的参照定义；第10条无许可解雇依法无效；第12条覆盖私营企业连续工作超过3个月者。**这证明1964年的规范框架，不证明1965年后各地政治性解雇遵守了它**；需追查县级委员会申请、拒绝、上诉簿与SOBSI工厂档案。原件：https://peraturan.bpk.go.id/Download/39587/UU%20Nomor%2012%20Tahun%201964.pdf 。官方BPK与DPR法律库均标记已由2004年第2号法废止；最高法院旧条目仍显示“有效”，属于元数据冲突，不能误写现行有效。
 **G3/G4 Aceh B级（学术全文转引）：** 重开Jess Melvin 2013年全文，核1965-10-11 Langsa Kodim-0104 Iljas Mahmud与Baperki领导人的会面，以及10-18《Pernjataan》所称苏加诺曾广播要求彻底消灭G30S/PKI。作者明确指出该广播并不存在；因此**目前仅可确认当事声明曾如此转述，不能把该话归为苏加诺实际广播**。原《Pernjataan》影印、广播节目表和地方见证仍缺。https://journals.sagepub.com/doi/full/10.1177/186810341303200304 。此材料与此前Melvin研究同源，不能充作独立佐证。
 **精确后续：** 逐页核《Api Kartini》23、26页工厂与农村地名；从地方劳资争议委员会取得1964—1967解雇许可簿；追Aceh 10-18声明原件及RRI广播存档；将这些事实与正式来源/主张台账去重并写入统一时间线。G1—G10持续OPEN，claim-ledger非空blob空正文仍未解决。
+
+
+## 2026-11-22 UTC｜G2/G6工会人员逐人拘押与G4/G8北苏门答腊油业（ONGOING）
+
+**G2/G6（1977-09-23原始人权组织出版全文A，所载个人经历仍是该组织核查/转述，不等于狱方原始名册）：** 直接打开国际特赦组织 *Political Prisoners in Indonesia – Trade Unionists*, ASA 21/09/77，https://www.indonesia1965.org/content/uploads/2023/08/ASA-21-09-77-Occupational-list-of-Prisoners-trade-unionists.pdf ，页1—2。其列举具名职业—工会—拘押地点链：Sri Ambar（SOBSI妇女部门负责人，1966被捕、1975判刑15年、1977在Bukit Duri）；Dahliar（BTI议员，1965-10被捕，Plantungan）；Sjamsul Hadi Kastari（SOBSI全国理事会主席团成员、议员，Buru）；Kartina Kurdi（BTI议员兼Gerwani干部，Bukit Duri）；Kusnah（雅加达Unilever厂工会，1969被捕，Semarang Bulu）；Ferdinand Runturambi（SOBSI议员与国际工运，Buru）。这是具名档案入口，不能推断1977之后生死、刑期、获释；该文对1950年250万、1962年320万SOBSI会员等数字为组织声称或人权组织转述，须另取会费和会员册。缺件：逐人逮捕/审判/释放/监视记录、工会企业名册、Plantungan/Buru登记。重点按性别、行业、地区分解，不以工会成员身份推定PKI党员身份。
+
+**G4/G8（1965-11-01外交原件影印馆藏页面及编辑说明，A仅对使馆报告内容，尚未逐页核验电报图像）：** 美国国家安全档案馆2017-10-17公布使馆电报1290，https://nsarchive.gwu.edu/briefing-book/indonesia/2017-10-17/indonesia-mass-murder-1965-us-embassy-files ，Document 9，RG84 Entry P339 Box14 Folder4。使馆称北苏门答腊据报已拘押约600名被指共产主义者，包括PERBUM石油工会负责人，以及Shell、Stanvac炼油厂和PURSI化肥厂的SOBSI干部。**600为当时使馆报告的“据报拘押”，非逐人核实数字、非死亡人数**；还需区分报告时间和拘押发生时间。此线索与G2产业工会和G8外资炼油资产交叉，不能凭同时发生推断外资公司直接指挥逮捕。缺件：电报1290原页、Medan军区拘押令、PERBUM/SOBSI地方干部名单、Shell/Stanvac/PURSI厂人事及国有化交接文书。
+
+**跨项核验：** Komnas HAM《1965—1966调查执行摘要》印尼语PDF全文 https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ，第1—2页明确其调查2008-06-01至2012-04-30访问349名证人/受害者，且承认地域广阔、预算、记忆和证据流失造成覆盖不足。349为该调查接触人数，非全国受害总数；本文件已在旧记录中引用，不新造来源编号。G1殖民前史、G3中央命令、G5性别族群、G7改革后组织、G9索引、G10正式台账仍OPEN。
+
+**归档障碍：** 正式source-register/search-log/coverage/chronology定位在archive/records/；claim-ledger.csv blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a 读取返回空字符串，不能安全覆盖或分配新C号。本次先保存原文定位与待并库事实；下一执行从Git树/blob API解决完整CSV读取并核正式最大编号，再写原子主张和统一chronology；不得把本段当正式S/C登记。
