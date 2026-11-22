@@ -1230,3 +1230,18 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **下次精准续接：** ①向ANRI按AVROS No.293、295、296、301、303申请逐件影印、档案盒号和完整日期，优先获取Asahan USRSP-PERBUPRI当事人及P4D裁决；②从No.22、25、38、269核SARBUPRI大会干部、会费/成员数、烟草园区工资争议，并与SOBSI组织档案独立比对；③以Palembang 1965 Shell/Stanvac/PUSRI和PERBUM、SOBSI为单独地区链，调1965-11-01电报扫描全文及1965—1968地方P4解雇许可、公司人事簿、拘押名册；④调1964 UU12和1957 UU22的配套P4D/P4P规程、代表任免及实际裁决，核法律执行与军政排除的交点；⑤跨期轮换Gerwani 1964研讨会地方落实、Aceh 1965军令、Moncongloe 1977—1980及1998后工会，取得原件后去重入四表、chronology并续写成熟中文连续正文。
 
 **GOAL仍OPEN。** 提交前HEAD如上；本节提交产生的新SHA只能在提交后核验，不能预写进同一提交的文件内容。
+
+
+## 2026-11-22 15:53 CST｜G1/G2 北苏门答腊种植园工会跨馆藏追踪（ONGOING / GOAL仍进行）
+
+**本次复核范围：** 已重读AGENTS、goal-continuity、stage-access、统一状态、正式source-register、search-log、coverage-matrix、chronology。正式文件均在archive/records/而非研究根目录。claim-ledger.csv仍为非空Git blob SHA `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a`、接口返回空正文；不覆盖、不伪造C编号。前次ANRI AVROS 293/295/296/301/303卷宗属于**目录发现**，尚未取得原始卷宗。
+
+**新增交叉馆藏线索（目录级，非案卷核读）：** 直接打开ANRI 2009年《Inventaris Arsip AVROS 1892–1985》官方PDF https://www.anri.go.id/download/ra-1.-avros-algemene-vereniging-van-rubberplanters-ter-oostkust-van-sumatra-1892-1985-1720074585 。目录**第22号**是1953–1954年SARPUBRI工会大会结果、备忘录和全会领导材料；**第25号**是1954–1956年工会成员数、组织名称及通信；**第4号**是1957年AVROS与P4D/P4P、工会和工作委员会关于种植园劳动条件的往来；**第14号**是1948–1952年苏门答腊种植园工会概况。以上是馆藏编目内容，不是这些组织实际成员数或裁决结果。需与此前第293/295/296/301卷宗形成1953–1963的连续取件计划，并逐一核工会名称拼写（目录第22号作SARPUBRI，历史研究常见SARBUPRI，未能仅凭目录断定是否同一组织）。
+
+**荷兰独立目录对照：** 直接打开Nationaal Archief馆藏2.20.46（NV Deli Maatschappij及子公司，1869–1989等）https://www.nationaalarchief.nl/onderzoeken/archief/2.20.46/invnr/@327~E. 。其目录列AVROS章程、年度报告、Medan年度大会记录、劳工问题出版物及招工机构年度报告；相关项目标为PHYSICAL，不能把此荷兰馆藏当作已阅企业档案或ANRI同一卷宗的副本。印尼种植园博物馆馆藏检索 https://arsip.musperin.org/index.php/informationobject/browse?levels=242&names=927&page=1&sf_culture=en&showAdvanced=1&sort=alphabetic&sortDir=desc&topLod=0 搜索结果列AVROS个人档案条目，但直接打开遇502；不把搜索摘要升级为原件。
+
+**研究意义与反证限制：** 雇主协会记录可能保存工会与企业协商的连续文本，但雇主视角需与SOBSI/SARBUPRI自己的会议纪要、P4D/P4P裁决原件、地方报刊和当事人口述交叉核对；北苏门答腊Deli/Asahan不能与南苏门答腊Palembang炼厂逮捕事件合并。此轮未获卷宗原件或足以补写连续历史正文的独立行动证据，故未更新正式CSV/chronology/阅读HTML，也未登记新S/C编号。下一步正式登记须先对S396/S196等已有目录来源语义去重。
+
+**精准未完事项：** ①向ANRI请求AVROS第4、14、22、25、293、295、296、301、303号案卷的逐页影印/档号与申请条件；②在荷兰2.20.46目录内定位AVROS劳工、年度大会、Deli子公司1953–1965具体inventory号码，查与ANRI是否同文副本；③核SARPUBRI/SARBUPRI组织名称、1953–1954大会领导名单与SOBSI隶属关系，取得工会自己的原文；④取得1957及1964–1968 P4D/P4P企业争议决定，区分解雇申请、许可、实施与复职；⑤轮换Aceh 1965军令、Gerwani地方妇女活动、Moncongloe拘押及1990年代工会与PRD，补足跨年代历史过程。
+
+**本次写入前可见main最新提交：** `bed82a4686f20b71a4ae74a3fa7cf599f10371fa`（查询时点）；本次写入生成的新SHA应以GitHub回执及之后独立HEAD核验为准，不能预写自身SHA。GOAL保持ACTIVE / OPEN-ENDED。
