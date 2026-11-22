@@ -1206,3 +1206,12 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 
 ## ONGOING / GOAL仍进行 — 2026-11-22 UTC
 已读取G1—G10审计和正式台账实际目录；本次新证据见global-gap-tracker末尾：1977年国际特赦工会囚犯具名册、1965-11-01北苏门答腊使馆电报1290、Komnas HAM调查样本口径。下一步：1.原件核电报1290图像及RG84；2.逐人核Sri Ambar/Kartina Kurdi/Kusnah拘押和释放；3.查Medan PERBUM及Shell/Stanvac/PURSI人员簿；4.解决claim-ledger blob读取及正式CSV去重；5.切换G1早期组织、G7工会登记和地方暴力缺口。G1—G10均OPEN，未完成。
+
+
+## 2026-11-22 13:50 CST｜ONGOING / GOAL仍进行｜1964解雇法程序细化与1965后执行断点
+
+已重读AGENTS、goal-continuity、stage-access、统一续接状态及正式source-register、claim-ledger、search-log、coverage-matrix、chronology；正式表位于archive/records/。直接重开BPK官方第12/1964号法9页原件 https://peraturan.bpk.go.id/Download/39587/UU%20Nomor%2012%20Tahun%201964.pdf ，核第3—5条P4D个人解雇与P4P大规模解雇许可、第3(2)条同厂一月十人或连续解雇意图、第4条试用期例外、第8条十四日上诉、第10条无许可解雇无效、第12条连续工作超过三个月私企员工适用。DPR法库 https://jdih.dpr.go.id/setjen/detail-dokumen/tipe/uu/id/1432 与BPK https://peraturan.bpk.go.id/Details/50300/uu-no-12-tahun-1964 均列2004年第2号法废止；最高法院 https://jdih.mahkamahagung.go.id/legal-product/uu-nomor-12-tahun-1964/detail 元数据却仍标有效，属于资料库状态冲突，不能误作法律至今有效的证据。SMERU https://www.smeru.or.id/sites/default/files/publication/hubunganindustri.pdf 提供后期制度解释，但不证明1965年实际执行。以上**只核实法律规则，不证明1965—1968军方/企业政治性解雇获得许可、发生复职或补偿**。
+
+已在正式search-log登记Q590、coverage-matrix登记CV660、chronology追加具体程序与执行缺口；复用S1527，未重复来源编号。正式claim-ledger.csv仍为非空blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但GitHub UTF-8读取为空，未覆盖、未虚构C编号。中文阅读正文未修改：尚缺企业—工会—P4D/P4P实际案例，不能用法条代替具体历史过程。写入前最近已确认提交SHA：610b3d43e82dc2994ddc08d38a730864996f04a1；本状态文件自身提交SHA只能在提交后核验，不可能在同一次提交自引用。
+
+**下一直接执行事项：**（1）取得1965—1968南苏门答腊Palembang/Sungai Gerong/Pladju、PUSRI、Shell、Stanvac的P4D/P4P解雇许可与上诉簿、PERBUM/SOBSI干部人事记录，区分拘捕、停职、解雇；（2）取UU 22/1957和UU 2/2004原文核委员会权限、废止生效日与过渡规则；（3）重新核1965-11-01使馆电报1290扫描与OCR、纠正南/北苏门答腊地理冲突并寻劳工方证词；（4）取Gerwani 1964年研讨会地方代表/Perwari独立记录及《Api Kartini》第23、26页厂村行动证据；（5）尝试Git blob base64/原始API可靠读取claim-ledger，随后按正式最大C编号去重登记并推进连续中文历史正文，同时轮换Aceh、Moncongloe及1990年代工会组织。G1—G10保持OPEN，GOAL永久OPEN。
