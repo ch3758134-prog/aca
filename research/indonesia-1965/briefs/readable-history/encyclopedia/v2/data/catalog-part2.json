@@ -94,18 +94,19 @@
     "aliases": [],
     "summary": "20世纪初，殖民政府实施所谓“伦理政策”，有限扩大荷兰语教育、交通和行政体系；教育机会仍按族群、家庭资源和社会身份分配。学校、印尼语与荷兰语报刊以及跨岛城市网络，使受教育者、商人、宗教人士和工人更容易建立协会。1908年，巴达维亚医学院学生建立布迪·乌托莫（Budi Utomo，常译“至善社”），以教育和爪哇社会改革为主要议题。梭罗的穆斯林商人约在1911年建立伊斯兰商人联盟（Sarekat Dagang Islam）；乔克罗阿米诺托等人于1912年前后推",
     "period": "1830—1941",
-    "status": "imported",
-    "review_level": "medium_unreviewed",
-    "paragraphs": 7,
-    "headings": 4,
-    "reference_links": 0,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 10,
+    "headings": 9,
+    "reference_links": 2,
     "related": [
       "people/person-sukarno.html",
       "people/person-soekemi.html",
       "people/person-nyoman-rai.html"
     ],
     "issues": [],
-    "era": "colonial"
+    "era": "colonial",
+    "source_complete": false
   },
   {
     "id": "E-guided",
