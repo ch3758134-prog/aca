@@ -2141,3 +2141,9 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 
 ### 1948-04-01—07-01｜Delanggu工农运动同期警察与新闻卷宗新定位（仅目录级）
 - ANRI《Kepolisian Negara RI 1947–1949》1995年官方目录第1201号列1948-04-01 BTI诉求传单，第1205号列04-24《Buruh》关于Solo罢工与SOBSI复工指示的摘录，第1211号列05-22/25《Patriot》《Buruh》有关警察调动的报刊摘录；第569号为1948年2月至10月PAM关于SOBSI的往来函件；**第1215号**为Delanggu新闻局1948-07-01关于当地事件的一页报告副本。这些是对1948年6月LBT诉求（劳动部目录第91号）和7月和解报道可作交叉核验的不同机关档案路径。尚未阅读任何单件原文，不能断言其具体立场或事件结论。[S1530] https://www.anri.go.id/download/ra-26.-inventaris-arsip-tekstual-sekretariat-negara-kepolisian-negara-ri-19471949-1714018366
+
+
+### 1965-11-03—1966-07-29｜巴厘省政府与Sutedja失踪：原刊研究全文复核，原件待取
+- **1965-11-03**：Slamat Trisila（《Jurnal Kajian Bali》2013年第三卷第一期，印刷127页）引用私人收藏的Pepelrada决定KEP-PPD.2/1/234，记暂冻PKI及相关群众组织活动并交Pangdam XV监督；**未取得决定原影印**。[S1531] https://ojs.unud.ac.id/index.php/kajianbali/article/download/15698/10480/
+- **1965-12-02 / 12-10 / 12-18**：同文记Jembrana Puri Negara遭袭及家族人员遇害、苏加诺与省长A.A.B. Sutedja会见，以及Keppres 380/1965暂派Sutedja赴雅加达、I Gusti Putu Merta代理省长、I Gusti Ngurah Pindha任副省长。依据论文转引的私人档案与访谈，尚待政府令及地方人员记录独立核验。[S1531] 同上，印刷127、130页。
+- **1966-07-29（争议）**：论文第130—131页叙述Sutedja上午08:30被四名军服人员带走；但其脚注19及参考文献却列有**1966-07-26**《关于Sutedja绑架的书面报告》，早于叙述的绑架日。必须核原报告日期、文书性质和同期记录，不可直接确认为同一事件的无矛盾时间链。[S1531] 同上，印刷130—131、136页。
