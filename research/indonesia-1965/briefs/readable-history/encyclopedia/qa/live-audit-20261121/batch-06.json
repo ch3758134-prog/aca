@@ -1,0 +1,129 @@
+{
+  "basis": "03879d69dd9a37f4a41c2d78123554ed1db71640",
+  "range": [
+    72,
+    83
+  ],
+  "records": [
+    {
+      "path": "organizations/org-baperki.html",
+      "length": 2283,
+      "searchLength": 2254,
+      "ratio": 0.987,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 5
+    },
+    {
+      "path": "organizations/org-bti.html",
+      "length": 2191,
+      "searchLength": 2162,
+      "ratio": 0.987,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 7
+    },
+    {
+      "path": "organizations/org-gerwani.html",
+      "length": 2386,
+      "searchLength": 2357,
+      "ratio": 0.988,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 5
+    },
+    {
+      "path": "organizations/org-koti.html",
+      "length": 2276,
+      "searchLength": 2276,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 5
+    },
+    {
+      "path": "organizations/org-lekra.html",
+      "length": 2347,
+      "searchLength": 2347,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 6
+    },
+    {
+      "path": "organizations/org-nu-ansor.html",
+      "length": 2237,
+      "searchLength": 2237,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 5
+    },
+    {
+      "path": "organizations/org-pki.html",
+      "length": 2898,
+      "searchLength": 2770,
+      "ratio": 0.956,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 9
+    },
+    {
+      "path": "organizations/org-pni-partindo.html",
+      "length": 2151,
+      "searchLength": 2151,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "organizations/org-sobsi.html",
+      "length": 2169,
+      "searchLength": 2140,
+      "ratio": 0.987,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 6
+    },
+    {
+      "path": "people/person-adam-soepardjan.html",
+      "length": 1886,
+      "searchLength": 1857,
+      "ratio": 0.985,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-ade-irma.html",
+      "length": 834,
+      "searchLength": 834,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 1
+    },
+    {
+      "path": "people/person-ahmad-yani.html",
+      "length": 1628,
+      "searchLength": 1628,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    }
+  ]
+}
