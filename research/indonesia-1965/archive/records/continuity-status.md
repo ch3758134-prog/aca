@@ -1393,3 +1393,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **重要法源追溯纠正：** 第45条本身即要求此前已持登记号的工会在法律生效起一年内重新通知、换领登记号；逾期未符合新法视为没有登记号。此前核读2001-02-15 KEP.16/MEN/2001第11条的重新登记安排是对2000年法律过渡规则的实施衔接，**不能将重新登记义务的首次创设归因于2001年部长决定**。需要并列核2000法第45条和2001决定第11条及地方实操，不可把法定无登记号自动写成组织实际解散。ILO NATLEX英文译本 https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/57553/IDN57553%20Eng.pdf 的标题出现“as amended up to 1996”的年代不可能表述，应以印尼文政府原件为准并核译本编辑错误。ILO关于工会数量增多与碎片化的分析 https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/---ilo-jakarta/documents/publication/wcms_117189.pdf 是后来的研究解释，不能单凭法律推出全国组织变化。
 
 **精准未完**：（1）正式source-register/chronology检索UU21/2000既有S编号及2001 KEP.16来源，去重后登记第45条原文定位与对应事实主张；（2）核2001决定第11条与2000法第45条逐字差异、旧PER.05/MEN/1998及KEP.201/MEN/1999原文；（3）取至少两个县市2000—2002工会登记号、补件/拒绝及撤销记录，区分规范与执行；（4）取SBSI、PPBI或厂级工会实际章程、会费和谈判档案，检验法律对组织结构的影响；（5）继续轮换1965—1968 Aceh/Bali地方军政原令、1948 Delanggu原卷和1970—1998政治犯及劳工链。此次不声称四CSV、chronology及中文连续正文已并库；GOAL永久OPEN。写入前HEAD需以GitHub查询记录为准，写入所产生SHA由API返回及后续独立查询确定。
+
+
+## 2026-11-23｜2000—2003 工会改革：执行观察者原始研究全文（ONGOING）
+
+本轮重新读取 AGENTS、goal-continuity、stage-access、正式 source-register/search-log/coverage-matrix/claim-ledger 及 archive/records/chronology.md。注意 chronology 位于 archive/records 而非研究根目录。claim-ledger blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a 非空但 GitHub fetch_file UTF-8 返回零字符；禁止覆盖。
+
+**直接打开的新增全文**：Patrick Quinn, *Freedom of Association and Collective Bargaining: A study of Indonesian experience 1998–2003*, ILO Working Paper 15, September 2003, 76页，https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_norm/@declaration/documents/publication/wcms_decl_wp_17_en.pdf 。PDF目录第4—6页标示第2章工会（含KSPSI/KSPI/SBSI）、第4章工会注册、会费扣缴、军警介入及对工人的暴力、第5章集体谈判和第9章技术援助。作者2003年前曾在印尼ILO技术援助项目任首席技术顾问，属于参与观察的回顾性研究，非各县登记簿或独立审计；其观点不等同ILO机构认定。已经实际打开并读取PDF正文开头和目录，但**尚未逐页核验第4章具体案例和数字**，不能将目录标题转为已证实事实。
+
+**官方法律交叉核对**：印尼劳工部JDIH官方2000年第21号法页面 https://jdih.kemnaker.go.id/peraturan/detail/32/undang-undang-nomor-21-tahun-2000 ，直接打开；官方页面明确2000-08-04颁布、至少十人建会、第18条通知、第25条登记后的代表权、一年重新登记过渡。此处官方页面是法律说明，具体条文仍应以法案PDF原文为准；登记义务不能自动证明地方执行。
+
+**下一次精准操作**：（1）打开Quinn PDF第4章24—33页逐条核读地方登记、会费扣缴、军警介入案例，追脚注所引同期原件；（2）对照2003年ILO报告所列KSPSI/KSPI/SBSI组织结构和会员口径，查政府县市登记簿、工会自报与独立调查的分母差异；（3）取得2000—2002年两县劳动局工会登记号码、拒绝和补件记录，核第21号法第45条与KEP.16/MEN/2001的实际效果；（4）回到1965年亚齐10月军政命令与Baperki名单附件、巴厘1966年7月26/29日失踪报告原件，避免长期只在2000年法律循环；（5）修复claim-ledger读取并核正式ID后，去重更新四CSV、chronology及成熟中文连续历史正文。此次仅完成续接状态写入，不虚报正式并库。
+
+**提交基线**：本条提交前已读取该文件最新blob SHA 53ef59317bcc7356aeb1cf0dff09dd949d081b98；最终commit SHA应以GitHub提交结果及后续main HEAD核验为准，无法在同一提交正文预写自身SHA。
