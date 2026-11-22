@@ -8,14 +8,15 @@
     "name": "2024年：工党参加全国选举",
     "aliases": [],
     "summary": "改革后成立的工党（Partai Buruh）由工会、农民组织、劳动者团体和其他社会组织联合组建，参加2024年众议院（DPR）选举。印度尼西亚选举委员会（KPU）第1204号决定记载，工党获得972,898张全国有效票，占约0.64%，未达到4%的议席门槛，没有取得众议院席位。 [2024年工党选举结果]",
-    "period": "待标准化",
+    "period": "1998—2026",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "reform"
   },
   {
     "id": "E-election",
@@ -26,7 +27,7 @@
     "name": "1954—1956年：Gerwis更名、全国选举与哈达辞职",
     "aliases": [],
     "summary": "印尼主权移交以后，各党派不仅在雅加达组阁，也通过宗教学校、地方报纸、工会和农民组织争取政治联系。1954年Gerwis在代表大会后更名为Gerwani，反映妇女教育、家庭与社会活动的扩大。它与PKI有政治联系，却不能让整个妇女组织的历史只作为共产党选举的附属故事。",
-    "period": "待标准化",
+    "period": "1950—1965年9月",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
@@ -37,7 +38,8 @@
       "events/event-guided.html",
       "organizations/org-pki.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "republic"
   },
   {
     "id": "E-foreign-1965",
@@ -48,7 +50,7 @@
     "name": "美国名单、资金、药品与通信设备",
     "aliases": [],
     "summary": "美国驻雅加达使馆1965年秋不仅向华盛顿报告印尼军队对共产党人的清查和杀戮，也同反共政治人物及军方建立联系。国家安全档案馆公布的大量使馆记录，涵盖电报、空邮报告、外交谈话和行动计划；这些文件对于证明美国人员说了什么、何时知晓、怎样向上级报告有很高价值，不能直接代替印尼县级军令和被害者名册。 [1]",
-    "period": "待标准化",
+    "period": "1965—1966",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
@@ -59,7 +61,8 @@
       "people/person-martens.html",
       "events/event-purge.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "crisis"
   },
   {
     "id": "E-foreign-channels",
@@ -70,14 +73,15 @@
     "name": "美国、英国、澳大利亚、日本、中国与苏联的不同渠道",
     "aliases": [],
     "summary": "美国对印尼的政策由国务院、雅加达使馆、国防部门、军事援助机构、美国新闻署和中央情报局分别执行。军方训练、警务援助、武器供给和外交接触使用公开或半公开渠道；贷款与经济援助经使馆谈判、国会授权和对印尼预算政策的讨论推进。1965年2月23日提交给303委员会的备忘录回顾，自1964年夏季起进行的秘密政治活动，包括与反共力量联络、支持政治接触、向政治机构渗透以及散发匿名传单和黑色、灰色宣传。备忘录随后提出削弱PKI与北京联系、为苏加诺离任后的非共产党继任者创造条",
-    "period": "待标准化",
+    "period": "1950—1965年9月",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 9,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "republic"
   },
   {
     "id": "E-formation",
@@ -88,7 +92,7 @@
     "name": "学校、报刊、协会与民族主义网络",
     "aliases": [],
     "summary": "20世纪初，殖民政府实施所谓“伦理政策”，有限扩大荷兰语教育、交通和行政体系；教育机会仍按族群、家庭资源和社会身份分配。学校、印尼语与荷兰语报刊以及跨岛城市网络，使受教育者、商人、宗教人士和工人更容易建立协会。1908年，巴达维亚医学院学生建立布迪·乌托莫（Budi Utomo，常译“至善社”），以教育和爪哇社会改革为主要议题。梭罗的穆斯林商人约在1911年建立伊斯兰商人联盟（Sarekat Dagang Islam）；乔克罗阿米诺托等人于1912年前后推",
-    "period": "待标准化",
+    "period": "1830—1941",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 7,
@@ -99,7 +103,8 @@
       "people/person-soekemi.html",
       "people/person-nyoman-rai.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "colonial"
   },
   {
     "id": "E-guided",
@@ -110,7 +115,7 @@
     "name": "1959—1963年：指导民主与军方扩权",
     "aliases": [],
     "summary": "1950年宪制下议会内阁频繁更迭，地区军事挑战与制宪大会争议不断。苏加诺在1959年2月推动恢复1945年宪法的方案，7月5日正式颁布总统令，解散制宪大会并恢复1945年宪制。其后国家机关重新组织，总统对内阁和政治协商的主导扩大，军方的行政参与也加强。 [1]",
-    "period": "待标准化",
+    "period": "1950—1965年9月",
     "status": "imported",
     "review_level": "expanded_unreviewed",
     "paragraphs": 8,
@@ -121,7 +126,8 @@
       "events/event-land.html",
       "organizations/org-army.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "republic"
   },
   {
     "id": "E-komnas",
@@ -132,14 +138,15 @@
     "name": "2008—2012年：国家人权委员会调查",
     "aliases": [],
     "summary": "幸存者和家属通过口述史、地方调查、纪念活动、身份诉讼和民间档案重新进入公共记录。国家人权委员会（Komnas HAM）于2008—2012年调查1965—1966年事件，并把材料作为严重人权侵害案件提交总检察机关。调查报告提交、总检察机关审查、刑事起诉、赔偿与行政救济分属不同程序；报告提交本身没有启动审判。 [国家调查与法律程序]",
-    "period": "待标准化",
+    "period": "1998—2026",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "reform"
   },
   {
     "id": "E-konfrontasi",
@@ -150,7 +157,7 @@
     "name": "对抗马来西亚与婆罗洲边境战争",
     "aliases": [],
     "summary": "1963年马来西亚成立后， 苏加诺 政府发动政治和军事对抗，在加里曼丹边境组织行动并进行国际宣传。军事资源的部署改变了军队与地区行政的关系，也使印尼同英国、澳大利亚及周边国家的外交紧张升级。",
-    "period": "待标准化",
+    "period": "1950—1965年9月",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 10,
@@ -160,7 +167,8 @@
       "people/person-sukarno.html",
       "people/person-suharto.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "republic"
   },
   {
     "id": "E-labor-revolution",
@@ -171,14 +179,15 @@
     "name": "革命时期的工会与劳工组织",
     "aliases": [],
     "summary": "1945年9月，雅加达工人代表建立印度尼西亚工人阵线（BBI），试图把铁路、港口、印刷和其他行业工人组织起来。BBI内部干部分别推动工会联合与工人政党路线；地方工会继续处理工资和粮食问题，部分干部11月推动成立印度尼西亚工人党（PBI），BBI则继续以劳工联合组织形式活动。1946年11月29日，铁路、港口、印刷、种植园等行业工会成立印度尼西亚工人中央组织（SOBSI），并于1947年加入世界工会联合会（WFTU）。SOBSI与PKI及其他左翼力量建立政治",
-    "period": "待标准化",
+    "period": "1942—1949",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "war"
   },
   {
     "id": "E-land-court",
@@ -189,14 +198,15 @@
     "name": "1964年：土地改革法院与村庄执行",
     "aliases": [],
     "summary": "1964年第21号法律设立土地改革法院，开始审理与土地改革有关的争议。法院合议庭包括由农民群众组织推荐、再经国家程序任命的成员，地主、农民和行政机关可就地权登记、受益资格和土地分配提出申诉。裁决之后，地籍测量、补偿和地方机关办理构成土地实际移交的后续程序。 [土地改革法院与执行记录]",
-    "period": "待标准化",
+    "period": "1950—1965年9月",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 7,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "republic"
   },
   {
     "id": "E-land",
@@ -207,7 +217,7 @@
     "name": "土地法、行政执行与农民行动",
     "aliases": [],
     "summary": "1960年《基本土地法》与土地改革政策要求重新整理耕作、地权和租佃安排。在村庄中，这涉及地界测量、地主家庭成员认定、实际耕作者登记、土地委员会意见和行政申诉。中央法令能规定改革方向，却无法自动保证地方农民真正取得地块。",
-    "period": "待标准化",
+    "period": "1950—1965年9月",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
@@ -218,7 +228,8 @@
       "events/event-land-court.html",
       "events/event-wangunwati.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "republic"
   },
   {
     "id": "E-landafter",
@@ -229,14 +240,15 @@
     "name": "1970年：土地改革法院废止",
     "aliases": [],
     "summary": "1970年第7号法律废止1964年设立的土地改革法院，并把未结案件转交普通法院。原有特别法院允许农民群众组织推荐部分审判成员；废止理由明确指向其组织构成和“纳沙贡”政治基础。土地争议此后由普通法院、土地行政机关和地方官员处理，农民组织通过法律取得的参与位置随之缩小。 [土地改革法院废止与案件移交]",
-    "period": "待标准化",
+    "period": "1967—1998",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "neworder"
   },
   {
     "id": "E-madiun",
@@ -247,7 +259,7 @@
     "name": "1948年9月：茉莉芬事件",
     "aliases": [],
     "summary": "共和国当时仍面对荷兰军事压力， 哈达 政府推进军队整编，梭罗一带正规部队与左翼联系武装已经围绕指挥、给养和裁撤发生冲突。 穆索 返回印尼并推动PKI路线调整， 阿米尔·谢里夫丁 与人民民主阵线也卷入政府竞争。",
-    "period": "待标准化",
+    "period": "1942—1949",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 9,
@@ -259,7 +271,8 @@
       "people/person-amir.html",
       "people/person-sukarno.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "war"
   },
   {
     "id": "E-malari-nkk",
@@ -270,14 +283,15 @@
     "name": "1977—1979年：学生运动与校园管制",
     "aliases": [],
     "summary": "1977—1978年，大学生发表《学生斗争白皮书》，要求总统承担政治责任、召开人民协商会议特别会议，并批评腐败与军方政治地位。1978年4月，教育部长第0156/U/1978号决定规定“校园生活正常化”（NKK），限制校园政治活动；同年5月，教育部高等教育总局发出第002/DJ/Inst/1978号指示，把学生事务交由大学副校长和院系副院长管理，并设立学生事务协调机构（BKK）。1979年第037/U/1979号决定进一步规定高校学生组织形式，取代具有独立",
-    "period": "待标准化",
+    "period": "1967—1998",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "neworder"
   },
   {
     "id": "E-malari",
@@ -290,7 +304,7 @@
       "1月15日灾难"
     ],
     "summary": "1974年1月14日至17日，日本首相田中角荣访问雅加达。1月15日，学生游行批评腐败、物价上涨、总统顾问集团权力和外国资本影响；当日和次日，示威与城市骚乱交织，商店、汽车和办公场所遭到破坏、焚烧和抢掠。军方逮捕 哈里曼·西雷加尔（Hariman Siregar） 等学生领袖，并关闭多家报刊。马拉里（Malari，印尼语“1月15日灾难”）涉及学生的政治问责与反腐要求、民众对日本投资的抗议，以及军政高层间的权力竞争；参与者、指挥关系和各项诉求在事后报告与研",
-    "period": "待标准化",
+    "period": "1967—1998",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
@@ -299,7 +313,8 @@
     "related": [
       "people/person-hariman-siregar.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "neworder"
   },
   {
     "id": "E-marsinah-suharto-heroes",
@@ -310,7 +325,7 @@
     "name": "2025—2026年：国家英雄授勋与公共记忆",
     "aliases": [],
     "summary": "2025年11月10日，政府向十人追授国家英雄称号，其中包括前总统苏哈托、工人活动者马西娜和萨尔沃·埃迪。总统令第116/TK/2025号于11月6日签署；政府把苏哈托列入“斗争事业”类别，把马西娜列入“社会与人道主义斗争”类别，把萨尔沃·埃迪列入“武装斗争”类别。国家妇女委员会同日表示，授予苏哈托称号可能伤害人权侵害受害者和印度尼西亚妇女运动；这一评价与政府授勋说明并列，显示国家纪念叙事仍有公开争议。 [2025年国家英雄授勋与公共回应]",
-    "period": "待标准化",
+    "period": "1998—2026",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 7,
@@ -320,7 +335,8 @@
       "people/person-maraden-panggabean.html",
       "people/person-soengkono.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "reform"
   },
   {
     "id": "E-marsinah",
@@ -331,7 +347,7 @@
     "name": "1993年5月：马西娜案",
     "aliases": [],
     "summary": "1993年5月3日至4日，东爪哇西多阿佐（Sidoarjo）的Catur Putera Surya（CPS）钟表厂工人罢工，要求支付法定最低工资并承认工人代表。5月5日，部分工人被军方人员叫去，工会和人权组织后来指称他们被要求签署辞职文件；活动者 马西娜（Marsinah） 随后失踪，5月8日，她的遗体在恩甘朱（Nganjuk）被发现。初审判决曾判数人有罪，1995年最高法院撤销有关定罪；国际劳工组织后来记录，政府调查没有查明杀害经过。关于绑架和杀害的具体",
-    "period": "待标准化",
+    "period": "1967—1998",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 8,
@@ -341,7 +357,8 @@
       "people/person-marsinah.html",
       "events/event-sbsi.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "neworder"
   },
   {
     "id": "E-maumere-1953",
@@ -352,14 +369,15 @@
     "name": "1953年6月19日马乌梅雷示威：扬·琼、森蒂斯与锡卡学校政治",
     "aliases": [],
     "summary": "1953年夏，马乌梅雷的农民、学生与地方政治活动者围绕学校、地方行政和王室特权举行示威。扬·琼（Jan Djong）及法律学生森蒂斯·达·科斯塔在不同后出研究中被列为组织者与公开发言者。",
-    "period": "待标准化",
+    "period": "1950—1965年9月",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 7,
     "headings": 3,
     "reference_links": 21,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "republic"
   },
   {
     "id": "E-memory",
@@ -370,14 +388,15 @@
     "name": "2015—2022年：公共记忆与国家调查",
     "aliases": [],
     "summary": "2015年以后，幸存者、家属、历史学者和民间团体公开举行纪念活动、发布口述史，并推动恢复被禁政治身份者的公民权利。2016年4月18日至19日，“剖析1965年悲剧”全国研讨会由总统顾问委员会、国家人权委员会、新闻委员会、数所大学、和平与民主研究所和民族联谊论坛共同举办。国家人权委员会2012年提交的调查材料仍在总检察机关审查程序中；公共纪念、调查报告和刑事起诉沿各自制度渠道推进。禁书、校园教学和纪念活动继续引发公开争论。2022年第17号总统决定设立非司",
-    "period": "待标准化",
+    "period": "1998—2026",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "reform"
   },
   {
     "id": "E-moncongloe-detention",
@@ -388,7 +407,7 @@
     "name": "1965—1979年南苏拉威西拘押与Moncongloe营地",
     "aliases": [],
     "summary": "本条目区分已经查阅的研究全文、其中转引的历史档案及仍未获得的原件；不以单一组织标签推定个人行为，不将人数估计冒充逐人核实名册。",
-    "period": "待标准化",
+    "period": "1965—1966",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 10,
@@ -399,7 +418,8 @@
       "organizations/org-sobsi.html",
       "events/event-buru.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "crisis"
   },
   {
     "id": "E-movement",
@@ -410,7 +430,7 @@
     "name": "绑架行动、广播与陆军反应",
     "aliases": [],
     "summary": "1965年，印尼总统 苏加诺 仍努力维持民族主义、宗教势力、陆军与印尼共产党（PKI）的政治联盟，但联盟并没有统一的指挥体系。陆军掌握军区部队和相当一部分地区行政、企业资源；PKI主要依靠党组织以及工会、农会、妇女、青年、文化团体公开动员。土地改革、总统继任和军事人事冲突，使不同政治力量的关系持续紧张。有关军中“将军委员会”准备夺权的传言属于当时政治情势的一部分，却不能仅凭行动者后来在广播中的指控就认定确有该政变计划。",
-    "period": "待标准化",
+    "period": "1965—1966",
     "status": "imported",
     "review_level": "expanded_unreviewed",
     "paragraphs": 9,
@@ -429,7 +449,8 @@
       "events/event-supersemar.html",
       "people/person-aidit.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "crisis"
   },
   {
     "id": "E-new-order-economy",
@@ -440,14 +461,15 @@
     "name": "1967—1970年：外资、森林管理与土地机构重组",
     "aliases": [],
     "summary": "1967年《外国投资法》为外国企业进入矿业、种植园和制造业设立制度渠道；同年《基本林业法》把森林划分和开发许可纳入中央国家管理，同时规定习惯权利须受国家规划限制。新政府逐步恢复对外贷款和投资关系，国家机关、军方经营网络与外资企业进入采矿、林业、农业和基础设施领域。法律改变资源管理的审批结构，实际地权变化仍随地区机关、企业和村社的交涉而异。 [新秩序经济与资源法制]",
-    "period": "待标准化",
+    "period": "1967—1998",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 7,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "neworder"
   },
   {
     "id": "E-new-order-politics",
@@ -458,7 +480,7 @@
     "name": "1971—1973年：选举、政党合并与行政控制",
     "aliases": [],
     "summary": "苏哈托 政权通过军方政治作用和戈尔卡的行政支持在1971年选举中巩固权力，随后推动多个政党归并，使正式政治竞争集中在有限的党派结构中。地方行政机关、安全系统和军方与选举动员相连。",
-    "period": "待标准化",
+    "period": "1967—1998",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 8,
@@ -467,7 +489,8 @@
     "related": [
       "people/person-suharto.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "neworder"
   },
   {
     "id": "E-njono-trial-1966",
@@ -478,14 +501,15 @@
     "name": "1966年尼约诺军事审判：庭上证词、此前供述和国家叙述",
     "aliases": [],
     "summary": "尼约诺的军事法庭记录包含被告庭上陈述、检方追诉、判决引用的供述与军事机关公开宣传。这是研究1965年前后情报传播的重要资料，但庭审环境和供述形成的强制条件不可忽略。",
-    "period": "待标准化",
+    "period": "1965—1966",
     "status": "imported",
     "review_level": "expanded_unreviewed",
     "paragraphs": 9,
     "headings": 3,
     "reference_links": 19,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "crisis"
   },
   {
     "id": "E-occupation",
@@ -496,14 +520,15 @@
     "name": "入侵、占领分区与殖民行政瓦解",
     "aliases": [],
     "summary": "1942年初，日本军队沿着石油产区、港口和海上交通推进。1月11日，日军在塔拉根登陆；1月24日，日军在巴厘巴板登陆。2月14日，日军空降并夺取苏门答腊巨港油区。3月1日，日军在爪哇多处登陆，3月8日荷兰殖民军投降。日军接管荷属东印度后，原有殖民机关被解散或改组，土地、粮食、劳动力、交通和新闻出版均被纳入战时管理。 [入侵经过与军政分区]",
-    "period": "待标准化",
+    "period": "1942—1949",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 7,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "war"
   },
   {
     "id": "E-offcampus",
@@ -514,14 +539,15 @@
     "name": "1980年代：校外学生网络与地方抗争",
     "aliases": [],
     "summary": "校园组织受到限制后，日惹帕拉甘研究会（Palagan Study Club）等读书会与法律援助团体同工人、农民和人权活动者建立联系。1988年前后，帕拉甘成员因政治活动被捕并按颠覆罪起诉；另一些学生参与反对克东翁博水库建设造成的农户迁移。1990年代的民主团体、独立工会和农民组织中有校外活动者参与，议题与人际联系延续到新的组织网络。 [校外学生网络与克东翁博行动]",
-    "period": "待标准化",
+    "period": "1967—1998",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "neworder"
   },
   {
     "id": "E-pki-autocritique-1966",
@@ -532,14 +558,15 @@
     "name": "1966年印尼共产党自我批评：谁提出了失败原因，怎样转向地下路线",
     "aliases": [],
     "summary": "1966年镇压之后，部分幸存共产党领导人在秘密环境中形成政治局自我批评文本。它既批评对苏加诺合法政治保护的依赖，也批评事变前对革命形势判断过于冒进；1971年流亡党内的重印与原稿形成过程不能混同。",
-    "period": "待标准化",
+    "period": "1965—1966",
     "status": "imported",
     "review_level": "expanded_unreviewed",
     "paragraphs": 20,
     "headings": 3,
     "reference_links": 52,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "crisis"
   },
   {
     "id": "E-pki-fifth-force-1965",
@@ -550,7 +577,7 @@
     "name": "1965年的第五力量与工农民防训练",
     "aliases": [],
     "summary": "1960年代初，苏加诺以指导民主和Nasakom协调民族主义、宗教组织与共产党，同时陆军在地方军政、国有企业和紧急状态管理中取得广泛权力。共产党与有关工农组织认为国家政治结构并没有因为总统支持而变成工人、农民可自行掌握武装的制度。1965年初，是否在陆、海、空军和警察之外建立由工人、农民构成的“第五力量”，成为印尼政治的争论焦点。",
-    "period": "待标准化",
+    "period": "1950—1965年9月",
     "status": "imported",
     "review_level": "expanded_unreviewed",
     "paragraphs": 14,
@@ -565,7 +592,8 @@
       "events/event-njono-trial-1966.html",
       "events/event-movement.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "republic"
   },
   {
     "id": "E-prd-1996",
@@ -576,7 +604,7 @@
     "name": "1994—1998年：PRD、民主党总部袭击与新秩序危机",
     "aliases": [],
     "summary": "本事件的逐名追查已延伸至 1995—1998年政治拘押与失踪人员专题 。其中区分1996年国际特赦组织通报“9人／11人”人数冲突、1997年检察官对布迪曼求刑与法院一审判决的区别、1998年人权报告中仍在押或已不在押的PRD与PPBI／SMID人士。 不能把不同案件、刑期和释放状态合并成一个数字。",
-    "period": "待标准化",
+    "period": "1967—1998",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 10,
@@ -587,7 +615,8 @@
       "people/person-budiman.html",
       "people/person-dita-sari.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "neworder"
   },
   {
     "id": "E-preparation",
@@ -598,14 +627,15 @@
     "name": "建国讨论、宣言与共和国的最初制度",
     "aliases": [],
     "summary": "1945年3月，日本设立独立准备调查委员会（BPUPKI），第一次会议于5月29日至6月1日讨论国家基础和宪法原则。苏加诺6月1日提出潘查希拉（Pancasila）；6月22日，九人委员会把折衷文本写入《雅加达宪章》，其中包括穆斯林履行伊斯兰教义的文字。7月第二次会议审议宪法草案和国家结构。日本8月7日宣布设立独立准备委员会（PPKI），原定处理独立后的制度安排。 [BPUPKI与雅加达宪章]",
-    "period": "待标准化",
+    "period": "1942—1949",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 7,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "war"
   },
   {
     "id": "E-prewar-parliament",
@@ -616,7 +646,7 @@
     "name": "1936—1941年：自治请愿与“印度尼西亚要议会”运动",
     "aliases": [],
     "summary": "1936年7月15日，人民议会（Volksraad）议员 苏达佐·卡托哈迪库苏莫（Soetardjo Kartohadikusumo） 提出请愿，要求由荷兰和印度尼西亚代表平等参加会议，为印度尼西亚在荷兰王国内逐步取得自治拟定方案。人民议会于9月17日至29日辩论，并以26票对20票通过；荷兰王室于1938年11月16日拒绝请愿。 [苏达佐请愿与战前议会运动]",
-    "period": "待标准化",
+    "period": "1830—1941",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 9,
@@ -626,7 +656,8 @@
       "people/person-soetardjo.html",
       "people/person-thamrin.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "colonial"
   },
   {
     "id": "E-prisoners-1995-1998",
@@ -637,7 +668,7 @@
     "name": "1995—1998年：旧案政治犯、PRD被告与失踪学生的不同命运",
     "aliases": [],
     "summary": "1969年以后部分被拘押者被送往布鲁岛，1970年代末许多人陆续获释，但并不是所有1965年案件都因此结案。到1995年，新秩序时期仍有一些1965年事件相关人员被关押，另有1990年代的独立工会干部、学生和民主政党人员因新的政治活动被起诉。把两类人都叫作“左翼政治犯”，容易误以为他们在同一年因同一事件、同一罪名被捕。",
-    "period": "待标准化",
+    "period": "1967—1998",
     "status": "imported",
     "review_level": "expanded_unreviewed",
     "paragraphs": 17,
@@ -650,7 +681,8 @@
       "people/person-budiman.html",
       "people/person-dita-sari.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "neworder"
   },
   {
     "id": "E-proclamation",
@@ -661,14 +693,15 @@
     "name": "宣言之后：共和国如何建立权力",
     "aliases": [],
     "summary": "1945年8月18日，印度尼西亚独立准备委员会（PPKI）通过《1945年宪法》，选举苏加诺为总统、哈达为副总统，并决定设立中央印度尼西亚国民委员会（KNIP）协助总统。宪法草案中的《雅加达宪章》曾写入穆斯林履行伊斯兰教法的表述；最终文本改为“信仰唯一神”（Ketuhanan Yang Maha Esa）。东部非穆斯林地区军官提出异议、哈达与伊斯兰领袖协商的经过，见于哈达后来回忆。8月22日，政府决定设立人民安全机构（BKR）；各地分会由地方组织、旧殖民军",
-    "period": "待标准化",
+    "period": "1942—1949",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "war"
   },
   {
     "id": "E-purge",
@@ -679,7 +712,7 @@
     "name": "杀戮、拘押与群众组织清除",
     "aliases": [],
     "summary": "1965年10月初 九三〇运动 失败后，军队领导层将其同印尼共产党（PKI）联系起来。遭到清查的对象随后从少数涉嫌策划者扩大为党部、工会、农会、妇女和文化组织成员，以及被指认为同情者的教师、工人、农民、家属。政治身份、被人举报与实际参与军事行动不是同一件事。要理解清洗，必须说明标签如何被地方军队、警察、行政机关与反共团体转换为搜查、解雇、拘捕乃至杀害的行动。",
-    "period": "待标准化",
+    "period": "1965—1966",
     "status": "imported",
     "review_level": "expanded_unreviewed",
     "paragraphs": 14,
@@ -700,7 +733,8 @@
       "regions/east-java.html",
       "events/event-moncongloe-detention.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "crisis"
   },
   {
     "id": "E-rebellion",
@@ -711,7 +745,7 @@
     "name": "PRRI、Permesta与美国秘密援助",
     "aliases": [],
     "summary": "1950年代末，共和国中央与地方军事指挥官围绕军队整编、地方自治、财政与政治路线发生冲突。苏门答腊PRRI和苏拉威西Permesta并非完全相同的组织，但都在不同程度上反对雅加达中央政治安排。部分将领和政治人物担心PKI增长，也要求在国家决策中获得更多位置。",
-    "period": "待标准化",
+    "period": "1950—1965年9月",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
@@ -722,7 +756,8 @@
       "events/event-guided.html",
       "organizations/org-army.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "republic"
   },
   {
     "id": "E-recognition",
@@ -733,7 +768,7 @@
     "name": "2023—2025年：政府承认与非司法救济",
     "aliases": [],
     "summary": "2023年1月11日， 佐科·维多多（Joko Widodo） 总统代表政府承认包括1965—1966年事件在内的十二类严重人权侵害，并表达遗憾。3月发布的第2号总统指示要求十九名部长及同级官员协调落实非司法处理建议，包括核对受害者名册、提供社会与医疗服务、教育和住房支持，并采取预防再发生措施；指示同时保留司法处理的可能。 [2023年总统承认与部门执行指示]",
-    "period": "待标准化",
+    "period": "1998—2026",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 7,
@@ -742,7 +777,8 @@
     "related": [
       "people/person-widodo.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "reform"
   },
   {
     "id": "E-reformasi",
@@ -753,7 +789,7 @@
     "name": "1998—2004年：政治开放、工会复归与法律权利",
     "aliases": [],
     "summary": "经济金融危机与长期积累的腐败、政权集中及社会抗议共同削弱苏哈托统治。学生、劳动者和不同民主力量的活动不断升级，1998年5月21日苏哈托辞职，哈比比继任。辞职改变了最高行政职位，但军队、地方官员和既有企业关系不会在一天之内消失。",
-    "period": "待标准化",
+    "period": "1998—2026",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 8,
@@ -766,7 +802,8 @@
       "events/event-union-structure.html",
       "events/event-recognition.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "reform"
   },
   {
     "id": "E-sbsi",
@@ -777,7 +814,7 @@
     "name": "1992年：独立工会与SBSI",
     "aliases": [],
     "summary": "1992年，工会活动者 穆赫塔尔·帕克帕汉（Muchtar Pakpahan） 与多省工人建立印度尼西亚繁荣工人联合会（SBSI），在SPSI体系外组织独立工会。SBSI围绕最低工资、结社权、工厂安全和工会登记发动集会、谈判和罢工；政府动用安全机关、行政登记程序和刑事案件回应其活动。 [SBSI与独立工会]",
-    "period": "待标准化",
+    "period": "1967—1998",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 8,
@@ -786,7 +823,8 @@
     "related": [
       "people/person-pakpahan.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "neworder"
   },
   {
     "id": "E-semaun-hatta-1926",
@@ -797,14 +835,15 @@
     "name": "1926—1927年司马温与哈达的政治协定：跨国左翼与民族运动",
     "aliases": [],
     "summary": "殖民镇压迫使部分印尼共产主义者在欧洲和苏联活动；司马温与印尼留欧学生哈达之间的政治接触因此不是同一党内的普通会议。具体协定的形成、组织意图及各方理解仍须同原文和通信对照。",
-    "period": "待标准化",
+    "period": "1830—1941",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 7,
     "headings": 3,
     "reference_links": 12,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "colonial"
   },
   {
     "id": "E-shangrila-2000",
@@ -815,7 +854,7 @@
     "name": "2000—2003年雅加达香格里拉酒店工会争议：结社权遇到的实际阻力",
     "aliases": [],
     "summary": "1998年印尼政府批准国际劳工组织第87号公约以后，劳动者逐渐拥有建立独立工会的更多合法空间。 雅加达香格里拉酒店独立工会（Shangri-La Hotel Independent Workers’ Union，SPMS） 代表部分酒店员工；其国际联系机构是 国际食品、农业、酒店、餐饮及相关产业工会联合会（IUF） 。酒店管理方则具有排班、雇佣及停业决定权。三方的实际权能并不相同，劳工立法通过并不意味着工会与资方会立即对罢工和解雇达成一致。 [1]",
-    "period": "待标准化",
+    "period": "1998—2026",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 9,
@@ -826,7 +865,8 @@
       "events/event-union-structure.html",
       "people/person-pakpahan.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "reform"
   },
   {
     "id": "E-sobsi-1946-1949",
@@ -837,7 +877,7 @@
     "name": "1946—1949年SOBSI的成立、国际联系与工会分合",
     "aliases": [],
     "summary": "本事件页以时间、人员、机构和实际行为组织叙述；区分同期报告、研究者解释与仍缺原件的资料，不把统计或政治指控写成无条件定论。",
-    "period": "待标准化",
+    "period": "1942—1949",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 8,
@@ -848,7 +888,8 @@
       "organizations/org-sobsi.html",
       "events/event-madiun.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "war"
   },
   {
     "id": "E-sukarno-dewi-letters",
@@ -859,14 +900,15 @@
     "name": "苏加诺与德维：私人通信与外交往来",
     "aliases": [],
     "summary": "印度尼西亚国家档案馆公布的1965年10月通信包括九封标注当月日期的苏加诺英文信和两封未标日期的信，记录总统与日本出生的妻子黛薇（Ratna Sari Dewi）的私人往来。同月，日本政府继续与雅加达交涉贸易、贷款和地区外交。 [苏加诺—德维通信档案] [日本政府与雅加达的外交渠道]",
-    "period": "待标准化",
+    "period": "1965—1966",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "crisis"
   },
   {
     "id": "E-sukarno-exile",
@@ -877,7 +919,7 @@
     "name": "政党分化、逮捕与流放后的政治生活",
     "aliases": [],
     "summary": "苏加诺1929年被捕，1930年在审判中发表《印度尼西亚控诉》（Indonesia Menggugat），1931年底获释后又参与民族主义活动。殖民政府持续逮捕PNI领导人，党内决定解散原有组织，活动者随后建立路线不同的新组织：印度尼西亚党（Partindo）侧重公开群众动员，国民教育协会（Pendidikan Nasional Indonesia，PNI Baru）强调政治教育、纪律和长期干部培养。苏加诺加入Partindo； 穆罕默德·哈达（Moham",
-    "period": "待标准化",
+    "period": "1830—1941",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 13,
@@ -888,7 +930,8 @@
       "people/person-sjahrir.html",
       "people/person-schoonheyt.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "colonial"
   },
   {
     "id": "E-supersemar",
@@ -899,7 +942,7 @@
     "name": "“三月十一日命令”与总统权力转移",
     "aliases": [],
     "summary": "1965年10月九三〇运动失败后，苏加诺仍是正式总统，军队重要部门却逐步由苏哈托掌握。政治清洗破坏了总统此前借以维持政治联盟的群众组织，军队对内阁和安全机关的影响持续扩大。因此1966年3月的文书不是某个没有前因的独立事件。",
-    "period": "待标准化",
+    "period": "1965—1966",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
@@ -910,7 +953,8 @@
       "people/person-suharto.html",
       "events/event-new-order-politics.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "crisis"
   },
   {
     "id": "E-surabaya",
@@ -921,7 +965,7 @@
     "name": "1945年10—11月：泗水冲突与英国进攻",
     "aliases": [],
     "summary": "1945年10月25日，英国第49印度步兵旅约四千人由准将 奥伯廷·马拉比（Aubertin W. S. Mallaby） 率领，在泗水登陆。部队负责接收日军投降、解除日军武装并撤出盟国被拘人员。英军进入城市并占据关键建筑后，印尼青年和共和国武装要求其承认当地共和国机关与武装力量。10月27日起冲突扩大；10月29日，苏加诺、哈达和夏赫里尔抵达斡旋，双方达成停火。10月30日，马拉比在红桥附近死亡；英印和印尼记录对枪击、车辆爆炸及其死亡责任的叙述不一。英国",
-    "period": "待标准化",
+    "period": "1942—1949",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
@@ -931,7 +975,8 @@
       "people/person-mallaby.html",
       "people/person-mansergh.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "war"
   },
   {
     "id": "E-surakarta",
@@ -942,7 +987,7 @@
     "name": "1945—1946年：梭罗的王权、群众组织与共和国政府",
     "aliases": [],
     "summary": "独立后，梭罗的权力并未立即由王宫转到共和国机关。共和国最初承认苏苏胡南王朝（Kasunanan）和芒库尼加兰公国（Mangkunegaran）两套王室辖区的自治地位；同时，地方国民委员会、青年团体、政党和部队推动把王宫行政纳入共和国制度。双方围绕地方官员任命、警察和武装指挥、土地与王室特权展开竞争，政治行动者也把废除世袭权力与农民、工人诉求连在一起。1945年秋的梭罗社会革命包括群众集会、官员撤换、逮捕与地方冲突，不同辖区、王室机构和群众团体的经历并不相同",
-    "period": "待标准化",
+    "period": "1942—1949",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 9,
@@ -952,7 +997,8 @@
       "people/person-suryo.html",
       "people/person-soetarto.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "war"
   },
   {
     "id": "E-surveillance",
@@ -963,7 +1009,7 @@
     "name": "1975—1992年：前政治拘押者与家庭身份审查",
     "aliases": [],
     "summary": "1965年后政治拘押者被不同军事与公安机关分类，其身份资料在释放时未自动销毁。被调查者、家属和地方官员因此形成持续接触：就业许可、旅行、迁居和担任公职可能需要特别核查。ET标记即前政治拘押者身份的一个重要形式，但各时期政策和地方执行强度不能概括成统一不变的制度。",
-    "period": "待标准化",
+    "period": "1967—1998",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
@@ -974,7 +1020,8 @@
       "events/event-reformasi.html",
       "organizations/org-gerwani.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "neworder"
   },
   {
     "id": "E-takeover",
@@ -985,14 +1032,15 @@
     "name": "西新几内亚争端与荷兰企业接管",
     "aliases": [],
     "summary": "荷兰将西新几内亚排除在1949年主权移交之外，印度尼西亚政府持续要求该地区并入共和国。1957年11月，联合国大会未通过印度尼西亚提出的决议后，工会和青年组织者于12月在雅加达、泗水等城市占领荷兰企业、种植园、港口和交通设施。政府随后宣布戒严，军方接管许多企业的监管与经营。1958年第86号法律授权将荷兰企业收归国有，1959年又设立国有化协调机关；占领行动、军事管理、行政经营和产权转移依次推进，企业工人也通过新管理机构与国家部门继续交涉。 [工人接管、军",
-    "period": "待标准化",
+    "period": "1950—1965年9月",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "republic"
   },
   {
     "id": "E-three-july",
@@ -1003,7 +1051,7 @@
     "name": "1946年6月27日—7月6日：夏赫里尔被带走与七三事件",
     "aliases": [],
     "summary": "总理苏丹·夏赫里尔主张通过谈判争取国际承认；丹·马拉卡推动的“斗争联盟”（Persatuan Perjuangan）则以“百分之百独立”为最低要求，集合政治立场不同的政党和武装团体。1946年6月27日夜，军方人员在梭罗带走夏赫里尔；苏加诺随后暂时接管政府权力，夏赫里尔于7月1日回到日惹。冲突牵涉谈判政策、军队指挥和内阁权力，不只是一次个人绑架。 [斗争联盟与七三事件]",
-    "period": "待标准化",
+    "period": "1942—1949",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 7,
@@ -1014,7 +1062,8 @@
       "people/person-yamin.html",
       "people/person-sudirman.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "war"
   },
   {
     "id": "E-trisula-1968",
@@ -1025,7 +1074,7 @@
     "name": "1968年Trisula行动：南勿里达地下组织与军政清剿",
     "aliases": [],
     "summary": "1965年10月后的大规模反共镇压使原先公开工作的共产党和有关群众组织迅速瓦解。部分幸存者为躲避追捕，在1966—1967年转向东爪哇南部的勿里达山区建立秘密联系点。政治领导人的转移并不等同于整座乡村支持地下游击：当地农民原来就靠甘薯、木薯、旱稻、玉米和零散贸易生存，秘密组织必须利用已有村社关系，却也可能给居民带来被军方调查的危险。",
-    "period": "待标准化",
+    "period": "1967—1998",
     "status": "imported",
     "review_level": "expanded_unreviewed",
     "paragraphs": 17,
@@ -1038,7 +1087,8 @@
       "events/event-purge.html",
       "events/event-buru.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "neworder"
   },
   {
     "id": "E-union-prisoners-1977",
@@ -1049,7 +1099,7 @@
     "name": "1977年工会政治犯名单：具名人物、组织身份与拘押记录",
     "aliases": [],
     "summary": "本事件页以时间、人员、机构和实际行为组织叙述；区分同期报告、研究者解释与仍缺原件的资料，不把统计或政治指控写成无条件定论。",
-    "period": "待标准化",
+    "period": "1967—1998",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 8,
@@ -1060,7 +1110,8 @@
       "events/event-buru.html",
       "people/person-adam-soepardjan.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "neworder"
   },
   {
     "id": "E-union-registration-1998",
@@ -1071,7 +1122,7 @@
     "name": "1998—2001年印尼工会登记改革：从国际承诺到实际执行",
     "aliases": [],
     "summary": "哈比比政府于 1998年6月5日 以总统决定第83号在国内批准ILO第87号公约，国际劳工组织登记日期是 6月9日 ，公约于 1999年6月9日 对印尼生效。与此同时，劳动部已于 1998年5月27日 公布PER-05/MEN/1998，取代此前1993—1994年的工会登记规定。公约批准与行政登记改革是两个不同机关的决定，也不能把部长规章写作一份最高法院裁判。",
-    "period": "待标准化",
+    "period": "1998—2026",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 7,
@@ -1083,7 +1134,8 @@
       "events/event-union-structure.html",
       "events/event-sbsi.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "reform"
   },
   {
     "id": "E-union-structure",
@@ -1094,7 +1146,7 @@
     "name": "1973—1985年：全国工会合并与产业劳动",
     "aliases": [],
     "summary": "苏加诺时期，SOBSI等工会在铁路、港口、种植园和其他产业有实际组织生活。1965年10月军队和反共工会开始清查SOBSI及其基层组织。工会领导人被捕或失去岗位，并不等于工人同雇主之间的工资、劳动安全和集体谈判矛盾就消失。",
-    "period": "待标准化",
+    "period": "1967—1998",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 8,
@@ -1107,7 +1159,8 @@
       "events/event-sbsi.html",
       "events/event-reformasi.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "neworder"
   },
   {
     "id": "E-uprising",
@@ -1118,7 +1171,7 @@
     "name": "1926—1927年起事与殖民镇压",
     "aliases": [],
     "summary": "1926年11月爪哇部分地区发生与共产党联系的武装起事；1927年初西苏门答腊也出现行动。地方政治和宗教网络、工会关系、殖民警察侦察能力及指挥方式不同，两地不能被当作严格同步的统一计划。",
-    "period": "待标准化",
+    "period": "1830—1941",
     "status": "editorially_expanded_pending_review",
     "review_level": "expanded_unreviewed",
     "paragraphs": 14,
@@ -1128,7 +1181,8 @@
       "events/event-bovendigoel.html"
     ],
     "issues": [],
-    "source_complete": false
+    "source_complete": false,
+    "era": "colonial"
   },
   {
     "id": "E-victim-protection-2026",
@@ -1139,14 +1193,15 @@
     "name": "2026年：证人和受害者保护法更新",
     "aliases": [],
     "summary": "2026年5月20日，第3号《证人和受害者保护法》生效，取代2006年第13号法及其2014年修正案。新法把证人、受害者、作为证人的犯罪参与者、举报人、线人和专家纳入保护范围，并规定受害者长期基金、返还、赔偿及中央和地方政府职责。 [2026年证人和受害者保护法]",
-    "period": "待标准化",
+    "period": "1998—2026",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "reform"
   },
   {
     "id": "E-vstp-1923",
@@ -1157,7 +1212,7 @@
     "name": "1923年铁路罢工：塞马温、VSTP与三家铁路公司的不同经历",
     "aliases": [],
     "summary": "荷属东印度铁路与有轨电车工会 VSTP 在1908年由欧洲籍铁路员工参与建立。最初组织结构不等于一个完全由印尼工人控制的反殖民工会。研究者John Ingleson查考旧工会文书指出：1913年10月VSTP中央决定主动吸收印尼籍会员，1914年2月总会在七名中央执委席位中为印尼籍工人保留三席。这项组织改动使具体行业职工能以代表身份进入决策，而不只是接受欧洲知识分子的政治演讲。 [1]",
-    "period": "待标准化",
+    "period": "1830—1941",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 12,
@@ -1169,7 +1224,8 @@
       "people/person-tan-malaka.html",
       "organizations/org-pki.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "colonial"
   },
   {
     "id": "E-wangunwati",
@@ -1180,14 +1236,15 @@
     "name": "1965年6月：万贡瓦蒂的土地分配与合作社",
     "aliases": [],
     "summary": "中爪哇万贡瓦蒂（Wangunwati）显示土地改革如何经过工人组织、地方协商和国家机关落地。当地原橡胶园合同工于1946年占据旧殖民种植园；1950年，政府允许他们定居并经营园地，农业部1951年的决定给予临时土地权利。1952年，工人把管理机构改组为合作社，分配家庭耕地并共同经营橡胶园。1965年6月4日，西爪哇省土地事务监察机关以第LR.249/D/VIII/60/1965号决定，将468.15公顷土地分给240户，并把280.2公顷保留为合作社经营的",
-    "period": "待标准化",
+    "period": "1950—1965年9月",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "republic"
   },
   {
     "id": "E-wartime-mobilization",
@@ -1198,7 +1255,7 @@
     "name": "宣传机构、青年军训与强制劳动",
     "aliases": [],
     "summary": "1943年，日本在爪哇成立“人民力量中心”（Putera，Pusat Tenaga Rakyat），由苏加诺、哈达、 基·哈查尔·德宛达拉（Ki Hadjar Dewantara） 和 基·马斯·曼苏尔（Ki Mas Mansyur） 领导。Putera借民族主义演讲动员群众，也把动员活动接入日本战争体制。1944年，日军以“爪哇奉公会”（Jawa Hokokai）取代Putera，把宣传、征粮、捐献和劳动力动员直接交由军方控制。 [民族主义领袖与日本动员",
-    "period": "待标准化",
+    "period": "1942—1949",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 9,
@@ -1209,7 +1266,8 @@
       "people/person-ki-mas-mansyur.html",
       "people/person-fatmawati.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "war"
   },
   {
     "id": "E-west-kalimantan-1967-expulsion",
@@ -1220,7 +1278,7 @@
     "name": "1967年西加里曼丹华裔居民驱逐：边境游击战、地方动员与社会后果",
     "aliases": [],
     "summary": "本事件页以时间、人员、机构和实际行为组织叙述；区分同期报告、研究者解释与仍缺原件的资料，不把统计或政治指控写成无条件定论。",
-    "period": "待标准化",
+    "period": "1967—1998",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 8,
@@ -1231,7 +1289,8 @@
       "events/event-aceh-1965-repression.html",
       "events/event-purge.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "neworder"
   },
   {
     "id": "E-westpapua",
@@ -1242,14 +1301,15 @@
     "name": "1957—1969年：西新几内亚争端与巴布亚人的政治要求",
     "aliases": [],
     "summary": "1949年主权移交时，西新几内亚仍由荷兰控制，双方同意以后谈判解决归属。1957年，印度尼西亚提出的联合国决议未获通过，国内随即出现占领荷兰企业和要求收回该地区的群众行动。与此同时，荷兰政府推动本地自治制度：1961年成立的新几内亚议会（New Guinea Council）有由当地选出的巴布亚成员。议会成员支持以西巴布亚为名的政治共同体，并于1961年12月1日举行仪式，升起晨星旗、演唱巴布亚国歌。仪式表达当地政治精英的自决要求；荷兰当局仍控制行政。 [",
-    "period": "待标准化",
+    "period": "1950—1965年9月",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 9,
     "headings": 4,
     "reference_links": 0,
     "related": [],
-    "issues": []
+    "issues": [],
+    "era": "republic"
   },
   {
     "id": "E-women-detainees",
@@ -1260,7 +1320,7 @@
     "name": "1965—1990年东爪哇女性政治拘押：组织、逃亡、法庭与家庭",
     "aliases": [],
     "summary": "1965年军事政治镇压以后，Gerwani相关人员被清查，一些女性又因与地下党员的亲属关系遭拘押。两种身份不同：妇女组织本有教育、儿童照护和政治参与工作，亲属关系不证明参与地下军事活动。将它们统称“共产党女人”会遮蔽个人政治选择和家庭现实。",
-    "period": "待标准化",
+    "period": "1967—1998",
     "status": "imported",
     "review_level": "medium_unreviewed",
     "paragraphs": 5,
@@ -1274,7 +1334,8 @@
       "events/event-surveillance.html",
       "regions/south-blitar.html"
     ],
-    "issues": []
+    "issues": [],
+    "era": "neworder"
   },
   {
     "id": "O-army",

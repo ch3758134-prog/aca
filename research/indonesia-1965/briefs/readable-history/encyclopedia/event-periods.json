@@ -1,6 +1,6 @@
 [
   {
-    "era": "殖民统治与民族运动（19世纪—1941）",
+    "era": "殖民时代与民族运动（1830—1941）",
     "entries": [
       "events/event-bovendigoel.html",
       "events/event-colonial.html",
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "era": "战争、独立与共和国建国（1942—1949）",
+    "era": "占领、独立与革命（1942—1949）",
     "entries": [
       "events/event-bima-republic-1945.html",
       "events/event-diplomacy-revolution.html",
@@ -31,7 +31,7 @@
     ]
   },
   {
-    "era": "议会民主与苏加诺时期（1950—1965年9月前）",
+    "era": "议会民主与指导民主（1950—1965年9月）",
     "entries": [
       "events/event-1952.html",
       "events/event-election.html",
@@ -45,11 +45,12 @@
       "events/event-rebellion.html",
       "events/event-takeover.html",
       "events/event-wangunwati.html",
-      "events/event-westpapua.html"
+      "events/event-westpapua.html",
+      "events/event-bima-women-1950s.html"
     ]
   },
   {
-    "era": "1965—1966年政治转折与地方镇压",
+    "era": "1965—1966年政治转折（1965—1966）",
     "entries": [
       "events/event-aceh-1965-repression.html",
       "events/event-foreign-1965.html",
@@ -63,9 +64,8 @@
     ]
   },
   {
-    "era": "新秩序的建立与制度化（1967—1985）",
+    "era": "新秩序与改革前反对运动（1967—1998）",
     "entries": [
-      "events/event-bima-women-1950s.html",
       "events/event-buru.html",
       "events/event-landafter.html",
       "events/event-malari-nkk.html",
@@ -78,23 +78,23 @@
       "events/event-union-prisoners-1977.html",
       "events/event-union-structure.html",
       "events/event-west-kalimantan-1967-expulsion.html",
-      "events/event-women-detainees.html"
+      "events/event-women-detainees.html",
+      "events/event-marsinah.html",
+      "events/event-offcampus.html",
+      "events/event-prd-1996.html",
+      "events/event-sbsi.html"
     ]
   },
   {
-    "era": "改革前后与历史追索（1980年代—2026）",
+    "era": "1998改革与当代追索（1998—2026）",
     "entries": [
       "events/event-criminal-code-2026.html",
       "events/event-election-2024.html",
       "events/event-komnas.html",
       "events/event-marsinah-suharto-heroes.html",
-      "events/event-marsinah.html",
       "events/event-memory.html",
-      "events/event-offcampus.html",
-      "events/event-prd-1996.html",
       "events/event-recognition.html",
       "events/event-reformasi.html",
-      "events/event-sbsi.html",
       "events/event-shangrila-2000.html",
       "events/event-union-registration-1998.html",
       "events/event-victim-protection-2026.html"
