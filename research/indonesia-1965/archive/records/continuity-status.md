@@ -1159,3 +1159,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准续接事项**：（1）从西爪哇JDIH取得876/2025和863/2025两份决定全文及附表，核撤销和修订链；（2）逐件获取雅加达PTTUN四案174、196、205、211/B/2026判决全文，辨认原告、请求、主文和执行义务；（3）按Bekasi市/县及KBLI核675号附件产业金额，取得Dharma Precision Parts厂址和企业KBLI及集体协议，禁止错配；（4）按正式source-register/search-log/coverage-matrix全表去重后追加正式ID，恢复claim-ledger原字节读取，再更新chronology及连续中文正文；（5）轮换1965年Aceh军区命令、Moncongloe拘押命令及1950—1965 SOBSI/BTI/Gerwani基层组织原件。
 
 **Git治理**：本次续接文件写入前blob=2dd40e63be2ada217960e1257937352923a1b936；写入后的commit SHA以GitHub回执和远程核验为准，不能在同一自引用提交中预填最终SHA。GOAL持续ACTIVE/OPEN-ENDED。
+
+
+## 2026-11-22 09:50 CST｜ONGOING / GOAL仍进行｜Gerwani 1963年中央全会的妇女、工会及农地政策联系
+
+**本轮原刊转录核读（未与扫描页逐字比对）**：直接打开 Logos ID 数字档案《Api Kartini》1963年第1—2页 Ratna 署名文章《Dengan Manipol Perkuat Front Persatuan Wanita》：https://gerwani.logosid.app/teks/59 。文章记载Gerwani中央委员会1963-01-06至10日在雅加达举行全会，主席Umi Sardjono作报告；提到Magelang、Boyolali、Salatiga地方官员配偶到会，且报道训练中心60名来自各地、尤其爪哇以外地区的学员，列出Aidit、Ruslan Abdulgani等授课者。**这些均是当时Gerwani关联刊物的自述，非独立签到簿、课程表或官方行政记录**。文章明确提到Gerwani妇女与SOBSI工会行动的政治联结（反对使工会失去政治作用）、东爪哇约3000名妇女参与反涨价请愿的报道、儿童与妇女权利、离婚及教育议题，以及计划支持1963年国际妇女劳工会议。不能将该刊自报的3000人数、培训出席、组织合作或决议直接视为独立核实的实际执行。
+
+**同期土地改革言说**：直接打开《Api Kartini》1964年第1页转录《DARI TAVIP: BERDIRI DIATAS KAKI SENDIRI》 https://gerwani.logosid.app/teks/62 ，文中以第一人称转述/刊登关于UUPA和UUPBH执行、农民参与及土地改革法庭的政治主张。该页面未标明完整演讲者署名与精确期号，故不能仅凭文本将它判为总统原始讲话录音或法律实际执行证明；须回溯1964年TAVIP正式演说及政府土地改革文件。两篇的原刊影印、具体出版月和编辑过程均待查。
+
+**去重与资料边界**：已读取AGENTS、goal-continuity、stage-access、统一状态及正式source-register、search-log、coverage-matrix、chronology。全文字符串核查正式source-register和chronology未发现上述两个具体URL或1963年文章标题；这只是字符串去重，不排除别名或间接引用。claim-ledger.csv blob=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，fetch_file仍返回空正文，不能安全覆盖或新编C号。本轮未更新正式CSV、chronology或成熟中文正文，证据先保留在统一状态，尚非正式并库。对西爪哇876/2025号决定的官方站点限定检索未找到可直接打开的原件，不能误将675/2026当成876全文。
+
+**精确未完事项**：（1）查《Api Kartini》1963年刊期扫描第1—2页，核Ratna文章日期、会议纪要、60名学员及授课名单；（2）以Gerwani全会1963-01-06—10与SOBSI工会报刊/地方新闻交叉核东爪哇3000人反涨价请愿、参与组织及地点；（3）取1964 TAVIP总统演讲官方文本，比较/teks/62原刊节录与土地改革实际行政报告，核UUPA/UUPBH落实；（4）按正式source-register全表语义去重后为两篇原刊转录补S、Q、CV，恢复claim-ledger可读内容后补C，并更新chronology和成熟中文连续正文；（5）轮换Aceh 1965 Kodim-0104原令、Moncongloe SPRIN/802、876/2025原件及四项PTTUN判决，避免跨年代证据链失衡。
+
+写入前状态blob=348782a92333e78cabfd66833e020b6e1ed205cb；**本次提交SHA以写入回执为准，无法在同一提交正文预填自身SHA**。GOAL保持ACTIVE / OPEN-ENDED。
