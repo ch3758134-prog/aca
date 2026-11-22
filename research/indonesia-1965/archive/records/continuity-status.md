@@ -1357,3 +1357,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **正式台账限制**：本轮已读取正式source-register/search-log/coverage-matrix/chronology表头与现有登记路径；claim-ledger.csv的非空blob仍返回空正文，未覆盖也未虚构C号。本轮先保存全文级核读、日期矛盾与来源依赖到统一状态，未声称已完成CSV、chronology或中文连续正文并库；旧列表式HTML未创建。
 
 **精确未完**：①向Puri Negara取得1966-07-26《Laporan tertulis》完整影印（页眉、落款、收文戳），核与7月29日夜间家属报告是否两份文书；②调取1965-12-01至12-04《Suara Indonesia》Jembrana报道原报，区分袭击起始、焚毁及死亡日期；③调取1966-07-29 Skogar值班簿、车辆与军人调派、家属同期报案，检验Kapten Teddy身份与命令链；④核2019 Wijaya所引1957巴厘语言大会及1958—1962乌达雅纳大学筹建会议原件，形成省政与教育文化关系史；⑤轮换1948 Delanggu ANRI 91/1215/569卷、1965 Aceh军政文件、1970—1998政治犯与1998后工会登记，并修复claim-ledger字节读取后正式去重并库。GOAL永久OPEN。
+
+
+## 2026-11-23｜ONGOING / GOAL仍进行｜Sutedja家属报案时间与档案目录的来源依赖核查
+
+本轮已读取AGENTS、stage-access、goal-continuity、统一续接、正式source-register/search-log/coverage-matrix和archive/records/chronology.md。claim-ledger.csv仍返回blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a而UTF-8内容为空；不覆盖、不虚构C编号。当前状态文件写入前blob为 8e99843086f2bd95260651dc679e38842973d3af。此前S1531已经登记2013年Trisila论文，本次不重复登记同文。
+
+**新增可复核的档案线索（2013原刊参考书目直接打开）**：乌达雅纳大学期刊迁站页 https://ejournal1.unud.ac.id/index.php/kajianbali/article/view/5672 在参考文献部分明确列出Puri Negara家族所藏的1965-12-03总统内阁秘书处召Sutedja赴雅加达备忘录、1965-12-10苏加诺会谈纪要、1965-12-18 Keppres 380/1965摘录、1965-11-03 Pepelrada KEP-PPD.2/1/234、以及**1989-09-01编号351/1372/DPRD关于Sutedja未参与G30S的证明函**。后者提供1966事件在新秩序末期的行政追认/申辩新取件方向；该函究竟由哪个DPRD机构签署、法律效力与依据均未核实。上述只是研究文章参考书目对家族藏件的描述，绝非直接阅读了文件原件。期刊网站将2026-05-22标为Published但刊期为2013年Vol 3 No 1，原刊年份不能被迁站时间替换。
+
+**失踪日期矛盾的新核验路径**：2016-05-02 BeritaBali《Kisah Penculikan Gubernur Bali Sutedja, 1966 (3)》搜索索引可见段落称1966-07-29约22:30家属起疑，23:00由妻子AA Istri Ngurah Sunitri和农业部人员Drs M.A.E Sutedja写成报告（https://beritabali.com/berita/201605020006/kisah-penculikan-gubernur-bali-sutedja-1966-3-hilang-diculik-saat-presiden-soekarno-jadi-tahanan-rumah）。本轮实际打开返回403，**仅为检索索引摘录，不是全文已读**。2020-10-04 SINDOnews报道（https://daerah.sindonews.com/read/185010/29/kisah-penculikan-gubernur-bali-sutedja-jejaknya-hingga-kini-belum-terungkap-1601745035）亦称当夜23时家属报警，但报道依赖Aju著作，不能作为独立同期证词。2013 Trisila期刊参考书目仍把《Laporan tertulis atas penculikan》写成1966-07-26；两者可能是书目日期误植、不同文书或转述错误，**仍然没有解决**。同时2020、2021新闻对7月29日早间车辆和人员细节高度相似，不能累计为独立佐证。2019 Wijaya学术论文亦引用Trisila/Aju，须做依赖图。
+
+**本轮研究限制与下一动作**：仅新核读期刊参考书目和新闻可访问正文/索引，尚未取得1965—1966政府、警察、家属原件；未在正式四CSV、chronology、成熟中文正文中冒充闭合事实。本轮仍须追：（1）Puri Negara所藏1966-07-26《Laporan tertulis》与据称1966-07-29 23:00报告是否同一文书，索两件影印、页眉、签字、收文戳；（2）索1989-09-01 DPRD 351/1372号证明函原件及发文机构、所引调查材料；（3）索1965-12-03内阁备忘录、12-10苏加诺会谈纪要、12-18 Keppres 380/1965和11-03 Pepelrada决定原件；（4）查1965-12-01至04《Suara Indonesia》原报及Jembrana死者名单，区分袭击起始和遇害日期；（5）下一跨链轮换1948 Delanggu ANRI 91/1215/569、1965 Aceh军区文件、1970—1998政治犯/工会及1998后结社登记，完成去重后同步正式CSV与连续中文正文。GOAL永久ACTIVE / OPEN-ENDED。提交前main基线以本次文件读取时的远程版本为准，最新提交SHA以写入返回及远程独立核验为准，不能在同一Git提交中预写自身SHA。
