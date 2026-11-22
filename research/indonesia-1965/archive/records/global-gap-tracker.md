@@ -513,3 +513,12 @@
 **全G缺口横向保留**：G1 1920—49组织与ANRI 1948卷；G2种植园/铁路/BTI/Gerwani/Pemuda Rakyat/LEKRA基层；G3 930跨机关命令；G4 Aceh/北苏门答腊/各爪哇/巴厘/Flores/西加里曼丹/Sulawesi原件；G5妇女、族群、幸存者；G6监禁/流亡/新组织；G7县级工会与政党选举；G8英美澳中苏介入执行；G9人物—地点—组织索引；G10正式CSV和中文连续正文均OPEN。
 
 **精确接力**：（1）Komnas HAM印尼语全文定位Medan两组证词、原BAP编号与发生日期，索2009—2012原笔录；（2）调1965-10-14—11-15 Medan/Belawan警方、Kodim、SOBSI办公室火灾和伤亡登记；（3）打开NSA Document 6 Telegram 1168原影印，区分Green判断与军方指控，Document 9原影印复核Palembang地理；（4）打开Perpusnas SARBUPRI/BTI原刊至少一期，逐页核栏目与地区支部；（5）轮换西加里曼丹1967省府报告、Aceh处分原件和G7地方工会登记。此处未声称原始BAP、原刊或电报影印已读。GOAL长期未完成。
+
+
+## 2026-11-22｜G2 BTI原始档案目录与G4北苏门答腊证词精确定位（ONGOING）
+
+**G2（1947—1965，BTI，原始档案追索）：** 印尼国家档案馆ANRI官方频道于2025-11-19发布《Ekspose Inventaris Arsip Organisasi Kemasyarakatan Barisan Tani Indonesia 1947-1965》，https://www.youtube.com/watch?v=PSYQYoTOCb8 。本次只核对官方发布者、日期及标题/描述，**没有读取馆藏目录逐项条目或BTI原始档案**。这提供了优先向ANRI索取完整inventaris、卷号、原始地方支部报告、土地登记及农会决议的官方入口。与2025-02-01资料网站所列《Suara Tani》1956—1962年国家图书馆数字馆藏入口交叉；后者只核实网页说明，未核对具体期号、正文或其“完整”声明。https://19651966perpustakaanonline.wordpress.com/2025/02/01/arsip-digital-majalah-suara-tani-majalah-resmi-barisan-tani-indonesia-bti/ 。优先追取1959—1965具体地区土地纠纷的BTI支部原文及同期《Suara Tani》原刊，区分组织公开宣传与地方实际行动。来源等级C（官方发布元数据/馆藏指引），不能提升为原件。
+
+**G4/G5（北苏门答腊，1965-10-14，SOBSI）：** 直接核对Komnas HAM 2012年调查摘要印尼语公开PDF中Belawan/Medan段落（报告转述证人陈述），记载1965年10月14日前后Belawan港搜查、书籍被没收，SOBSI位于Jalan Medan Binjai的办公室遭焚，以及证词指称SOBSI主席**Sakir Sobo**与两名守卫被杀。报告脚注指向BAP 248/BAP_TPPH 65/II/2008和064/BAP_TPPH 65/VIN/2008（以原PDF字形为准，须复核）。https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf 。证据等级A仅指已可访问委员会调查摘要，**并非证人原始笔录、火灾勘验、死亡登记或军方行动命令**；事件细节须保持“委员会所记录证词称”。待查：Sakir Sobo身份/职务的同期工会刊物、两名守卫姓名、1965年10月当地军警记录与BAP原件。不得将该事件与其他城市SOBSI办公室受袭混为一事。
+
+**跨G项续接：** 先索取ANRI BTI 1947—1965目录的具体卷号并读取原件；同时核对北苏门答腊BAP原件与地方报纸；轮换G1 1948 GASBRI档案493及G4 Aceh县级处分文书，防止长期仅停留于一地。G1—G10继续OPEN。正式CSV/chronology/中文正文尚未据此更新；不把这些登记线索视为全面完成。
