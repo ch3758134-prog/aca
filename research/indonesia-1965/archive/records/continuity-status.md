@@ -1462,3 +1462,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 
 ## 2026-11-22｜ONGOING / GOAL仍进行
 本次按要求读取 completeness-audit-2026-11-09.md 与AGENTS/stage-access/goal-continuity及正式来源、检索、覆盖、时间线；claim-ledger.csv返回非空SHA但正文0字符，未覆盖。新核验两条链：FRUS XXVI d162（1965年10—11月Aceh/北苏门答腊/东中爪哇地区电报的编辑摘要；1966年4月死亡数不确定性）与d185（1965年12月至1966年8月美使馆PKI高层名单转递的编辑摘要）。两页均已直接打开全文，但其所引电报/附件未取得，严禁把编辑引述当原件全文或将名单与死亡因果直接相连。详见global-gap-tracker.md当日追加。下一可执行动作：①调取RG84 1965-10-29电报1269与11-08电报1374，比较Aceh/北苏门答腊地方档案；②调取RG59 1965-12-17 A-398及附件，核对1966-08-10 A-74原件；③调取1965-11-13 Surabaya 171与Kediri地方警务/教会原件；④返回ANRI GASBRI馆藏493及BTI 1947—1965目录逐项；⑤核对1979释放名册和1998后县级工会登记。G1—G10持续OPEN，未达到全量完成；正式CSV/时间线/中文正文同步仍待进行。
+
+
+## 2026-11-23｜ONGOING / GOAL仍进行｜FRUS秘密援助决策的提议与实际执行分界
+
+本轮已回读AGENTS、goal-continuity、stage-access、正式source-register/claim-ledger/search-log/coverage-matrix及chronology；claim-ledger仍为非空blob但UTF-8读取空正文，未覆盖。直接核读美国国务院官方《FRUS 1964–1968》卷XXVI文书172（1965-11-09 CIA备忘录）https://history.state.gov/historicaldocuments/frus1964-68v26/d172 及文书192（1966-02-15 Komer致Johnson备忘录）https://history.state.gov/historicaldocuments/frus1964-68v26/d192 。正式source-register已含两个原文URL，故未重复分配来源ID。
+
+**原文细读与反证**：d172第7段评估秘密信用额度、军火和医药等物资的潜在转运机制；但第8段明确说当时**不建议提供此类装备**，须先同Sukendro及Nasution部属调查武器用途、接收对象、登记和控制方式。因此不能把“具备交付能力”写成“已交付武器”。该备忘录第2段对中爪哇抵抗能力的判断是CIA当时情报评估，不是地方武装行动独立证据。d192记录1966年2月美国政府内部就秘密支持军方存在政策分歧：脚注所引2月14日曼谷电报称泰方鼓励美国提供20万吨大米信用额度，但同日国务院回电拒绝，理由包括隐蔽性不足及印尼军方可动用外汇的迹象。**提出采购、内部讨论、拒绝方案、最终实际物资流动必须分开**；两份FRUS编辑刊载全文均已打开，但d192脚注所引1663、1439、1608号电报原件及d172未解密部分未取得。
+
+**精准未完事项**：（1）取得1965-11-09 CIA备忘录关联Sukendro会谈纪要及其后信用额度/军火运输凭证，判定哪些方案最终执行；（2）取得1966-02-14曼谷1663及国务院1439、02-15卡拉奇1608全文，核20万吨大米请求、拒绝和后续变更；（3）将FRUS d172/d192与1965-10 Aceh地方军政命令、具体武器接收/行动记录逐条比对，不能由外交意向推导地方执行；（4）继续追1961《Api Kartini》Djenab原刊扫描、1963 Gerwani全会决议与SOBSI合作原件；（5）修复正式claim-ledger读取，核已有主张后再同步chronology、四CSV及成熟中文连续历史正文，跨期轮换1948 Delanggu与2000年Hero协议原件。
+
+本轮未完成正式四CSV、chronology及中文正文同步；未宣称证据链闭合。写入前本文件blob：ca55a542f692b798034d92646f87d5ac97b34813。提交SHA以本次GitHub API返回及远程main核验为准；不能在产生该提交的文件正文中预知自身SHA。GOAL永久OPEN。
