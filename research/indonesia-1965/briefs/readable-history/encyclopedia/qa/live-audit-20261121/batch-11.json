@@ -1,0 +1,129 @@
+{
+  "basis": "28250ddae82726623f411b61cf3efef08e273fe2",
+  "range": [
+    132,
+    143
+  ],
+  "records": [
+    {
+      "path": "people/person-semaun.html",
+      "length": 3513,
+      "searchLength": 0,
+      "ratio": 0,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-siauw.html",
+      "length": 1567,
+      "searchLength": 1538,
+      "ratio": 0.981,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "people/person-siti-maryam.html",
+      "length": 3259,
+      "searchLength": 3230,
+      "ratio": 0.991,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "people/person-sjafruddin.html",
+      "length": 1007,
+      "searchLength": 978,
+      "ratio": 0.971,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "people/person-sjahrir.html",
+      "length": 1639,
+      "searchLength": 1639,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "people/person-sjam.html",
+      "length": 1094,
+      "searchLength": 1065,
+      "ratio": 0.973,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "people/person-sneevliet.html",
+      "length": 1676,
+      "searchLength": 1676,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 6
+    },
+    {
+      "path": "people/person-soekemi.html",
+      "length": 748,
+      "searchLength": 748,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 1
+    },
+    {
+      "path": "people/person-soemarsono.html",
+      "length": 8874,
+      "searchLength": 8845,
+      "ratio": 0.997,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "people/person-soengkono.html",
+      "length": 1274,
+      "searchLength": 728,
+      "ratio": 0.571,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "people/person-soetardjo.html",
+      "length": 822,
+      "searchLength": 793,
+      "ratio": 0.965,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "people/person-soetarto.html",
+      "length": 931,
+      "searchLength": 931,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    }
+  ]
+}
