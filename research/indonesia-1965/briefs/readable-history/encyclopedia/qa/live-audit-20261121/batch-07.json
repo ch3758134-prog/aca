@@ -1,0 +1,129 @@
+{
+  "basis": "23cd1eabada2304f1153e7e19456b8a3c0aa1ad2",
+  "range": [
+    84,
+    95
+  ],
+  "records": [
+    {
+      "path": "people/person-aidit.html",
+      "length": 1947,
+      "searchLength": 1918,
+      "ratio": 0.985,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "people/person-allen-pope.html",
+      "length": 930,
+      "searchLength": 901,
+      "ratio": 0.969,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "people/person-amir.html",
+      "length": 1600,
+      "searchLength": 1600,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 1
+    },
+    {
+      "path": "people/person-bambang-sugeng.html",
+      "length": 885,
+      "searchLength": 885,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-budiman.html",
+      "length": 1665,
+      "searchLength": 1636,
+      "ratio": 0.983,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 6
+    },
+    {
+      "path": "people/person-darsono.html",
+      "length": 1879,
+      "searchLength": 1879,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 6
+    },
+    {
+      "path": "people/person-daud-beureueh.html",
+      "length": 966,
+      "searchLength": 937,
+      "ratio": 0.97,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-dewi.html",
+      "length": 790,
+      "searchLength": 761,
+      "ratio": 0.963,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-dita-sari.html",
+      "length": 1076,
+      "searchLength": 1047,
+      "ratio": 0.973,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "people/person-fatmawati.html",
+      "length": 1178,
+      "searchLength": 1149,
+      "ratio": 0.975,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-gatot-lestario.html",
+      "length": 8266,
+      "searchLength": 8237,
+      "ratio": 0.996,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "people/person-green.html",
+      "length": 1290,
+      "searchLength": 1261,
+      "ratio": 0.978,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    }
+  ]
+}
