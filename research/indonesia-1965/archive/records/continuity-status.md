@@ -1202,3 +1202,7 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 ## 2026-11-22 13:00 CST｜ONGOING / GOAL仍进行｜1964解雇法原件、Gerwani刊物传播条件与Aceh广播反证
 已重读AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09（G1—G10）、本状态、正式source-register/claim-ledger/search-log/coverage-matrix/chronology和缺口总账。直接打开BPK 9页第12/1964号法律全文，核1964-09-23签署、协商/许可、无许可解雇无效及私企三个月门槛；正式登记S1527。直接复核S1526《Api Kartini》原刊刊头：编辑地址Matraman Raya 51、出版者Jajasan Melati、印量自报5000、单价Rp50；刊物自报不等于实际印售。不同G项G3/G4重开Jess Melvin 2013年Aceh文章全文，1965-10-18 Langsa Baperki声明声称苏加诺曾发出灭绝性广播，但作者明确指出并无该广播；不得归为总统实际讲话，原声明及广播原始节目单待取。来源等级：法律原文A、原刊刊头A（只证明刊物自述）、Melvin学术全文B（1965声明未直接取得）。
 已更新长期缺口总账、source-register S1527、chronology附录待统一排序；claim-ledger.csv非空blob仍返回空文本，未覆盖或杜撰C编号。正式search-log/coverage-matrix尚未追加，需按最大ID及全表去重后补。下次直接：①读《Api Kartini》印刷23/26页查具体工厂村庄及SOBSI/BTI关系；②核1964—1967地区劳资争议委员会许可/上诉登记及政治性解雇；③取Langsa 1965-10-18 Pernjataan原影印和RRI广播节目记录；④轮换Flores军令B.061/III/1966、Moncongloe SPRIN/802、SBSI/PRD基层记录；⑤恢复claim-ledger原始字节读取并以时间排序整合chronology及中文连续正文。全部G项OPEN，不能将本次局部核验视为完成。
+
+
+## ONGOING / GOAL仍进行 — 2026-11-22 UTC
+已读取G1—G10审计和正式台账实际目录；本次新证据见global-gap-tracker末尾：1977年国际特赦工会囚犯具名册、1965-11-01北苏门答腊使馆电报1290、Komnas HAM调查样本口径。下一步：1.原件核电报1290图像及RG84；2.逐人核Sri Ambar/Kartina Kurdi/Kusnah拘押和释放；3.查Medan PERBUM及Shell/Stanvac/PURSI人员簿；4.解决claim-ledger blob读取及正式CSV去重；5.切换G1早期组织、G7工会登记和地方暴力缺口。G1—G10均OPEN，未完成。
