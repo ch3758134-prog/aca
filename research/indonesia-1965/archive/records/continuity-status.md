@@ -1434,3 +1434,8 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 本轮重读AGENTS、goal-continuity、stage-access、正式四CSV、chronology与统一状态。claim-ledger.csv非空blob但正文读取为空，未覆盖。直接打开ASETUC 2013《Labour Laws and Practices in ASEAN》第二卷完整PDF https://asean.org/wp-content/uploads/images/2015/August/ASEAN-Labour-Ministerial-Meeting-document/Comparative%20Labour%20Laws%20and%20Practices%20in%20ASEAN%20Vol%20II.pdf ，第5.3.1节追述UNI Apro 2000年介入Hero工会与管理层谈判僵局、11月达成和解；2009年奖金方案、2011年合同工入会和养老金集体协议、2012年联合培训。2011年ILO《Freedom of Association and Development》 https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_norm/%40declaration/documents/publication/wcms_160208.pdf 第34页也叙述Hero，但依赖UNI Apro 2009报告，不能作为独立同期验证。2016年印尼语论文书目 https://ejournal.atmajaya.ac.id/index.php/paradigma/article/view/1714 引Hakim 2014和UNI Apro/ASPEK/SPHS资料，已打开书目页，未读论文PDF。以上是研究/机构的回顾性记载，不是和解或协议原件；222、470、500门店属于不同年份与统计口径，不得等同已入会门店数。
 
 精准未完：（1）取得UNI Apro/ASPEK/SPHS 2009原版及2000年11月谈判纪要，核Joseph De Bruyn、Christopher Ng、Ian McLallan各人身份；（2）取得Hero工会2000登记、2009奖金协议、2011集体协议签字页和适用对象；（3）寻找工人投诉、劳资裁决、外包工反证，检验成功案例叙事；（4）轮换1948 Delanggu ANRI 91/1215、1965 Aceh Baperki名单及1966 Bali Sutedja报告；（5）修复claim-ledger读取后去重登记正式来源主张，更新chronology与成熟中文连续正文。正式CSV和chronology本次尚未并库，不得声称已更新。写入前文件blob SHA c5a92e5e5235366e1f9fa3ff28796d73244fbb61；本次提交SHA以API及远程HEAD核验为准。GOAL永久OPEN。
+
+
+### 2026-11-23｜本轮正式并库补记（ONGOING）
+
+本轮已在GitHub main正式登记source-register S1532、S1533、S1534；search-log Q594；coverage-matrix CV663；chronology新增2000年11月及2009—2012年Hero工会事件（均注明2013年回顾性来源、协议原件未读）。逐次更新前重新获取各文件blob SHA。claim-ledger仍不可读，未写C编号。中文阅读正文暂未更改，原因是谈判过程原始记录和协议尚缺，不以成功案例摘要填充正文。最新已确认阶段性提交SHA `68bcbcd60f0fdae2789d359192c1975d0b8bea95`，为本续接提交之前的HEAD；本续接提交后实际HEAD必须另行查询。未完取件事项沿用紧邻上一节五项，GOAL永久OPEN。
