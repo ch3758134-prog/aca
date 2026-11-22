@@ -1,1 +1,28 @@
-[{"id":"E-women-detainees","group":"events","path":"events/event-women-detainees.html","source_path":"events/event-women-detainees.html","title":"1965—1990年东爪哇女性政治拘押：组织、逃亡、法庭与家庭","name":"1965—1990年东爪哇女性政治拘押：组织、逃亡、法庭与家庭","aliases":[],"summary":"1965年军事政治镇压以后，Gerwani相关人员被清查，一些女性又因与地下党员的亲属关系遭拘押。两种身份不同：妇女组织本有教育、儿童照护和政治参与工作，亲属关系不证明参与地下军事活动。将它们统称“共产党女人”会遮蔽个人政治选择和家庭现实。","period":"待标准化","status":"imported","review_level":"medium_unreviewed","paragraphs":5,"headings":6,"reference_links":2,"related":["people/person-tuti-gerwani.html","people/person-putmainah.html","people/person-sri-kayati.html","organizations/org-gerwani.html","events/event-surveillance.html","regions/south-blitar.html"],"issues":[]}]
+[
+  {
+    "id": "E-women-detainees",
+    "group": "events",
+    "path": "events/event-women-detainees.html",
+    "source_path": "events/event-women-detainees.html",
+    "title": "1965—1990年东爪哇女性政治拘押：组织、逃亡、法庭与家庭",
+    "name": "1965—1990年东爪哇女性政治拘押：组织、逃亡、法庭与家庭",
+    "aliases": [],
+    "summary": "1965年军事政治镇压以后，Gerwani相关人员被清查，一些女性又因与地下党员的亲属关系遭拘押。两种身份不同：妇女组织本有教育、儿童照护和政治参与工作，亲属关系不证明参与地下军事活动。将它们统称“共产党女人”会遮蔽个人政治选择和家庭现实。",
+    "period": "1967—1998",
+    "status": "imported",
+    "review_level": "medium_unreviewed",
+    "paragraphs": 5,
+    "headings": 6,
+    "reference_links": 2,
+    "related": [
+      "people/person-tuti-gerwani.html",
+      "people/person-putmainah.html",
+      "people/person-sri-kayati.html",
+      "organizations/org-gerwani.html",
+      "events/event-surveillance.html",
+      "regions/south-blitar.html"
+    ],
+    "issues": [],
+    "era": "neworder"
+  }
+]
