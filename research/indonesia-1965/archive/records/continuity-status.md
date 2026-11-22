@@ -1172,3 +1172,12 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精确未完事项**：（1）查《Api Kartini》1963年刊期扫描第1—2页，核Ratna文章日期、会议纪要、60名学员及授课名单；（2）以Gerwani全会1963-01-06—10与SOBSI工会报刊/地方新闻交叉核东爪哇3000人反涨价请愿、参与组织及地点；（3）取1964 TAVIP总统演讲官方文本，比较/teks/62原刊节录与土地改革实际行政报告，核UUPA/UUPBH落实；（4）按正式source-register全表语义去重后为两篇原刊转录补S、Q、CV，恢复claim-ledger可读内容后补C，并更新chronology和成熟中文连续正文；（5）轮换Aceh 1965 Kodim-0104原令、Moncongloe SPRIN/802、876/2025原件及四项PTTUN判决，避免跨年代证据链失衡。
 
 写入前状态blob=348782a92333e78cabfd66833e020b6e1ed205cb；**本次提交SHA以写入回执为准，无法在同一提交正文预填自身SHA**。GOAL保持ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-22 10:50 CST｜ONGOING / GOAL仍进行｜Gerwani 1963与土地改革言说正式并库
+
+本次重读AGENTS、goal-continuity、stage-access及正式五项资料；直接打开印尼文原刊现代转录 https://gerwani.logosid.app/teks/59 和 https://gerwani.logosid.app/teks/62 。前者Ratna在1963年《Api Kartini》1—2页报道1963-01-06—10雅加达Gerwani中央全会、Umi Sardjono报告、60名培训学员及东爪哇约3000妇女反物价请愿，并提及SOBSI；后者为1964年《Api Kartini》1页刊出的TAVIP土地改革演讲节录，主张执行UUPA、UUPBH并讨论土地改革法庭。两篇均已打开数字转录，未取得原刊影像；数字及活动是组织自述，土地改革主张不是实际分地证据。
+
+按正式来源表URL查重后拟并库S1524、S1525，Q587、CV657及chronology两个有证据等级标注的条目；本轮写入回执：source-register.csv=ef59ed7e7bd5e43d7768f61090aa68d0d04433f3; search-log.csv=525383d3b960ff46ea40d428acfa4db74d1fee49; coverage-matrix.csv=c1db9ea77aa3ebd3eabbb4fcaa65bf777de3bce7; chronology.md=826f5d23a74629b9dcb0914fc2e68d3ffd839048。claim-ledger.csv blob=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，但正文读取为空，**未写入或虚构C编号**。此处记录的是已提交文件的SHA；当前状态文件提交自身SHA须以写入回执和远程HEAD独立回读确定，无法自引用预填。
+
+**精准未完事项**：（1）取得1963《Api Kartini》Ratna文原刊1—2页及刊期，逐字校对60学员与3000人；（2）找1963年东爪哇地方报刊、请愿收件及SOBSI工会档案，核具体日期、参与者和行动；（3）调取1964 TAVIP总统讲话原件并与节录比对，另核土地改革法庭设立及UUPA/UUPBH县级执行；（4）排查claim-ledger空正文原因，必须安全读取原始数据后再补C编号；（5）转查1965 Aceh Kodim-0104命令、1977 Moncongloe SPRIN/802、1990年代SBSI/PRD人员组织链，成熟后写入中文连续历史正文，不建立列表式旧HTML。GOAL永久OPEN。
