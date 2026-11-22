@@ -1346,3 +1346,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **本次核验：** 直接打开S383的2012年KITLV全书（LOC镜像）印刷137—145页，确证作者明确援引1967年西加里曼丹省长办公室难民报告及A.J. Witono 1967-11-17《Maklumat》私人收藏，得到10月5—7日Tepo早期焚掠、10月18日Bengkayang约千人避难、10月19日Samalantan红碗、11月9日Usman Idris返乡指令及11月17日军方停止示威令的**学术转引时间链**；原始文书仍未取得。作者引述249死亡/约60000难民为官方口径，不是逐人核定。S383与S453在“中央预谋”解释上存在实质分歧，不能用共有参考资料充当独立佐证。详情已入global-gap-tracker和chronology。两次正式提交：缺口总账 3a4e3fb42c94b2b99e82e1b63e8fed202f3ca14a；时间线 c53dcced13139acc078df3cd00c0bc3dc9d57757。正式CSV此次未新增，未声称已并库。
 
 **精确下一动作：** ①索Pontianak省长办公室1967年《Pengungsian orang2 Tjina》原卷及其分县死亡/避难名册；②索Witono 1967-11-17《Maklumat》签字影印与《Pembangunan》11月9日、21日原报；③对照巴厘Puri Negara 1966-07-26绑架报告原件与1966-07-29叙事日期，并追1965-11-03 KEP-PPD.2/1/234；④安全修复claim-ledger读取及S1531访问字段，正式检索/覆盖表去重更新；⑤转向G1 Delanggu 1948 ANRI卷宗1215/91与G7县级工会登记，成熟时接入中文连续历史正文。G1—G10仍OPEN，GOAL未完成。
+
+
+## 2026-11-22｜ONGOING / GOAL仍进行｜巴厘Sutedja失踪的第二篇学术全文与来源依赖核查
+
+本轮核读2019年I Nyoman Wijaya, “Remembering the Forgotten Past: A Case Study of Bali's First Governor, Anak Agung Bagus Sutedja”, IKAT 3(1):75–93全文（https://download.garuda.kemdikbud.go.id/article.php?article=1228683&title=Remembering+the+Forgotten+Past+A+Case+Study+of+Bali%27s+First+Governor+Anak+Agung+Bagus+Sutedja&val=11675），并重开2013年Slamat Trisila原刊PDF（https://ojs.unud.ac.id/index.php/kajianbali/article/download/15698/10480/）。2019文第78页明确将1966-07-29作为带走Sutedja的日期，并将1965年12月Jembrana宅邸事件归于Aju、Trisila等研究；但作者引用Aju及Trisila，因此**两篇研究在失踪日期上并非完全独立的同期旁证**。2019文第78—79页也明列相互冲突的宅邸袭击日期：Aju说1965-12-01，Trisila说1965-12-02，另有Suryawan将事件置于10—11月；2019作者认为《Suara Indonesia》报道支持12-02，但本轮未直接取得该报纸原版。此前不能把12-02视为无争议日期。2019文还追溯Sutedja与1957年巴厘语言教育争论、1958—1962年乌达雅纳大学建立的关系，为1950年代省级政治与1965后历史记忆的连续叙事提供新的具体路径；该研究关于记忆政治的解释须与所引校史和学校会议档案分开。
+
+**重要反证未消失**：2013 Trisila参考文献仍把事后《Laporan tertulis atas penculikan》标为1966-07-26，与两篇研究所述1966-07-29失踪不符；2019文章没有展示报告原件，故不能以“第二篇论文也写29日”消除日期矛盾。2016年BeritaBali系列报道搜索可见摘要另称家属于1966-07-29夜间23时写报告（https://beritabali.com/berita/201605020006/kisah-penculikan-gubernur-bali-sutedja-1966-3-hilang-diculik-saat-presiden-soekarno-jadi-tahanan-rumah），但本轮打开原网页返回403，**只可作为待核检索线索**，不可当已读全文或独立确认。
+
+**正式台账限制**：本轮已读取正式source-register/search-log/coverage-matrix/chronology表头与现有登记路径；claim-ledger.csv的非空blob仍返回空正文，未覆盖也未虚构C号。本轮先保存全文级核读、日期矛盾与来源依赖到统一状态，未声称已完成CSV、chronology或中文连续正文并库；旧列表式HTML未创建。
+
+**精确未完**：①向Puri Negara取得1966-07-26《Laporan tertulis》完整影印（页眉、落款、收文戳），核与7月29日夜间家属报告是否两份文书；②调取1965-12-01至12-04《Suara Indonesia》Jembrana报道原报，区分袭击起始、焚毁及死亡日期；③调取1966-07-29 Skogar值班簿、车辆与军人调派、家属同期报案，检验Kapten Teddy身份与命令链；④核2019 Wijaya所引1957巴厘语言大会及1958—1962乌达雅纳大学筹建会议原件，形成省政与教育文化关系史；⑤轮换1948 Delanggu ANRI 91/1215/569卷、1965 Aceh军政文件、1970—1998政治犯与1998后工会登记，并修复claim-ledger字节读取后正式去重并库。GOAL永久OPEN。
