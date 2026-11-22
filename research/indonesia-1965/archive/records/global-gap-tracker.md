@@ -392,3 +392,11 @@
 **跨项核验：** Komnas HAM《1965—1966调查执行摘要》印尼语PDF全文 https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ，第1—2页明确其调查2008-06-01至2012-04-30访问349名证人/受害者，且承认地域广阔、预算、记忆和证据流失造成覆盖不足。349为该调查接触人数，非全国受害总数；本文件已在旧记录中引用，不新造来源编号。G1殖民前史、G3中央命令、G5性别族群、G7改革后组织、G9索引、G10正式台账仍OPEN。
 
 **归档障碍：** 正式source-register/search-log/coverage/chronology定位在archive/records/；claim-ledger.csv blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a 读取返回空字符串，不能安全覆盖或分配新C号。本次先保存原文定位与待并库事实；下一执行从Git树/blob API解决完整CSV读取并核正式最大编号，再写原子主张和统一chronology；不得把本段当正式S/C登记。
+
+
+## 2026-11-22｜G4/G8 地域纠错：1290号电报所述工会拘捕发生在南苏门答腊Palembang（ONGOING）
+**直接原件核验（A：美国使馆1965-11-01电报OCR全文，须对照扫描以排除OCR错误）**：美国国家安全档案馆公开的Telegram 1290原始电报OCR（https://nsarchive.gwu.edu/media/15705/ocr），第一段明确记载美国使馆劳工专员于**10月28—29日访问南苏门答腊Palembang**，称当地据报已有约600名被称为共产党人的人员遭拘押，继续有人被捕；Shell与Stanvac炼厂的SOBSI干部、**PUSRI**化肥厂工会干部在其中。电报第三段记载Stanvac约30名印尼员工被捕，包括PERBUM干部；Shell Pladju炼厂及Prabumulih油田另有24名PERBUM成员被捕；PUSRI约1300名印尼员工中有15名SOBSI领导干部被捕。**600、30、24、15不能相加**，可能存在口径包含与重叠；这些是电报中的转述和企业消息，并非逐人拘捕名册或死亡数字。原文还记载Ibnu Sutowo考虑将Stanvac约3500名工人中的至少1000名“超额”工人转往厂外工程，属于**考虑中的计划**，不是已执行的调动。
+**关键纠错**：国家安全档案馆2017年介绍页（https://nsarchive.gwu.edu/document/15705-document-9-telegram-1290-american-embassy）将该电报概括为“North Sumatra”，但电报正文明确为“Palembang S Sumatra”。既往缺口总账和续接若把这一批Shell/Stanvac/PUSRI拘捕定位为北苏门答腊，应以**电报正文的南苏门答腊定位**纠正，不能再把这600人算作Medan或北苏门答腊事件。需要扫描页与原始地名核对，另行独立调查北苏门答腊Medan。馆藏：RG84 Entry P339 Jakarta Embassy Files Box14 Folder4, Nov 1-9 1965。
+**G6跨年代联系（未闭合）**：1977年国际特赦工会政治犯名单与1965年Palembang各厂被捕干部是否存在同一人，尚无姓名、厂内名册及拘押转移记录，禁止直接连成个人生涯。缺件：Shell Pladju/Stanvac Sungai Gerong/PUSRI 1965年10—12月人事/拘押名单、地方军警逮捕令、Ibnu Sutowo有关人员调动决定、原电报扫描校读、1977年具名囚犯履历。
+**不同G项轮换 G6（1968 Blitar Selatan）**：印尼文化部历史百科 https://esi.kemenbud.go.id/wiki/Peristiwa_Blitar_Selatan 记载1967年起军事侦察与地方社会的关系；UNESA 2014论文出版页 https://ejournal.unesa.ac.id/index.php/avatara/article/view/9243 仅核读摘要，涉及Yonif511、Munir、Rewang、Suwandi，尚未取得论文全文及1968年行动命令。文化部条目把1968年7月3日写为派遣Witarmin的日期，而其他公开叙述将行动开始列为6月1日；需用1968年原始命令、作战日志分清建队、部署、正式行动及后续清剿日期，不凭摘要调和冲突。此链访问等级C（网页正文/论文摘要，非当时原件）。
+**精确续接**：1. 对照Telegram1290扫描第1、3、5、7页与OCR，确认Palembang/PUSRI与30/24/15口径；2. 检索Palembang/PUSRI 1965拘捕地方档案与企业人事表；3. 独立核实Medan/北苏门答腊1965拘捕，不混省；4. 索取1968 Trisula作战命令与Blitar地方军区日志，厘清6月/7月时间冲突；5. 继续轮换G1/G2早期组织、G5女性及G7改革后劳工。G1—G10全部OPEN。
