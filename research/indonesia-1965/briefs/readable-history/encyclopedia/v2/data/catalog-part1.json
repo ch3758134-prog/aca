@@ -235,15 +235,16 @@
     ],
     "summary": "阿德·伊尔玛·苏尔亚妮是纳苏蒂安年幼的女儿。1965年九三〇行动袭击纳苏蒂安住宅时，她遭枪击后死亡；她的死亡成为官方纪念叙述的一部分，也应与军事行动整体责任和后来宣传分别分析。",
     "period": "待标准化",
-    "status": "imported",
-    "review_level": "brief_unreviewed",
-    "paragraphs": 3,
-    "headings": 3,
-    "reference_links": 0,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 11,
+    "headings": 8,
+    "reference_links": 2,
     "related": [
       "events/event-movement.html"
     ],
-    "issues": []
+    "issues": [],
+    "source_complete": false
   },
   {
     "id": "P-ahmad-yani",
@@ -315,17 +316,18 @@
     ],
     "summary": "艾伦·劳伦斯·波普（Allen Lawrence Pope）是美国飞行员，1958年参加印尼地区反中央政府力量的空中作战。他的经历属于1957—1958年PRRI、Permesta叛乱及美国秘密政策的具体证据，而不是1965年九三〇运动参与者。必须先明确两个不同年份的外交军事背景。",
     "period": "待标准化",
-    "status": "imported",
-    "review_level": "medium_unreviewed",
-    "paragraphs": 6,
-    "headings": 7,
-    "reference_links": 3,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 10,
+    "headings": 10,
+    "reference_links": 5,
     "related": [
       "events/event-rebellion.html",
       "events/event-foreign-channels.html",
       "people/person-sukarno.html"
     ],
-    "issues": []
+    "issues": [],
+    "source_complete": false
   },
   {
     "id": "P-amir",
@@ -365,15 +367,16 @@
     ],
     "summary": "班邦·苏根是共和国陆军第三师指挥官。1949年日惹总攻的策划和执行叙述将他、哈孟库布沃诺九世、苏哈托及苏迪尔曼指挥体系联系起来；他在行动中的具体批准和命令权限仍须原始军令核定。",
     "period": "待标准化",
-    "status": "imported",
-    "review_level": "brief_unreviewed",
-    "paragraphs": 3,
-    "headings": 3,
-    "reference_links": 0,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 11,
+    "headings": 8,
+    "reference_links": 4,
     "related": [
       "events/event-dutch-offensive.html"
     ],
-    "issues": []
+    "issues": [],
+    "source_complete": false
   },
   {
     "id": "P-budiman",
@@ -459,16 +462,17 @@
     ],
     "summary": "黛薇（根本七保子）是日本出生的苏加诺配偶，1962年与苏加诺结婚并进入总统家庭。她的私人通信、公开礼仪和日本关系为研究苏加诺家庭与印尼对外关系提供材料，但个人往来不能自动等同正式国家政策。",
     "period": "待标准化",
-    "status": "imported",
-    "review_level": "brief_unreviewed",
-    "paragraphs": 3,
-    "headings": 3,
-    "reference_links": 0,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 9,
+    "headings": 8,
+    "reference_links": 4,
     "related": [
       "events/event-guided.html",
       "events/event-sukarno-dewi-letters.html"
     ],
-    "issues": []
+    "issues": [],
+    "source_complete": false
   },
   {
     "id": "P-dita-sari",
@@ -573,15 +577,16 @@
     ],
     "summary": "哈里曼·西雷加尔是1974年学生抗议中的领导人物。田中角荣访印期间，他参与批评腐败、物价和外国资本影响的学生行动，随后被捕；马拉里事件同时包含学生政治诉求、街头骚乱和军政高层竞争。",
     "period": "待标准化",
-    "status": "imported",
-    "review_level": "brief_unreviewed",
-    "paragraphs": 3,
-    "headings": 3,
-    "reference_links": 0,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 10,
+    "headings": 9,
+    "reference_links": 6,
     "related": [
       "events/event-malari.html"
     ],
-    "issues": []
+    "issues": [],
+    "source_complete": false
   },
   {
     "id": "P-hartini",
