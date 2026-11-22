@@ -2134,3 +2134,8 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 
 ### 1968年5—7月｜南勿里达Trisula行动日期冲突（待统一排序）
 印尼文化部历史百科记1968-07-03派Witarmin执行行动（https://esi.kemenbud.go.id/wiki/Peristiwa_Blitar_Selatan）；2022年地方报道转述1968-05-18指挥部成立、06-01正式行动及空军史所载06-06空中分队组建（https://www.detik.com/jatim/budaya/d-6322333/sejarah-pki-di-blitar-selatan-pemberontakan-penumpasan-dan-rekonsiliasi）。上述不是已核读军令，不能将不同日期合并或任选一个作为无争议开战日。应索PRINOP 01/02/1968、02/05/1968、空军命令及行动日志，区分准备、实施与后续指挥。关联长期缺口总账G6/G4，GOAL OPEN。
+
+### 1947-04-15 / 1948-06-14—19｜ANRI档案目录定位：PKI纲领与Delanggu工农诉求（原件待取）
+- **1947-04-15**：印尼国家档案馆ANRI《1946—1950年劳动与社会事务部文字档案目录》第74号条目记有PKI工作纲领，附CCPKI于4月15日的送文函，目录称两页。此处仅证实馆藏目录记载，不证明纲领内容或党内决策。[S1529] https://anri.go.id/download/inventaris-arsip-tekstual-kementerian-perburuhan-dan-sosial-19461950-1633328851
+- **1948-06-14—19，Delanggu**：同一官方目录第91号条目明确列出一卷关于LBT（Lembaga Buruh Tani，工农机构）提出要求的文件，时间范围6月14—19日，计一文件夹。与Suyatno 1989年研究所述6月14日提出要求及6月17—19日谈判时间相符，**但目录不是函件/会议记录原件，不能独立证明要求具体内容、七支部代表身份或谈判结果**。必须取得第91卷原件与1948年7月19日《Merdeka》第785号第2页。[S1529] 同上URL。
+
