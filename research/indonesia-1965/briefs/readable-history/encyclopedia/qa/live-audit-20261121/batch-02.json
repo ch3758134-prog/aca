@@ -1,0 +1,129 @@
+{
+  "basis": "264a70cef0d3c3dc38d36f6c7952fbce8197c08f",
+  "range": [
+    24,
+    35
+  ],
+  "records": [
+    {
+      "path": "events/event-malari.html",
+      "length": 987,
+      "searchLength": 987,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-marsinah-suharto-heroes.html",
+      "length": 993,
+      "searchLength": 993,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-marsinah.html",
+      "length": 1795,
+      "searchLength": 1795,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "events/event-maumere-1953.html",
+      "length": 1710,
+      "searchLength": 1681,
+      "ratio": 0.983,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "events/event-memory.html",
+      "length": 1071,
+      "searchLength": 1071,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-moncongloe-detention.html",
+      "length": 1805,
+      "searchLength": 1776,
+      "ratio": 0.984,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "events/event-movement.html",
+      "length": 3004,
+      "searchLength": 2975,
+      "ratio": 0.99,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 9
+    },
+    {
+      "path": "events/event-new-order-economy.html",
+      "length": 1194,
+      "searchLength": 1194,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "events/event-new-order-politics.html",
+      "length": 1210,
+      "searchLength": 1210,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 1
+    },
+    {
+      "path": "events/event-njono-trial-1966.html",
+      "length": 1668,
+      "searchLength": 1639,
+      "ratio": 0.983,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "events/event-occupation.html",
+      "length": 1345,
+      "searchLength": 1345,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "events/event-offcampus.html",
+      "length": 912,
+      "searchLength": 912,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 1
+    }
+  ]
+}
