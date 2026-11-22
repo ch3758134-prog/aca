@@ -351,17 +351,18 @@
     "aliases": [],
     "summary": "1993年5月3日至4日，东爪哇西多阿佐（Sidoarjo）的Catur Putera Surya（CPS）钟表厂工人罢工，要求支付法定最低工资并承认工人代表。5月5日，部分工人被军方人员叫去，工会和人权组织后来指称他们被要求签署辞职文件；活动者 马西娜（Marsinah） 随后失踪，5月8日，她的遗体在恩甘朱（Nganjuk）被发现。初审判决曾判数人有罪，1995年最高法院撤销有关定罪；国际劳工组织后来记录，政府调查没有查明杀害经过。关于绑架和杀害的具体",
     "period": "1967—1998",
-    "status": "imported",
-    "review_level": "medium_unreviewed",
-    "paragraphs": 8,
-    "headings": 5,
-    "reference_links": 2,
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 13,
+    "headings": 9,
+    "reference_links": 4,
     "related": [
       "people/person-marsinah.html",
       "events/event-sbsi.html"
     ],
     "issues": [],
-    "era": "neworder"
+    "era": "neworder",
+    "source_complete": false
   },
   {
     "id": "E-maumere-1953",
