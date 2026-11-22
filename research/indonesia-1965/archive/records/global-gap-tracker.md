@@ -424,3 +424,14 @@
 **G1 殖民左翼前史：荷文馆藏机构出版的完整学术文章已读，不是1926年政府决议原件。** Leiden University Libraries刊物 *De Boekenwereld* 35(4), 2019, Anouk Mansfeld, “Boven-Digoel: Koloniaal verbanningsoord, 1927–1943”, 文章见该期印刷页30起；开放PDF https://www.bibliotheek.universiteitleiden.nl/binaries/content/assets/ul2ub/bijzondere-collecties/de-boekenwereld/de-boekenwereld-35_4-2019compressed.pdf 。文章叙述殖民当局于1926-12-10决定设立偏远流放地、1927年3月底第一批被流放者抵达；区分Tanah Merah与Tanah Tinggi，并解释行政拘禁与刑事定罪不同。该研究对「无需刑事定罪而行政流放」的制度分析值得和1965后拘押机制对比，**但不能直接断言两者具有同一法律依据或连续指挥机构**。缺失原件：1926-12-10 Gouvernementsbesluit及Raad van Indië议事、1927首批运输清册、1927—1943逐人登记和当地巴布亚居民土地/劳动资料；行动：从文章脚注定位荷兰Nationaal Archief及Leiden馆藏，核1926年12月10日决议原件及首批名册，追踪流放者在1945—1949时期组织活动。阻碍：目前仅完整打开后出的馆藏研究，未打开原始政府命令。
 
 **全局轮换与治理：** G1—G10均OPEN；G2工会/农会/妇女基层组织、G3跨机关命令、G4各省镇压、G7 1998后组织执行、G8英美澳中苏行动、G9人物地点、G10连续中文正文仍需实质补证。正式claim-ledger.csv仍返回0字符而Git blob SHA非空，**不覆盖、不编造C编号**；本段仅为缺口总账临时证据说明，正式CSV、chronology及中文正文尚待安全合并。下一续接精确入口：①Komnas HAM报告B62及BAP 267/2009原件；②Moncongloe 1977年12月释放登记；③Boven-Digoel 1926-12-10殖民政府决议；④Boven-Digoel 1927首批押送清册；⑤轮换Aceh地方军令与1998后县级工会登记。
+
+
+## 2026-11-22｜G5/G6南苏拉威西原始调查报告与G1殖民流放交叉核验（ONGOING）
+
+**G5/G6，访问层级A（委员会正式编写的调查执行摘要，第三方TAPOL镜像承载；并非原始证人笔录）**：直接打开Komnas HAM《Ringkasan Eksekutif Hasil Penyelidikan Tim Ad Hoc ... Peristiwa 1965-1966》印尼语PDF全文，https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf 。报告第1页明确调查授权期2008-06-01至2012-04-30，询问349名证人/受害者，并主动说明地区范围、经费、47年记忆跨度及创伤对证据收集的限制。Moncongloe章节（PDF可检索正文）区分A、B、C、D匿名证人：A称1970年9月至1977-12-20被拘押，B称1972年从Majene监狱转入至1977-12-20；报告脚注给出2009年BAP编号266、267、268、269/BAP_TPPH65/III/2009。这是**正式调查摘要中对证言的记载**，并非已经独立取得2009年原笔录或法院裁判。与Taufik Ahmad 2010年公开文章（https://www.insideindonesia.org/editions/edition-998/survival-through-slavery）所述1969年底859男+52女=911人转入、846人住营、其余被分配军人家庭无薪劳动比较，必须严格区分入营总人数、住营人数、某证人拘押期及省级早期拘押总量，不相加。**本次突破**：此前只读第三方转录，本次可直接核读委员会正式署名PDF（虽然由TAPOL镜像提供），因此报告文本访问状态可升级；仍不得称BAP原件已取得。
+
+**G1，访问层级B（莱顿大学图书馆公开的荷文研究全文，不是1926殖民决议原件）**：直接对照Anouk Mansfield《Boven-Digoel: Koloniaal verbanningsoord, 1927-1943》，《De Boekenwereld》35(4), 2019，莱顿馆藏PDF https://www.bibliotheek.universiteitleiden.nl/binaries/content/assets/ul2ub/bijzondere-collecties/de-boekenwereld/de-boekenwereld-35_4-2019compressed.pdf 。研究明确1926-12-10殖民政府决定设流放地，1927年3月底第一批到达；区分Tanah Merah与Tanah Tinggi，说明殖民政府刻意避免将其称为刑罚营地。不可由此推定所有流放者均未经司法程序，须逐人核对法律身份及殖民行政档案。缺件：1926-12-10 Gouvernementsbesluit正式编号和原文、1927运输/流放名册、Raad van Indië报告。
+
+**跨地区比较的边界**：1927殖民行政流放与1969—1977军方控制的Moncongloe拘押是两个不同时期的制度，不得直接声称法律、指挥系统或目的连续。比较只作为研究问题：行政标签如何掩盖实际人身自由限制，谁签发拘押、谁执行、释放如何登记。
+
+**具体续接**：（1）在Komnas HAM PDF内逐页定位Moncongloe匿名证言及BAP脚注，核对扫描页码与证词A/B/C/D对应；（2）追取Komnas HAM原官网版本、2009年266—269号笔录及1977-12-20释放名单；（3）在荷兰Nationaal Archief/Delpher查1926-12-10 Boven-Digoel regeringsbesluit及1927年押送名单；（4）转向Aceh 1965年10月县军令与Flores 1966年3月军方警告信，避免仅集中苏拉威西；（5）核查正式CSV现有两项来源是否登记，claim-ledger仍须先解决读取空正文，未获核准不得分配C编号。G1—G10全部OPEN。
