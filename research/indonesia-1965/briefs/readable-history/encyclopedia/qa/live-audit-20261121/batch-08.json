@@ -1,0 +1,129 @@
+{
+  "basis": "4033c71fd9ed6673fe18d6075acd18d947c1232c",
+  "range": [
+    96,
+    107
+  ],
+  "records": [
+    {
+      "path": "people/person-hariman-siregar.html",
+      "length": 834,
+      "searchLength": 805,
+      "ratio": 0.965,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "people/person-hartini.html",
+      "length": 1388,
+      "searchLength": 1359,
+      "ratio": 0.979,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 4
+    },
+    {
+      "path": "people/person-haryono.html",
+      "length": 1256,
+      "searchLength": 719,
+      "ratio": 0.572,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 3
+    },
+    {
+      "path": "people/person-hatta.html",
+      "length": 2348,
+      "searchLength": 2319,
+      "ratio": 0.988,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-inggit.html",
+      "length": 923,
+      "searchLength": 923,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-ismail-bakri.html",
+      "length": 1628,
+      "searchLength": 1599,
+      "ratio": 0.982,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "people/person-jan-djong.html",
+      "length": 3828,
+      "searchLength": 3799,
+      "ratio": 0.992,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "people/person-jusuf-adjitorop.html",
+      "length": 1332,
+      "searchLength": 1303,
+      "ratio": 0.978,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 0
+    },
+    {
+      "path": "people/person-kahar.html",
+      "length": 905,
+      "searchLength": 876,
+      "ratio": 0.968,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-kartosuwiryo.html",
+      "length": 952,
+      "searchLength": 923,
+      "ratio": 0.97,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    },
+    {
+      "path": "people/person-ki-hadjar.html",
+      "length": 895,
+      "searchLength": 895,
+      "ratio": 1,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 1
+    },
+    {
+      "path": "people/person-ki-mas-mansyur.html",
+      "length": 841,
+      "searchLength": 812,
+      "ratio": 0.966,
+      "broken": [],
+      "anchors": [],
+      "duplicates": [],
+      "external": 2
+    }
+  ]
+}
