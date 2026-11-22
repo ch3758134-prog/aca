@@ -2158,3 +2158,12 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 - **1965-10-20：** 同表记载Takengon县长签署涉及县政府S.M. Lahat及农业部门Sedjuk的处分文件；尚需原件核职务与执行。
 - **1965-10-31：** 同表记载北亚齐县长对农业与政府系统多人的处分文件；不推断各人后续命运。
 - **1965-10-18—1967-03-31：** 作者共辨识82件处分文书、约111名被列人员，文书数、人员数与死亡数严格区分。对应S472；军方同期1,941公开杀戮记录是另一统计对象，不能交叉加总。原始处分文书、工资/复职与拘押登记仍缺。
+
+
+## 1965-10—1966-03｜跨省命令与组织应对核验（2026-11-22补证，待统一排序）
+- **1965-10-11，Langsa，东亚齐：** Jess Melvin 2013文章转引1965-10-18 Baperki地方声明，称Kodim-0104 Major Iljas Mahmud召集领导人谈话。原声明未独立取得；其对苏加诺广播的转述不代表广播真实存在。
+- **1965-10-18，Langsa：** 声明第7项称148名Baperki成员退出并解散地方组织，附两页会员名单；不能将148解释为遇害人数，名单实际后果未核。
+- **1965-10-29，Aceh：** Jess Melvin转引Ishak Djuarsa/Pepelrada禁令，称追溯10-20生效，且要求组织领导最迟10-25报到；签发/生效/期限矛盾须取原件及收发记录核验。以上来源 https://journals.sagepub.com/doi/full/10.1177/186810341303200304 （研究全文B，原令未读）。
+- **1966-02-27，Sikka/Flores：** Gerry van Klinken开放章节第240页引用匿名1974年记述，Komop及调查人员与政党/社团讨论第二波拘押对象；原始会议纪要未取得。https://pure.uva.nl/ws/files/2526919/166060_488108.pdf 。
+- **1966-03-06，Bola/Flores：** John M. Prior研究记载Pede da Lopez神父干预军事行动；需取得堂区记录及独立证词。
+- **1966-03-15，Sikka/East Flores：** Prior引述Major Soemarno署名Kodim 1607/Komop信函B.061/III/1966，警告神职人员不得干预、要求调离Pede da Lopez。已读学术全文B，原函未取得。https://repository.divinity.edu.au/divinityserver/api/core/bitstreams/662d52ff-005b-4845-918c-959a06ea50d0/content 。
