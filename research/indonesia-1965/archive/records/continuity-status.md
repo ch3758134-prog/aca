@@ -1382,3 +1382,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 打开Trisila 2013原刊PDF https://ojs.unud.ac.id/index.php/kajianbali/article/download/15698/10480/ 与Wijaya 2019原刊全文 https://download.garuda.kemdikbud.go.id/article.php?article=1228683&title=Remembering+the+Forgotten+Past+A+Case+Study+of+Bali%27s+First+Governor+Anak+Agung+Bagus+Sutedja&val=11675 。Wijaya第88页记1966-07-29四名武装制服人员以Skogar Captain Teddy名义带走Sutedja；但其依据Aju/Trisila，不能算独立同期目击。2020-10-04 SINDOnews https://daerah.sindonews.com/read/185010/29/kisah-penculikan-gubernur-bali-sutedja-jejaknya-hingga-kini-belum-terungkap-1601745035?showpage=all 明确取材Aju，称家属当晚23时报警，仍非警方原始登记。Trisila参考书目列1966-07-26《Laporan tertulis atas penculikan A.A.B. Sutedja》，早于7月29日叙事；可能是日期误植、不同报告或叙事误记，尚未解决。2019文的社会记忆解释不等于对绑架执行机关的证实。正式S1531目前仍标注PDF未读，后续需安全更新来源访问等级而不重复登记。
 
 精准未完：①取Puri Negara Jembrana 1966-07-26报告影印及落款；②取1966-07-29 23时Jakarta警局接报簿；③查Skogar值班、Captain Teddy人事与军车调度原件；④取1965-11-03 Pepelrada决定、1965-12-18 Keppres 380/1965及12月1—4日《Suara Indonesia》；⑤轮换Aceh军令、1948 Delanggu劳动部91号卷宗、1970—1998劳工政治犯材料。此次未改四CSV/chronology/成熟中文正文，不声称并库完成。GOAL永久OPEN。
+
+
+## 2026-11-23｜ONGOING / GOAL仍进行｜2000工会法第45条与2001重新登记链（原始法律全文复核）
+
+本次重新读取AGENTS、goal-continuity、stage-access、统一续接、正式source-register/claim-ledger/search-log/coverage-matrix及archive/records/chronology.md。claim-ledger读取仍需按非空blob/空正文异常处理，禁止覆盖或虚构C编号；既有2000年工会法及2001年KEP.16/MEN/2001来源必须正式去重后再分配新ID。
+
+**直接打开政府法律原文：** 印尼第21/2000号《工会法》，2000-08-04颁行，BPK政府法令PDF https://peraturan.bpk.go.id/Download/33380/UU%20Nomor%2021%20Tahun%202000.pdf 。第5条准许至少10名劳动者建立工会，第6—7条规定5个工会成立联合会、3个联合会成立总联合会；第9条禁止雇主、政府、政党干涉成立自由；第18—20条规定向地方劳动机关书面通知、提交创始成员/章程/干部名单、21工作日登记及14工作日书面说明暂缓原因；第22条要求登记簿公开；第25条将集体谈判、劳动争议代理等权利与登记编号关联；第28条禁止解雇、降职、调岗、扣薪及威胁阻碍组织活动；第30—31条规定会费及外国援助报告；第42条规定特定违规可撤销登记号，第43条规定阻碍组织活动的刑事责任。以上是**法条规定，不是地方执行的事实**。
+
+**重要法源追溯纠正：** 第45条本身即要求此前已持登记号的工会在法律生效起一年内重新通知、换领登记号；逾期未符合新法视为没有登记号。此前核读2001-02-15 KEP.16/MEN/2001第11条的重新登记安排是对2000年法律过渡规则的实施衔接，**不能将重新登记义务的首次创设归因于2001年部长决定**。需要并列核2000法第45条和2001决定第11条及地方实操，不可把法定无登记号自动写成组织实际解散。ILO NATLEX英文译本 https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/57553/IDN57553%20Eng.pdf 的标题出现“as amended up to 1996”的年代不可能表述，应以印尼文政府原件为准并核译本编辑错误。ILO关于工会数量增多与碎片化的分析 https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/---ilo-jakarta/documents/publication/wcms_117189.pdf 是后来的研究解释，不能单凭法律推出全国组织变化。
+
+**精准未完**：（1）正式source-register/chronology检索UU21/2000既有S编号及2001 KEP.16来源，去重后登记第45条原文定位与对应事实主张；（2）核2001决定第11条与2000法第45条逐字差异、旧PER.05/MEN/1998及KEP.201/MEN/1999原文；（3）取至少两个县市2000—2002工会登记号、补件/拒绝及撤销记录，区分规范与执行；（4）取SBSI、PPBI或厂级工会实际章程、会费和谈判档案，检验法律对组织结构的影响；（5）继续轮换1965—1968 Aceh/Bali地方军政原令、1948 Delanggu原卷和1970—1998政治犯及劳工链。此次不声称四CSV、chronology及中文连续正文已并库；GOAL永久OPEN。写入前HEAD需以GitHub查询记录为准，写入所产生SHA由API返回及后续独立查询确定。
