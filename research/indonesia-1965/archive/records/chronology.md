@@ -2170,3 +2170,11 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 
 - **November 2000 (retrospective account; exact date unresolved):** ASETUC's 2013 ASEAN comparative study describes UNI Apro intervention with Hero Supermarket management and a settlement of a union-management bargaining impasse in November 2000. Neither settlement document nor meeting minutes inspected; source is a later positive-case narrative. [S1532; moderate/open]
 - **2009–2012 (retrospective account):** The same study describes a 2009 bonus arrangement, a 2011 collective agreement allowing contract workers to join the union and addressing pensions, and 2012 joint training. Actual signed agreements and scope remain unverified. Do not compare different-year store counts as if identical denominators. [S1532; moderate/open]
+
+
+### 1965-10-04—28｜美国机构对苏加诺、PKI和军方权力转移的分歧（按事件日期索引；待主时间线重排）
+
+- **1965-10-04，华盛顿：** 美国国防部Blouin备忘录认为苏加诺可能事先知情，但用的是作者的倾向性判断；同时记载总统试图维持统一并不愿立即打击PKI。此为美国官员当时分析，不是苏加诺参与的独立证据。[既有FRUS d146来源；https://history.state.gov/historicaldocuments/frus1964-68v26/d146]
+- **1965-10-05，雅加达：** Green电报868提出避免公开介入、考虑秘密帮助军方及加强信息工作；政策建议不等于执行和交付。[既有FRUS d147来源；https://history.state.gov/historicaldocuments/frus1964-68v26/d147]
+- **1965-10-06，华盛顿：** CIA OCI 2330/65将苏加诺主张政治解决、反对内部对立列入其对10月初局势的描述；仍属于CIA对局势和广播的转述。[既有FRUS d149来源；https://history.state.gov/historicaldocuments/frus1964-68v26/d149]
+- **1965-10-26，雅加达；10-28，华盛顿：** Green电报1184将苏加诺和PKI最高领导层列为主要责任者，并提出中国军火指控；同一FRUS条目脚注节录10月28日CIA OCI 2342/65，明确对PKI领导层角色保留判断。两机关意见冲突，不能合并为事实；CIA 10月28日全文尚未取得。[既有FRUS d161来源；https://history.state.gov/historicaldocuments/frus1964-68v26/d161]
