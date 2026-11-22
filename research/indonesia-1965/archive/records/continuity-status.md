@@ -1439,3 +1439,11 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 ### 2026-11-23｜本轮正式并库补记（ONGOING）
 
 本轮已在GitHub main正式登记source-register S1532、S1533、S1534；search-log Q594；coverage-matrix CV663；chronology新增2000年11月及2009—2012年Hero工会事件（均注明2013年回顾性来源、协议原件未读）。逐次更新前重新获取各文件blob SHA。claim-ledger仍不可读，未写C编号。中文阅读正文暂未更改，原因是谈判过程原始记录和协议尚缺，不以成功案例摘要填充正文。最新已确认阶段性提交SHA `68bcbcd60f0fdae2789d359192c1975d0b8bea95`，为本续接提交之前的HEAD；本续接提交后实际HEAD必须另行查询。未完取件事项沿用紧邻上一节五项，GOAL永久OPEN。
+
+
+## 2026-11-22｜ONGOING / GOAL仍进行｜FRUS跨机关判断冲突与地区命令续接
+已重新读取G1—G10完整性审计、AGENTS、stage-access、goal-continuity、长期缺口总账、正式source-register/search-log/coverage-matrix/chronology及本文件；research-status.md在archive/records路径404，claim-ledger.csv仍返回非空blob SHA却零正文，未覆盖。核对正式source-register已含FRUS d147/d149/d161链接，故本次不重复登记来源或编造C编号。
+
+本次直接核对FRUS d146、d147、d149、d161全文，确认10月4日国防部对苏加诺的怀疑、10月5日大使馆秘密援助建议、10月6日CIA对苏加诺政治解决立场的报告，与10月26日使馆强指控及其脚注所引10月28日CIA保留判断之间存在不能抹平的机构分歧。d161脚注仅节录OCI 2342/65，原文未读。实质核验已写入global-gap-tracker及chronology，提交SHA分别465f06c16370f811c28b5c938c482d9237ebba20、999bc0c6b3e2c11858ebd3d84b5522a33a1ed759；本续接提交SHA以API返回为准。
+
+精准下一动作：（1）取得CIA OCI 2342/65（1965-10-28）全文与Green所称10月22日A-300，逐条比对政变责任证据；（2）追中国军火指控的具体装运、收货与反证，严格区分情报主张和交付事实；（3）追Aceh Langsa 1965-10-18声明148人附件及10-29追溯禁令，与10月上旬广播/军区行动对时；（4）取Flores 1966-03-15 B.061/III/1966及Bali 1965-11-03 KEP-PPD.2/1/234原件；（5）跨年代取得ANRI 1948 GASBRI 493原件与BTI 1947—65目录卷号，并继续G6/G7工会登记与流亡者文件。正式CSV、中文连续正文仍未并库；不声称完成。G1—G10全部OPEN。
