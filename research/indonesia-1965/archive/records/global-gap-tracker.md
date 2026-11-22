@@ -467,3 +467,13 @@
 这组文书可检验巴厘岛11月初行政禁令、12月军方与省长权力变化的先后关系，并与S401的12-21使馆报告、S400的次年2月估计交叉；**研究对象从死亡数字转向机关决策及传达链**。同属G4的West Kalimantan、Flores、Aceh、北苏门答腊和爪哇各区仍缺军区原令，不能用巴厘替代全国。
 
 **精确续查**：（1）下载并逐页读该论文PDF，标注上述五件文书在正文被引用的页码和作者的实际读件程度；（2）通过Puri Negara Jembrana/大学论文作者线索索取1965-11-03 KEP-PPD.2/1/234原影印、签发人、收文分发及执行记录；（3）索1965-12-03/10/18三份总统与省长文件，核Sutedja实际任职与离任时间；（4）对照S401 A-408原影印及A-527，明确使馆报道时间、来源和统计口径；（5）轮换West Kalimantan 1966年Baperki与华人组织登记/驱逐军令、ANRI Delanggu 1948第1215号警察卷宗、2000年后地方工会登记执行。正式claim-ledger.csv读取仍返回空正文，未覆盖或分配C编号。长期GOAL未完成。
+
+
+## 2026-11-22｜ONGOING｜G4/G8/G9 西加里曼丹1967年地方暴力：省府报告与军事停令原件定位
+已重读2026-11-09完整G1—G10审计和授权规则；本条与巴厘Sutedja长期链跨地区交替。直接核读已登记 **S383** Taufiq Tanasaldy (2012) KITLV著作开放PDF第5章印刷pp.137–145（美国国会图书馆镜像 https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/82/94/2020718294/2020718294.pdf ），并对照已登记 **S453** Matsumura (2015) J-STAGE期刊摘要；**S831是S453重复登记，不计独立来源**。S383是学者全文，不是省府、军方、报纸原件。
+
+**可核实的文献记载及口径：** S383 pp.137–139明确引用西加里曼丹省长办公室1967年内部报告《Pengungsian orang2 Tjina sebagai akibat gerakan2 orang Daya dalam daerah Kabupaten Pontianak dan Kabupaten Sambas》（馆藏标注Library of West Kalimantan Governor’s Office, Pontianak）。作者据该报告将Tepo村Air Besar地区焚掠提前到**1967-10-05至07**，早于常见10-14 Uduk起点；10-18 Bengkayang城已有约1000避难者；10-19 Samalantan出现红碗动员；11月初Senakin、Darit、Sebadu三地合计210死者是学者引述的报告数字。该章引述官方记载249死亡、近60000避难者，均**未见原始逐人名册**，统计时点、县界和重复计数待核，不能与其他估算混加。pp.138–139脚注117定位A.J. Witono 1967-11-17《Maklumat》，藏S. Jacobus E. Frans Layang私人收藏，并有《Pembangunan》1967-11-21报道；据作者转述，命令要求停止示威且威胁当场射杀违抗者，原签署文件未直接取得。
+
+**关键相反解释，必须并列：** S453摘要将军方煽动驱逐和Oevaang Oeray政治动员作为核心解释；S383 pp.144–145虽承认军方鼓励达雅克人对游击队作战，却指出地方行政混乱和县长Usman Idris于1967-11-09指示让华人农民返乡的报载行动，认为尚不足证明雅加达统一预谋驱逐。两者对军方角色的判断不同，且可能共享Davidson、Rachman及同一省府报告，**不是相互独立的原始证言**。须分离中央命令、地方军事煽动、村级行动与事后治理，不得将“达雅克人”或“华人”视为同质行动者。
+
+**待取原件与阻碍：** ①Pontianak省府档案馆1967《Pengungsian orang2 Tjina》原卷，核10-05/07与10-19、逐县伤亡及迁移清单；②Witono 1967-11-17《Maklumat》原影印及1967-11-21《Pembangunan》原报；③1967-11-09《Pembangunan》关于Usman Idris返乡指令原版；④各县警军与医院、难民安置和土地/商铺转移台账；⑤1967年PGRS/Paraku与边境军令及地方组织通信。尚未读取这些原件，**不将学者引用升级为原件证据**。G1—G10均OPEN；继续巴厘1966-07-26报告与07-29失踪日冲突、G1 Delanggu原件、G7地方工会登记，并逐步写成熟中文连续叙事。
