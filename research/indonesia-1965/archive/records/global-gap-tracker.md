@@ -545,3 +545,12 @@
 **Flores / G4-G3-G9（1966-02-27—03-15；Sikka/Komop/教会）**：直接阅读Gerry van Klinken开放章节PDF https://pure.uva.nl/ws/files/2526919/166060_488108.pdf 第240页，学术转录匿名1974年叙述：2月27日Sikka县议会厅，Komop调查组与政党/社会组织讨论第二波“secured”对象，涉及Karel Elkel及Jos U. Tokoh；原始1966会议纪要未取得，级别B。交叉阅读John M. Prior发表于Exchange 40(2011):117–143的开放论文PDF https://repository.divinity.edu.au/divinityserver/api/core/bitstreams/662d52ff-005b-4845-918c-959a06ea50d0/content ：作者引述1966-03-15 Major Soemarno署名、以Kodim 1607/Komop名义发出的**B.061/III/1966**警告函，指责Bola堂区Pede da Lopez神父3月6日干预行动，要求神职人员不得阻碍并将其暂时调离。两篇文章提供不同节点但不等于两份1966原件已取得；函件复印件、主教档案、Bola证人证词及实际停杀命令均缺。尤其不能仅凭作者记述“信件送达内政部长后很快下令停止”就确定中央行政因果。
 
 **跨地区对照**：Aceh的“先有军方压力、后有组织自我解散文书与追溯性禁令”和Flores的“地方甄别会议、神职人员抵制、军方警告函”说明各地权力传导路径需分别重建；不得由两个案例推导全国统一实施机制。G1—G10继续OPEN；下一动作依次索取Langsa 148人附件和10-29禁令影印、Sikka 2-27会议原件、B.061/III/1966复印件与教会往来函，并轮换G2 BTI原刊和G7县级工会登记原件。正式S/C编号尚未分配，先核对正式CSV避免重复。
+
+
+## 2026-11-22｜G3/G4 Aceh「总统广播」归属与G7劳工司法程序的双链核验（ONGOING）
+
+**G3/G4/G5 Aceh（1965-10-11—29；总统广播、Kodim-0104、Baperki）**：再次直接打开Jess Melvin 2013学术论文公开正文 https://journals.sagepub.com/doi/full/10.1177/186810341303200304 （B：学术全文，1965原始声明未取得）。Langsa 1965-10-18《Pernjataan》引述所谓苏加诺广播，要求彻底消灭九三〇运动及PKI；**Melvin明确指出苏加诺未发表该广播**，并列其10月3日两次呼吁冷静、10月14日表示拟提出政治解决的公开讲话（引Indonesia 1966:152–155）。故这段所谓广播只能记为地方声明转述的**虚假/错误归属**，绝不能登记为总统真实灭绝命令。究竟由Iljas Mahmud在10月11日谈话时制造、误传或转述，作者亦用“perhaps”保留，尚无会议录音/笔录可确定具体传播者。Melvin 2018书 https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf 公开全文第256页及脚注说明148人名单为两页附件，并**推测**其可能被军方用作死亡名单；没有逐人羁押/死亡核验，不能将此推测写成既成事实。缺件：1965-10-18声明及两页附件影印、1965-10-03/14总统广播原始文字或录音、10-11 Kodim-0104谈话记录、148人逐人去向；障碍为原始档案未公开取得，现有两部Melvin作品并非相互独立证据。
+
+**G7（1993—1999，东爪哇；Marsinah、PPBI/Dita Sari、政府与ILO）**：直接打开ILO理事会第276届材料 GB.276/7/1，结社自由委员会第318次报告第226—231段 https://webapps.ilo.org/public/english/standards/relm/gb/docs/gb276/gb-7-1.htm （A：国际组织正式程序文件全文）。政府1999-08-26答复称6月25日已请Komnas HAM调查Marsinah遇害案；委员会第229段指出距1993年5月遇害超过六年，要求继续报告调查结果。委员会第230段仅**注意到政府陈述**Dita Sari依据总统赦免1999-07-05获无条件释放，不等于独立核实后续无监控。特别区分委员会“要求调查”与司法机关“已查明责任”：ILO文件并未认定Marsinah案已经破案。此来源和节点此前已见连续状态，**本次不新增独立来源ID**；此次补充的价值是将两种程序层级及官方自述严格分离。缺件：Komnas HAM调查完整卷宗、1999总统赦免原令、Marsinah案司法判决及后续执行材料。下一跨项轮换G1 ANRI GASBRI第493号公告原件、G2 BTI原刊和G8外部干预电报原件。
+
+**G10台账治理**：本次确认正式CSV和chronology实际路径为 `research/indonesia-1965/archive/records/`，根目录路径404不代表不存在。正式claim-ledger.csv blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，但UTF-8 fetch返回空正文；不覆盖，不虚构C编号。G1—G10全部OPEN；上述新核验尚未进入正式CSV和中文连续HTML，保留为明确欠账。
