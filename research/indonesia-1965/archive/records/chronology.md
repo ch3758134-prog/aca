@@ -2147,3 +2147,7 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 - **1965-11-03**：Slamat Trisila（《Jurnal Kajian Bali》2013年第三卷第一期，印刷127页）引用私人收藏的Pepelrada决定KEP-PPD.2/1/234，记暂冻PKI及相关群众组织活动并交Pangdam XV监督；**未取得决定原影印**。[S1531] https://ojs.unud.ac.id/index.php/kajianbali/article/download/15698/10480/
 - **1965-12-02 / 12-10 / 12-18**：同文记Jembrana Puri Negara遭袭及家族人员遇害、苏加诺与省长A.A.B. Sutedja会见，以及Keppres 380/1965暂派Sutedja赴雅加达、I Gusti Putu Merta代理省长、I Gusti Ngurah Pindha任副省长。依据论文转引的私人档案与访谈，尚待政府令及地方人员记录独立核验。[S1531] 同上，印刷127、130页。
 - **1966-07-29（争议）**：论文第130—131页叙述Sutedja上午08:30被四名军服人员带走；但其脚注19及参考文献却列有**1966-07-26**《关于Sutedja绑架的书面报告》，早于叙述的绑架日。必须核原报告日期、文书性质和同期记录，不可直接确认为同一事件的无矛盾时间链。[S1531] 同上，印刷130—131、136页。
+
+- **1967-10-05—07（西加里曼丹，二手全文引原档）**：Tanasaldy据1967年西加里曼丹省长办公室《Pengungsian orang2 Tjina》报告，记Tepo/Air Besar地区华人住房遭焚掠；这早于一些研究所采用的10月14日Uduk起点。**省府报告原件尚未直接核读**。[S383] 2012年书第137—138页，https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/82/94/2020718294/2020718294.pdf
+- **1967-10-18—19（西加里曼丹，二手全文引原档）**：同书据省府报告记18日Bengkayang约千人避难、19日Samalantan传播红碗动员；人数与日期仍需原卷、安置登记及地方报刊核验。[S383] 第138页。
+- **1967-11-09 / 11-17（西加里曼丹，待核原令）**：Tanasaldy据《Pembangunan》11月9日报道称县长Usman Idris指示华人农民返乡；据A.J. Witono 11月17日《Maklumat》及11月21日报纸记军方随后要求停止示威。两件原始报纸及命令未读，不能据此推定统一中央部署或军方完全无责。[S383] 第138、144—145页。
