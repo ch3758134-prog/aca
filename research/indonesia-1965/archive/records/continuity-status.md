@@ -1258,3 +1258,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准未完**：①通过国家图书馆其他数字端点/馆员申请取《Berita Organisasi SARBUPRI》《Warta SARBUPRI》《Suara Tani》1955—1962扫描页，逐期记录日期、署名、支部及劳动争议；②向ANRI申请AVROS卷4、14、22、25、38、293、295、296、301影印，核22/38是否重复及SARPUBRI拼写；③追1948-05-19动员及05-26—06-03 Delanggu罢工同期报刊、工厂薪酬簿，核工会领导和20kg米/3m布诉求；④对照Stoler 1985、White 2016所用统计原表，拆分1950罢工人数与1963会员数，不混淆；⑤跨期轮换1965年Aceh军令、Moncongloe拘押及1990年代工会档案，并在证据链成熟后整合中文连续历史正文。GOAL始终OPEN。
 
 **提交核验记录（本轮）**：本轮先提交状态文件 `4f8ece7570d205a1776318f4e524083f91c6e3d1`，再将检索日志 Q591 提交为 `e308946da09b2c3df0ed7d384de703ff5a778eb1`；后者为写入本段前已确认的最新提交SHA。本段自身的提交SHA须以提交回执及独立远程HEAD回读为准，不能在提交前预填自身SHA。
+
+
+## 2026-11-22 17:51 CST｜ONGOING / GOAL仍进行｜Delanggu 1948 罢工组织链与结束日期校核
+
+已核读 AGENTS、goal-continuity、stage-access、统一状态、正式 source-register/search-log/coverage-matrix/chronology。正式来源表截至 S1527、检索日志截至 Q591、覆盖矩阵截至 CV660；claim-ledger.csv blob=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，但 GitHub UTF-8 正文仍为零长度，禁止覆盖或臆造 C 编号。本轮先记录已打开文献及冲突，尚未对正式四表/chronology/中文阅读正文进行完整去重并库。
+
+**G1/G2 Delanggu（1948年5—7月）**：直接打开印尼教育文化部1989年出版的 Suyatno《Revolusi Indonesia dan Pergolakan Sosial di Delanggu》，收于《Revolusi Nasional di Tingkat Lokal》全文数字转录 https://doczz.net/doc/1166067/j---aceh-books （原书第1页起）。这是一部1989年历史研究的现代转录，不是1948年原始会议记录。作者追溯1919—1920年Tjipto Mangunkusumo、Haji Misbach在Delanggu农民运动，1945年当地BBI/工人民兵与Hizbullah，1948年SARBUPRI、BTI、SOBSI及LBT的合作。其记载1948-06-14 LBT向Badan Tekstil Negara（BTN）提出工资、布匹和工人家庭口粮三项要求；06-15七支部代表开会；06-17—19谈判未果；07-10罢工者与STII支持者冲突；07-16哈达政府经日惹电台宣布协议、07-18复工。这些是研究者据报刊/访谈重建的过程，须以其脚注原件逐条核实，不能把对FDR意图的解释当作已证事实。
+
+**独立学术比较与日期歧义**：直接打开印尼Sebelas Maret大学Gandhi Suryo Prayogo论文官方摘要 https://digilib.uns.ac.id/dokumen/abstrak/50923/Peristiwa-pemogokan-buruh-di-pabrik-karung-goni-Delanggu-tahun-1948 ，称07-18罢工结束、返工，讨论厂内行政人员与种植园工人的待遇差异及KNIP调查委员会；摘要不是论文全文，不能证明每一工资数字。直接打开Elizabeth Ann Swift《The Road to Madiun》大学图书馆数字翻页第57页 https://fliphtml5.com/vkixl/awcx/Elizabeth_Ann_Swift_-_The_Road_to_Madiun_The_Indonesian_Communist_Uprising_of_1948/57/ ，称哈达07-14与SOBSI领导谈判，07-17前罢工结束。**07-16政府宣布、07-17结束、07-18复工可能指不同阶段，不可强行取同一日期；应查1948-07-16—19《Merdeka》及BTN/SOBSI原始协议**。Swift和1989年研究的原始引用可能交叉，不能简单视为独立证人。
+
+**精准未完事项**：（1）核取1948-07-19《Merdeka》第785号第2页及07-14—18《Buruh》/其他报纸，明确协议、停工结束、复工的不同日期；（2）获取1948-06-14 LBT致BTN原函、06-15七支部会议及06-17—19谈判纪要，核SARBUPRI/BTI/SOBSI/LBT实际权限；（3）查07-10冲突警察/军方、STII及工会双方记录，分辨伤亡、替工、Siliwangi介入时间；（4）从正式source-register按Suyatno、Swift、Prayogo、URL和Delanggu去重，恢复claim-ledger原始字节，安全并库四表、chronology和成熟中文叙事；（5）轮换1965年Aceh军令、南苏拉威西Moncongloe原件及1998年后工会登记实际执行，防止单地区锁定。
+
+**提交SHA治理**：本次提交前已知最新历史提交为 cc83964121f9c0f8935310bcaee6e91d5964c524（来自上一续接，非本次实时HEAD证明）；本次提交SHA不能自我写入同一次Git提交，将以GitHub写入结果和后续HEAD回读为准。GOAL永久OPEN。
