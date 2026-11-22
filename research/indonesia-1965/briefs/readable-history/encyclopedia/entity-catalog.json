@@ -2,13 +2,121 @@
   "schema": "indonesia-encyclopedia-entity-v1",
   "generatedFrom": "ee12670b73ac6c94812aa5cd6a1ebcfe4b46877c",
   "counts": {
-    "人物": 84,
+    "人物": 85,
     "事件": 71,
     "组织": 10,
     "地区": 12
   },
   "note": "目录仅索引正式百科对象；E001-E355研究小节保留在研究库，不计入百科实体",
   "items": [
+    {
+      "id": "regions:aceh",
+      "type": "地区",
+      "path": "regions/aceh.html",
+      "title": "亚齐",
+      "year": null,
+      "bytes": 13891,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "regions:bali",
+      "type": "地区",
+      "path": "regions/bali.html",
+      "title": "巴厘岛：政治冲突、军方增援和暴力高峰",
+      "year": null,
+      "bytes": 6149,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "regions:bima-sumbawa",
+      "type": "地区",
+      "path": "regions/bima-sumbawa.html",
+      "title": "比马—松巴哇",
+      "year": null,
+      "bytes": 13048,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "regions:central-java",
+      "type": "地区",
+      "path": "regions/central-java.html",
+      "title": "中爪哇：地方党派竞争、军队部署与失踪",
+      "year": null,
+      "bytes": 3532,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "regions:east-java",
+      "type": "地区",
+      "path": "regions/east-java.html",
+      "title": "东爪哇：东部军区、Ansor与劳工文化的破坏",
+      "year": null,
+      "bytes": 6501,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "regions:flores",
+      "type": "地区",
+      "path": "regions/flores.html",
+      "title": "弗洛勒斯",
+      "year": null,
+      "bytes": 10339,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "regions:jakarta",
+      "type": "地区",
+      "path": "regions/jakarta.html",
+      "title": "雅加达：1965年军政中心的三条时间线",
+      "year": "1965",
+      "bytes": 4008,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "regions:north-sumatra",
+      "type": "地区",
+      "path": "regions/north-sumatra.html",
+      "title": "北苏门答腊与棉兰：青年武装、军队及产业社会",
+      "year": null,
+      "bytes": 3708,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "regions:sikka-maumere",
+      "type": "地区",
+      "path": "regions/sikka-maumere.html",
+      "title": "锡卡—马乌梅雷",
+      "year": null,
+      "bytes": 14434,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "regions:south-blitar",
+      "type": "地区",
+      "path": "regions/south-blitar.html",
+      "title": "南勿里达",
+      "year": null,
+      "bytes": 16131,
+      "editorial": "较完整·待复核"
+    },
+    {
+      "id": "regions:south-sulawesi",
+      "type": "地区",
+      "path": "regions/south-sulawesi.html",
+      "title": "南苏拉威西：军区停职令、拘捕与劳动征用",
+      "year": null,
+      "bytes": 6344,
+      "editorial": "需内容复核"
+    },
+    {
+      "id": "regions:west-kalimantan",
+      "type": "地区",
+      "path": "regions/west-kalimantan.html",
+      "title": "西加里曼丹：边境战争、1967年驱逐与土地再组织",
+      "year": "1967",
+      "bytes": 8775,
+      "editorial": "较完整·待复核"
+    },
     {
       "id": "people:person-adam-soepardjan",
       "type": "人物",
@@ -332,6 +440,15 @@
       "year": null,
       "bytes": 4360,
       "editorial": "需内容复核"
+    },
+    {
+      "id": "people:person-njoto",
+      "type": "人物",
+      "path": "people/person-njoto.html",
+      "title": "尼约托（Njoto）",
+      "year": "1925/1927",
+      "bytes": 5028,
+      "editorial": "独立人物史·待来源复核"
     },
     {
       "id": "people:person-nyoman-rai",
@@ -1492,114 +1609,6 @@
       "title": "SOBSI：全印尼工会联盟及其被清退过程",
       "year": null,
       "bytes": 7786,
-      "editorial": "较完整·待复核"
-    },
-    {
-      "id": "regions:aceh",
-      "type": "地区",
-      "path": "regions/aceh.html",
-      "title": "亚齐",
-      "year": null,
-      "bytes": 13891,
-      "editorial": "较完整·待复核"
-    },
-    {
-      "id": "regions:bali",
-      "type": "地区",
-      "path": "regions/bali.html",
-      "title": "巴厘岛：政治冲突、军方增援和暴力高峰",
-      "year": null,
-      "bytes": 6149,
-      "editorial": "需内容复核"
-    },
-    {
-      "id": "regions:bima-sumbawa",
-      "type": "地区",
-      "path": "regions/bima-sumbawa.html",
-      "title": "比马—松巴哇",
-      "year": null,
-      "bytes": 13048,
-      "editorial": "较完整·待复核"
-    },
-    {
-      "id": "regions:central-java",
-      "type": "地区",
-      "path": "regions/central-java.html",
-      "title": "中爪哇：地方党派竞争、军队部署与失踪",
-      "year": null,
-      "bytes": 3532,
-      "editorial": "需内容复核"
-    },
-    {
-      "id": "regions:east-java",
-      "type": "地区",
-      "path": "regions/east-java.html",
-      "title": "东爪哇：东部军区、Ansor与劳工文化的破坏",
-      "year": null,
-      "bytes": 6501,
-      "editorial": "需内容复核"
-    },
-    {
-      "id": "regions:flores",
-      "type": "地区",
-      "path": "regions/flores.html",
-      "title": "弗洛勒斯",
-      "year": null,
-      "bytes": 10339,
-      "editorial": "较完整·待复核"
-    },
-    {
-      "id": "regions:jakarta",
-      "type": "地区",
-      "path": "regions/jakarta.html",
-      "title": "雅加达：1965年军政中心的三条时间线",
-      "year": "1965",
-      "bytes": 4008,
-      "editorial": "需内容复核"
-    },
-    {
-      "id": "regions:north-sumatra",
-      "type": "地区",
-      "path": "regions/north-sumatra.html",
-      "title": "北苏门答腊与棉兰：青年武装、军队及产业社会",
-      "year": null,
-      "bytes": 3708,
-      "editorial": "需内容复核"
-    },
-    {
-      "id": "regions:sikka-maumere",
-      "type": "地区",
-      "path": "regions/sikka-maumere.html",
-      "title": "锡卡—马乌梅雷",
-      "year": null,
-      "bytes": 14434,
-      "editorial": "较完整·待复核"
-    },
-    {
-      "id": "regions:south-blitar",
-      "type": "地区",
-      "path": "regions/south-blitar.html",
-      "title": "南勿里达",
-      "year": null,
-      "bytes": 16131,
-      "editorial": "较完整·待复核"
-    },
-    {
-      "id": "regions:south-sulawesi",
-      "type": "地区",
-      "path": "regions/south-sulawesi.html",
-      "title": "南苏拉威西：军区停职令、拘捕与劳动征用",
-      "year": null,
-      "bytes": 6344,
-      "editorial": "需内容复核"
-    },
-    {
-      "id": "regions:west-kalimantan",
-      "type": "地区",
-      "path": "regions/west-kalimantan.html",
-      "title": "西加里曼丹：边境战争、1967年驱逐与土地再组织",
-      "year": "1967",
-      "bytes": 8775,
       "editorial": "较完整·待复核"
     }
   ]

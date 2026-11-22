@@ -1,5 +1,38 @@
 [
   {
+    "id": "P-njoto",
+    "group": "people",
+    "path": "people/person-njoto.html",
+    "source_path": "people/person-njoto.html",
+    "title": "尼约托（Njoto）",
+    "name": "尼约托（Njoto）",
+    "aliases": [
+      "Njoto",
+      "Nyoto"
+    ],
+    "summary": "尼约托是1950—1965年印尼共产党重要中央领导人，负责党报与文化宣传，并参与LEKRA成立。1965年末遭逮捕遇害，生年及死亡地点仍需进一步核实。",
+    "period": "1925／1927—1965",
+    "status": "editorially_expanded_pending_review",
+    "review_level": "expanded_unreviewed",
+    "paragraphs": 15,
+    "headings": 8,
+    "reference_links": 5,
+    "related": [
+      "people/person-aidit.html",
+      "people/person-lukman.html",
+      "people/person-sudisman.html",
+      "organizations/org-pki.html",
+      "organizations/org-lekra.html",
+      "events/event-movement.html"
+    ],
+    "issues": [
+      "出生年1925/1927有不同文献口径",
+      "1965年被捕与死亡原件未取得"
+    ],
+    "era": "cross_period",
+    "source_complete": false
+  },
+  {
     "id": "P-van-roijen",
     "group": "people",
     "path": "people/person-van-roijen.html",
