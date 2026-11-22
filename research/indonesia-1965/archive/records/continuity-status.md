@@ -1406,3 +1406,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **下一次精准操作**：（1）打开Quinn PDF第4章24—33页逐条核读地方登记、会费扣缴、军警介入案例，追脚注所引同期原件；（2）对照2003年ILO报告所列KSPSI/KSPI/SBSI组织结构和会员口径，查政府县市登记簿、工会自报与独立调查的分母差异；（3）取得2000—2002年两县劳动局工会登记号码、拒绝和补件记录，核第21号法第45条与KEP.16/MEN/2001的实际效果；（4）回到1965年亚齐10月军政命令与Baperki名单附件、巴厘1966年7月26/29日失踪报告原件，避免长期只在2000年法律循环；（5）修复claim-ledger读取并核正式ID后，去重更新四CSV、chronology及成熟中文连续历史正文。此次仅完成续接状态写入，不虚报正式并库。
 
 **提交基线**：本条提交前已读取该文件最新blob SHA 53ef59317bcc7356aeb1cf0dff09dd949d081b98；最终commit SHA应以GitHub提交结果及后续main HEAD核验为准，无法在同一提交正文预写自身SHA。
+
+
+## 2026-11-23｜ONGOING / GOAL仍进行｜2004年Hero超市基层工会与2009年追踪报告
+
+本次重新读取AGENTS、goal-continuity、stage-access、统一续接状态及正式source-register、claim-ledger、search-log、coverage-matrix、chronology。正式claim-ledger blob为362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，UTF-8内容接口返回空；禁止覆盖或编造C编号。前轮实际已核验提交锚点845936b3a944e29fe654ae128476ca788b3632dd；本轮最终HEAD应另行核验。
+
+**新直接打开的同期组织案例**：ILO于2004-10-22发表《Indonesia: The art of collective bargaining》原文 https://www.ilo.org/resource/article/indonesia-art-collective-bargaining 。记者访问雅加达Hero Supermarket工会负责人Mohammad Hakim及人事主管Koeshanto：报道称1998危机期间Hero关闭22家门店、发生大规模裁员；Hakim回忆工人开始集合讨论与管理层谈判；2004年双方定期会谈，报道提到女性弹性工时与加班工资安排，过去加班仅以补休抵偿。报道称管理方鼓励在222个零售网点采用谈判做法，**不能把222写成已有工会或已签集体协议的网点数**。这是一篇ILO技术援助背景下的成功案例报道，不是企业独立审计；工会负责人、管理者的说法必须分别归属，工资表、集体协议、工会章程和门店名单未读。它提供从1998危机→工人自组织→2004厂级谈判的具体人名和工作场所，补充前轮Quinn 2003制度层分析。
+
+**跨时期对照**：直接打开ILO 2009-02-25发布的Susannah Palmer、Carmelo C. Noriel编《Freedom of association and collective bargaining: Indonesian experience 2003–2008》官方书目页 https://www.ilo.org/publications/freedom-association-and-collective-bargaining-indonesian-experience-2003 。该页确认2003—08跟踪研究与三部劳动法的制度背景，但此次仅打开书目/摘要，未读2009报告PDF，不能用摘要推断2004 Hero经验代表全国或持续至2008。2003 Quinn官方原著页亦直接打开：https://www.ilo.org/publications/freedom-association-and-collective-bargaining-study-indonesian-experience ，显示作者曾参与ILO技术援助，说明观察优势也有项目成功叙事偏向。
+
+**本轮未完成正式并库**：正式source-register只检查开头及SHA，未全量去重；因此不擅自配S/Q/CV编号。未修改四CSV、chronology、成熟中文连续正文，不能称完整归档。本次仅保存原文核验和精准接力。
+
+**下一次精准未完事项**：①取得Hero Supermarket 1998—2004工会成立登记、章程、集体协议、2004工资与加班规则，核Mohammad Hakim/Koeshanto职务及22/222数字；②逐页打开2009 Palmer/Noriel报告，核2003—08登记、基层谈判、军警干预的具体县市案例，追脚注；③逐页核Quinn 2003第4章工会登记、会费扣缴及军警介入案例，并取得至少两县2000—02登记簿；④跨链返回1965 Aceh Baperki 148人名单原件、巴厘Sutedja 1966-07-26/29报告、1948 Delanggu ANRI 91/1215卷宗；⑤修复claim-ledger全量读取，去重并入正式四CSV、chronology和成熟中文叙事。GOAL保持ACTIVE / OPEN-ENDED，不能将本次提交视为终点。
