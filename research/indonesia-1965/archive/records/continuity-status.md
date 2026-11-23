@@ -1473,3 +1473,13 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准未完事项**：（1）取得1965-11-09 CIA备忘录关联Sukendro会谈纪要及其后信用额度/军火运输凭证，判定哪些方案最终执行；（2）取得1966-02-14曼谷1663及国务院1439、02-15卡拉奇1608全文，核20万吨大米请求、拒绝和后续变更；（3）将FRUS d172/d192与1965-10 Aceh地方军政命令、具体武器接收/行动记录逐条比对，不能由外交意向推导地方执行；（4）继续追1961《Api Kartini》Djenab原刊扫描、1963 Gerwani全会决议与SOBSI合作原件；（5）修复正式claim-ledger读取，核已有主张后再同步chronology、四CSV及成熟中文连续历史正文，跨期轮换1948 Delanggu与2000年Hero协议原件。
 
 本轮未完成正式四CSV、chronology及中文正文同步；未宣称证据链闭合。写入前本文件blob：ca55a542f692b798034d92646f87d5ac97b34813。提交SHA以本次GitHub API返回及远程main核验为准；不能在产生该提交的文件正文中预知自身SHA。GOAL永久OPEN。
+
+## 2026-11-23｜ONGOING / GOAL仍进行｜曼谷秘密医药安排与棉兰青年暴力威胁
+
+已重读AGENTS、goal-continuity、stage-access、正式四CSV及chronology。claim-ledger.csv仍返回非空blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但正文长度0，禁止覆盖。正式source-register已包含FRUS d173/d174链接，去重不新建S编号。直接打开美国国务院FRUS d173（1965-11-11曼谷电951，https://history.state.gov/historicaldocuments/frus1964-68v26/d173）与d174（1965-11-16棉兰电65，https://history.state.gov/historicaldocuments/frus1964-68v26/d174）。
+
+**G8/G3**：d173记录Sukendro与使馆讨论秘密医药援助实施细节、联络员Achmad Soemantri、请求便携电台及跨军区通信网络；使馆建议考虑约4万美元设备。脚注记录美国已同意10万美元医药供应，同时仍在考虑通信器材。须区分安排、批准、采购、交付及最终使用，不能把通信请求或医药协议自动写为到货。**G4/G9**：d174记录Pemuda Pantjasila棉兰市书记与另一地区负责人分别向美国领事人员表达杀害PKI成员意向；关于实际暴力、PNI冲突及军方拘押的内容混合消息来源、报纸和领馆判断，不等于已核实死者名单或统一指挥令。该电报对研究军方以外地方行动者及PNI与反共青年关系有价值。
+
+**正式写入**：chronology新增两条1965年11月节点，search-log新增Q595；source-register已含两份原文故不重复；claim-ledger不可读，coverage-matrix及成熟中文连续正文尚未修改。本次写入前最近已核验提交SHA：chronology `46e2ff18c34b7b3cfdc626bb09fc722081c7bd10`；search-log `1b3cc70f4b67507e198b46cb80ba2cf980e90ff0`。本条续接状态提交后产生的新SHA须以API及远程核验为准，不可能在自身提交正文预知；最新锚点以本次API返回为准。
+
+**精准未完事项**：（1）取得Bangkok 952、Deptel 750、Embtel 920、Djakarta 1427全文，追医药援助采购与到货单；（2）取得Medan FNM-1515/1516与1965-11-10当地报纸原件，核被殴死议员身份及五具尸体报道；（3）寻找Pemuda Pantjasila棉兰分会1965年会议、成员与指挥关系、PNI青年11月2日冲突及军区/警察登记，交叉核威胁与执行；（4）轮换Aceh Langsa Baperki 148人名单、Bali Sutedja 1966-07-26/29原报告和1948 Delanggu档案；（5）修复claim-ledger读取、去重并库后推进1970—1998拘押与劳工组织、1998后工会原件和成熟中文连续叙事。G1—G10全部OPEN；GOAL永久OPEN。
