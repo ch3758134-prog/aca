@@ -2198,3 +2198,6 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 - **1963年5月1日，Kupang（Timor）**：van Klinken 2014（正式S478，第9章页216）记述PKI及关联组织在Merdeka球场举行劳动节集会，出现批评省长W.J. Lalamantik标语；此为后出研究叙述，未直接取得当日报纸、组织会议文件。
 - **1965年2月27日、4月10日、7月9日，Namlea/Kapuas/Pontianak**：S478第9章页215–216引用这三期《Harian Rakyat》涉及Namlea的35册书籍、Kapuas Gerwani言论及Pontianak Chen Chiang楼Gerwani集会中的妇女参与议题。**目前直接阅读的是学术著作引述，原报纸未读；日期为报纸日期，不应直接冒充活动发生日。**
 - **1966年2月27日下午至夜间，Sikka/Maumere（Flores）**：S478第10章页240–241译引匿名1974《Menjaring Angin》手稿：KOMOP、调查队与党派代表在县议会厅开会，后转Soemarno少校住所，讨论24名被拘者A类“secured”分类，按Lela/Kuarwang、Nita、Koting各8人。来源为**1974年回顾手稿经2014年学者译引**，非当日会议纪要或逐人死亡证明。S947的2013年同作者讲演对是否当晚处决措辞更强，须以原稿和逐人记录解决，不能当独立佐证。
+
+- **1965-10-05—1968-09-30｜南苏拉威西拘押时间边界（Komnas HAM证人证言）**：2012年Komnas HAM调查摘要印刷页142称，证人将Makassar及Pangkep、Wonomulyo/Polmas、Pare-Pare、Bone、Jeneponto、Bantaeng等地拘捕的开始追溯至1965-10-05，且有延续至1968-09-30的记录；1966年3月以前约**9,765人**被拘捕拘押。此数为官方调查报告转述的地区累计数字，非死亡人数、非逐人登记已核，需追统计口径及原簿。[S140；https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf，印刷页142]
+- **1965-10-18｜南苏拉威西Pepelrada行政排除命令**：Komnas HAM印刷页142明确引述第XIV军区指挥官、Pepelrada Brigjen Solihin所发`KEP. 024/10/1965/PDD/1965`，要求暂时解除PKI及其群众组织成员职务，并记载监控与PKI有密切关系的政府雇员的指示。当前仅有2012年官方调查摘要全文，不是1965年命令原件；须追签发件、分送机关、各单位人事执行及申诉档案。不能把免职命令直接等同于逐人拘捕或处决。[S140；同上印刷页142]
