@@ -2253,3 +2253,12 @@ John Roosa 2013年开放论文《Who Knows?》脚注51（印刷第20页）明确
 美国驻Batavia总领事Livengood于1948-09-20发第806号电（FRUS 1948 VI，d268）明确把至少**四条信息渠道**分开：一名听众转述苏加诺19日晚广播；Aneta通讯社称Madiun副市长Soepardi被委以当地军政管理；Aneta又称其说法有一份由**SOBSI地方主席、当地“Communist Party Islam”负责人、Madiun Labour Party主席等人签署的文件**支持；不明电台广播任命Djokosoejono及Moestapa；共和国政府公报及苏加诺、苏迪曼等广播则指责夺权。此处能直接证明**美国外交电报在20日记录了Aneta关于地方多组织署名文件的报告**，不能证明本项目已取得签名文件，也不能把地方SOBSI主席自动等同SOBSI中央领导，或由一份传闻文件推出整个工会一致支持武装行动。[既有S007；https://history.state.gov/historicaldocuments/frus1948v06/d268，正文第11—15行；公开官方外交电报全文]
 
 同日第810号电（FRUS d269）逐字转发共和国政府**9月19日声明**，声明将9月18日Madiun机关遭武力接管归因于FDR/PKI与东爪哇某共和国军队单位；其后新闻部长宣称这“似乎是莫斯科的东南亚计划”，同时将荷兰封锁与军事压力视为动荡背景。**前者是共和国当时的官方归责，后者是部长的政治判断，不是苏联指挥行动已获独立证实。** 两电报皆经美国总领事转送，不能当作两份独立印尼原件。[既有S008；https://history.state.gov/historicaldocuments/frus1948v06/d269，正文第12—17行；官方刊行外交电报全文，印尼原声明及Aneta签名件未得]
+
+
+### 1946年11月29日—1947年5月18日｜SOBSI合并成立与首届大会：ANRI原件追索入口（待统一排序）
+
+印尼文化部《印尼历史百科》SOBSI条目（Allan Akbar撰，Andi Achdian编辑，网页全文直接核读）转述：1946-03-19 Kediri会议后，GASBI与GSBV出现组织分立；1946-11-29在Yogyakarta重新合并组成SOBSI，Harjono任主席、Setiadjit任副主席、Njono任秘书长；1947-05-18在Malang召开首届大会。该条目**明确指向ANRI《Inventarisasi Arsip Sentral Organisasi Buruh Seluruh Indonesia》No.151**，为可精确申请的档案号，但本项目尚未打开该卷原件，不能把百科条目当作1946年会议决议或人员选举原始记录。尤其该条目同时对1948年退出SOBSI的工会数给出19/34和13/34两种说法，需核统计时间和组织定义，不可任取一个。https://esi.kemenbud.go.id/wiki/Sentral_Organisasi_Buruh_Seluruh_Indonesia_(SOBSI) [后出官方百科全文；原档未读]
+
+### 1967年10月｜西加里曼丹达雅克动员与华人迁离：命令及地方簿册待核（待统一排序）
+
+松村智雄2015年同行评审论文的出版社摘要（J-STAGE全文摘要直接打开；本次**未核PDF正文**）将1967年10月Oevaang Oeray的所谓对华人“宣战”声明、村落间传递mangkok merah、华人被迫离开内陆联系起来，并讨论军方反游击政策、Oeray与Palaoensoeka的地方政治竞争以及迁离后内陆商品供应中断。这里能确定的是**作者提出的具体事件链和取件线索**，不是本项目已见1967年声明原件、县级军令、逐村迁离名册或受害者名单。须查Oeray声明原刊/签名件、Kodam XII命令、Sambas/Pontianak县迁移簿与西加里曼丹省长办公室馆藏；不得将华人居民等同于武装游击成员。https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/ja/ [既有S453/S831重复登记同一论文；摘要级本次核读]
