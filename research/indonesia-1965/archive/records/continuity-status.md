@@ -1669,3 +1669,9 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **G1/G2 Delanggu 1948：劳动诉求与组织接管时间需分层。** 2017 Historia《Ketika Genderang Buruh Ditabuh》（https://www.historia.id/article/ketika-genderang-buruh-ditabuh-db4xg）全文记1948-05-19纺织工人与棉农到Solo BTN办事处索取拖欠工资和1947年布匹配额，5月26日罢工扩大，并称SOBSI接管；Elizabeth Ann Swift《The Road to Madiun》公开可读第55页（https://fliphtml5.com/vkixl/awcx/Elizabeth_Ann_Swift_-_The_Road_to_Madiun_The_Indonesian_Communist_Uprising_of_1948/55/）更细分：5月26日地方罢工，6月1日前后其他SOBSI组织介入，6月19日由Maruto Darusman代表中央全面接管。两份后出叙述对“接管”日期表述不一；不能抹平为单一日期，且Swift引用1948-08-20警察报告，原报告未直接读。另有印尼文历史研究可读转录（https://adoc.pub/tv-v-revolusi-nasional-di-tingkat-lokal.html）称6月14日LBT要求新工资级、布匹和工人家属大米，6月15日七个地方分支代表开会，6月17—19日与BTN谈判。该转录不等于原始会议纪要。下一步取ANRI劳动部Delanggu 1948-06-14—19卷宗、1948-08-20警察报告及当期报纸，核实各组织职责、代表签字、会费及谈判决定。
 
 **接续与治理**：核正式source-register/search-log/coverage-matrix已有同一文献及最新最大ID后才登记，不在本状态文件虚构S/C/Q号；优先将日期争议和Delanggu具体诉求按原件成熟度并入正式CSV与chronology；并持续转往Aceh、北苏门答腊、东爪哇、巴厘、Flores、West Kalimantan、Sulawesi的地方原件及1998—2026组织史。G10尚缺正式并库和连续中文历史章节修订。本次为研究接力点而非完成节点。
+
+## 2026-11-23 21:52 CST｜ONGOING / GOAL仍进行｜Gerwani 1961纲领与实际落实的区分
+
+直接打开1961年12月14—17日Gerwani第四次全国大会纲领的印尼语数字全文转录 https://gerwani.logosid.app/teks/42 ，核第6—15、20项：同工同酬、产假/经期假、托儿、反解雇、妇女独立土地所有权、妇女进入土地改革委员会和价格分配机制。与既有S459去重，未重复分配S编号。纲领的主张不能直接证明执行；全文转录已读，原印本未读。序言“超过100万会员”是组织自报；文本对妇女政治权利批准法年份同时出现1958与1959，待法律原件核。已正式写入search-log Q599和chronology，提交依次为29a3152cd4860d9ebdb0f99a76292633b506b043、9cedeaaad35a70f471833c5cd8b9ac86c954b217。claim-ledger.csv仍返回非空blob而正文空，禁止覆盖；coverage-matrix和成熟中文正文未并库。
+
+**精准未完**：（1）查1961大会原印本页码、署名、投票/修订记录，核数字转录；（2）查1958/1959第68号法定刊本与1960年第5号土地法第9条，辨析纲领引用差异；（3）找1961—1965 Lamongan/Garut村级土地改革委员会、妇女土地登记、托儿所和工会谈判记录，检验纲领执行；（4）查1955 DPR/制宪会议当选者逐人名册，核4与5争议；（5）轮换1965—1968 Aceh及南苏拉威西军令原件、1970—1998拘押与劳工组织和1998后组织变迁。GOAL OPEN。此段写入前已知最新成功提交SHA为9cedeaaad35a70f471833c5cd8b9ac86c954b217；本状态提交产生的新SHA应由回执与远程main核实。
