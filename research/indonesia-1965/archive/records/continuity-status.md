@@ -1638,3 +1638,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 ## 2026-11-23 19:47 CST｜ONGOING / GOAL仍进行｜Gerwani选举及会员数交叉反证
 
 直接重读Sulami 1959全文（https://gerwani.logosid.app/teks/14），与WRI研究报告第21页公开检索摘录（https://womenresearchinstitute.org/wp-content/uploads/2025/08/wri_buku_indonesian_women_movements_wri.pdf）比较：Sulami称1955年Gerwani成员5人进入国会、6人进入制宪会议，1957年1月642460名会员、12月70万；WRI摘要称1955年4人当选、1960年约70万、1961年100万。两者来源、年份及议席口径尚未一致，不可静默择一。WRI PDF全文尚未逐页核读；Sulami为网页全文转录而非原刊扫描。冲突与精准续查已写入 archive/records/continuations/2026-11-23-1947-gerwani-membership-conflicts.md，证据提交SHA `6ee9f9ebdc9f168dcdf895d3d062494b72a2cbed`。下一步：1959原刊扫描、WRI第20—22页及脚注、1955 DPR/制宪会议逐人名册、1957分会会费原始表、1948 KOWANI大会决议；跨期继续地方军令和劳工组织。正式claim-ledger仍非空blob但零正文，不覆盖；正式CSV/chronology/连续中文正文未完成并库。GOAL永久OPEN；状态提交自身SHA以GitHub回执与远程HEAD为准。
+
+
+## ONGOING / GOAL仍进行｜2026-11-23｜中爪哇Purwodadi与1948年Delanggu跨项核验
+
+**本次重新全文读取** `archive/records/completeness-audit-2026-11-09.md`，逐项核对G1—G10；确认正式CSV和chronology真实路径是 `archive/records/`，不是研究目录根。正式claim-ledger非空blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但连接器返回正文0字符，绝不覆盖。
+
+**G4/G5/G6/G9 中爪哇Purwodadi**：直接打开2017-11 Historia记者报道全文 https://www.historia.id/article/penemuan-16-titik-kuburan-massal-di-purwodadi-vz5pp 。记录记者采访的Toroh BTI前成员Kandar Sumarno：1965-11警察拘捕、Gudang Seng拘押、后来Nusakambangan长期监禁；采访证言不等于拘押卷宗。定位1969-02-26《KAMI》原报标题及Princen访谈、1969-03《Indonesia Raya》《Sinar Harapan》报纸；原版均未读。YPKP 2017年16个疑似墓址、约5000人及Monggot逾2000是团体报告数字，未逐人核验，不能与Princen约2000—3000相加。报道内记者会日期与网页标注有不一致。S139 Hammer全文可读但Klaten研究不得直接推为Purwodadi执行机制。
+
+**G1/G2 不同年代独立链**：重新读取正式S1529、S1530登记：ANRI劳动部目录第91号1948-06-14至19日Delanggu LBT要求卷、警察目录第1215号1948-07-01报道及第569、1201、1205、1211号SOBSI/BTI/罢工相关条目；本次核实登记中明确是**官方目录已读、卷内原件未读**，不能由1948年BTI/SOBSI目录推定1965年Toroh的个人组织继承或受害原因。需索取原件扫描并重建会议—罢工—政府回应的具体行动链。
+
+**G1—G10长期缺口总账更新**：G1早期组织：ANRI 1948卷内原件缺；G2群众组织：BTI Toroh地方名册、1948 LBT/SOBSI工会原件缺；G3 1965跨机关小时级命令/广播未闭；G4 Purwodadi县军警拘押与死亡记录缺，Aceh/北苏门答腊/东西爪哇/巴厘/Flores/West Kalimantan/Sulawesi仍独立OPEN；G5受害者家属及妇女个案、墓地逐人核验缺；G6 Gudang Seng—Nusakambangan转押和释放卷宗缺；G7当代幸存者组织与工会基层结构仍OPEN；G8英美澳中苏具体执行/收货记录缺；G9 Purwodadi地点索引需逐点坐标与行政归属核准；G10 CSV去重、chronology严格排序、连续中文HTML证据整合欠账。**不得把一次记者采访、学术全文和原始军令等量齐观**。
+
+**精确接力动作**：①检索/馆藏申请《KAMI》1969-02-26《Gelombang Pembantaian Selama Tiga Bulan di Purwodadi》原版及Princen访谈；②《Indonesia Raya》《Sinar Harapan》1969-03逐期检索；③请求Purwodadi Gudang Seng/Kamp Lusi拘押登记、Kandar Sumarno转押及Nusakambangan入出监卷；④获取YPKP 2017年16址地理表、Komnas HAM收件编号及墓地鉴定；⑤申请ANRI S1529第91号与S1530第1215号扫描，核对1948 Delanggu当事人和决策。正式source-register、search-log、coverage-matrix、claim-ledger及中文HTML尚未同步；不得宣称并库完成。长期GOAL持续OPEN。
