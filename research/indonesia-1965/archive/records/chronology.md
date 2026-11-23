@@ -2225,3 +2225,10 @@ Gerwani中央领导机构DPP出版的《Program Gerwani》称纲领于雅加达�
 ### 1958年12月16日—1959年3月16日｜妇女政治权利公约的国际生效（联合国原始登记核验）
 
 印尼1958年第68号法于7月17日签署、8月28日公布，为批准1952年《妇女政治权利公约》建立国内法依据，并对公约第VII条最后一句及第IX条保留。联合国《条约汇编》第317卷第337页的**1958年同期官方登记**明确记载：印尼于**1958年12月16日交存批准书**，该公约对印尼于**1959年3月16日生效**；联合国现行条约数据库逐国记录独立复核这两个日期。应区分国内法律生效（1958-08-28）、国际批准书交存（1958-12-16）、国际公约对印尼生效（1959-03-16）。Gerwani 1961年纲领中出现的1958/1959年份混写，可能与这两个不同法律层级有关，但**尚不能认定作者实际意图**，需核原印本。法律地位不等于妇女选举、任职或地方行政参与的实际实施。[联合国1958年原始条约登记，Vol.317 p.337：https://treaties.un.org/doc/Publication/UNTS/Volume%20317/v317.pdf；联合国条约数据库：https://treaties-prod.un.org/Pages/showDetails.aspx?clang=_en&objid=080000028003069e；印尼国会法令目录：https://jdih.dpr.go.id/setjen/detail-dokumen/tipe/uu/id/1308；原始公约批准记录待与Gerwani 1961年印本逐字比对]
+
+
+### 1969—1996｜Moncongloe拘押队列与1996政治镇压：待统一排序的原件节点（2026-11-23）
+- **1969—1971，Moncongloe（南苏拉威西）**：Taufik Ahmad 2008《Moncongloe Moncongloe Desantara》公开可读文本称初期466名B类、1971年前另445名C类入营；这些为后出书籍统计，入营簿未读，不能与Komnas HAM证人所述1977-12-20“同466名其他人离营”混为一批。[https://www.academia.edu/42697596/MONCONGLOE_MONCONGLOE_DESANTARA；S140]
+- **1974-08-08—1977-12-20，Moncongloe**：Komnas HAM 2012调查摘要记C3分类释放文书（1974-08-08）及1977-12-20的SPRIN/802/TPD/XII/1977将部分囚犯由完全拘押改为居家拘押；证人称466名其他人同日离营。Taufik Ahmad 2008书称约869人于1977获释、42人转Nanga-Nanga；人数时段/对象不同，且原始名单均未读，不得相加或直接比较。[S140；https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf；https://www.academia.edu/42697596/MONCONGLOE_MONCONGLOE_DESANTARA]
+- **1996-07-27—08-09，雅加达及各地**：PDI总部遭袭后Amnesty International 7月29日通报称206—241人遭羁押；8月9日PDF（ASA21/56/96）称7月30日以后至少50人被捕、24人仍在押，警方8月7日称136人仍在押。统计日期、范围不同，不能累加；该组织警告军方将事件归咎PRD并对学生/工会活动者进一步拘押。AI报告为同期人权机构调查记录，不是完整警察拘押名册。[https://www.amnesty.org/en/documents/asa21/048/1996/en/；https://www.amnesty.org/en/wp-content/uploads/2021/06/asa210561996en.pdf]
+- **1996-10-12—12，雅加达**：美国国务院1996人权报告转述Komnas HAM 10月12日报告五死、149伤、23失踪，另记政府承认四死；并记录Muchtar Pakpahan及PRD成员（含Budiman Sudjatmiko）被拘及12月审判。原始Komnas报告和审判卷宗未读；死亡与失踪不是可相加的独立死亡总数。[https://1997-2001.state.gov/global/human_rights/1996_hrp_report/indonesi.html]
