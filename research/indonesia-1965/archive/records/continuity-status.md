@@ -1560,3 +1560,12 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 已重新读取G1—G10完整性审计、AGENTS、授权、GOAL、正式四CSV、chronology及滚动总账。沿G1/G2从GASBRI 493/PKI 494扩展到ANRI警察档案495（1946—48西爪哇/雅加达报告）、496（1947 Benteng RI会议）及宣传部档案17（1948 Amir Sjarifuddin职务变动目录）；均为**目录已读，卷内原件未读**。沿不同地区G4/G5核到西加1967年Samalantan、Senakin、Darit、Sebadu的学术文本可见摘录，**非全文或地方原卷**，210数字暂只保留为作者主张。具体网址、来源层级、阻碍与行动已更新global-gap-tracker（commit db20bb2bafcf9a28ff7ead4902e8a036905bd3c2）。claim-ledger非空blob读取零正文，不覆盖，不虚构C号；正式CSV/chronology/中文连续正文未同步。
 
 **精确续接**：（1）按ANRI馆藏号493、494、495、496及宣传部卷17申请影印，优先493公告和卷17部长令，检查1948会议/免职的具体日期与人名；（2）查1967年西加省府《Pengungsian orang2 Tjina》p.82、1968 Progress Report附录VI原影印，核不同日期人数口径；（3）追1967-10-19 Samalantan动员、11月Senakin/Darit/Sebadu遇害者名册及11-17军方停止示威令；（4）轮换Aceh/北苏门答腊/Flores/Bali地方军令与逐人拘押、Gerwani/BTI/SOBSI原刊；（5）以原始blob或替代安全接口解决claim-ledger读取后正式去重并库，按时间排序整合chronology，成熟段落入readable-history。G1—G10全部OPEN；长期GOAL未完成。
+
+
+## 2026-11-23 13:56 CST｜ONGOING / GOAL仍进行｜12月8日303委员会删节与12月13日大米援助政策分歧
+
+重新核读AGENTS、goal-continuity、stage-access、正式source-register/claim-ledger/search-log/coverage-matrix、chronology及本续接文件。正式claim-ledger.csv仍返回非空blob SHA `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a` 而UTF-8正文0字符；未覆盖或分配C编号。source-register已含FRUS d183链接，未重复登记。此次直接打开美国国务院FRUS d181（https://history.state.gov/historicaldocuments/frus1964-68v26/d181）、d182（https://history.state.gov/historicaldocuments/frus1964-68v26/d182）和d183（https://history.state.gov/historicaldocuments/frus1964-68v26/d183）。d181脚注明确FE-239（12月1—2日会谈）、12月3日替代方案和FE-244（12月7日）未在FRUS印出。d182（1965-12-08）仅元数据，303委员会备忘录四页未解密，不能推断决议。d183（1965-12-13）原文显示国务院认为秘密大米援助风险高、可能惠及苏加诺—苏班德里奥；Blouin建议在军方领导正式请求且有需要时提供不附政治条件的紧急大米援助。文件指出雅加达1634、1712、1722及国务院741电报；未证明购买或交付。已追加两个节点至正式chronology，提交 `83f71249470a924001a9acc48c521f1e6acf6acf`；其他正式CSV、中文连续正文此次未改，G10并库缺口继续开放。
+
+**精准未完事项**：（1）按NSC Special Group/303 Committee Subject Files Indonesia索取1965-12-08备忘录完整四页，不能以删节标题代替内容；（2）按RG330 OASD/ISA及RG59调取1965-12-03雅加达1634、12-09国务院741、12-10雅加达1712和12-11雅加达1722，重建大米请求、条件与批准链；（3）调取INR/IL Indonesia 1963—65 FE-239、12-03替代方案及FE-244，核医药援助实际审批与财务掩护；（4）寻找泰国/缅甸大米采购、装运、到港、军方签收及地方分配证据，对照印尼政府、媒体和地方粮价资料；（5）轮换Aceh地方军政命令、1948 GASBRI/Delanggu、Gerwani/SOBSI/BTI基层原刊及1970—2026劳工/政治犯资料；解决claim-ledger安全读取，去重并库后形成成熟中文连续正文。
+
+**提交锚点**：本段写入前已成功提交chronology `83f71249470a924001a9acc48c521f1e6acf6acf`；本段自身的commit SHA须以GitHub写入回执与随后main HEAD核验为准，无法在自身原子提交正文中预知。GOAL永久ACTIVE / OPEN-ENDED。
