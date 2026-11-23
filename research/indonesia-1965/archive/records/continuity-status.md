@@ -1651,3 +1651,10 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **G1—G10长期缺口总账更新**：G1早期组织：ANRI 1948卷内原件缺；G2群众组织：BTI Toroh地方名册、1948 LBT/SOBSI工会原件缺；G3 1965跨机关小时级命令/广播未闭；G4 Purwodadi县军警拘押与死亡记录缺，Aceh/北苏门答腊/东西爪哇/巴厘/Flores/West Kalimantan/Sulawesi仍独立OPEN；G5受害者家属及妇女个案、墓地逐人核验缺；G6 Gudang Seng—Nusakambangan转押和释放卷宗缺；G7当代幸存者组织与工会基层结构仍OPEN；G8英美澳中苏具体执行/收货记录缺；G9 Purwodadi地点索引需逐点坐标与行政归属核准；G10 CSV去重、chronology严格排序、连续中文HTML证据整合欠账。**不得把一次记者采访、学术全文和原始军令等量齐观**。
 
 **精确接力动作**：①检索/馆藏申请《KAMI》1969-02-26《Gelombang Pembantaian Selama Tiga Bulan di Purwodadi》原版及Princen访谈；②《Indonesia Raya》《Sinar Harapan》1969-03逐期检索；③请求Purwodadi Gudang Seng/Kamp Lusi拘押登记、Kandar Sumarno转押及Nusakambangan入出监卷；④获取YPKP 2017年16址地理表、Komnas HAM收件编号及墓地鉴定；⑤申请ANRI S1529第91号与S1530第1215号扫描，核对1948 Delanggu当事人和决策。正式source-register、search-log、coverage-matrix、claim-ledger及中文HTML尚未同步；不得宣称并库完成。长期GOAL持续OPEN。
+
+
+## 2026-11-23 20:46 CST｜ONGOING / GOAL仍进行｜Gerwani WRI全文复核
+
+本轮直接核读Sulami 1959年第3期文章数字转录全文及WRI 2013年204页研究PDF的第32—35 PDF页，确认Gerwani 1955议会成员数字分别为5与4；Sulami称1957-01有182分会/642460会员、1957-12大会称70万，WRI称1960年70万、1961年100万、183分会。WRI第21页的4人说法无逐人名册，脚注17指2012博客，不能将其当独立统计反证。WRI第20页Garut女纺织工罢工援助案例源于二次访谈；1965-10 KOWANI排除与1966禁令须分别取得原始决议。直接核读原文链接及精确续接见 archive/records/continuations/2026-11-23-2046-gerwani-wri-fulltext-check.md 。该核验记录提交为 `5a7790fbc829dd719969cab5d9e7274cbfde7123`。正式claim-ledger.csv blob非空但连接器返回0字符，严禁覆盖。四张正式CSV、chronology和连续中文正文尚未并库，仍为OPEN欠账。
+
+下轮立即执行：（1）1955 DPR/Konstituante逐人正式名册及Gerwani成员党籍；（2）1957 Solo第三次大会会员分会会费原件与1959杂志扫描；（3）WRI 4人数字向2012博客/Wieringa回溯；（4）Garut女工罢工及2010 Ruth Indiyah Rahayu访谈；（5）KOWANI 1965排除决议、1966禁令并轮换地方军政镇压/1948工会/1998后组织。最新main HEAD应以本次状态提交回执和后续远程分支读取为准，不预填自身SHA。GOAL永久OPEN。
