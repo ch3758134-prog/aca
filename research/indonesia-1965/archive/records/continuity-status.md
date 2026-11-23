@@ -1603,3 +1603,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 
 ## 2026-11-23 17:50 CST｜ONGOING / GOAL仍进行｜1967 NSC援助承诺与执行链
 已直接核读FRUS d241（1967-08-04）与d244（1967-08-09），来源已在正式source-register去重；政策建议、约1.97亿美元财团承诺/提供混合口径、1968美国份额约1亿美元估算与实际拨付严格分开。细节与原文链接见 archive/records/continuations/2026-11-23-1750-1967-nsc-policy-implementation.md；该证据文件提交SHA `28ecaf1162ff37e2179ddec86b7d19074abfcc01`。正式claim-ledger blob非空而读取0字符，不覆盖；其他正式CSV、chronology、中文连续正文仍待并库。精准未完：①1967海牙逐国承诺与结算；②1968 AID/PL480采购装运签收；③印尼1967外资法与经济顾问政策原件；④MAP民事行动县级工程和军方组织关系；⑤1948 GASBRI、Gerwani/BTI/SOBSI、Aceh/Flores及1998后劳工跨项原件。状态写入前已核实证据提交SHA；状态提交自身SHA以回执及随后远程HEAD为准。GOAL永久OPEN。
+
+
+## 2026-11-23｜G4南苏拉威西军政行政命令与G6长期拘押（ONGOING / GOAL仍进行）
+
+本次重新读取`AGENTS.md`、stage-access、goal-continuity及**G1—G10完整性审计全文**；正式四表及chronology均位于`research/indonesia-1965/archive/records/`。正式S140已登记Komnas HAM 2012官方调查摘要，S295已登记Grace Leksana东爪哇军方档案研究；不重复编造S/C编号。`claim-ledger.csv`依然返回非空blob SHA而正文长度0，禁止覆盖。研究G1—G10均OPEN。
+
+**当前长期链G4/G6（Sulawesi，跨1965—1978）**：直接打开Komnas HAM印尼文调查摘要全文（https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf），印刷页141—145。第142页明确指向1965-10-18第XIV军区Brigjen Solihin作为Pepelrada发布`KEP. 024/10/1965/PDD/1965`，暂时免除PKI及相关组织成员职务，并要求监控与PKI接近的公职人员。证人称拘捕1965-10-05开始、延续至1968-09-30；截至1966-03约9,765名被捕拘押者（非死亡人数，统计原始表未读）。第143—145页将部分羁押者后续转送Moncongloe并强迫从事军方工程和私人田地劳动，与既有chronology/S140证据链连通。**访问等级：2012官方调查摘要全文已读；1965命令、拘押名册、1970年代工役及释放原件均未读；证人说法不是司法终局裁判。**
+
+**不同G项交叉链G2/G4（东爪哇组织—军区机制）**：直接打开Grace Leksana《Collaboration in Mass Violence》公开论文全文（https://www.tandfonline.com/doi/full/10.1080/14623528.2020.1778612），其说明Brawijaya军区档案有Surabaya、Malang、Mojokerto、Madiun四Korem的作战报告、日记、无线电报与法规，Malang收藏较完整，公开查阅需Malang军区Bintaldam许可。正式来源S295已读并登记，本次重点将其作为与Sulawesi第024号命令比较的**档案取得路径**，不当作新独立来源。不能把东爪哇指挥结构直接移植至Sulawesi。
+
+**长期缺口总账增量**：G4 Sulawesi：2012官方调查摘要全文、1965原令未读，重点军区命令—县政府人事执行—拘捕时间与数字；G6：Moncongloe羁押/工役及释放原件缺失；G2：东爪哇1965年前组织与军区互动缺基层组织会议/企业档案；G10：正式C台账读取异常，CSV并库与连续中文HTML尚欠账。其他G1/G3/G5/G7/G8/G9仍OPEN，勿以本次两链替代全域调查。
+
+**精确续接**：1. 追`KEP. 024/10/1965/PDD/1965`签章件、分送清单及Makassar公务员停职登记；2. 追9,765人的地区/时间/重复拘押统计定义与Kodim 1408记录；3. 追Moncongloe营原始劳动工程、1977释放令及BAP；4. 向Malang Bintaldam核Brawijaya四Korem卷宗与1965年10月电报；5. 轮换G1 1948 GASBRI ANRI493原件和G7 1998后地方工会登记，持续纠正地区失衡。GOAL ACTIVE/OPEN，不宣称全量完成。
