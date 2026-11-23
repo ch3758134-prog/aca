@@ -1569,3 +1569,8 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准未完事项**：（1）按NSC Special Group/303 Committee Subject Files Indonesia索取1965-12-08备忘录完整四页，不能以删节标题代替内容；（2）按RG330 OASD/ISA及RG59调取1965-12-03雅加达1634、12-09国务院741、12-10雅加达1712和12-11雅加达1722，重建大米请求、条件与批准链；（3）调取INR/IL Indonesia 1963—65 FE-239、12-03替代方案及FE-244，核医药援助实际审批与财务掩护；（4）寻找泰国/缅甸大米采购、装运、到港、军方签收及地方分配证据，对照印尼政府、媒体和地方粮价资料；（5）轮换Aceh地方军政命令、1948 GASBRI/Delanggu、Gerwani/SOBSI/BTI基层原刊及1970—2026劳工/政治犯资料；解决claim-ledger安全读取，去重并库后形成成熟中文连续正文。
 
 **提交锚点**：本段写入前已成功提交chronology `83f71249470a924001a9acc48c521f1e6acf6acf`；本段自身的commit SHA须以GitHub写入回执与随后main HEAD核验为准，无法在自身原子提交正文中预知。GOAL永久ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-23 UTC｜ONGOING / GOAL仍进行｜西加1967军令与民兵组织原件定位
+本次重新读取AGENTS、stage-access、goal-continuity、completeness-audit G1—G10、正式四CSV（claim-ledger依旧非空SHA而零正文）、chronology、总账及续接状态。直接阅读Taufiq Tanasaldy (2012)公开专著全文第138—148页（https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/82/94/2020718294/2020718294.pdf），不再将其称为搜索摘要。实质进展：1967-11-17 A.J. Witono《Maklumat》原件私人收藏及11-21《Pembangunan》报纸定位；1967-10-31达雅克领袖声明、11-03及11-05 Laskar Pangsuma文件原件题名/收藏者定位；1967-11-09 Usman Idris要求难民返村及Peterson 1968关于军人阻止暴力的反证。另一G1/G2链核到1945 PD、1947 DIKB、1955/1958地方选举和1960年代Partindo/天主教党分化的专著论述，但原始党章/选举/任命文书未读。以上证据级别为学术专著全文B、所引原件未读，不将局部军方鼓动推定为统一国家计划；也不把组织名单上列名视作本人签署。详见global-gap-tracker（提交635e636fe51e462abb3a7bdf0832531c5ddc25b2）。
+**下一步**：1. 取得Witono 1967-11-17《Maklumat》与《Pembangunan》11-21原文；2. 取得10-31声明、11-03/05 Laskar Pangsuma组织文件和签署页；3. 取得《Pembangunan》11-09 Usman Idris原报道及Peterson 1968第19/28页；4. 核1945 PD成立/1947 DIKB任命/1958选举地方原件，兼查1948 GASBRI 493；5. 核省府1967《Pengungsian》报告与难民名册，并继续Aceh/Bali/Flores/东爪哇/劳工妇女流亡/外部介入跨项调查。claim-ledger不覆盖，G10正式并库与连续中文正文仍待推进；G1—G10 OPEN，长期GOAL未完成。
