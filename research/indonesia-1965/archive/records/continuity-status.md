@@ -1539,3 +1539,13 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 ## 2026-11-23 UTC｜ONGOING / GOAL仍进行｜西加里曼丹1967—1997及巴厘BAP复核
 已读取AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10审计、正式source/claim/search/coverage与chronology及长期总账。打开HRW 1997-12-01《Communal Violence in West Kalimantan》全文：1967华裔遭袭与1996-97达雅克—马都拉冲突是两个独立事件，前者的约300死亡/55,000迁移为HRW转述历史报告，后者约500死亡/20,000流离失所为HRW当时调查估算，不可合并、不可把回顾当1967地方原件。复核Komnas HAM官方调查摘要第123页BAP No.30（Dewa Putu Ngurah Djenawi）脚注，原笔录仍未取得。证据级别、地区/年代/组织、缺件与阻碍已入global-gap-tracker.md（提交 e7a06f5119cd21b4b1afd120fb77074c40452c31）。正式claim-ledger.csv正文读取仍异常，未改写或虚构编号；本次未同步正式CSV/chronology/中文正文，保留G10欠账。
 **直接续接**：①检索1967 Sanggau Ledo军区命令及达雅克/华裔地方公告；②查1967 Pontianak安置营逐人登记与死亡证明，分清1967及1996—97数字；③索取Komnas HAM BAP No.30与1968 Gianyar/Pekambingan出入簿；④核1948 GASBRI 493与BTI地方原刊；⑤以安全方式读取claim-ledger原始blob，正式去重并库、时间线与成熟中文叙事。G1—G10全部OPEN。
+
+## 2026-11-23 12:48 CST｜ONGOING / GOAL仍进行｜12月4日医药援助内部争议
+
+本轮回读AGENTS、stage-access、goal-continuity、正式四CSV、chronology及本续接文件。直接打开FRUS d180 https://history.state.gov/historicaldocuments/frus1964-68v26/d180 （1965-12-03 Colby致Bundy，**四页原文未解密，仅可见元数据**）及d181 https://history.state.gov/historicaldocuments/frus1964-68v26/d181 （1965-12-04国务院内部会议备忘录全文公开部分）。d181显示Berger质疑Sukendro信用掩护与Nasution知情程度，Colby、Cooper、Thomson主张对印尼军方反PKI行动提供实质支持；会议倾向继续但须先提交逐步掩护方案并获国务院批准。文书脚注定位12月1—2日会谈附件FE-239、12月3日替代方案及12月7日Colby致Bundy的FE-244。**内部争论与有条件推进不是付款、发货、到货或具体使用证据**；不能把d180删节内容自行补全。
+
+正式chronology已追加1965-12-03—04节点（提交 d98fd711dacb3076feab8a5b8806eed466d385b4），search-log已追加Q597（提交 855ddc5ab0d082fc1dbf0de7dec5f286515b3728）。source-register已有d181链接；d180尚未登记，须在下次安全检查正式ID和元数据后登记，不能把四页未解密文本称为已读。claim-ledger.csv blob=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，UTF-8读取0字符，未覆盖、未编造C号。coverage-matrix和成熟中文连续历史正文尚未同步，本次归档仍不完整。
+
+**精准未完事项**：（1）调取国务院INR/IL Indonesia 1963—65档FE-239及12月3日替代方案，核12月1—2日会谈对象和掩护安排；（2）调取1965-12-07 FE-244 Colby—Bundy原件，核提交的具体执行条件及批准；（3）追信用额度、医药采购发票、运输单和印尼军方签收，与d173/d175和d181逐项核验；（4）轮换Aceh Langsa 1965 Baperki声明148人附件、1948 Delanggu/GASBRI及Gerwani原刊；（5）修复claim-ledger原始对象读取并在不覆盖前提下完成四CSV、chronology及成熟中文连续正文同步，同时调查1970—1998拘押/劳工和1998—2026组织制度执行。
+
+**已核实的本次状态写入前最新提交锚点：855ddc5ab0d082fc1dbf0de7dec5f286515b3728。** 状态文件自身提交SHA须从写入回执及之后main核验获得，不能在同一原子提交自指。GOAL ACTIVE / OPEN-ENDED，所有G项继续OPEN。
