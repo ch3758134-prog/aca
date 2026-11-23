@@ -1686,3 +1686,12 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **G4/G6 南苏拉威西Moncongloe拘押与释放**：直接查阅Komnas HAM调查摘要的公开可检索全文 https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ，第150—154页附近记载证人B于1972年从LP Majene转Moncongloe、1977-12-20依据 **SPRIN/802/TPD/XII/1977** 由完全拘押改为居家拘押；另一证人称同日与466人一起释放，须查该数字是否同一批、名册定义和实际离营情况。证人A于1970-09起被拘押至1977-12-20；报告脚注列BAP 266—269/BAP_TPPH65/III/2009，须逐案索取。**释放出全日拘押≠解除政治监督或获得自由身份**；命令原件、签发机关、执行名单及居家拘押管理原件未读。另一篇Taufik Ahmad 2010报道 https://www.insideindonesia.org/editions/edition-998/survival-through-slavery 讨论营地强迫劳动、地块移交和营地人数；属于后出报道，须核其底层访谈/名册，不能将其数字与Komnas证言自动视为独立。
 
 **长期缺口总账更新**：G1早期组织与1948 Delanggu原卷仍缺；G2新增法定原文与地方实践断裂；G3跨机关逐时仍缺；G4地区原始军令/监禁档案仍缺；G5妇女权利实践与性别遭遇仍缺；G6新增1977释放命令具体编号但原件未取；G7后1998基层组织仍缺；G8跨国援助执行与收据仍缺；G9 Moncongloe/LP Majene及证人关联仍需索引；G10正式CSV、按日期统一chronology和连续中文历史正文仍待并库。下一步直接追：(1) UN Treaty Collection 1952 Convention Indonesia批准书交存与生效日期；(2) Gerwani 1961原印本对68/1958的原文引用；(3) SPRIN/802/TPD/XII/1977原件及1977-12-20名册；(4) BAP 266—269及LP Majene→Moncongloe转押登记；(5) 同步1948 Delanggu原件、Aceh/Flores/West Kalimantan地方军令与1998后工会组织。证据分级严格保持，未宣称局部完成即总体完成。GOAL永久OPEN。
+
+
+## 2026-11-23 22:46 CST｜ONGOING / GOAL仍进行｜联合国妇女政治权利公约交存证据
+
+本次已重读AGENTS、stage-access、goal-continuity、正式source-register、search-log、coverage-matrix、chronology和本状态。claim-ledger.csv仍返回非空blob SHA `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a` 而正文为空，未覆盖、未创建C编号。正式三表中未检出联合国第317卷交存/生效记录，但本次没有对大体量CSV执行安全批量写入，保留为归档欠账。
+
+**已直接核读原件**：联合国1958年《Treaty Series》Vol.317 p.337（https://treaties.un.org/doc/Publication/UNTS/Volume%20317/v317.pdf），印尼于1958-12-16交存1952年《妇女政治权利公约》批准书，1959-03-16对印尼生效；保留第VII条末句与第IX条。联合国现行数据库（https://treaties-prod.un.org/Pages/showDetails.aspx?clang=_en&objid=080000028003069e）核同两日期；印尼国会法令库（https://jdih.dpr.go.id/setjen/detail-dokumen/tipe/uu/id/1308）确认UU68/1958国内1958-08-28公布生效。此项直接解决上一状态要求的UN交存与生效日期，已写入正式chronology，提交 `a96aaf156155c44c972c6bbb40a3f6dbe894ae9b`。公约对印尼生效不等于各地实际实现妇女政治权利；Gerwani 1961纲领1958/1959混写的成因尚不确定。
+
+**精确未完**：(1) 安全并库联合国条约登记来源与Q/CV条目，先核最新CSV SHA、最大ID及标题/URL去重；(2) 获取1961《Program Gerwani》原印本扫描，核第68号法的引用是否因国内批准与国际生效混淆；(3) 查1959—1965选举/地方行政妇女代表逐人任职原件，特别是Gerwani与PKI/Permai/Partai Rakjat身份区别；(4) 取得南苏拉威西`SPRIN/802/TPD/XII/1977`原件及1977-12-20释放/居家限制名单，核Moncongloe证词；(5) 轮换1948 Delanggu LBT档案91号、1965 Aceh Kodim原令及1998后工会登记地方执行案例。连续中文历史正文仅在组织/法律实践证据足以连贯解释时修改，不建列表式HTML。GOAL保持OPEN。**提交锚点**：`a96aaf156155c44c972c6bbb40a3f6dbe894ae9b` 为本次状态写入前的已确认chronology提交；本状态提交的SHA须由提交回执与后续main HEAD确认，不能预先写入自身SHA。
