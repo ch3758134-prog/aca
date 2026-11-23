@@ -1658,3 +1658,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 本轮直接核读Sulami 1959年第3期文章数字转录全文及WRI 2013年204页研究PDF的第32—35 PDF页，确认Gerwani 1955议会成员数字分别为5与4；Sulami称1957-01有182分会/642460会员、1957-12大会称70万，WRI称1960年70万、1961年100万、183分会。WRI第21页的4人说法无逐人名册，脚注17指2012博客，不能将其当独立统计反证。WRI第20页Garut女纺织工罢工援助案例源于二次访谈；1965-10 KOWANI排除与1966禁令须分别取得原始决议。直接核读原文链接及精确续接见 archive/records/continuations/2026-11-23-2046-gerwani-wri-fulltext-check.md 。该核验记录提交为 `5a7790fbc829dd719969cab5d9e7274cbfde7123`。正式claim-ledger.csv blob非空但连接器返回0字符，严禁覆盖。四张正式CSV、chronology和连续中文正文尚未并库，仍为OPEN欠账。
 
 下轮立即执行：（1）1955 DPR/Konstituante逐人正式名册及Gerwani成员党籍；（2）1957 Solo第三次大会会员分会会费原件与1959杂志扫描；（3）WRI 4人数字向2012博客/Wieringa回溯；（4）Garut女工罢工及2010 Ruth Indiyah Rahayu访谈；（5）KOWANI 1965排除决议、1966禁令并轮换地方军政镇压/1948工会/1998后组织。最新main HEAD应以本次状态提交回执和后续远程分支读取为准，不预填自身SHA。GOAL永久OPEN。
+
+
+## 2026-11-23 UTC｜G4 Purwodadi同期报刊日期冲突 + G1/G2 Delanggu组织诉求（GOAL OPEN）
+
+本次再次直接读取2026-11-09 G1—G10完整性审计，核查正式资产实际位于 archive/records/ 下（并非项目根目录）；Git tree main 47da7c1e6704c277342b9b3d02da44d6019808f3。正式claim-ledger.csv以行范围读取仍返回空正文但存在非空SHA，未覆盖。全局G1—G10保持OPEN，尤其G3/G5/G6/G7/G8/G9/G10未因本次两链核验而结案。
+
+**G4/G9 中爪哇Purwodadi：1969报刊日期有直接待核冲突。** 2017 Historia报道《Penemuan 16 Titik Kuburan Massal di Purwodadi》全文（https://www.historia.id/article/penemuan-16-titik-kuburan-massal-di-purwodadi-vz5pp）称《KAMI》1969-02-26刊登《Gelombang Pembantaian Selama Tiga Bulan di Purwodadi》并报道Princen。另一份后出叙述《Purwodadi: Skandal Pertama Orde Baru》（https://arieflmj.wordpress.com/2011/11/25/purwodadi-skandal-pertama-orde-baru/）称Princen于1969-02-26举行记者会，而《KAMI》于1969-02-27刊《Purwodadi Dalam Ketakutan》。**两者可能是不同日的两篇报道，不能直接认定矛盾已解决。** 两处目前均为后出报道全文，不是1969年原版。精确追索：1969-02-26、27两日《KAMI》整版/版次/标题及1969-03-10—21《Indonesia Raya》《Sinar Harapan》原报；建立记者会、初次发表、转载的独立时间节点。2017 Historia所述16处疑似墓地及约5000人系YPKP倡议者陈述，不是鉴定或逐人死亡登记；不同估算不得相加。
+
+**G1/G2 Delanggu 1948：劳动诉求与组织接管时间需分层。** 2017 Historia《Ketika Genderang Buruh Ditabuh》（https://www.historia.id/article/ketika-genderang-buruh-ditabuh-db4xg）全文记1948-05-19纺织工人与棉农到Solo BTN办事处索取拖欠工资和1947年布匹配额，5月26日罢工扩大，并称SOBSI接管；Elizabeth Ann Swift《The Road to Madiun》公开可读第55页（https://fliphtml5.com/vkixl/awcx/Elizabeth_Ann_Swift_-_The_Road_to_Madiun_The_Indonesian_Communist_Uprising_of_1948/55/）更细分：5月26日地方罢工，6月1日前后其他SOBSI组织介入，6月19日由Maruto Darusman代表中央全面接管。两份后出叙述对“接管”日期表述不一；不能抹平为单一日期，且Swift引用1948-08-20警察报告，原报告未直接读。另有印尼文历史研究可读转录（https://adoc.pub/tv-v-revolusi-nasional-di-tingkat-lokal.html）称6月14日LBT要求新工资级、布匹和工人家属大米，6月15日七个地方分支代表开会，6月17—19日与BTN谈判。该转录不等于原始会议纪要。下一步取ANRI劳动部Delanggu 1948-06-14—19卷宗、1948-08-20警察报告及当期报纸，核实各组织职责、代表签字、会费及谈判决定。
+
+**接续与治理**：核正式source-register/search-log/coverage-matrix已有同一文献及最新最大ID后才登记，不在本状态文件虚构S/C/Q号；优先将日期争议和Delanggu具体诉求按原件成熟度并入正式CSV与chronology；并持续转往Aceh、北苏门答腊、东爪哇、巴厘、Flores、West Kalimantan、Sulawesi的地方原件及1998—2026组织史。G10尚缺正式并库和连续中文历史章节修订。本次为研究接力点而非完成节点。
