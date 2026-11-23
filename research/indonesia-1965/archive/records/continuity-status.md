@@ -1798,3 +1798,8 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **长期缺口总账G1—G10，全部OPEN（覆盖—缺原件—阻碍）**：G1 1910—49殖民/革命与SOBSI地方组织，缺ANRI No.151及1948 Delanggu/Madiun原件；G2 1950—65 SOBSI/BTI/Gerwani/青年文化组织的工厂、村庄、会议财务名册，现多为后出研究；G3 1965跨军政机关逐小时命令广播，缺原日志与独立比对；G4 Aceh、北苏门答腊、东/中/西爪哇、巴厘、Flores、West Kalimantan、Sulawesi等地方杀戮、驱逐、拘捕，缺军区原令及逐县/逐人簿册，本次新增西加里曼丹官方表转录；G5妇女/族群/宗教/儿童与幸存者生活，缺独立个案及营地救济死亡簿；G6长期监禁、流亡、1970—98再组织，缺Moncongloe释放原件与各地拘押名册；G7 1998—2026政党、工会、幸存者组织，缺基层登记/财务/选票/判决执行；G8英美澳中苏的提议—批准—交付—效果，缺对照印尼本地收件/执行原件；G9人物、地名、军区、工会/营地实体关系索引仍不全；G10正式S/C/Q/CV去重、统一年代排序、成熟连续中文HTML仍未完成。来源等级不得以摘要或论文中的档案转录冒充原件。
 
 **精确续接**：①按1968-10-17—18总统访问报告题名申请西加里曼丹省政府《Progress Report》附录VI，逐栏核营地/亲属人口及县区；②查1967-12-14与1968-01-04《Kompas》原报及1967《Pengungsian orang2 Tjina...》地方报告，核军方迁离、地方协作与经济影响；③ANRI SOBSI No.151与1947大会程序及1948成员工会退出名册；④转向Aceh、Flores、东爪哇的军令/县级受害者记录作跨地区对照；⑤安全恢复claim-ledger读取后对正式CSV去重并把成熟地方过程纳入readable-history。**GOAL ACTIVE/OPEN，绝不宣称全量完成。**
+
+
+## 2026-11-24 04:00 CST｜ONGOING / GOAL仍进行｜Delanggu配给分母与Madiun消息渠道
+
+已核读本项目AGENTS、goal-continuity、stage-access、正式四张CSV及chronology；正式claim-ledger blob非空但API正文为空，不覆盖。核读Airlangga学位论文数字PDF检索可见部分：1948-06-17—19 BTN/SARBUPRI/LBT谈判，政府拟覆盖约9000工人、LBT要求约14000；尚无部长原函或工人名册，不能视作罢工总人数。重核Swift第43页关于7月14日Hatta—SOBSI会谈、7月17日罢工结束；7月18日实际复工仍需同期报刊和出勤簿。直接打开FRUS d268/d269，确认1948-09-20美方领事电报不同信息渠道及Madiun地方SOBSI签名件未得。详情与原文链接见 archive/records/continuations/2026-11-24-0400-delanggu-distribution-and-madiun.md；提交 fc50d831728f807508dd89b3af2ebdae0a36715b。下一步：①BTN配给原函与6月会议纪要；②7月14—18日报纸及复工记录；③ANRI警察卷569/1215和劳工卷91；④Aneta 9月18—20日原稿与地方署名件；⑤轮换Aceh军令、Moncongloe释放令和县级工会登记。正式CSV、chronology、成熟中文正文尚未并库，GOAL永久OPEN。此状态文件自身提交SHA需以后续GitHub回执和main HEAD核验。
