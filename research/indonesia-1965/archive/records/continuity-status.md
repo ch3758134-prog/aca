@@ -1616,3 +1616,7 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **长期缺口总账增量**：G4 Sulawesi：2012官方调查摘要全文、1965原令未读，重点军区命令—县政府人事执行—拘捕时间与数字；G6：Moncongloe羁押/工役及释放原件缺失；G2：东爪哇1965年前组织与军区互动缺基层组织会议/企业档案；G10：正式C台账读取异常，CSV并库与连续中文HTML尚欠账。其他G1/G3/G5/G7/G8/G9仍OPEN，勿以本次两链替代全域调查。
 
 **精确续接**：1. 追`KEP. 024/10/1965/PDD/1965`签章件、分送清单及Makassar公务员停职登记；2. 追9,765人的地区/时间/重复拘押统计定义与Kodim 1408记录；3. 追Moncongloe营原始劳动工程、1977释放令及BAP；4. 向Malang Bintaldam核Brawijaya四Korem卷宗与1965年10月电报；5. 轮换G1 1948 GASBRI ANRI493原件和G7 1998后地方工会登记，持续纠正地区失衡。GOAL ACTIVE/OPEN，不宣称全量完成。
+
+
+## 2026-11-23 18:50 CST｜ONGOING / GOAL仍进行｜Sulami 1959 Gerwani组织证言
+已核读1959年Sulami《The Birth and Growth of the Indonesian Women's Movement (Part III)》数字化全文（https://gerwani.logosid.app/teks/14），对照1954章程OCR线索、2023年印尼学位论文摘要及2000—2001工会法原件。Sulami称1950-06-04 Gerwis成立、1954改名、1957年1月182分会/642460会员、同年12月70万会员，并叙述通过PKI/Permai/Partai Rakjat等党派参选；上述人数和议席为组织自述，尚无选举/会费独立底账。详细证据、反证及精准续查见 archive/records/continuations/2026-11-23-1850-gerwani-1959-organizational-voice.md，证据提交SHA `71c8f44bb4a94d51c786622956ac2ecdb26e3b1f`。正式claim-ledger异常未修复，不覆盖；正式四CSV、chronology和中文连续正文未同步。下轮优先：①1959原刊页影；②1948 KOWANI大会及退出组织自述；③1957 Gerwani分会会费名册；④1955/57正式选举当选名册；⑤地方军令、1948 GASBRI及1998后劳工跨期轮换。状态提交自身SHA以写入回执与远程HEAD为准。GOAL永久OPEN。
