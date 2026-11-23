@@ -1744,3 +1744,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **不同G项G6/G7/G9，1996年PDI与PRD镇压，AI同期全文深读**：直接打开 Amnesty International 1996年11月完整报告 ASA21/70/96 https://www.amnesty.org/en/wp-content/uploads/2021/06/asa210701996en.pdf ，印刷页5—7（PDF第5—7页），新增具体行动者与反证：报告引1996-08-31《Jakarta Post》称PDI亲Suryadi派秘书长**Buttu Hutapea**自述领导突袭、事先训练800名PDI成员；委员会要求Suryadi提供800人名单，报告时尚未提交。报告引1996-10-31《Kompas》称一名法庭证人声称自己与约200人获红衫、棍棒、卡车和报酬参加袭击，且本人不是PDI成员。**800是当事方所称训练人数，200是单个证人的自述规模，不是独立核实的突袭总人数，也不能相加。** 1996年政府对AI报告的非正式回应反驳“袭击/镇压”定性，主张这是党内派系冲突、军警奉命克制且未使用枪支；与Komnas HAM关于安全部队共同参与及过度偏袒的调查结论冲突，须并列保存，不将政府回应当事实裁决。AI还记录1996-06 Medan PDI特别大会选出Suryadi与Buttu Hutapea，以及雅加达PDI总部自由演讲论坛与7月27日攻击的组织联系。**证据级别**：AI同期公开报告全文直接核读，内引报刊与法庭证言为转述；1996-08-31《Jakarta Post》、10-31《Kompas》原版、证人笔录、800人名单及警方行动命令未读。不能把PRD、PPBI、SMID成员自动视作该袭击执行者。
 
 **跨G缺口总账继续OPEN**：G1 1948 Delanggu/GASBRI档案原卷；G2 Gerwani/BTI/SOBSI基层名册与原刊；G3 1965跨机关逐时命令；G4 Aceh/北苏门答腊/各爪哇/巴厘/Flores/西加里曼丹/Sulawesi等地军令及受害者原簿；G5 妇女/族群与生存；G6 长期拘押、流亡和1996组织镇压；G7 1998—2026工会/政党实际运行；G8 外国政府建议—批准—交付—效果链；G9 人地组织索引；G10 正式CSV、统一时间线、中文连续正文。**下一精确续接**：(1) A-408扫描PDF逐页核对荷兰来源及巴厘数字原句；(2) 巴厘1965-12《Suara Indonesia》与RPKAD登陆日期；(3) 1996-08-31《Jakarta Post》Buttu Hutapea训练800人原报道；(4) 1996-10-31《Kompas》法庭证人姓名、供词与判决；(5) 轮换1948 Delanggu卷和1965 Aceh原件。没有完成全量研究，GOAL永久OPEN。
+
+
+## 2026-11-24 01:50 CST｜ONGOING / GOAL仍进行｜1948 Delanggu工农组织与国家档案核读
+
+本次重新读取AGENTS、goal-continuity、stage-access、正式source-register/search-log/coverage-matrix/chronology与本状态。正式source-register已至S1534、search-log至Q599、coverage-matrix至CV663。claim-ledger.csv仍返回空UTF-8正文但blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，**禁止覆盖或猜测C编号**。已登记的ANRI目录为S1530，不重复注册。
+
+**直接打开的印尼国家档案馆原始目录（不是所列1948年原件）**：ANRI 1995《Inventaris Arsip Kepolisian Negara RI 1947–1949》PDF https://www.anri.go.id/download/ra-26.-inventaris-arsip-tekstual-sekretariat-negara-kepolisian-negara-ri-19471949-1714018366 ，PDF第24页条目569：国家警察PAM部门1948年2月至10月关于SOBSI的往来信函，一卷复本；PDF第44页条目1215：Delanggu新闻通讯处1948-07-01关于Delanggu事件的报道，一页副本。另条目1211列1948-05-22/25报刊剪辑。目录只证明档案馆著录这些文书，**未读到信函或报道本身**。
+
+**交叉核对而非独立原件证实**：直接打开Elizabeth Ann Swift, *The Road to Madiun* (1989)第42—43页的公开文本转录 https://dokumen.pub/the-road-to-madiun-the-indonesian-communist-uprising-of-1948-0877630356-9780877630357.html 。作者根据1948-08-20警察报告及同期《Berita Indonesia》等称：5月26日起有局部罢工，6月19日劳资谈判破裂后SOBSI中央人员Maruto Darusman参与领导；7月STII、Hizbullah与SARBUPRI、Pesindo之间发生紧张和武装冲突；7月14日哈达与SOBSI代表会面，至7月17日达成结束罢工的安排。另一印尼文二手叙述称7月18日复工，可能是协议日/复工日差异，**不可合并为同一天**。Swift的原始脚注所引警察报告、报刊、参与者记录尚未直接打开；文本转录亦待核出版社印本。
+
+这条链的意义在于把LBT/BTI/SARBUPRI/SOBSI、国营纺织机构BTN、STII、Hizbullah、Pesindo、哈达政府及军警机关放入具体劳动争议过程，不能把工人经济诉求简化为政党阴谋，也不能把后来学者的解释写成当事人直接行动证据。已有chronology与CV661—662覆盖此主题，需先逐条对照后再更新，不重复制造条目。成熟连续中文正文尚未本轮修改。
+
+**精准续接**：（1）向ANRI按馆藏569和1215申请1948原件影像，逐字记录发件人、收件人、日期和内容；（2）查ANRI劳工部卷91的1948-06-14—19 LBT诉求文件与BTN答复；（3）取得1948-08-20警察报告第15、71页及《Berita Indonesia》1948-07-03/04/16原刊，核冲突及各方指挥；（4）核7月14—18谈判协议、罢工结束与实际复工日期，建立逐人组织关系；（5）轮换1965 Aceh/巴厘军令、1977 Moncongloe拘押及1996 PRD与后1998工会实际运行。GOAL永久OPEN。写入前观察远程main HEAD：76d195e2317596e2043e82155d6e0a76eb2caf8a；提交后SHA必须再查询，不能预填自身SHA。
