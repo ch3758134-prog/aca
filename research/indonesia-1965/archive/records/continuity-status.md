@@ -1757,3 +1757,5 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 这条链的意义在于把LBT/BTI/SARBUPRI/SOBSI、国营纺织机构BTN、STII、Hizbullah、Pesindo、哈达政府及军警机关放入具体劳动争议过程，不能把工人经济诉求简化为政党阴谋，也不能把后来学者的解释写成当事人直接行动证据。已有chronology与CV661—662覆盖此主题，需先逐条对照后再更新，不重复制造条目。成熟连续中文正文尚未本轮修改。
 
 **精准续接**：（1）向ANRI按馆藏569和1215申请1948原件影像，逐字记录发件人、收件人、日期和内容；（2）查ANRI劳工部卷91的1948-06-14—19 LBT诉求文件与BTN答复；（3）取得1948-08-20警察报告第15、71页及《Berita Indonesia》1948-07-03/04/16原刊，核冲突及各方指挥；（4）核7月14—18谈判协议、罢工结束与实际复工日期，建立逐人组织关系；（5）轮换1965 Aceh/巴厘军令、1977 Moncongloe拘押及1996 PRD与后1998工会实际运行。GOAL永久OPEN。写入前观察远程main HEAD：76d195e2317596e2043e82155d6e0a76eb2caf8a；提交后SHA必须再查询，不能预填自身SHA。
+
+**2026-11-24 提交续接锚点**：本轮已提交统一状态 c9982930f9f2f49905b563d248b34c95bfa2e561，并将Q600写入正式search-log，提交SHA 9ef022d294687f4dbdb64e4688b5c80f91f5cbd3。以上是写入本段前已核实的提交；本段自身提交SHA以随后远程main查询为准。source-register、claim-ledger、coverage-matrix、chronology及成熟中文正文本轮未更新，仍是OPEN欠账。
