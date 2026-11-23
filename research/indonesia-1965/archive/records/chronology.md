@@ -2201,3 +2201,10 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 
 - **1965-10-05—1968-09-30｜南苏拉威西拘押时间边界（Komnas HAM证人证言）**：2012年Komnas HAM调查摘要印刷页142称，证人将Makassar及Pangkep、Wonomulyo/Polmas、Pare-Pare、Bone、Jeneponto、Bantaeng等地拘捕的开始追溯至1965-10-05，且有延续至1968-09-30的记录；1966年3月以前约**9,765人**被拘捕拘押。此数为官方调查报告转述的地区累计数字，非死亡人数、非逐人登记已核，需追统计口径及原簿。[S140；https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf，印刷页142]
 - **1965-10-18｜南苏拉威西Pepelrada行政排除命令**：Komnas HAM印刷页142明确引述第XIV军区指挥官、Pepelrada Brigjen Solihin所发`KEP. 024/10/1965/PDD/1965`，要求暂时解除PKI及其群众组织成员职务，并记载监控与PKI有密切关系的政府雇员的指示。当前仅有2012年官方调查摘要全文，不是1965年命令原件；须追签发件、分送机关、各单位人事执行及申诉档案。不能把免职命令直接等同于逐人拘捕或处决。[S140；同上印刷页142]
+
+
+### 北苏门答腊工会组织遭袭与长期拘押：原始调查摘要定位补核（2026-11-23）
+
+- **1965-10-14前｜Medan—Binjai路SOBSI办公室**：2012年Komnas HAM调查摘要（正式来源S140，印刷页165—166、同一证言在正文其他位置复述）记录一名10月14日抵达Belawan港的证人陈述：到达SOBSI办公室前，办公室已被据称受军人护卫的人群焚烧；证人称SOBSI负责人**Sakir Sobo**及两名守卫遭斧杀。**时间限定**为证人抵达前，并非独立证实10月14日当天杀害。该证言尚缺BAP原件、死亡登记、警察案卷；报告两处复述不构成两个独立目击者。[S140；https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf，印刷页165—166；全文可读，原始BAP未读]
+- **1965-11-01｜美国驻雅加达使馆Telegram 1290**：正式来源S196原始电报OCR已被登记；该电报涉及**南苏门答腊Palembang**的PERBUM石油工会及Shell、Stanvac炼厂、PUSRI化肥厂SOBSI干部遭拘押的报告。National Security Archive网页编者说明误称North Sumatra，不能将其约600名被拘押者移入北苏门答腊统计，也不能把使馆转述视为当地拘押名册。[S196；https://nsarchive.gwu.edu/media/15705/ocr]
+- **1965-11-30—1978-05｜Medan—Sunggal羁押链**：Komnas HAM印刷页170—171记一名IPPI证人称1965-11-30在Sunggal被拘捕，随后经过Bupertra、Jalan Sena CPM、Jalan Binjai Inrehab、Tanjung Kaso、Jalan Gandhi、Sukamulya等地点，至1978年5月获释。摘要脚注指向**BAP 222/BAP_TPPH 65/II/2009**（该编号在报告其他位置存在月份写法差异，须以原始BAP核对）。这是证人回忆的转押路径，尚非已核逐站收押登记。[S140，印刷页170—171]
