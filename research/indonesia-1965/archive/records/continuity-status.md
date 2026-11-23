@@ -1733,3 +1733,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 本轮已读取AGENTS、goal-continuity、stage-access、continuity-status、正式source-register/search-log/coverage-matrix及archive/records/chronology；claim-ledger.csv仍返回非空blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a 但UTF-8正文空，未覆盖、未虚构C编号。chronology在archive/records/而非根目录。本轮先行保存上述来源层级及日期冲突，未声称四张CSV与成熟正文已完整并库。写入前远程最新提交检索首位：3e3e203d760a9af26c7de41b71ebd0566b0372c4；本状态文件提交SHA需以GitHub回执及写后远程查询核对。
 
 **精准未完事项**：（1）调取1958-06-30 DPR P.336/1958原会议记录，逐人核投票/发言及妇女议员；（2）核1955 DPR与Konstituante当选名册，解决Gerwani 4/5/6口径争议；（3）以1958法及1961 Gerwani纲领为起点，核Garut纺织厂劳动纠纷和地方妇女土地改革委员会成员名册；（4）回到1965 Aceh Kodim-0104/巴厘RPKAD原始命令与名单；（5）轮换1977 Moncongloe释放命令及1996 PRD/PPBI/SMID羁押、1998后工会登记实况。GOAL永久OPEN，政治判断保留作者。
+
+
+## 2026-11-23｜ONGOING / GOAL仍进行｜巴厘A-408原始OCR与1996年PDI行动者证言（跨G核验）
+
+**治理与审计**：本次重新直接读取2026-11-09 completeness-audit 全文，G1—G10均OPEN；读取AGENTS、stage-access、goal-continuity、统一状态、正式source-register/search-log/coverage-matrix及archive/records/chronology。research-status.md不存在；claim-ledger.csv Git blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a 返回空UTF-8正文，禁止覆盖及臆造C编号。正式S/C/Q/CV去重、按时排序和中文历史正文仍属G10欠账。
+
+**G4/G8巴厘1965-12，A-408来源等级升级但OCR损坏**：直接打开美国国家安全档案馆馆藏 https://nsarchive.gwu.edu/document/15720-document-24-airgram-408-joint-weeka-no-48 ，并进一步打开其**原件OCR** https://nsarchive.gwu.edu/media/15720/ocr 。馆藏标1965-12-21、RG84 Entry P339 Jakarta Embassy Files Box10 Folder12-POL2-1。OCR第2节“Repression ...”虽大范围错字，仍可辨识全国“estimated 100,000 deaths”、紧接段落一名荷兰来源告知使馆巴厘“about 10,000”（OCR该句严重错字，不能把约数和身份视为精确转录）。这意味着馆藏说明所述巴厘至少1万可能来自使馆引用的**未具名荷兰消息渠道**，不能当作使馆独立清点，更不能当作军区死者名册。原始扫描PDF尚未逐页视觉核对；下一步直接读PDF核定句子、荷兰消息来源身份、报道时段和“至少/约”的措辞，之后查RPKAD登陆与地方军令。该馆藏网页编辑说明对后续约8万人估计属2017年回顾，不是1965电报当时估算。此前巴厘研究时间争议仍OPEN。
+
+**不同G项G6/G7/G9，1996年PDI与PRD镇压，AI同期全文深读**：直接打开 Amnesty International 1996年11月完整报告 ASA21/70/96 https://www.amnesty.org/en/wp-content/uploads/2021/06/asa210701996en.pdf ，印刷页5—7（PDF第5—7页），新增具体行动者与反证：报告引1996-08-31《Jakarta Post》称PDI亲Suryadi派秘书长**Buttu Hutapea**自述领导突袭、事先训练800名PDI成员；委员会要求Suryadi提供800人名单，报告时尚未提交。报告引1996-10-31《Kompas》称一名法庭证人声称自己与约200人获红衫、棍棒、卡车和报酬参加袭击，且本人不是PDI成员。**800是当事方所称训练人数，200是单个证人的自述规模，不是独立核实的突袭总人数，也不能相加。** 1996年政府对AI报告的非正式回应反驳“袭击/镇压”定性，主张这是党内派系冲突、军警奉命克制且未使用枪支；与Komnas HAM关于安全部队共同参与及过度偏袒的调查结论冲突，须并列保存，不将政府回应当事实裁决。AI还记录1996-06 Medan PDI特别大会选出Suryadi与Buttu Hutapea，以及雅加达PDI总部自由演讲论坛与7月27日攻击的组织联系。**证据级别**：AI同期公开报告全文直接核读，内引报刊与法庭证言为转述；1996-08-31《Jakarta Post》、10-31《Kompas》原版、证人笔录、800人名单及警方行动命令未读。不能把PRD、PPBI、SMID成员自动视作该袭击执行者。
+
+**跨G缺口总账继续OPEN**：G1 1948 Delanggu/GASBRI档案原卷；G2 Gerwani/BTI/SOBSI基层名册与原刊；G3 1965跨机关逐时命令；G4 Aceh/北苏门答腊/各爪哇/巴厘/Flores/西加里曼丹/Sulawesi等地军令及受害者原簿；G5 妇女/族群与生存；G6 长期拘押、流亡和1996组织镇压；G7 1998—2026工会/政党实际运行；G8 外国政府建议—批准—交付—效果链；G9 人地组织索引；G10 正式CSV、统一时间线、中文连续正文。**下一精确续接**：(1) A-408扫描PDF逐页核对荷兰来源及巴厘数字原句；(2) 巴厘1965-12《Suara Indonesia》与RPKAD登陆日期；(3) 1996-08-31《Jakarta Post》Buttu Hutapea训练800人原报道；(4) 1996-10-31《Kompas》法庭证人姓名、供词与判决；(5) 轮换1948 Delanggu卷和1965 Aceh原件。没有完成全量研究，GOAL永久OPEN。
