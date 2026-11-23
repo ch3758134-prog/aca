@@ -2275,3 +2275,7 @@ Davidson与Kammen 2002年《Indonesia's Unknown War and the Lineages of Violence
 ### 1948年5月—7月｜Delanggu的劳动者类别、工会复工指令与报刊原件线索（待统一排序）
 
 H. Purwanta在2014年《Patrawidya》15卷3期《Gerakan Kiri di Klaten: 1950–1965》（页357—372）引用1948年5月21日《Suara Ibu Kota》所载声明，说明SARBUPRI与BTI共同参与Delanggu的抗争，原因之一是部分小农同时在国家纺织机构BTN所属种植园劳动，工农面对同一雇主。作者转述1948年7月19日《Merdeka》第785号第2页关于协议涉及正式、计件、季节工及佃农的衣料分配，和米粮/现金工资安排，并称SOBSI中央曾要求7月18日07:00复工。**这属于后出论文对当时报刊及指令的转述；本项目尚未打开1948年报纸原页、SOBSI指令或BTN工人名单**，不得将07:00当成已核验实际到岗时间。该论文在一处写罢工于6月17日完全结束，却又描述7月18日复工，存在内部时间矛盾；须保留，不擅自修正。另一研究（Airlangga学位论文，既有续查）将衣料分配谈判人数概述为约9千对约1.4万，须用BTN原始答复核精确数字及正式工/季节工口径。来源S1535：https://www.academia.edu/82771243/Patrawidya_Vol_15_No_3 。
+
+### 1966年4月18日—8月17日｜亚齐北部的集中拘押、军方接收与驱逐期限（待统一排序）
+
+Jess Melvin 2013年研究全文转引军方《Perkembangan 1966》第4—5页：4月18日晚，北亚齐Pantja Tunggal与KAPPI学生代表开会，讨论允许学生将被称为“RRT Chinese”的人集中移交军方；随后有**304人**被集中在县长办公室院内并交北亚齐军区指挥官。**304是军方叙述中被集中移交的人数，不是死亡人数**，其拘押、转移、释放与生死结局均未核实。4月22日Lhoksukon骚乱，4月23日亚齐军区指挥官Ishak Djuarsa赴Bireuen/Lhokseumawe，24日要求调查；Melvin将5月8日记作驱逐“外国籍华人”命令发布日，将8月17日记作离境期限及护送承诺终止日。两日期不可合并为同一行动。该研究引用《Perkembangan》及口述，但本次没有直接取得军方原件或签署命令，不能把作者解释视为原令逐字内容。已登记S612，另有同一军方档案群S855，不构成独立互证。原文：https://journals.sagepub.com/doi/full/10.1177/186810341303200304 （正文“Escalation of Violence in North Aceh”“Flight from Banda Aceh”）。
