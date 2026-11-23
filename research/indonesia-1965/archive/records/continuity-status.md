@@ -1521,3 +1521,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准下一步**：①查d177所引1965-11-17 Embtel 1479和11-16 Airgram 331，核Green与Saito会谈及苏加诺1.5亿盾指控来源；②取得CIA OCI 3041/65、2940/65、2395/65、3096/65原件，比较各日军方目标与粮食问题分析；③检索1965年10—12月苏联驻雅加达外交电报、武器运输单及印尼国防部签收，独立核所谓纳苏蒂安谅解；④追中爪哇1965年11月具体军区拘捕、处决与地方行政清洗档案，检验CIA报告的泛称；⑤轮换SOBSI/BTI/Gerwani基层原件、1948 Delanggu及1998—2026工会/学生组织档案，并解决claim-ledger原始blob读取。
 
 **提交锚点说明**：本段记载写入前可见main SHA；本次提交自身SHA只能以GitHub写入回执和提交后远程main核验，不能在同一文件内容中自指。GOAL继续ACTIVE / OPEN-ENDED。
+
+
+## 2026-11-23 11:51 CST｜ONGOING / GOAL仍进行｜KAP-Gestapu经费与PKI领导名单转交的不同证据层级
+
+**读取与安全基线**：重读AGENTS、goal-continuity、stage-access、正式source-register/claim-ledger/search-log/coverage-matrix及chronology。写入本段前远程main HEAD=3fac60bf01c4c61884c304d1b7aba2eae67f0a29。本次已提交chronology更新 f36f5e38a3412ac54284d14757c9fcae16fddce8 和search-log Q596更新 3fac60bf01c4c61884c304d1b7aba2eae67f0a29。来源去重发现FRUS d179已正式登记S175、d185已登记S032，故没有重复创建S号。claim-ledger.csv blob=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但读取正文仍为空，未覆盖，未虚构C号；coverage-matrix本轮未更新。成熟中文历史正文仍待与印尼原始材料连贯核验后再写。
+
+**原件核读A（1965-12-02）**：直接打开美国国务院FRUS d179 https://history.state.gov/historicaldocuments/frus1964-68v26/d179 ，Green致Bundy使馆1628号电报第1—2段：赞同向Adam Malik提供五千万印尼盾，供KAP-Gestapu活动；称该组织由军方推动、平民工作人员执行，与军方协调，Malik为关键顾问及筹资者而非负责人。**只能确认为大使赞同与其对组织关系的描述；并非支付回单或地方杀戮指挥令**。删节与12月1日Deptel 708待核。
+
+**原件核读B（1965-12—1966-08）**：直接打开FRUS d185编者注 https://history.state.gov/historicaldocuments/frus1964-68v26/d185 。其引述1965-12-17 A-398（95个职务/67人，另有18人去向）、1966-03-11 A-564、1966-08-10 A-74。A-74称A-398去来源标识版1965年12月已提供印尼政府且安全机关似在使用，另涉及Partindo和Baperki名单；1990年Martens承认提供名单但否认上级授权。**编者注直接打开，所引三份airgram原件未打开；具体转交接收人、名单使用及个别受害因果仍未证实**。不把1990年自述当作独立的1965年转交凭证。
+
+**精准未完事项**：①取得1965-12-01 Deptel 708及美方五千万盾拨款、付款和收据，辨别批准/支付/使用；②按NARA RG59 POL12 INDON取得A-398附件及1966-08-10 A-74原影印，按RG84 Lot69 F42取得A-564，核名单版本与人数；③从印尼政府/军方及KAP-Gestapu地方机构寻找收件簿、人员名单、组织会议和财务记录，对照美方描述；④轮换1965 Aceh Langsa/Kuala Simpang军方Chronologis及Baperki声明原影印，与中央名单转交是否关联分别检验；⑤轮换1948 Delanggu/SOBSI/BTI/Gerwani和1970—2026劳工组织地方原件，并以安全字节读取方式修复claim-ledger空正文异常后再正式并库。
+
+**提交锚点**：上列3fac60bf01c4c61884c304d1b7aba2eae67f0a29是本次状态写入前已核验远程HEAD；本段自身提交SHA无法在同一原子提交正文中预知，应以GitHub写入回执及随后远程HEAD核验为准。GOAL永久ACTIVE / OPEN-ENDED，不以此段停止。
