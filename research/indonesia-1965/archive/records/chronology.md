@@ -2194,3 +2194,7 @@ IRPS于2021年转载Petrik Matanasi的Tirto历史报道，引用1923年5月9日�
 
 - **1965-12-08（美国303委员会备忘录，全文未解密）**：FRUS第182号仅公开标题、日期、形成机构及“4 pages of source text not declassified”说明。**只能证实文件存在及档案位置，不能推断委员会在此日批准、否决或执行任何援助。** 原件线索：National Security Council, Special Group/303 Committee Files, Subject Files, Indonesia。 [https://history.state.gov/historicaldocuments/frus1964-68v26/d182]
 - **1965-12-13（美国国防部内部意见）**：Blouin致Friedman备忘录回顾美国驻雅加达使馆对紧急大米援助的探询：国务院担心秘密援助不可行、局势未定且可能使苏加诺—苏班德里奥受益；Blouin则主张若纳苏蒂安—苏哈托军方领导层正式请求且确有需要，应及时考虑不附政治条件的短期大米援助。文件提及12月3日雅加达1634号、12月11日1722号、12月9日国务院741号及12月10日1712号电报。**这是跨部门政策分歧和请求线索，不是大米购买、批准或交付证明。** [FRUS第183号，https://history.state.gov/historicaldocuments/frus1964-68v26/d183]
+### 1963—1966｜地方组织与军方名单审查（2026-11-23核读，尚未统一排序）
+- **1963年5月1日，Kupang（Timor）**：van Klinken 2014（正式S478，第9章页216）记述PKI及关联组织在Merdeka球场举行劳动节集会，出现批评省长W.J. Lalamantik标语；此为后出研究叙述，未直接取得当日报纸、组织会议文件。
+- **1965年2月27日、4月10日、7月9日，Namlea/Kapuas/Pontianak**：S478第9章页215–216引用这三期《Harian Rakyat》涉及Namlea的35册书籍、Kapuas Gerwani言论及Pontianak Chen Chiang楼Gerwani集会中的妇女参与议题。**目前直接阅读的是学术著作引述，原报纸未读；日期为报纸日期，不应直接冒充活动发生日。**
+- **1966年2月27日下午至夜间，Sikka/Maumere（Flores）**：S478第10章页240–241译引匿名1974《Menjaring Angin》手稿：KOMOP、调查队与党派代表在县议会厅开会，后转Soemarno少校住所，讨论24名被拘者A类“secured”分类，按Lela/Kuarwang、Nita、Koting各8人。来源为**1974年回顾手稿经2014年学者译引**，非当日会议纪要或逐人死亡证明。S947的2013年同作者讲演对是否当晚处决措辞更强，须以原稿和逐人记录解决，不能当独立佐证。
