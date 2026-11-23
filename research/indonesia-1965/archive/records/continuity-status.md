@@ -1586,3 +1586,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 
 ## 2026-11-23 16:55 CST｜ONGOING / GOAL仍进行｜1964—1967援助政策跨期原件核读
 直接核读FRUS d9（1964-01-09 Rusk对澳外长信）、d244（1967-08-09 NSC会议）、d249（1967-11-17 Rostow建议，脚注记11-21总统批准）。确认1964对新增稻米援助设限而继续既有PL480与培训；1967讨论多边援助及总统批准1968财团美国最多1.1亿美元承诺方案。均不等于实际采购、运输、签收或地方效果。详细原文链接、证据等级与五项精准未完事项见 archive/records/continuations/2026-11-23-1655-1964-1967-aid-bridge.md；证据提交SHA `68192446f0108cd393c3b20c6952e5e81dc1af85`。下一步核1963-12-16澳方信、1964 PL480提单、1967 NSC d241/会议笔记、1967-11-21财团纪要、1968合同与印尼收据；轮换SOBSI/BTI/Gerwani与地方军令。正式CSV/chronology/成熟正文未同步，claim-ledger不可读，禁止虚构编号。状态提交自身SHA以写入回执与远程HEAD为准。GOAL永久OPEN。
+
+
+## 2026-11-23｜ONGOING / GOAL仍进行：Aceh命令日期与Flores原稿保存地交叉核验
+
+已重新直接读取2026-11-09完整性审计G1—G10、AGENTS、stage-access、goal-continuity及正式chronology、source-register、search-log、coverage-matrix。正式CSV位于archive/records/而非研究根目录。claim-ledger.csv返回blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但UTF-8正文零字符；未覆盖，未分配C号。正式source-register已存在S612（Melvin 2013）、S472（Melvin 2018）、S456（Prior 2011）、S478（van Klinken 2014），本次不重复建S号。
+
+**G4/G5 Aceh具体行政时序：**本次直接打开Melvin 2013公开期刊HTML全文（https://journals.sagepub.com/doi/full/10.1177/186810341303200304），复核其引述的1965年10月29日Ishak Djuarsa以Pepelrada身份签发的Surat Keputusan：文书称效力追溯至10月20日，同时要求相关政治/群众组织领导人最迟10月25日向Pepelrada/CPM/地方警察报告。**签发日在报告期限之后**，是值得独立核对原件签章、登记、公告、追溯条款与实际拘捕日期的程序异常；不能把10月25日直接写成命令公开发布日，也不能据此自动断言所有逮捕非法或名单在29日前已实际执行。Melvin引用的1966年军方Chronologis和1965年Surat Keputusan原件未直接打开；目前是学者全文对原件的摘录。10月14日Blang Pidie与Sama Dua两地被杀者数据来自同一军方Chronologis，不是独立证人统计；Sama Dua四名华裔姓名Hap Tjok、Min On、Bun Tok Seng、Sio Nam仍须核原文拼写与个人档案。Melvin还指出Langsa 18日Baperki声明所称苏加诺灭绝性广播无真实对应；这是研究者核查判断，不应将伪称总统讲话写成总统实际指令。
+
+**G4/G9 Flores跨来源来源谱系：**直接打开John Mansford Prior 2011《The Silent Scream of a Silenced History》公开期刊PDF（https://repository.divinity.edu.au/divinityserver/api/core/bitstreams/662d52ff-005b-4845-918c-959a06ea50d0/content），脚注31指称匿名约130页《Menjaring Angin》原稿保存于SVD Ende Provincial archives，作者曾参与屠杀行政秘书工作，且原稿作者偏向Sikka地方建制派。2014 van Klinken对1966-02-27 Sikka会议的叙述与Prior均依赖这份匿名手稿，不构成两份独立会议记录。**新增可执行档案路径是SVD Ende省档案馆原稿的复制/馆藏定位**，而不是继续重复引用学者；应先核页75—76及1966-02-27会议段，再核Kogam第22号指令与逐人名单。不能把“secured”自动等同逐人已处决。
+
+**G1—G10持续缺口：**G1早期GASBRI/ISDV及1948组织原件；G2 Gerwani/BTI/SOBSI原刊与地方账目；G3跨机关逐时原件；G4 Aceh/Flores之外各省地方军令与名单；G5妇女/族群个案独立核实；G6监禁流亡及组织继承；G7 1998后工会地方实施；G8外援交付证据；G9人物地点关系；G10正式台账和中文正文并库。均OPEN，不能以本次两个地区代表全国。
+
+**精确续接：**（1）追Aceh Surat Keputusan 1965第2—3页及签发/公告登记，解释29日签发、20日追溯、25日截止的时间差；（2）查1966 Chronologis第8—9页与Blang Pidie/Sama Dua死亡登记；（3）向SVD Ende省档案馆定位匿名《Menjaring Angin》约130页手稿及75—76页影印；（4）检索Flores Kogam Instruksi No.22与Sikka会议名单、拘押登记；（5）转向未充分覆盖的Sulawesi/北苏门答腊原始地方记录及1948 GASBRI ANRI第493号。未解决正式CSV并库和阅读版HTML欠账。GOAL仍进行。
