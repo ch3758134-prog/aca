@@ -2232,3 +2232,12 @@ Gerwani中央领导机构DPP出版的《Program Gerwani》称纲领于雅加达�
 - **1974-08-08—1977-12-20，Moncongloe**：Komnas HAM 2012调查摘要记C3分类释放文书（1974-08-08）及1977-12-20的SPRIN/802/TPD/XII/1977将部分囚犯由完全拘押改为居家拘押；证人称466名其他人同日离营。Taufik Ahmad 2008书称约869人于1977获释、42人转Nanga-Nanga；人数时段/对象不同，且原始名单均未读，不得相加或直接比较。[S140；https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf；https://www.academia.edu/42697596/MONCONGLOE_MONCONGLOE_DESANTARA]
 - **1996-07-27—08-09，雅加达及各地**：PDI总部遭袭后Amnesty International 7月29日通报称206—241人遭羁押；8月9日PDF（ASA21/56/96）称7月30日以后至少50人被捕、24人仍在押，警方8月7日称136人仍在押。统计日期、范围不同，不能累加；该组织警告军方将事件归咎PRD并对学生/工会活动者进一步拘押。AI报告为同期人权机构调查记录，不是完整警察拘押名册。[https://www.amnesty.org/en/documents/asa21/048/1996/en/；https://www.amnesty.org/en/wp-content/uploads/2021/06/asa210561996en.pdf]
 - **1996-10-12—12，雅加达**：美国国务院1996人权报告转述Komnas HAM 10月12日报告五死、149伤、23失踪，另记政府承认四死；并记录Muchtar Pakpahan及PRD成员（含Budiman Sudjatmiko）被拘及12月审判。原始Komnas报告和审判卷宗未读；死亡与失踪不是可相加的独立死亡总数。[https://1997-2001.state.gov/global/human_rights/1996_hrp_report/indonesi.html]
+
+
+### 1996年7月27日—10月12日｜Komnas HAM同期原始声明的可读译文（非二手摘要）
+
+Amnesty International 1996年11月报告ASA 21/70/96**附录I全文重印Komnas HAM 10月12日声明英文译文**，声明署名Munawir Sjadzali与Baharuddin Lopa。委员会区分07-27 06:15—09:15的PDI中央总部暴力接管，与11:00至23:00后发生的多街区骚乱；认定亲Suryadi派与安全机关共同实施前者、当局对党内争议过度偏袒。委员会列五名死者**Asmayadi Soleh、Suganda Siagian、Slamet、Uju bin Asep、Sariwan**，分别有钝器伤、烧伤、钝器伤、疑似心脏病（未尸检）、枪伤（当时无尸检）的不同证据状态；149名伤者含军警；10月10日仍报23人失踪，定义包括未返家、失联、在途或可能死亡；8月3日136人在押，10月12日人数未获。不得把23失踪视作23死亡，或把不同日期的拘押统计累加。附录II有姓名/地点/拘押机关/释放状态的逐人表，需与警方法庭原件交叉。[1996同期委员会声明英文译文全文：Amnesty International ASA21/70/96，附录I印刷i—v页、附录II vi页起，https://www.amnesty.org/en/wp-content/uploads/2021/06/asa210701996en.pdf；印尼文原签署件未读]
+
+### 1965年12月21日｜美国使馆A-408对巴厘杀戮的同期估计（馆藏说明级）
+
+GWU国家安全档案馆对1965-12-21 A-408（Joint Weeka No.48）的馆藏说明称使馆估计全国至少10万人死亡，其中巴厘至少1万人；此为**当时外交报告的估计**，非可核逐人死亡数，也非直接证实RPKAD命令。原件馆藏RG84 Entry P339 Box10 Folder12-POL2-1；已打开说明页，下一步打开PDF/OCR逐段比对。Robinson 2017论文注15明确其早期“RPKAD到来后才开始杀戮”论断经Jenkins/Kammen的部队抵达前数日证据修正，但外来部队抵达后杀戮明显加剧这一点无争议。必须取得巴厘各县地方军政原件，不能以全国总数替代地方机制。[https://nsarchive.gwu.edu/document/15720-document-24-airgram-408-joint-weeka-no-48；https://www.tandfonline.com/doi/abs/10.1080/14623528.2017.1393935]
