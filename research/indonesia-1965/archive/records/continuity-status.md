@@ -1508,3 +1508,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 ## 2026-11-23｜ONGOING / GOAL仍进行｜巴厘1968逐人拘押BAP索引与1965美国通信设备
 
 重新读取2026-11-09 G1—G10完整性审计、AGENTS、stage-access、goal-continuity、正式source/claim/search/coverage及chronology和滚动缺口总账。直接核读Komnas HAM 2012年1965—1966调查摘要全文第109、123页：1968年Denpasar考试期间拘押及Gianyar—Pekambingan转押证言，**脚注5明确BAP No.30，AN. Dewa Putu Ngurah Djenawi**；另第79页有1966年海关C2甄别、1968-09-23 Padangbay逮捕与1977-12-20释放证言，身份尚未与前者比对，不得合并。独立复核FRUS d175第3节关于1965-10-13已提供有限通信器材给Nasution警卫的同期文件说法，与11-17另案提案及12-17仅采购阶段区分；d181 12-04医药援助内部争论仍非到货证明。证据等级、缺件及地域索引已记入global-gap-tracker.md，正式claim-ledger读取仍为空未覆盖。下一精准动作：（1）追Komnas HAM BAP No.30原件及Polda Bali、Gianyar、Pekambingan 1968拘押登记；（2）追1966 Badung海关C2甄别及1968-09-23 Padangbay拘捕卷宗；（3）追美国1965-10-13通信器材出库/签收及303委员会11-19、12-17会议原件；（4）转向ANRI GASBRI 493及BTI地方组织原刊；（5）在修复claim-ledger读取后按最大正式编号去重并库，推进chronology及成熟中文正文。**G1—G10全部OPEN；长期GOAL未完成。**
+
+
+## 2026-11-23 10:55 CST｜ONGOING / GOAL仍进行｜FRUS 177/178原文复核
+
+本轮重新读取AGENTS、goal-continuity、stage-access、正式四CSV、chronology与续接状态；claim-ledger.csv仍返回空正文，blob=362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，禁止覆盖和编造C号。写入前最近可见main提交=890648daf5b0a79ba6f8dab2435d633ee051266e（2026-11-23T02:50:44Z，提交搜索结果；写入后需再核）。
+
+**直接核读官方公开原文**：FRUS XXVI d177（1965-11-19雅加达使馆1511号电报）https://history.state.gov/historicaldocuments/frus1964-68v26/d177 ，第1—4段：Green主张对向军方提供重大经济援助采取审慎、有条件立场，区分少量用于应对PKI行动的援助与大规模经济援助；其判断军方是否继续抗衡苏加诺/苏班德里奥仍不确定。这是驻外使馆的政策建议，不能当作美国政府整体决定或已实施援助。FRUS d178（1965-11-22 CIA OCI 2943/65）https://history.state.gov/historicaldocuments/frus1964-68v26/d178 ，第1、3、6—10段：CIA评估军方打击PKI组织并拘押/清洗党员、支持者；其分析区分军方反PKI与反马克思主义意识形态，报告苏联武器供应未中断及纳苏蒂安可能与苏联达成谅解。所谓纳苏蒂安—苏联谅解属于情报转述和分析推测，尚无苏方或印尼签署文件；军方内部思想立场的CIA概括也不是独立普查。d178第52—54行脚注指出OCI 2940/65、3041/65、2395/65及3096/65尚待分别取得原件。
+
+**证据比较**：11月19日使馆建议不立即扩大经济援助，与11月22日CIA判断军方仍维持苏联武器供应关系可以并存，不能简化为军方已全面转向美国或美苏共同策划具体地方杀戮。两份美国政府内部文件属于不同机构判断，不是对印尼地方行动的两份独立实地调查。当前来源表/chronology是否已含相同FRUS链接须以正式文件全文去重为准；本轮未新分配S/C编号，也未修改正式CSV和成熟中文正文，尚属未完成并库。
+
+**精准下一步**：①查d177所引1965-11-17 Embtel 1479和11-16 Airgram 331，核Green与Saito会谈及苏加诺1.5亿盾指控来源；②取得CIA OCI 3041/65、2940/65、2395/65、3096/65原件，比较各日军方目标与粮食问题分析；③检索1965年10—12月苏联驻雅加达外交电报、武器运输单及印尼国防部签收，独立核所谓纳苏蒂安谅解；④追中爪哇1965年11月具体军区拘捕、处决与地方行政清洗档案，检验CIA报告的泛称；⑤轮换SOBSI/BTI/Gerwani基层原件、1948 Delanggu及1998—2026工会/学生组织档案，并解决claim-ledger原始blob读取。
+
+**提交锚点说明**：本段记载写入前可见main SHA；本次提交自身SHA只能以GitHub写入回执和提交后远程main核验，不能在同一文件内容中自指。GOAL继续ACTIVE / OPEN-ENDED。
