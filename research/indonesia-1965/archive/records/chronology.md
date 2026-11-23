@@ -2241,3 +2241,8 @@ Amnesty International 1996年11月报告ASA 21/70/96**附录I全文重印Komnas 
 ### 1965年12月21日｜美国使馆A-408对巴厘杀戮的同期估计（馆藏说明级）
 
 GWU国家安全档案馆对1965-12-21 A-408（Joint Weeka No.48）的馆藏说明称使馆估计全国至少10万人死亡，其中巴厘至少1万人；此为**当时外交报告的估计**，非可核逐人死亡数，也非直接证实RPKAD命令。原件馆藏RG84 Entry P339 Box10 Folder12-POL2-1；已打开说明页，下一步打开PDF/OCR逐段比对。Robinson 2017论文注15明确其早期“RPKAD到来后才开始杀戮”论断经Jenkins/Kammen的部队抵达前数日证据修正，但外来部队抵达后杀戮明显加剧这一点无争议。必须取得巴厘各县地方军政原件，不能以全国总数替代地方机制。[https://nsarchive.gwu.edu/document/15720-document-24-airgram-408-joint-weeka-no-48；https://www.tandfonline.com/doi/abs/10.1080/14623528.2017.1393935]
+
+
+### 1965年12月7—11日｜巴厘RPKAD到达与地方报纸报道的分层核验（原刊待取）
+
+John Roosa 2013年开放论文《Who Knows?》脚注51（印刷第20页）明确给出两条**可精确追索的1965年同期报刊**：1965-12-10《Suara Indonesia》〈Panglima Brigdjen Sjafiudin: ‘G 30 S’ harus dipatahkan〉和1965-12-11同报〈RPKAD bantu penerbitan [sic] di Bali〉。Roosa据报纸研究认为一支RPKAD连队在**12月7日**到达、另有部队在**12月10日**抵达；这是一位历史学者根据报纸所作的时间重建，**不是本项目已经打开两期报纸原件或部队行军日志**。Roosa还区别早期杀戮与被拘押者由卡车运往处决地点的大规模杀戮，后者他认为到12月中旬才开始。Geoffrey Robinson 2017论文脚注15明确修正其早期“RPKAD到来后才开始杀戮”的判断，接受部队抵达前数日已发生杀戮的证据，同时认为外来部队部署后暴力急剧扩大。必须将“首次地方杀戮”“首批RPKAD抵达”“拘押者集体处决扩大”作为**三个不同事件节点**，不能互相替代。[既有S372（Roosa 2013开放论文全文），S374（LOC馆藏目录，仅目录），Robinson 2017 https://doi.org/10.1080/14623528.2017.1393935；原刊、RPKAD军令、县级死亡/拘押名册均未读]
