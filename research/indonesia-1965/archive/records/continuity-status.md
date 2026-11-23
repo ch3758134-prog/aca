@@ -1803,3 +1803,18 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 ## 2026-11-24 04:00 CST｜ONGOING / GOAL仍进行｜Delanggu配给分母与Madiun消息渠道
 
 已核读本项目AGENTS、goal-continuity、stage-access、正式四张CSV及chronology；正式claim-ledger blob非空但API正文为空，不覆盖。核读Airlangga学位论文数字PDF检索可见部分：1948-06-17—19 BTN/SARBUPRI/LBT谈判，政府拟覆盖约9000工人、LBT要求约14000；尚无部长原函或工人名册，不能视作罢工总人数。重核Swift第43页关于7月14日Hatta—SOBSI会谈、7月17日罢工结束；7月18日实际复工仍需同期报刊和出勤簿。直接打开FRUS d268/d269，确认1948-09-20美方领事电报不同信息渠道及Madiun地方SOBSI签名件未得。详情与原文链接见 archive/records/continuations/2026-11-24-0400-delanggu-distribution-and-madiun.md；提交 fc50d831728f807508dd89b3af2ebdae0a36715b。下一步：①BTN配给原函与6月会议纪要；②7月14—18日报纸及复工记录；③ANRI警察卷569/1215和劳工卷91；④Aneta 9月18—20日原稿与地方署名件；⑤轮换Aceh军令、Moncongloe释放令和县级工会登记。正式CSV、chronology、成熟中文正文尚未并库，GOAL永久OPEN。此状态文件自身提交SHA需以后续GitHub回执和main HEAD核验。
+
+
+## 2026-11-23｜ONGOING / GOAL仍进行｜Flores Sikka 1966地方筛选机制与2000工会登记法
+
+**审计与治理**：本次直接读取2026-11-09 completeness-audit全文，逐项检查G1—G10；读取AGENTS、stage-access、goal-continuity、滚动状态、正式source-register/search-log/coverage-matrix及archive/records/chronology。research-status.md在archive/records路径404；claim-ledger.csv blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a非空而接口正文为空，严禁覆盖或虚构C号。正式来源S140（Komnas HAM 2012印尼语调查摘要）、S478（van Klinken 2014专著全文）已登记，不重复计独立来源。最新状态中另有2026-11-24 04:00 CST的Delanggu续查，保留其未结事项，不覆盖。
+
+**长期链G4/G5/G9｜Flores/Sikka Maumere 1966-02-27**：重新直接打开van Klinken《The Making of Middle Indonesia》第十章全文第240—241页（https://pure.uva.nl/ws/files/2526919/166060_488108.pdf），定位作者翻译的1974年匿名Maumere记述第75—76页：1966-02-27下午Sikka县议会会议由KOMOP参谋部门、G30S调查组与政党/社会组织参与；Karel Elkel、Jos. U. Tokoh主持；天主教组织发言人E.P. da Gomez、Herman Joseph起初拒绝由民间组织决定谁应被“secured”，会议后转至Soemarno少校驻地，在持枪军人压力下逐名表态；记述称当晚24名被拘者被归入A类，分Lela/Kuarwang、Nita、Koting三组各8人。记述还点名PNI代表Th.M. Sogo、NU代表Umar Salia、Parkindo代表W.S. Pandy等。**证据等级：学术专著全文直接核读、其中1974匿名叙述的英文译文；1974原稿、1966会议记录、KOGAM第22号指令、24人原始名单及处决/埋葬记录均未读。**“secured”可能是致命决定的隐语，但不能在无原始死亡证明时把每个名字直接认定为已核实死者。应按角色区分军方组织、被迫出席、当事人陈述与作者分析，避免把天主教徒或PNI全体当成统一执行者。
+
+**交叉证据G4/G5｜Komnas HAM 2012印尼语摘要原文第118—120页**（https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf）：直接核读Yakobus Heret证言，称Maumere一处事先挖掘的坑旁约84名捆绑者遭杀害，报告记36名来自监狱，证人称被迫亲手杀害10人、其兄1人；报告另载Gelinting警察所的证言，估计至3月15日约500人被杀。**84是证人对一个地点事件的陈述、500是另一证人估计，均非经逐人法医登记的县级总数；两组数字不得相加。** Komnas HAM的法律归责属于调查机关结论，仍须原始BAP、军方/警方记录及独立证词交叉。尤其不能假定2月27日24人即属于上述84人事件，时间地点和名单尚未对上。
+
+**不同G项G7｜2000-08-04工会法实际行政链**：直接打开印尼劳工部官方法规页https://jdih.kemnaker.go.id/peraturan/detail/32 及BPK政府法令页https://peraturan.bpk.go.id/Details/44988/uu-no-21-tahun-2000 ，并核其官方PDF https://peraturan.bpk.go.id/Download/33380/UU%20Nomor%2021%20Tahun%202000.pdf 。第21/2000号法于2000-08-04颁布生效；第5条允许至少10名工人组成工会，第18条要求向地方劳工机关书面申报，第20条规定合规后21个工作日登记及14个工作日内书面通知暂缓理由。**这是法律规范原文/官方文本，不证明各县确实按期登记。** 需要与2001 KEP.16及1998/1999前身规章、县市登记簿和工会投诉对照。官方网页目前称该法有效；2026其他法规变化须核正式修法，不凭第三方网页推断全部条款现行状态。
+
+**G1—G10长期缺口总账（均OPEN）**：G1 1910—49 ISDV/PKI、Delanggu、Madiun及SOBSI No.151原件；G2 1949—65 SOBSI/BTI/Gerwani/青年文化组织基层会议财务与名单；G3 1965跨军政机关逐小时命令和广播；G4 Aceh、北苏门答腊、东中西爪哇、巴厘、Flores、West Kalimantan、Sulawesi等地方军令/名单，本次Flores仅为二手转译与官方调查证言；G5性别宗教族群与幸存者生计、独立个案交叉；G6长期监禁流亡及再组织、Moncongloe释放令；G7 1998—2026工会地方登记与执行、党派选票及幸存者组织，本次法律原文核读；G8英美澳中苏提案—批准—交付—效果原件；G9人物—组织—地点—任职时间索引，新增Sikka可核候选人名；G10正式S/C/Q/CV去重、chronology全局日期排序、成熟中文连续HTML均未完成。障碍为地方档案未取得、部分材料只有转译、claim-ledger接口异常。此次正式CSV、chronology、readable-history未更新，不将状态登记冒充并库。
+
+**精确续接**：①查1974 Maumere匿名稿第75—76页原文、1966-02-27 KOMOP会议簿、KOGAM Instruksi 22及24名被拘者名册；②Komnas HAM BAP Yakobus Heret与Gelinting案证言原卷，按地点和日期核84与500的定义，切勿与24人混同；③2000—2002至少两县劳工登记台账，对照第21/2000号法第18—20条及KEP.16；④西加里曼丹1968省政府《Progress Report》附录VI原件与营地出入记录；⑤轮换1948 Delanggu/Madiun及Aceh军令，并将可成熟叙事并入中文阅读正文。**GOAL ACTIVE / OPEN，绝不宣称完成。**
