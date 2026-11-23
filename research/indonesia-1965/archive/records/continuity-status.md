@@ -1534,3 +1534,8 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准未完事项**：①取得1965-12-01 Deptel 708及美方五千万盾拨款、付款和收据，辨别批准/支付/使用；②按NARA RG59 POL12 INDON取得A-398附件及1966-08-10 A-74原影印，按RG84 Lot69 F42取得A-564，核名单版本与人数；③从印尼政府/军方及KAP-Gestapu地方机构寻找收件簿、人员名单、组织会议和财务记录，对照美方描述；④轮换1965 Aceh Langsa/Kuala Simpang军方Chronologis及Baperki声明原影印，与中央名单转交是否关联分别检验；⑤轮换1948 Delanggu/SOBSI/BTI/Gerwani和1970—2026劳工组织地方原件，并以安全字节读取方式修复claim-ledger空正文异常后再正式并库。
 
 **提交锚点**：上列3fac60bf01c4c61884c304d1b7aba2eae67f0a29是本次状态写入前已核验远程HEAD；本段自身提交SHA无法在同一原子提交正文中预知，应以GitHub写入回执及随后远程HEAD核验为准。GOAL永久ACTIVE / OPEN-ENDED，不以此段停止。
+
+
+## 2026-11-23 UTC｜ONGOING / GOAL仍进行｜西加里曼丹1967—1997及巴厘BAP复核
+已读取AGENTS、stage-access、goal-continuity、2026-11-09 G1—G10审计、正式source/claim/search/coverage与chronology及长期总账。打开HRW 1997-12-01《Communal Violence in West Kalimantan》全文：1967华裔遭袭与1996-97达雅克—马都拉冲突是两个独立事件，前者的约300死亡/55,000迁移为HRW转述历史报告，后者约500死亡/20,000流离失所为HRW当时调查估算，不可合并、不可把回顾当1967地方原件。复核Komnas HAM官方调查摘要第123页BAP No.30（Dewa Putu Ngurah Djenawi）脚注，原笔录仍未取得。证据级别、地区/年代/组织、缺件与阻碍已入global-gap-tracker.md（提交 e7a06f5119cd21b4b1afd120fb77074c40452c31）。正式claim-ledger.csv正文读取仍异常，未改写或虚构编号；本次未同步正式CSV/chronology/中文正文，保留G10欠账。
+**直接续接**：①检索1967 Sanggau Ledo军区命令及达雅克/华裔地方公告；②查1967 Pontianak安置营逐人登记与死亡证明，分清1967及1996—97数字；③索取Komnas HAM BAP No.30与1968 Gianyar/Pekambingan出入簿；④核1948 GASBRI 493与BTI地方原刊；⑤以安全方式读取claim-ledger原始blob，正式去重并库、时间线与成熟中文叙事。G1—G10全部OPEN。
