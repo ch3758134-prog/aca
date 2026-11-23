@@ -623,3 +623,14 @@
 **G4/G5/G6，西加里曼丹1967年10—11月（证据级别：学术文本网络可见摘录，尚未核全文/地方原卷）**：关于Dayak动员的学术文本检索摘录指出1967-10-19 Samalantan出现传递红碗的动员信号，11月上旬Senakin、Darit、Sebadu遭袭，并给出三处合计210死亡的作者陈述；它明确引注1967年省府《Pengungsian orang2 Tjina sebagai akibat gerakan2 orang Daya...》第82页。**此为学术文本摘录而非地方行政原件，也不是210名死者的逐人登记**，不能与HRW历史估计300人、1968省府难民在册存量直接合并。研究文本入口 https://www.academia.edu/15049509/Regime_change_and_ethnic_politics_in_Indonesia_Dayak_politics_of_West_Kalimantan 。新追索重点：1967-10-19动员的村级/军警同期记录、11月Senakin/Darit/Sebadu分地点名册、11月17日军区停止示威命令、上述省府报告第82页原影印；区分地方民间行动、军方命令和作者解释。
 
 **G3/G8/G9/G10及其他地区仍OPEN**：Aceh、北苏门答腊、各爪哇地区、Bali、Flores、Sulawesi的军令/逐人档案与美国FRUS执行记录继续并行；G5妇女组织、G6流亡、G7改革后工会仍为独立缺口。本次没有把目录、网页摘录升级为原始文书全文，也没有把重复来源算独立证据。正式CSV、chronology及中文可读正文仍有并库欠账。
+
+
+## 2026-11-23 UTC｜ONGOING｜G4/G9 西加里曼丹1967原件索引突破 × G1/G2 1945—60地方政治前史
+
+**本次新增实质核验（G4/G9）**：直接打开美国国会图书馆公开托管的Taufiq Tanasaldy, *Regime Change and Ethnic Politics in Indonesia: Dayak Politics of West Kalimantan* (KITLV, 2012)完整PDF，第138—148页（https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/82/94/2020718294/2020718294.pdf）。这将此前仅为学术搜索摘录的1967事件提升到**研究专著全文B**，但其引用的地方原件仍未打开。第138—139页引述1967年西加省府机密报告《Pengungsian orang2 Tjina sebagai akibat gerakan2 orang Daya dalam daerah Kabupaten Pontianak dan Kabupaten Sambas》：10月5—7日Tepo（Air Besar）烧毁/抢掠华人房屋；10月18日Bengkayang已有约1,000名难民；10月19日Samalantan红碗动员；11月初Senakin、Darit、Sebadu三地死亡合计210（作者引用报告，非逐人名册）。**新找到可按题名索取的具体原件**：A.J. Witono《Maklumat》，1967-11-17，藏S. Jacobus E. Frans Layang私人收藏（Pontianak）；同期《Pembangunan》1967-11-21刊载有关命令。专著称命令要求停止示威，违者可遭当场射击，须取命令原文核措辞及收发/执行。第145—146页还记录与“军方统一策划”假说相反的具体材料：Pontianak县长Usman Idris命令难民返村耕种（《Pembangunan》1967-11-09）；若干军官阻止暴徒（Peterson 1968:19,28）。作者承认部分地方军人鼓动驱逐，却认为尚无充分证据证明雅加达层面统一行动方案。**两种解释必须并列，不能将局部鼓动等同全国统一指令。**
+
+**组织行动者突破（G4/G9）**：第148页及脚注145—150明确定位1967-10-31达雅克领袖声明《Tanggapan dan seruan pemuka-pemuka masyarakat Daya Kalimantan Barat di Pontianak》（Sanggau私人收藏），1967-11-03 H.G. Mungok文件《Tjerminkan persatuan... Hantjurkan PGRS/Tjina komunis》及11-05《Mukadimah》（S. Jacobus E. Frans Layang收藏）。作者称Laskar Pangsuma于11月3日成立，11月5日文件列主席团、顾问、秘书处与八个局，附领导名单；这些是研究者阅读/引述的私人原件，**目前并未直接获取原件全文**。需核J.C. Oevaang Oeray、Herman Imang Ngo、H.G. Mungok及F.C. Palaunsoeka实际签署/同意与否；作者特别警告Palaunsoeka被列名可能未经本人同意。此为组织索引中“被列名≠实际参加”的关键反证。
+
+**不同年代/组织链（G1/G2，1945—1960）**：同一专著第1章2—4页直接阅读，作者梳理1945年Persatuan Dayak（PD）形成、1947年DIKB联邦体制下达雅克政治代表、1950年后转型、1955/1958选举与1958—59年地方首长任命、其后Oevaang Oeray一派转Partindo而Palaunsoeka一派转天主教党。这是**学术专著全文B，不是PD党章、1955选票或DIKB政府任命原件**；它提供1967行动者组织背景，不能以1967身份倒推1945年即属PKI。缺件：1945 PD创党文书、1947 DIKB任命令、1955/1958县级选票、1960党派合并决定、Partindo地方干部名册。
+
+**精确下一动作**：①索取1967-11-17 A.J. Witono《Maklumat》及《Pembangunan》11-21影印，对照停止命令；②索取10-31声明、11-03/05 Laskar Pangsuma原件及签名，核成员实际同意；③追《Pembangunan》11-09 Usman Idris返村令与军方防止暴力的Peterson 1968现场记录；④追省府1967报告分村名册和难民营进出登记；⑤交叉轮换G1 GASBRI 493、G2 Gerwani/BTI/SOBSI原刊、G6政治犯流亡、G7后改革工会及G8外国介入。G1—G10全OPEN。claim-ledger.csv SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a 仍返回空正文，绝不覆盖或编造C号；正式CSV/中文正文尚有G10并库欠账。
