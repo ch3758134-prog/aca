@@ -1675,3 +1675,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 直接打开1961年12月14—17日Gerwani第四次全国大会纲领的印尼语数字全文转录 https://gerwani.logosid.app/teks/42 ，核第6—15、20项：同工同酬、产假/经期假、托儿、反解雇、妇女独立土地所有权、妇女进入土地改革委员会和价格分配机制。与既有S459去重，未重复分配S编号。纲领的主张不能直接证明执行；全文转录已读，原印本未读。序言“超过100万会员”是组织自报；文本对妇女政治权利批准法年份同时出现1958与1959，待法律原件核。已正式写入search-log Q599和chronology，提交依次为29a3152cd4860d9ebdb0f99a76292633b506b043、9cedeaaad35a70f471833c5cd8b9ac86c954b217。claim-ledger.csv仍返回非空blob而正文空，禁止覆盖；coverage-matrix和成熟中文正文未并库。
 
 **精准未完**：（1）查1961大会原印本页码、署名、投票/修订记录，核数字转录；（2）查1958/1959第68号法定刊本与1960年第5号土地法第9条，辨析纲领引用差异；（3）找1961—1965 Lamongan/Garut村级土地改革委员会、妇女土地登记、托儿所和工会谈判记录，检验纲领执行；（4）查1955 DPR/制宪会议当选者逐人名册，核4与5争议；（5）轮换1965—1968 Aceh及南苏拉威西军令原件、1970—1998拘押与劳工组织和1998后组织变迁。GOAL OPEN。此段写入前已知最新成功提交SHA为9cedeaaad35a70f471833c5cd8b9ac86c954b217；本状态提交产生的新SHA应由回执与远程main核实。
+
+
+## 2026-11-23 UTC｜ONGOING / GOAL仍进行｜妇女政治权利法律原件 × 南苏拉威西1977释放命令（G2/G4/G6）
+
+本次直接重读2026-11-09完整性审计，逐项保留G1—G10 OPEN；读取AGENTS、stage-access、goal-continuity、chronology、continuity、正式CSV头部，research-status路径不存在。当前正式claim-ledger仍不可安全读取，禁止覆盖和虚构C号。研究分两条不同年代与G项链条推进：
+
+**G2/G5 Gerwani政治权利纲领的法源核验**：直接打开印尼政府法令原文PDF https://www.peraturan.go.id/files/uu68-1958.pdf （全文246行），确认《1958年第68号法》1958-07-17签署、1958-08-28公布并依法生效；1958-06-30众议院公开全体会议第82次通过。第1条批准1952年妇女政治权利公约；第2条排除公约VII条末句及IX条；第3条规定向联合国交存批准书后第90日公约生效。**法律国内公布日≠国际公约对印尼生效日**，后者需核联合国条约交存日期。1961年Gerwani大会数字转录中的1958/1959年号差异，法定年号现可确认1958，但原印本与引用过程未核；该法律本身不能证明Gerwani地方政治参与或妇女权利实际落实。证据级别：政府法令公开全文已直接阅读；Gerwani原大会印本未读。
+
+**G4/G6 南苏拉威西Moncongloe拘押与释放**：直接查阅Komnas HAM调查摘要的公开可检索全文 https://tapol.org/sites/default/files/sites/default/files/pdfs/Komnas%20HAM%201965%20report%20Indonesian.pdf ，第150—154页附近记载证人B于1972年从LP Majene转Moncongloe、1977-12-20依据 **SPRIN/802/TPD/XII/1977** 由完全拘押改为居家拘押；另一证人称同日与466人一起释放，须查该数字是否同一批、名册定义和实际离营情况。证人A于1970-09起被拘押至1977-12-20；报告脚注列BAP 266—269/BAP_TPPH65/III/2009，须逐案索取。**释放出全日拘押≠解除政治监督或获得自由身份**；命令原件、签发机关、执行名单及居家拘押管理原件未读。另一篇Taufik Ahmad 2010报道 https://www.insideindonesia.org/editions/edition-998/survival-through-slavery 讨论营地强迫劳动、地块移交和营地人数；属于后出报道，须核其底层访谈/名册，不能将其数字与Komnas证言自动视为独立。
+
+**长期缺口总账更新**：G1早期组织与1948 Delanggu原卷仍缺；G2新增法定原文与地方实践断裂；G3跨机关逐时仍缺；G4地区原始军令/监禁档案仍缺；G5妇女权利实践与性别遭遇仍缺；G6新增1977释放命令具体编号但原件未取；G7后1998基层组织仍缺；G8跨国援助执行与收据仍缺；G9 Moncongloe/LP Majene及证人关联仍需索引；G10正式CSV、按日期统一chronology和连续中文历史正文仍待并库。下一步直接追：(1) UN Treaty Collection 1952 Convention Indonesia批准书交存与生效日期；(2) Gerwani 1961原印本对68/1958的原文引用；(3) SPRIN/802/TPD/XII/1977原件及1977-12-20名册；(4) BAP 266—269及LP Majene→Moncongloe转押登记；(5) 同步1948 Delanggu原件、Aceh/Flores/West Kalimantan地方军令与1998后工会组织。证据分级严格保持，未宣称局部完成即总体完成。GOAL永久OPEN。
