@@ -1549,3 +1549,8 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准未完事项**：（1）调取国务院INR/IL Indonesia 1963—65档FE-239及12月3日替代方案，核12月1—2日会谈对象和掩护安排；（2）调取1965-12-07 FE-244 Colby—Bundy原件，核提交的具体执行条件及批准；（3）追信用额度、医药采购发票、运输单和印尼军方签收，与d173/d175和d181逐项核验；（4）轮换Aceh Langsa 1965 Baperki声明148人附件、1948 Delanggu/GASBRI及Gerwani原刊；（5）修复claim-ledger原始对象读取并在不覆盖前提下完成四CSV、chronology及成熟中文连续正文同步，同时调查1970—1998拘押/劳工和1998—2026组织制度执行。
 
 **已核实的本次状态写入前最新提交锚点：855ddc5ab0d082fc1dbf0de7dec5f286515b3728。** 状态文件自身提交SHA须从写入回执及之后main核验获得，不能在同一原子提交自指。GOAL ACTIVE / OPEN-ENDED，所有G项继续OPEN。
+
+
+## 2026-11-23 UTC｜ONGOING / GOAL仍进行｜GASBRI 493与西加1968难民统计复核
+重新读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09 G1—G10、continuity-status、正式source/claim/search/coverage及chronology、global-gap-tracker。正式claim-ledger.csv返回SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但正文0字符，未覆盖。沿G1/G2核读ANRI官方1995年警方档案目录493（1948-05-01 GASBRI第1号公告，仅1页派生件）及494（1946—48 PKI成员档，注明不完整）；沿不同地区G4/G5/G6复核已登记S232的1968西加省府难民表二手全文：1967-11 59,850；1968-05 43,941；1968-08 28,028，均为分期在册存量而非死亡或累计流量。来源级别、缺件和精确口径已续入global-gap-tracker，未重复注册S232，也未将档案目录当成卷内全文。
+**精确接续动作**：①向ANRI索取警方卷493单页原文及卷494封套；②追1948-04-25 Solo工人会议同期报纸和SOBSI/GASBRI组织文件；③索取西加省府1968年10月17—18日《Progress Report》附录VI及Pontianak、Singkawang、Mempawah难民营出入/死亡登记；④回到1967年地方军令和省府《Pengungsian orang2 Tjina》原卷，区分迁徙与杀戮；⑤修复claim-ledger读取、对正式CSV和统一chronology安全去重，成熟段落并入readable-history。G1—G10继续OPEN，未完成。
