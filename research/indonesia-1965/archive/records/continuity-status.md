@@ -1483,3 +1483,10 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **正式写入**：chronology新增两条1965年11月节点，search-log新增Q595；source-register已含两份原文故不重复；claim-ledger不可读，coverage-matrix及成熟中文连续正文尚未修改。本次写入前最近已核验提交SHA：chronology `46e2ff18c34b7b3cfdc626bb09fc722081c7bd10`；search-log `1b3cc70f4b67507e198b46cb80ba2cf980e90ff0`。本条续接状态提交后产生的新SHA须以API及远程核验为准，不可能在自身提交正文预知；最新锚点以本次API返回为准。
 
 **精准未完事项**：（1）取得Bangkok 952、Deptel 750、Embtel 920、Djakarta 1427全文，追医药援助采购与到货单；（2）取得Medan FNM-1515/1516与1965-11-10当地报纸原件，核被殴死议员身份及五具尸体报道；（3）寻找Pemuda Pantjasila棉兰分会1965年会议、成员与指挥关系、PNI青年11月2日冲突及军区/警察登记，交叉核威胁与执行；（4）轮换Aceh Langsa Baperki 148人名单、Bali Sutedja 1966-07-26/29原报告和1948 Delanggu档案；（5）修复claim-ledger读取、去重并库后推进1970—1998拘押与劳工组织、1998后工会原件和成熟中文连续叙事。G1—G10全部OPEN；GOAL永久OPEN。
+
+
+## ONGOING / GOAL仍进行｜2026-11-23 UTC：CIA d172与ILO 1998—2004监督
+
+本次重新读取G1—G10审计、AGENTS、授权、GOAL和正式台账；正式claim-ledger.csv仍返回零字符（非空blob SHA），未覆盖。延续此前已核读的FRUS d173/d174与地方棉兰青年组织证据链，同时独立转入G7工会制度。FRUS d172（1965-11-09）全文第7—9段证明CIA提出秘密信用、资金、物资可行性，但明确当时**不建议直接提供武器**；不得以“可行”替代“已交付”。需与后续d173已同意医药援助和通信设备尚在讨论的状态严格分开。ILO 1998年会议记录政府宣称第5号条例改变工会登记、SBSI获得承认；2002和2004年ILO专家委员会原文则持续质疑2000年工会法第21/31/42条及独立司法救济。以上为官方出版全文，但分别证明当时政策意见、政府陈述和国际监督机关法律评价，未核实具体企业落实。
+
+正式变更：global-gap-tracker.md已更新（commit b80d5e4b4ea5dfb0436c23fc6619b588572b6c3c）；未新分配S/C编号。**精确接续**：（1）FRUS d172→d173→d174与Bangkok 952、Deptel 750、Embtel 920、Djakarta 1427串联实际医药/无线电采购交付；（2）Medan FNM-1515/1516、1965-11-10报纸及Pemuda Pancasila地方记录；（3）ILO 1998年第5号条例印尼原文、SBSI地方登记与2000年第21号法第42条实际注销案例；（4）Aceh Langsa Baperki名单、Flores B.061/III/1966、GASBRI 493；（5）定位claim-ledger可读原始对象并同步正式CSV、时间线及成熟中文正文。所有G项仍OPEN，不以一次写入结束。
