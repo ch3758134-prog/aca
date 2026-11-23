@@ -1818,3 +1818,14 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **G1—G10长期缺口总账（均OPEN）**：G1 1910—49 ISDV/PKI、Delanggu、Madiun及SOBSI No.151原件；G2 1949—65 SOBSI/BTI/Gerwani/青年文化组织基层会议财务与名单；G3 1965跨军政机关逐小时命令和广播；G4 Aceh、北苏门答腊、东中西爪哇、巴厘、Flores、West Kalimantan、Sulawesi等地方军令/名单，本次Flores仅为二手转译与官方调查证言；G5性别宗教族群与幸存者生计、独立个案交叉；G6长期监禁流亡及再组织、Moncongloe释放令；G7 1998—2026工会地方登记与执行、党派选票及幸存者组织，本次法律原文核读；G8英美澳中苏提案—批准—交付—效果原件；G9人物—组织—地点—任职时间索引，新增Sikka可核候选人名；G10正式S/C/Q/CV去重、chronology全局日期排序、成熟中文连续HTML均未完成。障碍为地方档案未取得、部分材料只有转译、claim-ledger接口异常。此次正式CSV、chronology、readable-history未更新，不将状态登记冒充并库。
 
 **精确续接**：①查1974 Maumere匿名稿第75—76页原文、1966-02-27 KOMOP会议簿、KOGAM Instruksi 22及24名被拘者名册；②Komnas HAM BAP Yakobus Heret与Gelinting案证言原卷，按地点和日期核84与500的定义，切勿与24人混同；③2000—2002至少两县劳工登记台账，对照第21/2000号法第18—20条及KEP.16；④西加里曼丹1968省政府《Progress Report》附录VI原件与营地出入记录；⑤轮换1948 Delanggu/Madiun及Aceh军令，并将可成熟叙事并入中文阅读正文。**GOAL ACTIVE / OPEN，绝不宣称完成。**
+
+
+## 2026-11-24 04:49 CST｜ONGOING / GOAL仍进行｜Delanggu劳动者分类与复工指令
+
+本次重新核读AGENTS、stage-access、goal-continuity、正式source-register/claim-ledger/search-log/coverage-matrix/chronology及本状态。正式claim-ledger.csv blob 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a仍返回空正文，禁止覆盖和生成C编号。
+
+直接打开2014年Patrawidya第15卷第3期H. Purwanta《Gerakan Kiri di Klaten: 1950–1965》可见全文转录（https://www.academia.edu/82771243/Patrawidya_Vol_15_No_3），并与UNS Gandhi Suryo Prayogo论文摘要（https://digilib.uns.ac.id/dokumen/abstrak/50923/Peristiwa-pemogokan-buruh-di-pabrik-karung-goni-Delanggu-tahun-1948）交叉。Purwanta引用1948-05-21《Suara Ibu Kota》所载工农共同面对BTN雇主的说明，以及1948-07-19《Merdeka》第785号第2页的衣料、米粮与工资待遇分类；作者记SOBSI中央要求1948-07-18 07:00恢复工作。注意这是论文转述，未取得当时报纸、中央指令或实际到岗簿。论文另有6月17日完全结束与7月18日复工的内部矛盾，不能直接改写。此前约9千与1.4万是谈判衣料覆盖人数而非罢工人数；精确数值须回BTN原件核对。
+
+本次正式归档S1535、Q601、CV664及chronology追加段落；提交顺序 b2e15b1ea3c4452dd822bb40ec37c521bab7a543 → 44805c1f57b3cf5bd266b82e7f8b59e6b924f94c → 055bb8546febfc58f0db41af608cfc4f9c0888a0 → a69dc4c7c263d99127ac5e39f34c85997cca83ea。**状态提交前最新已知SHA为a69dc4c7c263d99127ac5e39f34c85997cca83ea；状态提交自身SHA须由GitHub返回后独立核验，不能预先自指写入。** 中文连续历史正文此次未改，因原报和组织指令仍不足以把执行过程写实。
+
+精准未完：①获取1948-07-19《Merdeka》785号第2页，核SOBSI指令文字、签发日期及复工时间；②获取1948-05-21《Suara Ibu Kota》原页及1948-06-19 BTN部长答复，核劳动类别与人数；③ANRI警察1215/569、劳工部91卷原页与工厂出勤簿；④轮换1965 Aceh Kodim-0104 10月军令、Moncongloe 1977 SPRIN/802原件；⑤轮换1998—2002县级工会登记与拒登记录，修复claim-ledger可读性后安全并库。G1—G10继续OPEN，作者政治判断保留。
