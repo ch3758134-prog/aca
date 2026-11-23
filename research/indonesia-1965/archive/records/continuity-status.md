@@ -1842,3 +1842,12 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **不同G项G1/G2继续承接**：1948 Delanggu 7月18日复工命令、SOBSI工会退出数量冲突及Madiun地方SOBSI签名文件未结；不能因本次转向Aceh而丢弃。G3军政逐日指令链新增10月8、9、11、14、18、20日候选节点；G6长期拘押/流亡、G7改革后劳工、G8外国介入、G10正式CSV与中文叙事仍OPEN。G4全国地区失衡仍显著，下一地区优先北苏门答腊或东爪哇；G9应将四名死者、Iljas Mahmud及Kodim-0104分开建立可核身份记录。来源级别、地区（Aceh的Banda Aceh/Sigli/Langsa/Kuala Simpang/Blang Pidie/Sama Dua）、年代（1965—1966）、组织（Baperki、PKI、Lekra、Pemuda Rakjat、Gerwani、Kodim-0104）及原件障碍已记录于此。此次仅更新滚动状态，不冒称正式S/C/Q/CV并库、chronology排序或readable-history已更新。
 
 **精准续接动作**：①在正式source-register按Melvin 2013 DOI及2018书名去重，核对已有S编号；②核取军方《Chronologis 1966》原件第3—8页及1965-10-20《Surat Keputusan》第2页；③核取1965-10-18 Langsa Baperki《Pernjataan》原签名影印，查Iljas Mahmud和Kodim-0104军令；④取1966年驱逐令与逐县出境/难民名单，核死亡与迁离不同分母；⑤接续1948年《Merdeka》785号及北苏门答腊/东爪哇原始军政记录。GOAL ACTIVE / OPEN，G1—G10均未完成。
+
+
+## 2026-11-24 05:55 CST｜ONGOING / GOAL仍进行｜Aceh 1966拘押及驱逐链再核
+
+本轮重新核读AGENTS、goal-continuity、stage-access、正式四张CSV与archive/records/chronology；正式claim-ledger.csv的Git blob SHA仍为362dbb150c296fd2a5f9e2b4d34db64c6a8f414a，但utf-8内容接口返回空正文，禁止覆盖、禁止生成C编号。按正式source-register去重，Melvin 2013全文已为S612，军方《Laporan tahunan lengkap》扫描为S855，不能重复新增S，也不能把Melvin与其所用军方卷宗当作独立来源。
+
+直接核读S612全文北亚齐1966年4月18—24日、5月8日及8月17日段落（https://journals.sagepub.com/doi/full/10.1177/186810341303200304）：据Melvin转引《Perkembangan 1966》p.4—5，4月18日晚军政联合机构与KAPPI代表商议集中移交所谓“RRT Chinese”；其后304人被送到县长办公室院内并移交北亚齐军方。304是被移交人数，非死亡数，结局不明。4月22日Lhoksukon事件、23日Djuarsa巡视、24日要求调查，5月8日发出驱逐令、8月17日作为离境期限及护送承诺截止，构成应分别核验的行政与实际行动。原始《Perkembangan》、5月8日签署军令、304人登记和转移卷、护送及船运名单尚未独立取得；2013论文对动机及法律定性的分析不是法院判决。1948 Delanggu原报仍未取得，未将二手转述升级为原件。
+
+本次正式Q602与chronology追加已安排安全写入；正式source-register和coverage-matrix已有对应条目，本次不重复增行；claim-ledger不能安全读写；成熟中文历史正文需补齐304人去向和原令后再修订。精准续接：①定位《Perkembangan 1966》p.4—5原影印并逐字核对304、日期和交接职务；②取得Ishak Djuarsa 1966-05-08签署驱逐令、收文簿及1966-08-17截止执行记录；③北亚齐县长办公室、军区、港口Belawan和Kuang Hua船运名单交叉追查304人及难民去向；④追1948-07-19《Merdeka》785号p.2与SOBSI复工指令；⑤轮换1977 Moncongloe释放原令、1998—2002县级工会登记簿和Gerwani地方劳动档案。GOAL保持OPEN，G1—G10未结。最新提交SHA以本轮GitHub返回及独立HEAD核验为准，禁止在提交前自指填入。
