@@ -1503,3 +1503,8 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 直接打开美国国务院FRUS d175（https://history.state.gov/historicaldocuments/frus1964-68v26/d175）和d176（https://history.state.gov/historicaldocuments/frus1964-68v26/d176）全文。d175是1965-11-17提交303委员会的秘密通信设备建议：10月13日少量通信设备已提供给军方领导警卫（具体删节）；11月5日批准的是医药方案；11月19日会议认为通信支持可取，但要求低可归属性；FRUS脚注称12月17日Colby报告CIA已找到并购入类似设备。**后两次会议只有FRUS编者脚注引述，原始纪要未读；采购不是到货或具体使用的证明。**d176是1965-11-18 CIA OCI 2942/65对Konfrontasi与军方政策的同期分析，称一旅已从马来西亚对抗战场返回中、东爪哇，未取得军方调兵令；其对军方短期不愿结束对抗的说法是预测，不是后来事实。chronology已新增两条明确区分来源层级的记录，提交SHA d2270b42aa33ca47e80713c3a606a8843c48829b；此SHA是本次续接写入前已确认的最新提交锚点，本次续接提交SHA须另行查询核验。
 
 **精确未完事项**：（1）调取303委员会1965-11-19与12-17原始会议纪要，核对表决、装备来源、采购日期与款项；（2）追CIA通信设备运输单、印尼接收签收及具体使用者，避免采购等于交付；（3）追1965-10-13给Nasution警卫设备的具体清单、交接与收据；（4）以印尼陆军及英马战区日志核实1965-11中东爪哇调兵旅的番号、路线和任务；（5）跨链回到Aceh Langsa Baperki 148人附件、1948 Delanggu工农组织、Gerwani原刊及2000—2002工会地方登记；解决claim-ledger读取后同步正式台账与成熟中文连续历史正文。所有证据链仍OPEN，不代替作者政治判断。
+
+
+## 2026-11-23｜ONGOING / GOAL仍进行｜巴厘1968逐人拘押BAP索引与1965美国通信设备
+
+重新读取2026-11-09 G1—G10完整性审计、AGENTS、stage-access、goal-continuity、正式source/claim/search/coverage及chronology和滚动缺口总账。直接核读Komnas HAM 2012年1965—1966调查摘要全文第109、123页：1968年Denpasar考试期间拘押及Gianyar—Pekambingan转押证言，**脚注5明确BAP No.30，AN. Dewa Putu Ngurah Djenawi**；另第79页有1966年海关C2甄别、1968-09-23 Padangbay逮捕与1977-12-20释放证言，身份尚未与前者比对，不得合并。独立复核FRUS d175第3节关于1965-10-13已提供有限通信器材给Nasution警卫的同期文件说法，与11-17另案提案及12-17仅采购阶段区分；d181 12-04医药援助内部争论仍非到货证明。证据等级、缺件及地域索引已记入global-gap-tracker.md，正式claim-ledger读取仍为空未覆盖。下一精准动作：（1）追Komnas HAM BAP No.30原件及Polda Bali、Gianyar、Pekambingan 1968拘押登记；（2）追1966 Badung海关C2甄别及1968-09-23 Padangbay拘捕卷宗；（3）追美国1965-10-13通信器材出库/签收及303委员会11-19、12-17会议原件；（4）转向ANRI GASBRI 493及BTI地方组织原刊；（5）在修复claim-ledger读取后按最大正式编号去重并库，推进chronology及成熟中文正文。**G1—G10全部OPEN；长期GOAL未完成。**
