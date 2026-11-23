@@ -1494,3 +1494,12 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 
 ## 2026-11-23 UTC 续接（长期GOAL OPEN）
 本次读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09及正式CSV和长期缺口总账；沿G8（1965年美国通信/医药援助）和不同年代的G7/G5（2006年ILO女性工会调查）两链直接核读全文，具体证据等级和缺件已写入global-gap-tracker.md。下次优先：FRUS d175脚注指向的303委员会1965-11-19与12-17会议纪要及设备收货记录；ILO 2006报告第三部分组织样本、女性干部与地域表；并轮换G4东爪哇原始军令/巴厘地方拘捕册与G1 1948 GASBRI 493号原件。**不可把批准/采购写成交付，不可把33人调查外推全国。** G1—G10全部OPEN；正式CSV和连续中文历史正文仍未同步，继续作为G10优先归档欠账。
+
+
+## 2026-11-23｜ONGOING / GOAL仍进行｜通信器材采购与马来西亚对抗战场调兵
+
+本轮按授权读取AGENTS、goal-continuity、stage-access、正式四CSV和chronology。正式claim-ledger.csv仍返回非空blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a、正文0字符，未覆盖。正式source-register已有FRUS d175和d176 URL，去重后不新建S编号；search-log及coverage-matrix尚未更新。
+
+直接打开美国国务院FRUS d175（https://history.state.gov/historicaldocuments/frus1964-68v26/d175）和d176（https://history.state.gov/historicaldocuments/frus1964-68v26/d176）全文。d175是1965-11-17提交303委员会的秘密通信设备建议：10月13日少量通信设备已提供给军方领导警卫（具体删节）；11月5日批准的是医药方案；11月19日会议认为通信支持可取，但要求低可归属性；FRUS脚注称12月17日Colby报告CIA已找到并购入类似设备。**后两次会议只有FRUS编者脚注引述，原始纪要未读；采购不是到货或具体使用的证明。**d176是1965-11-18 CIA OCI 2942/65对Konfrontasi与军方政策的同期分析，称一旅已从马来西亚对抗战场返回中、东爪哇，未取得军方调兵令；其对军方短期不愿结束对抗的说法是预测，不是后来事实。chronology已新增两条明确区分来源层级的记录，提交SHA d2270b42aa33ca47e80713c3a606a8843c48829b；此SHA是本次续接写入前已确认的最新提交锚点，本次续接提交SHA须另行查询核验。
+
+**精确未完事项**：（1）调取303委员会1965-11-19与12-17原始会议纪要，核对表决、装备来源、采购日期与款项；（2）追CIA通信设备运输单、印尼接收签收及具体使用者，避免采购等于交付；（3）追1965-10-13给Nasution警卫设备的具体清单、交接与收据；（4）以印尼陆军及英马战区日志核实1965-11中东爪哇调兵旅的番号、路线和任务；（5）跨链回到Aceh Langsa Baperki 148人附件、1948 Delanggu工农组织、Gerwani原刊及2000—2002工会地方登记；解决claim-ledger读取后同步正式台账与成熟中文连续历史正文。所有证据链仍OPEN，不代替作者政治判断。
