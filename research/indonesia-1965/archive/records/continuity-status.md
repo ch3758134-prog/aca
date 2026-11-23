@@ -1772,3 +1772,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **缺口总账G1—G10均OPEN**：G1殖民至1949工会/党派/革命原件（本次SOBSI地方签名件）；G2 1949—65工农妇青文化基层财务/干部/会议；G3 1965跨机关逐小时命令与广播；G4 Aceh、北苏门答腊、东中西爪哇、巴厘、Flores、West Kalimantan、Sulawesi等县军令、拘押/死亡名册；G5妇女、族群、宗教、幸存者生活与独立证言；G6布鲁/Moncongloe拘押释放、流亡、1996镇压；G7 1998—2026工会和政党实际会员与地方执行；G8英美澳中苏行动提案—批准—交付—效果；G9人物—组织—地点—任职时间的可核索引；G10正式S/C/Q/CV去重、严格按日期统一时间线及成熟中文连续HTML。此次chronology两条追加已提交：`c877055933de7d0679f877ea663837725a1b074b`、`33a46a09922b90d3bea08a83dcd13fbfca3296b5`；并未完成CSV、连续正文或原刊获取。
 
 **精确续接**：（1）LOC/印尼国家图书馆调1965-12-10/11《Suara Indonesia》影印，核抵达日期与部队名称；（2）巴厘RPKAD/Sjafiudin 1965-12-07/10部署令、县级监禁/死亡记录；（3）Aneta 1948-09-18—20原稿及Madiun SOBSI地方主席署名文件；（4）ANRI Delanggu 1948劳工部卷91、警察卷569/1215，追地方与中央工会领导关系；（5）轮换1996 Komnas HAM原签署件及1998—2002县级工会登记簿。GOAL ACTIVE / OPEN；此状态文件自身提交SHA须以提交回执及写后远程HEAD为准。
+
+
+## 2026-11-23｜ONGOING / GOAL仍进行｜SOBSI原档151与西加里曼丹1967区域机制
+
+**读取与治理**：已读取AGENTS、stage-access、goal-continuity、2026-11-09 completeness-audit G1—G10、既有滚动状态、正式source-register/search-log/coverage-matrix及archive/records/chronology；research-status.md在所查路径不存在。claim-ledger.csv仍有非空blob SHA `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a`但UTF-8内容为空，禁止覆盖和猜C编号。来源去重发现S453/S831为同一松村智雄论文，S383为Tanasaldy专著；不重复注册。正式chronology本次提交 `c1cb9c9b31e342430606b7808ad09d6d826245c5`，其余正式CSV和连续HTML尚未更新。
+
+**长期链G1/G2｜SOBSI 1946—1948组织生成**：直接阅读印尼文化部历史百科Allan Akbar撰SOBSI条目全文 https://esi.kemenbud.go.id/wiki/Sentral_Organisasi_Buruh_Seluruh_Indonesia_(SOBSI)。其引用ANRI《Inventarisasi Arsip Sentral Organisasi Buruh Seluruh Indonesia》**No.151**，为1946-11-29 GASBI/GSBV合并及Harjono/Setiadjit/Njono任职核查的具体档案取件号。网页还叙1947-05-18 Malang大会；但对1948年退出工会数量在同一页给出19/34与13/34，**内部冲突**，不可升格为准确人数。访问等级：后出官方百科文章全文；ANRI No.151原卷未读。需取原会议纪要、代表/投票及工会成员名单，与1948 Madiun地方SOBSI签名件和Delanggu劳动卷91对照。
+
+**不同G/地区G4/G5/G9｜1967 West Kalimantan**：直接打开松村智雄2015 J-STAGE出版页及完整英文摘要 https://www.jstage.jst.go.jp/article/sea/2015/44/2015_45/_article/-char/ja/ 。摘要把Oevaang Oeray 1967-10所谓“宣战”、mangkok merah村落动员、军方反游击政策、华人被迫离开内陆及商品供应受阻联系起来，亦指出与Palaoensoeka的政治竞争。**本次只核摘要，未打开日文PDF、1967声明或军区/县级原件**；这些是作者论点而非直接证实的命令与死亡数。已登记S453和重复S831，不另配S号。需追西加里曼丹省长办公室藏1967年`Pengungsian orang2 Tjina sebagai akibat gerakan2 orang Daya dalam daerah Kabupaten Pontianak dan Kabupaten Sambas`、Oeray声明原件、Kodam XII部署及逐村迁离/救济名单；将军方反游击目标与实际华人平民受害者分开。
+
+**G1—G10长期缺口总账（全部OPEN）**：G1 1910—49殖民/革命组织及ANRI No.151原件；G2 SOBSI/BTI/Gerwani/Pemuda Rakyat/LEKRA基层财务、会议与成员；G3 1965逐小时跨机关命令和广播；G4 Aceh、北苏门答腊、东/中/西爪哇、巴厘、Flores、西加里曼丹、Sulawesi逐县暴力执行；G5性别/族群/宗教与独立受害证言；G6长期拘押、流亡、复归与再组织；G7 1998—2026政党工会地方执行；G8英美澳中苏提案—决定—执行—效果；G9人地组织与时间关系索引；G10正式S/C/Q/CV去重、chronology排序及中文连续可读历史。阻碍包括ANRI原件未开放、县级名册缺失、部分档案只见目录、claim-ledger读取异常。本次chronology两处增补为**待统一排序节点**，不宣称全量完成。
+
+**精确续接**：①ANRI索取SOBSI No.151原卷并核1946-11-29合并签名与干部职务；②核1948年SOBSI退出工会19/34与13/34矛盾的原始统计时间；③取1967年Oeray声明与Pontianak/Sambas迁离报告及军区命令；④将西加里曼丹具体县镇与1965—1968其他省暴力横向比较；⑤继续1996 PRD原审判、1977 Moncongloe释放名册及中文正文成熟段落。GOAL仍ACTIVE/OPEN，当前提交后的远程HEAD需下次读取确认。
