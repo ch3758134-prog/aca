@@ -1554,3 +1554,9 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 ## 2026-11-23 UTC｜ONGOING / GOAL仍进行｜GASBRI 493与西加1968难民统计复核
 重新读取AGENTS、stage-access、goal-continuity、completeness-audit-2026-11-09 G1—G10、continuity-status、正式source/claim/search/coverage及chronology、global-gap-tracker。正式claim-ledger.csv返回SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a但正文0字符，未覆盖。沿G1/G2核读ANRI官方1995年警方档案目录493（1948-05-01 GASBRI第1号公告，仅1页派生件）及494（1946—48 PKI成员档，注明不完整）；沿不同地区G4/G5/G6复核已登记S232的1968西加省府难民表二手全文：1967-11 59,850；1968-05 43,941；1968-08 28,028，均为分期在册存量而非死亡或累计流量。来源级别、缺件和精确口径已续入global-gap-tracker，未重复注册S232，也未将档案目录当成卷内全文。
 **精确接续动作**：①向ANRI索取警方卷493单页原文及卷494封套；②追1948-04-25 Solo工人会议同期报纸和SOBSI/GASBRI组织文件；③索取西加省府1968年10月17—18日《Progress Report》附录VI及Pontianak、Singkawang、Mempawah难民营出入/死亡登记；④回到1967年地方军令和省府《Pengungsian orang2 Tjina》原卷，区分迁徙与杀戮；⑤修复claim-ledger读取、对正式CSV和统一chronology安全去重，成熟段落并入readable-history。G1—G10继续OPEN，未完成。
+
+
+## 2026-11-23 UTC｜ONGOING / GOAL仍进行｜ANRI卷495/496/17与西加1967地点追索
+已重新读取G1—G10完整性审计、AGENTS、授权、GOAL、正式四CSV、chronology及滚动总账。沿G1/G2从GASBRI 493/PKI 494扩展到ANRI警察档案495（1946—48西爪哇/雅加达报告）、496（1947 Benteng RI会议）及宣传部档案17（1948 Amir Sjarifuddin职务变动目录）；均为**目录已读，卷内原件未读**。沿不同地区G4/G5核到西加1967年Samalantan、Senakin、Darit、Sebadu的学术文本可见摘录，**非全文或地方原卷**，210数字暂只保留为作者主张。具体网址、来源层级、阻碍与行动已更新global-gap-tracker（commit db20bb2bafcf9a28ff7ead4902e8a036905bd3c2）。claim-ledger非空blob读取零正文，不覆盖，不虚构C号；正式CSV/chronology/中文连续正文未同步。
+
+**精确续接**：（1）按ANRI馆藏号493、494、495、496及宣传部卷17申请影印，优先493公告和卷17部长令，检查1948会议/免职的具体日期与人名；（2）查1967年西加省府《Pengungsian orang2 Tjina》p.82、1968 Progress Report附录VI原影印，核不同日期人数口径；（3）追1967-10-19 Samalantan动员、11月Senakin/Darit/Sebadu遇害者名册及11-17军方停止示威令；（4）轮换Aceh/北苏门答腊/Flores/Bali地方军令与逐人拘押、Gerwani/BTI/SOBSI原刊；（5）以原始blob或替代安全接口解决claim-ledger读取后正式去重并库，按时间排序整合chronology，成熟段落入readable-history。G1—G10全部OPEN；长期GOAL未完成。
