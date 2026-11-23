@@ -1759,3 +1759,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **精准续接**：（1）向ANRI按馆藏569和1215申请1948原件影像，逐字记录发件人、收件人、日期和内容；（2）查ANRI劳工部卷91的1948-06-14—19 LBT诉求文件与BTN答复；（3）取得1948-08-20警察报告第15、71页及《Berita Indonesia》1948-07-03/04/16原刊，核冲突及各方指挥；（4）核7月14—18谈判协议、罢工结束与实际复工日期，建立逐人组织关系；（5）轮换1965 Aceh/巴厘军令、1977 Moncongloe拘押及1996 PRD与后1998工会实际运行。GOAL永久OPEN。写入前观察远程main HEAD：76d195e2317596e2043e82155d6e0a76eb2caf8a；提交后SHA必须再查询，不能预填自身SHA。
 
 **2026-11-24 提交续接锚点**：本轮已提交统一状态 c9982930f9f2f49905b563d248b34c95bfa2e561，并将Q600写入正式search-log，提交SHA 9ef022d294687f4dbdb64e4688b5c80f91f5cbd3。以上是写入本段前已核实的提交；本段自身提交SHA以随后远程main查询为准。source-register、claim-ledger、coverage-matrix、chronology及成熟中文正文本轮未更新，仍是OPEN欠账。
+
+
+## 2026-11-23｜ONGOING / GOAL仍进行｜巴厘部队抵达时间与1948 Madiun地方工会文件交叉核验
+
+**已重读**2026-11-09 completeness-audit全文G1—G10、AGENTS、stage-access、goal-continuity、continuity-status、正式source-register/search-log/coverage-matrix及archive/records/chronology。research-status.md不存在；claim-ledger.csv的非空blob `362dbb150c296fd2a5f9e2b4d34db64c6a8f414a`仍返回空UTF-8正文，未覆盖，未制造C号。source-register已有S372 Roosa 2013、S374《Suara Indonesia》LOC目录、S007/S008 1948 FRUS电报；**不重复注册**。
+
+**长期链G4/G8/G9｜巴厘**：重核John Roosa 2013《Who Knows?》开放全文第20页脚注51，明确1965-12-10/11《Suara Indonesia》两篇原报标题，Roosa据其将RPKAD一连到达置于12月7日、另一批置于12月10日；论文区分此前已有地方杀戮与12月中旬拘押者集中处决。Robinson 2017开放研究注15承认部队到来前数日已有杀戮，认为部署后迅速升级。**访问级别**：学术论文全文/脚注可读；1965两期报纸只有精确标题和LOC馆藏目录，未读原刊；未取得RPKAD部署令、军区日志、县级死者/拘押名册。不能把三种起点合成一个日期。https://www.oralhistoryforum.ca/index.php/ohf/article/download/528/606/528-Article%20Text-2157-1-10-20130822.pdf ; https://doi.org/10.1080/14623528.2017.1393935
+
+**不同G项G1/G2/G3｜1948 Madiun与SOBSI地方组织**：直接重读美国国务院官方FRUS 1948卷VI第806、810号电报全文（既有S007、S008）。第806号电区分一名听众的苏加诺广播转述、Aneta通讯社、未具名电台及共和国政府公告。Aneta声称一份由Madiun地方SOBSI主席、当地Communist Party Islam负责人、Madiun Labour Party主席等签署的文件支持当地行政变更；**该签名文件未读**，且地方主席不等于SOBSI中央。第810号电转发共和国政府9月19日声明及新闻部长对莫斯科计划的指控，后者是当时政治归责，非苏联直接指挥的证据。两份是同一美方领事渠道不同材料，不得简单算独立证人。https://history.state.gov/historicaldocuments/frus1948v06/d268 ; https://history.state.gov/historicaldocuments/frus1948v06/d269 。须追Aneta 1948-09-18—20原稿、地方署名文件及地方SOBSI干部身份，并与Delanggu罢工中央/地方关系区别。
+
+**缺口总账G1—G10均OPEN**：G1殖民至1949工会/党派/革命原件（本次SOBSI地方签名件）；G2 1949—65工农妇青文化基层财务/干部/会议；G3 1965跨机关逐小时命令与广播；G4 Aceh、北苏门答腊、东中西爪哇、巴厘、Flores、West Kalimantan、Sulawesi等县军令、拘押/死亡名册；G5妇女、族群、宗教、幸存者生活与独立证言；G6布鲁/Moncongloe拘押释放、流亡、1996镇压；G7 1998—2026工会和政党实际会员与地方执行；G8英美澳中苏行动提案—批准—交付—效果；G9人物—组织—地点—任职时间的可核索引；G10正式S/C/Q/CV去重、严格按日期统一时间线及成熟中文连续HTML。此次chronology两条追加已提交：`c877055933de7d0679f877ea663837725a1b074b`、`33a46a09922b90d3bea08a83dcd13fbfca3296b5`；并未完成CSV、连续正文或原刊获取。
+
+**精确续接**：（1）LOC/印尼国家图书馆调1965-12-10/11《Suara Indonesia》影印，核抵达日期与部队名称；（2）巴厘RPKAD/Sjafiudin 1965-12-07/10部署令、县级监禁/死亡记录；（3）Aneta 1948-09-18—20原稿及Madiun SOBSI地方主席署名文件；（4）ANRI Delanggu 1948劳工部卷91、警察卷569/1215，追地方与中央工会领导关系；（5）轮换1996 Komnas HAM原签署件及1998—2002县级工会登记簿。GOAL ACTIVE / OPEN；此状态文件自身提交SHA须以提交回执及写后远程HEAD为准。
