@@ -1829,3 +1829,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 本次正式归档S1535、Q601、CV664及chronology追加段落；提交顺序 b2e15b1ea3c4452dd822bb40ec37c521bab7a543 → 44805c1f57b3cf5bd266b82e7f8b59e6b924f94c → 055bb8546febfc58f0db41af608cfc4f9c0888a0 → a69dc4c7c263d99127ac5e39f34c85997cca83ea。**状态提交前最新已知SHA为a69dc4c7c263d99127ac5e39f34c85997cca83ea；状态提交自身SHA须由GitHub返回后独立核验，不能预先自指写入。** 中文连续历史正文此次未改，因原报和组织指令仍不足以把执行过程写实。
 
 精准未完：①获取1948-07-19《Merdeka》785号第2页，核SOBSI指令文字、签发日期及复工时间；②获取1948-05-21《Suara Ibu Kota》原页及1948-06-19 BTN部长答复，核劳动类别与人数；③ANRI警察1215/569、劳工部91卷原页与工厂出勤簿；④轮换1965 Aceh Kodim-0104 10月军令、Moncongloe 1977 SPRIN/802原件；⑤轮换1998—2002县级工会登记与拒登记录，修复claim-ledger可读性后安全并库。G1—G10继续OPEN，作者政治判断保留。
+
+
+## 2026-11-23 21:5x UTC｜ONGOING / GOAL仍进行｜Aceh 1965年Baperki、地方军令与族群迫迁
+
+**审计与状态**：已重新读取2026-11-09 completeness-audit，G1—G10均未结；核读AGENTS、stage-access、goal-continuity、正式source-register、search-log、coverage-matrix及本状态。claim-ledger.csv SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a读取正文仍空，不覆盖、不编造C编号；chronology.md位于archive/records而非项目根路径，research-status路径未找到。此前Delanggu与Flores链继续保留。本次不将论文引文视作直接取得的1965年原件。
+
+**G4/G5/G9 Aceh新实质核验**：直接打开Jess Melvin 2013《Why Not Genocide? Anti-Chinese Violence in Aceh, 1965–1966》开放全文（https://journals.sagepub.com/doi/full/10.1177/186810341303200304）。文中据军方《Chronologis 1966》引述：10月8日16时Banda Aceh的Pelangi商店、Baperki办公室、华侨协会办公室及相关住家遭袭；10月9日15时Sigli的Pah On、Ping Ping、Kim Kie、Rimbaraja商店及Baperki、PKI、Lekra、Pemuda Rakjat、Gerwani办公室被毁；10月14日Kuala Simpang军方记录称约1.5万人示威并损毁PKI/Baperki设施；同日Blang Pidie和Sama Dua记录分别称5人及10人死亡，其中各有4名华人。**1.5万人是军方记载的示威参与数，不是死亡数；两地各4人不可混作同一事件。** 文中转录Sama Dua四名华人死者姓名Hap Tjok、Min On、Bun Tok Seng、Sio Nam，但身份/死亡登记未独立核对。Langsa Baperki领导人1965-10-18签署声明称10月11日接受Kodim-0104指挥官Iljas Mahmud的解释；声明涉及在胁迫下的政治表态，不能视为自愿认罪。10月20日军方文件才正式将Baperki列入所谓PKI关联组织的消灭对象；故10月8—14日袭击早于正式列名。论文另述1966年8月17日前驱逐外国籍华人的军令及至少一万人逃离的旧研究估计，仍须核命令和出境登记。
+
+**证据等级**：2013同行评议论文全文直接核读；其引用的1965《Pernjataan》、1966《Chronologis》和10月20日《Surat Keputusan》只通过作者转录/摘引接触，均未取得原件；学者对种族灭绝的法律定性属于解释而非已生效法院判决。2018年Jess Melvin专著《The Army and the Indonesian Genocide》公开PDF全文已打开（https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Jess_Melvin_The_Army_and_the_Indonesian_Genocide_Mechanics_of_Mass-staibabussalamsula.ac_.id_.pdf），其目录明确第三章10月1—6日、第四章指挥官巡视1—11日、第五章公开杀戮7—13日、第六章14日—12月23日、第七章行政清洗与排华；这与2013论文属于**同一研究者/可能共享档案群，不得作为完全独立交叉证明**。书中提及2010年从前情报机关档案获取约3000页复印件、含1965-10-11西亚齐会议记录等，应按原件页码进一步核验。
+
+**不同G项G1/G2继续承接**：1948 Delanggu 7月18日复工命令、SOBSI工会退出数量冲突及Madiun地方SOBSI签名文件未结；不能因本次转向Aceh而丢弃。G3军政逐日指令链新增10月8、9、11、14、18、20日候选节点；G6长期拘押/流亡、G7改革后劳工、G8外国介入、G10正式CSV与中文叙事仍OPEN。G4全国地区失衡仍显著，下一地区优先北苏门答腊或东爪哇；G9应将四名死者、Iljas Mahmud及Kodim-0104分开建立可核身份记录。来源级别、地区（Aceh的Banda Aceh/Sigli/Langsa/Kuala Simpang/Blang Pidie/Sama Dua）、年代（1965—1966）、组织（Baperki、PKI、Lekra、Pemuda Rakjat、Gerwani、Kodim-0104）及原件障碍已记录于此。此次仅更新滚动状态，不冒称正式S/C/Q/CV并库、chronology排序或readable-history已更新。
+
+**精准续接动作**：①在正式source-register按Melvin 2013 DOI及2018书名去重，核对已有S编号；②核取军方《Chronologis 1966》原件第3—8页及1965-10-20《Surat Keputusan》第2页；③核取1965-10-18 Langsa Baperki《Pernjataan》原签名影印，查Iljas Mahmud和Kodim-0104军令；④取1966年驱逐令与逐县出境/难民名单，核死亡与迁离不同分母；⑤接续1948年《Merdeka》785号及北苏门答腊/东爪哇原始军政记录。GOAL ACTIVE / OPEN，G1—G10均未完成。
