@@ -1620,3 +1620,16 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 
 ## 2026-11-23 18:50 CST｜ONGOING / GOAL仍进行｜Sulami 1959 Gerwani组织证言
 已核读1959年Sulami《The Birth and Growth of the Indonesian Women's Movement (Part III)》数字化全文（https://gerwani.logosid.app/teks/14），对照1954章程OCR线索、2023年印尼学位论文摘要及2000—2001工会法原件。Sulami称1950-06-04 Gerwis成立、1954改名、1957年1月182分会/642460会员、同年12月70万会员，并叙述通过PKI/Permai/Partai Rakjat等党派参选；上述人数和议席为组织自述，尚无选举/会费独立底账。详细证据、反证及精准续查见 archive/records/continuations/2026-11-23-1850-gerwani-1959-organizational-voice.md，证据提交SHA `71c8f44bb4a94d51c786622956ac2ecdb26e3b1f`。正式claim-ledger异常未修复，不覆盖；正式四CSV、chronology和中文连续正文未同步。下轮优先：①1959原刊页影；②1948 KOWANI大会及退出组织自述；③1957 Gerwani分会会费名册；④1955/57正式选举当选名册；⑤地方军令、1948 GASBRI及1998后劳工跨期轮换。状态提交自身SHA以写入回执与远程HEAD为准。GOAL永久OPEN。
+
+
+## 2026-11-23｜ONGOING｜北苏门答腊SOBSI办公室、IPPI拘押链与南苏门答腊地理纠错
+
+本次已读取G1—G10完整性审计、AGENTS、stage-access、goal-continuity及正式来源/事实/检索/覆盖/时间线。正式C台账blob SHA存在但内容返回零字符，**不覆盖**。research-status.md在正式records路径404；继续使用本滚动状态。来源S140、S196、S729均已存在，未重复分配S编号。
+
+**长期链G4/G5/G6/G9北苏门答腊**：直接打开Komnas HAM 2012官方调查摘要全文（S140，印刷页165—175）。页165—166证人叙述1965-10-14抵达Belawan之前Medan—Binjai路SOBSI办公室遭焚，负责人Sakir Sobo及两名守卫被杀；仅能确认2012年调查摘要记录该证词，不能确定准确杀害日或独立核实军方具体命令。页170—171另一IPPI证人叙述1965-11-30 Sunggal拘捕后在多个机构辗转，1978年5月获释；脚注BAP 222/BAP_TPPH 65/II/2009，原始BAP、拘押登记、释放令均未取得。地理/组织链为Medan—Belawan—Sunggal—Tanjung Kaso—Sukamulya；不得与Palembang合并。
+
+**不同G项G2/G8组织—外交证据**：直接核National Security Archive Telegram 1290网页和OCR入口，正式S196已说明编者误把Palembang（南苏门答腊）标成North Sumatra。约600名被拘者及PERBUM、Shell/Stanvac、PUSRI组织干部被捕是美国使馆当时转述，非逐人名册；保留报告、地点和原件等级差异。另复读S729 Taufik Ahmad 2010公开全文中Moncongloe的859男+52女、846住营数字，仍缺1969/1970原始收押簿；与S140的9765地区拘押总量不可互作同一分母。
+
+**G1—G10总账仍OPEN**：G1 ANRI 1948 GASBRI原公告；G2 SOBSI/BTI/Gerwani基层名册与工会会费；G3 1965跨机关命令；G4 各省军令及地方死亡/拘押名册；G5 妇女/族群及家庭生计；G6 监禁、释放、流亡与再组织；G7 1998后工会实施与地方争议；G8 外国电报—当地执行分层；G9 Sakir Sobo与各拘押地点人物关系；G10 正式C台账读取异常、覆盖CSV、统一主时间线及中文连续HTML并库。
+
+**精确续接**：①S140页165—166证词对应原始BAP编号、Sakir Sobo身份/死亡登记、Medan—Binjai办公室烧毁的同期警察或报刊；②BAP 222原件及Sunggal/CPM/Jalan Gandhi/Sukamulya/Tanjung Kaso转押登记；③S196原始Telegram 1290扫描逐页核对与Palembang当地Shell/Stanvac/PUSRI工会人员名单；④转回G1 ANRI493、G4 Aceh/Flores地方命令及G7 1998后劳动争议。全文已读的是2012官方调查摘要和2010研究者文章；原始证言笔录及当地执行卷宗均未读。长期GOAL未完成。
