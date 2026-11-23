@@ -1724,3 +1724,12 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **不同G项G4/G8：巴厘1965-12。** GWU National Security Archive直接打开1965-12-21美国使馆A-408（Joint Weeka No.48）的**馆藏说明页**，说明电报中使馆报告全国至少10万被杀、巴厘至少1万；这是1965年外交机关当时所获**估计**，绝非死者名册。原件馆藏定位RG84 Entry P339 Jakarta Embassy Files Box10 Folder12-POL2-1，网页有OCR及PDF入口，下一步须逐段核其正文而非只依说明页。https://nsarchive.gwu.edu/document/15720-document-24-airgram-408-joint-weeka-no-48 。Geoffrey Robinson 2017开放研究明确修正自己较早“巴厘杀戮只在RPKAD到达后开始”的判断：Jenkins/Kammen提出部队登陆前数日已有杀戮，然而外来部队抵达后暴力急剧扩大；此为学者之间时间机制争议，不能以12月21日外交估计直接证明逐县命令执行。https://www.tandfonline.com/doi/abs/10.1080/14623528.2017.1393935 。**尚缺**1965年12月《Suara Indonesia》7/10/11日原版、巴厘各县Kodim/RPKAD命令、死亡登记和A-408逐页原文核验。
 
 **G1—G10缺口总账仍全部OPEN**：G1殖民/革命工会原卷；G2工农妇青文艺基层原件；G3逐时军政机关；G4全国各省军令与死者；G5性别族群幸存者；G6拘押、流亡、1996镇压；G7改革后组织实际运行；G8英美澳中苏档案与实际行动；G9人—地—组织可核关联；G10 S/C/Q/CV去重、chronology统一排序及连续中文正文。此次优先记录确实已核原件译文，不假称已经完成全量并库。**下一精确接续**：(1) 校验1996 Komnas HAM印尼文签署件与五名死者尸检；(2) 逐行抽取AI附录II PRD/PPBI/SMID与各省拘捕转押记录；(3) 直接核A-408 OCR/PDF有关巴厘段落及估计日期；(4) 取1965-12-10/11《Suara Indonesia》原版和RPKAD部署文件；(5) 转查1948 Delanggu卷、Aceh和Flores地方原件，并在解决claim-ledger读取问题后安全并库。GOAL未完成。
+
+
+## 2026-11-24｜ONGOING / GOAL仍进行｜1958妇女政治权利法三重日期核验及资料库错误
+
+本轮已核读DPR官方法律目录 https://jdih.dpr.go.id/setjen/detail-dokumen/tipe/uu/id/1308 与BPK官方目录 https://peraturan.bpk.go.id/Details/52837/uu-no-68-tahun-1958 ，并实际打开印尼语法条及立法说明书全文转录 https://api-law.crpg.info/peraturan/uu/68/1958 （后者为二次转录，需以此前已读官方PDF为主）。进一步拆分：**1958-06-30** DPR第82次公开全会批准（P.336/1958，法律脚注所载）；**1958-07-17** 苏加诺在雅加达签署/制定该法；**1958-08-28** 由司法部长G.A. Maengkom公布，依第4条该日国内生效。此前已核联合国**1958-12-16交存批准书、1959-03-16公约对印尼生效**另属国际条约程序，不可与国内生效合并。DPR官方目录独立证实7月17日与8月28日。该二次转录网页的自动元数据误把公约日期1952-12-20标为法律制定及生效日，**与同页法律正文和官方目录直接冲突**；须将此作为数据清洗反例，不得导入正式时间线。原文第IX条说明书表明政府不接受自动提交国际法院争端的条款，属于政府当时的法律立场，不代表妇女基层权利已实际落实。
+
+本轮已读取AGENTS、goal-continuity、stage-access、continuity-status、正式source-register/search-log/coverage-matrix及archive/records/chronology；claim-ledger.csv仍返回非空blob SHA 362dbb150c296fd2a5f9e2b4d34db64c6a8f414a 但UTF-8正文空，未覆盖、未虚构C编号。chronology在archive/records/而非根目录。本轮先行保存上述来源层级及日期冲突，未声称四张CSV与成熟正文已完整并库。写入前远程最新提交检索首位：3e3e203d760a9af26c7de41b71ebd0566b0372c4；本状态文件提交SHA需以GitHub回执及写后远程查询核对。
+
+**精准未完事项**：（1）调取1958-06-30 DPR P.336/1958原会议记录，逐人核投票/发言及妇女议员；（2）核1955 DPR与Konstituante当选名册，解决Gerwani 4/5/6口径争议；（3）以1958法及1961 Gerwani纲领为起点，核Garut纺织厂劳动纠纷和地方妇女土地改革委员会成员名册；（4）回到1965 Aceh Kodim-0104/巴厘RPKAD原始命令与名单；（5）轮换1977 Moncongloe释放命令及1996 PRD/PPBI/SMID羁押、1998后工会登记实况。GOAL永久OPEN，政治判断保留作者。
