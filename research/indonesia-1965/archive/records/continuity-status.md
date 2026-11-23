@@ -1599,3 +1599,7 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **G1—G10持续缺口：**G1早期GASBRI/ISDV及1948组织原件；G2 Gerwani/BTI/SOBSI原刊与地方账目；G3跨机关逐时原件；G4 Aceh/Flores之外各省地方军令与名单；G5妇女/族群个案独立核实；G6监禁流亡及组织继承；G7 1998后工会地方实施；G8外援交付证据；G9人物地点关系；G10正式台账和中文正文并库。均OPEN，不能以本次两个地区代表全国。
 
 **精确续接：**（1）追Aceh Surat Keputusan 1965第2—3页及签发/公告登记，解释29日签发、20日追溯、25日截止的时间差；（2）查1966 Chronologis第8—9页与Blang Pidie/Sama Dua死亡登记；（3）向SVD Ende省档案馆定位匿名《Menjaring Angin》约130页手稿及75—76页影印；（4）检索Flores Kogam Instruksi No.22与Sikka会议名单、拘押登记；（5）转向未充分覆盖的Sulawesi/北苏门答腊原始地方记录及1948 GASBRI ANRI第493号。未解决正式CSV并库和阅读版HTML欠账。GOAL仍进行。
+
+
+## 2026-11-23 17:50 CST｜ONGOING / GOAL仍进行｜1967 NSC援助承诺与执行链
+已直接核读FRUS d241（1967-08-04）与d244（1967-08-09），来源已在正式source-register去重；政策建议、约1.97亿美元财团承诺/提供混合口径、1968美国份额约1亿美元估算与实际拨付严格分开。细节与原文链接见 archive/records/continuations/2026-11-23-1750-1967-nsc-policy-implementation.md；该证据文件提交SHA `28ecaf1162ff37e2179ddec86b7d19074abfcc01`。正式claim-ledger blob非空而读取0字符，不覆盖；其他正式CSV、chronology、中文连续正文仍待并库。精准未完：①1967海牙逐国承诺与结算；②1968 AID/PL480采购装运签收；③印尼1967外资法与经济顾问政策原件；④MAP民事行动县级工程和军方组织关系；⑤1948 GASBRI、Gerwani/BTI/SOBSI、Aceh/Flores及1998后劳工跨项原件。状态写入前已核实证据提交SHA；状态提交自身SHA以回执及随后远程HEAD为准。GOAL永久OPEN。
