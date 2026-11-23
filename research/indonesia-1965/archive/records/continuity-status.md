@@ -1633,3 +1633,8 @@ GOAL保持ACTIVE / OPEN-ENDED；本状态所载SHA是写入状态之前最后一
 **G1—G10总账仍OPEN**：G1 ANRI 1948 GASBRI原公告；G2 SOBSI/BTI/Gerwani基层名册与工会会费；G3 1965跨机关命令；G4 各省军令及地方死亡/拘押名册；G5 妇女/族群及家庭生计；G6 监禁、释放、流亡与再组织；G7 1998后工会实施与地方争议；G8 外国电报—当地执行分层；G9 Sakir Sobo与各拘押地点人物关系；G10 正式C台账读取异常、覆盖CSV、统一主时间线及中文连续HTML并库。
 
 **精确续接**：①S140页165—166证词对应原始BAP编号、Sakir Sobo身份/死亡登记、Medan—Binjai办公室烧毁的同期警察或报刊；②BAP 222原件及Sunggal/CPM/Jalan Gandhi/Sukamulya/Tanjung Kaso转押登记；③S196原始Telegram 1290扫描逐页核对与Palembang当地Shell/Stanvac/PUSRI工会人员名单；④转回G1 ANRI493、G4 Aceh/Flores地方命令及G7 1998后劳动争议。全文已读的是2012官方调查摘要和2010研究者文章；原始证言笔录及当地执行卷宗均未读。长期GOAL未完成。
+
+
+## 2026-11-23 19:47 CST｜ONGOING / GOAL仍进行｜Gerwani选举及会员数交叉反证
+
+直接重读Sulami 1959全文（https://gerwani.logosid.app/teks/14），与WRI研究报告第21页公开检索摘录（https://womenresearchinstitute.org/wp-content/uploads/2025/08/wri_buku_indonesian_women_movements_wri.pdf）比较：Sulami称1955年Gerwani成员5人进入国会、6人进入制宪会议，1957年1月642460名会员、12月70万；WRI摘要称1955年4人当选、1960年约70万、1961年100万。两者来源、年份及议席口径尚未一致，不可静默择一。WRI PDF全文尚未逐页核读；Sulami为网页全文转录而非原刊扫描。冲突与精准续查已写入 archive/records/continuations/2026-11-23-1947-gerwani-membership-conflicts.md，证据提交SHA `6ee9f9ebdc9f168dcdf895d3d062494b72a2cbed`。下一步：1959原刊扫描、WRI第20—22页及脚注、1955 DPR/制宪会议逐人名册、1957分会会费原始表、1948 KOWANI大会决议；跨期继续地方军令和劳工组织。正式claim-ledger仍非空blob但零正文，不覆盖；正式CSV/chronology/连续中文正文未完成并库。GOAL永久OPEN；状态提交自身SHA以GitHub回执与远程HEAD为准。
