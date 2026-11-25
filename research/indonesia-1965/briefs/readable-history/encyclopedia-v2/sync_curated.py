@@ -76,12 +76,20 @@ def append_referenced_claims(page):
                 raise ValueError("No canonical source for "+sid)
             compact_sources[sid]=full_sources[sid]
     for bucket,records in (("claims",compact_claims),("sources",compact_sources)):
+        # The curated edition legitimately has several pushes for each bucket.
+        # Preserve every existing array and append only missing canonical records.
+        # Re-running this operation must not duplicate entries or reshuffle them.
         matches=[m for m in PUSH.finditer(page) if m.group(1)==bucket]
-        if len(matches)!=1:
-            raise ValueError(f"Expected one {bucket} data push; got {len(matches)}")
-        m=matches[0]
-        data=json.dumps(list(records.values()),ensure_ascii=False,separators=(",",":"))
-        page=page[:m.start(2)]+data+page[m.end(2):]
+        if not matches:
+            raise ValueError(f"No {bucket} data push found in compact HTML")
+        present={row["id"] for m in matches for row in json.loads(m.group(2))}
+        missing=[row for key,row in records.items() if key not in present]
+        if missing:
+            m=matches[-1]
+            current=json.loads(m.group(2))
+            current.extend(missing)
+            data=json.dumps(current,ensure_ascii=False,separators=(",",":"))
+            page=page[:m.start(2)]+data+page[m.end(2):]
     print(f"Compact provenance selection: {len(compact_claims)} C / {len(compact_sources)} S")
     return page
 
