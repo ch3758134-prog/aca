@@ -70,7 +70,25 @@ function personRoles(p){
 }
 function personClaims(p){var cn=p.title.split(/[（(]/)[0].trim(),en=(p.title.match(/\(([^)]+)\)/)||[])[1]||"";return db.claims.filter(function(c){return (cn.length>=3&&c.text.includes(cn))||(en.length>=5&&low(c.text).includes(low(en)))}).sort(function(a,b){return (a.year||9999)-(b.year||9999)})}
 function renderPeople(){var p=db.people.find(function(x){return x.id===state.id});if(p)return title(p.title,"人物在当时的身份、行动与组织联系应逐条核对。后来的职务不得前移到早年的事件。")+'<div class="panel"><p>'+E(p.description)+'</p>'+(p.legacy_url?'<a href="'+E(p.legacy_url)+'">阅读原有完整人物说明</a>':'<span class="micro">此人已建立索引；原始传记、任职及组织名册仍待继续扩充。</span>')+'</div><div class="panel"><h3>现有任职或参与记录</h3>'+roleList(personRoles(p))+'</div><div class="panel"><h3>史料台账涉及此人的记录</h3><p class="micro">按照中文或拉丁拼写作文本检索，异名可能遗漏，同名可能误命中；不能自动认定成员资格。</p></div>'+pages(personClaims(p),fact);var a=db.people.filter(function(x){return hits(x.title+" "+x.description)});return title("人物档案","现有资料已接入并补充早期关键干部，仍需进一步补充基层干部、工会代表、地方官员及组织成员。")+tools()+pages(a,function(x){return '<div class="panel"><h3>'+button(x.title,"people",x.id)+'</h3><p>'+E(x.description)+'</p></div>'})}
-function renderEvents(){var e=db.events.find(function(x){return x.id===state.id});if(e)return title(e.title,"从原有事件说明迁入，具体会议、名单与行动仍须逐项追溯。")+'<article class="panel reader"><p>'+E(e.description).replace(/\n/g,"</p><p>")+'</p><a href="'+E(e.legacy_url)+'">原事件页面与相关注释</a></article>';var a=db.events.filter(function(x){return hits(x.title+" "+x.description)});return title("事件与会议","原有53项独立事件说明，事件参加者的身份通过原始材料和组织记录核验。")+tools()+pages(a,function(x){return '<div class="panel"><h3>'+button(x.title,"events",x.id)+'</h3><p>'+E(x.description.slice(0,330))+(x.description.length>330?"…":"")+'</p></div>'})}
+function renderEvents(){
+ var e=db.events.find(function(x){return x.id===state.id});
+ if(e){
+  var where=(e.orgs||[]).map(function(id){var o=omap.get(id);return o?button(o.name,"organizations",id):tag(id,"warn")}).join("　");
+  var who=(e.people||[]).map(function(id){var p=db.people.find(function(x){return x.id===id});return p?button(p.title.split(/[（(]/)[0],"people",id):tag(id,"warn")}).join("　");
+  var documents=(e.evidence_urls||[]).filter(function(z){return z&&safe(z.url)}).map(function(z){return '<a class="source-url" target="_blank" rel="noopener noreferrer" href="'+E(z.url)+'">'+E(z.label||"查阅原始资料")+'</a>'}).join("；");
+  var previous=e.legacy_url?'<a href="'+E(e.legacy_url)+'">原有事件说明与关联注释</a>':"";
+  var connected=e.process_id?'<p><b>连续历史：</b>'+button("查看有关历史过程","read",e.process_id)+'</p>':"";
+  return title(e.title,"独立事件档案：史实、行动者与原始来源分层阅读。")+
+   '<article class="panel reader"><div class="kicker">'+E(e.period||"日期参见正文")+'</div><p>'+E(e.description).replace(/\n/g,"</p><p>")+'</p>'+
+   (e.limitations?'<p class="process-limit"><b>核验边界：</b>'+E(e.limitations)+'</p>':"")+
+   (where?'<p><b>涉及组织：</b>'+where+'</p>':"")+(who?'<p><b>相关人物：</b>'+who+'</p>':"")+connected+
+   (documents?'<p><b>证据定位：</b>'+documents+'</p>':"")+
+   (previous?'<p>'+previous+'</p>':"")+'</article>';
+ }
+ var a=db.events.filter(function(x){return hits(x.title+" "+x.description+" "+(x.period||""))});
+ return title("事件与会议",db.events.length+"项独立历史事件与会议。组织、参加者、原始文献及其局限需逐项核实。")+
+  tools()+pages(a,function(x){return '<div class="panel"><div class="kicker">'+E(x.period||"")+'</div><h3>'+button(x.title,"events",x.id)+'</h3><p>'+E(x.description.slice(0,330))+(x.description.length>330?"…":"")+'</p></div>'});
+}
 function renderSources(){var s=smap.get(state.id);if(s){var a=db.claims.filter(function(c){return c.source_ids.includes(s.id)});return title(s.id+" · "+s.title,"来源登记卡：作者、访问程度、局限与所引用的具体主张。")+'<div class="panel"><h3>'+E(s.title)+'</h3><p>'+E(s.creator)+' · '+E(s.date)+'</p>'+tag(s.kind)+tag(s.access)+'<p>'+E(s.note)+'</p>'+(safe(s.url)?'<a class="source-url" target="_blank" rel="noopener noreferrer" href="'+E(s.url)+'">打开原来源网页</a>':'<span class="micro">没有已确认的外部链接</span>')+'</div><div class="panel"><h3>引用此来源的事实记录（'+a.length+'）</h3></div>'+pages(a,fact)}var a=db.sources.filter(function(x){return hits([x.id,x.title,x.creator,x.date,x.kind,x.access,x.note].join(" "))});return title("史料与出处",db.sources.length+"条史料登记，始终区分原件已读、学术全文、摘要、目录、搜索片段与尚未取得的文件。")+tools()+pages(a,function(x){return '<div class="panel"><div class="kicker">'+E(x.id)+'</div><h3>'+button(x.title,"sources",x.id)+'</h3><p class="micro">'+E(x.creator)+' · '+E(x.date)+'</p>'+tag(x.kind)+tag(x.access)+'<p class="micro">'+E(x.note.slice(0,350))+'</p></div>'})}
 function renderCoverage(){var a=db.coverage.filter(function(x){return hits([x.id,x.period,x.topic,x.status,x.note,x.priority].join(" "))});return title("证据范围与调查缺口",db.coverage.length+"项覆盖记录。这些不代表相同数量的已完成专题；不因已写出HTML或已有材料摘要而视为原始事实全部核实。")+tools()+pages(a,function(x){return '<div class="panel"><div class="kicker">'+E(x.id)+' · '+E(x.period)+'</div><h3>'+E(x.topic)+'</h3>'+tag(x.status,"warn")+tag(x.priority)+'<p>'+E(x.note)+'</p><p class="micro">'+E(x.path)+'</p></div>'})}
 function draw(){document.getElementById("page-title").textContent=labels[state.view]||"连续阅读";document.getElementById("counts").textContent=db.claims.length+"条事实 · "+db.sources.length+"条来源";menu.querySelectorAll("[data-view]").forEach(function(b){b.classList.toggle("active",b.dataset.view===state.view)});
