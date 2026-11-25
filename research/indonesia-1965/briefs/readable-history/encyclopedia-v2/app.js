@@ -75,6 +75,7 @@ function renderEvents(){
  if(e){
   var where=(e.orgs||[]).map(function(id){var o=omap.get(id);return o?button(o.name,"organizations",id):tag(id,"warn")}).join("　");
   var who=(e.people||[]).map(function(id){var p=db.people.find(function(x){return x.id===id});return p?button(p.title.split(/[（(]/)[0],"people",id):tag(id,"warn")}).join("　");
+  var formal=(e.claims||[]).map(function(cid){return button(cid,"chrono",cid)}).join(" &nbsp; ");
   var documents=(e.evidence_urls||[]).filter(function(z){return z&&safe(z.url)}).map(function(z){return '<a class="source-url" target="_blank" rel="noopener noreferrer" href="'+E(z.url)+'">'+E(z.label||"查阅原始资料")+'</a>'}).join("；");
   var previous=e.legacy_url?'<a href="'+E(e.legacy_url)+'">原有事件说明与关联注释</a>':"";
   var connected=e.process_id?'<p><b>连续历史：</b>'+button("查看有关历史过程","read",e.process_id)+'</p>':"";
@@ -82,6 +83,7 @@ function renderEvents(){
    '<article class="panel reader"><div class="kicker">'+E(e.period||"日期参见正文")+'</div><p>'+E(e.description).replace(/\n/g,"</p><p>")+'</p>'+
    (e.limitations?'<p class="process-limit"><b>核验边界：</b>'+E(e.limitations)+'</p>':"")+
    (where?'<p><b>涉及组织：</b>'+where+'</p>':"")+(who?'<p><b>相关人物：</b>'+who+'</p>':"")+connected+
+   (formal?'<p><b>可追溯的正式事实记录：</b>'+formal+'</p>':"")+
    (documents?'<p><b>证据定位：</b>'+documents+'</p>':"")+
    (previous?'<p>'+previous+'</p>':"")+'</article>';
  }
