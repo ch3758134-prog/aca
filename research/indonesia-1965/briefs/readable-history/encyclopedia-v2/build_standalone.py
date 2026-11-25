@@ -20,7 +20,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 INDEX = HERE / "index.html"
 CSS = HERE / "style.css"
-OUTPUT = HERE / "standalone.html"
+OUTPUT = HERE / "standalone-full.html"
 
 LINK_PATTERN = re.compile(r'<link\s+rel="stylesheet"\s+href="style\.css"\s*/?>', re.I)
 SCRIPT_PATTERN = re.compile(r'<script\s+src="([^"]+)"\s*>\s*</script>', re.I)
@@ -54,7 +54,7 @@ def build() -> tuple[str, int]:
     html = SCRIPT_PATTERN.sub(inline_script, html)
     if count == 0 or SCRIPT_PATTERN.search(html):
         raise ValueError("Scripts were not all converted to embedded local data")
-    prefix = "<!-- Generated from index.html, style.css and data/; do not edit standalone.html manually. -->\n"
+    prefix = "<!-- Generated from index.html, style.css and data/; do not edit standalone-full.html manually. -->\n"
     if html.lower().startswith("<!doctype html>"):
         idx = html.find("\n")
         html = html[:idx+1] + prefix + html[idx+1:]
@@ -72,7 +72,7 @@ def main() -> int:
     encoded = content.encode("utf-8")
     if args.check:
         if not OUTPUT.is_file() or OUTPUT.read_bytes() != encoded:
-            print("FAIL: standalone.html is stale; run build_standalone.py to regenerate")
+            print("FAIL: standalone-full.html is stale; run build_standalone.py to regenerate")
             return 1
         print(f"PASS: standalone.html matches index/assets, {count} embedded scripts, {len(encoded)} bytes")
         return 0
