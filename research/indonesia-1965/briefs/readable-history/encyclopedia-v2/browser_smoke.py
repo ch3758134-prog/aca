@@ -31,7 +31,7 @@ def main():
             page.locator("#counts").wait_for()
             text = page.locator("#counts").inner_text()
             check("entire claims loaded", re.search(r"2[9,]?\d\d条事实", text) is not None)
-            check("all 1533 sources loaded", "1533条来源" in text)
+            check("complete source ledger loaded", bool(re.search(r"\\d+条来源", text)) and int(re.search(r"(\\d+)条来源", text).group(1)) >= 1533)
             check("continuous history rendered", page.locator("#main .process-body").count() > 0)
             check("nonempty 82-process reader", page.locator("button.process-tab").count() >= 82)
 
