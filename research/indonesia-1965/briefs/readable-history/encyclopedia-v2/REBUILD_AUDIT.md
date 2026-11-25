@@ -487,3 +487,9 @@ Kahin 1996 p34叙事把1926年6月Padang Panjang巨大毁坏归因于Mt Merapi�
 数据审查：现行离线HTML被逐项解析，全部选中C与全量C、选中S与全量S内容一致，主要C→S/事件→人和组织/过程→人、组织、C/角色、关系外键无缺失；JavaScript应用语法可解析。**未**在真实浏览器中执行完整交互/性能/打印，也**未**跑实际Python全量脚本；网络阻挡完整Zip下载，故本地全资料HTML产物仍未完成。
 
 自评分：研究资料可追溯性8.4，史料分层8.6，独立人物组织8.2，连续社会经济史7.8，跨地区与普通成员6.5，软件/交付验证7.1，综合**7.4/10**。质量提升来自有名有姓的非PKI农会人员及具体原文函件索引、正式台账纠错，不因计数而刷分。仍有3个缺独立身份的旧任职（Winanta两条、Bergsma一条），不会强行按姓氏认人。GOAL **ONGOING**，未来继续ANRI No1548、Wadoeng West 1966原件、43家证书、HKTI 1973大会原件、跨群岛非PKI组织调查。
+
+### 第33轮后追加：完整单HTML上传失败与正式CSV字段级复审
+
+2026-11-24又一次尝试从现行精选单HTML加上**2,907个完整C与1,533个S**构建全资料单HTML并作为`standalone-full.html`上传至研究分支；组合前验证了所有C/S正式ID唯一性与来源闭环。但GitHub大文件写入调用发生`h2 protocol error: error reading a body from connection`；之后按目标文件路径独立查验，**未确认文件存在**。故**不能报告full HTML已提交、构建成功或浏览器验收**。旧有精选`standalone.html`和目录型`index.html`仍是实际可用版本，重现工具`build_standalone.py`还在。
+
+随后对完整正式`claim-ledger.csv`逐字段解析，并与JS三个完整claims索引的`text/period/type/confidence/basis/next/source_ids`逐项对应；对正式`source-register.csv`的来源标题及网址与`data/sources.js`逐项对照。结果：**2,907/2,907 C，1,533/1,533 S，0字段错配，0缺少C→S来源**。该核对是远端数据语义对比，不是浏览器UI测试或Python实际执行，不改写评分。**GOAL保持ONGOING**。
