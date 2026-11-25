@@ -30,8 +30,8 @@ def main():
             page.goto(FULL.as_uri(), wait_until="load", timeout=45_000)
             page.locator("#counts").wait_for()
             text = page.locator("#counts").inner_text()
-            check("entire claims loaded", re.search(r"2[9,]?\d\d条事实", text) is not None)
-            check("complete source ledger loaded", bool(re.search(r"\\d+条来源", text)) and int(re.search(r"(\\d+)条来源", text).group(1)) >= 1533)
+            check("entire claims loaded", bool(re.search(r"\d+条事实", text)) and int(re.search(r"(\d+)条事实", text).group(1)) >= 2907)
+            check("complete source ledger loaded", bool(re.search(r"\d+条来源", text)) and int(re.search(r"(\d+)条来源", text).group(1)) >= 1533)
             check("continuous history rendered", page.locator("#main .process-body").count() > 0)
             check("nonempty 82-process reader", page.locator("button.process-tab").count() >= 82)
 
