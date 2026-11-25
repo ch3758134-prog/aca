@@ -4,7 +4,7 @@
 
 ## 1. 1914年：ISDV不是已有的印尼工人群众党
 
-J. E. Fairhurst发表于 *Modern Asian Studies* 的论文《Translating and Transliterating Marxism in Indonesia》（全文：https://www.cambridge.org/core/journals/modern-asian-studies/article/translating-and-transliterating-marxism-in-indonesia/8C92D9F2AAC5AE1097BAAC3C5E6FABAC）指出，1914年泗水的ISDV初期约60人，绝大多数是荷兰人；斯内夫利特为首任主席，活跃于VSTP铁路电车职工协会，1915年10月与副手Asser Baars发起荷兰文期刊 *Het Vrije Woord*。这里的约60人是后出学术研究的组织人数，不是已取得的一份1914年逐人完整名册。
+Oliver Crawford发表于 *Modern Asian Studies* 的论文《Translating and Transliterating Marxism in Indonesia》（全文：https://www.cambridge.org/core/journals/modern-asian-studies/article/translating-and-transliterating-marxism-in-indonesia/8C92D9F2AAC5AE1097BAAC3C5E6FABAC）指出，1914年泗水的ISDV初期约60人，绝大多数是荷兰人；斯内夫利特为首任主席，活跃于VSTP铁路电车职工协会，1915年10月与副手Asser Baars发起荷兰文期刊 *Het Vrije Woord*。这里的约60人是后出学术研究的组织人数，不是已取得的一份1914年逐人完整名册。
 
 斯内夫利特通过铁路劳动关系接触塞马温，通过三宝垄SI地方网络扩大政治交往；穆索、阿里敏及达尔索诺的受教育经历、加入路径不同。研究须区分 ISDV 政治成员、VSTP 的产业工会会员、SI 的地方干部，以及报刊编辑、学校教师等实际岗位。即使同一人出现于数个机构，也不构成机构之间的法律隶属关系。
 
