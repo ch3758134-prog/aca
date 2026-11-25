@@ -11,7 +11,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 PAGE = HERE / "standalone.html"
 FILES = (
-    "people-extra2.js", "organizations-extra2.js", "roles-extra.js",
+    "coverage.js", "people-extra2.js", "organizations-extra2.js", "roles-extra.js",
     "relations-extra.js", "processes-01.js", "processes-02.js",
     "processes-03.js", "processes-04.js", "events-extra.js",
 )
