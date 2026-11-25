@@ -1,0 +1,51 @@
+name: Indonesia V2 integrity and complete offline edition
+
+on:
+  push:
+    branches:
+      - research/encyclopedia-v2-rebuild-20261124
+    paths:
+      - .github/workflows/encyclopedia-v2-build.yml
+      - research/indonesia-1965/briefs/readable-history/encyclopedia-v2/**
+      - research/indonesia-1965/archive/records/claim-ledger.csv
+      - research/indonesia-1965/archive/records/source-register.csv
+      - research/indonesia-1965/archive/records/coverage-matrix.csv
+
+permissions:
+  contents: write
+
+concurrency:
+  group: indonesia-encyclopedia-v2-full
+  cancel-in-progress: false
+
+jobs:
+  build-and-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Verify generated evidence and entity graph
+        run: python3 research/indonesia-1965/briefs/readable-history/encyclopedia-v2/validate_v2.py
+      - name: Build exact full single-file edition
+        run: |
+          python3 research/indonesia-1965/briefs/readable-history/encyclopedia-v2/build_standalone.py
+          python3 research/indonesia-1965/briefs/readable-history/encyclopedia-v2/build_standalone.py --check
+      - name: Verify JavaScript syntax
+        run: |
+          node --check research/indonesia-1965/briefs/readable-history/encyclopedia-v2/app.js
+          for f in research/indonesia-1965/briefs/readable-history/encyclopedia-v2/data/*.js; do node --check "$f"; done
+      - name: Commit reproducible full edition (branch only)
+        shell: bash
+        run: |
+          set -euo pipefail
+          p="research/indonesia-1965/briefs/readable-history/encyclopedia-v2/standalone-full.html"
+          if [[ -n "$(git status --porcelain -- "$p")" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -- "$p"
+            git commit -m "build(indonesia): refresh complete V2 offline encyclopedia"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          else
+            echo "Full HTML is already current"
+          fi
