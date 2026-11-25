@@ -62,6 +62,14 @@ def main():
             page.set_viewport_size({"width": 390, "height": 844})
             page.locator("nav.menu button[data-view='events']").click()
             check("mobile narrow viewport still shows content", page.locator("#main").is_visible())
+            check("mobile has no page-level horizontal overflow", page.evaluate("document.documentElement.scrollWidth <= window.innerWidth + 2"))
+            page.goto(FULL.as_uri()+"#read/pr-037b", wait_until="load")
+            check("1996 PRD process has authoritative C2933 citation", "C2933" in page.locator("#main").inner_text())
+            page.goto(FULL.as_uri()+"#events/event-1996-prd-crackdown", wait_until="load")
+            check("1996 PRD event opens after data sync", "1996" in page.locator("#main").inner_text())
+            page.goto(FULL.as_uri()+"#sources/S1542", wait_until="load")
+            check("new contemporaneous primary reporting linked", "Human Rights Watch" in page.locator("#main").inner_text())
+
             check("no unhandled JavaScript errors", not errors)
         finally:
             browser.close()
