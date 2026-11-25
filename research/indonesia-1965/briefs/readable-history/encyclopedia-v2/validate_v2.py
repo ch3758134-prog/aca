@@ -70,7 +70,7 @@ def validate() -> tuple[dict, dict]:
         "claims-01.js", "claims-02.js", "claims-03.js",
         "sources.js", "coverage.js", "people.js",
         "people-extra.js", "people-extra2.js",
-        "events.js", "organizations.js", "organizations-extra.js",
+        "events.js", "events-extra.js", "organizations.js", "organizations-extra.js",
         "organizations-extra2.js", "roles.js", "roles-extra.js",
         "relations.js", "relations-extra.js",
         "processes-01.js", "processes-02.js",
@@ -89,6 +89,14 @@ def validate() -> tuple[dict, dict]:
         for sid in r.get("source_ids", []):
             if sid not in ids["sources"]:
                 errors.append(f"{r['id']} cites missing source {sid}")
+    for event in data["events"]:
+        if event.get("process_id") and event["process_id"] not in ids["processes"]:
+            errors.append(f"Event {event['id']} orphan process {event['process_id']}")
+        for k, target in (("people", "people"), ("orgs", "organizations"),
+                          ("claims", "claims")):
+            for ref in event.get(k, []):
+                if ref not in ids[target]:
+                    errors.append(f"Event {event['id']} orphan {k}: {ref}")
     for r in data["roles"]:
         if r.get("organization") not in ids["organizations"]:
             errors.append(f"Orphan role organization {r.get('organization')}")
