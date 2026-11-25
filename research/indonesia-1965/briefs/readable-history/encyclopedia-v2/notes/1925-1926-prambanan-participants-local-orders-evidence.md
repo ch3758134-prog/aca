@@ -89,3 +89,18 @@ Silungkang小商人Sulaiman Labai被后出研究记为1914年地方SI分会创�
 5. 交替回到1945—1965的SOBSI/BTI/Gerwani与1965后地方暴力，避免让本项目被某一地区和年代永久占用。
 
 **ONGOING。这里是原件可查的研究档案，不等于已完成逐页视觉核像、独立证史或作者政治判断。**
+
+## 九、2026-11-24第二十三轮｜1926-06-28巴东班让地震与Kahin的“火山喷发”冲突
+
+**发现需要纠错的后出权威论文文本**：Kahin在1996年《Indonesia》62第34页的结论说1926年6月巴东班让大部被“Mt. Merapi”的重大喷发摧毁（`major eruption of Mt. Merapi in June 1926`）。但这处灾情同印尼国家减灾管理机构BNPB保存的1926年6月29—30日同时期报纸文献不符：当地灾害是**1926年6月28日破坏性地震**，影响Padang Panjang、Solok、Singkarak等地；BNPB刊载的比较地质研究指向苏门答腊活动断层的构造地震。这里不能因为Kahin的专业声誉就将“火山喷发”改造成已知地质事实；也不要声称她全部地方政治史因此无效。**准确做法是每个事实分层核对，保留论文与其他材料之间的具体冲突。**
+
+1926-06-29《De Maasbode》及1926-06-30《Nieuwe Haarlemsche Courant》经BNPB 2023年的国家灾害档案网页转录，记载地震后的车站、学校、邮局、道路、电报线、医院受损，以及一名未具名华人冒险去巴东报告灾情、救援者次日试图到达等现场行动。此处是**官方档案门户保存的报刊译述/转录**，不是研究者亲自逐页读取原纸图像。实际交通与电信损毁可能限制地区人员往来，但不能在没有PKI地方机关信件时说Arif Fadlillah、Tan Malaka或Sutan Said Ali具体因地震选择某路线。
+
+独立来源：
+- 1926-06-30荷兰报纸BNPB藏品编号`099.P.042023.00031.Y`：https://sejarah.dibi.bnpb.go.id/koleksi-sejarah-bencana/kliping-koran/172
+- 1926-06-29《De Maasbode》BNPB编号`099.P.042023.00028.Y`：https://sejarah.dibi.bnpb.go.id/koleksi-sejarah-bencana/kliping-koran/169
+- BNPB同期报纸分析：https://sejarah.dibi.bnpb.go.id/artikel/gempa-padang-panjang-28-juni-1926-dalam-surat-kabar-kolonial/65
+- BNPB收录地质比较研究：https://sejarah.dibi.bnpb.go.id/publikasi-ilmiah/Fenomena-Gempabumi-Merusak-Padang-Panjang-1926-dan-2007-sebagai-Panduan-Mitigasi-Risiko-Gempabumi-di-Masa-Kini-dan-di-Masa-yang-Akan-Datang/8
+- Kahin后出论文结论：https://ecommons.cornell.edu/server/api/core/bitstreams/82df2449-7ab5-4cbb-b5a5-0ded2207169b/content
+
+**实施：** V2新增`pr-012e`，有确切时间、物质破坏、人际信息渠道和来源冲突；仍无具体政治人员灾后通信可验证，故故意不新增这些人的灾后参与“角色”或C/S编号。正式C/S库未改。需继续查1926-06-28前后学校学籍、受灾统计、地方支部通信、邮政停运和恢复的同期文书；**尽量避免用火山名称或震级争议覆盖地震实证的首要判断**。
