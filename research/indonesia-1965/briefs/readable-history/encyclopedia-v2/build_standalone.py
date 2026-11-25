@@ -47,7 +47,7 @@ def build() -> tuple[str, int]:
         path = (HERE / rel).resolve()
         if not path.is_relative_to(HERE.resolve()) or not path.is_file():
             raise ValueError(f"Missing or nonlocal script: {rel}")
-        data = path.read_text(encoding="utf-8")
+        data = path.read_text(encoding="utf-8").rstrip("\n")
         count += 1
         return "<script>\n" + safe_js_inline(data) + "\n</script>"
 
