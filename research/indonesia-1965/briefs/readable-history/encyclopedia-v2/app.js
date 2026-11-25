@@ -36,10 +36,11 @@ function processItem(x,idx){
   var persons=(x.people||[]).map(function(id){var p=db.people.find(function(z){return z.id===id});return p?button(p.title.split(/[（(]/)[0],"people",id):tag(id,"warn")}).join("　");
   var orgs=(x.orgs||[]).map(function(id){var o=omap.get(id);return o?button(o.name,"organizations",id):tag(id,"warn")}).join("　");
   var refs=(x.claims||[]).map(function(id){return '<button class="linkbtn" data-go="chrono" data-id="'+E(id)+'">'+E(id)+'</button>'}).join(" &nbsp; ");
+  var ext=(x.evidence_urls||[]).filter(function(z){return z&&safe(z.url)}).map(function(z){return '<a href="'+E(z.url)+'" target="_blank" rel="noopener noreferrer">'+E(z.label||"已定位的外部史料")+'</a>'}).join('；');
   return '<article class="panel process" id="'+E(x.id)+'"><div class="kicker">历史过程 '+String(idx+1).padStart(2,"0")+'　'+E(x.period)+'</div><h3 class="process-title">'+E(x.title)+'</h3><div class="reader"><p>'+E(x.body)+'</p></div>'+
   '<div class="process-related"><div><b>涉及的历史组织：</b> '+(orgs||'<span class="micro">本段不预设某组织为唯一主体</span>')+'</div>'+
   '<div><b>可继续调查的人物：</b> '+(persons||'<span class="micro">具体参与人尚未逐名整理</span>')+'</div>'+
-  '<div><b>研究事实：</b> '+(refs||tag("该段尚未挂接单项事实编号","warn"))+'</div></div>'+
+  '<div><b>研究事实：</b> '+(refs||tag("该段尚未挂接单项事实编号","warn"))+'</div>'+(ext?'<div><b>可核查史料：</b>'+ext+'</div>':'')+'</div>'+
   (x.note?'<div class="process-limit"><b>证据边界：</b>'+E(x.note)+'</div>':'')+'</article>'
 }
 function renderProcesses(){
