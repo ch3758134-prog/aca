@@ -35,7 +35,7 @@ def main():
             check("continuous history rendered", page.locator("#main .process-body").count() > 0)
             check("nonempty 82-process reader", page.locator("button.process-tab").count() >= 82)
 
-            page.locator("nav .menu button[data-view='people']").click()
+            page.locator("nav.menu button[data-view='people']").click()
             check("people section opens", page.locator("#main").inner_text().count("人物") > 0)
             page.locator("#q").fill("塞马温")
             page.locator("#q").press("Enter")
@@ -50,13 +50,13 @@ def main():
             page.goto(FULL.as_uri()+"#sources/S913", wait_until="load")
             check("source lookup in full edition", "Ingleson" in page.locator("#main").inner_text())
 
-            page.locator("nav .menu button[data-view='chrono']").click()
+            page.locator("nav.menu button[data-view='chrono']").click()
             page.locator("#from").fill("1965")
             page.locator("#from").press("Tab")
             check("year-filtered claims render", page.locator("#main .fact").count() > 0)
 
             page.set_viewport_size({"width": 390, "height": 844})
-            page.locator("nav .menu button[data-view='events']").click()
+            page.locator("nav.menu button[data-view='events']").click()
             check("mobile narrow viewport still shows content", page.locator("#main").is_visible())
             check("no unhandled JavaScript errors", not errors)
         finally:
