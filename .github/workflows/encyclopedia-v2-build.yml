@@ -35,6 +35,10 @@ jobs:
         run: |
           node --check research/indonesia-1965/briefs/readable-history/encyclopedia-v2/app.js
           for f in research/indonesia-1965/briefs/readable-history/encyclopedia-v2/data/*.js; do node --check "$f"; done
+      - name: Run Chromium offline smoke
+        run: |
+          python3 -m pip install --quiet playwright==1.56.0
+          python3 research/indonesia-1965/briefs/readable-history/encyclopedia-v2/browser_smoke.py
       - name: Commit reproducible full edition (branch only)
         shell: bash
         run: |
