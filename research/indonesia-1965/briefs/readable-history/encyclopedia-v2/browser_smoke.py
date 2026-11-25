@@ -49,6 +49,10 @@ def main():
             check("standalone event linked", "1923年" in page.locator("#main").inner_text())
             page.goto(FULL.as_uri()+"#sources/S913", wait_until="load")
             check("source lookup in full edition", "Ingleson" in page.locator("#main").inner_text())
+            page.goto(FULL.as_uri()+"#sources/S028", wait_until="load")
+            shared = page.locator("#main").inner_text()
+            check("same-document registry cards identified", "共享来源网址" in shared and "S135" in shared and "S1360" in shared)
+
 
             page.locator("nav.menu button[data-view='chrono']").click()
             page.locator("#from").fill("1965")

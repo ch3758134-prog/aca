@@ -192,6 +192,19 @@ if __name__ == "__main__":
         full_counts, offline_counts = {}, {}
     print("Canonical / multi-file:", json.dumps(full_counts, ensure_ascii=False))
     print("Portable:", json.dumps(offline_counts, ensure_ascii=False))
+    from urllib.parse import urlparse
+    shared_urls = {}
+    try:
+        src_files = merge("sources.js").get("sources", [])
+        for record in src_files:
+            url = (record.get("url") or "").strip().lower().rstrip("/")
+            if url:
+                shared_urls.setdefault(url, set()).add(record["id"])
+        multiple = [v for v in shared_urls.values() if len(v) > 1]
+        print("Shared-link source registry:", len(multiple), "URL groups /",
+              sum(len(v) for v in multiple), "cards; independent-document count NOT inferred")
+    except (KeyError, ValueError) as exc:
+        errors.append("Shared-link audit failed: " + str(exc))
     print("Unresolved evidence/identity warnings:", len(warnings))
     for message in warnings[:15]:
         print("WARN:", message)
