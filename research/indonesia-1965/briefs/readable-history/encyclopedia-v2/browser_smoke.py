@@ -70,6 +70,12 @@ def main():
             page.goto(FULL.as_uri()+"#sources/S1542", wait_until="load")
             check("new contemporaneous primary reporting linked", "Human Rights Watch" in page.locator("#main").inner_text())
 
+            page.goto(FULL.as_uri()+"#people/person-den-hollander-vstp-1913", wait_until="load")
+            check("earlier curated person is retained", "Hollander" in page.locator("#main h2").inner_text())
+            page.goto(FULL.as_uri()+"#read/pr-033f", wait_until="load")
+            check("West Kalimantan relief history opens", "C2990" in page.locator("#main").inner_text())
+            page.goto(FULL.as_uri()+"#events/event-1968-westkal-refugee-committee", wait_until="load")
+            check("West Kalimantan independent event opens", "难民" in page.locator("#main").inner_text())
             check("no unhandled JavaScript errors", not errors)
         finally:
             browser.close()
